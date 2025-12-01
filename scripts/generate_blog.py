@@ -55,6 +55,7 @@ def make_post(title, body_html):
     html.append('<meta name="viewport" content="width=device-width, initial-scale=1">')
     html.append('<link rel="canonical" href="/blog/posts/'+slug+'.html">')
     html.append('<link rel="preload" href="/assets/css/styles.css" as="style" onload="this.rel=\'stylesheet\'">')
+    html.append('<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7510164795562884" crossorigin="anonymous"></script>')
     html.append('<script src="/assets/js/main.js" defer></script>')
     html.append('</head>')
     html.append('<body data-title="'+meta_title+'" data-meta="'+meta_desc+'">')
