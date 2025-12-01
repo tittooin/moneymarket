@@ -22,6 +22,8 @@ jobs:
 
       - name: Refresh news data
         run: python scripts/fetch_news.py
+      - name: Generate original news articles
+        run: python scripts/generate_original_news.py
       - name: Generate sitemap
         env:
           SITE_BASE_URL: https://moneymarket.blog/
@@ -31,8 +33,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          if [ -n "$(git status --porcelain assets/data/news.json sitemap.xml)" ]; then
-            git add assets/data/news.json sitemap.xml
+          if [ -n "$(git status --porcelain assets/data/news.json sitemap.xml news/originals)" ]; then
+            git add assets/data/news.json sitemap.xml news/originals
             git commit -m "chore: auto-refresh assets/data/news.json"
             git push
           else
