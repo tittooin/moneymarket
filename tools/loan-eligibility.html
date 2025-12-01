@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="/assets/css/styles.css"><link rel="canonical" href="/tools/loan-eligibility.html">
+</head>
+<body data-title="Loan Eligibility Calculator India" data-meta="Estimate maximum loan eligibility based on income, obligations, rate and tenure using FOIR.">
+<header id="header"></header>
+<main class="container layout">
+<div>
+<section class="section" id="eligibility-calculator">
+<h1>Loan Eligibility Calculator</h1>
+<form class="card">
+<label for="monthlyIncome">Monthly Income (₹)</label>
+<input id="monthlyIncome" type="number" placeholder="80000" min="0" step="100">
+<label for="monthlyObligations">Monthly Obligations (₹)</label>
+<input id="monthlyObligations" type="number" placeholder="10000" min="0" step="100">
+<label for="annualRate2">Annual Interest Rate (%)</label>
+<input id="annualRate2" type="number" placeholder="10" min="0" step="0.01">
+<label for="tenureYears">Tenure (years)</label>
+<input id="tenureYears" type="number" placeholder="5" min="1" step="1">
+<label for="foir">FOIR (%)</label>
+<input id="foir" type="number" placeholder="40" min="10" max="80" step="1" value="40">
+<div class="cta-row"><button id="calcBtn2">Calculate</button><button id="resetBtn2" class="ghost">Reset</button></div>
+</form>
+<div id="eligibilityResult" class="section"></div>
+<div class="card section"><h2>What is FOIR</h2><p>FOIR is the proportion of income available for loan EMI after obligations, typically 40%–50% of net monthly income in India.</p></div>
+</section>
+<div class="in-article-ad ad">In-Article Ad Placement</div>
+</div>
+<aside><div class="sidebar-ad ad">Sidebar Ad Placement</div></aside>
+</main>
+<footer id="footer"></footer>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"SoftwareApplication","name":"Loan Eligibility Calculator","applicationCategory":"FinanceApplication","operatingSystem":"Web","url":"/tools/loan-eligibility.html"}
+</script>
+<script src="/assets/js/main.js" defer></script>
+<script src="/assets/js/calculators.js" defer></script>
+</body>
+</html>

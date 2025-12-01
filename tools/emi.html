@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="/assets/css/styles.css"><link rel="canonical" href="/tools/emi.html">
+</head>
+<body data-title="EMI Calculator India" data-meta="Calculate loan EMI in India with amortization schedule. Get monthly EMI, interest, and total payment fast.">
+<header id="header"></header>
+<main class="container layout">
+<div>
+<section class="section" id="emi-calculator">
+<h1>EMI Calculator</h1>
+<form class="card">
+<label for="loanAmount">Loan Amount (₹)</label>
+<input id="loanAmount" type="number" placeholder="1000000" min="0" step="1000">
+<label for="annualRate">Annual Interest Rate (%)</label>
+<input id="annualRate" type="number" placeholder="10" min="0" step="0.01">
+<label for="tenureMonths">Tenure (months)</label>
+<input id="tenureMonths" type="number" placeholder="60" min="1" step="1">
+<div class="cta-row"><button id="calcBtn">Calculate</button><button id="resetBtn" class="ghost">Reset</button></div>
+</form>
+<div id="emiResult" class="section"></div>
+<div class="card section">
+<h2>Amortization Schedule</h2>
+<table class="table">
+<thead><tr><th>Month</th><th>Opening</th><th>Interest</th><th>Principal</th><th>Closing</th></tr></thead>
+<tbody id="scheduleBody"></tbody>
+ </table>
+</div>
+<div class="card section"><h2>How EMI is calculated</h2><p>EMI equals principal multiplied by monthly rate times (1 + rate)^n divided by ((1 + rate)^n − 1), where rate is annual rate/12/100 and n is total months.</p></div>
+</section>
+<div class="in-article-ad ad">In-Article Ad Placement</div>
+</div>
+<aside><div class="sidebar-ad ad">Sidebar Ad Placement</div></aside>
+</main>
+<footer id="footer"></footer>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"SoftwareApplication","name":"EMI Calculator","applicationCategory":"FinanceApplication","operatingSystem":"Web","url":"/tools/emi.html"}
+</script>
+<script src="/assets/js/main.js" defer></script>
+<script src="/assets/js/calculators.js" defer></script>
+</body>
+</html>

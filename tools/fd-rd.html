@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="/assets/css/styles.css"><link rel="canonical" href="/tools/fd-rd.html">
+</head>
+<body data-title="FD RD Calculator India" data-meta="Calculate Fixed Deposit maturity and Recurring Deposit maturity with monthly compounding.">
+<header id="header"></header>
+<main class="container layout">
+<div>
+<section class="section" id="fd-rd-calculator">
+<h1>FD / RD Calculator</h1>
+<form class="card">
+<label for="calcType">Type</label>
+<select id="calcType"><option value="fd">Fixed Deposit (FD)</option><option value="rd">Recurring Deposit (RD)</option></select>
+<div id="fdFields">
+<label for="fdPrincipal">FD Principal (₹)</label>
+<input id="fdPrincipal" type="number" placeholder="100000" min="0" step="1000">
+<label for="fdRate">Annual Interest Rate (%)</label>
+<input id="fdRate" type="number" placeholder="7" min="0" step="0.01">
+<label for="fdYears">Tenure (years)</label>
+<input id="fdYears" type="number" placeholder="5" min="1" step="1">
+ </div>
+<div id="rdFields" style="margin-top:1rem">
+<label for="rdInstallment">Monthly RD Deposit (₹)</label>
+<input id="rdInstallment" type="number" placeholder="5000" min="0" step="100">
+<label for="rdRate">Annual Interest Rate (%)</label>
+<input id="rdRate" type="number" placeholder="6.5" min="0" step="0.01">
+<label for="rdYears">Tenure (years)</label>
+<input id="rdYears" type="number" placeholder="5" min="1" step="1">
+ </div>
+<div class="cta-row"><button id="calcBtn6">Calculate</button><button id="resetBtn6" class="ghost">Reset</button></div>
+</form>
+<div id="fdRdResult" class="section"></div>
+<div class="card section"><h2>Notes</h2><p>Calculations assume monthly compounding. Bank methods may vary for RD compounding convention.</p></div>
+</section>
+<div class="in-article-ad ad">In-Article Ad Placement</div>
+</div>
+<aside><div class="sidebar-ad ad">Sidebar Ad Placement</div></aside>
+</main>
+<footer id="footer"></footer>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"SoftwareApplication","name":"FD RD Calculator","applicationCategory":"FinanceApplication","operatingSystem":"Web","url":"/tools/fd-rd.html"}
+</script>
+<script src="/assets/js/main.js" defer></script>
+<script>
+document.addEventListener('DOMContentLoaded',function(){var t=document.getElementById('calcType');var fd=document.getElementById('fdFields');var rd=document.getElementById('rdFields');function toggle(){if(t.value==='fd'){fd.style.display='block';rd.style.display='none'}else{fd.style.display='none';rd.style.display='block'}}toggle();t.addEventListener('change',toggle)});
+</script>
+<script src="/assets/js/calculators.js" defer></script>
+</body>
+</html>

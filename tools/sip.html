@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="/assets/css/styles.css"><link rel="canonical" href="/tools/sip.html">
+</head>
+<body data-title="SIP Calculator India" data-meta="Calculate SIP maturity with monthly contributions and expected returns. See corpus, invested amount and gains.">
+<header id="header"></header>
+<main class="container layout">
+<div>
+<section class="section" id="sip-calculator">
+<h1>SIP Calculator</h1>
+<form class="card">
+<label for="sipAmount">Monthly SIP (₹)</label>
+<input id="sipAmount" type="number" placeholder="5000" min="0" step="100">
+<label for="sipRate">Expected Annual Return (%)</label>
+<input id="sipRate" type="number" placeholder="12" min="0" step="0.01">
+<label for="sipYears">Tenure (years)</label>
+<input id="sipYears" type="number" placeholder="10" min="1" step="1">
+<div class="cta-row"><button id="calcBtn3">Calculate</button><button id="resetBtn3" class="ghost">Reset</button></div>
+</form>
+<div id="sipResult" class="section"></div>
+<div class="card section"><h2>SIP basics</h2><p>SIP invests a fixed amount monthly. Returns compound as markets grow. This tool assumes monthly compounding.</p></div>
+</section>
+<div class="in-article-ad ad">In-Article Ad Placement</div>
+</div>
+<aside><div class="sidebar-ad ad">Sidebar Ad Placement</div></aside>
+</main>
+<footer id="footer"></footer>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"SoftwareApplication","name":"SIP Calculator","applicationCategory":"FinanceApplication","operatingSystem":"Web","url":"/tools/sip.html"}
+</script>
+<script src="/assets/js/main.js" defer></script>
+<script src="/assets/js/calculators.js" defer></script>
+</body>
+</html>

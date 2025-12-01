@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="/assets/css/styles.css"><link rel="canonical" href="/tools/income-tax.html">
+</head>
+<body data-title="Income Tax Calculator India" data-meta="Estimate income tax under new or old regime with deductions. Includes cess calculation.">
+<header id="header"></header>
+<main class="container layout">
+<div>
+<section class="section" id="tax-calculator">
+<h1>Income Tax Calculator</h1>
+<form class="card">
+<label for="annualIncome">Annual Income (₹)</label>
+<input id="annualIncome" type="number" placeholder="1200000" min="0" step="1000">
+<label for="deductions">Deductions (₹)</label>
+<input id="deductions" type="number" placeholder="150000" min="0" step="1000">
+<label for="regime">Regime</label>
+<select id="regime"><option value="new">New Regime</option><option value="old">Old Regime</option></select>
+<div class="cta-row"><button id="calcBtn4">Calculate</button><button id="resetBtn4" class="ghost">Reset</button></div>
+</form>
+<div id="taxResult" class="section"></div>
+<div class="card section"><h2>About regimes</h2><p>New regime has lower rates and limited deductions. Old regime allows deductions with higher slabs. This tool provides approximate guidance.</p></div>
+</section>
+<div class="in-article-ad ad">In-Article Ad Placement</div>
+</div>
+<aside><div class="sidebar-ad ad">Sidebar Ad Placement</div></aside>
+</main>
+<footer id="footer"></footer>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"SoftwareApplication","name":"Income Tax Calculator","applicationCategory":"FinanceApplication","operatingSystem":"Web","url":"/tools/income-tax.html"}
+</script>
+<script src="/assets/js/main.js" defer></script>
+<script src="/assets/js/calculators.js" defer></script>
+</body>
+</html>
