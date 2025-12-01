@@ -10,7 +10,7 @@ def slugify(text):
     text = re.sub(r'\s+', '-', text.strip())
     return text.lower()
 
-def news_highlights(limit=10):
+def news_highlights(limit=5):
     try:
         with open(os.path.join('assets','data','news.json'),'r',encoding='utf-8') as f:
             data = json.load(f)
@@ -124,6 +124,32 @@ def content_sip():
     base.append(section('Examples', ['Worked examples across horizons: child education, home purchase, retirement.']*6))
     return ''.join(base)
 
+def content_psu_banks():
+    base = []
+    base.append(section('PSU Banks Overview', ['Balance sheet strength, NPA trends, credit growth and capital adequacy underpin performance.']))
+    base.append(section('Earnings Drivers', ['Loan mix, yield compression, cost of funds, fee income and provisioning cycles.']*6))
+    base.append(section('Valuation And Flows', ['Multiples vs history and peers, domestic/institutional flows and government catalysts.']*6))
+    base.append(section('Risk And Governance', ['Asset quality, interest rate sensitivity, governance, and regulatory developments.']*6))
+    base.append(section('Implementation', ['Entry frameworks, risk budgeting, position sizing and exit disciplines.']*6))
+    return ''.join(base)
+
+def content_auto_monthly_dispatch():
+    base = []
+    base.append(section('Auto Monthly Dispatch Overview', ['OEM volumes, segment mix, exports and inventory trends inform near-term momentum.']))
+    base.append(section('Pricing And Input Costs', ['Commodity baskets, discounts, model cycles and supply chain dynamics.']*6))
+    base.append(section('Channels And Financing', ['Dealer health, retail registrations, financing availability and rate impacts.']*6))
+    base.append(section('Valuation And Triggers', ['Order books, launches, margins and regulatory changes affecting volumes.']*6))
+    base.append(section('Implementation', ['Data tracking routines, thesis validation KPIs and timing entries/exits.']*6))
+    return ''.join(base)
+
+def content_tax_breakouts():
+    base = []
+    base.append(section('Latest Tax Rule Breakouts', ['Recent notifications across income tax, GST, TDS/TCS and compliance windows.']*6))
+    base.append(section('What Changed', ['Scope, thresholds, rates and documentation implications for individuals and businesses.']*6))
+    base.append(section('How To Implement', ['Checklist-driven steps, examples and formula applications to remain compliant and efficient.']*6))
+    base.append(section('FAQs', ['Clarifications on common edge cases encountered in filings and reconciliations.']*6))
+    return ''.join(base)
+
 def update_blog_index(slug, title):
     index_path = os.path.join('blog','index.html')
     try:
@@ -157,7 +183,7 @@ def main():
     date_str = now.strftime('%Y-%m-%d')
     t1 = 'Daily Finance Roundup '+date_str
     sectors = ['Autos','Banks','PSU','IT','Pharma','Energy']
-    rot = ['Sector', 'Tax', 'SIP']
+    rot = ['Sector', 'Tax', 'SIP', 'PSU', 'AutosDispatch', 'TaxBreakouts']
     sel = rot[now.timetuple().tm_yday % len(rot)]
     if sel == 'Sector':
         sector = sectors[now.timetuple().tm_yday % len(sectors)]
@@ -168,9 +194,21 @@ def main():
         t2 = 'Tax Changes And Planning '+date_str
         body2 = content_tax()
         body2 = fill_words(body2, 5200)
-    else:
+    elif sel == 'SIP':
         t2 = 'SIP Strategies And Portfolio Design '+date_str
         body2 = content_sip()
+        body2 = fill_words(body2, 5200)
+    elif sel == 'PSU':
+        t2 = 'PSU Bank Updates '+date_str
+        body2 = content_psu_banks()
+        body2 = fill_words(body2, 5200)
+    elif sel == 'AutosDispatch':
+        t2 = 'Auto Monthly Dispatches '+date_str
+        body2 = content_auto_monthly_dispatch()
+        body2 = fill_words(body2, 5200)
+    else:
+        t2 = 'Tax Rule Breakouts '+date_str
+        body2 = content_tax_breakouts()
         body2 = fill_words(body2, 5200)
     body1 = content_roundup()
     body1 = fill_words(body1, 5200)
