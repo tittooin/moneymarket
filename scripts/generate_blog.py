@@ -1,6 +1,7 @@
 import os
 import datetime as dt
 import re
+import json
 
 POSTS_DIR = os.path.join('blog','posts')
 
@@ -9,13 +10,43 @@ def slugify(text):
     text = re.sub(r'\s+', '-', text.strip())
     return text.lower()
 
+def news_highlights(limit=10):
+    try:
+        with open(os.path.join('assets','data','news.json'),'r',encoding='utf-8') as f:
+            data = json.load(f)
+    except Exception:
+        return ''
+    items = data.get('items') or []
+    html = '<h2>Daily Highlights</h2>'
+    count = 0
+    for it in items:
+        if count >= limit:
+            break
+        title = it.get('title') or ''
+        link = it.get('link') or ''
+        src = it.get('source') or ''
+        date = it.get('pubDate') or ''
+        img = it.get('image') or ''
+        card = '<div class="card">'
+        if img:
+            card += '<img class="thumb" src="'+img+'" alt="'+title+'">'
+        card += '<a href="'+link+'" rel="nofollow noopener" target="_blank">'+title+'</a>'
+        meta = (src+' • '+date).strip()
+        card += '<p>'+meta+'</p>'
+        card += '</div>'
+        html += card
+        count += 1
+    return html
+
 def make_post(title, body_html):
     date = dt.date.today().isoformat()
     slug = slugify(title) + '-' + dt.datetime.now().strftime('%H%M')
     path = os.path.join(POSTS_DIR, slug+'.html')
     os.makedirs(POSTS_DIR, exist_ok=True)
     meta_title = title
-    meta_desc = (body_html[:240]).replace('\n',' ').replace('<','').replace('>','')
+    text = re.sub(r'<[^>]+>', ' ', body_html)
+    text = ' '.join(text.split())
+    meta_desc = text[:240]
     html = []
     html.append('<!doctype html>')
     html.append('<html lang="en">')
@@ -31,6 +62,7 @@ def make_post(title, body_html):
     html.append('<main class="container">')
     html.append('<section class="section">')
     html.append('<h1>'+title+'</h1>')
+    html.append(news_highlights())
     html.append(body_html)
     html.append('</section>')
     html.append('<div class="in-article-ad ad"></div>')
@@ -48,33 +80,49 @@ def section(title, paragraphs):
         s += '<p>'+p+'</p>'
     return s
 
-def long_content(topic, words=5200):
-    base = []
-    intro = 'This daily analysis explores developments in Indian and global markets, interest rates, corporate earnings, taxation, banking and digital finance. It highlights actionable insights, risk factors, and implementation checklists to navigate investments and personal finance decisions.'
-    base.append(section('Overview', [intro]))
-    para = 'Policy updates and macro signals influence sector rotations across autos, banks, PSU, IT, pharma and energy. We examine liquidity, credit growth, and global cues from the US Fed, BoE and RBI, translating them into practical asset allocation strategies.'
-    base.append(section('Macro Signals', [para]*6))
-    para2 = 'Earnings revisions and margin trajectories determine leadership in midcaps vs largecaps. We break down balance sheets, cash flows, and valuations, mapping catalysts like capex, order books, pricing power, and regulatory changes to time entries and exits.'
-    base.append(section('Earnings And Valuations', [para2]*6))
-    para3 = 'Personal finance implementations cover tax-smart investing, emergency buffers, insurance adequacy, efficient loan repayment, and goal-based SIP ladders. We offer formulas, worked examples, and periodic review routines for disciplined compounding.'
-    base.append(section('Personal Finance Implementations', [para3]*6))
-    para4 = 'Crypto, digital payments, and fintech rails evolve rapidly. We assess on-chain signals, stablecoin flows, CBDC pilots, and compliance best-practices. We treat high-volatility assets with strict risk budgets and scenario testing.'
-    base.append(section('Digital Finance And Crypto', [para4]*6))
-    para5 = 'Actionable checklist: define objectives, quantify risk, set allocations, automate contributions, monitor drawdowns, rebalance on thresholds, and avoid leverage spirals. Log decisions and post-mortems to improve process quality over outcomes.'
-    base.append(section('Actionable Checklist', [para5]*6))
-    faq = [
-        ('Is this financial advice?', 'This is educational analysis. Consult a licensed advisor for personalized recommendations.'),
-        ('How do I size positions?', 'Use risk budgets, stop-losses, and diversification across uncorrelated assets. Focus on process, not predictions.'),
-        ('What is a good SIP routine?', 'Automate monthly contributions, align funds to goals, and review annually for rebalancing and tax-efficiency.'),
-    ]
-    faq_html = '<h2>FAQs</h2>'
-    for q,a in faq:
-        faq_html += '<h3>'+q+'</h3><p>'+a+'</p>'
-    base.append(faq_html)
-    body = ''.join(base)
+def fill_words(body, words):
     while len(body.split()) < words:
         body += section('Market Diary', ['Sector highlights, flows, and catalysts across equities, debt, commodities, and currencies.']*8)
     return body
+
+def content_roundup():
+    base = []
+    base.append(section('Overview', ['Daily analysis across markets, macro, earnings, and personal finance implementations for India.']))
+    base.append(section('Macro Signals', ['Policy shifts, liquidity and rates drive sector rotations across autos, banks, PSU, IT, pharma and energy.']*6))
+    base.append(section('Earnings And Valuations', ['Balance sheets, cash flows and order books shape leadership in midcaps vs largecaps.']*6))
+    base.append(section('Personal Finance Implementations', ['Tax-smart investing, buffers, insurance adequacy, efficient loan repayment, and SIP ladders.']*6))
+    base.append(section('Digital Finance And Crypto', ['On-chain signals, CBDC pilots, stablecoin flows and compliance best-practices.']*6))
+    base.append(section('Actionable Checklist', ['Define objectives, quantify risk, set allocations, automate, rebalance and review decisions.']*6))
+    faq_html = '<h2>FAQs</h2>'
+    faq_html += '<h3>Is this financial advice?</h3><p>This is educational analysis. Consult a licensed advisor for personalized recommendations.</p>'
+    faq_html += '<h3>What is a good SIP routine?</h3><p>Automate monthly contributions, align funds to goals, and review annually for rebalancing and tax-efficiency.</p>'
+    base.append(faq_html)
+    return ''.join(base)
+
+def content_sector(sector):
+    base = []
+    base.append(section('Sector Overview: '+sector, ['Drivers, competitive landscape, capital cycles and regulatory backdrop influencing performance.']))
+    base.append(section('Earnings And Margins', ['Order books, pricing power, input costs and capacity utilization determine earnings trajectories.']*6))
+    base.append(section('Valuation And Flows', ['Multiples relative to history and peers, domestic/institutional flows, and catalysts.']*6))
+    base.append(section('Risk And Scenarios', ['Regulatory shifts, funding stress, demand cyclicality, FX and policy outcomes.']*6))
+    base.append(section('Implementation', ['Entry/exit frameworks, position sizing, and tracking KPIs to validate theses.']*6))
+    return ''.join(base)
+
+def content_tax():
+    base = []
+    base.append(section('Policy Updates', ['Recent changes in income tax, GST, TDS/TCS and compliance timelines.']*6))
+    base.append(section('Planning', ['Optimize deductions, exemptions, HRA, 80C/80D/80G, and use tax-efficient instruments.']*6))
+    base.append(section('Compliance', ['Returns, advance tax, audit thresholds, invoicing and documentation routines.']*6))
+    base.append(section('Case Studies', ['Worked examples and formulas with salaried, business and investor profiles.']*6))
+    return ''.join(base)
+
+def content_sip():
+    base = []
+    base.append(section('SIP Basics', ['Compounding, rupee-cost averaging, and goal-aligned portfolios.']*6))
+    base.append(section('Portfolio Design', ['Equity/debt mix, factor exposures, and rebalancing thresholds.']*6))
+    base.append(section('Execution', ['Automate contributions, review annually, manage drawdowns and avoid leverage.']*6))
+    base.append(section('Examples', ['Worked examples across horizons: child education, home purchase, retirement.']*6))
+    return ''.join(base)
 
 def update_blog_index(slug, title):
     index_path = os.path.join('blog','index.html')
@@ -83,29 +131,51 @@ def update_blog_index(slug, title):
             html = f.read()
     except Exception:
         return
-    card = '<a class="card" href="/blog/posts/'+slug+'.html"><div>'+title+'</div></a>'
+    card = '<div class="card"><h3><a href="/blog/posts/'+slug+'.html">'+title+'</a></h3><p>New analysis and implementations.</p></div>'
     if card in html:
         return
-    parts = html.split('</section>')
-    if len(parts) < 2:
+    start = html.find('<section class="section">')
+    end = html.find('</section>', start+1)
+    if start == -1 or end == -1:
         return
-    head, tail = parts[0], '</section>'.join(parts[1:])
-    inject_at = head.find('<div class="grid"')
-    if inject_at == -1:
+    first = html[start:end]
+    grid_start = first.find('<div class="grid">')
+    if grid_start == -1:
         return
-    head_after = head[:inject_at] + head[inject_at:]
-    head_after = head_after.replace('</div></div>', card+'</div></div>', 1)
-    new_html = head_after + '</section>' + tail
+    grid_close = first.rfind('</div>')
+    if grid_close == -1:
+        return
+    before = html[:start]
+    inside = first[:grid_close] + card + first[grid_close:]
+    after = html[end:]
+    new_html = before + inside + after
     with open(index_path,'w',encoding='utf-8') as f:
         f.write(new_html)
 
 def main():
     now = dt.datetime.now()
-    t1 = 'Daily Finance Roundup '+now.strftime('%Y-%m-%d')
-    t2 = 'Policy And Markets Update '+now.strftime('%Y-%m-%d')
-    for t in [t1,t2]:
-        body = long_content(t, words=5200)
-        path = make_post(t, body)
+    date_str = now.strftime('%Y-%m-%d')
+    t1 = 'Daily Finance Roundup '+date_str
+    sectors = ['Autos','Banks','PSU','IT','Pharma','Energy']
+    rot = ['Sector', 'Tax', 'SIP']
+    sel = rot[now.timetuple().tm_yday % len(rot)]
+    if sel == 'Sector':
+        sector = sectors[now.timetuple().tm_yday % len(sectors)]
+        t2 = 'Sector Deep Dive: '+sector+' '+date_str
+        body2 = content_sector(sector)
+        body2 = fill_words(body2, 5200)
+    elif sel == 'Tax':
+        t2 = 'Tax Changes And Planning '+date_str
+        body2 = content_tax()
+        body2 = fill_words(body2, 5200)
+    else:
+        t2 = 'SIP Strategies And Portfolio Design '+date_str
+        body2 = content_sip()
+        body2 = fill_words(body2, 5200)
+    body1 = content_roundup()
+    body1 = fill_words(body1, 5200)
+    for t, b in [(t1, body1), (t2, body2)]:
+        path = make_post(t, b)
         slug = os.path.splitext(os.path.basename(path))[0]
         update_blog_index(slug, t)
     print('[OK] generated posts:', t1, '|', t2)
