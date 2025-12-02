@@ -2,7 +2,33 @@
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="stylesheet" href="/assets/css/styles.css"><link rel="canonical" href="/pages/contact.html"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7510164795562884" crossorigin="anonymous"></script></head>
 <body data-title="Contact" data-meta="Contact MoneyMarket India for partnerships and feedback.">
 <header id="header"></header>
-<main class="container"><section class="section"><h1>Contact</h1><p>Email: contact@example.com</p><p>For partnerships and affiliate enquiries, use the above email.</p></section></main>
+<main class="container">
+<section class="section">
+<h1>Contact</h1>
+<div class="layout">
+<div>
+<form id="contactForm" class="card" novalidate>
+<label for="name">Name</label>
+<input id="name" name="name" type="text" placeholder="Your name" required>
+<label for="email">Email</label>
+<input id="email" name="email" type="email" placeholder="you@example.com" required>
+<label for="subject">Subject</label>
+<input id="subject" name="subject" type="text" placeholder="How can we help?" required>
+<label for="message">Message</label>
+<textarea id="message" name="message" rows="6" placeholder="Write your message" required></textarea>
+<div class="cta-row"><button type="submit" id="sendBtn">Send</button><a class="ghost" href="mailto:contact@example.com">Email Directly</a></div>
+</form>
+<div id="contactStatus" class="section"></div>
+</div>
+<aside>
+<div class="card"><h3>Support</h3><p>Business days me reply karte hain. Partnerships, media, corrections aur general queries welcome hain.</p><p>Agar urgent ho to direct email karein: <a href="mailto:contact@example.com">contact@example.com</a></p></div>
+</aside>
+</div>
+</section>
+</main>
+<script>
+document.addEventListener('DOMContentLoaded',function(){var f=document.querySelector('#contactForm');var s=document.querySelector('#contactStatus');if(!f)return;f.addEventListener('submit',function(ev){ev.preventDefault();var n=document.querySelector('#name').value.trim();var e=document.querySelector('#email').value.trim();var sb=document.querySelector('#subject').value.trim();var m=document.querySelector('#message').value.trim();if(!n||!e||!m){s.innerHTML='<div class="card"><p>Please fill all required fields.</p></div>';return;}s.innerHTML='<div class="card"><p>Thanks, we received your message. We will reply soon.</p></div>';f.reset();});});
+</script>
 <footer id="footer"></footer>
 <script src="/assets/js/main.js" defer></script>
 </body></html>
