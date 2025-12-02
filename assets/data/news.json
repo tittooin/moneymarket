@@ -1,48 +1,174 @@
 {
-  "updated": "2025-12-02T11:12:58Z",
+  "updated": "2025-12-02T12:25:04Z",
   "items": [
     {
       "title": "Stock market today: Dow, S&P 500, Nasdaq slide as bitcoin tumbles to kick off December",
       "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-as-bitcoin-tumbles-to-kick-off-december-210035496.html",
       "source": "finance.yahoo.com",
       "pubDate": "2025-12-01T21:03:25Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/lvmtNDwzV7lcqAQNJZd0kA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/6f40c5f0-a863-11f0-b3eb-c74a2e7e85d5",
+      "image": "",
       "slug": "stock-market-today-dow-sp-500-nasdaq-slide-as-bitcoin-tumbles-to-kick-off-decemb-a85e5313",
       "orig_slug": "stock-market-today-dow-sp-500-nasdaq-slide-as-bitcoin-tumbles-to-kick-off-decemb-a85e5313"
+    },
+    {
+      "title": "Aledade announces credit facility of $500m to support growth",
+      "link": "https://finance.yahoo.com/news/aledade-announces-credit-facility-500m-121212783.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-02T12:12:12Z",
+      "image": "",
+      "slug": "aledade-announces-credit-facility-of-500m-to-support-growth-4d906c91",
+      "orig_slug": "aledade-announces-credit-facility-of-500m-to-support-growth-4d906c91"
+    },
+    {
+      "title": "Morning Bid: Bumpier December",
+      "link": "https://finance.yahoo.com/news/morning-bid-bumpier-december-120455451.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-02T12:04:55Z",
+      "image": "",
+      "slug": "morning-bid-bumpier-december-8cd146f3",
+      "orig_slug": "morning-bid-bumpier-december-8cd146f3"
+    },
+    {
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "link": "https://www.wsj.com/tech/tech-media-telecom-roundup-market-talk-3e512c96?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-02T11:54:00Z",
+      "image": "",
+      "slug": "tech-media-telecom-roundup-market-talk-4da35240",
+      "orig_slug": "tech-media-telecom-roundup-market-talk-4da35240"
+    },
+    {
+      "title": "Dollar Could Fall if U.S. Tariffs Are Ruled Illegal",
+      "link": "https://www.wsj.com/finance/currencies/bitcoin-retracement-brings-back-volatility-f05546de?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-02T11:53:00Z",
+      "image": "",
+      "slug": "dollar-could-fall-if-us-tariffs-are-ruled-illegal-5b4bf302",
+      "orig_slug": "dollar-could-fall-if-us-tariffs-are-ruled-illegal-5b4bf302"
+    },
+    {
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/finance/commodities-futures/basic-materials-roundup-market-talk-393ce88f?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-02T11:48:00Z",
+      "image": "",
+      "slug": "basic-materials-roundup-market-talk-5358e85c",
+      "orig_slug": "basic-materials-roundup-market-talk-5358e85c"
+    },
+    {
+      "title": "JP Morgan to double Swiss private banking business by 2030",
+      "link": "https://finance.yahoo.com/news/jp-morgan-double-swiss-private-120316379.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-02T12:03:16Z",
+      "image": "",
+      "slug": "jp-morgan-to-double-swiss-private-banking-business-by-2030-f9710de9",
+      "orig_slug": "jp-morgan-to-double-swiss-private-banking-business-by-2030-f9710de9"
+    },
+    {
+      "title": "Energy & Utilities Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/energy-oil/energy-utilities-roundup-market-talk-9203dbb7?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-02T11:39:00Z",
+      "image": "",
+      "slug": "energy-utilities-roundup-market-talk-51266eef",
+      "orig_slug": "energy-utilities-roundup-market-talk-51266eef"
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures step higher as Wall Street regains",
+      "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-step-higher-as-wall-street-regains-234830976.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-01T23:48:30Z",
+      "image": "",
+      "slug": "stock-market-today-dow-sp-500-nasdaq-futures-step-higher-as-wall-street-regains-0c56d25e",
+      "orig_slug": "stock-market-today-dow-sp-500-nasdaq-futures-step-higher-as-wall-street-regains-0c56d25e"
+    },
+    {
+      "title": "Fintech firm Wealthfront seeks up to $2.05 billion valuation in US IPO",
+      "link": "https://finance.yahoo.com/news/fintech-platform-wealthfront-aims-raise-113225503.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-02T11:32:25Z",
+      "image": "",
+      "slug": "fintech-firm-wealthfront-seeks-up-to-205-billion-valuation-in-us-ipo-e7834dec",
+      "orig_slug": "fintech-firm-wealthfront-seeks-up-to-205-billion-valuation-in-us-ipo-e7834dec"
+    },
+    {
+      "title": "Auto & Transport Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-42030ac9?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-02T11:28:00Z",
+      "image": "",
+      "slug": "auto-transport-roundup-market-talk-909ca9da",
+      "orig_slug": "auto-transport-roundup-market-talk-909ca9da"
+    },
+    {
+      "title": "Goldman Sachs agrees to acquire Innovator Capital for $2bn",
+      "link": "https://finance.yahoo.com/news/goldman-sachs-agrees-acquire-innovator-115819597.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-02T11:58:19Z",
+      "image": "",
+      "slug": "goldman-sachs-agrees-to-acquire-innovator-capital-for-2bn-949fbd55",
+      "orig_slug": "goldman-sachs-agrees-to-acquire-innovator-capital-for-2bn-949fbd55"
+    },
+    {
+      "title": "U.K. Loosens Bank Capital Demands for First Time Since Financial Crisis",
+      "link": "https://www.wsj.com/world/uk/u-k-loosens-bank-capital-demands-for-first-time-since-financial-crisis-7aa214b5?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-02T11:20:00Z",
+      "image": "",
+      "slug": "uk-loosens-bank-capital-demands-for-first-time-since-financial-crisis-9fe7e8ca",
+      "orig_slug": "uk-loosens-bank-capital-demands-for-first-time-since-financial-crisis-9fe7e8ca"
+    },
+    {
+      "title": "LVMH Appoints Pietro Beccari as Chair, CEO of Fashion Group",
+      "link": "https://www.wsj.com/business/retail/lvmh-appoints-pietro-beccari-as-chair-ceo-of-fashion-group-18474fcc?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-02T11:19:00Z",
+      "image": "",
+      "slug": "lvmh-appoints-pietro-beccari-as-chair-ceo-of-fashion-group-17fd467a",
+      "orig_slug": "lvmh-appoints-pietro-beccari-as-chair-ceo-of-fashion-group-17fd467a"
+    },
+    {
+      "title": "Treasury Yields Edge Lower, Focus Is on Next Fed Meeting",
+      "link": "https://www.wsj.com/finance/investing/thirty-year-jgb-yield-hits-record-high-718c1de6?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-02T11:18:00Z",
+      "image": "",
+      "slug": "treasury-yields-edge-lower-focus-is-on-next-fed-meeting-5688f800",
+      "orig_slug": "treasury-yields-edge-lower-focus-is-on-next-fed-meeting-5688f800"
     },
     {
       "title": "Best CD rates today, December 2, 2025: Lock in up to 4.1% APY today",
       "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-december-2-2025-110040668.html",
       "source": "finance.yahoo.com",
       "pubDate": "2025-12-02T11:00:40Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/UszNkMVwuN0xp.8Uj44OPg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47b17e0-4f64-11ef-bfe0-fc9ef2fc2991",
+      "image": "",
       "slug": "best-cd-rates-today-december-2-2025-lock-in-up-to-41-apy-today-51f62887",
       "orig_slug": "best-cd-rates-today-december-2-2025-lock-in-up-to-41-apy-today-51f62887"
+    },
+    {
+      "title": "Worst Passive Income Ideas for Retirees",
+      "link": "https://finance.yahoo.com/news/worst-passive-income-ideas-retirees-115509182.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-02T11:55:09Z",
+      "image": "",
+      "slug": "worst-passive-income-ideas-for-retirees-c7d5947d",
+      "orig_slug": "worst-passive-income-ideas-for-retirees-c7d5947d"
     },
     {
       "title": "Gasoline prices fall to $3 per gallon to hit lowest level since 2021",
       "link": "https://finance.yahoo.com/news/gasoline-prices-fall-to-3-per-gallon-to-hit-lowest-level-since-2021-110039889.html",
       "source": "finance.yahoo.com",
       "pubDate": "2025-12-02T11:00:39Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/_pqXsEhsM9bxxf1gpjX1zQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/feb57d00-ca1b-11f0-b3dc-1af73ed07109",
+      "image": "",
       "slug": "gasoline-prices-fall-to-3-per-gallon-to-hit-lowest-level-since-2021-1d2ecd79",
       "orig_slug": "gasoline-prices-fall-to-3-per-gallon-to-hit-lowest-level-since-2021-1d2ecd79"
-    },
-    {
-      "title": "HSBC partners with Mistral AI to advance generative AI adoption",
-      "link": "https://finance.yahoo.com/news/hsbc-partners-mistral-ai-advance-110029007.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-02T11:00:29Z",
-      "image": "https://media.zenfs.com/en/retail_banker_international_407/6bdfa78535c9499ff2de60ea7c560d13",
-      "slug": "hsbc-partners-with-mistral-ai-to-advance-generative-ai-adoption-f6cbd71e",
-      "orig_slug": "hsbc-partners-with-mistral-ai-to-advance-generative-ai-adoption-f6cbd71e"
     },
     {
       "title": "Mortgage and refinance interest rates today, December 2, 2025: A low 30-year rate or even lower 15-year? We do the math",
       "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-december-2-2025-110022302.html",
       "source": "finance.yahoo.com",
       "pubDate": "2025-12-02T11:00:22Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/Y2tfJtD0oUt6xTTdKawkhA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/700e25a0-fb43-11ee-be6b-a40c5cf2631a",
+      "image": "",
       "slug": "mortgage-and-refinance-interest-rates-today-december-2-2025-a-low-30-year-rate-o-dd37375d",
       "orig_slug": "mortgage-and-refinance-interest-rates-today-december-2-2025-a-low-30-year-rate-o-dd37375d"
     },
@@ -51,7 +177,7 @@
       "link": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-tuesday-december-2-2025-110020319.html",
       "source": "finance.yahoo.com",
       "pubDate": "2025-12-02T11:00:20Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/A7DEb1HTJhU8VDh5EPsFWQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/61b31c70-4eb5-11ef-bef7-1c95e6978ba4",
+      "image": "",
       "slug": "best-high-yield-savings-interest-rates-today-december-2-2025-earn-up-to-43-apy-0f7ff448",
       "orig_slug": "best-high-yield-savings-interest-rates-today-december-2-2025-earn-up-to-43-apy-0f7ff448"
     },
@@ -60,16 +186,25 @@
       "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-rates-today-tuesday-december-2-2025-110017810.html",
       "source": "finance.yahoo.com",
       "pubDate": "2025-12-02T11:00:17Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/jKDHehkcfjwJcGW_XwI.cA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/c4b61900-3fee-11f0-b7db-9b92c1c08f42",
+      "image": "",
       "slug": "heloc-rates-today-december-2-2025-good-news-could-be-coming-next-week-ce12edec",
       "orig_slug": "heloc-rates-today-december-2-2025-good-news-could-be-coming-next-week-ce12edec"
+    },
+    {
+      "title": "Azets adds 384 new graduates and school leavers in the UK",
+      "link": "https://finance.yahoo.com/news/azets-adds-384-graduates-school-114953969.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-02T11:49:53Z",
+      "image": "",
+      "slug": "azets-adds-384-new-graduates-and-school-leavers-in-the-uk-7f478348",
+      "orig_slug": "azets-adds-384-new-graduates-and-school-leavers-in-the-uk-7f478348"
     },
     {
       "title": "Best money market account rates today, December 2, 2025 (Earn up to 4.26% APY)",
       "link": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-tuesday-december-2-2025-110013782.html",
       "source": "finance.yahoo.com",
       "pubDate": "2025-12-02T11:00:13Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/4l6TqvGAG797gytZQkkZjg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/30d67df0-1a29-11f0-bffe-c9fedabef6b7",
+      "image": "",
       "slug": "best-money-market-account-rates-today-december-2-2025-earn-up-to-426-apy-71eaeaee",
       "orig_slug": "best-money-market-account-rates-today-december-2-2025-earn-up-to-426-apy-71eaeaee"
     },
@@ -78,7 +213,7 @@
       "link": "https://finance.yahoo.com/news/more-tug-of-war-between-growth-and-value-stocks-expected-next-year-110012045.html",
       "source": "finance.yahoo.com",
       "pubDate": "2025-12-02T11:00:12Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/0jMuFCasQ_reYtDYvpJEyQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzI-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/e8ee3c60-cef2-11f0-a747-548eadd575ad",
+      "image": "",
       "slug": "more-tug-of-war-between-growth-and-value-stocks-expected-next-year-7da95f26",
       "orig_slug": "more-tug-of-war-between-growth-and-value-stocks-expected-next-year-7da95f26"
     },
@@ -87,25 +222,34 @@
       "link": "https://finance.yahoo.com/news/airbnb-rival-sonder-files-bankruptcy-110000573.html",
       "source": "finance.yahoo.com",
       "pubDate": "2025-12-02T11:00:00Z",
-      "image": "https://media.zenfs.com/en/moneywise_327/1fe12f73c451db84112b9e2a7c740cc1",
+      "image": "",
       "slug": "airbnb-rival-sonder-files-for-bankruptcy-giving-guests-minutes-or-hours-to-vacat-aacf8b11",
       "orig_slug": "airbnb-rival-sonder-files-for-bankruptcy-giving-guests-minutes-or-hours-to-vacat-aacf8b11"
     },
     {
-      "title": "$4B Credent Sells Minority Stake to Crestline",
-      "link": "https://finance.yahoo.com/news/4b-credent-sells-minority-stake-110000922.html",
+      "title": "These Stocks Are Moving the Most Today: Apple, MongoDB, Credo, Warner Bros. Discovery, Marvell, and More",
+      "link": "https://www.barrons.com/articles/stock-movers-61607198?siteid=yhoof2&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-02T11:00:00Z",
-      "image": "https://media.zenfs.com/en/wealth_management_474/c8cf4da707e4b661c484a46e86746270",
-      "slug": "4b-credent-sells-minority-stake-to-crestline-d7eb9f7c",
-      "orig_slug": "4b-credent-sells-minority-stake-to-crestline-d7eb9f7c"
+      "pubDate": "2025-12-02T10:56:00Z",
+      "image": "",
+      "slug": "these-stocks-are-moving-the-most-today-apple-mongodb-credo-warner-bros-discovery-2233deb4",
+      "orig_slug": "these-stocks-are-moving-the-most-today-apple-mongodb-credo-warner-bros-discovery-2233deb4"
+    },
+    {
+      "title": "Stahl integrates Weilburger Graphics’ Turkish packaging coatings business",
+      "link": "https://finance.yahoo.com/news/stahl-integrates-weilburger-graphics-turkish-114052062.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-02T11:40:52Z",
+      "image": "",
+      "slug": "stahl-integrates-weilburger-graphics-turkish-packaging-coatings-business-15f9ee1f",
+      "orig_slug": "stahl-integrates-weilburger-graphics-turkish-packaging-coatings-business-15f9ee1f"
     },
     {
       "title": "The EV Truck Reality Check and Why Edison Motors’ Hybrid  Might Be What Actually Works",
       "link": "https://finance.yahoo.com/news/ev-truck-reality-check-why-105411932.html",
       "source": "finance.yahoo.com",
       "pubDate": "2025-12-02T10:54:11Z",
-      "image": "https://media.zenfs.com/en/freightwaves_373/fec4dde0a1c6058e6cbd62c3ee318757",
+      "image": "",
       "slug": "the-ev-truck-reality-check-and-why-edison-motors-hybrid-might-be-what-actually-w-db956b6c",
       "orig_slug": "the-ev-truck-reality-check-and-why-edison-motors-hybrid-might-be-what-actually-w-db956b6c"
     },
@@ -114,18 +258,54 @@
       "link": "https://finance.yahoo.com/news/chinese-autonomous-driving-firm-momenta-104923911.html",
       "source": "finance.yahoo.com",
       "pubDate": "2025-12-02T10:49:23Z",
-      "image": "https://media.zenfs.com/en/reuters-finance.com/f2ee2b8a2c29b40d7f9da942d7720ad9",
+      "image": "",
       "slug": "chinese-autonomous-driving-firm-momenta-files-for-hong-kong-ipo-sources-say-c8ef34c7",
       "orig_slug": "chinese-autonomous-driving-firm-momenta-files-for-hong-kong-ipo-sources-say-c8ef34c7"
+    },
+    {
+      "title": "TotalEnergies and Partners Advance Nebraska e-NG Project",
+      "link": "https://finance.yahoo.com/news/totalenergies-partners-advance-nebraska-e-103000045.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-02T10:30:00Z",
+      "image": "",
+      "slug": "totalenergies-and-partners-advance-nebraska-e-ng-project-b062e446",
+      "orig_slug": "totalenergies-and-partners-advance-nebraska-e-ng-project-b062e446"
+    },
+    {
+      "title": "Commercial Real Estate Is Getting Too Cheap to Ignore",
+      "link": "https://www.wsj.com/real-estate/commercial/commercial-real-estate-is-getting-too-cheap-to-ignore-c208517b?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-02T10:30:00Z",
+      "image": "",
+      "slug": "commercial-real-estate-is-getting-too-cheap-to-ignore-a6d3b86c",
+      "orig_slug": "commercial-real-estate-is-getting-too-cheap-to-ignore-a6d3b86c"
+    },
+    {
+      "title": "Report shows how AI drives shift in UK engineering and consultancy sector",
+      "link": "https://finance.yahoo.com/news/report-shows-ai-drives-shift-113916330.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-02T11:39:16Z",
+      "image": "",
+      "slug": "report-shows-how-ai-drives-shift-in-uk-engineering-and-consultancy-sector-506cbf23",
+      "orig_slug": "report-shows-how-ai-drives-shift-in-uk-engineering-and-consultancy-sector-506cbf23"
     },
     {
       "title": "Curtis '50 Cent' Jackson is one of the largest property owners in Louisiana. How the superstar is investing",
       "link": "https://finance.yahoo.com/news/curtis-50-cent-jackson-one-102900491.html",
       "source": "finance.yahoo.com",
       "pubDate": "2025-12-02T10:29:00Z",
-      "image": "https://media.zenfs.com/en/moneywise_ecomm_711/53f161de737edb9e190e0182076437fe",
+      "image": "",
       "slug": "curtis-50-cent-jackson-is-one-of-the-largest-property-owners-in-louisiana-how-th-f3929a9e",
       "orig_slug": "curtis-50-cent-jackson-is-one-of-the-largest-property-owners-in-louisiana-how-th-f3929a9e"
+    },
+    {
+      "title": "Nvidia Stock Is Rising. How It’s Taking the Fight to Google.",
+      "link": "https://www.barrons.com/articles/nvidia-stock-price-ai-chips-google-3d4a12cd?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-02T10:12:00Z",
+      "image": "",
+      "slug": "nvidia-stock-is-rising-how-its-taking-the-fight-to-google-b1794f22",
+      "orig_slug": "nvidia-stock-is-rising-how-its-taking-the-fight-to-google-b1794f22"
     },
     {
       "title": "U.S. Futures Fall, Global Markets Mixed; Bitcoin Recovers Slightly",
@@ -137,29 +317,29 @@
       "orig_slug": "us-futures-fall-global-markets-mixed-bitcoin-recovers-slightly-3ef37c40"
     },
     {
-      "title": "Top 5 Tips To Make Your Finances Much Less of a Disaster",
-      "link": "https://finance.yahoo.com/news/top-5-tips-finances-much-105505329.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-02T10:55:05Z",
-      "image": "https://media.zenfs.com/en/gobankingrates_644/aaecd18a4bc8cac69aa7ec4972f83cd3",
-      "slug": "top-5-tips-to-make-your-finances-much-less-of-a-disaster-64bfcc6a",
-      "orig_slug": "top-5-tips-to-make-your-finances-much-less-of-a-disaster-64bfcc6a"
-    },
-    {
       "title": "Tariffs, AI boom could test global growth's resilience, OECD says",
       "link": "https://finance.yahoo.com/news/tariffs-ai-boom-could-test-100446755.html",
       "source": "finance.yahoo.com",
       "pubDate": "2025-12-02T10:10:03Z",
-      "image": "https://media.zenfs.com/en/reuters.com/5a7044b4116a1f5f57de4bbe94a6ed84",
+      "image": "",
       "slug": "tariffs-ai-boom-could-test-global-growths-resilience-oecd-says-a35b18c3",
       "orig_slug": "tariffs-ai-boom-could-test-global-growths-resilience-oecd-says-a35b18c3"
+    },
+    {
+      "title": "Singapore companies increase use of AI: CPA Australia survey",
+      "link": "https://finance.yahoo.com/news/singapore-companies-increase-ai-cpa-113832958.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-02T11:38:32Z",
+      "image": "",
+      "slug": "singapore-companies-increase-use-of-ai-cpa-australia-survey-139e21fb",
+      "orig_slug": "singapore-companies-increase-use-of-ai-cpa-australia-survey-139e21fb"
     },
     {
       "title": "Group of European banks announce euro stablecoin company called qivalis",
       "link": "https://finance.yahoo.com/news/group-european-banks-announce-euro-095453982.html",
       "source": "finance.yahoo.com",
       "pubDate": "2025-12-02T09:54:53Z",
-      "image": "https://media.zenfs.com/en/reuters-finance.com/d5fad7bcec3da09232f012f4dd42971f",
+      "image": "",
       "slug": "group-of-european-banks-announce-euro-stablecoin-company-called-qivalis-9a707fc2",
       "orig_slug": "group-of-european-banks-announce-euro-stablecoin-company-called-qivalis-9a707fc2"
     },
@@ -173,49 +353,13 @@
       "orig_slug": "silver-falls-from-record-highs-gold-nudges-down-8ce2b0f4"
     },
     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures lean higher after stocks, bitcoin take a bruising",
-      "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-lean-higher-after-stocks-bitcoin-take-a-bruising-234830287.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-01T23:48:30Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/ZCO2o4qppSRSiPuX3v69qA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-images/2019-12/441224f0-2925-11ea-96ff-875256a153fc",
-      "slug": "stock-market-today-dow-sp-500-nasdaq-futures-lean-higher-after-stocks-bitcoin-ta-0586251c",
-      "orig_slug": "stock-market-today-dow-sp-500-nasdaq-futures-lean-higher-after-stocks-bitcoin-ta-0586251c"
-    },
-    {
-      "title": "Silver Slips From Record on Signs Six-Day Rally Had Run Too Far",
-      "link": "https://finance.yahoo.com/news/silver-retreats-record-high-concerns-073433370.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-02T10:30:20Z",
-      "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/c0fdbd5ca48e7163a279cf032c39d29c",
-      "slug": "silver-slips-from-record-on-signs-six-day-rally-had-run-too-far-dbf789b2",
-      "orig_slug": "silver-slips-from-record-on-signs-six-day-rally-had-run-too-far-dbf789b2"
-    },
-    {
-      "title": "Stocks to Watch Tuesday: MongoDB, Credo, Warner Bros., Costco",
+      "title": "Stocks to Watch Tuesday: Warner Bros., MongoDB, Credo, Costco",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-02-2025/card/stocks-to-watch-tuesday-mongodb-credo-warner-bros--w2mPaHEQhf9jTDs9dSmA?siteid=yhoof2&yptr=yahoo",
       "source": "finance.yahoo.com",
       "pubDate": "2025-12-02T09:50:32Z",
       "image": "",
-      "slug": "stocks-to-watch-tuesday-mongodb-credo-warner-bros-costco-9d8c2c35",
-      "orig_slug": "stocks-to-watch-tuesday-mongodb-credo-warner-bros-costco-9d8c2c35"
-    },
-    {
-      "title": "Impact of Eurozone Inflation Data on Euro Seen Minimal",
-      "link": "https://www.wsj.com/finance/currencies/bitcoin-retracement-brings-back-volatility-f05546de?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-02T09:46:00Z",
-      "image": "",
-      "slug": "impact-of-eurozone-inflation-data-on-euro-seen-minimal-5b4bf302",
-      "orig_slug": "impact-of-eurozone-inflation-data-on-euro-seen-minimal-5b4bf302"
-    },
-    {
-      "title": "Gilt Yields Are Steady as Market Calms",
-      "link": "https://www.wsj.com/finance/investing/thirty-year-jgb-yield-hits-record-high-718c1de6?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-02T09:43:00Z",
-      "image": "",
-      "slug": "gilt-yields-are-steady-as-market-calms-5688f800",
-      "orig_slug": "gilt-yields-are-steady-as-market-calms-5688f800"
+      "slug": "stocks-to-watch-tuesday-warner-bros-mongodb-credo-costco-9d8c2c35",
+      "orig_slug": "stocks-to-watch-tuesday-warner-bros-mongodb-credo-costco-9d8c2c35"
     },
     {
       "title": "Stock Futures Rise as Markets Fight Back From Rocky Start to December",
@@ -227,157 +371,13 @@
       "orig_slug": "stock-futures-rise-as-markets-fight-back-from-rocky-start-to-december-9b250522"
     },
     {
-      "title": "Associated Banc-Corp to acquire American National for $604m",
-      "link": "https://finance.yahoo.com/news/associated-banc-corp-acquire-american-104936400.html",
+      "title": "Is UnitedHealth an Undervalued Stock to Buy Now?",
+      "link": "https://finance.yahoo.com/news/unitedhealth-undervalued-stock-buy-now-113800649.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-02T10:49:36Z",
-      "image": "https://media.zenfs.com/en/retail_banker_international_407/85ecf7d76c042a1f092f2c502f63ae9c",
-      "slug": "associated-banc-corp-to-acquire-american-national-for-604m-9cb3eb46",
-      "orig_slug": "associated-banc-corp-to-acquire-american-national-for-604m-9cb3eb46"
-    },
-    {
-      "title": "Geopolitical Tensions Unlikely to Change Long-Term Outlook for Oil Prices",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-higher-amid-supply-chain-disruption-963d6115?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-02T09:31:00Z",
+      "pubDate": "2025-12-02T11:38:00Z",
       "image": "",
-      "slug": "geopolitical-tensions-unlikely-to-change-long-term-outlook-for-oil-prices-67a41615",
-      "orig_slug": "geopolitical-tensions-unlikely-to-change-long-term-outlook-for-oil-prices-67a41615"
-    },
-    {
-      "title": "Vestas Expands in Poland to Supply Germany’s Rapid Wind Buildout",
-      "link": "https://finance.yahoo.com/news/vestas-expands-poland-supply-germany-093000211.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-02T09:30:00Z",
-      "image": "https://media.zenfs.com/en/oilprice.com/53a01620bee716f47cd9379bd2e20c45",
-      "slug": "vestas-expands-in-poland-to-supply-germanys-rapid-wind-buildout-2790ad0a",
-      "orig_slug": "vestas-expands-in-poland-to-supply-germanys-rapid-wind-buildout-2790ad0a"
-    },
-    {
-      "title": "Hong Kong taps Value Partners, 9 others to manage US$385 million residency scheme fund",
-      "link": "https://finance.yahoo.com/news/hong-kong-taps-value-partners-093000615.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-02T09:30:00Z",
-      "image": "https://media.zenfs.com/en/south_china_morning_post_us_228/294a1668763db0e3df65b381b516757a",
-      "slug": "hong-kong-taps-value-partners-9-others-to-manage-us385-million-residency-scheme--b53f05fb",
-      "orig_slug": "hong-kong-taps-value-partners-9-others-to-manage-us385-million-residency-scheme--b53f05fb"
-    },
-    {
-      "title": "Healthcare and tech to drive Asia-Pacific private equity deals amid slower growth: survey",
-      "link": "https://finance.yahoo.com/news/healthcare-tech-drive-asia-pacific-093000479.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-02T09:30:00Z",
-      "image": "https://media.zenfs.com/en/south_china_morning_post_us_228/a254d6a48725678cbcef127f4e7055b4",
-      "slug": "healthcare-and-tech-to-drive-asia-pacific-private-equity-deals-amid-slower-growt-e8a4c3be",
-      "orig_slug": "healthcare-and-tech-to-drive-asia-pacific-private-equity-deals-amid-slower-growt-e8a4c3be"
-    },
-    {
-      "title": "DAT Inflows Collapse 90% — Is a Hidden Liquidity Crisis Brewing Inside Corporate Crypto?",
-      "link": "https://finance.yahoo.com/news/dat-inflows-collapse-90-hidden-104650682.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-02T10:46:50Z",
-      "image": "https://media.zenfs.com/en/beincrypto_us_662/913a22e00f8e6fe2f0cbaf0a0f60d21c",
-      "slug": "dat-inflows-collapse-90-is-a-hidden-liquidity-crisis-brewing-inside-corporate-cr-8215c5e8",
-      "orig_slug": "dat-inflows-collapse-90-is-a-hidden-liquidity-crisis-brewing-inside-corporate-cr-8215c5e8"
-    },
-    {
-      "title": "LVMH Appoints Pietro Beccari as Chair, CEO of Fashion Group",
-      "link": "https://www.wsj.com/business/retail/lvmh-appoints-pietro-beccari-as-chair-ceo-of-fashion-group-18474fcc?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-02T09:26:00Z",
-      "image": "",
-      "slug": "lvmh-appoints-pietro-beccari-as-chair-ceo-of-fashion-group-17fd467a",
-      "orig_slug": "lvmh-appoints-pietro-beccari-as-chair-ceo-of-fashion-group-17fd467a"
-    },
-    {
-      "title": "South Korean Auto Stocks Rally After U.S. Confirms Lower Tariffs",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-02-2025/card/south-korean-auto-stocks-rise-after-u-s-confirms-lower-tariffs-efjsKcEgqGYq1jEeA7dU?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-02T08:57:09Z",
-      "image": "",
-      "slug": "south-korean-auto-stocks-rally-after-us-confirms-lower-tariffs-6b742a86",
-      "orig_slug": "south-korean-auto-stocks-rally-after-us-confirms-lower-tariffs-6b742a86"
-    },
-    {
-      "title": "Sydney Sweeney and Other Celebs Fueled American Eagle Stock’s Rally. Can Earnings Keep It Going?",
-      "link": "https://www.barrons.com/articles/american-eagle-stock-price-earnings-2be23cd0?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-02T08:30:00Z",
-      "image": "",
-      "slug": "sydney-sweeney-and-other-celebs-fueled-american-eagle-stocks-rally-can-earnings--6587e247",
-      "orig_slug": "sydney-sweeney-and-other-celebs-fueled-american-eagle-stocks-rally-can-earnings--6587e247"
-    },
-    {
-      "title": "Vestas Secures 660 MW Offshore Wind Order in EMEA",
-      "link": "https://finance.yahoo.com/news/vestas-secures-660-mw-offshore-080818157.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-02T08:08:18Z",
-      "image": "https://media.zenfs.com/en/oilprice.com/1c155fb0608925adb05210e305e65c14",
-      "slug": "vestas-secures-660-mw-offshore-wind-order-in-emea-82e33bb7",
-      "orig_slug": "vestas-secures-660-mw-offshore-wind-order-in-emea-82e33bb7"
-    },
-    {
-      "title": "Prada, Versace Deal Completed",
-      "link": "https://finance.yahoo.com/news/prada-versace-deal-completed-104330768.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-02T10:43:30Z",
-      "image": "https://media.zenfs.com/en/wwd_409/a9caf22dd7e5f55278784bf43d1e1b10",
-      "slug": "prada-versace-deal-completed-61753946",
-      "orig_slug": "prada-versace-deal-completed-61753946"
-    },
-    {
-      "title": "Endeavour Mining Targets Discovery of Up to 15 Million Ounces of Resources Over Next 5 Years",
-      "link": "https://www.wsj.com/business/endeavour-mining-targets-discovery-of-up-to-15-million-ounces-of-resources-over-next-5-years-f44dcc2f?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-02T08:04:00Z",
-      "image": "",
-      "slug": "endeavour-mining-targets-discovery-of-up-to-15-million-ounces-of-resources-over--114b1aca",
-      "orig_slug": "endeavour-mining-targets-discovery-of-up-to-15-million-ounces-of-resources-over--114b1aca"
-    },
-    {
-      "title": "Salesforce, Retailer Earnings, Inflation Data: What to Watch This Week",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-02-2025/card/salesforce-retailer-earnings-inflation-data-what-to-watch-this-week-4yHcr8xdwO4jKrXDmeqs?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-02T08:00:34Z",
-      "image": "",
-      "slug": "salesforce-retailer-earnings-inflation-data-what-to-watch-this-week-15973ef6",
-      "orig_slug": "salesforce-retailer-earnings-inflation-data-what-to-watch-this-week-15973ef6"
-    },
-    {
-      "title": "Heard on the Street Recap Monday: Crypto Blues",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-02-2025/card/heard-on-the-street-recap-monday-crypto-blues-buSbhtMQHg1oTutnUwZM?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-02T07:59:59Z",
-      "image": "",
-      "slug": "heard-on-the-street-recap-monday-crypto-blues-2eb9413c",
-      "orig_slug": "heard-on-the-street-recap-monday-crypto-blues-2eb9413c"
-    },
-    {
-      "title": "Santander to Sell Stake in Polish Subsidiary for Around $473 Million After Erste Group Deal",
-      "link": "https://www.wsj.com/business/retail/santander-to-sell-stake-in-polish-subsidiary-for-around-473-million-after-erste-group-deal-a2176ba9?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-02T07:08:00Z",
-      "image": "",
-      "slug": "santander-to-sell-stake-in-polish-subsidiary-for-around-473-million-after-erste--0760e2a8",
-      "orig_slug": "santander-to-sell-stake-in-polish-subsidiary-for-around-473-million-after-erste--0760e2a8"
-    },
-    {
-      "title": "Economy and AI Push Make Shorting US Stocks Dangerous, 22V Says",
-      "link": "https://finance.yahoo.com/news/economy-ai-push-shorting-us-103000442.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-02T10:30:00Z",
-      "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/e30ab1b0127c53efe2e2e838839dd110",
-      "slug": "economy-and-ai-push-make-shorting-us-stocks-dangerous-22v-says-480e6bfa",
-      "orig_slug": "economy-and-ai-push-make-shorting-us-stocks-dangerous-22v-says-480e6bfa"
-    },
-    {
-      "title": "Is American International Group Stock Underperforming the Nasdaq?",
-      "link": "https://finance.yahoo.com/news/american-international-group-stock-underperforming-070609555.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-02T07:06:09Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/bc9e52b40a8a8c56aed33e9f04519872",
-      "slug": "is-american-international-group-stock-underperforming-the-nasdaq-d36a0ba8",
-      "orig_slug": "is-american-international-group-stock-underperforming-the-nasdaq-d36a0ba8"
+      "slug": "is-unitedhealth-an-undervalued-stock-to-buy-now-e94572a6",
+      "orig_slug": "is-unitedhealth-an-undervalued-stock-to-buy-now-e94572a6"
     }
   ]
 }
