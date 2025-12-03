@@ -27,7 +27,7 @@
 </section>
 </main>
 <script>
-document.addEventListener('DOMContentLoaded',function(){var f=document.querySelector('#contactForm');var s=document.querySelector('#contactStatus');if(!f)return;f.addEventListener('submit',function(ev){ev.preventDefault();var n=document.querySelector('#name').value.trim();var e=document.querySelector('#email').value.trim();var sb=document.querySelector('#subject').value.trim();var m=document.querySelector('#message').value.trim();if(!n||!e||!m){s.innerHTML='<div class="card"><p>Please fill all required fields.</p></div>';return;}s.innerHTML='<div class="card"><p>Thanks, we received your message. We will reply soon.</p></div>';f.reset();});});
+document.addEventListener('DOMContentLoaded',function(){var f=document.querySelector('#contactForm');var s=document.querySelector('#contactStatus');if(!f)return;f.addEventListener('submit',function(ev){ev.preventDefault();var n=document.querySelector('#name').value.trim();var e=document.querySelector('#email').value.trim();var sb=document.querySelector('#subject').value.trim();var m=document.querySelector('#message').value.trim();if(!n||!e||!m){s.innerHTML='<div class="card"><p>Please fill all required fields.</p></div>';return;}if(window.sendAutoReply)window.sendAutoReply(n,e,'contact');s.innerHTML='<div class="card"><p>Thanks, we\'ve sent a helpful follow‑up to your email. We will also reply on business days.</p></div>';f.reset();});});
 </script>
 <footer id="footer"></footer>
 <script src="/assets/js/main.js" defer></script>

@@ -47,3 +47,7 @@ a.card{position:relative;z-index:1}
 @media (max-width:960px){.grid{grid-template-columns:repeat(2,1fr)}.layout{grid-template-columns:1fr}}
 @media (max-width:640px){.grid{grid-template-columns:1fr}.nav{flex-wrap:wrap}.hero h1{font-size:1.7rem}}
 a.card, .news-widget a.card{pointer-events:auto}
+.modal-overlay{position:fixed;inset:0;background:rgba(0,0,0,.5);display:none;align-items:center;justify-content:center;z-index:20}
+.modal-card{background:rgba(17,17,17,.92);border:1px solid var(--border);border-radius:1rem;padding:1rem;max-width:480px;width:calc(100% - 2rem)}
+.enquiry-fab{position:fixed;right:1rem;bottom:1rem;z-index:19}
+.subscribe-fab{position:fixed;right:1rem;bottom:4.5rem;z-index:19}
