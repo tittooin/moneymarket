@@ -1,15 +1,6 @@
 {
-  "updated": "2025-12-03T15:14:52Z",
+  "updated": "2025-12-03T16:18:02Z",
   "items": [
-    {
-      "title": "Rigetti Computing Drops 40% as CEO Holds Zero Shares and Revenue Falls 18%",
-      "link": "https://finance.yahoo.com/news/rigetti-computing-drops-40-ceo-150641572.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-03T15:06:41Z",
-      "image": "https://media.zenfs.com/en/24_7_wall_st__718/54acabe923da02a6b70581aff7808cd4",
-      "slug": "rigetti-computing-drops-40-as-ceo-holds-zero-shares-and-revenue-falls-18-3eb19e7b",
-      "orig_slug": "rigetti-computing-drops-40-as-ceo-holds-zero-shares-and-revenue-falls-18-3eb19e7b"
-    },
     {
       "title": "Stock market today: Dow, S&P 500, Nasdaq under pressure as key ADP jobs data shows weakness",
       "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-under-pressure-as-key-adp-jobs-data-shows-weakness-000151923.html",
@@ -20,121 +11,40 @@
       "orig_slug": "stock-market-today-dow-sp-500-nasdaq-under-pressure-as-key-adp-jobs-data-shows-w-9a716be5"
     },
     {
-      "title": "The Top 10 Reasons New Businesses Fail",
-      "link": "https://www.wsj.com/business/entrepreneurship/business-failure-reasons-top-10-0762e18b?siteid=yhoof2&yptr=yahoo",
+      "title": "XRP Clings to Crucial $1.90 Floor as TD Sequential Buy Signal Hints at Explosive 18% Rebound",
+      "link": "https://finance.yahoo.com/news/xrp-clings-crucial-1-90-160559213.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-03T15:00:00Z",
+      "pubDate": "2025-12-03T16:05:59Z",
+      "image": "https://media.zenfs.com/en/24_7_wall_st__718/05ae6b5cc39e2507bf022857d3a0d011",
+      "slug": "xrp-clings-to-crucial-190-floor-as-td-sequential-buy-signal-hints-at-explosive-1-d6043b01",
+      "orig_slug": "xrp-clings-to-crucial-190-floor-as-td-sequential-buy-signal-hints-at-explosive-1-d6043b01"
+    },
+    {
+      "title": "Bitcoin Surges, Trump-Owned Miner Rebounds After Insider Sales",
+      "link": "https://www.investors.com/news/bitcoin-price-rebound-shorts-american-bitcoin-eric-trump-cathie-wood-coinbase-bullish/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-03T16:05:50Z",
       "image": "",
-      "slug": "the-top-10-reasons-new-businesses-fail-d96bb99c",
-      "orig_slug": "the-top-10-reasons-new-businesses-fail-d96bb99c"
+      "slug": "bitcoin-surges-trump-owned-miner-rebounds-after-insider-sales-ad52bd8e",
+      "orig_slug": "bitcoin-surges-trump-owned-miner-rebounds-after-insider-sales-ad52bd8e"
     },
     {
-      "title": "Stock Market Today: Indexes Mixed After Surprise Jobs Data; Software Name Tumbles (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobs-data-aeo-stock/?src=A00220&yptr=yahoo",
+      "title": "What is home equity, and how does it work?",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/what-is-home-equity-160337406.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-03T14:58:03Z",
-      "image": "",
-      "slug": "stock-market-today-indexes-mixed-after-surprise-jobs-data-software-name-tumbles--f09dc9e6",
-      "orig_slug": "stock-market-today-indexes-mixed-after-surprise-jobs-data-software-name-tumbles--f09dc9e6"
+      "pubDate": "2025-12-03T16:03:37Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/Gh1aHNqNOydpU968lSfIVw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/7ce5d020-cf04-11f0-aebd-e4d83674714f",
+      "slug": "what-is-home-equity-and-how-does-it-work-93d91a1e",
+      "orig_slug": "what-is-home-equity-and-how-does-it-work-93d91a1e"
     },
     {
-      "title": "U.S. Industrial Production Rose in September",
-      "link": "https://www.wsj.com/economy/central-banking/u-s-industrial-production-rose-in-september-d6a7debd?siteid=yhoof2&yptr=yahoo",
+      "title": "US Boomers ditching the 4% rule for the ‘bucket strategy’: How it can max your cash while protecting your nest egg",
+      "link": "https://finance.yahoo.com/news/us-boomers-ditching-4-rule-160100765.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-03T14:58:00Z",
-      "image": "",
-      "slug": "us-industrial-production-rose-in-september-4abec401",
-      "orig_slug": "us-industrial-production-rose-in-september-4abec401"
-    },
-    {
-      "title": "Daily Spotlight: Stock Valuations in Normal Range",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_45487_MarketOutlook_1764765846000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-03T12:44:06Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-spotlight-stock-valuations-in-normal-range-f144e294",
-      "orig_slug": "daily-spotlight-stock-valuations-in-normal-range-f144e294"
-    },
-    {
-      "title": "Nebius leverages Microsoft, Meta contracts for AI expansion",
-      "link": "https://finance.yahoo.com/news/nebius-leverages-microsoft-meta-contracts-145325509.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-03T14:55:55Z",
-      "image": "https://media.zenfs.com/en/reuters.com/179dcfb057d8d249d73f02c8cd9b40c6",
-      "slug": "nebius-leverages-microsoft-meta-contracts-for-ai-expansion-deaf9e8a",
-      "orig_slug": "nebius-leverages-microsoft-meta-contracts-for-ai-expansion-deaf9e8a"
-    },
-    {
-      "title": "Ramit Sethi Says This Might Be ‘the Worst’ Financial Trouble: 5 Ways To Avoid It",
-      "link": "https://finance.yahoo.com/news/ramit-sethi-says-might-worst-145504230.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-03T14:55:04Z",
-      "image": "https://media.zenfs.com/en/gobankingrates_644/b0abd124e5c6f3d76c499eefe5505e7d",
-      "slug": "ramit-sethi-says-this-might-be-the-worst-financial-trouble-5-ways-to-avoid-it-7c682c3c",
-      "orig_slug": "ramit-sethi-says-this-might-be-the-worst-financial-trouble-5-ways-to-avoid-it-7c682c3c"
-    },
-    {
-      "title": "Why A Surprise Delay For Cobenfy Just Sparked Bristol Myers Stock",
-      "link": "https://www.investors.com/news/technology/bristol-myers-squibb-stock-cobenfy-delay/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-03T14:54:39Z",
-      "image": "",
-      "slug": "why-a-surprise-delay-for-cobenfy-just-sparked-bristol-myers-stock-a7bc5ed2",
-      "orig_slug": "why-a-surprise-delay-for-cobenfy-just-sparked-bristol-myers-stock-a7bc5ed2"
-    },
-    {
-      "title": "Nebius leverages Microsoft, Meta contracts for AI expansion",
-      "link": "https://finance.yahoo.com/news/nebius-leverages-microsoft-meta-contracts-145325186.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-03T14:53:25Z",
-      "image": "https://media.zenfs.com/en/reuters-finance.com/309edb32f2471447bf6c77fe59a293e6",
-      "slug": "nebius-leverages-microsoft-meta-contracts-for-ai-expansion-6e9f34ad",
-      "orig_slug": "nebius-leverages-microsoft-meta-contracts-for-ai-expansion-6e9f34ad"
-    },
-    {
-      "title": "Boeing Rival Airbus, Glencore, Inditex: Stocks Overseas in Spotlight",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-03-2025/card/airbus-hsbc-inditex-stocks-overseas-in-spotlight-today-fGUY9NT5FZiGI2HQpYZs?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-03T14:47:23Z",
-      "image": "",
-      "slug": "boeing-rival-airbus-glencore-inditex-stocks-overseas-in-spotlight-7b4b975b",
-      "orig_slug": "boeing-rival-airbus-glencore-inditex-stocks-overseas-in-spotlight-7b4b975b"
-    },
-    {
-      "title": "Technical Assessment: Bullish in the Intermediate-Term",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_45486_TechnicalAnalysis_1764765810000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-03T12:43:30Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "technical-assessment-bullish-in-the-intermediate-term-5a191599",
-      "orig_slug": "technical-assessment-bullish-in-the-intermediate-term-5a191599"
-    },
-    {
-      "title": "American Eagle Rallies On Beat-And-Raise Report, Hiked Analyst Views",
-      "link": "https://www.investors.com/news/american-eagle-outfitters-earnings-aeo-stock-retail-results-holiday-shopping-sydney-sweeney/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-03T14:45:09Z",
-      "image": "",
-      "slug": "american-eagle-rallies-on-beat-and-raise-report-hiked-analyst-views-2d520e71",
-      "orig_slug": "american-eagle-rallies-on-beat-and-raise-report-hiked-analyst-views-2d520e71"
-    },
-    {
-      "title": "CNOOC starts production at Weizhou 11-4 project in South China Sea",
-      "link": "https://finance.yahoo.com/news/cnooc-starts-production-weizhou-11-145436466.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-03T14:54:36Z",
-      "image": "https://media.zenfs.com/en/offshore_technology_431/248e2a0a71f3db2b898d01b1a546051a",
-      "slug": "cnooc-starts-production-at-weizhou-11-4-project-in-south-china-sea-a2416ccc",
-      "orig_slug": "cnooc-starts-production-at-weizhou-11-4-project-in-south-china-sea-a2416ccc"
-    },
-    {
-      "title": "How Today’s ADP Jobs Report Makes a Fed Rate Cut More Likely",
-      "link": "https://www.barrons.com/articles/jobs-report-adp-fed-interest-rates-693267d7?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-03T14:43:00Z",
-      "image": "",
-      "slug": "how-todays-adp-jobs-report-makes-a-fed-rate-cut-more-likely-ede21db4",
-      "orig_slug": "how-todays-adp-jobs-report-makes-a-fed-rate-cut-more-likely-ede21db4"
+      "pubDate": "2025-12-03T16:01:00Z",
+      "image": "https://media.zenfs.com/en/moneywise_ecomm_711/df9bb6518e5978b327bfced299e89ff3",
+      "slug": "us-boomers-ditching-the-4-rule-for-the-bucket-strategy-how-it-can-max-your-cash--a8340830",
+      "orig_slug": "us-boomers-ditching-the-4-rule-for-the-bucket-strategy-how-it-can-max-your-cash--a8340830"
     },
     {
       "title": "Microsoft lowers AI software sales quota as customers resist new products, The Information reports",
@@ -146,13 +56,148 @@
       "orig_slug": "microsoft-lowers-ai-software-sales-quota-as-customers-resist-new-products-the-in-48cffdb8"
     },
     {
-      "title": "This Healthcare Stock Plunges 16%. Why Its Legal Costs Are Set to Double.",
-      "link": "https://www.barrons.com/articles/acadia-stock-legal-charge-guidance-635e934f?siteid=yhoof2&yptr=yahoo",
+      "title": "Wall Street Analysts Still Love Marvell, Amazon, and Broadcom",
+      "link": "https://finance.yahoo.com/news/wall-street-analysts-still-love-160110520.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-03T14:41:00Z",
-      "image": "",
-      "slug": "this-healthcare-stock-plunges-16-why-its-legal-costs-are-set-to-double-b9c83e42",
-      "orig_slug": "this-healthcare-stock-plunges-16-why-its-legal-costs-are-set-to-double-b9c83e42"
+      "pubDate": "2025-12-03T16:01:10Z",
+      "image": "https://media.zenfs.com/en/24_7_wall_st__718/6ad0f184f248291e9023fdd60847afb6",
+      "slug": "wall-street-analysts-still-love-marvell-amazon-and-broadcom-48935d57",
+      "orig_slug": "wall-street-analysts-still-love-marvell-amazon-and-broadcom-48935d57"
+    },
+    {
+      "title": "Ramsey Show tells Kentucky housecleaner that she's letting her friend's spending habits live 'rent-free' in her head",
+      "link": "https://finance.yahoo.com/news/ramsey-show-tells-kentucky-housecleaner-160000481.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-03T16:00:00Z",
+      "image": "https://media.zenfs.com/en/moneywise_327/321b5540d4c40ef8b45922eb1dedbc68",
+      "slug": "ramsey-show-tells-kentucky-housecleaner-that-shes-letting-her-friends-spending-h-e3c35d19",
+      "orig_slug": "ramsey-show-tells-kentucky-housecleaner-that-shes-letting-her-friends-spending-h-e3c35d19"
+    },
+    {
+      "title": "How to navigate a crypto meltdown: 'Be willing to hold on'",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/how-to-navigate-a-crypto-crash-155317977.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-03T15:53:17Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/WgTTDNMTrhRD_bzyVSFyuw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-02/1ef17de0-d698-11ee-81ad-d4f00700ab4f",
+      "slug": "how-to-navigate-a-crypto-meltdown-be-willing-to-hold-on-622a1485",
+      "orig_slug": "how-to-navigate-a-crypto-meltdown-be-willing-to-hold-on-622a1485"
+    },
+    {
+      "title": "Prediction markets: What they are and how they work",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/prediction-markets-what-they-are-and-how-they-work-130052363.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-10-07T13:00:52Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/63GbB01orCqPmEdLw5pkNQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/b0fcbf70-d05f-11f0-8fc1-1a4b2863082d",
+      "slug": "prediction-markets-what-they-are-and-how-they-work-1c88ce89",
+      "orig_slug": "prediction-markets-what-they-are-and-how-they-work-1c88ce89"
+    },
+    {
+      "title": "Daily Spotlight: Stock Valuations in Normal Range",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_45487_MarketOutlook_1764765846000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-03T12:44:06Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "daily-spotlight-stock-valuations-in-normal-range-f144e294",
+      "orig_slug": "daily-spotlight-stock-valuations-in-normal-range-f144e294"
+    },
+    {
+      "title": "Holiday EV shopping? What to know about electric car insurance costs.",
+      "link": "https://finance.yahoo.com/personal-finance/insurance/article/ev-insurance-153443980.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2023-12-15T19:14:17Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/PU7cimvADlNxu18jaUYxhg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://s.yimg.com/os/creatr-uploaded-images/2021-05/3c8672f0-c1f3-11eb-bf98-aaa93bc65442",
+      "slug": "holiday-ev-shopping-what-to-know-about-electric-car-insurance-costs-2ef97372",
+      "orig_slug": "holiday-ev-shopping-what-to-know-about-electric-car-insurance-costs-2ef97372"
+    },
+    {
+      "title": "FedEx Eliminates 856 Jobs as Logistics Layoffs Spread Across Sector",
+      "link": "https://finance.yahoo.com/news/fedex-eliminates-856-jobs-logistics-160000328.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-03T16:00:00Z",
+      "image": "https://media.zenfs.com/en/sourcing_journal_735/fef95a69c724ae8c40230cdc1c90e32b",
+      "slug": "fedex-eliminates-856-jobs-as-logistics-layoffs-spread-across-sector-8a6c8eb9",
+      "orig_slug": "fedex-eliminates-856-jobs-as-logistics-layoffs-spread-across-sector-8a6c8eb9"
+    },
+    {
+      "title": "NXP Semiconductors (NXPI) Surges 8% Ahead of Ex-Dividend Date",
+      "link": "https://finance.yahoo.com/news/nxp-semiconductors-nxpi-surges-8-154401661.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-03T15:44:01Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/845300fdb24d69f2cbf53c54919bcebd",
+      "slug": "nxp-semiconductors-nxpi-surges-8-ahead-of-ex-dividend-date-042ea52a",
+      "orig_slug": "nxp-semiconductors-nxpi-surges-8-ahead-of-ex-dividend-date-042ea52a"
+    },
+    {
+      "title": "AST Spacemobile (ASTS) Jumps 8% as Firm Bares Looming Rocket Launches",
+      "link": "https://finance.yahoo.com/news/ast-spacemobile-asts-jumps-8-154348932.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-03T15:43:48Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/8b23e5985c8b06389f755c92681a8cf3",
+      "slug": "ast-spacemobile-asts-jumps-8-as-firm-bares-looming-rocket-launches-3f1ccceb",
+      "orig_slug": "ast-spacemobile-asts-jumps-8-as-firm-bares-looming-rocket-launches-3f1ccceb"
+    },
+    {
+      "title": "Intel (INTC) Hits New Record on Apple Deal Hype",
+      "link": "https://finance.yahoo.com/news/intel-intc-hits-record-apple-154339299.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-03T15:43:39Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/ca493a2e433bc8d518938a02f4c33f96",
+      "slug": "intel-intc-hits-new-record-on-apple-deal-hype-a372d50e",
+      "orig_slug": "intel-intc-hits-new-record-on-apple-deal-hype-a372d50e"
+    },
+    {
+      "title": "Technical Assessment: Bullish in the Intermediate-Term",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_45486_TechnicalAnalysis_1764765810000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-03T12:43:30Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "technical-assessment-bullish-in-the-intermediate-term-5a191599",
+      "orig_slug": "technical-assessment-bullish-in-the-intermediate-term-5a191599"
+    },
+    {
+      "title": "Bitmine (BMNR) Soars 10% Ahead of Ex-Dividend Date",
+      "link": "https://finance.yahoo.com/news/bitmine-bmnr-soars-10-ahead-154331946.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-03T15:43:31Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/810e8216418ca451c4719e1ee43475ce",
+      "slug": "bitmine-bmnr-soars-10-ahead-of-ex-dividend-date-16c7352f",
+      "orig_slug": "bitmine-bmnr-soars-10-ahead-of-ex-dividend-date-16c7352f"
+    },
+    {
+      "title": "If Every American Earned the Median CEO Salary, How Much Richer Would the Country Be?",
+      "link": "https://finance.yahoo.com/news/every-american-earned-median-ceo-155604119.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-03T15:56:04Z",
+      "image": "https://media.zenfs.com/en/gobankingrates_644/bef840c6f9bb8a3dd710dc64798ed7a0",
+      "slug": "if-every-american-earned-the-median-ceo-salary-how-much-richer-would-the-country-bc2ff9c5",
+      "orig_slug": "if-every-american-earned-the-median-ceo-salary-how-much-richer-would-the-country-bc2ff9c5"
+    },
+    {
+      "title": "Plug Power (PLUG) Surges 9.9% on NASA Million-Dollar Deal",
+      "link": "https://finance.yahoo.com/news/plug-power-plug-surges-9-154323497.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-03T15:43:23Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/1f427f528ebeeeb56fcd50a9c921a8af",
+      "slug": "plug-power-plug-surges-99-on-nasa-million-dollar-deal-34f0165f",
+      "orig_slug": "plug-power-plug-surges-99-on-nasa-million-dollar-deal-34f0165f"
+    },
+    {
+      "title": "Buying a townhouse: Pros, cons, and financing",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/what-is-a-townhouse-210113245.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2024-03-21T21:01:13Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/l3DkuPLXTp9nE0TzPE8thA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/086cddb0-e7c5-11ee-9b6e-a57d88714086",
+      "slug": "buying-a-townhouse-pros-cons-and-financing-5d1d7a57",
+      "orig_slug": "buying-a-townhouse-pros-cons-and-financing-5d1d7a57"
+    },
+    {
+      "title": "Credo (CRDO) Jumps 10% on Stellar Earnings",
+      "link": "https://finance.yahoo.com/news/credo-crdo-jumps-10-stellar-154316842.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-03T15:43:16Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/753645e308aa52a9f3d06560e068a714",
+      "slug": "credo-crdo-jumps-10-on-stellar-earnings-c201be19",
+      "orig_slug": "credo-crdo-jumps-10-on-stellar-earnings-c201be19"
     },
     {
       "title": "Analyst Report: EOG Resources, Inc.",
@@ -164,49 +209,49 @@
       "orig_slug": "analyst-report-eog-resources-inc-7527b210"
     },
     {
-      "title": "Bitcoin Surges, Trump-Owned Miner Rebounds After Insider Sales",
-      "link": "https://www.investors.com/news/bitcoin-price-rebound-shorts-american-bitcoin-eric-trump-cathie-wood-coinbase-bullish/?src=A00220&yptr=yahoo",
+      "title": "HSA contribution limits for 2025 and 2026: Here’s how much you can save",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/hsa-contribution-limits-181038084.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-03T14:40:08Z",
-      "image": "",
-      "slug": "bitcoin-surges-trump-owned-miner-rebounds-after-insider-sales-ad52bd8e",
-      "orig_slug": "bitcoin-surges-trump-owned-miner-rebounds-after-insider-sales-ad52bd8e"
+      "pubDate": "2023-12-15T19:07:25Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/UsXoWZ4G0OnNQ907O3Au3A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-09/0b075660-6fc7-11ef-a9ce-bdece6e65598",
+      "slug": "hsa-contribution-limits-for-2025-and-2026-heres-how-much-you-can-save-064e26ff",
+      "orig_slug": "hsa-contribution-limits-for-2025-and-2026-heres-how-much-you-can-save-064e26ff"
     },
     {
-      "title": "Why Celsius Stock Is Starting to Look Like a Screaming Buy Right Now",
-      "link": "https://finance.yahoo.com/news/why-celsius-stock-starting-look-145300061.html",
+      "title": "Macy’s Lifts Outlook as Turnaround Takes Hold",
+      "link": "https://finance.yahoo.com/news/macy-lifts-view-sales-hit-120900712.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-03T14:53:00Z",
-      "image": "https://media.zenfs.com/en/24_7_wall_st__718/2356bc739974ab057a3f5ae48abe75e0",
-      "slug": "why-celsius-stock-is-starting-to-look-like-a-screaming-buy-right-now-2656c61c",
-      "orig_slug": "why-celsius-stock-is-starting-to-look-like-a-screaming-buy-right-now-2656c61c"
+      "pubDate": "2025-12-03T15:54:00Z",
+      "image": "https://media.zenfs.com/en/the_wall_street_journal_hosted_996/3f98ff36bab61d5cdaa4c5ae66f08691",
+      "slug": "macys-lifts-outlook-as-turnaround-takes-hold-f284f492",
+      "orig_slug": "macys-lifts-outlook-as-turnaround-takes-hold-f284f492"
     },
     {
-      "title": "Stocks to Watch Wednesday: Royal Bank of Canada, CrowdStrike, Dollar Tree",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-03-2025/card/stocks-to-watch-wednesday-marvell-crowdstrike-dollar-tree-GaGMb6KmSL2X5JC2Nqml?siteid=yhoof2&yptr=yahoo",
+      "title": "Boeing (BA) Climbs 10% as CFO Turns Upbeat for 2026",
+      "link": "https://finance.yahoo.com/news/boeing-ba-climbs-10-cfo-154308546.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-03T14:37:03Z",
-      "image": "",
-      "slug": "stocks-to-watch-wednesday-royal-bank-of-canada-crowdstrike-dollar-tree-2df9ac54",
-      "orig_slug": "stocks-to-watch-wednesday-royal-bank-of-canada-crowdstrike-dollar-tree-2df9ac54"
+      "pubDate": "2025-12-03T15:43:08Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/428f731b79db309079b7a6546a028d15",
+      "slug": "boeing-ba-climbs-10-as-cfo-turns-upbeat-for-2026-98cc032a",
+      "orig_slug": "boeing-ba-climbs-10-as-cfo-turns-upbeat-for-2026-98cc032a"
     },
     {
-      "title": "Dollar Could Fall Further But at More Modest Pace",
-      "link": "https://www.wsj.com/finance/currencies/singapore-dollar-consolidates-amid-risk-on-sentiment-d0271134?siteid=yhoof2&yptr=yahoo",
+      "title": "Lumen (LUMN) Extends Rally to 7th Day on New Product Launch",
+      "link": "https://finance.yahoo.com/news/lumen-lumn-extends-rally-7th-154259710.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-03T14:37:00Z",
-      "image": "",
-      "slug": "dollar-could-fall-further-but-at-more-modest-pace-f2e4496e",
-      "orig_slug": "dollar-could-fall-further-but-at-more-modest-pace-f2e4496e"
+      "pubDate": "2025-12-03T15:42:59Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/3dd061348257263184b0204a1e70c0af",
+      "slug": "lumen-lumn-extends-rally-to-7th-day-on-new-product-launch-4e3ab4e7",
+      "orig_slug": "lumen-lumn-extends-rally-to-7th-day-on-new-product-launch-4e3ab4e7"
     },
     {
-      "title": "ADP: Private payrolls dropped 32,000 positions last month in slowing job market",
-      "link": "https://finance.yahoo.com/news/adp-private-payrolls-dropped-32000-positions-last-month-in-slowing-job-market-133210474.html",
+      "title": "TMC the metals company Inc (TMC) Soars 17.7% as Countries Join Forces to Ramp up Critical Minerals Production",
+      "link": "https://finance.yahoo.com/news/tmc-metals-company-inc-tmc-154237857.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-03T13:32:10Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/PPTB9iHbdz7OPYCi6y9UKQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2020-12/e8fa6270-3829-11eb-9fb3-532dce79aa53",
-      "slug": "adp-private-payrolls-dropped-32000-positions-last-month-in-slowing-job-market-8af1fb60",
-      "orig_slug": "adp-private-payrolls-dropped-32000-positions-last-month-in-slowing-job-market-8af1fb60"
+      "pubDate": "2025-12-03T15:42:37Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/1d21b59f690aed17cf0b05d09f67faac",
+      "slug": "tmc-the-metals-company-inc-tmc-soars-177-as-countries-join-forces-to-ramp-up-cri-71c715bd",
+      "orig_slug": "tmc-the-metals-company-inc-tmc-soars-177-as-countries-join-forces-to-ramp-up-cri-71c715bd"
     },
     {
       "title": "Analyst Report: Becton, Dickinson And Co.",
@@ -218,49 +263,49 @@
       "orig_slug": "analyst-report-becton-dickinson-and-co-019c56c0"
     },
     {
-      "title": "World Bank warns developing world 'not out of danger' as debt costs hit record",
-      "link": "https://finance.yahoo.com/news/world-bank-warns-developing-world-143512993.html",
+      "title": "MongoDB (MDB) Climbs to Fresh High on Stellar Earnings, Bullish Ratings",
+      "link": "https://finance.yahoo.com/news/mongodb-mdb-climbs-fresh-high-154227706.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-03T14:35:12Z",
-      "image": "https://media.zenfs.com/en/reuters.com/f87113ccc5516c00bccb411dd002448c",
-      "slug": "world-bank-warns-developing-world-not-out-of-danger-as-debt-costs-hit-record-d011ef91",
-      "orig_slug": "world-bank-warns-developing-world-not-out-of-danger-as-debt-costs-hit-record-d011ef91"
+      "pubDate": "2025-12-03T15:42:27Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/472016067ff38d69997895fda3c22c82",
+      "slug": "mongodb-mdb-climbs-to-fresh-high-on-stellar-earnings-bullish-ratings-dda5fd92",
+      "orig_slug": "mongodb-mdb-climbs-to-fresh-high-on-stellar-earnings-bullish-ratings-dda5fd92"
     },
     {
-      "title": "3 Small-Cap Stocks With Big-Time Upside",
-      "link": "https://finance.yahoo.com/news/3-small-cap-stocks-big-145004971.html",
+      "title": "2 Growth Stocks to Invest $1,000 In Right Now",
+      "link": "https://finance.yahoo.com/news/2-growth-stocks-invest-1-153900220.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-03T14:50:04Z",
-      "image": "https://media.zenfs.com/en/24_7_wall_st__718/f3fe25bbd77a37249e59a514900652ac",
-      "slug": "3-small-cap-stocks-with-big-time-upside-787b9519",
-      "orig_slug": "3-small-cap-stocks-with-big-time-upside-787b9519"
+      "pubDate": "2025-12-03T15:39:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/3973eef53e9e205a1c95d900a201cc85",
+      "slug": "2-growth-stocks-to-invest-1000-in-right-now-f60b24e3",
+      "orig_slug": "2-growth-stocks-to-invest-1000-in-right-now-f60b24e3"
     },
     {
-      "title": "Rivian Is Recalling 35,000 EVs. Investors Are Fine With That.",
-      "link": "https://www.barrons.com/articles/rivian-stock-recall-evs-c4b79b7e?siteid=yhoof2&yptr=yahoo",
+      "title": "Microsoft Stock Slips On Report Customers Resisting AI Products",
+      "link": "https://www.investors.com/news/technology/microsoft-stock-msft-customer-resistance-ai-software/?src=A00220&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-03T14:33:00Z",
+      "pubDate": "2025-12-03T15:32:24Z",
       "image": "",
-      "slug": "rivian-is-recalling-35000-evs-investors-are-fine-with-that-64897d7b",
-      "orig_slug": "rivian-is-recalling-35000-evs-investors-are-fine-with-that-64897d7b"
+      "slug": "microsoft-stock-slips-on-report-customers-resisting-ai-products-bd26177e",
+      "orig_slug": "microsoft-stock-slips-on-report-customers-resisting-ai-products-bd26177e"
     },
     {
-      "title": "Stock Market Tumbles on Report Microsoft Lowering AI-Related Sales Quotas",
-      "link": "https://www.barrons.com/livecoverage/stock-market-news-today-120325/card/stock-market-tumbles-on-report-microsoft-lowering-ai-related-sales-quotas-8cBrB4eQdrdZcRjn3ssq?siteid=yhoof2&yptr=yahoo",
+      "title": "Bitcoin breaks above $92,000: 'A Santa rally is certainly not off the cards'",
+      "link": "https://finance.yahoo.com/news/bitcoin-breaks-above-92000-a-santa-rally-is-certainly-not-off-the-cards-152252559.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-03T14:32:38Z",
-      "image": "https://images.barrons.com/im-783602/social",
-      "slug": "stock-market-tumbles-on-report-microsoft-lowering-ai-related-sales-quotas-f7ef552b",
-      "orig_slug": "stock-market-tumbles-on-report-microsoft-lowering-ai-related-sales-quotas-f7ef552b"
+      "pubDate": "2025-12-03T15:22:52Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/.Z5tyxKY78q5nSzRFNKQXQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NjQ-/https://s.yimg.com/os/creatr-uploaded-images/2021-04/5af69a20-a8e5-11eb-bf7f-5f2e9fe992ce",
+      "slug": "bitcoin-breaks-above-92000-a-santa-rally-is-certainly-not-off-the-cards-59fbfd73",
+      "orig_slug": "bitcoin-breaks-above-92000-a-santa-rally-is-certainly-not-off-the-cards-59fbfd73"
     },
     {
-      "title": "Marvell Stock Jumps After Chip Maker Unveils Takeover, Swings to Profit",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-03-2025/card/marvell-stock-jumps-after-chip-maker-unveils-takeover-swings-to-profit-n3O64iVAI4pXr9t22pbE?siteid=yhoof2&yptr=yahoo",
+      "title": "Stock Market Today: Indexes Mixed As AI Chip Stock Soars On Data Center Plans (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobs-data-aeo-stock/?src=A00220&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-03T14:32:09Z",
+      "pubDate": "2025-12-03T15:21:00Z",
       "image": "",
-      "slug": "marvell-stock-jumps-after-chip-maker-unveils-takeover-swings-to-profit-4f259cae",
-      "orig_slug": "marvell-stock-jumps-after-chip-maker-unveils-takeover-swings-to-profit-4f259cae"
+      "slug": "stock-market-today-indexes-mixed-as-ai-chip-stock-soars-on-data-center-plans-liv-f09dc9e6",
+      "orig_slug": "stock-market-today-indexes-mixed-as-ai-chip-stock-soars-on-data-center-plans-liv-f09dc9e6"
     },
     {
       "title": "Market Digest: BDX, EOG",
@@ -272,49 +317,40 @@
       "orig_slug": "market-digest-bdx-eog-fa81e44c"
     },
     {
-      "title": "Glencore Restructures Operations in Bet on Copper Production",
-      "link": "https://www.wsj.com/business/glencore-targets-annual-copper-production-of-1-6-million-tonnes-by-2035-078b8c2d?siteid=yhoof2&yptr=yahoo",
+      "title": "Vulcan Energy secures $2.6bn financing package for lithium project",
+      "link": "https://finance.yahoo.com/news/vulcan-energy-secures-2-6bn-153056666.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-03T14:30:00Z",
+      "pubDate": "2025-12-03T15:30:56Z",
+      "image": "https://media.zenfs.com/en/mining_technology_700/695ccc596d89f43cd3aaf1e47bff44a9",
+      "slug": "vulcan-energy-secures-26bn-financing-package-for-lithium-project-2eb809c1",
+      "orig_slug": "vulcan-energy-secures-26bn-financing-package-for-lithium-project-2eb809c1"
+    },
+    {
+      "title": "Old Dominion again sees yields improve as volumes sag",
+      "link": "https://finance.yahoo.com/news/old-dominion-again-sees-yields-151617046.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-03T15:16:17Z",
+      "image": "https://media.zenfs.com/en/freightwaves_373/45a7e6b674e0328cde5a781fa0ff6d2b",
+      "slug": "old-dominion-again-sees-yields-improve-as-volumes-sag-b8d471ad",
+      "orig_slug": "old-dominion-again-sees-yields-improve-as-volumes-sag-b8d471ad"
+    },
+    {
+      "title": "Pharvaris Surges, Pulling KalVista Out Of A Slump, On Promising New HAE Treatment",
+      "link": "https://www.investors.com/news/technology/pharvaris-kalvista-hae-treatment/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-03T15:10:12Z",
       "image": "",
-      "slug": "glencore-restructures-operations-in-bet-on-copper-production-050fe99c",
-      "orig_slug": "glencore-restructures-operations-in-bet-on-copper-production-050fe99c"
+      "slug": "pharvaris-surges-pulling-kalvista-out-of-a-slump-on-promising-new-hae-treatment-59974a25",
+      "orig_slug": "pharvaris-surges-pulling-kalvista-out-of-a-slump-on-promising-new-hae-treatment-59974a25"
     },
     {
-      "title": "Verity completes purchase of remaining stake in Botswana copper-silver assets",
-      "link": "https://finance.yahoo.com/news/verity-completes-purchase-remaining-stake-144942351.html",
+      "title": "'Trump Account' newborns could have $1.9M by 28, Treasury Dept. says. Here's what's required to get that much",
+      "link": "https://finance.yahoo.com/news/trump-account-newborns-could-1-150300564.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-03T14:49:42Z",
-      "image": "https://media.zenfs.com/en/mining_technology_700/7a7a73c3e63fe2868ce00343dec54a75",
-      "slug": "verity-completes-purchase-of-remaining-stake-in-botswana-copper-silver-assets-f666af57",
-      "orig_slug": "verity-completes-purchase-of-remaining-stake-in-botswana-copper-silver-assets-f666af57"
-    },
-    {
-      "title": "New year, new wheels? Here’s how to decide whether to lease vs. finance.",
-      "link": "https://finance.yahoo.com/personal-finance/insurance/comparison/lease-vs-finance-car-203958250.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2024-07-23T20:39:58Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/eVaykONYue1S7IWI.Q34gA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/41c6afa0-4931-11ef-bfff-869e6f803a4c",
-      "slug": "new-year-new-wheels-heres-how-to-decide-whether-to-lease-vs-finance-61561ae0",
-      "orig_slug": "new-year-new-wheels-heres-how-to-decide-whether-to-lease-vs-finance-61561ae0"
-    },
-    {
-      "title": "CrowdStrike slips despite upbeat quarterly revenue forecast",
-      "link": "https://finance.yahoo.com/news/crowdstrike-forecasts-upbeat-quarterly-revenue-215734046.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-02T21:57:34Z",
-      "image": "https://media.zenfs.com/en/reuters-finance.com/e59f434096452f22e2ea54481e999000",
-      "slug": "crowdstrike-slips-despite-upbeat-quarterly-revenue-forecast-06e1f06f",
-      "orig_slug": "crowdstrike-slips-despite-upbeat-quarterly-revenue-forecast-06e1f06f"
-    },
-    {
-      "title": "ECB’s Lane Expects Euro Gains to Cool Inflation",
-      "link": "https://www.wsj.com/articles/ecbs-lane-sees-inflation-cooling-on-euro-gains-2673ff86?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-03T14:16:00Z",
-      "image": "",
-      "slug": "ecbs-lane-expects-euro-gains-to-cool-inflation-d11d6215",
-      "orig_slug": "ecbs-lane-expects-euro-gains-to-cool-inflation-d11d6215"
+      "pubDate": "2025-12-03T15:03:00Z",
+      "image": "https://media.zenfs.com/en/moneywise_ecomm_711/3af0dd92bec61a26070a6cc511ab7a5f",
+      "slug": "trump-account-newborns-could-have-19m-by-28-treasury-dept-says-heres-whats-requi-da076f4f",
+      "orig_slug": "trump-account-newborns-could-have-19m-by-28-treasury-dept-says-heres-whats-requi-da076f4f"
     },
     {
       "title": "Daily – Vickers Top Insider Picks for 12/03/2025",
@@ -326,49 +362,40 @@
       "orig_slug": "daily-vickers-top-insider-picks-for-12032025-a8d9873c"
     },
     {
-      "title": "Precious Metals Higher After ADP Report Shows Job Losses in November",
-      "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-up-prices-likely-to-remain-range-bound-f92ed87d?siteid=yhoof2&yptr=yahoo",
+      "title": "The Top 10 Reasons New Businesses Fail",
+      "link": "https://www.wsj.com/business/entrepreneurship/business-failure-reasons-top-10-0762e18b?siteid=yhoof2&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-03T14:14:00Z",
+      "pubDate": "2025-12-03T15:00:00Z",
       "image": "",
-      "slug": "precious-metals-higher-after-adp-report-shows-job-losses-in-november-3ac050e6",
-      "orig_slug": "precious-metals-higher-after-adp-report-shows-job-losses-in-november-3ac050e6"
+      "slug": "the-top-10-reasons-new-businesses-fail-d96bb99c",
+      "orig_slug": "the-top-10-reasons-new-businesses-fail-d96bb99c"
     },
     {
-      "title": "Leasys names Andrea Bandinelli as CEO",
-      "link": "https://finance.yahoo.com/news/leasys-names-andrea-bandinelli-ceo-144859073.html",
+      "title": "U.S. Industrial Production Rose in September",
+      "link": "https://www.wsj.com/economy/central-banking/u-s-industrial-production-rose-in-september-d6a7debd?siteid=yhoof2&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-03T14:48:59Z",
-      "image": "https://media.zenfs.com/en/motor_finance_444/e69097b3be07fe6f0eb3ad252900514e",
-      "slug": "leasys-names-andrea-bandinelli-as-ceo-ede2e5a5",
-      "orig_slug": "leasys-names-andrea-bandinelli-as-ceo-ede2e5a5"
-    },
-    {
-      "title": "Dollar Tree Stock Rises as Retailer Closes Strong 2025 With a Bang",
-      "link": "https://www.barrons.com/articles/dollar-tree-earnings-stock-price-4ff9bcb8?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-03T14:10:00Z",
+      "pubDate": "2025-12-03T14:58:00Z",
       "image": "",
-      "slug": "dollar-tree-stock-rises-as-retailer-closes-strong-2025-with-a-bang-c964e7f0",
-      "orig_slug": "dollar-tree-stock-rises-as-retailer-closes-strong-2025-with-a-bang-c964e7f0"
+      "slug": "us-industrial-production-rose-in-september-4abec401",
+      "orig_slug": "us-industrial-production-rose-in-september-4abec401"
     },
     {
-      "title": "Dem senator tries to own Trump over soaring overdue utility bills. It backfires, highlighting Biden’s presidency instead",
-      "link": "https://finance.yahoo.com/news/dem-senator-tries-own-trump-140700586.html",
+      "title": "Nebius leverages Microsoft, Meta contracts for AI expansion",
+      "link": "https://finance.yahoo.com/news/nebius-leverages-microsoft-meta-contracts-145325509.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-03T14:07:00Z",
-      "image": "https://media.zenfs.com/en/moneywise_ecomm_711/9060d40c96f7bbd3f86244ec709819e1",
-      "slug": "dem-senator-tries-to-own-trump-over-soaring-overdue-utility-bills-it-backfires-h-c98b6d6d",
-      "orig_slug": "dem-senator-tries-to-own-trump-over-soaring-overdue-utility-bills-it-backfires-h-c98b6d6d"
+      "pubDate": "2025-12-03T14:55:55Z",
+      "image": "https://media.zenfs.com/en/reuters.com/179dcfb057d8d249d73f02c8cd9b40c6",
+      "slug": "nebius-leverages-microsoft-meta-contracts-for-ai-expansion-deaf9e8a",
+      "orig_slug": "nebius-leverages-microsoft-meta-contracts-for-ai-expansion-deaf9e8a"
     },
     {
-      "title": "U.S. Import Prices Unchanged in September",
-      "link": "https://www.wsj.com/economy/u-s-import-prices-unchanged-in-september-29c6a8cc?siteid=yhoof2&yptr=yahoo",
+      "title": "Why A Surprise Delay For Cobenfy Just Sparked Bristol Myers Stock",
+      "link": "https://www.investors.com/news/technology/bristol-myers-squibb-stock-cobenfy-delay/?src=A00220&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-03T14:07:00Z",
+      "pubDate": "2025-12-03T14:54:39Z",
       "image": "",
-      "slug": "us-import-prices-unchanged-in-september-e6b5c0de",
-      "orig_slug": "us-import-prices-unchanged-in-september-e6b5c0de"
+      "slug": "why-a-surprise-delay-for-cobenfy-just-sparked-bristol-myers-stock-a7bc5ed2",
+      "orig_slug": "why-a-surprise-delay-for-cobenfy-just-sparked-bristol-myers-stock-a7bc5ed2"
     },
     {
       "title": "Daily – Vickers Top Buyers & Sellers for 12/03/2025",
@@ -380,67 +407,22 @@
       "orig_slug": "daily-vickers-top-buyers-sellers-for-12032025-9a66a3d3"
     },
     {
-      "title": "Brown Advisors Large-Cap Growth Strategy Sold Workday (WDAY) Due to Slower Than Anticipated Revenue Growth",
-      "link": "https://finance.yahoo.com/news/brown-advisors-large-cap-growth-140453977.html",
+      "title": "Nebius leverages Microsoft, Meta contracts for AI expansion",
+      "link": "https://finance.yahoo.com/news/nebius-leverages-microsoft-meta-contracts-145325186.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-03T14:04:53Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/31fba658e4859a33a3069b9d3341c5dc",
-      "slug": "brown-advisors-large-cap-growth-strategy-sold-workday-wday-due-to-slower-than-an-46f999c1",
-      "orig_slug": "brown-advisors-large-cap-growth-strategy-sold-workday-wday-due-to-slower-than-an-46f999c1"
+      "pubDate": "2025-12-03T14:53:25Z",
+      "image": "https://media.zenfs.com/en/reuters-finance.com/309edb32f2471447bf6c77fe59a293e6",
+      "slug": "nebius-leverages-microsoft-meta-contracts-for-ai-expansion-6e9f34ad",
+      "orig_slug": "nebius-leverages-microsoft-meta-contracts-for-ai-expansion-6e9f34ad"
     },
     {
-      "title": "Boomers Seeking Passive Income Are Buying 5 Safe High-Yield Monthly Pay ETFs",
-      "link": "https://finance.yahoo.com/news/boomers-seeking-passive-income-buying-144516672.html",
+      "title": "Why GitLab Stock Crashed Today",
+      "link": "https://finance.yahoo.com/news/why-gitlab-stock-crashed-today-152735605.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-03T14:45:16Z",
-      "image": "https://media.zenfs.com/en/24_7_wall_st__718/028247ff008c10575fcd07a93af82152",
-      "slug": "boomers-seeking-passive-income-are-buying-5-safe-high-yield-monthly-pay-etfs-d472aabb",
-      "orig_slug": "boomers-seeking-passive-income-are-buying-5-safe-high-yield-monthly-pay-etfs-d472aabb"
-    },
-    {
-      "title": "Bitcoin Rebounds. Have Cryptos Reached a Turning Point?",
-      "link": "https://www.barrons.com/articles/bitcoin-xrp-crypto-price-1944a313?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-03T14:04:00Z",
-      "image": "",
-      "slug": "bitcoin-rebounds-have-cryptos-reached-a-turning-point-3c50c28f",
-      "orig_slug": "bitcoin-rebounds-have-cryptos-reached-a-turning-point-3c50c28f"
-    },
-    {
-      "title": "Netflix (NFLX) Shares Pulled Back Despite Solid Results",
-      "link": "https://finance.yahoo.com/news/netflix-nflx-shares-pulled-back-140242553.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-03T14:02:42Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/acfdf2ca74d0d955846a814c95b0a123",
-      "slug": "netflix-nflx-shares-pulled-back-despite-solid-results-49ec9680",
-      "orig_slug": "netflix-nflx-shares-pulled-back-despite-solid-results-49ec9680"
-    },
-    {
-      "title": "Better-Than-Expected Trends Lifted Alphabet (GOOG) in Q3",
-      "link": "https://finance.yahoo.com/news/better-expected-trends-lifted-alphabet-140105812.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-03T14:01:05Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/6409e61fe6e177c1ebb9125c47486f11",
-      "slug": "better-than-expected-trends-lifted-alphabet-goog-in-q3-86a5ad45",
-      "orig_slug": "better-than-expected-trends-lifted-alphabet-goog-in-q3-86a5ad45"
-    },
-    {
-      "title": "Why we’re all talking about Supply Chain Insiders",
-      "link": "https://finance.yahoo.com/news/why-talking-supply-chain-insiders-140000121.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-03T14:00:00Z",
-      "image": "https://media.zenfs.com/en/freightwaves_373/04758a8d838e6af5211b72a737977bbc",
-      "slug": "why-were-all-talking-about-supply-chain-insiders-55bec367",
-      "orig_slug": "why-were-all-talking-about-supply-chain-insiders-55bec367"
-    },
-    {
-      "title": "Does Meta Platforms Need Another Year of Efficiency?",
-      "link": "https://finance.yahoo.com/news/does-meta-platforms-another-efficiency-144508779.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-03T14:45:08Z",
-      "image": "https://media.zenfs.com/en/24_7_wall_st__718/f848f2b8e43fcb5f0b3dc1c98f489038",
-      "slug": "does-meta-platforms-need-another-year-of-efficiency-cbec287d",
-      "orig_slug": "does-meta-platforms-need-another-year-of-efficiency-cbec287d"
+      "pubDate": "2025-12-03T15:27:35Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/51ea252a424f1b3d06c7106b9bd31a69",
+      "slug": "why-gitlab-stock-crashed-today-495e7209",
+      "orig_slug": "why-gitlab-stock-crashed-today-495e7209"
     }
   ]
 }
