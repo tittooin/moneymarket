@@ -4,6 +4,8 @@ import smtplib
 from email.mime.text import MIMEText
 from http.server import HTTPServer, BaseHTTPRequestHandler
 from datetime import datetime
+import subprocess
+import hashlib
 
 
 PORT = int(os.getenv('AUTOREPLY_PORT', '9000'))
@@ -15,6 +17,26 @@ SMTP_USER = os.getenv('SMTP_USER')
 SMTP_PASS = os.getenv('SMTP_PASS')
 FROM_EMAIL = os.getenv('FROM_EMAIL', SMTP_USER or '')
 ADMIN_EMAIL = os.getenv('ADMIN_EMAIL', '')
+SUBSCRIBE_GIT_SYNC = os.getenv('SUBSCRIBE_GIT_SYNC', '')
+GIT_REMOTE = os.getenv('GIT_REMOTE', 'origin')
+GIT_BRANCH = os.getenv('GIT_BRANCH', 'main')
+REPO_PATH = os.getenv('REPO_PATH', '')
+STORE_RAW = os.getenv('SUBSCRIBE_STORE_RAW', '1')
+
+def mask_email(email: str) -> str:
+    try:
+        local, domain = email.split('@', 1)
+        dl = domain.split('.')
+        d0 = dl[0]
+        masked_local = (local[:2] + '***') if len(local) >= 2 else (local[:1] + '***')
+        masked_domain = (d0[:3] + '***') if len(d0) >= 3 else (d0[:1] + '***')
+        suffix = '.' + '.'.join(dl[1:]) if len(dl) > 1 else ''
+        return masked_local + '@' + masked_domain + suffix
+    except Exception:
+        return '***@***'
+
+def email_fingerprint(email: str) -> str:
+    return hashlib.sha256(email.encode('utf-8')).hexdigest()[:10]
 
 def send_email(to_email, subject, body):
     if not SMTP_HOST or not FROM_EMAIL:
@@ -79,12 +101,39 @@ class Handler(BaseHTTPRequestHandler):
                     'source': (data.get('source') or ''),
                     'ua': (data.get('ua') or '')
                 }
-                with open('data/subscribers.csv', 'a', encoding='utf-8') as f:
-                    f.write('{ts},{name},{email},{source},{ua}\n'.format(**line))
+                os.makedirs('data', exist_ok=True)
+                masked = {
+                    'ts': line['ts'],
+                    'name': name,
+                    'email_masked': mask_email(email),
+                    'fingerprint': email_fingerprint(email),
+                    'source': line['source'],
+                    'ua': line['ua']
+                }
+                # write raw (local-only)
+                try:
+                    if STORE_RAW == '1':
+                        with open('data/subscribers.raw.csv', 'a', encoding='utf-8') as fraw:
+                            fraw.write('{ts},{name},{email},{source},{ua}\n'.format(**line))
+                except Exception:
+                    pass
+                # write masked (safe to commit)
+                with open('data/subscribers.masked.csv', 'a', encoding='utf-8') as fm:
+                    fm.write('{ts},{name},{email_masked},{fingerprint},{source},{ua}\n'.format(**masked))
                 ok = True
                 if ADMIN_EMAIL:
                     try:
                         send_email(ADMIN_EMAIL, 'New subscriber', 'Name: %s\nEmail: %s\nSource: %s' % (name, email, line['source']))
+                    except Exception:
+                        pass
+                if SUBSCRIBE_GIT_SYNC:
+                    try:
+                        cwd = REPO_PATH or os.getcwd()
+                        subprocess.run(['git','add','data/subscribers.masked.csv'], cwd=cwd, check=False)
+                        msg = 'chore(subscribers): +1 %s' % (masked['fingerprint'])
+                        subprocess.run(['git','commit','-m', msg], cwd=cwd, check=False)
+                        subprocess.run(['git','pull','--rebase',GIT_REMOTE,GIT_BRANCH], cwd=cwd, check=False)
+                        subprocess.run(['git','push',GIT_REMOTE,GIT_BRANCH], cwd=cwd, check=False)
                     except Exception:
                         pass
             except Exception:
