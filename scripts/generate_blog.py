@@ -3,6 +3,7 @@ import json
 import random
 import sys
 from datetime import datetime
+import re
 
 TOPICS_PATH = os.path.join('data', 'topics.json')
 POSTS_DIR = os.path.join('blog', 'posts')
@@ -78,6 +79,111 @@ def build_table(headers, rows):
         html.append('<tr>'+''.join('<td>'+str(x)+'</td>' for x in r)+'</tr>')
     html.append('</tbody></table></div>')
     return '\n'.join(html)
+
+def slugify_id(text):
+    t = re.sub(r'[^a-zA-Z0-9\s-]', '', text or '')
+    t = re.sub(r'\s+', '-', t.strip())
+    return (t.lower() or 'section')
+
+def build_toc(section_names):
+    items = []
+    for name in section_names:
+        sid = slugify_id(name)
+        items.append('<li><a href="#'+sid+'">'+name+'</a></li>')
+    return '<nav class="toc" aria-label="Table of Contents"><h2>Table of Contents</h2><ul>'+''.join(items)+'</ul></nav>'
+
+def collect_related_posts(cat, limit=3):
+    items = []
+    try:
+        names = sorted([n for n in os.listdir(POSTS_DIR) if n.endswith('.html')], reverse=True)
+        for name in names:
+            fp = os.path.join(POSTS_DIR, name)
+            with open(fp, 'r', encoding='utf-8') as f:
+                s = f.read()
+            m = re.search(r'data-title="([^"]+)"', s)
+            t = (m.group(1) if m else '')
+            if match_category(t) == cat:
+                items.append((t, '/blog/posts/'+name))
+            if len(items) >= limit:
+                break
+    except Exception:
+        pass
+    return items
+
+def build_link_block(cat, slug, title):
+    labels = {
+        '/tools/emi.html': 'EMI Calculator',
+        '/tools/income-tax.html': 'Income Tax Calculator',
+        '/tools/sip.html': 'SIP Calculator',
+        '/tools/fd-rd.html': 'FD / RD Calculator',
+        '/blog/index.html': 'Blog Home',
+        '/credit-cards/index.html': 'Credit Cards',
+        '/loans/index.html': 'Loans',
+        '/investments/index.html': 'Investments',
+        '/tax/index.html': 'Tax'
+    }
+    internal = []
+    external = []
+    if cat == 'loan':
+        internal = ['/loans/index.html','/tools/emi.html','/tools/income-tax.html']
+        external = [('Reserve Bank of India', 'https://www.rbi.org.in/')]
+    elif cat == 'credit':
+        internal = ['/credit-cards/index.html','/tools/income-tax.html','/tools/emi.html']
+        external = [('Reserve Bank of India', 'https://www.rbi.org.in/')]
+    elif cat == 'tax':
+        internal = ['/tax/index.html','/tools/income-tax.html','/blog/index.html']
+        external = [('Income Tax Department', 'https://incometax.gov.in/')]
+    elif cat == 'invest':
+        internal = ['/investments/index.html','/tools/sip.html','/tools/fd-rd.html']
+        external = [('SEBI', 'https://www.sebi.gov.in/')]
+    else:
+        internal = ['/blog/index.html','/tools/emi.html','/tools/income-tax.html','/tools/sip.html']
+        external = [('Reserve Bank of India', 'https://www.rbi.org.in/'), ('Income Tax Department', 'https://incometax.gov.in/')]
+    rel_posts = collect_related_posts(cat, 3)
+    html = []
+    html.append('<div class="card">')
+    html.append('<h3>Recommended Links</h3>')
+    if internal:
+        html.append('<p>' + ' • '.join('<a href="'+u+'">'+labels.get(u,u)+'</a>' for u in internal) + '</p>')
+    if external:
+        html.append('<p>' + ' • '.join('<a href="'+u+'" target="_blank" rel="nofollow noopener">'+n+'</a>' for n,u in external) + '</p>')
+    if rel_posts:
+        html.append('<ul>' + ''.join('<li><a href="'+link+'">'+t+'</a></li>' for t,link in rel_posts) + '</ul>')
+    html.append('</div>')
+    return '\n'.join(html)
+
+def build_para_random(title, cat):
+    o = [
+        'Most households save more by planning purchases as small projects rather than impulse buys.',
+        'Good decisions start with verified numbers and realistic assumptions.',
+        'Clarity arrives when you write down exact costs, timelines and care routines.'
+    ]
+    m = [
+        'Track one‑time price, shipping, GST, and any seasonal discount to compute total landed cost.',
+        'Use a simple lifespan estimate with care and warranty to spread cost per year.',
+        'Compare alternatives on durability, safety, and replacement cycle — not only sticker price.'
+    ]
+    i = [
+        'Indian card programs cap rewards by category and month; check those caps before using offers.',
+        'Retail events change terms quickly; always re‑check effective rates and fees at checkout.',
+        'Household goals work best when the monthly budget includes a small buffer for maintenance and replacements.'
+    ]
+    c = {
+        'loan': ['If you plan to finance, compute EMI and total interest, and confirm you still prefer the item after seeing the full cost.','Prepayments done early save the most; align them to bonuses so the EMI never feels heavy.'],
+        'credit': ['Pay total due every cycle to keep rewards meaningful; revolving destroys value quickly.','Use category‑aligned cards to earn points where you spend most, then redeem at high‑value partners.'],
+        'tax': ['Keep invoices and warranty docs; if for business use, confirm input tax credits and compliance rules.','Understand GST on different categories and how returns reflect them.'],
+        'invest': ['Treat durability as a defensive investment that lowers replacements and waste.','Focus on long horizons; value compounds when you avoid frequent breakage and repurchases.'],
+        'general': ['Plan purchases with a simple checklist: need, budget, lifespan, care, and resale or donation options.','Prefer transparent pricing and documentation over flashy claims.']
+    }
+    lines = [random.choice(o), random.choice(m), random.choice(i), random.choice(c.get(cat,'general'))]
+    return ' '.join(lines)
+
+def ensure_word_count(paragraphs, title, cat, target=5200):
+    def wc(ls):
+        return sum(len(p.split()) for p in ls)
+    while wc(paragraphs) < target:
+        paragraphs.append(build_para_random(title, cat))
+    return paragraphs
 
 def loan_example():
     P = 1000000
@@ -171,21 +277,24 @@ def build_body(title, slug):
     outline = [
         'Why this matters','Quick fundamentals','Step-by-step walkthrough','Real examples','Mistakes to avoid','Smart tips','Deep dive','FAQs','Summary you can act on'
     ]
+    parts.append(build_toc(outline))
     core = section_paragraphs(slug, title)
-    extra = [
-        'Write numbers down. Decisions improve when you see exact costs and timelines.',
-        'Avoid shortcuts that you cannot explain. Transparency protects you from hidden fees and stress.',
-        'Use calculators for each option and compare total cost, not just monthly amounts.'
-    ]
-    paragraphs = core + core + extra + core + extra + core
+    cat = match_category(title)
+    base = core + core + core
+    paragraphs = ensure_word_count(base, title, cat, 5200)
+    per = max(8, len(paragraphs)//len(outline))
     for i, name in enumerate(outline):
-        parts.append('<h2>'+name+'</h2>')
-        chunk = paragraphs[i*5:(i+1)*5]
+        sid = slugify_id(name)
+        parts.append('<h2 id="'+sid+'">'+name+'</h2>')
+        start = i*per
+        end = (i+1)*per
+        chunk = paragraphs[start:end]
         if not chunk:
             chunk = core
         for p in chunk:
             parts.append('<p>'+p+'</p>')
     parts.append('<div class="cta-row"><a class="ghost" href="/tools/emi.html">Use EMI Calculator</a><a class="ghost" href="/tools/income-tax.html">Estimate Income Tax</a><a class="ghost" href="/tools/sip.html">Project SIP Maturity</a></div>')
+    parts.append(build_link_block(cat, slug, title))
     parts.append(build_affiliate_block(title))
     parts.append('</article>')
     return '\n'.join(parts)
@@ -207,11 +316,25 @@ def faq_ld(title):
         items.append({"@type":"Question","name":qa["q"],"acceptedAnswer":{"@type":"Answer","text":qa["a"]}})
     return json.dumps({"@context":"https://schema.org","@type":"FAQPage","mainEntity":items})
 
+def article_ld(title, canonical, img_url):
+    data = {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": title,
+        "image": img_url,
+        "mainEntityOfPage": canonical,
+        "datePublished": datetime.utcnow().isoformat()+"Z",
+        "author": {"@type":"Organization","name":"MoneyMarket"}
+    }
+    return json.dumps(data)
+
 def build_html(title, meta, slug):
-    head = '<!doctype html>\n<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="stylesheet" href="/assets/css/styles.css"><link rel="canonical" href="'+meta['canonical']+'"></head>'
+    img = find_image_for_topic(slug, title)
+    head = '<!doctype html>\n<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="title" content="'+title+'"><meta name="description" content="'+meta['description']+'"><meta property="og:title" content="'+title+'"><meta property="og:description" content="'+meta['description']+'"><meta property="og:url" content="'+meta['canonical']+'"><meta property="og:image" content="'+img+'"><link rel="stylesheet" href="/assets/css/styles.css"><link rel="canonical" href="'+meta['canonical']+'"></head>'
     body_open = '<body data-title="'+title+'" data-meta="'+meta['description']+'"><header id="header"></header><main class="container layout"><div>'
     faq_script = '<script type="application/ld+json">'+faq_ld(title)+'</script>'
-    body_close = '</div><aside><div class="sidebar-ad ad">Sidebar Ad Placement</div></aside></main><footer id="footer"></footer>'+faq_script+'<script src="/assets/js/main.js" defer></script></body></html>'
+    article_script = '<script type="application/ld+json">'+article_ld(title, meta['canonical'], img)+'</script>'
+    body_close = '</div><aside><div class="sidebar-ad ad">Sidebar Ad Placement</div></aside></main><footer id="footer"></footer>'+faq_script+article_script+'<script src="/assets/js/main.js" defer></script></body></html>'
     return head + body_open + build_body(title, slug) + body_close
 
 def write_post(topic):
@@ -233,7 +356,9 @@ def update_index(slug, title):
     with open(INDEX_PATH, 'r', encoding='utf-8') as f:
         content = f.read()
     card = '<div class="card"><h3><a href="/blog/posts/'+slug+'.html">'+title+'</a></h3><p>New analysis and implementations.</p></div>'
-    content = content.replace('</div></section>', card + '</div></section>')
+    grid = '<div class="grid">'
+    if grid in content:
+        content = content.replace(grid, grid + card, 1)
     with open(INDEX_PATH, 'w', encoding='utf-8') as f:
         f.write(content)
 
@@ -255,17 +380,79 @@ def build_affiliate_block(title):
         if a.get('image_url'):
             img = '<div class="cta-row"><a href="'+a['link']+'" target="_blank"'+rel+'><img src="'+a['image_url']+'" height="30" alt="'+a.get('title','')+'"></a></div>'
         rows.append('<h3><a href="'+a['link']+'" target="_blank"'+rel+'>'+a.get('title','Affiliate')+'</a></h3>')
+        if a.get('promo_text'):
+            rows.append('<p>'+a.get('promo_text')+'</p>')
         if img:
             rows.append(img)
         rows.append('<div class="cta-row"><a class="ghost" href="'+a['link']+'" target="_blank"'+rel+'>'+a.get('cta_text','Learn More')+'</a></div>')
     rows.append('</div>')
     return '\n'.join(rows)
 
+def upgrade_existing_posts():
+    try:
+        for name in os.listdir(POSTS_DIR):
+            if not name.endswith('.html'):
+                continue
+            fp = os.path.join(POSTS_DIR, name)
+            with open(fp,'r',encoding='utf-8') as f:
+                s = f.read()
+            changed = False
+            # Add meta title/description from body data attributes
+            if '<meta name="title"' not in s or '<meta name="description"' not in s:
+                m_title = re.search(r'<body[^>]*data-title="([^"]+)"', s)
+                m_desc = re.search(r'<body[^>]*data-meta="([^"]+)"', s)
+                title = (m_title.group(1) if m_title else '')
+                desc = (m_desc.group(1) if m_desc else '')
+                s = s.replace('<head>', '<head>\n<meta name="title" content="'+title+'">\n<meta name="description" content="'+desc+'">', 1)
+                # Open Graph minimal
+                can = re.search(r'<link rel="canonical" href="([^"]+)"', s)
+                can_url = (can.group(1) if can else '')
+                s = s.replace('<head>', '<head>\n<meta property="og:title" content="'+title+'">\n<meta property="og:description" content="'+desc+'">\n<meta property="og:url" content="'+can_url+'">', 1)
+                changed = True
+            # Table of Contents and H2 ids
+            if '<nav class="toc"' not in s:
+                heads = re.findall(r'<h2>([^<]+)</h2>', s)
+                if heads:
+                    toc = build_toc(heads)
+                    s = s.replace('</h1>', '</h1>'+toc, 1)
+                    for h in heads:
+                        sid = slugify_id(h)
+                        s = s.replace('<h2>'+h+'</h2>', '<h2 id="'+sid+'">'+h+'</h2>')
+                    changed = True
+            # Recommended Links block
+            if 'Recommended Links' not in s:
+                m_title = re.search(r'<body[^>]*data-title="([^"]+)"', s)
+                title = (m_title.group(1) if m_title else '')
+                cat = match_category(title)
+                block = build_link_block(cat, '', title)
+                s_new = re.sub(r'(<div class="cta-row">[\s\S]*?</div>)', r'\1'+block, s, count=1)
+                if s_new != s:
+                    s = s_new
+                    changed = True
+            if changed:
+                with open(fp,'w',encoding='utf-8') as f:
+                    f.write(s)
+    except Exception:
+        pass
+
 def main():
     topics = load_topics()
-    if len(sys.argv)>1 and sys.argv[1]=='all':
-        generate_all(topics)
-        return
+    if len(sys.argv)>1:
+        if sys.argv[1]=='all':
+            generate_all(topics)
+            return
+        if sys.argv[1]=='one' and len(sys.argv)>2:
+            sel = sys.argv[2]
+            for t in topics:
+                if t['slug']==sel:
+                    s, p = write_post(t)
+                    update_index(s, t['title'])
+                    print('Generated', p)
+                    return
+        if sys.argv[1]=='upgrade':
+            upgrade_existing_posts()
+            print('Upgraded SEO for existing posts')
+            return
     topic = pick_topic(topics)
     slug, path = write_post(topic)
     update_index(slug, topic['title'])

@@ -26,4 +26,15 @@
     "cta_text": "View Best Offers",
     "nofollow": true
   }
+  ,
+  {
+    "id": "myborosil-offers",
+    "match_keywords": ["myborosil", "borosil", "tableware", "glass", "kitchen", "finance"],
+    "title": "MyBorosil — Elegant Tableware Offers",
+    "link": "https://linksredirect.com/?pub_id=221281&url=https%3A%2F%2Fwww.myborosil.com%2F",
+    "image_url": "https://cdn0.cuelinks.com/campaigns/5846/medium/logo20250811-2184298-nq4d0f.jpg?1754903752",
+    "cta_text": "Claim your savings and buy now",
+    "promo_text": "Transform your table setting with elegance! Starting at an incredible Rs. 1475. Limited-time offer — don’t miss out!",
+    "nofollow": true
+  }
 ]
