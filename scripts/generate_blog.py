@@ -178,7 +178,7 @@ def build_para_random(title, cat):
     lines = [random.choice(o), random.choice(m), random.choice(i), random.choice(c.get(cat,'general'))]
     return ' '.join(lines)
 
-def ensure_word_count(paragraphs, title, cat, target=5200):
+def ensure_word_count(paragraphs, title, cat, target=6200):
     def wc(ls):
         return sum(len(p.split()) for p in ls)
     while wc(paragraphs) < target:
@@ -232,6 +232,7 @@ def section_paragraphs(slug, title):
                   'A strong bureau score and healthy debt‑to‑income unlock better pricing and smoother documentation.']),
             'Checklist: documents, FOIR, insurance, fees, amortization, prepayment clauses, statement cycle.'
         ])
+        paras.append(build_table(['Item','Value'], [['Principal','₹ '+str(P)],['EMI','₹ '+str(emi)],['Total Paid','₹ '+str(total)],['Interest','₹ '+str(interest)]]))
     elif cat=='credit':
         cats, yearly = credit_spend_example()
         rows = [(c,'₹ '+str(a)) for c,a in cats]
@@ -252,6 +253,7 @@ def section_paragraphs(slug, title):
             'Keep Form 16, 26AS, AIS/TIS, rent receipts, medical bills and investment proofs organized. Documentation drives accuracy.',
             'Plan early: spread Section 80C, track HRA, claim NPS 80CCD(1B), and align declarations to proofs.'
         ])
+        paras.append(build_table(['Component','Amount'], [['Gross Salary','₹ '+str(salary)],['Deductions','₹ '+str(salary-taxable)],['Taxable Income','₹ '+str(taxable)]]))
     elif cat=='invest':
         m, months, fv, inv, gain = sip_example()
         paras.extend([
@@ -260,11 +262,14 @@ def section_paragraphs(slug, title):
             'Keep emergency funds separate and align risk to goals; avoid chasing short‑term performance.',
             'Tax treatment matters; understand equity/debt rules and rebalance yearly to control risk.'
         ])
+        paras.append(build_table(['Metric','Value'], [['Monthly SIP','₹ '+str(m)],['Months',str(months)],['Invested','₹ '+str(inv)],['Projected Corpus','₹ '+str(fv)],['Gain','₹ '+str(gain)]]))
     else:
         paras.extend([
             'Start with verified numbers. Budget honestly, track fixed and variable costs, then test scenarios in calculators.',
             'Prefer small steps you can sustain. Automation and reminders cut errors; keep buffers and review monthly.'
         ])
+        budget = [('Housing',25000),('Groceries',12000),('Transport',6000),('Utilities',5000),('Savings',10000)]
+        paras.append(build_table(['Budget Head','Monthly Amount'], [(h,'₹ '+str(a)) for h,a in budget]))
     return paras
 
 def build_body(title, slug):
@@ -453,6 +458,12 @@ def main():
             upgrade_existing_posts()
             print('Upgraded SEO for existing posts')
             return
+        if sys.argv[1]=='daily':
+            t = pick_topic_daily(topics)
+            s, p = write_post(t)
+            update_index(s, t['title'])
+            print('Generated', p)
+            return
     topic = pick_topic(topics)
     slug, path = write_post(topic)
     update_index(slug, topic['title'])
@@ -460,3 +471,29 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+def pick_topic_daily(topics):
+    prefer = os.getenv('DAILY_TOPICS','').strip()
+    preferred_slugs = []
+    if prefer:
+        preferred_slugs = [x.strip() for x in prefer.split(',') if x.strip()]
+    else:
+        preferred_slugs = [
+            'personal-loan-comparison-india',
+            'best-credit-cards-for-rewards-india',
+            'tax-saving-tips-india',
+            'emi-repayment-strategies',
+            'sip-investment-guide-india',
+            'credit-score-improvement-india',
+            'digital-personal-finance-tools',
+            'loan-eligibility-calculator-india',
+            'credit-card-benefits-india',
+            'money-management-for-professionals'
+        ]
+    pool = [t for t in topics if t['slug'] in preferred_slugs]
+    if not pool:
+        pool = topics
+    # deterministic rotation by day
+    today = datetime.utcnow().date()
+    idx = (today.toordinal()) % len(pool)
+    return pool[idx]
