@@ -1,0 +1,29 @@
+[
+  {
+    "id": "finline-project-report",
+    "match_keywords": ["loan", "project report", "emi", "home loan", "personal loan"],
+    "title": "Create Bank-Ready Project Report",
+    "link": "https://www.finline.in/?fla=267",
+    "image_url": "https://www.finline.in/assets/v3/img/finline-logo.png",
+    "cta_text": "Create Project Report",
+    "nofollow": true
+  },
+  {
+    "id": "apply-loan",
+    "match_keywords": ["loan", "emi", "personal loan", "home loan"],
+    "title": "Apply for Loan",
+    "link": "https://bitli.in/4TCg7cm",
+    "image_url": "",
+    "cta_text": "Apply Now",
+    "nofollow": true
+  },
+  {
+    "id": "credit-card-offers",
+    "match_keywords": ["credit card", "rewards", "cashback", "travel"],
+    "title": "Compare Best Credit Cards",
+    "link": "https://bitli.in/anPRlqO",
+    "image_url": "",
+    "cta_text": "View Best Offers",
+    "nofollow": true
+  }
+]
