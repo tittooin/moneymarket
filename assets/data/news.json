@@ -1,158 +1,41 @@
 {
-  "updated": "2025-12-06T09:12:38Z",
+  "updated": "2025-12-06T10:12:40Z",
   "items": [
     {
-      "title": "BOJ Is Said Likely to Hike This Month, Stay Open to More Moves",
-      "link": "https://finance.yahoo.com/news/boj-said-likely-raise-interest-042746923.html",
+      "title": "CFOs On the Move: Week ending Dec. 5",
+      "link": "https://finance.yahoo.com/news/cfos-move-week-ending-dec-084336577.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T05:56:17Z",
-      "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/899c1300b699ccd03196accfae84d9a1",
-      "slug": "boj-is-said-likely-to-hike-this-month-stay-open-to-more-moves-9bfb379e",
-      "orig_slug": "boj-is-said-likely-to-hike-this-month-stay-open-to-more-moves-9bfb379e"
+      "pubDate": "2025-12-05T08:43:36Z",
+      "image": "https://media.zenfs.com/en/cfo_com_600/57530384706da09666476f8163d608bf",
+      "slug": "cfos-on-the-move-week-ending-dec-5-54f541f4",
+      "orig_slug": "cfos-on-the-move-week-ending-dec-5-54f541f4"
     },
     {
-      "title": "IKEA to ramp up US production as tariffs bite",
-      "link": "https://finance.yahoo.com/news/ikea-ramp-us-production-tariffs-060453668.html",
+      "title": "Equinor Makes North Sea Gas Discoveries",
+      "link": "https://www.wsj.com/business/energy-oil/equinor-makes-north-sea-gas-discoveries-b24679e4?siteid=yhoof2&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T06:04:53Z",
-      "image": "https://media.zenfs.com/en/reuters.com/dc35029d4c178b0cb69ca0afb434d199",
-      "slug": "ikea-to-ramp-up-us-production-as-tariffs-bite-318fa076",
-      "orig_slug": "ikea-to-ramp-up-us-production-as-tariffs-bite-318fa076"
-    },
-    {
-      "title": "India Central Bank Delivers Rate Cut to Boost Economy",
-      "link": "https://www.wsj.com/articles/india-central-bank-delivers-rate-cut-to-boost-economy-3c2a7596?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T05:54:00Z",
+      "pubDate": "2025-12-05T08:40:00Z",
       "image": "",
-      "slug": "india-central-bank-delivers-rate-cut-to-boost-economy-c12daef0",
-      "orig_slug": "india-central-bank-delivers-rate-cut-to-boost-economy-c12daef0"
+      "slug": "equinor-makes-north-sea-gas-discoveries-a44d4670",
+      "orig_slug": "equinor-makes-north-sea-gas-discoveries-a44d4670"
     },
     {
-      "title": "The New Private-Equity Billionaires Who Are Taking Over Wall Street",
-      "link": "https://www.barrons.com/articles/private-equity-billionaires-wall-street-6638ac7b?siteid=yhoof2&yptr=yahoo",
+      "title": "AI industry not in a bubble, but stocks could see correction, SK chief says",
+      "link": "https://finance.yahoo.com/news/ai-industry-not-bubble-stocks-083455810.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T06:00:00Z",
+      "pubDate": "2025-12-05T08:34:55Z",
+      "image": "https://media.zenfs.com/en/reuters-finance.com/ae4547ab4f57a3f420991f6e7fbc9089",
+      "slug": "ai-industry-not-in-a-bubble-but-stocks-could-see-correction-sk-chief-says-56d4665a",
+      "orig_slug": "ai-industry-not-in-a-bubble-but-stocks-could-see-correction-sk-chief-says-56d4665a"
+    },
+    {
+      "title": "Trump’s Tariffs Could Be Overturned. Companies Are Rushing to Get Refunds.",
+      "link": "https://www.barrons.com/articles/trump-tariff-lawsuits-costco-revlon-kawasaki-bb56103b?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T08:30:00Z",
       "image": "",
-      "slug": "the-new-private-equity-billionaires-who-are-taking-over-wall-street-33f49e4c",
-      "orig_slug": "the-new-private-equity-billionaires-who-are-taking-over-wall-street-33f49e4c"
-    },
-    {
-      "title": "Shell Lifts Stakes in Atapu and Mero to Deepen Brazil Pre-Salt Position",
-      "link": "https://finance.yahoo.com/news/shell-lifts-stakes-atapu-mero-061100841.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T06:11:00Z",
-      "image": "https://media.zenfs.com/en/oilprice.com/8058ab498c0717e9e4b6a824a54556dd",
-      "slug": "shell-lifts-stakes-in-atapu-and-mero-to-deepen-brazil-pre-salt-position-d051c1c3",
-      "orig_slug": "shell-lifts-stakes-in-atapu-and-mero-to-deepen-brazil-pre-salt-position-d051c1c3"
-    },
-    {
-      "title": "Big Shift in AI Stock Trade Drives Hunt for New Stars in Asia",
-      "link": "https://finance.yahoo.com/news/big-shift-ai-stock-trade-060031741.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T06:00:31Z",
-      "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/55ea1218a50a7739ab5848f3ed7ef873",
-      "slug": "big-shift-in-ai-stock-trade-drives-hunt-for-new-stars-in-asia-914cefc5",
-      "orig_slug": "big-shift-in-ai-stock-trade-drives-hunt-for-new-stars-in-asia-914cefc5"
-    },
-    {
-      "title": "Wall Street rises to the edge of its all-time high",
-      "link": "https://finance.yahoo.com/news/asian-shares-mixed-wall-street-053802358.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T05:38:02Z",
-      "image": "https://media.zenfs.com/en/ap.org/1e0f2cfcaf13a1b5043ef611195630fb",
-      "slug": "wall-street-rises-to-the-edge-of-its-all-time-high-b9cff8e4",
-      "orig_slug": "wall-street-rises-to-the-edge-of-its-all-time-high-b9cff8e4"
-    },
-    {
-      "title": "Germany Steps on the Gas With Spending. 6 Stocks to Watch.",
-      "link": "https://www.barrons.com/articles/germany-stocks-493838a5?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T06:30:00Z",
-      "image": "",
-      "slug": "germany-steps-on-the-gas-with-spending-6-stocks-to-watch-9de9851a",
-      "orig_slug": "germany-steps-on-the-gas-with-spending-6-stocks-to-watch-9de9851a"
-    },
-    {
-      "title": "Trump accounts explained: How they work, who qualifies",
-      "link": "https://finance.yahoo.com/personal-finance/taxes/article/trump-accounts-205705429.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-04T20:57:05Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/Kljxun4J5TIHMnlB6Cxh1g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/44a93750-cfeb-11f0-b5bd-0e36ca17174d",
-      "slug": "trump-accounts-explained-how-they-work-who-qualifies-3c32ac2d",
-      "orig_slug": "trump-accounts-explained-how-they-work-who-qualifies-3c32ac2d"
-    },
-    {
-      "title": "Even As Bitcoin Dips, Crypto ETFs Break Down TradFi Barriers",
-      "link": "https://finance.yahoo.com/news/even-bitcoin-dips-crypto-etfs-050100684.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T05:01:00Z",
-      "image": "https://media.zenfs.com/en/the_daily_upside_435/0e17bcd07873c71e4ee963cc99bf5cc9",
-      "slug": "even-as-bitcoin-dips-crypto-etfs-break-down-tradfi-barriers-8e7f351f",
-      "orig_slug": "even-as-bitcoin-dips-crypto-etfs-break-down-tradfi-barriers-8e7f351f"
-    },
-    {
-      "title": "Solana, XRP, ETH Extend Losses as Bitcoin’s $91K Support Back in Focus",
-      "link": "https://finance.yahoo.com/news/solana-xrp-eth-extend-losses-055726480.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T05:57:26Z",
-      "image": "https://media.zenfs.com/en/coindesk_75/410eadf534a2aac7bc6b18586b6a26cc",
-      "slug": "solana-xrp-eth-extend-losses-as-bitcoins-91k-support-back-in-focus-4c0de3b7",
-      "orig_slug": "solana-xrp-eth-extend-losses-as-bitcoins-91k-support-back-in-focus-4c0de3b7"
-    },
-    {
-      "title": "Netflix Is Buying Warner Bros. So Who Changes Whom?",
-      "link": "https://finance.yahoo.com/news/netflix-buys-warner-changes-whom-050100997.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T05:01:00Z",
-      "image": "https://media.zenfs.com/en/the_daily_upside_435/f83ff2aa4e806eaa4c3c408d8ad441a3",
-      "slug": "netflix-is-buying-warner-bros-so-who-changes-whom-42125570",
-      "orig_slug": "netflix-is-buying-warner-bros-so-who-changes-whom-42125570"
-    },
-    {
-      "title": "Dollar Stores Increasingly Make Sense for Crunched Consumers",
-      "link": "https://finance.yahoo.com/news/dollar-stores-increasingly-sense-crunched-050100676.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T05:01:00Z",
-      "image": "https://media.zenfs.com/en/the_daily_upside_435/51c405544fc5ba75823a1de1c682c63e",
-      "slug": "dollar-stores-increasingly-make-sense-for-crunched-consumers-19f74e8a",
-      "orig_slug": "dollar-stores-increasingly-make-sense-for-crunched-consumers-19f74e8a"
-    },
-    {
-      "title": "Ask an Advisor: Should I Pay Taxes on My IRA Now or Wait Until Retirement?",
-      "link": "https://finance.yahoo.com/news/ask-advisor-help-understand-best-153928464.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T05:00:00Z",
-      "image": "https://media.zenfs.com/en/smartasset_475/97c6d284fb1cab73c018a3ac1dcfb3d0",
-      "slug": "ask-an-advisor-should-i-pay-taxes-on-my-ira-now-or-wait-until-retirement-1f330847",
-      "orig_slug": "ask-an-advisor-should-i-pay-taxes-on-my-ira-now-or-wait-until-retirement-1f330847"
-    },
-    {
-      "title": "Exclusive-Baidu's Kunlunxin, valued at close to $3 billion, eyes Hong Kong IPO, sources say",
-      "link": "https://finance.yahoo.com/news/exclusive-baidus-kunlunxin-valued-close-044219778.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T04:42:19Z",
-      "image": "https://media.zenfs.com/en/reuters-finance.com/57ce2eec70b8d2081126c5f569448c0b",
-      "slug": "exclusive-baidus-kunlunxin-valued-at-close-to-3-billion-eyes-hong-kong-ipo-sourc-ae52fdb1",
-      "orig_slug": "exclusive-baidus-kunlunxin-valued-at-close-to-3-billion-eyes-hong-kong-ipo-sourc-ae52fdb1"
-    },
-    {
-      "title": "Rightmove under pressure as activist investor takes £250m stake",
-      "link": "https://finance.yahoo.com/news/rightmove-under-pressure-activist-investor-060000605.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T06:00:00Z",
-      "image": "https://media.zenfs.com/en/the_telegraph_258/5432151b9703c14a1418107b0b24cb18",
-      "slug": "rightmove-under-pressure-as-activist-investor-takes-250m-stake-86f6a009",
-      "orig_slug": "rightmove-under-pressure-as-activist-investor-takes-250m-stake-86f6a009"
-    },
-    {
-      "title": "Our Twilio Stock Pick Is Up 20%. Hold On to It.",
-      "link": "https://www.barrons.com/articles/wp-bar-0001523605?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T04:25:00Z",
-      "image": "",
-      "slug": "our-twilio-stock-pick-is-up-20-hold-on-to-it-18945b73",
-      "orig_slug": "our-twilio-stock-pick-is-up-20-hold-on-to-it-18945b73"
+      "slug": "trumps-tariffs-could-be-overturned-companies-are-rushing-to-get-refunds-493744ae",
+      "orig_slug": "trumps-tariffs-could-be-overturned-companies-are-rushing-to-get-refunds-493744ae"
     },
     {
       "title": "Heard on the Street Thursday Recap: Yields Rising",
@@ -164,13 +47,13 @@
       "orig_slug": "heard-on-the-street-thursday-recap-yields-rising-e02abbb3"
     },
     {
-      "title": "Swiss Re Targets Higher Profit in 2026, Sets Out Buyback Program",
-      "link": "https://www.wsj.com/business/earnings/swiss-re-targets-higher-profit-in-2026-sets-out-buyback-program-3ec92f74?siteid=yhoof2&yptr=yahoo",
+      "title": "These Are the 3 Hottest Stocks in the S&P 500 Heading Into the New Year. Should You Invest in Them?",
+      "link": "https://finance.yahoo.com/news/3-hottest-stocks-p-500-083500999.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T06:55:00Z",
-      "image": "",
-      "slug": "swiss-re-targets-higher-profit-in-2026-sets-out-buyback-program-9cf944f5",
-      "orig_slug": "swiss-re-targets-higher-profit-in-2026-sets-out-buyback-program-9cf944f5"
+      "pubDate": "2025-12-05T08:35:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/64889e7d25d29047253354ad0514a13d",
+      "slug": "these-are-the-3-hottest-stocks-in-the-sp-500-heading-into-the-new-year-should-yo-85790747",
+      "orig_slug": "these-are-the-3-hottest-stocks-in-the-sp-500-heading-into-the-new-year-should-yo-85790747"
     },
     {
       "title": "Oracle Earnings Are Coming. It Can’t Go Any Worse Than Last Time for the Stock.",
@@ -182,13 +65,40 @@
       "orig_slug": "oracle-earnings-are-coming-it-cant-go-any-worse-than-last-time-for-the-stock-d854b908"
     },
     {
-      "title": "Forget IonQ: Alphabet is a Much Better Bet on Quantum Computing.",
-      "link": "https://finance.yahoo.com/news/forget-ionq-alphabet-much-better-055000648.html",
+      "title": "Asia's strong equity deals pipeline to be tested by AI bubble concerns in 2026",
+      "link": "https://finance.yahoo.com/news/asias-strong-equity-deals-pipeline-080939548.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T05:50:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/6bbb2395540bb41624f76c886589fa6e",
-      "slug": "forget-ionq-alphabet-is-a-much-better-bet-on-quantum-computing-c59c07c7",
-      "orig_slug": "forget-ionq-alphabet-is-a-much-better-bet-on-quantum-computing-c59c07c7"
+      "pubDate": "2025-12-05T08:09:39Z",
+      "image": "https://media.zenfs.com/en/reuters-finance.com/d447b6413fc54a63b67efc29ed837cdb",
+      "slug": "asias-strong-equity-deals-pipeline-to-be-tested-by-ai-bubble-concerns-in-2026-87a89afd",
+      "orig_slug": "asias-strong-equity-deals-pipeline-to-be-tested-by-ai-bubble-concerns-in-2026-87a89afd"
+    },
+    {
+      "title": "Amazon pays Italy 180 million euros to end tax, labour probe, sources say",
+      "link": "https://finance.yahoo.com/news/amazon-pays-italy-180-million-072559492.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T07:25:59Z",
+      "image": "https://media.zenfs.com/en/reuters-finance.com/83cd4a8cef968d57f0238e4976280d3c",
+      "slug": "amazon-pays-italy-180-million-euros-to-end-tax-labour-probe-sources-say-5fcfb59b",
+      "orig_slug": "amazon-pays-italy-180-million-euros-to-end-tax-labour-probe-sources-say-5fcfb59b"
+    },
+    {
+      "title": "How Is Gartner Inc.’s Stock Performance Compared to Other Information Technology stocks?",
+      "link": "https://finance.yahoo.com/news/gartner-inc-stock-performance-compared-072544788.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T07:25:44Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/3fb012308a6461a67b7f57e16349339f",
+      "slug": "how-is-gartner-incs-stock-performance-compared-to-other-information-technology-s-b4a72e74",
+      "orig_slug": "how-is-gartner-incs-stock-performance-compared-to-other-information-technology-s-b4a72e74"
+    },
+    {
+      "title": "Billionaire Warren Buffett Has Over $75 Billion Invested in 3 \"Magnificent\" Artificial Intelligence (AI) Stocks",
+      "link": "https://finance.yahoo.com/news/billionaire-warren-buffett-over-75-082600365.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T08:26:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/0f5451d181ec5e5ac58600fcf22fa8ba",
+      "slug": "billionaire-warren-buffett-has-over-75-billion-invested-in-3-magnificent-artific-1a0bdaeb",
+      "orig_slug": "billionaire-warren-buffett-has-over-75-billion-invested-in-3-magnificent-artific-1a0bdaeb"
     },
     {
       "title": "Why Pensions May Be Less Expensive for Employers Than 401(k) Plans",
@@ -218,166 +128,256 @@
       "orig_slug": "retirees-its-time-for-your-year-end-portfolio-review-heres-what-to-do-5dcbb5a3"
     },
     {
-      "title": "Asia's strong equity deals pipeline to be tested by AI bubble concerns in 2026",
-      "link": "https://finance.yahoo.com/news/asias-strong-equity-deals-pipeline-080939548.html",
+      "title": "Swiss Re Targets Higher Profit in 2026, Sets Out Buyback Program",
+      "link": "https://www.wsj.com/business/earnings/swiss-re-targets-higher-profit-in-2026-sets-out-buyback-program-3ec92f74?siteid=yhoof2&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T08:09:39Z",
-      "image": "https://media.zenfs.com/en/reuters-finance.com/d447b6413fc54a63b67efc29ed837cdb",
-      "slug": "asias-strong-equity-deals-pipeline-to-be-tested-by-ai-bubble-concerns-in-2026-87a89afd",
-      "orig_slug": "asias-strong-equity-deals-pipeline-to-be-tested-by-ai-bubble-concerns-in-2026-87a89afd"
-    },
-    {
-      "title": "OpenAI, NextDC Plan to Build $4.6 Billion Sydney Data Center",
-      "link": "https://finance.yahoo.com/news/openai-nextdc-plan-build-large-230956616.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T06:14:42Z",
-      "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/ace97e44ae28fab94aa8d0c42b480db0",
-      "slug": "openai-nextdc-plan-to-build-46-billion-sydney-data-center-cdc3ceef",
-      "orig_slug": "openai-nextdc-plan-to-build-46-billion-sydney-data-center-cdc3ceef"
-    },
-    {
-      "title": "Amazon pays Italy 180 million euros to end tax, labour probe, sources say",
-      "link": "https://finance.yahoo.com/news/amazon-pays-italy-180-million-072559492.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T07:25:59Z",
-      "image": "https://media.zenfs.com/en/reuters-finance.com/83cd4a8cef968d57f0238e4976280d3c",
-      "slug": "amazon-pays-italy-180-million-euros-to-end-tax-labour-probe-sources-say-5fcfb59b",
-      "orig_slug": "amazon-pays-italy-180-million-euros-to-end-tax-labour-probe-sources-say-5fcfb59b"
-    },
-    {
-      "title": "How Is Gartner Inc.’s Stock Performance Compared to Other Information Technology stocks?",
-      "link": "https://finance.yahoo.com/news/gartner-inc-stock-performance-compared-072544788.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T07:25:44Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/3fb012308a6461a67b7f57e16349339f",
-      "slug": "how-is-gartner-incs-stock-performance-compared-to-other-information-technology-s-b4a72e74",
-      "orig_slug": "how-is-gartner-incs-stock-performance-compared-to-other-information-technology-s-b4a72e74"
-    },
-    {
-      "title": "Trump’s Tariffs Could Be Overturned. Companies Are Rushing to Get Refunds.",
-      "link": "https://www.barrons.com/articles/trump-tariff-lawsuits-costco-revlon-kawasaki-bb56103b?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T08:30:00Z",
+      "pubDate": "2025-12-05T06:55:00Z",
       "image": "",
-      "slug": "trumps-tariffs-could-be-overturned-companies-are-rushing-to-get-refunds-493744ae",
-      "orig_slug": "trumps-tariffs-could-be-overturned-companies-are-rushing-to-get-refunds-493744ae"
+      "slug": "swiss-re-targets-higher-profit-in-2026-sets-out-buyback-program-9cf944f5",
+      "orig_slug": "swiss-re-targets-higher-profit-in-2026-sets-out-buyback-program-9cf944f5"
     },
     {
-      "title": "Jim Cramer Notes Strategy’s Transformation into a “Bitcoin Accumulation Machine Fueled by Borrowed Money”",
-      "link": "https://finance.yahoo.com/news/jim-cramer-notes-strategy-transformation-034534866.html",
+      "title": "Woori Bank Becomes First in Korea to Display Bitcoin Prices in Trading Room",
+      "link": "https://finance.yahoo.com/news/woori-bank-becomes-first-korea-074526421.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T03:45:34Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/82ced85c035863ab0dac1c7bada1ed60",
-      "slug": "jim-cramer-notes-strategys-transformation-into-a-bitcoin-accumulation-machine-fu-665b5285",
-      "orig_slug": "jim-cramer-notes-strategys-transformation-into-a-bitcoin-accumulation-machine-fu-665b5285"
+      "pubDate": "2025-12-05T07:45:26Z",
+      "image": "https://media.zenfs.com/en/cryptonews_us_711/4309fa420fc0062dfbd0701c71eec0e0",
+      "slug": "woori-bank-becomes-first-in-korea-to-display-bitcoin-prices-in-trading-room-b3405b6a",
+      "orig_slug": "woori-bank-becomes-first-in-korea-to-display-bitcoin-prices-in-trading-room-b3405b6a"
     },
     {
-      "title": "Over $4 Billion in BTC and ETH Options Vanish as Traders Quietly Bet on a 2026 Comeback",
-      "link": "https://finance.yahoo.com/news/over-4-billion-btc-eth-054538936.html",
+      "title": "AI bubble to be short-lived, rebound stronger, NTT DATA chief says",
+      "link": "https://finance.yahoo.com/news/ai-bubble-short-lived-rebound-091512627.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T05:45:38Z",
-      "image": "https://media.zenfs.com/en/beincrypto_us_662/3642667fd5a81303725c8e8a3aa49d7d",
-      "slug": "over-4-billion-in-btc-and-eth-options-vanish-as-traders-quietly-bet-on-a-2026-co-2a94fbce",
-      "orig_slug": "over-4-billion-in-btc-and-eth-options-vanish-as-traders-quietly-bet-on-a-2026-co-2a94fbce"
+      "pubDate": "2025-12-05T09:15:12Z",
+      "image": "https://media.zenfs.com/en/reuters-finance.com/c6217d4e767c6bbae4e493409bd340fa",
+      "slug": "ai-bubble-to-be-short-lived-rebound-stronger-ntt-data-chief-says-7037efd9",
+      "orig_slug": "ai-bubble-to-be-short-lived-rebound-stronger-ntt-data-chief-says-7037efd9"
     },
     {
-      "title": "Jim Cramer Says Boeing Has Likely Reached Its Bottom",
-      "link": "https://finance.yahoo.com/news/jim-cramer-says-boeing-likely-034535091.html",
+      "title": "Global Stock Markets Mostly Rise Ahead of Key U.S. Inflation Data",
+      "link": "https://www.wsj.com/finance/stocks/global-stock-markets-mostly-rise-ahead-of-key-u-s-inflation-data-40ddb772?siteid=yhoof2&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T03:45:35Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/3370f76c684b0d21224fa4bfc398d17e",
-      "slug": "jim-cramer-says-boeing-has-likely-reached-its-bottom-fe524877",
-      "orig_slug": "jim-cramer-says-boeing-has-likely-reached-its-bottom-fe524877"
-    },
-    {
-      "title": "Jim Cramer on Coinbase: “Sell It on the Way Up”",
-      "link": "https://finance.yahoo.com/news/jim-cramer-coinbase-sell-way-034528646.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T03:45:28Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/6f9e3b90e6e26a76e6984fc6b8a42e27",
-      "slug": "jim-cramer-on-coinbase-sell-it-on-the-way-up-e9079dad",
-      "orig_slug": "jim-cramer-on-coinbase-sell-it-on-the-way-up-e9079dad"
-    },
-    {
-      "title": "Jim Cramer Recommends Selling the Stock of Oklo",
-      "link": "https://finance.yahoo.com/news/jim-cramer-recommends-selling-stock-034532234.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T03:45:32Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/344bd6a9038b9f32ae261446499b0a77",
-      "slug": "jim-cramer-recommends-selling-the-stock-of-oklo-c2b74bbe",
-      "orig_slug": "jim-cramer-recommends-selling-the-stock-of-oklo-c2b74bbe"
-    },
-    {
-      "title": "Jim Cramer on Linde: “This Stock Has Just Been Nothing But Nastiness”",
-      "link": "https://finance.yahoo.com/news/jim-cramer-linde-stock-just-034531595.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T03:45:31Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/6bb1d8eb85b54c6b741ba52e7feefdcd",
-      "slug": "jim-cramer-on-linde-this-stock-has-just-been-nothing-but-nastiness-5402a4ab",
-      "orig_slug": "jim-cramer-on-linde-this-stock-has-just-been-nothing-but-nastiness-5402a4ab"
-    },
-    {
-      "title": "Why Is Wall Street So Bearish on Tesla? There's 1 Key Reason.",
-      "link": "https://finance.yahoo.com/news/why-wall-street-bearish-tesla-053600009.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T05:36:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/358213e25e2306a097970b2bf8d67237",
-      "slug": "why-is-wall-street-so-bearish-on-tesla-theres-1-key-reason-e585d703",
-      "orig_slug": "why-is-wall-street-so-bearish-on-tesla-theres-1-key-reason-e585d703"
-    },
-    {
-      "title": "Jim Cramer on Meta: “I Think It’s a Buy”",
-      "link": "https://finance.yahoo.com/news/jim-cramer-meta-think-buy-034526977.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T03:45:26Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/ec3ff787a5b6f6d5b0fd7957bcf52f0d",
-      "slug": "jim-cramer-on-meta-i-think-its-a-buy-cec0a512",
-      "orig_slug": "jim-cramer-on-meta-i-think-its-a-buy-cec0a512"
-    },
-    {
-      "title": "Jim Cramer on Amazon: “Wall Street Only Seems to Care About Amazon Web Services”",
-      "link": "https://finance.yahoo.com/news/jim-cramer-amazon-wall-street-034529788.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T03:45:29Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/90e386a06858d8b4751ec77797010aed",
-      "slug": "jim-cramer-on-amazon-wall-street-only-seems-to-care-about-amazon-web-services-94029e2d",
-      "orig_slug": "jim-cramer-on-amazon-wall-street-only-seems-to-care-about-amazon-web-services-94029e2d"
-    },
-    {
-      "title": "AI industry not in a bubble, but stocks could see correction, SK chief says",
-      "link": "https://finance.yahoo.com/news/ai-industry-not-bubble-stocks-083455810.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T08:34:55Z",
-      "image": "https://media.zenfs.com/en/reuters-finance.com/ae4547ab4f57a3f420991f6e7fbc9089",
-      "slug": "ai-industry-not-in-a-bubble-but-stocks-could-see-correction-sk-chief-says-56d4665a",
-      "orig_slug": "ai-industry-not-in-a-bubble-but-stocks-could-see-correction-sk-chief-says-56d4665a"
-    },
-    {
-      "title": "Equinor Makes North Sea Gas Discoveries",
-      "link": "https://www.wsj.com/business/energy-oil/equinor-makes-north-sea-gas-discoveries-b24679e4?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T08:40:00Z",
+      "pubDate": "2025-12-05T09:25:00Z",
       "image": "",
-      "slug": "equinor-makes-north-sea-gas-discoveries-a44d4670",
-      "orig_slug": "equinor-makes-north-sea-gas-discoveries-a44d4670"
+      "slug": "global-stock-markets-mostly-rise-ahead-of-key-us-inflation-data-54f6df66",
+      "orig_slug": "global-stock-markets-mostly-rise-ahead-of-key-us-inflation-data-54f6df66"
     },
     {
-      "title": "The Cryptocurrency That Could Be About to Explode 1,000%",
-      "link": "https://finance.yahoo.com/news/cryptocurrency-could-explode-1-000-063200092.html",
+      "title": "Trump accounts explained: How they work, who qualifies",
+      "link": "https://finance.yahoo.com/personal-finance/taxes/article/trump-accounts-205705429.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T06:32:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/f4b20cdedcf2e1c328b18742351075bf",
-      "slug": "the-cryptocurrency-that-could-be-about-to-explode-1000-d18bc430",
-      "orig_slug": "the-cryptocurrency-that-could-be-about-to-explode-1000-d18bc430"
+      "pubDate": "2025-12-04T20:57:05Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/Kljxun4J5TIHMnlB6Cxh1g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/44a93750-cfeb-11f0-b5bd-0e36ca17174d",
+      "slug": "trump-accounts-explained-how-they-work-who-qualifies-3c32ac2d",
+      "orig_slug": "trump-accounts-explained-how-they-work-who-qualifies-3c32ac2d"
     },
     {
-      "title": "Vuzix Corporation (VUZI) Expands Smart Glasses Deployments, Joins AR Alliance, Analyst Reaffirms Buy",
-      "link": "https://finance.yahoo.com/news/vuzix-corporation-vuzi-expands-smart-031033316.html",
+      "title": "Emerging markets set to outperform US stocks as dollar weakness continues, Cambridge says",
+      "link": "https://finance.yahoo.com/news/emerging-markets-set-outperform-us-093000663.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T03:10:33Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/5d6e1c2dea36326a4d8bc31a5cab7084",
-      "slug": "vuzix-corporation-vuzi-expands-smart-glasses-deployments-joins-ar-alliance-analy-4cf94fe7",
-      "orig_slug": "vuzix-corporation-vuzi-expands-smart-glasses-deployments-joins-ar-alliance-analy-4cf94fe7"
+      "pubDate": "2025-12-05T09:30:00Z",
+      "image": "https://media.zenfs.com/en/south_china_morning_post_us_228/f0c016ae726687c4eb5f82e1215f070c",
+      "slug": "emerging-markets-set-to-outperform-us-stocks-as-dollar-weakness-continues-cambri-f154173f",
+      "orig_slug": "emerging-markets-set-to-outperform-us-stocks-as-dollar-weakness-continues-cambri-f154173f"
+    },
+    {
+      "title": "Why Chinese Investors Don’t Welcome Dollar Stablecoins Any More",
+      "link": "https://finance.yahoo.com/news/why-chinese-investors-don-t-075221327.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T07:52:21Z",
+      "image": "https://media.zenfs.com/en/beincrypto_us_662/f90c0c2a27b0a301200add8db5417ee7",
+      "slug": "why-chinese-investors-dont-welcome-dollar-stablecoins-any-more-9fa98a47",
+      "orig_slug": "why-chinese-investors-dont-welcome-dollar-stablecoins-any-more-9fa98a47"
+    },
+    {
+      "title": "HSBC to occupy over 40,000 sq ft at Hong Kong's Capitol Centre in 2026",
+      "link": "https://finance.yahoo.com/news/hsbc-occupy-over-40-000-093000767.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T09:30:00Z",
+      "image": "https://media.zenfs.com/en/south_china_morning_post_us_228/64fd156e2415739e1999d4f44bce5590",
+      "slug": "hsbc-to-occupy-over-40000-sq-ft-at-hong-kongs-capitol-centre-in-2026-2e402cb8",
+      "orig_slug": "hsbc-to-occupy-over-40000-sq-ft-at-hong-kongs-capitol-centre-in-2026-2e402cb8"
+    },
+    {
+      "title": "Moore Threads shares jump fivefold in Shanghai trading debut in rush for 'China's Nvidia'",
+      "link": "https://finance.yahoo.com/news/moore-threads-shares-jump-fivefold-093000601.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T09:30:00Z",
+      "image": "https://media.zenfs.com/en/south_china_morning_post_us_228/4d091e8a8645ef0cc2c42faae1a0e3fa",
+      "slug": "moore-threads-shares-jump-fivefold-in-shanghai-trading-debut-in-rush-for-chinas--f84e7d99",
+      "orig_slug": "moore-threads-shares-jump-fivefold-in-shanghai-trading-debut-in-rush-for-chinas--f84e7d99"
+    },
+    {
+      "title": "End of an era: Canon closes China printer plant as Japanese brand loses to local rivals",
+      "link": "https://finance.yahoo.com/news/end-era-canon-closes-china-093000895.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T09:30:00Z",
+      "image": "https://media.zenfs.com/en/south_china_morning_post_us_228/91b054e9a0db662e313d2c5ca11806ad",
+      "slug": "end-of-an-era-canon-closes-china-printer-plant-as-japanese-brand-loses-to-local--e1d086de",
+      "orig_slug": "end-of-an-era-canon-closes-china-printer-plant-as-japanese-brand-loses-to-local--e1d086de"
+    },
+    {
+      "title": "India Braces for a Steel Export Slump as Europe’s Carbon Tariff Takes Hold",
+      "link": "https://finance.yahoo.com/news/india-braces-steel-export-slump-093000113.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T09:30:00Z",
+      "image": "https://media.zenfs.com/en/oilprice.com/2535fd00dd09c6d34b36e81dfb2b5136",
+      "slug": "india-braces-for-a-steel-export-slump-as-europes-carbon-tariff-takes-hold-75e5ac6e",
+      "orig_slug": "india-braces-for-a-steel-export-slump-as-europes-carbon-tariff-takes-hold-75e5ac6e"
+    },
+    {
+      "title": "Why XRP Price Refuses to Rise Despite Ripple’s Mega Moves",
+      "link": "https://finance.yahoo.com/news/why-xrp-price-refuses-rise-081838192.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T08:18:38Z",
+      "image": "https://media.zenfs.com/en/beincrypto_us_662/84c8d65f3a07207e8212b6cf368d6066",
+      "slug": "why-xrp-price-refuses-to-rise-despite-ripples-mega-moves-08ffdd42",
+      "orig_slug": "why-xrp-price-refuses-to-rise-despite-ripples-mega-moves-08ffdd42"
+    },
+    {
+      "title": "China's Xiaomi says returns from AI investments 'far exceed expectations'",
+      "link": "https://finance.yahoo.com/news/chinas-xiaomi-says-returns-ai-093000691.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T09:30:00Z",
+      "image": "https://media.zenfs.com/en/south_china_morning_post_us_228/bbdc56a04a56c3c8b3883ba79fae3796",
+      "slug": "chinas-xiaomi-says-returns-from-ai-investments-far-exceed-expectations-f24cd9b9",
+      "orig_slug": "chinas-xiaomi-says-returns-from-ai-investments-far-exceed-expectations-f24cd9b9"
+    },
+    {
+      "title": "CSRC vows deeper reforms to open China's capital market and boost tech listings",
+      "link": "https://finance.yahoo.com/news/csrc-vows-deeper-reforms-open-093000753.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T09:30:00Z",
+      "image": "https://media.zenfs.com/en/south_china_morning_post_us_228/e111dc2dc135f5aadc26f2a5b606211a",
+      "slug": "csrc-vows-deeper-reforms-to-open-chinas-capital-market-and-boost-tech-listings-351a079b",
+      "orig_slug": "csrc-vows-deeper-reforms-to-open-chinas-capital-market-and-boost-tech-listings-351a079b"
+    },
+    {
+      "title": "Germany Steps on the Gas With Spending. 6 Stocks to Watch.",
+      "link": "https://www.barrons.com/articles/germany-stocks-493838a5?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T06:30:00Z",
+      "image": "",
+      "slug": "germany-steps-on-the-gas-with-spending-6-stocks-to-watch-9de9851a",
+      "orig_slug": "germany-steps-on-the-gas-with-spending-6-stocks-to-watch-9de9851a"
+    },
+    {
+      "title": "Shell Lifts Stakes in Atapu and Mero to Deepen Brazil Pre-Salt Position",
+      "link": "https://finance.yahoo.com/news/shell-lifts-stakes-atapu-mero-061100841.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T06:11:00Z",
+      "image": "https://media.zenfs.com/en/oilprice.com/8058ab498c0717e9e4b6a824a54556dd",
+      "slug": "shell-lifts-stakes-in-atapu-and-mero-to-deepen-brazil-pre-salt-position-d051c1c3",
+      "orig_slug": "shell-lifts-stakes-in-atapu-and-mero-to-deepen-brazil-pre-salt-position-d051c1c3"
+    },
+    {
+      "title": "With Netflix's 10-for-1 Stock Split Complete, Here Are 3 Growth Stocks to Buy in December That Could Issue Stock Splits in 2026",
+      "link": "https://finance.yahoo.com/news/netflixs-10-1-stock-split-075000933.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T07:50:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/3eace23ff0fa9511e42bd956533c5287",
+      "slug": "with-netflixs-10-for-1-stock-split-complete-here-are-3-growth-stocks-to-buy-in-d-54d0d04c",
+      "orig_slug": "with-netflixs-10-for-1-stock-split-complete-here-are-3-growth-stocks-to-buy-in-d-54d0d04c"
+    },
+    {
+      "title": "IKEA to ramp up US production as tariffs bite",
+      "link": "https://finance.yahoo.com/news/ikea-ramp-us-production-tariffs-060453668.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T06:04:53Z",
+      "image": "https://media.zenfs.com/en/reuters.com/dc35029d4c178b0cb69ca0afb434d199",
+      "slug": "ikea-to-ramp-up-us-production-as-tariffs-bite-318fa076",
+      "orig_slug": "ikea-to-ramp-up-us-production-as-tariffs-bite-318fa076"
+    },
+    {
+      "title": "The New Private-Equity Billionaires Who Are Taking Over Wall Street",
+      "link": "https://www.barrons.com/articles/private-equity-billionaires-wall-street-6638ac7b?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T06:00:00Z",
+      "image": "",
+      "slug": "the-new-private-equity-billionaires-who-are-taking-over-wall-street-33f49e4c",
+      "orig_slug": "the-new-private-equity-billionaires-who-are-taking-over-wall-street-33f49e4c"
+    },
+    {
+      "title": "India Central Bank Delivers Rate Cut to Boost Economy",
+      "link": "https://www.wsj.com/articles/india-central-bank-delivers-rate-cut-to-boost-economy-3c2a7596?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T05:54:00Z",
+      "image": "",
+      "slug": "india-central-bank-delivers-rate-cut-to-boost-economy-c12daef0",
+      "orig_slug": "india-central-bank-delivers-rate-cut-to-boost-economy-c12daef0"
+    },
+    {
+      "title": "Wall Street rises to the edge of its all-time high",
+      "link": "https://finance.yahoo.com/news/asian-shares-mixed-wall-street-053802358.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T05:38:02Z",
+      "image": "https://media.zenfs.com/en/ap.org/1e0f2cfcaf13a1b5043ef611195630fb",
+      "slug": "wall-street-rises-to-the-edge-of-its-all-time-high-b9cff8e4",
+      "orig_slug": "wall-street-rises-to-the-edge-of-its-all-time-high-b9cff8e4"
+    },
+    {
+      "title": "HBAR Price Enters Consolidation As Hedera Pulls Away From Bitcoin",
+      "link": "https://finance.yahoo.com/news/hbar-price-enters-consolidation-hedera-080000280.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T08:00:00Z",
+      "image": "https://media.zenfs.com/en/beincrypto_us_662/85f38f1e18a35de2b22f3f583ec9ddc8",
+      "slug": "hbar-price-enters-consolidation-as-hedera-pulls-away-from-bitcoin-9fdf4ef6",
+      "orig_slug": "hbar-price-enters-consolidation-as-hedera-pulls-away-from-bitcoin-9fdf4ef6"
+    },
+    {
+      "title": "Stock Futures Rise Ahead of Crucial Inflation Data",
+      "link": "https://www.barrons.com/livecoverage/stock-market-news-today-120525/card/stock-futures-rise-ahead-of-crucial-inflation-data-3LVHxBnP9gkJaEOW92Rw?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T10:09:26Z",
+      "image": "https://images.barrons.com/im-783602/social",
+      "slug": "stock-futures-rise-ahead-of-crucial-inflation-data-6234b669",
+      "orig_slug": "stock-futures-rise-ahead-of-crucial-inflation-data-6234b669"
+    },
+    {
+      "title": "Netflix Is Buying Warner Bros. So Who Changes Whom?",
+      "link": "https://finance.yahoo.com/news/netflix-buys-warner-changes-whom-050100997.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T05:01:00Z",
+      "image": "https://media.zenfs.com/en/the_daily_upside_435/f83ff2aa4e806eaa4c3c408d8ad441a3",
+      "slug": "netflix-is-buying-warner-bros-so-who-changes-whom-42125570",
+      "orig_slug": "netflix-is-buying-warner-bros-so-who-changes-whom-42125570"
+    },
+    {
+      "title": "Dollar Stores Increasingly Make Sense for Crunched Consumers",
+      "link": "https://finance.yahoo.com/news/dollar-stores-increasingly-sense-crunched-050100676.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T05:01:00Z",
+      "image": "https://media.zenfs.com/en/the_daily_upside_435/51c405544fc5ba75823a1de1c682c63e",
+      "slug": "dollar-stores-increasingly-make-sense-for-crunched-consumers-19f74e8a",
+      "orig_slug": "dollar-stores-increasingly-make-sense-for-crunched-consumers-19f74e8a"
+    },
+    {
+      "title": "Even As Bitcoin Dips, Crypto ETFs Break Down TradFi Barriers",
+      "link": "https://finance.yahoo.com/news/even-bitcoin-dips-crypto-etfs-050100684.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T05:01:00Z",
+      "image": "https://media.zenfs.com/en/the_daily_upside_435/0e17bcd07873c71e4ee963cc99bf5cc9",
+      "slug": "even-as-bitcoin-dips-crypto-etfs-break-down-tradfi-barriers-8e7f351f",
+      "orig_slug": "even-as-bitcoin-dips-crypto-etfs-break-down-tradfi-barriers-8e7f351f"
+    },
+    {
+      "title": "Luxury Stocks Set for Revival in 2026 After Rollercoaster Year",
+      "link": "https://finance.yahoo.com/news/luxury-stocks-look-ready-stronger-080000392.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T08:00:00Z",
+      "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/5dcbfd1f9a64e53f2470fe8ce1014b15",
+      "slug": "luxury-stocks-set-for-revival-in-2026-after-rollercoaster-year-a9d6adc4",
+      "orig_slug": "luxury-stocks-set-for-revival-in-2026-after-rollercoaster-year-a9d6adc4"
+    },
+    {
+      "title": "Ask an Advisor: Should I Pay Taxes on My IRA Now or Wait Until Retirement?",
+      "link": "https://finance.yahoo.com/news/ask-advisor-help-understand-best-153928464.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T05:00:00Z",
+      "image": "https://media.zenfs.com/en/smartasset_475/97c6d284fb1cab73c018a3ac1dcfb3d0",
+      "slug": "ask-an-advisor-should-i-pay-taxes-on-my-ira-now-or-wait-until-retirement-1f330847",
+      "orig_slug": "ask-an-advisor-should-i-pay-taxes-on-my-ira-now-or-wait-until-retirement-1f330847"
     }
   ]
 }
