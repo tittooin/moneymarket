@@ -1,59 +1,374 @@
 {
-  "updated": "2025-12-07T06:17:21Z",
+  "updated": "2025-12-07T07:12:43Z",
   "items": [
     {
-      "title": "Yield Basis activates fee switch after investors deposit $130m Bitcoin",
-      "link": "https://finance.yahoo.com/news/yield-basis-activates-fee-switch-221101413.html",
+      "title": "Okta, Inc. (OKTA): A Bear Case Theory",
+      "link": "https://finance.yahoo.com/news/okta-inc-okta-bear-case-230608558.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T22:11:01Z",
-      "image": "https://media.zenfs.com/en/dlnews_702/2f97e1eca6392c9935709bc036f79e81",
-      "slug": "yield-basis-activates-fee-switch-after-investors-deposit-130m-bitcoin-395e0b01",
-      "orig_slug": "yield-basis-activates-fee-switch-after-investors-deposit-130m-bitcoin-395e0b01"
+      "pubDate": "2025-12-05T23:06:08Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/78eaf448615ac2766fd3bef359f2ea2d",
+      "slug": "okta-inc-okta-a-bear-case-theory-6ea64528",
+      "orig_slug": "okta-inc-okta-a-bear-case-theory-6ea64528"
     },
     {
-      "title": "Paramount Stock Slides After Netflix Scores Deal to Buy Warner Bros.",
-      "link": "https://www.wsj.com/livecoverage/stock-market-inflation-consumers-12-05-2025/card/netflix-stock-skids-after-streamer-agrees-to-buy-warner-bros--PqDYZMIpBRXliRTXsFAX?siteid=yhoof2&yptr=yahoo",
+      "title": "eBay Inc. (EBAY): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/ebay-inc-ebay-bull-case-230554430.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T22:08:51Z",
+      "pubDate": "2025-12-05T23:05:54Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/7e4cd99bdd6e24837bac0d8021984706",
+      "slug": "ebay-inc-ebay-a-bull-case-theory-df86e3a2",
+      "orig_slug": "ebay-inc-ebay-a-bull-case-theory-df86e3a2"
+    },
+    {
+      "title": "The Progressive Corporation (PGR): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/progressive-corporation-pgr-bull-case-230541136.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T23:05:41Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/cee6339fc5587f25494ea96130c722a2",
+      "slug": "the-progressive-corporation-pgr-a-bull-case-theory-0bb4163a",
+      "orig_slug": "the-progressive-corporation-pgr-a-bull-case-theory-0bb4163a"
+    },
+    {
+      "title": "Eaton Corporation plc (ETN): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/eaton-corporation-plc-etn-bull-230623684.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T23:06:23Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/803bf1e5bad5a575a1be2e19719afc9e",
+      "slug": "eaton-corporation-plc-etn-a-bull-case-theory-732289f9",
+      "orig_slug": "eaton-corporation-plc-etn-a-bull-case-theory-732289f9"
+    },
+    {
+      "title": "Meta Platforms, Inc. (META): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/meta-platforms-inc-meta-bull-230527834.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T23:05:27Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/36b60f5281aeae6724f92dc740f3d45d",
+      "slug": "meta-platforms-inc-meta-a-bull-case-theory-0278ef44",
+      "orig_slug": "meta-platforms-inc-meta-a-bull-case-theory-0278ef44"
+    },
+    {
+      "title": "Dow Inc. (DOW): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/dow-inc-dow-bull-case-230637304.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T23:06:37Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/273ddf53b9b1b0964f663b55dda351d7",
+      "slug": "dow-inc-dow-a-bull-case-theory-e5895dbe",
+      "orig_slug": "dow-inc-dow-a-bull-case-theory-e5895dbe"
+    },
+    {
+      "title": "PayPal Holdings, Inc. (PYPL): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/paypal-holdings-inc-pypl-bull-230652890.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T23:06:52Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/94ed6617e434fd6d403db5475ccca47b",
+      "slug": "paypal-holdings-inc-pypl-a-bull-case-theory-048e2d82",
+      "orig_slug": "paypal-holdings-inc-pypl-a-bull-case-theory-048e2d82"
+    },
+    {
+      "title": "USA Rare Earth, Inc. (USAR): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/usa-rare-earth-inc-usar-230706836.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T23:07:06Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/7bcf25b1d8b2e9395cd9c6067f61e66d",
+      "slug": "usa-rare-earth-inc-usar-a-bull-case-theory-38ddb655",
+      "orig_slug": "usa-rare-earth-inc-usar-a-bull-case-theory-38ddb655"
+    },
+    {
+      "title": "Rocket Companies, Inc. (RKT): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/rocket-companies-inc-rkt-bull-230514973.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T23:05:14Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/dcc9c29cc7d9c342a1ffab485fa54466",
+      "slug": "rocket-companies-inc-rkt-a-bull-case-theory-77c8eb6b",
+      "orig_slug": "rocket-companies-inc-rkt-a-bull-case-theory-77c8eb6b"
+    },
+    {
+      "title": "Twilio Inc. (TWLO): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/twilio-inc-twlo-bull-case-230500543.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T23:05:00Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/8d33f0fb88b8b7daa0c4b6d7be1ebc44",
+      "slug": "twilio-inc-twlo-a-bull-case-theory-0db78728",
+      "orig_slug": "twilio-inc-twlo-a-bull-case-theory-0db78728"
+    },
+    {
+      "title": "Cisco Systems, Inc. (CSCO): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/cisco-systems-inc-csco-bull-230427629.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T23:04:27Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/4f4b8225a2fc5bdb717b5360f7e6758f",
+      "slug": "cisco-systems-inc-csco-a-bull-case-theory-871f10b8",
+      "orig_slug": "cisco-systems-inc-csco-a-bull-case-theory-871f10b8"
+    },
+    {
+      "title": "Boston Scientific Corporation (BSX): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/boston-scientific-corporation-bsx-bull-230722569.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T23:07:22Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/5ebeb797976f4b134f89e7fc0f1f7cd5",
+      "slug": "boston-scientific-corporation-bsx-a-bull-case-theory-c701fea8",
+      "orig_slug": "boston-scientific-corporation-bsx-a-bull-case-theory-c701fea8"
+    },
+    {
+      "title": "Riot Platforms, Inc. (RIOT): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/riot-platforms-inc-riot-bull-230445290.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T23:04:45Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/6ff8ba1f4c43f3dbe9d9fe3ff9617868",
+      "slug": "riot-platforms-inc-riot-a-bull-case-theory-4368bd3d",
+      "orig_slug": "riot-platforms-inc-riot-a-bull-case-theory-4368bd3d"
+    },
+    {
+      "title": "Snowflake Inc. (SNOW): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/snowflake-inc-snow-bull-case-230746886.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T23:07:46Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/52f07eb07df3170ee5e8b3bd90dccff6",
+      "slug": "snowflake-inc-snow-a-bull-case-theory-8d53a3b3",
+      "orig_slug": "snowflake-inc-snow-a-bull-case-theory-8d53a3b3"
+    },
+    {
+      "title": "Netflix Will 'Scale Up' as Needed With Warner: Gallagher",
+      "link": "https://finance.yahoo.com/video/netflix-scale-needed-warner-gallagher-230812334.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T23:08:12Z",
+      "image": "https://media.zenfs.com/en/bloomberg_markets_video_2/72bbed957e2d576cd8125ad48bf5557b",
+      "slug": "netflix-will-scale-up-as-needed-with-warner-gallagher-cc098153",
+      "orig_slug": "netflix-will-scale-up-as-needed-with-warner-gallagher-cc098153"
+    },
+    {
+      "title": "Northrop Grumman Corporation (NOC): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/northrop-grumman-corporation-noc-bull-230811792.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T23:08:11Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/a0761732ae788f1b2a81da6e0ed18999",
+      "slug": "northrop-grumman-corporation-noc-a-bull-case-theory-c1ed77a0",
+      "orig_slug": "northrop-grumman-corporation-noc-a-bull-case-theory-c1ed77a0"
+    },
+    {
+      "title": "Marvell Technology, Inc. (MRVL): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/marvell-technology-inc-mrvl-bull-230842577.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T23:08:42Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/95ba8249d586608dd6a9db523d1cd6e0",
+      "slug": "marvell-technology-inc-mrvl-a-bull-case-theory-7624315a",
+      "orig_slug": "marvell-technology-inc-mrvl-a-bull-case-theory-7624315a"
+    },
+    {
+      "title": "Hewlett Packard Enterprise Company (HPE): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/hewlett-packard-enterprise-company-hpe-230827679.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T23:08:27Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/52f07eb07df3170ee5e8b3bd90dccff6",
+      "slug": "hewlett-packard-enterprise-company-hpe-a-bull-case-theory-6bdbfcbd",
+      "orig_slug": "hewlett-packard-enterprise-company-hpe-a-bull-case-theory-6bdbfcbd"
+    },
+    {
+      "title": "Texas Instruments Incorporated (TXN): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/texas-instruments-incorporated-txn-bull-230858320.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T23:08:58Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/67f9cd6f73fae86b88a971abe9c6654a",
+      "slug": "texas-instruments-incorporated-txn-a-bull-case-theory-784ce2be",
+      "orig_slug": "texas-instruments-incorporated-txn-a-bull-case-theory-784ce2be"
+    },
+    {
+      "title": "Netflix investors don't seem to like its blockbuster deal with Warner Bros. Discovery",
+      "link": "https://finance.yahoo.com/news/netflix-investors-dont-seem-blockbuster-230258125.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T23:02:58Z",
+      "image": "https://media.zenfs.com/en/business_insider_articles_888/eb3cc695160bc1febc38d2c73657ac41",
+      "slug": "netflix-investors-dont-seem-to-like-its-blockbuster-deal-with-warner-bros-discov-b46cac6c",
+      "orig_slug": "netflix-investors-dont-seem-to-like-its-blockbuster-deal-with-warner-bros-discov-b46cac6c"
+    },
+    {
+      "title": "ETF League Tables: Avantis Picks Up $263M",
+      "link": "https://finance.yahoo.com/news/etf-league-tables-avantis-picks-230005415.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T23:00:05Z",
+      "image": "https://media.zenfs.com/en/indexuniverse.com/685c6a7e1fcae476c06ee752a956ffca",
+      "slug": "etf-league-tables-avantis-picks-up-263m-3f48ddd6",
+      "orig_slug": "etf-league-tables-avantis-picks-up-263m-3f48ddd6"
+    },
+    {
+      "title": "Daily ETF Flows: SLV On Top Again",
+      "link": "https://finance.yahoo.com/news/daily-etf-flows-slv-top-230005958.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T23:00:05Z",
+      "image": "https://media.zenfs.com/en/indexuniverse.com/1d45f9488d95ad21b16acbe33a9dfed0",
+      "slug": "daily-etf-flows-slv-on-top-again-4728a1ea",
+      "orig_slug": "daily-etf-flows-slv-on-top-again-4728a1ea"
+    },
+    {
+      "title": "Spooked by Bitcoin? Here Are the 6 Biggest Ethereum and Solana ETFs",
+      "link": "https://finance.yahoo.com/news/spooked-bitcoin-6-biggest-ethereum-231205031.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T23:12:05Z",
+      "image": "https://media.zenfs.com/en/the_daily_upside_435/12c7827ed2860d611fc07996c7d6aa91",
+      "slug": "spooked-by-bitcoin-here-are-the-6-biggest-ethereum-and-solana-etfs-dc94383c",
+      "orig_slug": "spooked-by-bitcoin-here-are-the-6-biggest-ethereum-and-solana-etfs-dc94383c"
+    },
+    {
+      "title": "Stock market today: S&P 500, Nasdaq notch fourth day of gains with next week's Fed meeting in focus",
+      "link": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-notch-fourth-day-of-gains-with-next-weeks-fed-meeting-in-focus-151830333.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T15:18:30Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/x216iJBPIOdJ.YPYey0aVg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2021-06/fe34dec0-cca5-11eb-bfad-96068dab30ae",
+      "slug": "stock-market-today-sp-500-nasdaq-notch-fourth-day-of-gains-with-next-weeks-fed-m-6999f763",
+      "orig_slug": "stock-market-today-sp-500-nasdaq-notch-fourth-day-of-gains-with-next-weeks-fed-m-6999f763"
+    },
+    {
+      "title": "Why Constellation Energy Stock Flopped on Friday",
+      "link": "https://finance.yahoo.com/news/why-constellation-energy-stock-flopped-225945717.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T22:59:45Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/38f13da826a7030a89de92935d566c92",
+      "slug": "why-constellation-energy-stock-flopped-on-friday-5e63c9f9",
+      "orig_slug": "why-constellation-energy-stock-flopped-on-friday-5e63c9f9"
+    },
+    {
+      "title": "The Score: Warner, Boeing, Dollar General, American Eagle and More Stocks That Defined the Week",
+      "link": "https://www.wsj.com/finance/stocks/the-score-warner-boeing-kroger-dollar-general-american-eagle-and-more-stocks-that-defined-the-week-0950041f?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T22:54:00Z",
       "image": "",
-      "slug": "paramount-stock-slides-after-netflix-scores-deal-to-buy-warner-bros-cead4305",
-      "orig_slug": "paramount-stock-slides-after-netflix-scores-deal-to-buy-warner-bros-cead4305"
+      "slug": "the-score-warner-boeing-dollar-general-american-eagle-and-more-stocks-that-defin-776c23c3",
+      "orig_slug": "the-score-warner-boeing-dollar-general-american-eagle-and-more-stocks-that-defin-776c23c3"
     },
     {
-      "title": "Meta Platforms Buys AI Device Maker Limitless",
-      "link": "https://www.wsj.com/tech/meta-platforms-buys-ai-device-maker-limitless-d2649827?siteid=yhoof2&yptr=yahoo",
+      "title": "Carvana, CRH, and Comfort Systems USA to Join S&P 500",
+      "link": "https://www.barrons.com/articles/sp-500-rebalance-stocks-crh-carvana-comfort-systems-usa-45ef7420?siteid=yhoof2&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T22:08:00Z",
+      "pubDate": "2025-12-05T22:53:00Z",
       "image": "",
-      "slug": "meta-platforms-buys-ai-device-maker-limitless-504689ef",
-      "orig_slug": "meta-platforms-buys-ai-device-maker-limitless-504689ef"
+      "slug": "carvana-crh-and-comfort-systems-usa-to-join-sp-500-7ab3b0d2",
+      "orig_slug": "carvana-crh-and-comfort-systems-usa-to-join-sp-500-7ab3b0d2"
     },
     {
-      "title": "NIKE, Inc. (NKE): A Bear Case Theory",
-      "link": "https://finance.yahoo.com/news/nike-inc-nke-bear-case-220620409.html",
+      "title": "Soybeans Fall into the Weekend as Traders Fade Chinese Purchases",
+      "link": "https://finance.yahoo.com/news/soybeans-fall-weekend-traders-fade-232845305.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T22:06:20Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/c98037854f9f1c84308063cfe2fa7561",
-      "slug": "nike-inc-nke-a-bear-case-theory-55a3d749",
-      "orig_slug": "nike-inc-nke-a-bear-case-theory-55a3d749"
+      "pubDate": "2025-12-05T23:28:45Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/ac1499480efd27afcc58a417df653208",
+      "slug": "soybeans-fall-into-the-weekend-as-traders-fade-chinese-purchases-4824cc1e",
+      "orig_slug": "soybeans-fall-into-the-weekend-as-traders-fade-chinese-purchases-4824cc1e"
     },
     {
-      "title": "Ondas Holdings Inc. (ONDS): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/ondas-holdings-inc-onds-bull-220600894.html",
+      "title": "Corn Falls Lower on Friday",
+      "link": "https://finance.yahoo.com/news/corn-falls-lower-friday-232845115.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T22:06:00Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/f1a701fcf379acfee29cf62e6fa9697f",
-      "slug": "ondas-holdings-inc-onds-a-bull-case-theory-8fb38363",
-      "orig_slug": "ondas-holdings-inc-onds-a-bull-case-theory-8fb38363"
+      "pubDate": "2025-12-05T23:28:45Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/31ab937b925626824039777d355ff624",
+      "slug": "corn-falls-lower-on-friday-012e07c8",
+      "orig_slug": "corn-falls-lower-on-friday-012e07c8"
     },
     {
-      "title": "GDX and SIL Provide Indirect Exposure to Gold and Silver -- But With a Few Key Differences",
-      "link": "https://finance.yahoo.com/news/gdx-sil-indirect-exposure-gold-220807472.html",
+      "title": "SoftBank in Talks to Buy Data-Center Investor DigitalBridge",
+      "link": "https://finance.yahoo.com/news/softbank-talks-buy-data-center-231718149.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T22:08:07Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/ff59daeae3cc0592ae4e38860996ddf8",
-      "slug": "gdx-and-sil-provide-indirect-exposure-to-gold-and-silver----but-with-a-few-key-d-51c9a41c",
-      "orig_slug": "gdx-and-sil-provide-indirect-exposure-to-gold-and-silver----but-with-a-few-key-d-51c9a41c"
+      "pubDate": "2025-12-05T23:17:18Z",
+      "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/754eec2525f3c703169f7d7c65302802",
+      "slug": "softbank-in-talks-to-buy-data-center-investor-digitalbridge-10955973",
+      "orig_slug": "softbank-in-talks-to-buy-data-center-investor-digitalbridge-10955973"
+    },
+    {
+      "title": "Cotton Fade Lower into the Weekend",
+      "link": "https://finance.yahoo.com/news/cotton-fade-lower-weekend-232846761.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T23:28:46Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/6507dc8185edd8155e3db708f4f0a193",
+      "slug": "cotton-fade-lower-into-the-weekend-39e437c9",
+      "orig_slug": "cotton-fade-lower-into-the-weekend-39e437c9"
+    },
+    {
+      "title": "Ashland, Bitdeer, and More Stocks See Action From Activist Investors",
+      "link": "https://www.barrons.com/articles/ashland-bitdeer-and-more-stocks-see-action-from-activist-investors-a2c1a976?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T23:35:00Z",
+      "image": "",
+      "slug": "ashland-bitdeer-and-more-stocks-see-action-from-activist-investors-126ee6c5",
+      "orig_slug": "ashland-bitdeer-and-more-stocks-see-action-from-activist-investors-126ee6c5"
+    },
+    {
+      "title": "David Zaslav Is Having the Last Laugh in Netflix-Warner Deal",
+      "link": "https://www.wsj.com/business/media/david-zaslav-netflix-warner-deal-8b27dda4?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T23:48:00Z",
+      "image": "",
+      "slug": "david-zaslav-is-having-the-last-laugh-in-netflix-warner-deal-6c1d654c",
+      "orig_slug": "david-zaslav-is-having-the-last-laugh-in-netflix-warner-deal-6c1d654c"
+    },
+    {
+      "title": "Carvana, Comfort Systems, CRH To Join S&P 500 Index. The Stocks Are Jumping.",
+      "link": "https://www.investors.com/news/carvana-comfort-systems-join-sp-500-index-stocks-breaking-out/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T23:46:17Z",
+      "image": "",
+      "slug": "carvana-comfort-systems-crh-to-join-sp-500-index-the-stocks-are-jumping-fec35ffd",
+      "orig_slug": "carvana-comfort-systems-crh-to-join-sp-500-index-the-stocks-are-jumping-fec35ffd"
+    },
+    {
+      "title": "64-year-old furniture store franchisee files Chapter 11 bankruptcy",
+      "link": "https://finance.yahoo.com/news/64-old-furniture-chain-franchisee-231820206.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T23:18:20Z",
+      "image": "https://media.zenfs.com/en/thestreet_881/a2dba75e36b2e74f45f80b141f15a968",
+      "slug": "64-year-old-furniture-store-franchisee-files-chapter-11-bankruptcy-8dfd95e3",
+      "orig_slug": "64-year-old-furniture-store-franchisee-files-chapter-11-bankruptcy-8dfd95e3"
+    },
+    {
+      "title": "Get Your Santa Claus Rally Caps On. Then Prepare for a Comedown.",
+      "link": "https://www.barrons.com/articles/get-your-santa-claus-rally-caps-on-then-prepare-for-a-comedown-a7d243e6?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T23:54:00Z",
+      "image": "",
+      "slug": "get-your-santa-claus-rally-caps-on-then-prepare-for-a-comedown-c6dafd8a",
+      "orig_slug": "get-your-santa-claus-rally-caps-on-then-prepare-for-a-comedown-c6dafd8a"
+    },
+    {
+      "title": "Most “Safe” Dividend Stocks Don’t Grow Like This… But These 3 Did",
+      "link": "https://finance.yahoo.com/news/most-safe-dividend-stocks-don-000002778.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-06T00:00:02Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/6bfd1299ad5cde0cd67bf828eac1bf36",
+      "slug": "most-safe-dividend-stocks-dont-grow-like-this-but-these-3-did-f8f230c7",
+      "orig_slug": "most-safe-dividend-stocks-dont-grow-like-this-but-these-3-did-f8f230c7"
+    },
+    {
+      "title": "Review & Preview: Netflix Goes for Legacy",
+      "link": "https://www.barrons.com/articles/stocks-netflix-warner-bros-inflation-pce-c6d575fa?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-06T00:01:00Z",
+      "image": "",
+      "slug": "review-preview-netflix-goes-for-legacy-74821d93",
+      "orig_slug": "review-preview-netflix-goes-for-legacy-74821d93"
+    },
+    {
+      "title": "Apple Stock Can Rise on Services Segment, Says Analyst. Plus, Uber, American Eagle, and More.",
+      "link": "https://www.barrons.com/articles/apple-stock-can-rise-on-services-segment-says-analyst-plus-uber-american-eagle-and-more-53387220?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-06T00:07:00Z",
+      "image": "",
+      "slug": "apple-stock-can-rise-on-services-segment-says-analyst-plus-uber-american-eagle-a-a968258a",
+      "orig_slug": "apple-stock-can-rise-on-services-segment-says-analyst-plus-uber-american-eagle-a-a968258a"
+    },
+    {
+      "title": "Prediction: This Artificial Intelligence (AI) Stock Will Be Worth More Than Palantir in 2026",
+      "link": "https://finance.yahoo.com/news/prediction-artificial-intelligence-ai-stock-225000360.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-05T22:50:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/da837ae151074b4e75db756729b309cf",
+      "slug": "prediction-this-artificial-intelligence-ai-stock-will-be-worth-more-than-palanti-6dd8445f",
+      "orig_slug": "prediction-this-artificial-intelligence-ai-stock-will-be-worth-more-than-palanti-6dd8445f"
+    },
+    {
+      "title": "Why Home Buyers See Some Hope in 2026",
+      "link": "https://www.barrons.com/articles/why-home-buyers-see-some-hope-in-2026-0a29d856?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-06T00:21:00Z",
+      "image": "",
+      "slug": "why-home-buyers-see-some-hope-in-2026-58b8f159",
+      "orig_slug": "why-home-buyers-see-some-hope-in-2026-58b8f159"
     },
     {
       "title": "Warner Discovery Market Cap Jumps to Record",
@@ -63,312 +378,6 @@
       "image": "",
       "slug": "warner-discovery-market-cap-jumps-to-record-f56d8ca8",
       "orig_slug": "warner-discovery-market-cap-jumps-to-record-f56d8ca8"
-    },
-    {
-      "title": "AeroVironment, Inc. (AVAV): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/aerovironment-inc-avav-bull-case-220538442.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T22:05:38Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/0f79f0dd305ceb6e27e155b0bbde7d87",
-      "slug": "aerovironment-inc-avav-a-bull-case-theory-b2a6e167",
-      "orig_slug": "aerovironment-inc-avav-a-bull-case-theory-b2a6e167"
-    },
-    {
-      "title": "Novavax, Inc. (NVAX): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/novavax-inc-nvax-bull-case-220502669.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T22:05:02Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/89736347814128d7e07d7c4536428c2e",
-      "slug": "novavax-inc-nvax-a-bull-case-theory-fa6c2e20",
-      "orig_slug": "novavax-inc-nvax-a-bull-case-theory-fa6c2e20"
-    },
-    {
-      "title": "Micron Technology, Inc. (MU): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/micron-technology-inc-mu-bull-220439757.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T22:04:39Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/95ba8249d586608dd6a9db523d1cd6e0",
-      "slug": "micron-technology-inc-mu-a-bull-case-theory-e4f91b17",
-      "orig_slug": "micron-technology-inc-mu-a-bull-case-theory-e4f91b17"
-    },
-    {
-      "title": "Why Argan Stock Plummeted by 12% Today",
-      "link": "https://finance.yahoo.com/news/why-argan-stock-plummeted-12-221404564.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T22:14:04Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/9176f57d36bf3600f9c56c9694fdc1af",
-      "slug": "why-argan-stock-plummeted-by-12-today-4e1ef4f3",
-      "orig_slug": "why-argan-stock-plummeted-by-12-today-4e1ef4f3"
-    },
-    {
-      "title": "Apple Inc. (AAPL): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/apple-inc-aapl-bull-case-220308392.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T22:03:08Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/4ee4c185e4e23bb36bd159c3e6261e78",
-      "slug": "apple-inc-aapl-a-bull-case-theory-a61cb263",
-      "orig_slug": "apple-inc-aapl-a-bull-case-theory-a61cb263"
-    },
-    {
-      "title": "Heard on the Street Recap: Streaming Wars Go Nuclear",
-      "link": "https://www.wsj.com/livecoverage/stock-market-inflation-consumers-12-05-2025/card/heard-on-the-street-recap-streaming-wars-go-nuclear-SLq8KeeUfs1TfvRC1MWs?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T22:02:48Z",
-      "image": "",
-      "slug": "heard-on-the-street-recap-streaming-wars-go-nuclear-2f7dc4f7",
-      "orig_slug": "heard-on-the-street-recap-streaming-wars-go-nuclear-2f7dc4f7"
-    },
-    {
-      "title": "Sea Limited (SE): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/sea-limited-se-bull-case-220202893.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T22:02:02Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/b635985542478cfd7a09f087f5ed9e1f",
-      "slug": "sea-limited-se-a-bull-case-theory-b87c8fcc",
-      "orig_slug": "sea-limited-se-a-bull-case-theory-b87c8fcc"
-    },
-    {
-      "title": "Taiwan Semiconductor Manufacturing (TSM): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-tsm-bull-220145039.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T22:01:45Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/67f9cd6f73fae86b88a971abe9c6654a",
-      "slug": "taiwan-semiconductor-manufacturing-tsm-a-bull-case-theory-f4d5f539",
-      "orig_slug": "taiwan-semiconductor-manufacturing-tsm-a-bull-case-theory-f4d5f539"
-    },
-    {
-      "title": "4 Ways To Thrive Financially in the Age of AI",
-      "link": "https://finance.yahoo.com/news/4-ways-thrive-financially-age-221405028.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T22:14:05Z",
-      "image": "https://media.zenfs.com/en/gobankingrates_644/d1c7612e66261a10b279299ec32a6c09",
-      "slug": "4-ways-to-thrive-financially-in-the-age-of-ai-b5acf619",
-      "orig_slug": "4-ways-to-thrive-financially-in-the-age-of-ai-b5acf619"
-    },
-    {
-      "title": "Visa Inc. (V): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/visa-inc-v-bull-case-220148944.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T22:01:48Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/15c52ae3f4b742f6c7e88049edfa11ff",
-      "slug": "visa-inc-v-a-bull-case-theory-05f2ee78",
-      "orig_slug": "visa-inc-v-a-bull-case-theory-05f2ee78"
-    },
-    {
-      "title": "Ambarella, Inc. (AMBA): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/ambarella-inc-amba-bull-case-220123693.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T22:01:23Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/829742e84cc5951c3a856a486a2e2ccf",
-      "slug": "ambarella-inc-amba-a-bull-case-theory-6e283e40",
-      "orig_slug": "ambarella-inc-amba-a-bull-case-theory-6e283e40"
-    },
-    {
-      "title": "Yelp Inc. (YELP): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/yelp-inc-yelp-bull-case-220105415.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T22:01:05Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/9d292e8ba97df214f723af8e98ebc47d",
-      "slug": "yelp-inc-yelp-a-bull-case-theory-ef512ab4",
-      "orig_slug": "yelp-inc-yelp-a-bull-case-theory-ef512ab4"
-    },
-    {
-      "title": "Bitfarms Ltd. (BITF): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/bitfarms-ltd-bitf-bull-case-220053265.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T22:00:53Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/95ba8249d586608dd6a9db523d1cd6e0",
-      "slug": "bitfarms-ltd-bitf-a-bull-case-theory-1d214d36",
-      "orig_slug": "bitfarms-ltd-bitf-a-bull-case-theory-1d214d36"
-    },
-    {
-      "title": "Rocket Lab’s Big Rebound? Analysts Suggest the Dip's a Gift",
-      "link": "https://finance.yahoo.com/news/rocket-lab-big-rebound-analysts-221900871.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T22:19:00Z",
-      "image": "https://media.zenfs.com/en/marketbeat_955/ad9c8e0b00c2a01b3586b06035be5eb7",
-      "slug": "rocket-labs-big-rebound-analysts-suggest-the-dips-a-gift-281175a7",
-      "orig_slug": "rocket-labs-big-rebound-analysts-suggest-the-dips-a-gift-281175a7"
-    },
-    {
-      "title": "Clearwater Analytics Holdings, Inc. (CWAN): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/clearwater-analytics-holdings-inc-cwan-220048602.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T22:00:48Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/f1f36c041e46c35f8a6c68c3c9354810",
-      "slug": "clearwater-analytics-holdings-inc-cwan-a-bull-case-theory-a1bc2e88",
-      "orig_slug": "clearwater-analytics-holdings-inc-cwan-a-bull-case-theory-a1bc2e88"
-    },
-    {
-      "title": "Crane Company (CR): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/crane-company-cr-bull-case-220023345.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T22:00:23Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/a97e4882ae49b28b5660dddfb5e08dbe",
-      "slug": "crane-company-cr-a-bull-case-theory-a675af2e",
-      "orig_slug": "crane-company-cr-a-bull-case-theory-a675af2e"
-    },
-    {
-      "title": "Corpay, Inc. (CPAY): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/corpay-inc-cpay-bull-case-220002248.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T22:00:02Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/540c7bfffc9cf078fe323e1d9683599d",
-      "slug": "corpay-inc-cpay-a-bull-case-theory-df66dff1",
-      "orig_slug": "corpay-inc-cpay-a-bull-case-theory-df66dff1"
-    },
-    {
-      "title": "Electric Motor Market Set to Triple by 2032",
-      "link": "https://finance.yahoo.com/news/electric-motor-market-set-triple-220000357.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T22:00:00Z",
-      "image": "https://media.zenfs.com/en/oilprice.com/bc15016a5bddaa2ca9bdbc2f513ef02b",
-      "slug": "electric-motor-market-set-to-triple-by-2032-8d8fa1de",
-      "orig_slug": "electric-motor-market-set-to-triple-by-2032-8d8fa1de"
-    },
-    {
-      "title": "Is This AI Software Stock About to Have Its Nvidia Moment?",
-      "link": "https://finance.yahoo.com/news/ai-software-stock-nvidia-moment-222000721.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T22:20:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/f0c206db060bd9560724c8b4d3499125",
-      "slug": "is-this-ai-software-stock-about-to-have-its-nvidia-moment-fba5573c",
-      "orig_slug": "is-this-ai-software-stock-about-to-have-its-nvidia-moment-fba5573c"
-    },
-    {
-      "title": "Aon plc (AON): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/aon-plc-aon-bull-case-215859152.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T21:58:59Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/bcfd08ceaf78019bf49b4ecc55f49fd2",
-      "slug": "aon-plc-aon-a-bull-case-theory-60020a41",
-      "orig_slug": "aon-plc-aon-a-bull-case-theory-60020a41"
-    },
-    {
-      "title": "Akamai Technologies, Inc. (AKAM): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/akamai-technologies-inc-akam-bull-215840063.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T21:58:40Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/e82bbc1fd07e08efde71771bf5112e97",
-      "slug": "akamai-technologies-inc-akam-a-bull-case-theory-ef1f525e",
-      "orig_slug": "akamai-technologies-inc-akam-a-bull-case-theory-ef1f525e"
-    },
-    {
-      "title": "AAR Corp. (AIR): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/aar-corp-air-bull-case-215824183.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T21:58:24Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/b2060d7934e968642b4aaad3a789f933",
-      "slug": "aar-corp-air-a-bull-case-theory-5d632a94",
-      "orig_slug": "aar-corp-air-a-bull-case-theory-5d632a94"
-    },
-    {
-      "title": "ACV Auctions Inc. (ACVA): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/acv-auctions-inc-acva-bull-215745691.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T21:57:45Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/2ed2e12780d452d4b8011553951a30bb",
-      "slug": "acv-auctions-inc-acva-a-bull-case-theory-991e3d20",
-      "orig_slug": "acv-auctions-inc-acva-a-bull-case-theory-991e3d20"
-    },
-    {
-      "title": "Here's Why I'm Loading Up on Taiwan Semiconductor Manufacturing Company and Never Selling",
-      "link": "https://finance.yahoo.com/news/heres-why-im-loading-taiwan-222000215.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T22:20:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/3c95a328243a8ad8367232c38f931019",
-      "slug": "heres-why-im-loading-up-on-taiwan-semiconductor-manufacturing-company-and-never--88a983be",
-      "orig_slug": "heres-why-im-loading-up-on-taiwan-semiconductor-manufacturing-company-and-never--88a983be"
-    },
-    {
-      "title": "Health Care Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/health-care-roundup-market-talk-5b2c8d25?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T21:58:00Z",
-      "image": "",
-      "slug": "health-care-roundup-market-talk-5e973dcd",
-      "orig_slug": "health-care-roundup-market-talk-5e973dcd"
-    },
-    {
-      "title": "Auto & Transport Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-3f404821?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T21:57:00Z",
-      "image": "",
-      "slug": "auto-transport-roundup-market-talk-6bcbc5aa",
-      "orig_slug": "auto-transport-roundup-market-talk-6bcbc5aa"
-    },
-    {
-      "title": "Bloom Energy Corporation (BE): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/bloom-energy-corporation-bull-case-215656406.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T21:56:56Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/8badb33190e26fab7688fcb4545a17e4",
-      "slug": "bloom-energy-corporation-be-a-bull-case-theory-6a453412",
-      "orig_slug": "bloom-energy-corporation-be-a-bull-case-theory-6a453412"
-    },
-    {
-      "title": "Amazon AWS re:Invent sends signal for Nvidia rival",
-      "link": "https://finance.yahoo.com/news/amazon-aws-message-signals-major-220026102.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T22:00:26Z",
-      "image": "https://media.zenfs.com/en/thestreet_881/f2ef5074ab59f80b0a8eb6781e8d8a34",
-      "slug": "amazon-aws-reinvent-sends-signal-for-nvidia-rival-ca35c3e3",
-      "orig_slug": "amazon-aws-reinvent-sends-signal-for-nvidia-rival-ca35c3e3"
-    },
-    {
-      "title": "GLOBALFOUNDRIES Inc. (GFS): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/globalfoundries-inc-gfs-bull-case-215550145.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T21:55:50Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/67f9cd6f73fae86b88a971abe9c6654a",
-      "slug": "globalfoundries-inc-gfs-a-bull-case-theory-5084f0fc",
-      "orig_slug": "globalfoundries-inc-gfs-a-bull-case-theory-5084f0fc"
-    },
-    {
-      "title": "Financial Services Roundup: Market Talk",
-      "link": "https://www.wsj.com/articles/financial-services-roundup-market-talk-43f5d653?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T21:55:00Z",
-      "image": "",
-      "slug": "financial-services-roundup-market-talk-64ec5b42",
-      "orig_slug": "financial-services-roundup-market-talk-64ec5b42"
-    },
-    {
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-8f60a897?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T21:55:00Z",
-      "image": "",
-      "slug": "tech-media-telecom-roundup-market-talk-a2902709",
-      "orig_slug": "tech-media-telecom-roundup-market-talk-a2902709"
-    },
-    {
-      "title": "Investors Look Ahead to Rate Cuts, Lifting Stocks Near Records",
-      "link": "https://www.wsj.com/finance/stocks/investors-look-ahead-to-rate-cuts-lifting-stocks-near-records-54d00706?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T21:53:00Z",
-      "image": "",
-      "slug": "investors-look-ahead-to-rate-cuts-lifting-stocks-near-records-1dddd586",
-      "orig_slug": "investors-look-ahead-to-rate-cuts-lifting-stocks-near-records-1dddd586"
-    },
-    {
-      "title": "Why Poet Technologies Stock Plummeted Today",
-      "link": "https://finance.yahoo.com/news/why-poet-technologies-stock-plummeted-222403491.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T22:24:03Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/8663678a874118f88bedc0da92efa430",
-      "slug": "why-poet-technologies-stock-plummeted-today-18347d9d",
-      "orig_slug": "why-poet-technologies-stock-plummeted-today-18347d9d"
-    },
-    {
-      "title": "The Netflix and Warner Bros. Deal Is Far From a Sure Thing",
-      "link": "https://www.barrons.com/articles/netflix-buying-warner-bros-deal-trump-80ca0ed9?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-05T21:50:00Z",
-      "image": "",
-      "slug": "the-netflix-and-warner-bros-deal-is-far-from-a-sure-thing-d0e8bbcf",
-      "orig_slug": "the-netflix-and-warner-bros-deal-is-far-from-a-sure-thing-d0e8bbcf"
     }
   ]
 }
