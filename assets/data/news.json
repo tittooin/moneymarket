@@ -1,167 +1,14 @@
 {
-  "updated": "2025-12-07T11:10:25Z",
+  "updated": "2025-12-07T12:21:10Z",
   "items": [
     {
-      "title": "Strategy CEO Says $1.44B Cash Reserve Aims to Calm Bitcoin-Slump Fears",
-      "link": "https://finance.yahoo.com/news/strategy-ceo-says-1-44b-082819714.html",
+      "title": "Wells Fargo Says These 2 Energy Stocks Could Heat Up in 2026",
+      "link": "https://finance.yahoo.com/news/wells-fargo-says-2-energy-105736601.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-06T08:28:19Z",
-      "image": "https://media.zenfs.com/en/cryptonews_us_711/b92a9008a87a3e79ce6e32e5fd6a0dba",
-      "slug": "strategy-ceo-says-144b-cash-reserve-aims-to-calm-bitcoin-slump-fears-7b04d2be",
-      "orig_slug": "strategy-ceo-says-144b-cash-reserve-aims-to-calm-bitcoin-slump-fears-7b04d2be"
-    },
-    {
-      "title": "Apple (AAPL) Earns $320 Target as Services Strength Offsets App Store Slowdown",
-      "link": "https://finance.yahoo.com/news/apple-aapl-earns-320-target-092119877.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-06T09:21:19Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/6f2d4bfd3a5a01fd895b40b72d961662",
-      "slug": "apple-aapl-earns-320-target-as-services-strength-offsets-app-store-slowdown-c7a00b5f",
-      "orig_slug": "apple-aapl-earns-320-target-as-services-strength-offsets-app-store-slowdown-c7a00b5f"
-    },
-    {
-      "title": "Wells Fargo Initiates Oracle (ORCL) With Overweight, Sees Major AI Upside Ahead",
-      "link": "https://finance.yahoo.com/news/wells-fargo-initiates-oracle-orcl-092516149.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-06T09:25:16Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/c2e756945297bbe626edf5a1612a7dd7",
-      "slug": "wells-fargo-initiates-oracle-orcl-with-overweight-sees-major-ai-upside-ahead-5b7f7e4d",
-      "orig_slug": "wells-fargo-initiates-oracle-orcl-with-overweight-sees-major-ai-upside-ahead-5b7f7e4d"
-    },
-    {
-      "title": "7 Chinese industry bodies issue RWA tokenisation warning amid Beijing's crackdown",
-      "link": "https://finance.yahoo.com/news/7-chinese-industry-bodies-issue-093000629.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-06T09:30:00Z",
-      "image": "https://media.zenfs.com/en/south_china_morning_post_us_228/94d807a5e5a1a652633a7eb2e150fdc9",
-      "slug": "7-chinese-industry-bodies-issue-rwa-tokenisation-warning-amid-beijings-crackdown-baa43015",
-      "orig_slug": "7-chinese-industry-bodies-issue-rwa-tokenisation-warning-amid-beijings-crackdown-baa43015"
-    },
-    {
-      "title": "China's AI boom fuels solopreneurs as 1-person businesses flourish in tough job market",
-      "link": "https://finance.yahoo.com/news/chinas-ai-boom-fuels-solopreneurs-093000483.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-06T09:30:00Z",
-      "image": "https://media.zenfs.com/en/south_china_morning_post_us_228/033b48da2c9bd043088f4e3eb394da9b",
-      "slug": "chinas-ai-boom-fuels-solopreneurs-as-1-person-businesses-flourish-in-tough-job-m-5e2e4360",
-      "orig_slug": "chinas-ai-boom-fuels-solopreneurs-as-1-person-businesses-flourish-in-tough-job-m-5e2e4360"
-    },
-    {
-      "title": "Prediction: 2 AI Stocks Will Be Worth More Than Nvidia and Palantir Technologies Combined in 2026",
-      "link": "https://finance.yahoo.com/news/prediction-2-ai-stocks-worth-082600633.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-06T08:26:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/aa58471a5426098898be322524056bf6",
-      "slug": "prediction-2-ai-stocks-will-be-worth-more-than-nvidia-and-palantir-technologies--ddc08ab9",
-      "orig_slug": "prediction-2-ai-stocks-will-be-worth-more-than-nvidia-and-palantir-technologies--ddc08ab9"
-    },
-    {
-      "title": "TD Cowen Reiterates Buy on AMD, Calls Helios a Major AI Inflection Point",
-      "link": "https://finance.yahoo.com/news/td-cowen-reiterates-buy-amd-092915152.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-06T09:29:15Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/fd17ea33a8d3baa02e20febc55707f3e",
-      "slug": "td-cowen-reiterates-buy-on-amd-calls-helios-a-major-ai-inflection-point-f92a5500",
-      "orig_slug": "td-cowen-reiterates-buy-on-amd-calls-helios-a-major-ai-inflection-point-f92a5500"
-    },
-    {
-      "title": "Arista Networks (ANET) Earns $155 Target as UBS Highlights Confident FY26 Outlook",
-      "link": "https://finance.yahoo.com/news/arista-networks-anet-earns-155-093206153.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-06T09:32:06Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/46b477ff5c8fc32a665dc7bbdc679c68",
-      "slug": "arista-networks-anet-earns-155-target-as-ubs-highlights-confident-fy26-outlook-d5296112",
-      "orig_slug": "arista-networks-anet-earns-155-target-as-ubs-highlights-confident-fy26-outlook-d5296112"
-    },
-    {
-      "title": "Marvell (MRVL) Wins $90 Target as Data Center Momentum Accelerates",
-      "link": "https://finance.yahoo.com/news/marvell-mrvl-wins-90-target-093419702.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-06T09:34:19Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/520bd8f56e0f30096fb34661bc230e0f",
-      "slug": "marvell-mrvl-wins-90-target-as-data-center-momentum-accelerates-6b60d60a",
-      "orig_slug": "marvell-mrvl-wins-90-target-as-data-center-momentum-accelerates-6b60d60a"
-    },
-    {
-      "title": "CrowdStrike (CRWD) Delivers Upside Across Metrics; BMO Lifts Target to $555",
-      "link": "https://finance.yahoo.com/news/crowdstrike-crwd-delivers-upside-across-093609031.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-06T09:36:09Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/3fa929605158b8bf15ea0964443c4c2c",
-      "slug": "crowdstrike-crwd-delivers-upside-across-metrics-bmo-lifts-target-to-555-e8496bc4",
-      "orig_slug": "crowdstrike-crwd-delivers-upside-across-metrics-bmo-lifts-target-to-555-e8496bc4"
-    },
-    {
-      "title": "Crypto Market News Today, December 6: Crypto is Down, and Liquidations Are the Bitcoin Cycle’s Newest Trend as Michael Burry Piles Shorts",
-      "link": "https://finance.yahoo.com/news/crypto-market-news-today-december-085358941.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-06T08:53:58Z",
-      "image": "https://media.zenfs.com/en/99bitcoins_us_315/3ed984eca7204265ae843ffeba6c9111",
-      "slug": "crypto-market-news-today-december-6-crypto-is-down-and-liquidations-are-the-bitc-5aaee4da",
-      "orig_slug": "crypto-market-news-today-december-6-crypto-is-down-and-liquidations-are-the-bitc-5aaee4da"
-    },
-    {
-      "title": "Netflix (NFLX) Buys Warner Bros. for $72 Billion in Major Streaming Expansion Move",
-      "link": "https://finance.yahoo.com/news/netflix-nflx-buys-warner-bros-094316608.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-06T09:43:16Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/66a8e58455fb93bb51095895bbff8b9f",
-      "slug": "netflix-nflx-buys-warner-bros-for-72-billion-in-major-streaming-expansion-move-2dc10b6c",
-      "orig_slug": "netflix-nflx-buys-warner-bros-for-72-billion-in-major-streaming-expansion-move-2dc10b6c"
-    },
-    {
-      "title": "Winning at retirement may come down to dodging these 3 careless mistakes",
-      "link": "https://finance.yahoo.com/news/winning-retirement-may-come-down-100700012.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-06T10:07:00Z",
-      "image": "https://media.zenfs.com/en/moneywise_ecomm_711/28d28388256bef52ee5bc673ff4a3ad9",
-      "slug": "winning-at-retirement-may-come-down-to-dodging-these-3-careless-mistakes-cae2b84d",
-      "orig_slug": "winning-at-retirement-may-come-down-to-dodging-these-3-careless-mistakes-cae2b84d"
-    },
-    {
-      "title": "Why Consumers May Keep Spending Despite Affordability Angst",
-      "link": "https://www.barrons.com/articles/consumer-spending-affordability-stocks-3e665b74?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-06T07:30:00Z",
-      "image": "",
-      "slug": "why-consumers-may-keep-spending-despite-affordability-angst-004830da",
-      "orig_slug": "why-consumers-may-keep-spending-despite-affordability-angst-004830da"
-    },
-    {
-      "title": "Why Netflix Shareholders Aren’t Thrilled to Acquire Warner Bros.",
-      "link": "https://www.wsj.com/business/media/netflix-warner-bros-deal-investors-0cb6909f?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-06T10:30:00Z",
-      "image": "",
-      "slug": "why-netflix-shareholders-arent-thrilled-to-acquire-warner-bros-bd1305db",
-      "orig_slug": "why-netflix-shareholders-arent-thrilled-to-acquire-warner-bros-bd1305db"
-    },
-    {
-      "title": "Strive Urges MSCI to Scrap Proposal Excluding Major BTC Holders",
-      "link": "https://finance.yahoo.com/news/strive-urges-msci-scrap-proposal-082322572.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-06T08:23:22Z",
-      "image": "https://media.zenfs.com/en/cryptonews_us_711/65ad810c04b5ed42c4767e772153e55e",
-      "slug": "strive-urges-msci-to-scrap-proposal-excluding-major-btc-holders-50bbfe7b",
-      "orig_slug": "strive-urges-msci-to-scrap-proposal-excluding-major-btc-holders-50bbfe7b"
-    },
-    {
-      "title": "AI Stocks Are a Bet on the Future. Markets Are Ignoring the Now.",
-      "link": "https://www.barrons.com/articles/ai-stocks-market-price-b6350469?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-06T07:00:00Z",
-      "image": "",
-      "slug": "ai-stocks-are-a-bet-on-the-future-markets-are-ignoring-the-now-119b2061",
-      "orig_slug": "ai-stocks-are-a-bet-on-the-future-markets-are-ignoring-the-now-119b2061"
-    },
-    {
-      "title": "US sheds 32K jobs as the White House claims ‘explosive growth’ backed by a GDP surge. But is Trump actually winning?",
-      "link": "https://finance.yahoo.com/news/us-sheds-32k-jobs-white-105700664.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-06T10:57:00Z",
-      "image": "https://media.zenfs.com/en/moneywise_ecomm_711/d71f9e434576176c9573769edac0469a",
-      "slug": "us-sheds-32k-jobs-as-the-white-house-claims-explosive-growth-backed-by-a-gdp-sur-edc92c73",
-      "orig_slug": "us-sheds-32k-jobs-as-the-white-house-claims-explosive-growth-backed-by-a-gdp-sur-edc92c73"
+      "pubDate": "2025-12-06T10:57:36Z",
+      "image": "https://media.zenfs.com/en/tipranks_452/1ae221453fb3588f8fbacefec67c42ad",
+      "slug": "wells-fargo-says-these-2-energy-stocks-could-heat-up-in-2026-ba2ebb8b",
+      "orig_slug": "wells-fargo-says-these-2-energy-stocks-could-heat-up-in-2026-ba2ebb8b"
     },
     {
       "title": "Best high-yield savings interest rates today, December 6, 2025 (Earn up to 4.3% APY)",
@@ -173,6 +20,15 @@
       "orig_slug": "best-high-yield-savings-interest-rates-today-december-6-2025-earn-up-to-43-apy-3443973c"
     },
     {
+      "title": "US sheds 32K jobs as the White House claims ‘explosive growth’ backed by a GDP surge. But is Trump actually winning?",
+      "link": "https://finance.yahoo.com/news/us-sheds-32k-jobs-white-105700664.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-06T10:57:00Z",
+      "image": "https://media.zenfs.com/en/moneywise_ecomm_711/d71f9e434576176c9573769edac0469a",
+      "slug": "us-sheds-32k-jobs-as-the-white-house-claims-explosive-growth-backed-by-a-gdp-sur-edc92c73",
+      "orig_slug": "us-sheds-32k-jobs-as-the-white-house-claims-explosive-growth-backed-by-a-gdp-sur-edc92c73"
+    },
+    {
       "title": "Best money market account rates today, December 6, 2025 (best account provides 4.26% APY)",
       "link": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-saturday-december-6-2025-110032961.html",
       "source": "finance.yahoo.com",
@@ -180,24 +36,6 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/W0IqMRID_AsrQoqbpHUG1A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/678943f0-1cdb-11f0-bfb7-b3f563b0ea90",
       "slug": "best-money-market-account-rates-today-december-6-2025-best-account-provides-426--e67bf452",
       "orig_slug": "best-money-market-account-rates-today-december-6-2025-best-account-provides-426--e67bf452"
-    },
-    {
-      "title": "Crypto Recovery in December: Coinbase",
-      "link": "https://finance.yahoo.com/news/crypto-recovery-december-coinbase-082024403.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-06T08:20:24Z",
-      "image": "https://media.zenfs.com/en/coinspeaker_us_106/7e5cad94f86651a7ae03b97604e80236",
-      "slug": "crypto-recovery-in-december-coinbase-54ecae24",
-      "orig_slug": "crypto-recovery-in-december-coinbase-54ecae24"
-    },
-    {
-      "title": "Best CD rates today, December 6, 2025 (best account provides 4.1% APY)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-december-6-2025-110044044.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-06T11:00:44Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/ovrcHtWjuWeW708CWElIWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47af0d0-4f64-11ef-a7fe-afb55aa695d3",
-      "slug": "best-cd-rates-today-december-6-2025-best-account-provides-41-apy-a4b68660",
-      "orig_slug": "best-cd-rates-today-december-6-2025-best-account-provides-41-apy-a4b68660"
     },
     {
       "title": "Mortgage and refinance interest rates today, December 6, 2025: Inflation data pushes rates higher",
@@ -209,6 +47,15 @@
       "orig_slug": "mortgage-and-refinance-interest-rates-today-december-6-2025-inflation-data-pushe-adfe0d7f"
     },
     {
+      "title": "Best CD rates today, December 6, 2025 (best account provides 4.1% APY)",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-december-6-2025-110044044.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-06T11:00:44Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/ovrcHtWjuWeW708CWElIWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47af0d0-4f64-11ef-a7fe-afb55aa695d3",
+      "slug": "best-cd-rates-today-december-6-2025-best-account-provides-41-apy-a4b68660",
+      "orig_slug": "best-cd-rates-today-december-6-2025-best-account-provides-41-apy-a4b68660"
+    },
+    {
       "title": "Stifel Reaffirms Buy on Astera Labs (ALAB), Says Nvidia/AWS Concerns Are Overblown",
       "link": "https://finance.yahoo.com/news/stifel-reaffirms-buy-astera-labs-110157971.html",
       "source": "finance.yahoo.com",
@@ -216,6 +63,15 @@
       "image": "https://media.zenfs.com/en/insidermonkey.com/dcf062bafae0092ccd088cb6b6f85db6",
       "slug": "stifel-reaffirms-buy-on-astera-labs-alab-says-nvidiaaws-concerns-are-overblown-32712c3c",
       "orig_slug": "stifel-reaffirms-buy-on-astera-labs-alab-says-nvidiaaws-concerns-are-overblown-32712c3c"
+    },
+    {
+      "title": "How Much of Your Paycheck Should Gen X Save in 2026?",
+      "link": "https://finance.yahoo.com/news/much-paycheck-gen-x-save-110305314.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-06T11:03:05Z",
+      "image": "https://media.zenfs.com/en/gobankingrates_644/a4026890176cbeb183e5bd27500e8667",
+      "slug": "how-much-of-your-paycheck-should-gen-x-save-in-2026-ecbe71d9",
+      "orig_slug": "how-much-of-your-paycheck-should-gen-x-save-in-2026-ecbe71d9"
     },
     {
       "title": "Piper Sandler Keeps Overweight on Amazon (AMZN), Sets $233 Target Ahead of Holiday Season and AWS Momentum",
@@ -227,67 +83,319 @@
       "orig_slug": "piper-sandler-keeps-overweight-on-amazon-amzn-sets-233-target-ahead-of-holiday-s-c9859f14"
     },
     {
-      "title": "Netflix Makes a Blockbuster Deal for Warner Bros. But Is It a Win for Investors?",
-      "link": "https://finance.yahoo.com/news/netflix-makes-blockbuster-deal-warner-091000806.html",
+      "title": "Cantor Reiterates Neutral on Alphabet (GOOGL), Citing Long-Term AI Upside From Gemini 3",
+      "link": "https://finance.yahoo.com/news/cantor-reiterates-neutral-alphabet-googl-110720985.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-06T09:10:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/227f5d4f888dcf75843c3bed595f6200",
-      "slug": "netflix-makes-a-blockbuster-deal-for-warner-bros-but-is-it-a-win-for-investors-77bf4f3a",
-      "orig_slug": "netflix-makes-a-blockbuster-deal-for-warner-bros-but-is-it-a-win-for-investors-77bf4f3a"
+      "pubDate": "2025-12-06T11:07:20Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/af2bb6bdbc4f56cfaf197a2118a94cf1",
+      "slug": "cantor-reiterates-neutral-on-alphabet-googl-citing-long-term-ai-upside-from-gemi-40d89fbd",
+      "orig_slug": "cantor-reiterates-neutral-on-alphabet-googl-citing-long-term-ai-upside-from-gemi-40d89fbd"
     },
     {
-      "title": "Jim Cramer Says CrowdStrike Reported a “Pretty Darn Good Quarter”",
-      "link": "https://finance.yahoo.com/news/jim-cramer-says-crowdstrike-reported-053424410.html",
+      "title": "Analysts Stick With NVIDIA (NVDA) as AI Momentum Drives Long-Term Value",
+      "link": "https://finance.yahoo.com/news/analysts-stick-nvidia-nvda-ai-110943884.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-06T05:34:24Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/753cb9cb32336de8f86289f7a7c7b36e",
-      "slug": "jim-cramer-says-crowdstrike-reported-a-pretty-darn-good-quarter-db85ccd8",
-      "orig_slug": "jim-cramer-says-crowdstrike-reported-a-pretty-darn-good-quarter-db85ccd8"
+      "pubDate": "2025-12-06T11:09:43Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/a079136e941b43293f25b66228839740",
+      "slug": "analysts-stick-with-nvidia-nvda-as-ai-momentum-drives-long-term-value-04cde460",
+      "orig_slug": "analysts-stick-with-nvidia-nvda-as-ai-momentum-drives-long-term-value-04cde460"
     },
     {
-      "title": "Jim Cramer on Bristol-Myers’ Recent Stock Gain: “Unbelievable”",
-      "link": "https://finance.yahoo.com/news/jim-cramer-bristol-myers-recent-053419979.html",
+      "title": "Why Netflix Shareholders Aren’t Thrilled to Acquire Warner Bros.",
+      "link": "https://www.wsj.com/business/media/netflix-warner-bros-deal-investors-0cb6909f?siteid=yhoof2&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-06T05:34:19Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/7b1d6a1350c79cef49b9cb2889204dd6",
-      "slug": "jim-cramer-on-bristol-myers-recent-stock-gain-unbelievable-486d1528",
-      "orig_slug": "jim-cramer-on-bristol-myers-recent-stock-gain-unbelievable-486d1528"
+      "pubDate": "2025-12-06T10:30:00Z",
+      "image": "",
+      "slug": "why-netflix-shareholders-arent-thrilled-to-acquire-warner-bros-bd1305db",
+      "orig_slug": "why-netflix-shareholders-arent-thrilled-to-acquire-warner-bros-bd1305db"
     },
     {
-      "title": "Jim Cramer Says “I Think Palantir Is Going Higher”",
-      "link": "https://finance.yahoo.com/news/jim-cramer-says-think-palantir-053423782.html",
+      "title": "I’m a Financial Advisor: 5 Worst Money Moves the Middle Class Could Make in 2026",
+      "link": "https://finance.yahoo.com/news/m-financial-advisor-5-worst-110408580.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-06T05:34:23Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/d33bdc283f11c51e1edf5a2884041b55",
-      "slug": "jim-cramer-says-i-think-palantir-is-going-higher-d103147b",
-      "orig_slug": "jim-cramer-says-i-think-palantir-is-going-higher-d103147b"
+      "pubDate": "2025-12-06T11:04:08Z",
+      "image": "https://media.zenfs.com/en/gobankingrates_644/510677a93880d00df9773706073d3f56",
+      "slug": "im-a-financial-advisor-5-worst-money-moves-the-middle-class-could-make-in-2026-04232d03",
+      "orig_slug": "im-a-financial-advisor-5-worst-money-moves-the-middle-class-could-make-in-2026-04232d03"
     },
     {
-      "title": "Jim Cramer on Lumentum: “It’s Okay as Long as You Recognize It’s a Spec”",
-      "link": "https://finance.yahoo.com/news/jim-cramer-lumentum-okay-long-053429964.html",
+      "title": "Winning at retirement may come down to dodging these 3 careless mistakes",
+      "link": "https://finance.yahoo.com/news/winning-retirement-may-come-down-100700012.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-06T05:34:29Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/ab17cbae959ed841325f2d9cbe730e2f",
-      "slug": "jim-cramer-on-lumentum-its-okay-as-long-as-you-recognize-its-a-spec-0a7f2bb0",
-      "orig_slug": "jim-cramer-on-lumentum-its-okay-as-long-as-you-recognize-its-a-spec-0a7f2bb0"
+      "pubDate": "2025-12-06T10:07:00Z",
+      "image": "https://media.zenfs.com/en/moneywise_ecomm_711/28d28388256bef52ee5bc673ff4a3ad9",
+      "slug": "winning-at-retirement-may-come-down-to-dodging-these-3-careless-mistakes-cae2b84d",
+      "orig_slug": "winning-at-retirement-may-come-down-to-dodging-these-3-careless-mistakes-cae2b84d"
     },
     {
-      "title": "CoinShares Debunks Tether Collapse Fears After Hayes Warning",
-      "link": "https://finance.yahoo.com/news/coinshares-debunks-tether-collapse-fears-091347552.html",
+      "title": "Netflix (NFLX) Buys Warner Bros. for $72 Billion in Major Streaming Expansion Move",
+      "link": "https://finance.yahoo.com/news/netflix-nflx-buys-warner-bros-094316608.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-06T09:13:47Z",
-      "image": "https://media.zenfs.com/en/cryptonews_us_711/0f1b1a2e4feb711942a2004d9b0268fc",
-      "slug": "coinshares-debunks-tether-collapse-fears-after-hayes-warning-ecc3b650",
-      "orig_slug": "coinshares-debunks-tether-collapse-fears-after-hayes-warning-ecc3b650"
+      "pubDate": "2025-12-06T09:43:16Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/66a8e58455fb93bb51095895bbff8b9f",
+      "slug": "netflix-nflx-buys-warner-bros-for-72-billion-in-major-streaming-expansion-move-2dc10b6c",
+      "orig_slug": "netflix-nflx-buys-warner-bros-for-72-billion-in-major-streaming-expansion-move-2dc10b6c"
     },
     {
-      "title": "Jim Cramer on IREN: “Take the Gain”",
-      "link": "https://finance.yahoo.com/news/jim-cramer-iren-gain-053433473.html",
+      "title": "CrowdStrike (CRWD) Delivers Upside Across Metrics; BMO Lifts Target to $555",
+      "link": "https://finance.yahoo.com/news/crowdstrike-crwd-delivers-upside-across-093609031.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-06T05:34:33Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/e7ce02738b547dc513a8196cdef40274",
-      "slug": "jim-cramer-on-iren-take-the-gain-cb67502a",
-      "orig_slug": "jim-cramer-on-iren-take-the-gain-cb67502a"
+      "pubDate": "2025-12-06T09:36:09Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/3fa929605158b8bf15ea0964443c4c2c",
+      "slug": "crowdstrike-crwd-delivers-upside-across-metrics-bmo-lifts-target-to-555-e8496bc4",
+      "orig_slug": "crowdstrike-crwd-delivers-upside-across-metrics-bmo-lifts-target-to-555-e8496bc4"
+    },
+    {
+      "title": "Marvell (MRVL) Wins $90 Target as Data Center Momentum Accelerates",
+      "link": "https://finance.yahoo.com/news/marvell-mrvl-wins-90-target-093419702.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-06T09:34:19Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/520bd8f56e0f30096fb34661bc230e0f",
+      "slug": "marvell-mrvl-wins-90-target-as-data-center-momentum-accelerates-6b60d60a",
+      "orig_slug": "marvell-mrvl-wins-90-target-as-data-center-momentum-accelerates-6b60d60a"
+    },
+    {
+      "title": "Family Support Crucial for Nearly Half of Gen Z Adults: What This Means",
+      "link": "https://finance.yahoo.com/news/family-support-crucial-nearly-half-111900012.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-06T11:19:00Z",
+      "image": "https://media.zenfs.com/en/investopedia_245/2541685a17391cd65181af7fa0cd83e2",
+      "slug": "family-support-crucial-for-nearly-half-of-gen-z-adults-what-this-means-26817762",
+      "orig_slug": "family-support-crucial-for-nearly-half-of-gen-z-adults-what-this-means-26817762"
+    },
+    {
+      "title": "Arista Networks (ANET) Earns $155 Target as UBS Highlights Confident FY26 Outlook",
+      "link": "https://finance.yahoo.com/news/arista-networks-anet-earns-155-093206153.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-06T09:32:06Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/46b477ff5c8fc32a665dc7bbdc679c68",
+      "slug": "arista-networks-anet-earns-155-target-as-ubs-highlights-confident-fy26-outlook-d5296112",
+      "orig_slug": "arista-networks-anet-earns-155-target-as-ubs-highlights-confident-fy26-outlook-d5296112"
+    },
+    {
+      "title": "China's AI boom fuels solopreneurs as 1-person businesses flourish in tough job market",
+      "link": "https://finance.yahoo.com/news/chinas-ai-boom-fuels-solopreneurs-093000483.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-06T09:30:00Z",
+      "image": "https://media.zenfs.com/en/south_china_morning_post_us_228/033b48da2c9bd043088f4e3eb394da9b",
+      "slug": "chinas-ai-boom-fuels-solopreneurs-as-1-person-businesses-flourish-in-tough-job-m-5e2e4360",
+      "orig_slug": "chinas-ai-boom-fuels-solopreneurs-as-1-person-businesses-flourish-in-tough-job-m-5e2e4360"
+    },
+    {
+      "title": "TD Cowen Reiterates Buy on AMD, Calls Helios a Major AI Inflection Point",
+      "link": "https://finance.yahoo.com/news/td-cowen-reiterates-buy-amd-092915152.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-06T09:29:15Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/fd17ea33a8d3baa02e20febc55707f3e",
+      "slug": "td-cowen-reiterates-buy-on-amd-calls-helios-a-major-ai-inflection-point-f92a5500",
+      "orig_slug": "td-cowen-reiterates-buy-on-amd-calls-helios-a-major-ai-inflection-point-f92a5500"
+    },
+    {
+      "title": "7 Chinese industry bodies issue RWA tokenisation warning amid Beijing's crackdown",
+      "link": "https://finance.yahoo.com/news/7-chinese-industry-bodies-issue-093000629.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-06T09:30:00Z",
+      "image": "https://media.zenfs.com/en/south_china_morning_post_us_228/94d807a5e5a1a652633a7eb2e150fdc9",
+      "slug": "7-chinese-industry-bodies-issue-rwa-tokenisation-warning-amid-beijings-crackdown-baa43015",
+      "orig_slug": "7-chinese-industry-bodies-issue-rwa-tokenisation-warning-amid-beijings-crackdown-baa43015"
+    },
+    {
+      "title": "Evaluating KHC Stock's Actual Performance",
+      "link": "https://finance.yahoo.com/news/evaluating-khc-stocks-actual-performance-103000562.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-06T10:30:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/d6bd38a03961483b537a6cc99b5ab02f",
+      "slug": "evaluating-khc-stocks-actual-performance-29e99e15",
+      "orig_slug": "evaluating-khc-stocks-actual-performance-29e99e15"
+    },
+    {
+      "title": "US consumers crippled by $105K debt on average in 2025. But can debt relief programs really help?",
+      "link": "https://finance.yahoo.com/news/us-consumers-crippled-105k-debt-114500283.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-06T11:45:00Z",
+      "image": "https://media.zenfs.com/en/moneywise_327/7a0c27396ba7bbb89eb0e6346c755415",
+      "slug": "us-consumers-crippled-by-105k-debt-on-average-in-2025-but-can-debt-relief-progra-1bb8a869",
+      "orig_slug": "us-consumers-crippled-by-105k-debt-on-average-in-2025-but-can-debt-relief-progra-1bb8a869"
+    },
+    {
+      "title": "Wells Fargo Initiates Oracle (ORCL) With Overweight, Sees Major AI Upside Ahead",
+      "link": "https://finance.yahoo.com/news/wells-fargo-initiates-oracle-orcl-092516149.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-06T09:25:16Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/c2e756945297bbe626edf5a1612a7dd7",
+      "slug": "wells-fargo-initiates-oracle-orcl-with-overweight-sees-major-ai-upside-ahead-5b7f7e4d",
+      "orig_slug": "wells-fargo-initiates-oracle-orcl-with-overweight-sees-major-ai-upside-ahead-5b7f7e4d"
+    },
+    {
+      "title": "Apple (AAPL) Earns $320 Target as Services Strength Offsets App Store Slowdown",
+      "link": "https://finance.yahoo.com/news/apple-aapl-earns-320-target-092119877.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-06T09:21:19Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/6f2d4bfd3a5a01fd895b40b72d961662",
+      "slug": "apple-aapl-earns-320-target-as-services-strength-offsets-app-store-slowdown-c7a00b5f",
+      "orig_slug": "apple-aapl-earns-320-target-as-services-strength-offsets-app-store-slowdown-c7a00b5f"
+    },
+    {
+      "title": "Why Consumers May Keep Spending Despite Affordability Angst",
+      "link": "https://www.barrons.com/articles/consumer-spending-affordability-stocks-3e665b74?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-06T07:30:00Z",
+      "image": "",
+      "slug": "why-consumers-may-keep-spending-despite-affordability-angst-004830da",
+      "orig_slug": "why-consumers-may-keep-spending-despite-affordability-angst-004830da"
+    },
+    {
+      "title": "3 Catalysts That Can Spark a Stock Market Crash in 2026",
+      "link": "https://finance.yahoo.com/news/3-catalysts-spark-stock-market-102600810.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-06T10:26:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/c1f7798ea37a712ccac7af5e459fdeb1",
+      "slug": "3-catalysts-that-can-spark-a-stock-market-crash-in-2026-893c3329",
+      "orig_slug": "3-catalysts-that-can-spark-a-stock-market-crash-in-2026-893c3329"
+    },
+    {
+      "title": "AI Stocks Are a Bet on the Future. Markets Are Ignoring the Now.",
+      "link": "https://www.barrons.com/articles/ai-stocks-market-price-b6350469?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-06T07:00:00Z",
+      "image": "",
+      "slug": "ai-stocks-are-a-bet-on-the-future-markets-are-ignoring-the-now-119b2061",
+      "orig_slug": "ai-stocks-are-a-bet-on-the-future-markets-are-ignoring-the-now-119b2061"
+    },
+    {
+      "title": "DigitalBridge (DBRG) Soars 45% on SoftBank Merger Buzz",
+      "link": "https://finance.yahoo.com/news/digitalbridge-dbrg-soars-45-softbank-124856253.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-06T12:48:56Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/073cd11b7c82c271a78377999b340b6c",
+      "slug": "digitalbridge-dbrg-soars-45-on-softbank-merger-buzz-9323e925",
+      "orig_slug": "digitalbridge-dbrg-soars-45-on-softbank-merger-buzz-9323e925"
+    },
+    {
+      "title": "UiPath (PATH) Climbs 35% to New Record High on Stellar Q3",
+      "link": "https://finance.yahoo.com/news/uipath-path-climbs-35-record-124905113.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-06T12:49:05Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/c39fbae5690d4b5dbaa666dd79ac741a",
+      "slug": "uipath-path-climbs-35-to-new-record-high-on-stellar-q3-20bcdd43",
+      "orig_slug": "uipath-path-climbs-35-to-new-record-high-on-stellar-q3-20bcdd43"
+    },
+    {
+      "title": "AST SpaceMobile (ASTS) Soars 31.5% on Looming Launch, Expansion of Next-Generation Satellite",
+      "link": "https://finance.yahoo.com/news/ast-spacemobile-asts-soars-31-124915709.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-06T12:49:15Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/37e558926196530f0126ecb41a805571",
+      "slug": "ast-spacemobile-asts-soars-315-on-looming-launch-expansion-of-next-generation-sa-df03db19",
+      "orig_slug": "ast-spacemobile-asts-soars-315-on-looming-launch-expansion-of-next-generation-sa-df03db19"
+    },
+    {
+      "title": "Here's Why Apple Is My Second Biggest Holding Going Into 2026",
+      "link": "https://finance.yahoo.com/news/heres-why-apple-second-biggest-102500741.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-06T10:25:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/4bbb6fb5a7f315d66fb883344372c4ba",
+      "slug": "heres-why-apple-is-my-second-biggest-holding-going-into-2026-a04764ff",
+      "orig_slug": "heres-why-apple-is-my-second-biggest-holding-going-into-2026-a04764ff"
+    },
+    {
+      "title": "USA Rare Earth (USAR) Soars 28% as Firm Bags New Supply Deals",
+      "link": "https://finance.yahoo.com/news/usa-rare-earth-usar-soars-124926393.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-06T12:49:26Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/0755a7189e1bc8190b754aa134cbbcaf",
+      "slug": "usa-rare-earth-usar-soars-28-as-firm-bags-new-supply-deals-52d4cc06",
+      "orig_slug": "usa-rare-earth-usar-soars-28-as-firm-bags-new-supply-deals-52d4cc06"
+    },
+    {
+      "title": "Rubrik (RBRK) Rockets 22.5% on Q3 Blowout",
+      "link": "https://finance.yahoo.com/news/rubrik-rbrk-rockets-22-5-125012659.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-06T12:50:12Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/753645e308aa52a9f3d06560e068a714",
+      "slug": "rubrik-rbrk-rockets-225-on-q3-blowout-addca8d3",
+      "orig_slug": "rubrik-rbrk-rockets-225-on-q3-blowout-addca8d3"
+    },
+    {
+      "title": "Microchip Technology (MCHP) Climbs 22.8% on Upbeat Outlook",
+      "link": "https://finance.yahoo.com/news/microchip-technology-mchp-climbs-22-125019478.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-06T12:50:19Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/8935567a2bee6185102bf105bf789783",
+      "slug": "microchip-technology-mchp-climbs-228-on-upbeat-outlook-a450c4dc",
+      "orig_slug": "microchip-technology-mchp-climbs-228-on-upbeat-outlook-a450c4dc"
+    },
+    {
+      "title": "Fluence Energy (FLNC) Gains 22% as 7 Analysts Grow Bullish",
+      "link": "https://finance.yahoo.com/news/fluence-energy-flnc-gains-22-125027089.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-06T12:50:27Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/2703de6a5fec1923776079d98674705c",
+      "slug": "fluence-energy-flnc-gains-22-as-7-analysts-grow-bullish-1941c56b",
+      "orig_slug": "fluence-energy-flnc-gains-22-as-7-analysts-grow-bullish-1941c56b"
+    },
+    {
+      "title": "Could Buying Rivian Automotive Stock Today Set You Up for Life?",
+      "link": "https://finance.yahoo.com/news/could-buying-rivian-automotive-stock-112500855.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-06T11:25:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/e044d724fa5162849603ad7d9994a00e",
+      "slug": "could-buying-rivian-automotive-stock-today-set-you-up-for-life-27612e19",
+      "orig_slug": "could-buying-rivian-automotive-stock-today-set-you-up-for-life-27612e19"
+    },
+    {
+      "title": "Dollar General (DG) Surges 20.9% on Strong Earnings. Time to Book Gains?",
+      "link": "https://finance.yahoo.com/news/dollar-general-dg-surges-20-125359860.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-06T12:53:59Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/a0363de7e8bcf6d406761227d2179f54",
+      "slug": "dollar-general-dg-surges-209-on-strong-earnings-time-to-book-gains-83d30c85",
+      "orig_slug": "dollar-general-dg-surges-209-on-strong-earnings-time-to-book-gains-83d30c85"
+    },
+    {
+      "title": "CoreWeave (CRWV) Soars 20.8% on New AI Investment",
+      "link": "https://finance.yahoo.com/news/coreweave-crwv-soars-20-8-125411599.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-06T12:54:11Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/dc4c162449f41cbbd865b93adfdfa7d3",
+      "slug": "coreweave-crwv-soars-208-on-new-ai-investment-b56cd7ed",
+      "orig_slug": "coreweave-crwv-soars-208-on-new-ai-investment-b56cd7ed"
+    },
+    {
+      "title": "D-Wave Quantum (QBTS) Jumps 19% as Firm Ramps Up Govt Deals",
+      "link": "https://finance.yahoo.com/news/d-wave-quantum-qbts-jumps-125423529.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-06T12:54:23Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/b682effc3adb08bae339f99ce68be88b",
+      "slug": "d-wave-quantum-qbts-jumps-19-as-firm-ramps-up-govt-deals-1dc006cc",
+      "orig_slug": "d-wave-quantum-qbts-jumps-19-as-firm-ramps-up-govt-deals-1dc006cc"
+    },
+    {
+      "title": "I’m 35, I saved aggressively throughout my 20s and I feel like I missed out. How do I find a better balance?",
+      "link": "https://finance.yahoo.com/news/m-35-saved-aggressively-throughout-130000298.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-06T13:00:00Z",
+      "image": "https://media.zenfs.com/en/moneywise_327/e38fbcf3c48d30d5b5a0a71a63906f59",
+      "slug": "im-35-i-saved-aggressively-throughout-my-20s-and-i-feel-like-i-missed-out-how-do-a150aed9",
+      "orig_slug": "im-35-i-saved-aggressively-throughout-my-20s-and-i-feel-like-i-missed-out-how-do-a150aed9"
+    },
+    {
+      "title": "The Starlab Space Station Team Just Keeps Growing",
+      "link": "https://finance.yahoo.com/news/starlab-space-station-team-just-112600701.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-06T11:26:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/62dd858ae80b0921d793c5a39e95e7a5",
+      "slug": "the-starlab-space-station-team-just-keeps-growing-c8038e37",
+      "orig_slug": "the-starlab-space-station-team-just-keeps-growing-c8038e37"
+    },
+    {
+      "title": "AI Plays Lead Five Stocks To Watch Near Buy Points",
+      "link": "https://www.investors.com/news/taiwan-semiconductor-ai-stocks-near-buy-points/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-06T13:00:15Z",
+      "image": "",
+      "slug": "ai-plays-lead-five-stocks-to-watch-near-buy-points-af628ef4",
+      "orig_slug": "ai-plays-lead-five-stocks-to-watch-near-buy-points-af628ef4"
     },
     {
       "title": "Jim Cramer Says “FedEx is a Coiled Spring”",
@@ -299,33 +407,6 @@
       "orig_slug": "jim-cramer-says-fedex-is-a-coiled-spring-97399c75"
     },
     {
-      "title": "Jim Cramer Says “Don’t Speculate, Invest GE Vernova”",
-      "link": "https://finance.yahoo.com/news/jim-cramer-says-don-t-053426220.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-06T05:34:26Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/1f2a6184ea2407261dfacb5be1e331aa",
-      "slug": "jim-cramer-says-dont-speculate-invest-ge-vernova-23cc0a3c",
-      "orig_slug": "jim-cramer-says-dont-speculate-invest-ge-vernova-23cc0a3c"
-    },
-    {
-      "title": "Jim Cramer Says American Eagle’s Latest Results Show Its Strength",
-      "link": "https://finance.yahoo.com/news/jim-cramer-says-american-eagle-053441527.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-06T05:34:41Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/5f241f83ea3e77a50a204217fc3a84bc",
-      "slug": "jim-cramer-says-american-eagles-latest-results-show-its-strength-67f5bd65",
-      "orig_slug": "jim-cramer-says-american-eagles-latest-results-show-its-strength-67f5bd65"
-    },
-    {
-      "title": "Prediction: This Will Be Nvidia's Stock Price in 2026",
-      "link": "https://finance.yahoo.com/news/prediction-nvidias-stock-price-2026-080100631.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-06T08:01:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/cb599d577ecea7489c15d4b3b0ab40de",
-      "slug": "prediction-this-will-be-nvidias-stock-price-in-2026-217f7b59",
-      "orig_slug": "prediction-this-will-be-nvidias-stock-price-in-2026-217f7b59"
-    },
-    {
       "title": "Jim Cramer Believes “Home Depot’s the Most Sensitive to a Decline in Interest Rates”",
       "link": "https://finance.yahoo.com/news/jim-cramer-believes-home-depot-053444158.html",
       "source": "finance.yahoo.com",
@@ -333,60 +414,6 @@
       "image": "https://media.zenfs.com/en/insidermonkey.com/fe9b83c48e42a480f2d96b3e53f65fb2",
       "slug": "jim-cramer-believes-home-depots-the-most-sensitive-to-a-decline-in-interest-rate-871af0d5",
       "orig_slug": "jim-cramer-believes-home-depots-the-most-sensitive-to-a-decline-in-interest-rate-871af0d5"
-    },
-    {
-      "title": "Jim Cramer on Snowflake: “One of the Rare Software Companies That’s Convinced Wall Street It Can Make a Killing From AI”",
-      "link": "https://finance.yahoo.com/news/jim-cramer-snowflake-one-rare-053427132.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-06T05:34:27Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/e7ce02738b547dc513a8196cdef40274",
-      "slug": "jim-cramer-on-snowflake-one-of-the-rare-software-companies-thats-convinced-wall--85df9281",
-      "orig_slug": "jim-cramer-on-snowflake-one-of-the-rare-software-companies-thats-convinced-wall--85df9281"
-    },
-    {
-      "title": "Jim Cramer on Loews Corporation: “Good Opportunity Here”",
-      "link": "https://finance.yahoo.com/news/jim-cramer-loews-corporation-good-053421129.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-06T05:34:21Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/04816330227784e99fa139754a436e25",
-      "slug": "jim-cramer-on-loews-corporation-good-opportunity-here-fb6a1c5d",
-      "orig_slug": "jim-cramer-on-loews-corporation-good-opportunity-here-fb6a1c5d"
-    },
-    {
-      "title": "Jim Cramer Says Banks Like Wells Fargo Are the “Real Measure of the Economy’s Health”",
-      "link": "https://finance.yahoo.com/news/jim-cramer-says-banks-wells-053435616.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-06T05:34:35Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/3043336953bc189983a96fe150c48a8b",
-      "slug": "jim-cramer-says-banks-like-wells-fargo-are-the-real-measure-of-the-economys-heal-a461e335",
-      "orig_slug": "jim-cramer-says-banks-like-wells-fargo-are-the-real-measure-of-the-economys-heal-a461e335"
-    },
-    {
-      "title": "Forget meme stocks: Why 'boring' investing may build the most wealth",
-      "link": "https://finance.yahoo.com/news/forget-meme-stocks-why-boring-080052732.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-06T08:00:52Z",
-      "image": "https://media.zenfs.com/en/usa_today_money_325/ab4c4411420e66cae02974cb84652daa",
-      "slug": "forget-meme-stocks-why-boring-investing-may-build-the-most-wealth-99f015de",
-      "orig_slug": "forget-meme-stocks-why-boring-investing-may-build-the-most-wealth-99f015de"
-    },
-    {
-      "title": "Jim Cramer Mentions Tapestry Among the “List of Retailers That Performed Sharply Better Than Expected”",
-      "link": "https://finance.yahoo.com/news/jim-cramer-mentions-tapestry-among-053442686.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-06T05:34:42Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/d33bdc283f11c51e1edf5a2884041b55",
-      "slug": "jim-cramer-mentions-tapestry-among-the-list-of-retailers-that-performed-sharply--be961573",
-      "orig_slug": "jim-cramer-mentions-tapestry-among-the-list-of-retailers-that-performed-sharply--be961573"
-    },
-    {
-      "title": "Jim Cramer Highlights “Dollar Tree Reported a Really Terrific Quarter”",
-      "link": "https://finance.yahoo.com/news/jim-cramer-highlights-dollar-tree-053438385.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-06T05:34:38Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/3d514494e70559fab2160c9e252902be",
-      "slug": "jim-cramer-highlights-dollar-tree-reported-a-really-terrific-quarter-e4b69353",
-      "orig_slug": "jim-cramer-highlights-dollar-tree-reported-a-really-terrific-quarter-e4b69353"
     }
   ]
 }
