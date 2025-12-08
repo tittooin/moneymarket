@@ -1,14 +1,392 @@
 {
-  "updated": "2025-12-08T15:14:41Z",
+  "updated": "2025-12-08T16:16:39Z",
   "items": [
     {
-      "title": "TotalEnergies, NEO NEXT to merge UK upstream operations",
-      "link": "https://finance.yahoo.com/news/totalenergies-neo-next-merge-uk-150800128.html",
+      "title": "US households' personal finance worries grew in November, New York Fed says",
+      "link": "https://finance.yahoo.com/news/us-households-personal-finance-worries-160126927.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T15:08:00Z",
-      "image": "https://media.zenfs.com/en/offshore_technology_431/35e92a302df0379e67436cfcb99db082",
-      "slug": "totalenergies-neo-next-to-merge-uk-upstream-operations-f99194e3",
-      "orig_slug": "totalenergies-neo-next-to-merge-uk-upstream-operations-f99194e3"
+      "pubDate": "2025-12-08T16:01:26Z",
+      "image": "https://media.zenfs.com/en/reuters.com/723b2ec57f9e9c2db9f9c67345e6b557",
+      "slug": "us-households-personal-finance-worries-grew-in-november-new-york-fed-says-d349c4dc",
+      "orig_slug": "us-households-personal-finance-worries-grew-in-november-new-york-fed-says-d349c4dc"
+    },
+    {
+      "title": "Marvell Stock Biggest Loser From Amazon’s New Chip. This Downgrade Proves It.",
+      "link": "https://www.barrons.com/articles/marvell-stock-downgrade-amazon-trainium-ab67462b?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-08T15:54:00Z",
+      "image": "",
+      "slug": "marvell-stock-biggest-loser-from-amazons-new-chip-this-downgrade-proves-it-a7dfcc64",
+      "orig_slug": "marvell-stock-biggest-loser-from-amazons-new-chip-this-downgrade-proves-it-a7dfcc64"
+    },
+    {
+      "title": "5 Dividend Aristocrats to Buy and Hold Forever for Dependable Passive Income",
+      "link": "https://finance.yahoo.com/news/5-dividend-aristocrats-buy-hold-155252821.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-08T15:52:52Z",
+      "image": "https://media.zenfs.com/en/24_7_wall_st__718/5b1f8164c492e4d31528edcb55470e66",
+      "slug": "5-dividend-aristocrats-to-buy-and-hold-forever-for-dependable-passive-income-b4c14371",
+      "orig_slug": "5-dividend-aristocrats-to-buy-and-hold-forever-for-dependable-passive-income-b4c14371"
+    },
+    {
+      "title": "2026 financial forecast: What to expect in mortgages, investing, banking, and more",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/financial-forecast-what-to-expect-165315797.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2024-12-20T16:53:15Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/Sg91XT_yCNwf1pxBXCuigA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/c7728310-d22c-11f0-9ffe-827d8ad17765",
+      "slug": "2026-financial-forecast-what-to-expect-in-mortgages-investing-banking-and-more-457d38f2",
+      "orig_slug": "2026-financial-forecast-what-to-expect-in-mortgages-investing-banking-and-more-457d38f2"
+    },
+    {
+      "title": "Netflix Faces a Bidding War for Warner—and the Stock Market Hates the Idea",
+      "link": "https://www.barrons.com/articles/netflix-stock-price-warner-deal-bidding-war-trump-cdaa855b?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-08T15:50:00Z",
+      "image": "",
+      "slug": "netflix-faces-a-bidding-war-for-warnerand-the-stock-market-hates-the-idea-aa74698e",
+      "orig_slug": "netflix-faces-a-bidding-war-for-warnerand-the-stock-market-hates-the-idea-aa74698e"
+    },
+    {
+      "title": "Weekly Stock List",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_45529_StockPicks_1765197447000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-08T12:37:27Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "weekly-stock-list-0b226744",
+      "orig_slug": "weekly-stock-list-0b226744"
+    },
+    {
+      "title": "CoreWeave Has Slumped on Debt Concerns. It Is Issuing More Convertible Bonds.",
+      "link": "https://www.barrons.com/articles/coreweave-crwv-stock-price-debt-bond-concerns-b80cb3b9?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-08T15:50:00Z",
+      "image": "",
+      "slug": "coreweave-has-slumped-on-debt-concerns-it-is-issuing-more-convertible-bonds-79e459a2",
+      "orig_slug": "coreweave-has-slumped-on-debt-concerns-it-is-issuing-more-convertible-bonds-79e459a2"
+    },
+    {
+      "title": "Gasoline Prices Are The Lowest In Four Years And This Gas Station Chain Reports Earnings",
+      "link": "https://www.investors.com/news/gasoline-prices-are-the-lowest-in-years-caseys-general-stores-q2-earnings/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-08T15:44:20Z",
+      "image": "",
+      "slug": "gasoline-prices-are-the-lowest-in-four-years-and-this-gas-station-chain-reports--c08dd37d",
+      "orig_slug": "gasoline-prices-are-the-lowest-in-four-years-and-this-gas-station-chain-reports--c08dd37d"
+    },
+    {
+      "title": "Burry May Be Short, But BoA Sees Nvidia and Palantir Moving Higher",
+      "link": "https://finance.yahoo.com/news/burry-may-short-boa-sees-154926782.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-08T15:49:26Z",
+      "image": "https://media.zenfs.com/en/24_7_wall_st__718/42b1a74e613a76b65a709f21cdf8417d",
+      "slug": "burry-may-be-short-but-boa-sees-nvidia-and-palantir-moving-higher-4a70ecb5",
+      "orig_slug": "burry-may-be-short-but-boa-sees-nvidia-and-palantir-moving-higher-4a70ecb5"
+    },
+    {
+      "title": "Paramount Launches Hostile Bid for Warner Bros. Trump Doesn’t Like Either Deal.",
+      "link": "https://www.barrons.com/articles/paramount-stock-price-warner-bros-1fcada2f?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-08T15:44:00Z",
+      "image": "",
+      "slug": "paramount-launches-hostile-bid-for-warner-bros-trump-doesnt-like-either-deal-85fe9677",
+      "orig_slug": "paramount-launches-hostile-bid-for-warner-bros-trump-doesnt-like-either-deal-85fe9677"
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq waver with Wall Street awaiting expected Fed rate cut",
+      "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-with-wall-street-awaiting-expected-fed-rate-cut-001431871.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-08T00:14:31Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/v59oltU0CAB46kYj.m1ncw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/dcb3c350-d3c2-11f0-aed1-bbd6d8f2e3a9",
+      "slug": "stock-market-today-dow-sp-500-nasdaq-waver-with-wall-street-awaiting-expected-fe-7a348e4a",
+      "orig_slug": "stock-market-today-dow-sp-500-nasdaq-waver-with-wall-street-awaiting-expected-fe-7a348e4a"
+    },
+    {
+      "title": "Daily Spotlight: Cracks in the AI Foundation?",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_45525_MarketOutlook_1765196488000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-08T12:21:28Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "daily-spotlight-cracks-in-the-ai-foundation-9df6bcfb",
+      "orig_slug": "daily-spotlight-cracks-in-the-ai-foundation-9df6bcfb"
+    },
+    {
+      "title": "15 savings accounts with interest rates of 4% APY and higher (updated weekly)",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/4-percent-interest-savings-accounts-175301904.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2024-06-04T17:53:01Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/JDqrbSLwVGJo7J8SaoeRaw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg-/https://s.yimg.com/os/creatr-uploaded-images/2021-09/9f40aa70-127d-11ec-bfbf-72598572c6e9",
+      "slug": "15-savings-accounts-with-interest-rates-of-4-apy-and-higher-updated-weekly-5c879a41",
+      "orig_slug": "15-savings-accounts-with-interest-rates-of-4-apy-and-higher-updated-weekly-5c879a41"
+    },
+    {
+      "title": "Paramount makes $108.4 billion hostile bid for Warner Bros Discovery",
+      "link": "https://finance.yahoo.com/news/paramount-makes-108-4-billion-140913886.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-08T15:40:26Z",
+      "image": "https://media.zenfs.com/en/reuters.com/a2b8115bebf022a2cafbf66f50b27037",
+      "slug": "paramount-makes-1084-billion-hostile-bid-for-warner-bros-discovery-0531ec30",
+      "orig_slug": "paramount-makes-1084-billion-hostile-bid-for-warner-bros-discovery-0531ec30"
+    },
+    {
+      "title": "Goldman Sachs Adds Red-Hot Gaming and Technology Stocks to December Conviction List",
+      "link": "https://finance.yahoo.com/news/goldman-sachs-adds-red-hot-154415126.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-08T15:44:15Z",
+      "image": "https://media.zenfs.com/en/24_7_wall_st__718/74bc60924e76f984dbb62a4d8faf6ff8",
+      "slug": "goldman-sachs-adds-red-hot-gaming-and-technology-stocks-to-december-conviction-l-86b94f96",
+      "orig_slug": "goldman-sachs-adds-red-hot-gaming-and-technology-stocks-to-december-conviction-l-86b94f96"
+    },
+    {
+      "title": "Berkshire Hathaway stock picker Todd Combs departs to lead new strategic investment group at JPMorgan",
+      "link": "https://finance.yahoo.com/news/berkshire-hathaway-stock-picker-todd-combs-departs-to-lead-new-strategic-investment-group-at-jpmorgan-154015380.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-08T15:40:15Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/ajprMSUtUtuMoDOTOu4K.g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/ff8fcaf0-b855-11f0-b2af-42ddf88c47ad",
+      "slug": "berkshire-hathaway-stock-picker-todd-combs-departs-to-lead-new-strategic-investm-e97b6369",
+      "orig_slug": "berkshire-hathaway-stock-picker-todd-combs-departs-to-lead-new-strategic-investm-e97b6369"
+    },
+    {
+      "title": "Strategy Buys Almost $1 Billion Worth of Bitcoin. It’s Just What the Stock Needs.",
+      "link": "https://www.barrons.com/articles/strategy-stock-price-bitcoin-buy-1dce38e0?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-08T15:40:00Z",
+      "image": "",
+      "slug": "strategy-buys-almost-1-billion-worth-of-bitcoin-its-just-what-the-stock-needs-cc80ed16",
+      "orig_slug": "strategy-buys-almost-1-billion-worth-of-bitcoin-its-just-what-the-stock-needs-cc80ed16"
+    },
+    {
+      "title": "Technical Assessment: Bullish in the Intermediate-Term",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_45524_TechnicalAnalysis_1765196449000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-08T12:20:49Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "technical-assessment-bullish-in-the-intermediate-term-87122d59",
+      "orig_slug": "technical-assessment-bullish-in-the-intermediate-term-87122d59"
+    },
+    {
+      "title": "Combs’ Departure from Berkshire Leaves a Gap in Managing Equity Portfolio",
+      "link": "https://www.barrons.com/articles/combs-departure-equity-berkshire-1c0c52d7?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-08T15:39:00Z",
+      "image": "",
+      "slug": "combs-departure-from-berkshire-leaves-a-gap-in-managing-equity-portfolio-f58cf992",
+      "orig_slug": "combs-departure-from-berkshire-leaves-a-gap-in-managing-equity-portfolio-f58cf992"
+    },
+    {
+      "title": "S&P 500 Wavers, Sitting Just Below Its Record Close",
+      "link": "https://www.barrons.com/livecoverage/stock-market-news-today-120825/card/s-p-500-inches-higher-sitting-just-below-its-record-close-rgpKvcwhRfvtEdNT6wcI?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-08T15:37:40Z",
+      "image": "https://images.barrons.com/im-783602/social",
+      "slug": "sp-500-wavers-sitting-just-below-its-record-close-6667e42d",
+      "orig_slug": "sp-500-wavers-sitting-just-below-its-record-close-6667e42d"
+    },
+    {
+      "title": "Strategy Drops Nearly $1 Billion on Bitcoin, Marking Largest BTC Buy in Months",
+      "link": "https://finance.yahoo.com/news/strategy-drops-nearly-1-billion-154036345.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-08T15:40:36Z",
+      "image": "https://media.zenfs.com/en/decrypt_157/fd8a9d6a80ab0cb36bea4e78fac6a1b2",
+      "slug": "strategy-drops-nearly-1-billion-on-bitcoin-marking-largest-btc-buy-in-months-891325b0",
+      "orig_slug": "strategy-drops-nearly-1-billion-on-bitcoin-marking-largest-btc-buy-in-months-891325b0"
+    },
+    {
+      "title": "Palantir Climbs Above 21-day, 50-Day Lines. Is PLTR Stock A Buy Heading Into 2026?",
+      "link": "https://www.investors.com/news/technology/palantir-stock-buy-pltr-stock-december-2025/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-08T15:36:12Z",
+      "image": "",
+      "slug": "palantir-climbs-above-21-day-50-day-lines-is-pltr-stock-a-buy-heading-into-2026-ba4bc3d1",
+      "orig_slug": "palantir-climbs-above-21-day-50-day-lines-is-pltr-stock-a-buy-heading-into-2026-ba4bc3d1"
+    },
+    {
+      "title": "Paramount Goes Straight To Warner Bros. Shareholders, Sidesteps Netflix",
+      "link": "https://www.investors.com/news/paramount-skydance-hostile-takeover-bid-warner-bros-netflix-psky-wbd-nflx-stock/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-08T15:35:05Z",
+      "image": "",
+      "slug": "paramount-goes-straight-to-warner-bros-shareholders-sidesteps-netflix-01ff3c64",
+      "orig_slug": "paramount-goes-straight-to-warner-bros-shareholders-sidesteps-netflix-01ff3c64"
+    },
+    {
+      "title": "Market Digest: NVO, BJ, EXC, HP, HUM, NTAP, WBD",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_45522_MarketSummary_1765196248000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-08T12:17:28Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "market-digest-nvo-bj-exc-hp-hum-ntap-wbd-8fddb586",
+      "orig_slug": "market-digest-nvo-bj-exc-hp-hum-ntap-wbd-8fddb586"
+    },
+    {
+      "title": "Boeing Just Bought the Company Responsible for Door Blowout. The Stock Is Rising.",
+      "link": "https://www.barrons.com/articles/boeing-stock-price-spirit-aerosystems-buy-deal-acquisition-52cdf2b1?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-08T15:31:00Z",
+      "image": "",
+      "slug": "boeing-just-bought-the-company-responsible-for-door-blowout-the-stock-is-rising-a7b79b10",
+      "orig_slug": "boeing-just-bought-the-company-responsible-for-door-blowout-the-stock-is-rising-a7b79b10"
+    },
+    {
+      "title": "Is December a good time to buy a house?",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/is-december-a-good-time-to-buy-a-house-224612122.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2024-01-26T22:46:12Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/QcUDox8FWUHJ6Y6vKEzxEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-09/6ce1dff0-5d16-11ee-bfff-687467e94054",
+      "slug": "is-december-a-good-time-to-buy-a-house-aa625cce",
+      "orig_slug": "is-december-a-good-time-to-buy-a-house-aa625cce"
+    },
+    {
+      "title": "3 No-Brainer Energy Stocks to Buy Before the End of 2025",
+      "link": "https://finance.yahoo.com/news/3-no-brainer-energy-stocks-153500229.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-08T15:35:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/42aa5a433b6dc293c88bea61f75c4552",
+      "slug": "3-no-brainer-energy-stocks-to-buy-before-the-end-of-2025-c9a515f3",
+      "orig_slug": "3-no-brainer-energy-stocks-to-buy-before-the-end-of-2025-c9a515f3"
+    },
+    {
+      "title": "Nvidia Topples Apple As Best-Managed U.S. Company; Is Nvidia A Buy Now?",
+      "link": "https://www.investors.com/research/nvidia-nvda-stock-ai-chip/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-08T15:29:52Z",
+      "image": "",
+      "slug": "nvidia-topples-apple-as-best-managed-us-company-is-nvidia-a-buy-now-1ce3b65a",
+      "orig_slug": "nvidia-topples-apple-as-best-managed-us-company-is-nvidia-a-buy-now-1ce3b65a"
+    },
+    {
+      "title": "These Stocks Are Moving the Most Today: Warner Bros., Netflix, Tesla, Confluent, Kymera, Marvell, Carvana, and More",
+      "link": "https://www.barrons.com/articles/stock-movers-65b486b6?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-08T15:29:00Z",
+      "image": "",
+      "slug": "these-stocks-are-moving-the-most-today-warner-bros-netflix-tesla-confluent-kymer-5872b94f",
+      "orig_slug": "these-stocks-are-moving-the-most-today-warner-bros-netflix-tesla-confluent-kymer-5872b94f"
+    },
+    {
+      "title": "Analyst Report: Humana Inc.",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_3068_AnalystReport_1765196248000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-08T12:17:28Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-humana-inc-bdd36f75",
+      "orig_slug": "analyst-report-humana-inc-bdd36f75"
+    },
+    {
+      "title": "‘Baseload Power’ Will Be Big in 2026. 5 Stocks Can Win.",
+      "link": "https://www.barrons.com/articles/baseload-power-stocks-ai-381ed342?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-08T15:29:00Z",
+      "image": "",
+      "slug": "baseload-power-will-be-big-in-2026-5-stocks-can-win-046f7372",
+      "orig_slug": "baseload-power-will-be-big-in-2026-5-stocks-can-win-046f7372"
+    },
+    {
+      "title": "3M Stock Falls. The CEO Has Been Too Successful.",
+      "link": "https://www.barrons.com/articles/3m-stock-price-target-rating-cdcee99e?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-08T15:23:00Z",
+      "image": "",
+      "slug": "3m-stock-falls-the-ceo-has-been-too-successful-e19be989",
+      "orig_slug": "3m-stock-falls-the-ceo-has-been-too-successful-e19be989"
+    },
+    {
+      "title": "Stock Market Live December 8: GDP Growth Forecasts Lift S&P 500 (VOO) Monday",
+      "link": "https://finance.yahoo.com/news/stock-market-live-december-8-153142165.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-08T15:31:42Z",
+      "image": "https://media.zenfs.com/en/24_7_wall_st__718/82990bfbff7e916af687f559ca4c084f",
+      "slug": "stock-market-live-december-8-gdp-growth-forecasts-lift-sp-500-voo-monday-c5c62363",
+      "orig_slug": "stock-market-live-december-8-gdp-growth-forecasts-lift-sp-500-voo-monday-c5c62363"
+    },
+    {
+      "title": "Chinese flash memory maker YMTC sues US over military designation",
+      "link": "https://finance.yahoo.com/news/chinese-flash-memory-maker-ymtc-151749282.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-08T15:21:50Z",
+      "image": "https://media.zenfs.com/en/reuters.com/b96f86558f6d6fde4c3b74081a376ef6",
+      "slug": "chinese-flash-memory-maker-ymtc-sues-us-over-military-designation-ebc15bc0",
+      "orig_slug": "chinese-flash-memory-maker-ymtc-sues-us-over-military-designation-ebc15bc0"
+    },
+    {
+      "title": "Morgan Stanley Hands Tesla Stock A New Rating, Sees Musk Hitting This Many Pay Deal Milestones",
+      "link": "https://www.investors.com/news/tesla-stock-morgan-stanley-new-rating-elon-musk-to-hit-these-pay-deal-milestones/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-08T15:19:33Z",
+      "image": "",
+      "slug": "morgan-stanley-hands-tesla-stock-a-new-rating-sees-musk-hitting-this-many-pay-de-9ed16b7d",
+      "orig_slug": "morgan-stanley-hands-tesla-stock-a-new-rating-sees-musk-hitting-this-many-pay-de-9ed16b7d"
+    },
+    {
+      "title": "Analyst Report: Exelon Corp.",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_2957_AnalystReport_1765196248000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-08T12:17:28Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-exelon-corp-534bc02c",
+      "orig_slug": "analyst-report-exelon-corp-534bc02c"
+    },
+    {
+      "title": "Instant View: Paramount makes $108.4 billion hostile bid for Warner Bros Discovery",
+      "link": "https://finance.yahoo.com/news/instant-view-paramount-makes-108-151924560.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-08T15:19:24Z",
+      "image": "https://media.zenfs.com/en/reuters.com/79bc4bf9d7efeac8e68f0d788641ac18",
+      "slug": "instant-view-paramount-makes-1084-billion-hostile-bid-for-warner-bros-discovery-4823022f",
+      "orig_slug": "instant-view-paramount-makes-1084-billion-hostile-bid-for-warner-bros-discovery-4823022f"
+    },
+    {
+      "title": "Tesla Stock Drops on a Downgrade. Why Its Price Target Was Raised.",
+      "link": "https://www.barrons.com/articles/tesla-stock-price-downgrade-ai-90a53414?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-08T15:14:00Z",
+      "image": "",
+      "slug": "tesla-stock-drops-on-a-downgrade-why-its-price-target-was-raised-1ebe6774",
+      "orig_slug": "tesla-stock-drops-on-a-downgrade-why-its-price-target-was-raised-1ebe6774"
+    },
+    {
+      "title": "3 Dividend Stocks Retirees and Yield Lovers Should Own",
+      "link": "https://finance.yahoo.com/news/3-dividend-stocks-retirees-yield-153125380.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-08T15:31:25Z",
+      "image": "https://media.zenfs.com/en/24_7_wall_st__718/396915369aef471d10204e3303585d4f",
+      "slug": "3-dividend-stocks-retirees-and-yield-lovers-should-own-b97a0ec9",
+      "orig_slug": "3-dividend-stocks-retirees-and-yield-lovers-should-own-b97a0ec9"
+    },
+    {
+      "title": "Stock Market Today: Dow Falls But IBM Gains Amid $11 Billion Deal; Tesla Slides On Downgrade (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-meeting-carvana-cvna-stock/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-08T15:11:19Z",
+      "image": "",
+      "slug": "stock-market-today-dow-falls-but-ibm-gains-amid-11-billion-deal-tesla-slides-on--b333cbd8",
+      "orig_slug": "stock-market-today-dow-falls-but-ibm-gains-amid-11-billion-deal-tesla-slides-on--b333cbd8"
+    },
+    {
+      "title": "Nvidia Stock Has a Lot Riding on Broadcom Earnings",
+      "link": "https://www.barrons.com/articles/nvidia-stock-price-broadcom-earnings-chips-5c721646?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-08T15:11:00Z",
+      "image": "",
+      "slug": "nvidia-stock-has-a-lot-riding-on-broadcom-earnings-65782db5",
+      "orig_slug": "nvidia-stock-has-a-lot-riding-on-broadcom-earnings-65782db5"
+    },
+    {
+      "title": "Analyst Report: BJ`s Wholesale Club Hldgs In",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_2775_AnalystReport_1765196248000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-08T12:17:28Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-bjs-wholesale-club-hldgs-in-8fcbfa2c",
+      "orig_slug": "analyst-report-bjs-wholesale-club-hldgs-in-8fcbfa2c"
+    },
+    {
+      "title": "GM Stock Upgraded to Buy, Rivian, Lucid Cut to Sell and Other Changes at Morgan Stanley",
+      "link": "https://www.barrons.com/articles/gm-stock-price-upgrade-lucid-cut-morgan-stanley-8727d1f1?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-08T15:11:00Z",
+      "image": "",
+      "slug": "gm-stock-upgraded-to-buy-rivian-lucid-cut-to-sell-and-other-changes-at-morgan-st-04934d89",
+      "orig_slug": "gm-stock-upgraded-to-buy-rivian-lucid-cut-to-sell-and-other-changes-at-morgan-st-04934d89"
     },
     {
       "title": "7 money market accounts with interest rates of 4% APY and higher (updated weekly)",
@@ -18,6 +396,15 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/rNFdyS6x8DMstws23fCB6Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-10/48797cb0-9d5f-11ef-bffc-9ee2307a33fb",
       "slug": "7-money-market-accounts-with-interest-rates-of-4-apy-and-higher-updated-weekly-41dfe476",
       "orig_slug": "7-money-market-accounts-with-interest-rates-of-4-apy-and-higher-updated-weekly-41dfe476"
+    },
+    {
+      "title": "Reddit Traders Push AST SpaceMobile Higher Despite Analyst Sell Ratings and Extreme Multiples",
+      "link": "https://finance.yahoo.com/news/reddit-traders-push-ast-spacemobile-153045333.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-08T15:30:45Z",
+      "image": "https://media.zenfs.com/en/24_7_wall_st__718/69e3b48502edc0a0ab25f46c07bc3ac9",
+      "slug": "reddit-traders-push-ast-spacemobile-higher-despite-analyst-sell-ratings-and-extr-8c9f53a5",
+      "orig_slug": "reddit-traders-push-ast-spacemobile-higher-despite-analyst-sell-ratings-and-extr-8c9f53a5"
     },
     {
       "title": "McDonald’s Is Watching Prices Closely, It Tells Franchisees",
@@ -38,31 +425,13 @@
       "orig_slug": "stocks-to-watch-monday-ibm-broadcom-tsmc-pinterest-15ced7d1"
     },
     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq steady with Wall Street awaiting expected Fed rate cut",
-      "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-steady-with-wall-street-awaiting-expected-fed-rate-cut-001431798.html",
+      "title": "Daily – Vickers Top Insider Picks for 12/08/2025",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_45520_InsiderActivity_1765194532000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T00:14:31Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/v59oltU0CAB46kYj.m1ncw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/dcb3c350-d3c2-11f0-aed1-bbd6d8f2e3a9",
-      "slug": "stock-market-today-dow-sp-500-nasdaq-steady-with-wall-street-awaiting-expected-f-d39f950f",
-      "orig_slug": "stock-market-today-dow-sp-500-nasdaq-steady-with-wall-street-awaiting-expected-f-d39f950f"
-    },
-    {
-      "title": "Weekly Stock List",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_45529_StockPicks_1765197447000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T12:37:27Z",
+      "pubDate": "2025-12-08T11:48:52Z",
       "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "weekly-stock-list-0b226744",
-      "orig_slug": "weekly-stock-list-0b226744"
-    },
-    {
-      "title": "With $850,000 saved and a $500,000 income, we want to retire in the near future – should we shift to dividend stocks?",
-      "link": "https://finance.yahoo.com/news/850-000-saved-500-000-145932293.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T14:59:32Z",
-      "image": "https://media.zenfs.com/en/24_7_wall_st__718/771153c97072aac7033a81a5303b04b6",
-      "slug": "with-850000-saved-and-a-500000-income-we-want-to-retire-in-the-near-future-shoul-990a5c7b",
-      "orig_slug": "with-850000-saved-and-a-500000-income-we-want-to-retire-in-the-near-future-shoul-990a5c7b"
+      "slug": "daily-vickers-top-insider-picks-for-12082025-2b200fd1",
+      "orig_slug": "daily-vickers-top-insider-picks-for-12082025-2b200fd1"
     },
     {
       "title": "Best CD rates today, December 8, 2025 (Lock in up to 4.1% APY)",
@@ -74,364 +443,13 @@
       "orig_slug": "best-cd-rates-today-december-8-2025-lock-in-up-to-41-apy-cb6dfd67"
     },
     {
-      "title": "Berkshire’s Geico Boss Todd Combs Leaves for JPMorgan Ahead of Buffett Retirement",
-      "link": "https://www.wsj.com/business/c-suite/berkshire-hathaway-shuffles-top-ranks-in-runup-to-warren-buffetts-retirement-6ab1eaeb?siteid=yhoof2&yptr=yahoo",
+      "title": "Confluent Stock Soars on  IBM Acquisition. Why IBM Is Making the Deal.",
+      "link": "https://www.barrons.com/articles/confluent-stock-price-ibm-deal-acquisition-7804fb16?siteid=yhoof2&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T14:51:00Z",
+      "pubDate": "2025-12-08T14:55:00Z",
       "image": "",
-      "slug": "berkshires-geico-boss-todd-combs-leaves-for-jpmorgan-ahead-of-buffett-retirement-fdbae7e7",
-      "orig_slug": "berkshires-geico-boss-todd-combs-leaves-for-jpmorgan-ahead-of-buffett-retirement-fdbae7e7"
-    },
-    {
-      "title": "Fed’s Tone, Dot Plot Are Key For Dollar Direction",
-      "link": "https://www.wsj.com/finance/commodities-futures/singapore-dollar-consolidates-eyes-on-feds-rate-decision-06d57de5?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T14:50:00Z",
-      "image": "",
-      "slug": "feds-tone-dot-plot-are-key-for-dollar-direction-17b48d90",
-      "orig_slug": "feds-tone-dot-plot-are-key-for-dollar-direction-17b48d90"
-    },
-    {
-      "title": "Musk Walks Back SpaceX Funding Reports. Is 2026 IPO In Play?",
-      "link": "https://www.investors.com/news/elon-musk-spacex-800-billion-valuation-2026-public-offering-ipo/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T14:46:50Z",
-      "image": "",
-      "slug": "musk-walks-back-spacex-funding-reports-is-2026-ipo-in-play-fbc81969",
-      "orig_slug": "musk-walks-back-spacex-funding-reports-is-2026-ipo-in-play-fbc81969"
-    },
-    {
-      "title": "Daily Spotlight: Cracks in the AI Foundation?",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_45525_MarketOutlook_1765196488000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T12:21:28Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-spotlight-cracks-in-the-ai-foundation-9df6bcfb",
-      "orig_slug": "daily-spotlight-cracks-in-the-ai-foundation-9df6bcfb"
-    },
-    {
-      "title": "The Only 3 Dividend ETFs Investors Need to Own in 2026 for Long-Term Passive Income",
-      "link": "https://finance.yahoo.com/news/only-3-dividend-etfs-investors-145632581.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T14:56:32Z",
-      "image": "https://media.zenfs.com/en/24_7_wall_st__718/0bcec531d04223ca254fb25ceb66944f",
-      "slug": "the-only-3-dividend-etfs-investors-need-to-own-in-2026-for-long-term-passive-inc-c86f0717",
-      "orig_slug": "the-only-3-dividend-etfs-investors-need-to-own-in-2026-for-long-term-passive-inc-c86f0717"
-    },
-    {
-      "title": "Paramount makes $108 billion all-cash offer for Warner Bros. Discovery, escalating buyout fight with Netflix",
-      "link": "https://finance.yahoo.com/news/paramount-makes-108-billion-all-cash-offer-for-warner-bros-discovery-escalating-buyout-fight-with-netflix-144453654.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T14:44:53Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/8P5Tbtj1TmDKmNjh8Vc9yQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/273beec0-d440-11f0-bfbf-083c7b8fc7fb",
-      "slug": "paramount-makes-108-billion-all-cash-offer-for-warner-bros-discovery-escalating--b0583095",
-      "orig_slug": "paramount-makes-108-billion-all-cash-offer-for-warner-bros-discovery-escalating--b0583095"
-    },
-    {
-      "title": "Stock Market Today: Dow Falls As Fed Meeting Looms; Tesla Slides On Downgrade (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-meeting-carvana-cvna-stock/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T14:44:14Z",
-      "image": "",
-      "slug": "stock-market-today-dow-falls-as-fed-meeting-looms-tesla-slides-on-downgrade-live-b333cbd8",
-      "orig_slug": "stock-market-today-dow-falls-as-fed-meeting-looms-tesla-slides-on-downgrade-live-b333cbd8"
-    },
-    {
-      "title": "Warner Bros. Discovery Stock Jumps After Paramount Makes Bid",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-08-2025/card/warner-bros-discovery-stock-jumps-after-paramount-makes-bid-UvFFU1dO5Nz0ItNBQUsJ?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T14:44:00Z",
-      "image": "",
-      "slug": "warner-bros-discovery-stock-jumps-after-paramount-makes-bid-62285aca",
-      "orig_slug": "warner-bros-discovery-stock-jumps-after-paramount-makes-bid-62285aca"
-    },
-    {
-      "title": "Cooper Investors Global Equities Fund’s Investment Thesis for CME Group (CME)",
-      "link": "https://finance.yahoo.com/news/cooper-investors-global-equities-fund-144340680.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T14:43:40Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/ecec255b3a3a5f33b9921180c4b710fb",
-      "slug": "cooper-investors-global-equities-funds-investment-thesis-for-cme-group-cme-668cb6db",
-      "orig_slug": "cooper-investors-global-equities-funds-investment-thesis-for-cme-group-cme-668cb6db"
-    },
-    {
-      "title": "Technical Assessment: Bullish in the Intermediate-Term",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_45524_TechnicalAnalysis_1765196449000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T12:20:49Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "technical-assessment-bullish-in-the-intermediate-term-87122d59",
-      "orig_slug": "technical-assessment-bullish-in-the-intermediate-term-87122d59"
-    },
-    {
-      "title": "IBM to acquire Confluent for $11B as it seeks to bolster its data offerings",
-      "link": "https://finance.yahoo.com/news/ibm-acquire-confluent-11b-seeks-145610702.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T14:56:10Z",
-      "image": "https://media.zenfs.com/en/techcrunch_finance_785/6f8dc7293ffd02dba5c1f7621c5e0091",
-      "slug": "ibm-to-acquire-confluent-for-11b-as-it-seeks-to-bolster-its-data-offerings-47d7c9da",
-      "orig_slug": "ibm-to-acquire-confluent-for-11b-as-it-seeks-to-bolster-its-data-offerings-47d7c9da"
-    },
-    {
-      "title": "Cooper Investors Global Equities Fund Sold Its Stake in GE Healthcare (GEHC). Here’s Why",
-      "link": "https://finance.yahoo.com/news/cooper-investors-global-equities-fund-143942138.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T14:39:42Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/ff0fa3e373482bfc1cd621373a885b6b",
-      "slug": "cooper-investors-global-equities-fund-sold-its-stake-in-ge-healthcare-gehc-heres-9351a2b8",
-      "orig_slug": "cooper-investors-global-equities-fund-sold-its-stake-in-ge-healthcare-gehc-heres-9351a2b8"
-    },
-    {
-      "title": "Paramount makes $108.4 billion hostile bid for Warner Bros Discovery",
-      "link": "https://finance.yahoo.com/news/paramount-makes-108-4-billion-143823728.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T14:38:23Z",
-      "image": "https://media.zenfs.com/en/reuters.com/fd21ccd7a4c5c4fc8ad69dfa155554b7",
-      "slug": "paramount-makes-1084-billion-hostile-bid-for-warner-bros-discovery-ca90d3fc",
-      "orig_slug": "paramount-makes-1084-billion-hostile-bid-for-warner-bros-discovery-ca90d3fc"
-    },
-    {
-      "title": "TKO Holdings (TKO): Top Positive Contributor to Cooper Investors Global Equities Fund’s 12-Month Returns",
-      "link": "https://finance.yahoo.com/news/tko-holdings-tko-top-positive-143615732.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T14:36:15Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/e36c631b25449cbed44557d6483b983e",
-      "slug": "tko-holdings-tko-top-positive-contributor-to-cooper-investors-global-equities-fu-aadc40a2",
-      "orig_slug": "tko-holdings-tko-top-positive-contributor-to-cooper-investors-global-equities-fu-aadc40a2"
-    },
-    {
-      "title": "Paramount Makes Hostile Takeover Bid for Warner After Netflix Struck Deal",
-      "link": "https://www.wsj.com/business/media/paramount-makes-hostile-takeover-bid-for-warner-after-netflix-struck-deal-f03c6f3f?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T14:34:00Z",
-      "image": "",
-      "slug": "paramount-makes-hostile-takeover-bid-for-warner-after-netflix-struck-deal-df5b806c",
-      "orig_slug": "paramount-makes-hostile-takeover-bid-for-warner-after-netflix-struck-deal-df5b806c"
-    },
-    {
-      "title": "Market Digest: NVO, BJ, EXC, HP, HUM, NTAP, WBD",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_45522_MarketSummary_1765196248000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T12:17:28Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "market-digest-nvo-bj-exc-hp-hum-ntap-wbd-8fddb586",
-      "orig_slug": "market-digest-nvo-bj-exc-hp-hum-ntap-wbd-8fddb586"
-    },
-    {
-      "title": "Strategy acquires 10,624 bitcoin for $963 million through stock issuance",
-      "link": "https://finance.yahoo.com/news/strategy-acquires-10-624-bitcoin-145556911.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T14:55:56Z",
-      "image": "https://media.zenfs.com/en/blockspace_702/4e5b6a88708e87a82e0c76ac4395f659",
-      "slug": "strategy-acquires-10624-bitcoin-for-963-million-through-stock-issuance-2abdaedf",
-      "orig_slug": "strategy-acquires-10624-bitcoin-for-963-million-through-stock-issuance-2abdaedf"
-    },
-    {
-      "title": "Morgan Stanley Hands Tesla Stock A New Rating, Sees Musk Hitting This Many Pay Deal Milestones",
-      "link": "https://www.investors.com/news/tesla-stock-morgan-stanley-new-rating-elon-musk-to-hit-these-pay-deal-milestones/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T14:32:17Z",
-      "image": "",
-      "slug": "morgan-stanley-hands-tesla-stock-a-new-rating-sees-musk-hitting-this-many-pay-de-9ed16b7d",
-      "orig_slug": "morgan-stanley-hands-tesla-stock-a-new-rating-sees-musk-hitting-this-many-pay-de-9ed16b7d"
-    },
-    {
-      "title": "Marvell Stock Down As Microsoft Mulls Switch To Broadcom For Custom Chips",
-      "link": "https://www.investors.com/news/technology/marvell-stock-microsoft-mulls-switch-to-broadcom/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T14:23:09Z",
-      "image": "",
-      "slug": "marvell-stock-down-as-microsoft-mulls-switch-to-broadcom-for-custom-chips-6f0ae236",
-      "orig_slug": "marvell-stock-down-as-microsoft-mulls-switch-to-broadcom-for-custom-chips-6f0ae236"
-    },
-    {
-      "title": "Muted Quarterly Results Impacted Grindr (GRND) in Q3",
-      "link": "https://finance.yahoo.com/news/muted-quarterly-results-impacted-grindr-142231924.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T14:22:31Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/13076b45f2626aa7ebe20194bd4489fb",
-      "slug": "muted-quarterly-results-impacted-grindr-grnd-in-q3-ecfe8203",
-      "orig_slug": "muted-quarterly-results-impacted-grindr-grnd-in-q3-ecfe8203"
-    },
-    {
-      "title": "Analyst Report: Humana Inc.",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_3068_AnalystReport_1765196248000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T12:17:28Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "analyst-report-humana-inc-bdd36f75",
-      "orig_slug": "analyst-report-humana-inc-bdd36f75"
-    },
-    {
-      "title": "Why Bitfarms Plunged 16% This Past Week",
-      "link": "https://finance.yahoo.com/news/why-bitfarms-plunged-16-past-145556673.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T14:55:56Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/a74bc01a36e475cb26231d1b22000b69",
-      "slug": "why-bitfarms-plunged-16-this-past-week-d014aa33",
-      "orig_slug": "why-bitfarms-plunged-16-this-past-week-d014aa33"
-    },
-    {
-      "title": "Paramount goes hostile in bid for Warner Bros., challenging a $72 billion bid by Netflix",
-      "link": "https://finance.yahoo.com/news/paramount-goes-hostile-bid-warner-141953036.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T14:19:53Z",
-      "image": "https://media.zenfs.com/en/ap_finance_articles_694/2114914959b1855ddbf45303a9e68642",
-      "slug": "paramount-goes-hostile-in-bid-for-warner-bros-challenging-a-72-billion-bid-by-ne-837ecb7a",
-      "orig_slug": "paramount-goes-hostile-in-bid-for-warner-bros-challenging-a-72-billion-bid-by-ne-837ecb7a"
-    },
-    {
-      "title": "AI Stocks Face 'Show Me' Moment: Oracle, Broadcom Earnings Due",
-      "link": "https://www.investors.com/news/technology/artificial-intelligence-stocks/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T14:15:53Z",
-      "image": "",
-      "slug": "ai-stocks-face-show-me-moment-oracle-broadcom-earnings-due-f4574eed",
-      "orig_slug": "ai-stocks-face-show-me-moment-oracle-broadcom-earnings-due-f4574eed"
-    },
-    {
-      "title": "Not Owing Bloom Energy Corp. (BE) Impacted Voya MI Dynamic Small Cap Fund’s Performance in Q3",
-      "link": "https://finance.yahoo.com/news/not-owing-bloom-energy-corp-141505438.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T14:15:05Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/46ff7bcafd9cea6ab46d324510d533b6",
-      "slug": "not-owing-bloom-energy-corp-be-impacted-voya-mi-dynamic-small-cap-funds-performa-615081d6",
-      "orig_slug": "not-owing-bloom-energy-corp-be-impacted-voya-mi-dynamic-small-cap-funds-performa-615081d6"
-    },
-    {
-      "title": "Analyst Report: Exelon Corp.",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_2957_AnalystReport_1765196248000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T12:17:28Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "analyst-report-exelon-corp-534bc02c",
-      "orig_slug": "analyst-report-exelon-corp-534bc02c"
-    },
-    {
-      "title": "Hamelin Gold begins on-ground exploration at Venus gold project in WA",
-      "link": "https://finance.yahoo.com/news/hamelin-gold-begins-ground-exploration-145440889.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T14:54:40Z",
-      "image": "https://media.zenfs.com/en/mining_technology_700/6144faba607997d7b5bc56f2593c156e",
-      "slug": "hamelin-gold-begins-on-ground-exploration-at-venus-gold-project-in-wa-1a88fbce",
-      "orig_slug": "hamelin-gold-begins-on-ground-exploration-at-venus-gold-project-in-wa-1a88fbce"
-    },
-    {
-      "title": "Strategy Buys Almost $1 Billion Worth of Bitcoin. Why It Could Be a Good Sign for the Stock.",
-      "link": "https://www.barrons.com/articles/strategy-stock-bitcoin-1dce38e0?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T14:09:00Z",
-      "image": "",
-      "slug": "strategy-buys-almost-1-billion-worth-of-bitcoin-why-it-could-be-a-good-sign-for--fcaec3fa",
-      "orig_slug": "strategy-buys-almost-1-billion-worth-of-bitcoin-why-it-could-be-a-good-sign-for--fcaec3fa"
-    },
-    {
-      "title": "Tesla Stock Drops on a Downgrade. Why Its Price Target Was Raised.",
-      "link": "https://www.barrons.com/articles/tesla-stock-price-downgrade-ai-90a53414?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T14:08:00Z",
-      "image": "",
-      "slug": "tesla-stock-drops-on-a-downgrade-why-its-price-target-was-raised-1ebe6774",
-      "orig_slug": "tesla-stock-drops-on-a-downgrade-why-its-price-target-was-raised-1ebe6774"
-    },
-    {
-      "title": "IBM buys data streaming platform Confluent in $11 billion deal",
-      "link": "https://finance.yahoo.com/news/ibm-buys-data-streaming-platform-140732617.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T14:07:32Z",
-      "image": "https://media.zenfs.com/en/ap_finance_articles_694/1b5ede9b0727870f45e8565c1738cac1",
-      "slug": "ibm-buys-data-streaming-platform-confluent-in-11-billion-deal-0456a7f2",
-      "orig_slug": "ibm-buys-data-streaming-platform-confluent-in-11-billion-deal-0456a7f2"
-    },
-    {
-      "title": "Nvidia Takes Top Spot in the List of Best-Managed Companies of 2025",
-      "link": "https://www.wsj.com/business/c-suite/nvidia-wins-best-managed-companies-ranking-2025-2297969d?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T14:03:00Z",
-      "image": "",
-      "slug": "nvidia-takes-top-spot-in-the-list-of-best-managed-companies-of-2025-4ad25b5b",
-      "orig_slug": "nvidia-takes-top-spot-in-the-list-of-best-managed-companies-of-2025-4ad25b5b"
-    },
-    {
-      "title": "Analyst Report: BJ`s Wholesale Club Hldgs In",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_2775_AnalystReport_1765196248000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T12:17:28Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "analyst-report-bjs-wholesale-club-hldgs-in-8fcbfa2c",
-      "orig_slug": "analyst-report-bjs-wholesale-club-hldgs-in-8fcbfa2c"
-    },
-    {
-      "title": "Foodcare agrees to acquire UPAC",
-      "link": "https://finance.yahoo.com/news/foodcare-agrees-acquire-upac-145126744.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T14:51:26Z",
-      "image": "https://media.zenfs.com/en/packaging_gateway_559/b8bbaf8c1eaf0c9a6d37bcdc477107b9",
-      "slug": "foodcare-agrees-to-acquire-upac-0515ca89",
-      "orig_slug": "foodcare-agrees-to-acquire-upac-0515ca89"
-    },
-    {
-      "title": "Gold Inches Lower, With Eyes on Fed Meeting",
-      "link": "https://www.wsj.com/finance/commodities-futures/gold-gains-on-fed-rate-cut-expectations-8b34f40d?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T14:00:00Z",
-      "image": "",
-      "slug": "gold-inches-lower-with-eyes-on-fed-meeting-0ae246db",
-      "orig_slug": "gold-inches-lower-with-eyes-on-fed-meeting-0ae246db"
-    },
-    {
-      "title": "Trump bill makes 100% tax write-off a forever thing that could save some US taxpayers six figures. Are you one of them?",
-      "link": "https://finance.yahoo.com/news/trump-bill-makes-100-tax-140000592.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T14:00:00Z",
-      "image": "https://media.zenfs.com/en/moneywise_327/6ad5a1a4d5364a08b174a857a9246dd4",
-      "slug": "trump-bill-makes-100-tax-write-off-a-forever-thing-that-could-save-some-us-taxpa-d1a59656",
-      "orig_slug": "trump-bill-makes-100-tax-write-off-a-forever-thing-that-could-save-some-us-taxpa-d1a59656"
-    },
-    {
-      "title": "NextEra and Google Cloud Partner to Power AI Boom with Gigawatt Data Centers",
-      "link": "https://finance.yahoo.com/news/nextera-google-cloud-partner-power-140000806.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T14:00:00Z",
-      "image": "https://media.zenfs.com/en/oilprice.com/fba19e1996eee0ed528676f9ea64e20c",
-      "slug": "nextera-and-google-cloud-partner-to-power-ai-boom-with-gigawatt-data-centers-aa11efd0",
-      "orig_slug": "nextera-and-google-cloud-partner-to-power-ai-boom-with-gigawatt-data-centers-aa11efd0"
-    },
-    {
-      "title": "Bitcoin Rebounds Slightly Ahead of the Fed. How It Could Reach $120K—or Fall to $82K.",
-      "link": "https://www.barrons.com/articles/bitcoin-price-crypto-xrp-ethereum-2085d4a2?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T13:59:00Z",
-      "image": "",
-      "slug": "bitcoin-rebounds-slightly-ahead-of-the-fed-how-it-could-reach-120kor-fall-to-82k-b48475c6",
-      "orig_slug": "bitcoin-rebounds-slightly-ahead-of-the-fed-how-it-could-reach-120kor-fall-to-82k-b48475c6"
-    },
-    {
-      "title": "Daily – Vickers Top Insider Picks for 12/08/2025",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_45520_InsiderActivity_1765194532000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T11:48:52Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-vickers-top-insider-picks-for-12082025-2b200fd1",
-      "orig_slug": "daily-vickers-top-insider-picks-for-12082025-2b200fd1"
-    },
-    {
-      "title": "The 5 Percent Income Strategy More Retirees Are Switching To in 2026",
-      "link": "https://finance.yahoo.com/news/5-percent-income-strategy-more-145122713.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T14:51:22Z",
-      "image": "https://media.zenfs.com/en/24_7_wall_st__718/68951cce8264564e0415bc49d0235ab6",
-      "slug": "the-5-percent-income-strategy-more-retirees-are-switching-to-in-2026-a7ef9a53",
-      "orig_slug": "the-5-percent-income-strategy-more-retirees-are-switching-to-in-2026-a7ef9a53"
-    },
-    {
-      "title": "Marvell Stock Biggest Loser From Amazon’s New Chip. This Downgrade Proves It.",
-      "link": "https://www.barrons.com/articles/marvell-stock-downgrade-amazon-trainium-ab67462b?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-08T13:59:00Z",
-      "image": "",
-      "slug": "marvell-stock-biggest-loser-from-amazons-new-chip-this-downgrade-proves-it-a7dfcc64",
-      "orig_slug": "marvell-stock-biggest-loser-from-amazons-new-chip-this-downgrade-proves-it-a7dfcc64"
+      "slug": "confluent-stock-soars-on-ibm-acquisition-why-ibm-is-making-the-deal-38fa7cbd",
+      "orig_slug": "confluent-stock-soars-on-ibm-acquisition-why-ibm-is-making-the-deal-38fa7cbd"
     }
   ]
 }
