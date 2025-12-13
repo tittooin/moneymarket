@@ -1,401 +1,158 @@
 {
-  "updated": "2025-12-13T02:29:18Z",
+  "updated": "2025-12-13T03:44:16Z",
   "items": [
     {
-      "title": "There’s a Shiny New Gold Mining ETF on Wall Street, and a Big, Growing Problem for Retail Investors",
-      "link": "https://finance.yahoo.com/news/shiny-gold-mining-etf-wall-202627571.html",
+      "title": "Most Stocks Recover from Oracle Sell-Off",
+      "link": "https://finance.yahoo.com/news/most-stocks-recover-oracle-sell-213527252.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-11T20:26:27Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/1f0f9b85e0b4f302a0b95940fd48125f",
-      "slug": "theres-a-shiny-new-gold-mining-etf-on-wall-street-and-a-big-growing-problem-for--85e0336e",
-      "orig_slug": "theres-a-shiny-new-gold-mining-etf-on-wall-street-and-a-big-growing-problem-for--85e0336e"
+      "pubDate": "2025-12-11T21:35:27Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/2e30b0c28d8aafbb12655059a197a218",
+      "slug": "most-stocks-recover-from-oracle-sell-off-a2863412",
+      "orig_slug": "most-stocks-recover-from-oracle-sell-off-a2863412"
     },
     {
-      "title": "Bank Stocks Are Finally Equaling Their High",
-      "link": "https://www.barrons.com/livecoverage/stock-market-news-today-121125/card/bank-stocks-are-finally-equaling-their-high-CFaCRas26ZPpMyRCSsxY?siteid=yhoof2&yptr=yahoo",
+      "title": "U.S. Financial-Risk Watchdog, FSOC, Erased Digital Assets as a Potential Hazard",
+      "link": "https://finance.yahoo.com/news/u-financial-risk-watchdog-fsoc-213114158.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-11T20:33:22Z",
+      "pubDate": "2025-12-11T21:31:14Z",
+      "image": "https://media.zenfs.com/en/coindesk_75/9dc0ae06946c375b06eb40902162e9e2",
+      "slug": "us-financial-risk-watchdog-fsoc-erased-digital-assets-as-a-potential-hazard-d98b3fa2",
+      "orig_slug": "us-financial-risk-watchdog-fsoc-erased-digital-assets-as-a-potential-hazard-d98b3fa2"
+    },
+    {
+      "title": "These Stocks Moved the Most Today: Oracle, Nvidia, Broadcom, Planet Labs, Visa, Ciena, Gemini Space Station, and More",
+      "link": "https://www.barrons.com/articles/stock-movers-b842b5d9?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-11T21:37:00Z",
+      "image": "",
+      "slug": "these-stocks-moved-the-most-today-oracle-nvidia-broadcom-planet-labs-visa-ciena--6f06cf4b",
+      "orig_slug": "these-stocks-moved-the-most-today-oracle-nvidia-broadcom-planet-labs-visa-ciena--6f06cf4b"
+    },
+    {
+      "title": "Federal Reserve Reappoints All Regional Bank Presidents to New 5-Year Terms",
+      "link": "https://www.barrons.com/articles/federal-reserve-regional-bank-presidents-new-terms-d9766769?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-11T21:29:00Z",
+      "image": "",
+      "slug": "federal-reserve-reappoints-all-regional-bank-presidents-to-new-5-year-terms-6af3256c",
+      "orig_slug": "federal-reserve-reappoints-all-regional-bank-presidents-to-new-5-year-terms-6af3256c"
+    },
+    {
+      "title": "Fed Board Votes Unanimously to Reappoint Reserve Bank Presidents",
+      "link": "https://www.wsj.com/economy/central-banking/fed-board-votes-unanimously-to-reappoint-reserve-bank-presidents-56fb08a3?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-11T21:39:00Z",
+      "image": "",
+      "slug": "fed-board-votes-unanimously-to-reappoint-reserve-bank-presidents-9bb8c57d",
+      "orig_slug": "fed-board-votes-unanimously-to-reappoint-reserve-bank-presidents-9bb8c57d"
+    },
+    {
+      "title": "A Tough Day for Tech Was a Good Day for Banks",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-11-2025/card/a-tough-day-for-tech-was-a-good-day-for-banks-wHUP1KAtfdj6u2suUlT5?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-11T21:33:49Z",
+      "image": "",
+      "slug": "a-tough-day-for-tech-was-a-good-day-for-banks-c416f6cd",
+      "orig_slug": "a-tough-day-for-tech-was-a-good-day-for-banks-c416f6cd"
+    },
+    {
+      "title": "Oracle Slides by Most Since January on Mounting AI Spending",
+      "link": "https://finance.yahoo.com/news/oracle-drops-disappointing-cloud-sales-011724718.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-11T21:36:44Z",
+      "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/aae14b73aa8630c3470d5ea85cc392ad",
+      "slug": "oracle-slides-by-most-since-january-on-mounting-ai-spending-ec2118e2",
+      "orig_slug": "oracle-slides-by-most-since-january-on-mounting-ai-spending-ec2118e2"
+    },
+    {
+      "title": "USA Rare Earth Just Revved up Its Commercial Timeline. Should You Buy USAR Stock Here?",
+      "link": "https://finance.yahoo.com/news/usa-rare-earth-just-revved-213817908.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-11T21:38:17Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/7570c52b5760ecf3fc72ef025e92e8f1",
+      "slug": "usa-rare-earth-just-revved-up-its-commercial-timeline-should-you-buy-usar-stock--0ef4079e",
+      "orig_slug": "usa-rare-earth-just-revved-up-its-commercial-timeline-should-you-buy-usar-stock--0ef4079e"
+    },
+    {
+      "title": "Netflix Price Target Cut Again. Why the Stock Is Rising.",
+      "link": "https://www.barrons.com/articles/netflix-stock-price-target-cut-analyst-efda7868?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-11T21:27:00Z",
+      "image": "",
+      "slug": "netflix-price-target-cut-again-why-the-stock-is-rising-9f184897",
+      "orig_slug": "netflix-price-target-cut-again-why-the-stock-is-rising-9f184897"
+    },
+    {
+      "title": "Dow, S&P 500 Hit Records as Financial Stocks Soar",
+      "link": "https://www.barrons.com/livecoverage/stock-market-news-today-121125/card/dow-s-p-500-hit-records-as-financial-stocks-soar-4vFk6FPvniPtYfIIXEW2?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-11T21:26:03Z",
       "image": "https://images.barrons.com/im-783602/social",
-      "slug": "bank-stocks-are-finally-equaling-their-high-7a475996",
-      "orig_slug": "bank-stocks-are-finally-equaling-their-high-7a475996"
+      "slug": "dow-sp-500-hit-records-as-financial-stocks-soar-7984c2e3",
+      "orig_slug": "dow-sp-500-hit-records-as-financial-stocks-soar-7984c2e3"
     },
     {
-      "title": "Retail Crowd Is Loading Up on Netflix After $40 Billion Selloff",
-      "link": "https://finance.yahoo.com/news/retail-crowd-loading-netflix-40-202336905.html",
+      "title": "Real-Estate Stocks Have Bounced. Lower Mortgage Rates Help.",
+      "link": "https://www.barrons.com/articles/real-estate-stocks-fed-interest-rates-mortgage-builders-c3654f4c?siteid=yhoof2&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-11T20:23:36Z",
-      "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/7133fd45dc755ce2a4270b886f476ee3",
-      "slug": "retail-crowd-is-loading-up-on-netflix-after-40-billion-selloff-ac98edee",
-      "orig_slug": "retail-crowd-is-loading-up-on-netflix-after-40-billion-selloff-ac98edee"
-    },
-    {
-      "title": "Intel Is Reportedly Buying SambaNova Systems. What Does That Mean for INTC Stock?",
-      "link": "https://finance.yahoo.com/news/intel-reportedly-buying-sambanova-systems-203457976.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-11T20:34:57Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/4bc6cedfb85e4ad436b4816e4ecab9b9",
-      "slug": "intel-is-reportedly-buying-sambanova-systems-what-does-that-mean-for-intc-stock-fd6c3deb",
-      "orig_slug": "intel-is-reportedly-buying-sambanova-systems-what-does-that-mean-for-intc-stock-fd6c3deb"
-    },
-    {
-      "title": "Dollar Extends Post-FOMC Losses",
-      "link": "https://finance.yahoo.com/news/dollar-extends-post-fomc-losses-203212485.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-11T20:32:12Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/23377ff3d8976e5204c5ede618c2a9da",
-      "slug": "dollar-extends-post-fomc-losses-ff7ad476",
-      "orig_slug": "dollar-extends-post-fomc-losses-ff7ad476"
-    },
-    {
-      "title": "Crude Futures Settle Lower on Surplus Concerns",
-      "link": "https://www.barrons.com/livecoverage/stock-market-news-today-121125/card/crude-futures-settle-lower-on-surplus-concerns-KV2B6nqEyU9IxPZGXoMP?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-11T20:34:37Z",
-      "image": "https://images.barrons.com/im-783602/social",
-      "slug": "crude-futures-settle-lower-on-surplus-concerns-cb5a4541",
-      "orig_slug": "crude-futures-settle-lower-on-surplus-concerns-cb5a4541"
-    },
-    {
-      "title": "Unity Software Stock Is Up 121% This Year. How the Pandemic Darling Can Climb Even Higher.",
-      "link": "https://www.barrons.com/articles/unity-software-stock-price-rating-e4f31ab7?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-11T20:35:00Z",
+      "pubDate": "2025-12-11T21:45:00Z",
       "image": "",
-      "slug": "unity-software-stock-is-up-121-this-year-how-the-pandemic-darling-can-climb-even-cf7e0bde",
-      "orig_slug": "unity-software-stock-is-up-121-this-year-how-the-pandemic-darling-can-climb-even-cf7e0bde"
+      "slug": "real-estate-stocks-have-bounced-lower-mortgage-rates-help-73f78da3",
+      "orig_slug": "real-estate-stocks-have-bounced-lower-mortgage-rates-help-73f78da3"
     },
     {
-      "title": "3 Top ETFs I'm Planning to Buy Hand Over Fist in 2026, Despite All the Cheap Stocks on My Radar",
-      "link": "https://finance.yahoo.com/news/3-top-etfs-im-planning-203400979.html",
+      "title": "Dave and Buster's (PLAY) Earnings Transcript",
+      "link": "https://finance.yahoo.com/news/dave-busters-play-earnings-transcript-213609878.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-11T20:34:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/b6ec86fbc17e4e5cf5ffe9af11c5a369",
-      "slug": "3-top-etfs-im-planning-to-buy-hand-over-fist-in-2026-despite-all-the-cheap-stock-dd2be718",
-      "orig_slug": "3-top-etfs-im-planning-to-buy-hand-over-fist-in-2026-despite-all-the-cheap-stock-dd2be718"
+      "pubDate": "2025-12-11T21:36:09Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
+      "slug": "dave-and-busters-play-earnings-transcript-86f35ecb",
+      "orig_slug": "dave-and-busters-play-earnings-transcript-86f35ecb"
     },
     {
-      "title": "Oracle Stock Dives As Mixed Results Bring 'More Questions Than Answers'",
-      "link": "https://www.investors.com/news/technology/oracle-stock-ai-earnings-dec-2025-orcl-news/?src=A00220&yptr=yahoo",
+      "title": "Oracle Shares Tumble on AI Spending Worries",
+      "link": "https://www.wsj.com/finance/stocks/oracle-shares-tumble-thursday-weighing-on-market-c60649a4?siteid=yhoof2&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-11T20:35:51Z",
+      "pubDate": "2025-12-11T21:45:00Z",
       "image": "",
-      "slug": "oracle-stock-dives-as-mixed-results-bring-more-questions-than-answers-bb605a3e",
-      "orig_slug": "oracle-stock-dives-as-mixed-results-bring-more-questions-than-answers-bb605a3e"
+      "slug": "oracle-shares-tumble-on-ai-spending-worries-c7ecb9c7",
+      "orig_slug": "oracle-shares-tumble-on-ai-spending-worries-c7ecb9c7"
     },
     {
-      "title": "Crude Oil Prices Pressured on Signs of Abundant Global Supplies",
-      "link": "https://finance.yahoo.com/news/crude-oil-prices-pressured-signs-201914858.html",
+      "title": "Netskope Reports Smaller-Than-Expected Loss, Guidance Edges By Views",
+      "link": "https://www.investors.com/news/technology/netskope-stock-netskope-earnings-q32025/?src=A00220&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-11T20:19:14Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/f2aac6d2df6f4473d6f6fde753a41f73",
-      "slug": "crude-oil-prices-pressured-on-signs-of-abundant-global-supplies-1d3dc653",
-      "orig_slug": "crude-oil-prices-pressured-on-signs-of-abundant-global-supplies-1d3dc653"
-    },
-    {
-      "title": "GameStop Just Beat Earnings Estimates. Should You Bet on a Turnaround in GME Stock?",
-      "link": "https://finance.yahoo.com/news/gamestop-just-beat-earnings-estimates-201934119.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-11T20:19:34Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/01354f168557496e17f99c10c41dce86",
-      "slug": "gamestop-just-beat-earnings-estimates-should-you-bet-on-a-turnaround-in-gme-stoc-f2c646a6",
-      "orig_slug": "gamestop-just-beat-earnings-estimates-should-you-bet-on-a-turnaround-in-gme-stoc-f2c646a6"
-    },
-    {
-      "title": "Treasury Yields, Dollar Down as Markets Adjust Fed Outlook",
-      "link": "https://www.wsj.com/finance/investing/jgbs-rise-tracking-gains-in-u-s-treasurys-d790b611?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-11T20:42:00Z",
+      "pubDate": "2025-12-11T21:25:06Z",
       "image": "",
-      "slug": "treasury-yields-dollar-down-as-markets-adjust-fed-outlook-5a6bea0c",
-      "orig_slug": "treasury-yields-dollar-down-as-markets-adjust-fed-outlook-5a6bea0c"
+      "slug": "netskope-reports-smaller-than-expected-loss-guidance-edges-by-views-51dadc77",
+      "orig_slug": "netskope-reports-smaller-than-expected-loss-guidance-edges-by-views-51dadc77"
     },
     {
-      "title": "‘Premium era is over’ as all but one Bitcoin treasury firm fails to beat S&P 500",
-      "link": "https://finance.yahoo.com/news/premium-era-over-one-bitcoin-203359056.html",
+      "title": "Stock Market Today: S&P 500, Dow Up, Gold Miners Jump; AI Stocks Brush Off Oracle Drop (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobless-claims-oracle-orcl-stock/?src=A00220&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-11T20:33:59Z",
-      "image": "https://media.zenfs.com/en/dlnews_702/f7705e79d546e74a3703bc4455cdf518",
-      "slug": "premium-era-is-over-as-all-but-one-bitcoin-treasury-firm-fails-to-beat-sp-500-9181b21d",
-      "orig_slug": "premium-era-is-over-as-all-but-one-bitcoin-treasury-firm-fails-to-beat-sp-500-9181b21d"
-    },
-    {
-      "title": "Nat-Gas Prices Plummet as US Weather Forecasts Warm",
-      "link": "https://finance.yahoo.com/news/nat-gas-prices-plummet-us-201708392.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-11T20:17:08Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/f225b06e5cc93c3d7503cc730530de29",
-      "slug": "nat-gas-prices-plummet-as-us-weather-forecasts-warm-979db205",
-      "orig_slug": "nat-gas-prices-plummet-as-us-weather-forecasts-warm-979db205"
-    },
-    {
-      "title": "Rivian’s Autonomy & AI Day Failed to Move the Needle for RIVN Stock. How Should You Play It Here?",
-      "link": "https://finance.yahoo.com/news/rivian-autonomy-ai-day-failed-204700213.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-11T20:47:00Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/f61b9ae31aba7f5bae265fcbacdaaeb8",
-      "slug": "rivians-autonomy-ai-day-failed-to-move-the-needle-for-rivn-stock-how-should-you--fda73df1",
-      "orig_slug": "rivians-autonomy-ai-day-failed-to-move-the-needle-for-rivn-stock-how-should-you--fda73df1"
-    },
-    {
-      "title": "Analyst Report: Best Buy Co. Inc.",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_2762_AnalystReport_1765561836000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-12T17:50:36Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "analyst-report-best-buy-co-inc-23360fcd",
-      "orig_slug": "analyst-report-best-buy-co-inc-23360fcd"
-    },
-    {
-      "title": "Larry Ellison Loses $27 Billion in Oracle Stock Drop",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-11-2025/card/oracle-stock-poised-for-biggest-drop-since-deepseek-rout-xwjCp7iyhViKT0SIyYFQ?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-11T20:52:45Z",
+      "pubDate": "2025-12-11T21:45:47Z",
       "image": "",
-      "slug": "larry-ellison-loses-27-billion-in-oracle-stock-drop-83181d42",
-      "orig_slug": "larry-ellison-loses-27-billion-in-oracle-stock-drop-83181d42"
+      "slug": "stock-market-today-sp-500-dow-up-gold-miners-jump-ai-stocks-brush-off-oracle-dro-a783856a",
+      "orig_slug": "stock-market-today-sp-500-dow-up-gold-miners-jump-ai-stocks-brush-off-oracle-dro-a783856a"
     },
     {
-      "title": "Powell Gave Stock Markets the Present it Wanted. It Could Giftwrap the Santa Claus Rally.",
-      "link": "https://www.barrons.com/articles/powell-santa-claus-rally-ba1c1353?siteid=yhoof2&yptr=yahoo",
+      "title": "Planet Labs Stock Did It Again. Why Shares Are Headed to the Moon.",
+      "link": "https://www.barrons.com/articles/planet-labs-earnings-stock-price-8ff55042?siteid=yhoof2&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-11T20:53:00Z",
+      "pubDate": "2025-12-11T21:46:00Z",
       "image": "",
-      "slug": "powell-gave-stock-markets-the-present-it-wanted-it-could-giftwrap-the-santa-clau-1e07ee81",
-      "orig_slug": "powell-gave-stock-markets-the-present-it-wanted-it-could-giftwrap-the-santa-clau-1e07ee81"
+      "slug": "planet-labs-stock-did-it-again-why-shares-are-headed-to-the-moon-f9ed12b1",
+      "orig_slug": "planet-labs-stock-did-it-again-why-shares-are-headed-to-the-moon-f9ed12b1"
     },
     {
-      "title": "Trajan Wealth: Balancing Growth with Safer Options",
-      "link": "https://finance.yahoo.com/news/trajan-wealth-balancing-growth-safer-203539290.html",
+      "title": "Oracle Escalates AI Spending, Sending Shares Plunging",
+      "link": "https://finance.yahoo.com/video/oracle-escalates-ai-spending-sending-213537403.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-11T20:35:39Z",
-      "image": "https://media.zenfs.com/en/wealth_management_474/6da8a68c3172226903dbd35b33b6a318",
-      "slug": "trajan-wealth-balancing-growth-with-safer-options-3978c877",
-      "orig_slug": "trajan-wealth-balancing-growth-with-safer-options-3978c877"
-    },
-    {
-      "title": "10 High-Yielding Dividend Stocks to Buy for 2026",
-      "link": "https://www.barrons.com/articles/dividend-stocks-high-yield-buy-2026-97670656?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-11T20:12:00Z",
-      "image": "",
-      "slug": "10-high-yielding-dividend-stocks-to-buy-for-2026-bd10da3b",
-      "orig_slug": "10-high-yielding-dividend-stocks-to-buy-for-2026-bd10da3b"
-    },
-    {
-      "title": "Robinhood Stock Gets Dragged Down by the Crypto Selloff. Should You Buy the Dip?",
-      "link": "https://finance.yahoo.com/news/robinhood-stock-gets-dragged-down-210344529.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-11T21:03:44Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/a10f56de02f4ecc39b85108d8ff48bc4",
-      "slug": "robinhood-stock-gets-dragged-down-by-the-crypto-selloff-should-you-buy-the-dip-57490201",
-      "orig_slug": "robinhood-stock-gets-dragged-down-by-the-crypto-selloff-should-you-buy-the-dip-57490201"
-    },
-    {
-      "title": "Analyst Report: Oracle Corp.",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_3282_AnalystReport_1765561836000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-12T17:50:36Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "analyst-report-oracle-corp-0c924d10",
-      "orig_slug": "analyst-report-oracle-corp-0c924d10"
-    },
-    {
-      "title": "Should You Buy Micron Before December 17? These Analysts Think So.",
-      "link": "https://finance.yahoo.com/news/buy-micron-december-17-analysts-200227399.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-11T20:02:27Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/366b125be554b7b60102f8bd3370f86a",
-      "slug": "should-you-buy-micron-before-december-17-these-analysts-think-so-c16200e6",
-      "orig_slug": "should-you-buy-micron-before-december-17-these-analysts-think-so-c16200e6"
-    },
-    {
-      "title": "Can Silver Trade at $100 per ounce or Higher?",
-      "link": "https://finance.yahoo.com/news/silver-trade-100-per-ounce-200002645.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-11T20:00:02Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/9b424b490986973776de21fc803f586b",
-      "slug": "can-silver-trade-at-100-per-ounce-or-higher-d4c91f17",
-      "orig_slug": "can-silver-trade-at-100-per-ounce-or-higher-d4c91f17"
-    },
-    {
-      "title": "Oracle’s Credit Risk Hits Highest Since 2009 on Earnings",
-      "link": "https://finance.yahoo.com/news/oracle-credit-risk-gauge-deteriorates-234104211.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-11T20:21:26Z",
-      "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/e76e07365b28fb8db519ed1b5969661c",
-      "slug": "oracles-credit-risk-hits-highest-since-2009-on-earnings-715e06dc",
-      "orig_slug": "oracles-credit-risk-hits-highest-since-2009-on-earnings-715e06dc"
-    },
-    {
-      "title": "Adobe Stock Rises on Earnings. Wall Street Can’t Decide If AI Is a Blessing or a Curse.",
-      "link": "https://www.barrons.com/articles/adobe-earnings-ai-00b5dfde?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-11T19:54:00Z",
-      "image": "",
-      "slug": "adobe-stock-rises-on-earnings-wall-street-cant-decide-if-ai-is-a-blessing-or-a-c-07c18a93",
-      "orig_slug": "adobe-stock-rises-on-earnings-wall-street-cant-decide-if-ai-is-a-blessing-or-a-c-07c18a93"
-    },
-    {
-      "title": "GE Vernova Is 'Top Pick' For 2026: 'Best Positioned In All Things Power' In AI Age",
-      "link": "https://www.investors.com/news/ge-vernova-top-pick-for-2026-best-positioned-in-the-ai-age/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-11T21:09:04Z",
-      "image": "",
-      "slug": "ge-vernova-is-top-pick-for-2026-best-positioned-in-all-things-power-in-ai-age-910a7986",
-      "orig_slug": "ge-vernova-is-top-pick-for-2026-best-positioned-in-all-things-power-in-ai-age-910a7986"
-    },
-    {
-      "title": "Market Update: BBY, MDT, ORCL",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_45589_MarketUpdate_1765560936000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-12T17:35:36Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "market-update-bby-mdt-orcl-c38884ca",
-      "orig_slug": "market-update-bby-mdt-orcl-c38884ca"
-    },
-    {
-      "title": "What the end of the SAVE plan means for millions of student loan borrowers",
-      "link": "https://finance.yahoo.com/personal-finance/student-loans/article/what-the-end-of-the-save-plan-means-for-millions-of-student-loan-borrowers-164707030.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-11T16:47:07Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/818wYee2rTecog3d43XNBg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/af9f6dc0-d60f-11f0-abff-76060f790fbf",
-      "slug": "what-the-end-of-the-save-plan-means-for-millions-of-student-loan-borrowers-63a99396",
-      "orig_slug": "what-the-end-of-the-save-plan-means-for-millions-of-student-loan-borrowers-63a99396"
-    },
-    {
-      "title": "Look Past the S&P 500’s Market Cap and Focus on Revenue Instead",
-      "link": "https://www.barrons.com/articles/s-p-500-market-cap-revenue-etf-f079e636?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-11T19:50:00Z",
-      "image": "",
-      "slug": "look-past-the-sp-500s-market-cap-and-focus-on-revenue-instead-ff6ae1c1",
-      "orig_slug": "look-past-the-sp-500s-market-cap-and-focus-on-revenue-instead-ff6ae1c1"
-    },
-    {
-      "title": "Popular Bitcoin creator's statue emerges at NYSE",
-      "link": "https://finance.yahoo.com/news/jack-mallers-firm-installs-satoshi-201950871.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-11T20:19:50Z",
-      "image": "https://media.zenfs.com/en/thestreet_881/54e078004a5345a1bc4bc033fe793c52",
-      "slug": "popular-bitcoin-creators-statue-emerges-at-nyse-5e74c746",
-      "orig_slug": "popular-bitcoin-creators-statue-emerges-at-nyse-5e74c746"
-    },
-    {
-      "title": "Oracle stock sinks as AI costs jump past Wall Street estimates",
-      "link": "https://finance.yahoo.com/news/oracle-stock-sinks-as-ai-costs-jump-past-wall-street-estimates-200454370.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-09T20:04:54Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/dUV0YZfPS4.OFhDGJgvctQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/855597e0-d440-11f0-9fff-56369f8dc02c",
-      "slug": "oracle-stock-sinks-as-ai-costs-jump-past-wall-street-estimates-fc9a4762",
-      "orig_slug": "oracle-stock-sinks-as-ai-costs-jump-past-wall-street-estimates-fc9a4762"
-    },
-    {
-      "title": "Oracle Stock Hasn’t Dropped Like This Since the Dot-Com Bust. What’s Driving the Selloff.",
-      "link": "https://www.barrons.com/articles/oracle-earnings-stock-price-9c6a3454?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-11T19:45:00Z",
-      "image": "",
-      "slug": "oracle-stock-hasnt-dropped-like-this-since-the-dot-com-bust-whats-driving-the-se-c79a0e30",
-      "orig_slug": "oracle-stock-hasnt-dropped-like-this-since-the-dot-com-bust-whats-driving-the-se-c79a0e30"
-    },
-    {
-      "title": "Daily Spotlight: Argus Adjusts Sector Ratings",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_45586_MarketOutlook_1765541360000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-12T12:09:20Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-spotlight-argus-adjusts-sector-ratings-4c7a3402",
-      "orig_slug": "daily-spotlight-argus-adjusts-sector-ratings-4c7a3402"
-    },
-    {
-      "title": "Kestra’s Bluespring Ends 2025 With 9 Acquisitions Totaling More Than $6 Billion in Assets",
-      "link": "https://www.barrons.com/advisor/articles/kestra-bluespring-jayaraman-deals-a34a6766?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-11T19:43:00Z",
-      "image": "",
-      "slug": "kestras-bluespring-ends-2025-with-9-acquisitions-totaling-more-than-6-billion-in-598518e7",
-      "orig_slug": "kestras-bluespring-ends-2025-with-9-acquisitions-totaling-more-than-6-billion-in-598518e7"
-    },
-    {
-      "title": "Is your spending ruining your retirement? Here are 5 complete wastes of your money — whether you’re 45, 55, or 65",
-      "link": "https://finance.yahoo.com/news/spending-ruining-retirement-5-complete-211500841.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-11T21:15:00Z",
-      "image": "https://media.zenfs.com/en/moneywise_327/b2349c7510db86358be87b65b6fa820b",
-      "slug": "is-your-spending-ruining-your-retirement-here-are-5-complete-wastes-of-your-mone-714fb27e",
-      "orig_slug": "is-your-spending-ruining-your-retirement-here-are-5-complete-wastes-of-your-mone-714fb27e"
-    },
-    {
-      "title": "Oracle's Debt Balloons to $108 Billion as AI Spending Soars",
-      "link": "https://finance.yahoo.com/news/oracles-debt-balloons-108-billion-204500406.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-11T20:45:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/114284787e310a05275a528039525b5d",
-      "slug": "oracles-debt-balloons-to-108-billion-as-ai-spending-soars-c6b32af3",
-      "orig_slug": "oracles-debt-balloons-to-108-billion-as-ai-spending-soars-c6b32af3"
-    },
-    {
-      "title": "Visa Stock Upgraded To Buy On Upside Potential, Stablecoin Prospects",
-      "link": "https://www.investors.com/news/visa-stock-upgrade-bofa-stablecoin-prospects-dow-jones/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-11T21:16:34Z",
-      "image": "",
-      "slug": "visa-stock-upgraded-to-buy-on-upside-potential-stablecoin-prospects-7164e35e",
-      "orig_slug": "visa-stock-upgraded-to-buy-on-upside-potential-stablecoin-prospects-7164e35e"
-    },
-    {
-      "title": "New Prediction Markets Play: Winklevoss' Gemini Space Station",
-      "link": "https://www.investors.com/news/gemini-space-station-winklevoss-prediction-markets-crypto/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-11T21:19:15Z",
-      "image": "",
-      "slug": "new-prediction-markets-play-winklevoss-gemini-space-station-c653ce83",
-      "orig_slug": "new-prediction-markets-play-winklevoss-gemini-space-station-c653ce83"
-    },
-    {
-      "title": "Technical Assessment: Bullish in the Intermediate-Term",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_45585_TechnicalAnalysis_1765541334000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-12T12:08:54Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "technical-assessment-bullish-in-the-intermediate-term-c693574a",
-      "orig_slug": "technical-assessment-bullish-in-the-intermediate-term-c693574a"
-    },
-    {
-      "title": "Broadcom sees dip in quarterly margins due to AI, shares fall",
-      "link": "https://finance.yahoo.com/news/broadcom-forecasts-upbeat-quarterly-revenue-211921598.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-11T21:19:21Z",
-      "image": "https://media.zenfs.com/en/reuters-finance.com/ad13cc48e6103c14ee59e1e11209e4aa",
-      "slug": "broadcom-sees-dip-in-quarterly-margins-due-to-ai-shares-fall-42ca5c82",
-      "orig_slug": "broadcom-sees-dip-in-quarterly-margins-due-to-ai-shares-fall-42ca5c82"
-    },
-    {
-      "title": "A Skeptic on Stocks Is Cautiously Upbeat About 2026",
-      "link": "https://www.barrons.com/articles/barry-bannister-stocks-outlook-2026-33975e24?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-11T21:20:00Z",
-      "image": "",
-      "slug": "a-skeptic-on-stocks-is-cautiously-upbeat-about-2026-0717489c",
-      "orig_slug": "a-skeptic-on-stocks-is-cautiously-upbeat-about-2026-0717489c"
-    },
-    {
-      "title": "Markets Could Say 'No More' to Fed Cuts, Says New York Life Investment's Goodwin",
-      "link": "https://finance.yahoo.com/video/markets-could-no-more-fed-204323465.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-11T20:43:23Z",
-      "image": "https://media.zenfs.com/en/bloomberg_politics_video_969/3a3c77006795d3a8d8b9d812766dd414",
-      "slug": "markets-could-say-no-more-to-fed-cuts-says-new-york-life-investments-goodwin-c9416807",
-      "orig_slug": "markets-could-say-no-more-to-fed-cuts-says-new-york-life-investments-goodwin-c9416807"
-    },
-    {
-      "title": "Wabtec Stock Chugs To A Record High Amid Strong Profit Growth",
-      "link": "https://www.investors.com/news/wabtec-shows-improved-relative-strength-still-shy-of-benchmark/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-11T19:35:00Z",
-      "image": "",
-      "slug": "wabtec-stock-chugs-to-a-record-high-amid-strong-profit-growth-6f7802b6",
-      "orig_slug": "wabtec-stock-chugs-to-a-record-high-amid-strong-profit-growth-6f7802b6"
+      "pubDate": "2025-12-11T21:35:37Z",
+      "image": "https://media.zenfs.com/en/bloomberg_markets_video_2/ec4771211fd0c8b1779cf65b5125eeb2",
+      "slug": "oracle-escalates-ai-spending-sending-shares-plunging-57ce3b80",
+      "orig_slug": "oracle-escalates-ai-spending-sending-shares-plunging-57ce3b80"
     },
     {
       "title": "Stock market today: Dow jumps 650 points to post record, S&P 500 climbs above 6,900 for first time",
@@ -407,31 +164,229 @@
       "orig_slug": "stock-market-today-dow-jumps-650-points-to-post-record-sp-500-climbs-above-6900--f309a288"
     },
     {
-      "title": "Analyst Report: DoorDash Inc",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_6316_AnalystReport_1765541170000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "title": "A Skeptic on Stocks Is Cautiously Upbeat About 2026",
+      "link": "https://www.barrons.com/articles/barry-bannister-stocks-outlook-2026-33975e24?siteid=yhoof2&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-12T12:06:10Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "analyst-report-doordash-inc-b49bf306",
-      "orig_slug": "analyst-report-doordash-inc-b49bf306"
-    },
-    {
-      "title": "Palantir Sues CEO of Rival AI Firm, Alleges Widespread Effort to Poach Employees",
-      "link": "https://www.wsj.com/business/palantir-sues-ceo-of-rival-ai-firm-alleges-widespread-effort-to-poach-employees-9c297986?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-11T19:34:00Z",
+      "pubDate": "2025-12-11T21:20:00Z",
       "image": "",
-      "slug": "palantir-sues-ceo-of-rival-ai-firm-alleges-widespread-effort-to-poach-employees-b3a81bd6",
-      "orig_slug": "palantir-sues-ceo-of-rival-ai-firm-alleges-widespread-effort-to-poach-employees-b3a81bd6"
+      "slug": "a-skeptic-on-stocks-is-cautiously-upbeat-about-2026-0717489c",
+      "orig_slug": "a-skeptic-on-stocks-is-cautiously-upbeat-about-2026-0717489c"
     },
     {
-      "title": "Oracle Stock Breaks Below Its 200-Day Moving Average. Should You Buy the Dip?",
-      "link": "https://finance.yahoo.com/news/oracle-stock-breaks-below-200-192828403.html",
+      "title": "Broadcom sees dip in quarterly margins due to AI, shares fall",
+      "link": "https://finance.yahoo.com/news/broadcom-forecasts-upbeat-quarterly-revenue-211921598.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-11T19:28:28Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/98e4cd4f6696c005f1da1c101419a442",
-      "slug": "oracle-stock-breaks-below-its-200-day-moving-average-should-you-buy-the-dip-93624732",
-      "orig_slug": "oracle-stock-breaks-below-its-200-day-moving-average-should-you-buy-the-dip-93624732"
+      "pubDate": "2025-12-11T21:19:21Z",
+      "image": "https://media.zenfs.com/en/reuters-finance.com/ad13cc48e6103c14ee59e1e11209e4aa",
+      "slug": "broadcom-sees-dip-in-quarterly-margins-due-to-ai-shares-fall-42ca5c82",
+      "orig_slug": "broadcom-sees-dip-in-quarterly-margins-due-to-ai-shares-fall-42ca5c82"
+    },
+    {
+      "title": "New Prediction Markets Play: Winklevoss' Gemini Space Station",
+      "link": "https://www.investors.com/news/gemini-space-station-winklevoss-prediction-markets-crypto/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-11T21:19:15Z",
+      "image": "",
+      "slug": "new-prediction-markets-play-winklevoss-gemini-space-station-c653ce83",
+      "orig_slug": "new-prediction-markets-play-winklevoss-gemini-space-station-c653ce83"
+    },
+    {
+      "title": "Why Gemini Stock Surged Today",
+      "link": "https://finance.yahoo.com/news/why-gemini-stock-surged-today-212727342.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-11T21:27:27Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/9827533eef55510b9f68c8c7ad41bada",
+      "slug": "why-gemini-stock-surged-today-d350243b",
+      "orig_slug": "why-gemini-stock-surged-today-d350243b"
+    },
+    {
+      "title": "Heard on the Street Recap: Oracle's Outlook",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-11-2025/card/heard-on-the-street-recap--k5lY6zpfOHkBiuAi3VST?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-11T21:47:30Z",
+      "image": "",
+      "slug": "heard-on-the-street-recap-oracles-outlook-9aa6eb5b",
+      "orig_slug": "heard-on-the-street-recap-oracles-outlook-9aa6eb5b"
+    },
+    {
+      "title": "Visa Stock Upgraded To Buy On Upside Potential, Stablecoin Prospects",
+      "link": "https://www.investors.com/news/visa-stock-upgrade-bofa-stablecoin-prospects-dow-jones/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-11T21:16:34Z",
+      "image": "",
+      "slug": "visa-stock-upgraded-to-buy-on-upside-potential-stablecoin-prospects-7164e35e",
+      "orig_slug": "visa-stock-upgraded-to-buy-on-upside-potential-stablecoin-prospects-7164e35e"
+    },
+    {
+      "title": "Is your spending ruining your retirement? Here are 5 complete wastes of your money — whether you’re 45, 55, or 65",
+      "link": "https://finance.yahoo.com/news/spending-ruining-retirement-5-complete-211500841.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-11T21:15:00Z",
+      "image": "https://media.zenfs.com/en/moneywise_327/b2349c7510db86358be87b65b6fa820b",
+      "slug": "is-your-spending-ruining-your-retirement-here-are-5-complete-wastes-of-your-mone-714fb27e",
+      "orig_slug": "is-your-spending-ruining-your-retirement-here-are-5-complete-wastes-of-your-mone-714fb27e"
+    },
+    {
+      "title": "Oracle stock sinks as AI costs jump past Wall Street estimates",
+      "link": "https://finance.yahoo.com/news/oracle-stock-sinks-as-ai-costs-jump-past-wall-street-estimates-200454370.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-09T20:04:54Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/dUV0YZfPS4.OFhDGJgvctQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/855597e0-d440-11f0-9fff-56369f8dc02c",
+      "slug": "oracle-stock-sinks-as-ai-costs-jump-past-wall-street-estimates-fc9a4762",
+      "orig_slug": "oracle-stock-sinks-as-ai-costs-jump-past-wall-street-estimates-fc9a4762"
+    },
+    {
+      "title": "AI agents will radically change shopping",
+      "link": "https://finance.yahoo.com/news/ai-agents-radically-change-shopping-214301264.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-11T21:43:01Z",
+      "image": "https://media.zenfs.com/en/thestreet_881/998316ae36a6c158c1798f48279a9072",
+      "slug": "ai-agents-will-radically-change-shopping-9518fa67",
+      "orig_slug": "ai-agents-will-radically-change-shopping-9518fa67"
+    },
+    {
+      "title": "GE Vernova Is 'Top Pick' For 2026: 'Best Positioned In All Things Power' In AI Age",
+      "link": "https://www.investors.com/news/ge-vernova-top-pick-for-2026-best-positioned-in-the-ai-age/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-11T21:09:04Z",
+      "image": "",
+      "slug": "ge-vernova-is-top-pick-for-2026-best-positioned-in-all-things-power-in-ai-age-910a7986",
+      "orig_slug": "ge-vernova-is-top-pick-for-2026-best-positioned-in-all-things-power-in-ai-age-910a7986"
+    },
+    {
+      "title": "What does PITI mean, and how does it affect your mortgage?",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/piti-203535556.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2024-04-29T20:35:35Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/HnH5adYCbYDBD6vJvByNLg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2021-12/765916a0-58ce-11ec-8d9f-faefb23ae9d7",
+      "slug": "what-does-piti-mean-and-how-does-it-affect-your-mortgage-4c2e6995",
+      "orig_slug": "what-does-piti-mean-and-how-does-it-affect-your-mortgage-4c2e6995"
+    },
+    {
+      "title": "Schneider Electric Stock Jumps on Its Vision for an Electric Future",
+      "link": "https://www.barrons.com/articles/schneider-electric-stock-electricity-demand-1f392027?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-11T21:53:00Z",
+      "image": "",
+      "slug": "schneider-electric-stock-jumps-on-its-vision-for-an-electric-future-6558d38c",
+      "orig_slug": "schneider-electric-stock-jumps-on-its-vision-for-an-electric-future-6558d38c"
+    },
+    {
+      "title": "Boom Supersonic’s Latest Move Suggests Aerospace Firms Have a Future in AI",
+      "link": "https://www.barrons.com/articles/boom-supersonic-ai-aerospace-stocks-43511fe4?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-11T21:54:00Z",
+      "image": "",
+      "slug": "boom-supersonics-latest-move-suggests-aerospace-firms-have-a-future-in-ai-ec2d0aa8",
+      "orig_slug": "boom-supersonics-latest-move-suggests-aerospace-firms-have-a-future-in-ai-ec2d0aa8"
+    },
+    {
+      "title": "1 Tech ETF to Buy Hand Over Fist and 1 to Avoid in 2026",
+      "link": "https://finance.yahoo.com/news/1-tech-etf-buy-hand-213500400.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-11T21:35:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/91f46070cc8fcbd7b9afd2a6360334de",
+      "slug": "1-tech-etf-to-buy-hand-over-fist-and-1-to-avoid-in-2026-d937adf3",
+      "orig_slug": "1-tech-etf-to-buy-hand-over-fist-and-1-to-avoid-in-2026-d937adf3"
+    },
+    {
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "link": "https://www.wsj.com/tech/tech-media-telecom-roundup-market-talk-55f311c7?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-11T21:55:00Z",
+      "image": "",
+      "slug": "tech-media-telecom-roundup-market-talk-47510f68",
+      "orig_slug": "tech-media-telecom-roundup-market-talk-47510f68"
+    },
+    {
+      "title": "Energy & Utilities Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-ee615f95?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-11T21:55:00Z",
+      "image": "",
+      "slug": "energy-utilities-roundup-market-talk-fbda833a",
+      "orig_slug": "energy-utilities-roundup-market-talk-fbda833a"
+    },
+    {
+      "title": "Broadcom, Oracle, Adobe: AI-Related Earnings in Spotlight",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-11-2025/card/oracle-adobe-broadcom-ai-related-earnings-in-spotlight-g55IYMXp0iicy6b7QTmV?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-11T21:55:47Z",
+      "image": "",
+      "slug": "broadcom-oracle-adobe-ai-related-earnings-in-spotlight-6dd89653",
+      "orig_slug": "broadcom-oracle-adobe-ai-related-earnings-in-spotlight-6dd89653"
+    },
+    {
+      "title": "Analyst Report: Best Buy Co. Inc.",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_2762_AnalystReport_1765561836000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-12T17:50:36Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-best-buy-co-inc-23360fcd",
+      "orig_slug": "analyst-report-best-buy-co-inc-23360fcd"
+    },
+    {
+      "title": "Auto & Transport Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-89cb1269?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-11T21:57:00Z",
+      "image": "",
+      "slug": "auto-transport-roundup-market-talk-d2502bf7",
+      "orig_slug": "auto-transport-roundup-market-talk-d2502bf7"
+    },
+    {
+      "title": "Synopsys CEO on Earnings, Nvidia Investment",
+      "link": "https://finance.yahoo.com/video/synopsys-ceo-earnings-nvidia-investment-214208962.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-11T21:42:08Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/TQUF1VquIJ3PAKI75.AGow--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/271e8fd3-1d8c-4a01-9279-7a7fd64b3ddf/main/1280x720/1m41s436ms/match/image.jpg",
+      "slug": "synopsys-ceo-on-earnings-nvidia-investment-88885dfb",
+      "orig_slug": "synopsys-ceo-on-earnings-nvidia-investment-88885dfb"
+    },
+    {
+      "title": "Financial Services Roundup: Market Talk",
+      "link": "https://www.wsj.com/finance/banking/financial-services-roundup-market-talk-d8fc71f6?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-11T21:57:00Z",
+      "image": "",
+      "slug": "financial-services-roundup-market-talk-600e2802",
+      "orig_slug": "financial-services-roundup-market-talk-600e2802"
+    },
+    {
+      "title": "Lululemon Chief Executive Calvin McDonald to Depart Next Month",
+      "link": "https://www.wsj.com/business/retail/lululemons-chief-executive-calvin-mcdonald-to-depart-next-month-6a54be85?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-11T21:58:00Z",
+      "image": "",
+      "slug": "lululemon-chief-executive-calvin-mcdonald-to-depart-next-month-2cb6e200",
+      "orig_slug": "lululemon-chief-executive-calvin-mcdonald-to-depart-next-month-2cb6e200"
+    },
+    {
+      "title": "Archer Aviation Is Bringing Its Flying Cars to Saudi Arabia. Is ACHR Stock a Buy Here?",
+      "link": "https://finance.yahoo.com/news/archer-aviation-bringing-flying-cars-220031685.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-11T22:00:31Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/3711b4dddfaba463a3074e211f689287",
+      "slug": "archer-aviation-is-bringing-its-flying-cars-to-saudi-arabia-is-achr-stock-a-buy--12344d42",
+      "orig_slug": "archer-aviation-is-bringing-its-flying-cars-to-saudi-arabia-is-achr-stock-a-buy--12344d42"
+    },
+    {
+      "title": "Analyst Report: Oracle Corp.",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_3282_AnalystReport_1765561836000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-12T17:50:36Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-oracle-corp-0c924d10",
+      "orig_slug": "analyst-report-oracle-corp-0c924d10"
+    },
+    {
+      "title": "Robinhood Stock Gets Dragged Down by the Crypto Selloff. Should You Buy the Dip?",
+      "link": "https://finance.yahoo.com/news/robinhood-stock-gets-dragged-down-210344529.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-11T21:03:44Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/a10f56de02f4ecc39b85108d8ff48bc4",
+      "slug": "robinhood-stock-gets-dragged-down-by-the-crypto-selloff-should-you-buy-the-dip-57490201",
+      "orig_slug": "robinhood-stock-gets-dragged-down-by-the-crypto-selloff-should-you-buy-the-dip-57490201"
     }
   ]
 }
