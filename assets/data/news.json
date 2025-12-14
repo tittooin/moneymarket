@@ -1,32 +1,149 @@
 {
-  "updated": "2025-12-14T06:17:33Z",
+  "updated": "2025-12-14T07:12:30Z",
   "items": [
     {
-      "title": "Citadel Securities and DeFi Waging War of Words Through SEC Correspondence",
-      "link": "https://finance.yahoo.com/news/citadel-securities-defi-waging-war-222018556.html",
+      "title": "What to Watch With PepsiCo (PEP) Stock in 2026",
+      "link": "https://finance.yahoo.com/news/watch-pepsico-pep-stock-2026-225900187.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-12T22:20:18Z",
-      "image": "https://media.zenfs.com/en/coindesk_75/46d1f4e0c0841c2d4d3d1942f986c897",
-      "slug": "citadel-securities-and-defi-waging-war-of-words-through-sec-correspondence-d2b4f065",
-      "orig_slug": "citadel-securities-and-defi-waging-war-of-words-through-sec-correspondence-d2b4f065"
+      "pubDate": "2025-12-12T22:59:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/50f457406906b384af6a9d31682e019b",
+      "slug": "what-to-watch-with-pepsico-pep-stock-in-2026-160e030f",
+      "orig_slug": "what-to-watch-with-pepsico-pep-stock-in-2026-160e030f"
     },
     {
-      "title": "Oracle Data Center Delays Hit More Than Just the Stock",
-      "link": "https://www.barrons.com/articles/oracle-stock-price-cds-credit-default-swaps-debt-9d996f01?siteid=yhoof2&yptr=yahoo",
+      "title": "Daily ETF Flows: VOO Assets Swell",
+      "link": "https://finance.yahoo.com/news/daily-etf-flows-voo-assets-230006802.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-12T22:26:00Z",
-      "image": "",
-      "slug": "oracle-data-center-delays-hit-more-than-just-the-stock-760e3d9d",
-      "orig_slug": "oracle-data-center-delays-hit-more-than-just-the-stock-760e3d9d"
+      "pubDate": "2025-12-12T23:00:06Z",
+      "image": "https://media.zenfs.com/en/indexuniverse.com/1d45f9488d95ad21b16acbe33a9dfed0",
+      "slug": "daily-etf-flows-voo-assets-swell-35a337fd",
+      "orig_slug": "daily-etf-flows-voo-assets-swell-35a337fd"
     },
     {
-      "title": "Fresh Concerns About AI Spending Are Rattling Wall Street",
-      "link": "https://www.wsj.com/finance/stocks/ai-fed-interest-rate-stock-market-749e18e2?siteid=yhoof2&yptr=yahoo",
+      "title": "Cotton Closes the Week with Weakness",
+      "link": "https://finance.yahoo.com/news/cotton-closes-week-weakness-231258367.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-12T22:27:00Z",
+      "pubDate": "2025-12-12T23:12:58Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/cf8da744b66fec898f6801271a67563d",
+      "slug": "cotton-closes-the-week-with-weakness-f1545d09",
+      "orig_slug": "cotton-closes-the-week-with-weakness-f1545d09"
+    },
+    {
+      "title": "Wheat Closes with Friday Losses",
+      "link": "https://finance.yahoo.com/news/wheat-closes-friday-losses-231257220.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-12T23:12:57Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/493cfb332b49e7f51db53e8006689042",
+      "slug": "wheat-closes-with-friday-losses-ad1f0055",
+      "orig_slug": "wheat-closes-with-friday-losses-ad1f0055"
+    },
+    {
+      "title": "Corn Falls to Close the Week",
+      "link": "https://finance.yahoo.com/news/corn-falls-close-week-231257879.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-12T23:12:57Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/46a48deb4dd7067235edc3416ec9ef3c",
+      "slug": "corn-falls-to-close-the-week-93a51a1a",
+      "orig_slug": "corn-falls-to-close-the-week-93a51a1a"
+    },
+    {
+      "title": "Fed Officials Break Silence; Still Divided About Future Of Interest Rates",
+      "link": "https://finance.yahoo.com/news/fed-officials-break-silence-still-230011033.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-12T23:00:11Z",
+      "image": "https://media.zenfs.com/en/investopedia_245/b9a1905fe534ba67f902f064cb11f81e",
+      "slug": "fed-officials-break-silence-still-divided-about-future-of-interest-rates-b547ca19",
+      "orig_slug": "fed-officials-break-silence-still-divided-about-future-of-interest-rates-b547ca19"
+    },
+    {
+      "title": "Soybeans Continue Selling the Fact on Friday with Chinese Buying",
+      "link": "https://finance.yahoo.com/news/soybeans-continue-selling-fact-friday-231257344.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-12T23:12:57Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/68383ddf017ca74d3bc633bfbc022e0b",
+      "slug": "soybeans-continue-selling-the-fact-on-friday-with-chinese-buying-d5014b8d",
+      "orig_slug": "soybeans-continue-selling-the-fact-on-friday-with-chinese-buying-d5014b8d"
+    },
+    {
+      "title": "The WSJ Dollar Index Falls 0.32% This Week to 96.12",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-risk-on-sentiment-may-support-f022b337?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-12T22:42:00Z",
       "image": "",
-      "slug": "fresh-concerns-about-ai-spending-are-rattling-wall-street-118bcb7c",
-      "orig_slug": "fresh-concerns-about-ai-spending-are-rattling-wall-street-118bcb7c"
+      "slug": "the-wsj-dollar-index-falls-032-this-week-to-9612-bf6dbb72",
+      "orig_slug": "the-wsj-dollar-index-falls-032-this-week-to-9612-bf6dbb72"
+    },
+    {
+      "title": "What Wall Street Is Saying About AI’s Tough Market Week",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-12-2025/card/what-wall-street-is-saying-about-ai-s-tough-market-week-C3iAjMMqhNCk8VP5BcG4?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-12T22:39:43Z",
+      "image": "",
+      "slug": "what-wall-street-is-saying-about-ais-tough-market-week-58c5e783",
+      "orig_slug": "what-wall-street-is-saying-about-ais-tough-market-week-58c5e783"
+    },
+    {
+      "title": "Strategy Keeps Nasdaq 100 Listing; What It Means For Bitcoin",
+      "link": "https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-13T01:39:17Z",
+      "image": "",
+      "slug": "strategy-keeps-nasdaq-100-listing-what-it-means-for-bitcoin-ebe3c4f1",
+      "orig_slug": "strategy-keeps-nasdaq-100-listing-what-it-means-for-bitcoin-ebe3c4f1"
+    },
+    {
+      "title": "Billionaire Ken Fisher sends strong stock market valuation message",
+      "link": "https://finance.yahoo.com/news/billionaire-fund-manager-surprising-stock-230111531.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-12T23:01:11Z",
+      "image": "https://media.zenfs.com/en/thestreet_881/5960baa9b4d34d12520712da27569bc7",
+      "slug": "billionaire-ken-fisher-sends-strong-stock-market-valuation-message-dbe53f6d",
+      "orig_slug": "billionaire-ken-fisher-sends-strong-stock-market-valuation-message-dbe53f6d"
+    },
+    {
+      "title": "Inside the Invitation-Only Stock Market for the Wealthy",
+      "link": "https://www.wsj.com/finance/investing/private-stock-market-growth-bb71bde1?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-13T02:00:00Z",
+      "image": "",
+      "slug": "inside-the-invitation-only-stock-market-for-the-wealthy-0b993098",
+      "orig_slug": "inside-the-invitation-only-stock-market-for-the-wealthy-0b993098"
+    },
+    {
+      "title": "Bank of America Shares Hit Record High. Why Citi is the One to Watch Next.",
+      "link": "https://www.barrons.com/articles/bank-of-america-stock-record-high-fdf253ab?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-12T22:37:00Z",
+      "image": "",
+      "slug": "bank-of-america-shares-hit-record-high-why-citi-is-the-one-to-watch-next-9f818ced",
+      "orig_slug": "bank-of-america-shares-hit-record-high-why-citi-is-the-one-to-watch-next-9f818ced"
+    },
+    {
+      "title": "These Stocks Moved the Most Today: Broadcom, Oracle, Fermi, Tilray, Lululemon, Costco, Netskope, and More",
+      "link": "https://www.barrons.com/articles/stock-movers-0617089c?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-12T22:32:00Z",
+      "image": "",
+      "slug": "these-stocks-moved-the-most-today-broadcom-oracle-fermi-tilray-lululemon-costco--892ae2e8",
+      "orig_slug": "these-stocks-moved-the-most-today-broadcom-oracle-fermi-tilray-lululemon-costco--892ae2e8"
+    },
+    {
+      "title": "The Highflying Hedge Fund With a Habit of Giving Investors IOUs",
+      "link": "https://www.wsj.com/finance/investing/the-highflying-hedge-fund-with-a-habit-of-giving-investors-ious-20226249?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-13T01:00:00Z",
+      "image": "",
+      "slug": "the-highflying-hedge-fund-with-a-habit-of-giving-investors-ious-f674006b",
+      "orig_slug": "the-highflying-hedge-fund-with-a-habit-of-giving-investors-ious-f674006b"
+    },
+    {
+      "title": "Lululemon’s CEO Switch and the Perception of Reality",
+      "link": "https://finance.yahoo.com/news/lululemon-ceo-switch-perception-reality-225212898.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-12T22:52:12Z",
+      "image": "https://media.zenfs.com/en/wwd_409/6575ded98863f28136393a62a321eaaf",
+      "slug": "lululemons-ceo-switch-and-the-perception-of-reality-5ab118ad",
+      "orig_slug": "lululemons-ceo-switch-and-the-perception-of-reality-5ab118ad"
     },
     {
       "title": "The Score: Warner Bros., GameStop, Campbell’s, Lululemon and More Stocks That Defined the Week",
@@ -38,6 +155,114 @@
       "orig_slug": "the-score-warner-bros-gamestop-campbells-lululemon-and-more-stocks-that-defined--579cf9e8"
     },
     {
+      "title": "Review & Preview: Banks Take Center Stage",
+      "link": "https://www.barrons.com/articles/bank-stocks-bofa-record-close-ai-broadcom-8e1a3b5c?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-13T00:55:00Z",
+      "image": "",
+      "slug": "review-preview-banks-take-center-stage-666b4ec9",
+      "orig_slug": "review-preview-banks-take-center-stage-666b4ec9"
+    },
+    {
+      "title": "SpaceX Tells Staff It Is Preparing for a Potential IPO Next Year",
+      "link": "https://www.wsj.com/business/spacex-tells-staff-it-is-preparing-for-a-potential-ipo-next-year-ae54778d?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-13T02:24:00Z",
+      "image": "",
+      "slug": "spacex-tells-staff-it-is-preparing-for-a-potential-ipo-next-year-fc4d4045",
+      "orig_slug": "spacex-tells-staff-it-is-preparing-for-a-potential-ipo-next-year-fc4d4045"
+    },
+    {
+      "title": "Fresh Concerns About AI Spending Are Rattling Wall Street",
+      "link": "https://www.wsj.com/finance/stocks/ai-fed-interest-rate-stock-market-749e18e2?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-12T22:27:00Z",
+      "image": "",
+      "slug": "fresh-concerns-about-ai-spending-are-rattling-wall-street-118bcb7c",
+      "orig_slug": "fresh-concerns-about-ai-spending-are-rattling-wall-street-118bcb7c"
+    },
+    {
+      "title": "Broadcom is the latest victim of sky-high expectations from AI investors",
+      "link": "https://finance.yahoo.com/news/broadcom-latest-victim-sky-high-224951155.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-12T22:49:51Z",
+      "image": "https://media.zenfs.com/en/business_insider_articles_888/dbb49d8d3dded291881267e72fa9bce3",
+      "slug": "broadcom-is-the-latest-victim-of-sky-high-expectations-from-ai-investors-f7cd76db",
+      "orig_slug": "broadcom-is-the-latest-victim-of-sky-high-expectations-from-ai-investors-f7cd76db"
+    },
+    {
+      "title": "Oracle Data Center Delays Hit More Than Just the Stock",
+      "link": "https://www.barrons.com/articles/oracle-stock-price-cds-credit-default-swaps-debt-9d996f01?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-12T22:26:00Z",
+      "image": "",
+      "slug": "oracle-data-center-delays-hit-more-than-just-the-stock-760e3d9d",
+      "orig_slug": "oracle-data-center-delays-hit-more-than-just-the-stock-760e3d9d"
+    },
+    {
+      "title": "SpaceX insider share sale sets $800 billion valuation as it prepares to go public, Bloomberg News reports",
+      "link": "https://finance.yahoo.com/news/spacex-insider-share-sale-sets-023229307.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-13T02:32:29Z",
+      "image": "https://media.zenfs.com/en/reuters.com/f5d694bca22063d2a2d2c6a22e99ed28",
+      "slug": "spacex-insider-share-sale-sets-800-billion-valuation-as-it-prepares-to-go-public-86e5feb9",
+      "orig_slug": "spacex-insider-share-sale-sets-800-billion-valuation-as-it-prepares-to-go-public-86e5feb9"
+    },
+    {
+      "title": "Mortgage amortization: What is it, and how does it work?",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-amortization-160656311.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-04-21T16:06:56Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/duaukL5QUvWQbEONLkqMJg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/736a7940-1575-11f0-ae75-23ca96610140",
+      "slug": "mortgage-amortization-what-is-it-and-how-does-it-work-d99fdcd4",
+      "orig_slug": "mortgage-amortization-what-is-it-and-how-does-it-work-d99fdcd4"
+    },
+    {
+      "title": "China Doubles Down on Boosting Domestic Demand",
+      "link": "https://www.barrons.com/articles/china-doubles-down-on-boosting-domestic-demand-34d83492?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-12T23:39:00Z",
+      "image": "",
+      "slug": "china-doubles-down-on-boosting-domestic-demand-29bd7ec8",
+      "orig_slug": "china-doubles-down-on-boosting-domestic-demand-29bd7ec8"
+    },
+    {
+      "title": "You’re Probably Overpaying the IRS by $1,000 or More a Year: Here’s How To Stop",
+      "link": "https://finance.yahoo.com/news/probably-overpaying-irs-1-000-231105133.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-12T23:11:05Z",
+      "image": "https://media.zenfs.com/en/gobankingrates_644/cb93720db57c66ec20b2eed1836dbf39",
+      "slug": "youre-probably-overpaying-the-irs-by-1000-or-more-a-year-heres-how-to-stop-d3065eba",
+      "orig_slug": "youre-probably-overpaying-the-irs-by-1000-or-more-a-year-heres-how-to-stop-d3065eba"
+    },
+    {
+      "title": "With Talk of a SpaceX IPO, Tesla Shareholders Dream of an X Corp.",
+      "link": "https://www.barrons.com/articles/with-talk-of-a-spacex-ipo-tesla-shareholders-dream-of-an-x-corp-04f17d09?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-13T00:24:00Z",
+      "image": "",
+      "slug": "with-talk-of-a-spacex-ipo-tesla-shareholders-dream-of-an-x-corp-c0d6f925",
+      "orig_slug": "with-talk-of-a-spacex-ipo-tesla-shareholders-dream-of-an-x-corp-c0d6f925"
+    },
+    {
+      "title": "National Presto, Garrett Motion, and More Stocks See Action From Activist Investors",
+      "link": "https://www.barrons.com/articles/national-presto-garrett-motion-and-more-stocks-see-action-from-activist-investors-8084da77?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-12T23:50:00Z",
+      "image": "",
+      "slug": "national-presto-garrett-motion-and-more-stocks-see-action-from-activist-investor-26e03c80",
+      "orig_slug": "national-presto-garrett-motion-and-more-stocks-see-action-from-activist-investor-26e03c80"
+    },
+    {
+      "title": "3 Cheapest Dividend Aristocrats for a Lifetime of Income",
+      "link": "https://finance.yahoo.com/news/3-cheapest-dividend-aristocrats-lifetime-000002899.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-13T00:00:02Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/78fc0356cab912b73912dd12f88bfedc",
+      "slug": "3-cheapest-dividend-aristocrats-for-a-lifetime-of-income-79cc189f",
+      "orig_slug": "3-cheapest-dividend-aristocrats-for-a-lifetime-of-income-79cc189f"
+    },
+    {
       "title": "How to use an FHA construction loan to build your dream home",
       "link": "https://finance.yahoo.com/personal-finance/mortgages/article/fha-construction-loan-184221466.html",
       "source": "finance.yahoo.com",
@@ -47,22 +272,13 @@
       "orig_slug": "how-to-use-an-fha-construction-loan-to-build-your-dream-home-d0b15e86"
     },
     {
-      "title": "Prediction: With or Without Warner Bros., Netflix Will Crush the S&P 500 From 2026 Through 2030.",
-      "link": "https://finance.yahoo.com/news/prediction-without-warner-bros-netflix-222000281.html",
+      "title": "Analyst downgrades crypto's most subscribed IPO as stock sinks",
+      "link": "https://finance.yahoo.com/news/analyst-downgrades-cryptos-most-subscribed-224456620.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-12T22:20:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/b52ac3caa6a3547283a79d98df598438",
-      "slug": "prediction-with-or-without-warner-bros-netflix-will-crush-the-sp-500-from-2026-t-aa41d187",
-      "orig_slug": "prediction-with-or-without-warner-bros-netflix-will-crush-the-sp-500-from-2026-t-aa41d187"
-    },
-    {
-      "title": "These Stocks Moved the Most Today: Broadcom, Oracle, Fermi, Tilray, Lululemon, Costco, Netskope, and More",
-      "link": "https://www.barrons.com/articles/stock-movers-0617089c?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-12T22:32:00Z",
-      "image": "",
-      "slug": "these-stocks-moved-the-most-today-broadcom-oracle-fermi-tilray-lululemon-costco--892ae2e8",
-      "orig_slug": "these-stocks-moved-the-most-today-broadcom-oracle-fermi-tilray-lululemon-costco--892ae2e8"
+      "pubDate": "2025-12-12T22:44:56Z",
+      "image": "https://media.zenfs.com/en/thestreet_881/8b073c2d1325e81a906e2cb9f21619c4",
+      "slug": "analyst-downgrades-cryptos-most-subscribed-ipo-as-stock-sinks-54f047d0",
+      "orig_slug": "analyst-downgrades-cryptos-most-subscribed-ipo-as-stock-sinks-54f047d0"
     },
     {
       "title": "Auto & Transport Roundup: Market Talk",
@@ -92,24 +308,6 @@
       "orig_slug": "corrections-amplifications-08d87bd0"
     },
     {
-      "title": "A Bad Week for Oracle Stock Got Even Worse on Friday. Here's Why",
-      "link": "https://finance.yahoo.com/news/bad-week-oracle-stock-got-222744509.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-12T22:27:44Z",
-      "image": "https://media.zenfs.com/en/investopedia_245/d210163b2c54b34295644ed2776f9b0b",
-      "slug": "a-bad-week-for-oracle-stock-got-even-worse-on-friday-heres-why-435d3b16",
-      "orig_slug": "a-bad-week-for-oracle-stock-got-even-worse-on-friday-heres-why-435d3b16"
-    },
-    {
-      "title": "Bank of America Shares Hit Record High. Why Citi is the One to Watch Next.",
-      "link": "https://www.barrons.com/articles/bank-of-america-stock-record-high-fdf253ab?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-12T22:37:00Z",
-      "image": "",
-      "slug": "bank-of-america-shares-hit-record-high-why-citi-is-the-one-to-watch-next-9f818ced",
-      "orig_slug": "bank-of-america-shares-hit-record-high-why-citi-is-the-one-to-watch-next-9f818ced"
-    },
-    {
       "title": "How to use an FHA 203(k) loan to renovate a home",
       "link": "https://finance.yahoo.com/personal-finance/mortgages/article/fha-203k-loan-213628531.html",
       "source": "finance.yahoo.com",
@@ -117,6 +315,15 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/fTn93BdJYjqWcAWqUMEM_g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-08/b4a12880-6aff-11ef-9df6-5aaeb37f8ff3",
       "slug": "how-to-use-an-fha-203k-loan-to-renovate-a-home-e30307de",
       "orig_slug": "how-to-use-an-fha-203k-loan-to-renovate-a-home-e30307de"
+    },
+    {
+      "title": "Bitcoin Weekly Forecast: Fed Delivers, Yet Fails to Impress BTC Traders",
+      "link": "https://finance.yahoo.com/news/bitcoin-weekly-forecast-fed-delivers-015027103.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-13T01:50:27Z",
+      "image": "https://media.zenfs.com/en/beincrypto_us_662/05f5911394bb4e5162cae2fc92eaf859",
+      "slug": "bitcoin-weekly-forecast-fed-delivers-yet-fails-to-impress-btc-traders-a0a98af3",
+      "orig_slug": "bitcoin-weekly-forecast-fed-delivers-yet-fails-to-impress-btc-traders-a0a98af3"
     },
     {
       "title": "Energy & Utilities Roundup: Market Talk",
@@ -137,15 +344,6 @@
       "orig_slug": "basic-materials-roundup-market-talk-b9f27432"
     },
     {
-      "title": "Staley Capital Advisers Dumps 59,000 Shares of Mercury Systems",
-      "link": "https://finance.yahoo.com/news/staley-capital-advisers-dumps-59-222754449.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-12T22:27:54Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/3555dd81096d2e030a1eb53e86b6c0ba",
-      "slug": "staley-capital-advisers-dumps-59000-shares-of-mercury-systems-039a8314",
-      "orig_slug": "staley-capital-advisers-dumps-59000-shares-of-mercury-systems-039a8314"
-    },
-    {
       "title": "Working Americans will soon get ‘very large refunds’ of up to $2,000/household, says Bessent. How to make the most of it",
       "link": "https://finance.yahoo.com/news/working-americans-soon-very-large-220100198.html",
       "source": "finance.yahoo.com",
@@ -153,15 +351,6 @@
       "image": "https://media.zenfs.com/en/moneywise_ecomm_711/54b04fe73795e784a2ad05d9d351c295",
       "slug": "working-americans-will-soon-get-very-large-refunds-of-up-to-2000household-says-b-a3c69caa",
       "orig_slug": "working-americans-will-soon-get-very-large-refunds-of-up-to-2000household-says-b-a3c69caa"
-    },
-    {
-      "title": "What Wall Street Is Saying About AI’s Tough Market Week",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-12-2025/card/what-wall-street-is-saying-about-ai-s-tough-market-week-C3iAjMMqhNCk8VP5BcG4?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-12T22:39:43Z",
-      "image": "",
-      "slug": "what-wall-street-is-saying-about-ais-tough-market-week-58c5e783",
-      "orig_slug": "what-wall-street-is-saying-about-ais-tough-market-week-58c5e783"
     },
     {
       "title": "Tech, Media & Telecom Roundup: Market Talk",
@@ -173,6 +362,15 @@
       "orig_slug": "tech-media-telecom-roundup-market-talk-ad9a115d"
     },
     {
+      "title": "IBM CEO Arvind Krishna Breaks Down Why A 100-Gigawatt AGI Push Could Cost $8T, Says That's 'Today's Number'",
+      "link": "https://finance.yahoo.com/news/ibm-ceo-arvind-krishna-breaks-020108714.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-13T02:01:08Z",
+      "image": "https://media.zenfs.com/en/Benzinga/30babce72a99401b5b0238f5802edd22",
+      "slug": "ibm-ceo-arvind-krishna-breaks-down-why-a-100-gigawatt-agi-push-could-cost-8t-say-85ec497d",
+      "orig_slug": "ibm-ceo-arvind-krishna-breaks-down-why-a-100-gigawatt-agi-push-could-cost-8t-say-85ec497d"
+    },
+    {
       "title": "Stock Market Today: Nasdaq Lags As Broadcom Slumps; Tesla Rival Soars (Live Coverage)",
       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-ai-stocks-broadcom-avgo-stock/?src=A00220&yptr=yahoo",
       "source": "finance.yahoo.com",
@@ -182,15 +380,6 @@
       "orig_slug": "stock-market-today-nasdaq-lags-as-broadcom-slumps-tesla-rival-soars-live-coverag-bd5ec913"
     },
     {
-      "title": "Affordability, AI Stocks, Parlays and Bad Bunny Top Investopedia’s Terms of the Year",
-      "link": "https://finance.yahoo.com/news/affordability-ai-stocks-parlays-bad-221431093.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-12T22:14:31Z",
-      "image": "https://media.zenfs.com/en/investopedia_245/74053e4a202e6a45b517f7b74f81321e",
-      "slug": "affordability-ai-stocks-parlays-and-bad-bunny-top-investopedias-terms-of-the-yea-671e4a3e",
-      "orig_slug": "affordability-ai-stocks-parlays-and-bad-bunny-top-investopedias-terms-of-the-yea-671e4a3e"
-    },
-    {
       "title": "Focus Financial CEO Nathanson to Step Down. Here’s His Successor.",
       "link": "https://www.barrons.com/advisor/articles/focus-financial-ceo-nathanson-birenbaum-af47ac4c?siteid=yhoof2&yptr=yahoo",
       "source": "finance.yahoo.com",
@@ -198,15 +387,6 @@
       "image": "",
       "slug": "focus-financial-ceo-nathanson-to-step-down-heres-his-successor-0c3f94d1",
       "orig_slug": "focus-financial-ceo-nathanson-to-step-down-heres-his-successor-0c3f94d1"
-    },
-    {
-      "title": "The WSJ Dollar Index Falls 0.32% This Week to 96.12",
-      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-risk-on-sentiment-may-support-f022b337?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-12T22:42:00Z",
-      "image": "",
-      "slug": "the-wsj-dollar-index-falls-032-this-week-to-9612-bf6dbb72",
-      "orig_slug": "the-wsj-dollar-index-falls-032-this-week-to-9612-bf6dbb72"
     },
     {
       "title": "Rare Bullish Inflows Send Lattice Semiconductor Higher",
@@ -225,177 +405,6 @@
       "image": "",
       "slug": "rsp-trade-benefits-from-market-breadth-and-sector-rotation-aae1e75c",
       "orig_slug": "rsp-trade-benefits-from-market-breadth-and-sector-rotation-aae1e75c"
-    },
-    {
-      "title": "XRP Stalls Despite Ripple’s OCC Win – Here’s The Institutional Catch",
-      "link": "https://finance.yahoo.com/news/xrp-stalls-despite-ripple-occ-222942768.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-12T22:29:42Z",
-      "image": "https://media.zenfs.com/en/cryptonews_us_711/01b4ae02b939e2630bfd8db7fa42f326",
-      "slug": "xrp-stalls-despite-ripples-occ-win-heres-the-institutional-catch-4ef64c93",
-      "orig_slug": "xrp-stalls-despite-ripples-occ-win-heres-the-institutional-catch-4ef64c93"
-    },
-    {
-      "title": "Stocks to Watch Friday Recap: Broadcom, Lululemon, Tilray Brands",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-12-2025/card/stocks-to-watch-friday-broadcom-lululemon-warner-bros--TOxfBfzLMtQuXHG9ywmH?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-12T21:46:34Z",
-      "image": "",
-      "slug": "stocks-to-watch-friday-recap-broadcom-lululemon-tilray-brands-b08c3008",
-      "orig_slug": "stocks-to-watch-friday-recap-broadcom-lululemon-tilray-brands-b08c3008"
-    },
-    {
-      "title": "Big Money Buyers Hunt Fox Shares",
-      "link": "https://finance.yahoo.com/news/big-money-buyers-hunt-fox-214431970.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-12T21:44:31Z",
-      "image": "https://media.zenfs.com/en/fx_empire_176/2e3c58df1147e63f419c8d4041638e85",
-      "slug": "big-money-buyers-hunt-fox-shares-b5e4196a",
-      "orig_slug": "big-money-buyers-hunt-fox-shares-b5e4196a"
-    },
-    {
-      "title": "Broadcom stock sinks after results show profit pressures, adding to investor fears over AI payoff",
-      "link": "https://finance.yahoo.com/news/broadcom-stock-sinks-after-results-show-profit-pressures-adding-to-investor-fears-over-ai-payoff-185026280.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-12T18:50:26Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/3ag2odUDRU8GFThjHf_HvA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/9de3cd40-a844-11f0-b7fc-3f764a96fba0",
-      "slug": "broadcom-stock-sinks-after-results-show-profit-pressures-adding-to-investor-fear-7d52390d",
-      "orig_slug": "broadcom-stock-sinks-after-results-show-profit-pressures-adding-to-investor-fear-7d52390d"
-    },
-    {
-      "title": "Daily ETF Flows: VOO Assets Swell",
-      "link": "https://finance.yahoo.com/news/daily-etf-flows-voo-assets-230006802.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-12T23:00:06Z",
-      "image": "https://media.zenfs.com/en/indexuniverse.com/1d45f9488d95ad21b16acbe33a9dfed0",
-      "slug": "daily-etf-flows-voo-assets-swell-35a337fd",
-      "orig_slug": "daily-etf-flows-voo-assets-swell-35a337fd"
-    },
-    {
-      "title": "Why Mitek Stock Jumped Today",
-      "link": "https://finance.yahoo.com/news/why-mitek-stock-jumped-today-221304436.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-12T22:13:04Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/2be8bcb9fe0b5c0df2b49d48e1b9b958",
-      "slug": "why-mitek-stock-jumped-today-2dbb0525",
-      "orig_slug": "why-mitek-stock-jumped-today-2dbb0525"
-    },
-    {
-      "title": "Wheat Closes with Friday Losses",
-      "link": "https://finance.yahoo.com/news/wheat-closes-friday-losses-231257220.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-12T23:12:57Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/493cfb332b49e7f51db53e8006689042",
-      "slug": "wheat-closes-with-friday-losses-ad1f0055",
-      "orig_slug": "wheat-closes-with-friday-losses-ad1f0055"
-    },
-    {
-      "title": "Corn Falls to Close the Week",
-      "link": "https://finance.yahoo.com/news/corn-falls-close-week-231257879.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-12T23:12:57Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/46a48deb4dd7067235edc3416ec9ef3c",
-      "slug": "corn-falls-to-close-the-week-93a51a1a",
-      "orig_slug": "corn-falls-to-close-the-week-93a51a1a"
-    },
-    {
-      "title": "Soybeans Continue Selling the Fact on Friday with Chinese Buying",
-      "link": "https://finance.yahoo.com/news/soybeans-continue-selling-fact-friday-231257344.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-12T23:12:57Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/68383ddf017ca74d3bc633bfbc022e0b",
-      "slug": "soybeans-continue-selling-the-fact-on-friday-with-chinese-buying-d5014b8d",
-      "orig_slug": "soybeans-continue-selling-the-fact-on-friday-with-chinese-buying-d5014b8d"
-    },
-    {
-      "title": "Cotton Closes the Week with Weakness",
-      "link": "https://finance.yahoo.com/news/cotton-closes-week-weakness-231258367.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-12T23:12:58Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/cf8da744b66fec898f6801271a67563d",
-      "slug": "cotton-closes-the-week-with-weakness-f1545d09",
-      "orig_slug": "cotton-closes-the-week-with-weakness-f1545d09"
-    },
-    {
-      "title": "Overall Spreads Remain Tight Even As Oracle Debt Risk Jumps",
-      "link": "https://finance.yahoo.com/video/overall-spreads-remain-tight-even-220814776.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-12T22:08:14Z",
-      "image": "https://media.zenfs.com/en/bloomberg_markets_video_2/6abb603878f97aa05898229cca265bf8",
-      "slug": "overall-spreads-remain-tight-even-as-oracle-debt-risk-jumps-50749f3b",
-      "orig_slug": "overall-spreads-remain-tight-even-as-oracle-debt-risk-jumps-50749f3b"
-    },
-    {
-      "title": "Robinhood Trips Sell Signal, Cathie Wood's ARK Funds Buy The Dip",
-      "link": "https://www.investors.com/news/robinhood-stock-monthly-metrics-cathie-wood-ark-invest-bough-dip/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-12T21:41:07Z",
-      "image": "",
-      "slug": "robinhood-trips-sell-signal-cathie-woods-ark-funds-buy-the-dip-fae7a47c",
-      "orig_slug": "robinhood-trips-sell-signal-cathie-woods-ark-funds-buy-the-dip-fae7a47c"
-    },
-    {
-      "title": "Wealthfront Edges Higher in Muted Stock-Market Debut",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-12-2025/card/wealthfront-edges-higher-in-muted-stock-market-debut-tgD8Vui4wdpzWMz2YlmQ?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-12T21:39:57Z",
-      "image": "",
-      "slug": "wealthfront-edges-higher-in-muted-stock-market-debut-43be07ce",
-      "orig_slug": "wealthfront-edges-higher-in-muted-stock-market-debut-43be07ce"
-    },
-    {
-      "title": "FHA loan closing costs: What they cover and how much you'll pay",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/fha-loan-closing-costs-211200199.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2024-08-08T21:12:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/rtfuRVkGL_NTXhyaJU0ifg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-03/a07b29a0-fba0-11ef-b3dc-9f7306bb50e9",
-      "slug": "fha-loan-closing-costs-what-they-cover-and-how-much-youll-pay-740251a4",
-      "orig_slug": "fha-loan-closing-costs-what-they-cover-and-how-much-youll-pay-740251a4"
-    },
-    {
-      "title": "Citi Says Buy GE Aerospace, Market Cap Could Hit $1 Trillion",
-      "link": "https://www.investors.com/news/ge-aerospace-ge-stock-buy-rating-bullish-move-50-day-line-flat-base/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-12T21:39:03Z",
-      "image": "",
-      "slug": "citi-says-buy-ge-aerospace-market-cap-could-hit-1-trillion-16d64c55",
-      "orig_slug": "citi-says-buy-ge-aerospace-market-cap-could-hit-1-trillion-16d64c55"
-    },
-    {
-      "title": "The Best Holiday Present You Can Give Yourself? Costco Stock",
-      "link": "https://finance.yahoo.com/news/best-holiday-present-yourself-costco-223300721.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-12T22:33:00Z",
-      "image": "https://media.zenfs.com/en/marketbeat_955/081d747f8f034c28d80c418809113ecf",
-      "slug": "the-best-holiday-present-you-can-give-yourself-costco-stock-4dbeaf3c",
-      "orig_slug": "the-best-holiday-present-you-can-give-yourself-costco-stock-4dbeaf3c"
-    },
-    {
-      "title": "Coinbase To Join Prediction Markets, Launch Tokenized Stocks",
-      "link": "https://www.investors.com/news/coinbase-stock-prediction-markets-tokenized-stocks-tokenized-equities/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-12T21:37:31Z",
-      "image": "",
-      "slug": "coinbase-to-join-prediction-markets-launch-tokenized-stocks-b69f3df5",
-      "orig_slug": "coinbase-to-join-prediction-markets-launch-tokenized-stocks-b69f3df5"
-    },
-    {
-      "title": "BW Energy Makes Strategic Angola Entry with Chevron-Operated Block Deal",
-      "link": "https://finance.yahoo.com/news/bw-energy-makes-strategic-angola-213701396.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-12T21:37:01Z",
-      "image": "https://media.zenfs.com/en/oilprice.com/2fad63838a213a705e2806b541b62c64",
-      "slug": "bw-energy-makes-strategic-angola-entry-with-chevron-operated-block-deal-7e8082e2",
-      "orig_slug": "bw-energy-makes-strategic-angola-entry-with-chevron-operated-block-deal-7e8082e2"
-    },
-    {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq sink to cap brutal week for tech stocks",
-      "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-sink-to-cap-brutal-week-for-tech-stocks-210016552.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-12T21:00:16Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/KAgPCCibmub20W307ERoiA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/7f40d180-d6e3-11f0-be77-df4797adbd7e",
-      "slug": "stock-market-today-dow-sp-500-nasdaq-sink-to-cap-brutal-week-for-tech-stocks-c393bb19",
-      "orig_slug": "stock-market-today-dow-sp-500-nasdaq-sink-to-cap-brutal-week-for-tech-stocks-c393bb19"
     }
   ]
 }
