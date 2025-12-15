@@ -1,86 +1,14 @@
 {
-  "updated": "2025-12-15T05:19:22Z",
+  "updated": "2025-12-15T06:22:23Z",
   "items": [
     {
-      "title": "The New Power Rules Driving Europe's Battery Storage Boom",
-      "link": "https://finance.yahoo.com/news/power-rules-driving-europes-battery-180000544.html",
+      "title": "These Three Metrics Show Bitcoin Found Strong Support Near $80,000",
+      "link": "https://finance.yahoo.com/news/three-metrics-show-bitcoin-found-190000309.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-13T18:00:00Z",
-      "image": "https://media.zenfs.com/en/oilprice.com/a35c614ff878b48c779d2020c429bc2a",
-      "slug": "the-new-power-rules-driving-europes-battery-storage-boom-639dc08c",
-      "orig_slug": "the-new-power-rules-driving-europes-battery-storage-boom-639dc08c"
-    },
-    {
-      "title": "The Absolute Number 1 Reason to Claim Social Security at 65",
-      "link": "https://finance.yahoo.com/news/absolute-number-1-reason-claim-180056233.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-13T18:00:56Z",
-      "image": "https://media.zenfs.com/en/24_7_wall_st__718/6eec9ea629efb2d459c94678f1149991",
-      "slug": "the-absolute-number-1-reason-to-claim-social-security-at-65-30f2cd48",
-      "orig_slug": "the-absolute-number-1-reason-to-claim-social-security-at-65-30f2cd48"
-    },
-    {
-      "title": "Morgan Stanley Maintains An Equal Weight Rating On The Travelers Companies, Inc. (TRV)",
-      "link": "https://finance.yahoo.com/news/morgan-stanley-maintains-equal-weight-174218711.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-13T17:42:18Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/8fb48c2b7c10399cbde85ad4dd7ed615",
-      "slug": "morgan-stanley-maintains-an-equal-weight-rating-on-the-travelers-companies-inc-t-546e2763",
-      "orig_slug": "morgan-stanley-maintains-an-equal-weight-rating-on-the-travelers-companies-inc-t-546e2763"
-    },
-    {
-      "title": "Goldman Sachs Is Bullish On The Boeing Company (BA)",
-      "link": "https://finance.yahoo.com/news/goldman-sachs-bullish-boeing-company-174159465.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-13T17:41:59Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/281b7bd3cd729ba58c01ccc8bd1acc77",
-      "slug": "goldman-sachs-is-bullish-on-the-boeing-company-ba-965ba8db",
-      "orig_slug": "goldman-sachs-is-bullish-on-the-boeing-company-ba-965ba8db"
-    },
-    {
-      "title": "Walmart Inc. Common Stock (WMT) Formally Relocates On NASDAQ",
-      "link": "https://finance.yahoo.com/news/walmart-inc-common-stock-wmt-174137958.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-13T17:41:37Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/572eff25f62bb4543c0e05d4966360af",
-      "slug": "walmart-inc-common-stock-wmt-formally-relocates-on-nasdaq-711147df",
-      "orig_slug": "walmart-inc-common-stock-wmt-formally-relocates-on-nasdaq-711147df"
-    },
-    {
-      "title": "Morgan Stanley Maintains An Equal Weight Rating On JPMorgan Chase & Co. (JPM)",
-      "link": "https://finance.yahoo.com/news/morgan-stanley-maintains-equal-weight-174116438.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-13T17:41:16Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/f82652d0e7c350dea8b9d7c85e94e30e",
-      "slug": "morgan-stanley-maintains-an-equal-weight-rating-on-jpmorgan-chase-co-jpm-e4702e85",
-      "orig_slug": "morgan-stanley-maintains-an-equal-weight-rating-on-jpmorgan-chase-co-jpm-e4702e85"
-    },
-    {
-      "title": "What Every Nucor Investor Should Know Before Buying",
-      "link": "https://finance.yahoo.com/news/every-nucor-investor-know-buying-174800275.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-13T17:48:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/af1efc868ebc35033e4c1a8b0889bf0a",
-      "slug": "what-every-nucor-investor-should-know-before-buying-4a03d8f9",
-      "orig_slug": "what-every-nucor-investor-should-know-before-buying-4a03d8f9"
-    },
-    {
-      "title": "Cisco Systems, Inc. (CSCO) Shares Hit a record high For The First Time In Over 25 Years, Bloomberg Reports",
-      "link": "https://finance.yahoo.com/news/cisco-systems-inc-csco-shares-174059535.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-13T17:40:59Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/d25b3866bc1552f975e750324a887a7e",
-      "slug": "cisco-systems-inc-csco-shares-hit-a-record-high-for-the-first-time-in-over-25-ye-8d63d554",
-      "orig_slug": "cisco-systems-inc-csco-shares-hit-a-record-high-for-the-first-time-in-over-25-ye-8d63d554"
-    },
-    {
-      "title": "SpaceX Is Worth $800 Billion, Report Says. It’s Only the Beginning.",
-      "link": "https://www.barrons.com/articles/spacex-ipo-elon-musk-tesla-xai-0e4a0731?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-13T17:32:00Z",
-      "image": "",
-      "slug": "spacex-is-worth-800-billion-report-says-its-only-the-beginning-85d59e25",
-      "orig_slug": "spacex-is-worth-800-billion-report-says-its-only-the-beginning-85d59e25"
+      "pubDate": "2025-12-13T19:00:00Z",
+      "image": "https://media.zenfs.com/en/coindesk_75/0cb86597f00fee82e6042416bcc30536",
+      "slug": "these-three-metrics-show-bitcoin-found-strong-support-near-80000-732015d2",
+      "orig_slug": "these-three-metrics-show-bitcoin-found-strong-support-near-80000-732015d2"
     },
     {
       "title": "Mortgage and refinance interest rates today, December 13, 2025: Rates barely react to the Fed's rate cut",
@@ -101,15 +29,6 @@
       "orig_slug": "i-inherited-my-moms-ira-and-must-take-10k-in-2025-rmds-but-theres-no-cash-what-s-0d6fce9d"
     },
     {
-      "title": "46-year-old bankrupt Italian chain closes most restaurants",
-      "link": "https://finance.yahoo.com/news/46-old-bankrupt-italian-chain-174700790.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-13T17:47:00Z",
-      "image": "https://media.zenfs.com/en/thestreet_881/463ce63da97942596302d052e83f04cf",
-      "slug": "46-year-old-bankrupt-italian-chain-closes-most-restaurants-ced491ef",
-      "orig_slug": "46-year-old-bankrupt-italian-chain-closes-most-restaurants-ced491ef"
-    },
-    {
       "title": "OpenAI Ends ‘Vesting Cliff’ for New Employees in Compensation-Policy Change",
       "link": "https://www.wsj.com/tech/ai/openai-ends-vesting-cliff-for-new-employees-in-compensation-policy-change-d4c4c2cd?siteid=yhoof2&yptr=yahoo",
       "source": "finance.yahoo.com",
@@ -126,6 +45,15 @@
       "image": "https://media.zenfs.com/en/oilprice.com/b170796a2a88a46bff00feda4646af7d",
       "slug": "venezuelas-oil-future-hinges-on-us-tensions-and-possible-regime-shift-85f8edf7",
       "orig_slug": "venezuelas-oil-future-hinges-on-us-tensions-and-possible-regime-shift-85f8edf7"
+    },
+    {
+      "title": "Tony Robbins Says Warren Buffett Told Him The Portfolio He'd Choose To Protect His Family's Wealth — He 'Grabbed My Arm' And Said, 'It's So Simple'",
+      "link": "https://finance.yahoo.com/news/tony-robbins-says-warren-buffett-190113071.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-13T19:01:13Z",
+      "image": "https://media.zenfs.com/en/Benzinga/079052331f2efd84ba4bcba199225cee",
+      "slug": "tony-robbins-says-warren-buffett-told-him-the-portfolio-hed-choose-to-protect-hi-acb1fc1b",
+      "orig_slug": "tony-robbins-says-warren-buffett-told-him-the-portfolio-hed-choose-to-protect-hi-acb1fc1b"
     },
     {
       "title": "Readers’ Strategies for Preparing Their Partners to Manage Money After They Die",
@@ -146,15 +74,6 @@
       "orig_slug": "best-high-yield-savings-interest-rates-today-december-13-2025-earn-up-to-43-apy-64cd3b42"
     },
     {
-      "title": "Chick-fil-A keeps quietly raising prices",
-      "link": "https://finance.yahoo.com/news/chick-fil-keeps-winning-big-180700154.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-13T18:07:00Z",
-      "image": "https://media.zenfs.com/en/thestreet_881/40616f6800bb314e6e04f96c6ec09f2f",
-      "slug": "chick-fil-a-keeps-quietly-raising-prices-8bd1961a",
-      "orig_slug": "chick-fil-a-keeps-quietly-raising-prices-8bd1961a"
-    },
-    {
       "title": "Best CD rates today, December 13, 2025 (best account provides 4.25% APY)",
       "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-december-13-2025-110040664.html",
       "source": "finance.yahoo.com",
@@ -171,6 +90,15 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/W0IqMRID_AsrQoqbpHUG1A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/678943f0-1cdb-11f0-bfb7-b3f563b0ea90",
       "slug": "best-money-market-account-rates-today-december-13-2025-best-account-provides-426-de516ca1",
       "orig_slug": "best-money-market-account-rates-today-december-13-2025-best-account-provides-426-de516ca1"
+    },
+    {
+      "title": "Is Archer Aviation a Once-in-a-Decade Buying Opportunity in 2026? The Answer May Surprise You.",
+      "link": "https://finance.yahoo.com/news/archer-aviation-once-decade-buying-190300201.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-13T19:03:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/8c25b8b0e9d601f1b93a2025e6c72414",
+      "slug": "is-archer-aviation-a-once-in-a-decade-buying-opportunity-in-2026-the-answer-may--2e087bc0",
+      "orig_slug": "is-archer-aviation-a-once-in-a-decade-buying-opportunity-in-2026-the-answer-may--2e087bc0"
     },
     {
       "title": "HELOC rates today, December 13, 2025: Moving lower with the prime rate",
@@ -191,15 +119,6 @@
       "orig_slug": "the-publicity-war-between-att-and-t-mobile-is-getting-ugly-15f6bb5e"
     },
     {
-      "title": "The Smartest Dividend Stocks to Buy With $1,000 Right Now",
-      "link": "https://finance.yahoo.com/news/smartest-dividend-stocks-buy-1-180700951.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-13T18:07:00Z",
-      "image": "",
-      "slug": "the-smartest-dividend-stocks-to-buy-with-1000-right-now-df8304a7",
-      "orig_slug": "the-smartest-dividend-stocks-to-buy-with-1000-right-now-df8304a7"
-    },
-    {
       "title": "The Eerie Parallels Between AI Mania and the Dot-Com Bubble",
       "link": "https://www.wsj.com/finance/stocks/the-eerie-parallels-between-ai-mania-and-the-dot-com-bubble-f99be6fe?siteid=yhoof2&yptr=yahoo",
       "source": "finance.yahoo.com",
@@ -216,6 +135,15 @@
       "image": "https://media.zenfs.com/en/insidermonkey.com/a8bdc2cf0261ba33610b6cd65efab17c",
       "slug": "hsbc-and-jpmorgan-positive-on-visa-v-e4ce34f4",
       "orig_slug": "hsbc-and-jpmorgan-positive-on-visa-v-e4ce34f4"
+    },
+    {
+      "title": "Here’s How MercadoLibre Gets to $3,000 Per Share in 2026",
+      "link": "https://finance.yahoo.com/news/mercadolibre-gets-3-000-per-184743423.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-13T18:47:43Z",
+      "image": "https://media.zenfs.com/en/24_7_wall_st__718/a55c7590d32c8c464a9fa910449a37c8",
+      "slug": "heres-how-mercadolibre-gets-to-3000-per-share-in-2026-23d45bc4",
+      "orig_slug": "heres-how-mercadolibre-gets-to-3000-per-share-in-2026-23d45bc4"
     },
     {
       "title": "Is Mastercard (MA) One of the Most Promising Fintech Stocks to Invest In?",
@@ -236,15 +164,6 @@
       "orig_slug": "mercadolibre-meli-to-use-digit-robots-in-texas-warehouse-7badee94"
     },
     {
-      "title": "If You Had Invested $1,000 in Altria Group Stock 1 Year Ago, Here's How Much You Would Have Today",
-      "link": "https://finance.yahoo.com/news/had-invested-1-000-altria-174500612.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-13T17:45:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/794e56c52fd05dff3f13095141cad89b",
-      "slug": "if-you-had-invested-1000-in-altria-group-stock-1-year-ago-heres-how-much-you-wou-55fa1142",
-      "orig_slug": "if-you-had-invested-1000-in-altria-group-stock-1-year-ago-heres-how-much-you-wou-55fa1142"
-    },
-    {
       "title": "Analysts Optimistic on Nu Holdings (NU)",
       "link": "https://finance.yahoo.com/news/analysts-optimistic-nu-holdings-nu-041352727.html",
       "source": "finance.yahoo.com",
@@ -261,6 +180,15 @@
       "image": "https://media.zenfs.com/en/insidermonkey.com/f315bd4cef8e24389977180bcbe142f0",
       "slug": "analysts-stay-bullish-on-intuit-intu-after-strong-q1-results-f7e06f12",
       "orig_slug": "analysts-stay-bullish-on-intuit-intu-after-strong-q1-results-f7e06f12"
+    },
+    {
+      "title": "Think You Know Beyond Meat? Here's 1 Little-Known Fact You Can't Overlook.",
+      "link": "https://finance.yahoo.com/news/think-know-beyond-meat-heres-184600750.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-13T18:46:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/321a86759a57500de6eeebf1f2e1ec69",
+      "slug": "think-you-know-beyond-meat-heres-1-little-known-fact-you-cant-overlook-f8dd5e70",
+      "orig_slug": "think-you-know-beyond-meat-heres-1-little-known-fact-you-cant-overlook-f8dd5e70"
     },
     {
       "title": "Citizens Keeps Market Outperform on Shopify (SHOP) After Winter ’26 Edition",
@@ -281,15 +209,6 @@
       "orig_slug": "baird-and-bofa-downgrade-paypal-holdings-pypl-19ab12de"
     },
     {
-      "title": "There have been head fakes before, but this time may be different as the latest stock rotation out of AI is just getting started, analysts say",
-      "link": "https://finance.yahoo.com/news/head-fakes-time-may-different-174355807.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-13T17:43:55Z",
-      "image": "https://media.zenfs.com/en/fortune_175/089dac540c87005f5a990939dc9c8575",
-      "slug": "there-have-been-head-fakes-before-but-this-time-may-be-different-as-the-latest-s-1989d799",
-      "orig_slug": "there-have-been-head-fakes-before-but-this-time-may-be-different-as-the-latest-s-1989d799"
-    },
-    {
       "title": "Here’s What Analysts Think About Fiserv (FISV)",
       "link": "https://finance.yahoo.com/news/analysts-think-fiserv-fisv-041359419.html",
       "source": "finance.yahoo.com",
@@ -306,6 +225,15 @@
       "image": "https://media.zenfs.com/en/insidermonkey.com/ec7cdbcb5520f1c412e1549972f60dcf",
       "slug": "cantor-cuts-robinhood-hood-price-target-keeps-overweight-rating-ccca98af",
       "orig_slug": "cantor-cuts-robinhood-hood-price-target-keeps-overweight-rating-ccca98af"
+    },
+    {
+      "title": "1 Reason UiPath Stock Could Beat the Market in 2026",
+      "link": "https://finance.yahoo.com/news/1-reason-uipath-stock-could-191500200.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-13T19:15:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/7e431f4362393ac69bf131aa8305597a",
+      "slug": "1-reason-uipath-stock-could-beat-the-market-in-2026-6fb9f10f",
+      "orig_slug": "1-reason-uipath-stock-could-beat-the-market-in-2026-6fb9f10f"
     },
     {
       "title": "Coinbase (COIN) to Launch Kalshi-Powered Prediction Market?",
@@ -326,15 +254,6 @@
       "orig_slug": "rbc-capital-and-td-cowen-stay-bullish-on-block-xyz-46a26d09"
     },
     {
-      "title": "Here's where billionaires are seeing the best investment opportunities in 2026",
-      "link": "https://finance.yahoo.com/news/heres-where-billionaires-seeing-best-181501865.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-13T18:15:01Z",
-      "image": "https://media.zenfs.com/en/business_insider_articles_888/11e75c5791232776ae45b57327d2f9b9",
-      "slug": "heres-where-billionaires-are-seeing-the-best-investment-opportunities-in-2026-6504975f",
-      "orig_slug": "heres-where-billionaires-are-seeing-the-best-investment-opportunities-in-2026-6504975f"
-    },
-    {
       "title": "Mixed Analyst Views on Affirm Holdings (AFRM)",
       "link": "https://finance.yahoo.com/news/mixed-analyst-views-affirm-holdings-041405154.html",
       "source": "finance.yahoo.com",
@@ -353,6 +272,15 @@
       "orig_slug": "benchmark-keeps-buy-on-grab-highlights-attractive-entry-point-8ea62d2a"
     },
     {
+      "title": "Can Block Shares Keep Running and Reach $100 in 2026?",
+      "link": "https://finance.yahoo.com/news/block-shares-keep-running-reach-192206445.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-13T19:22:06Z",
+      "image": "https://media.zenfs.com/en/24_7_wall_st__718/4befde0353fac2bc77d152d1901a87d7",
+      "slug": "can-block-shares-keep-running-and-reach-100-in-2026-3966d5f4",
+      "orig_slug": "can-block-shares-keep-running-and-reach-100-in-2026-3966d5f4"
+    },
+    {
       "title": "Analysts Turn Bullish on Toast (TOST)",
       "link": "https://finance.yahoo.com/news/analysts-turn-bullish-toast-tost-041408568.html",
       "source": "finance.yahoo.com",
@@ -362,67 +290,49 @@
       "orig_slug": "analysts-turn-bullish-on-toast-tost-6f4aac97"
     },
     {
-      "title": "Mortgage amortization: What is it, and how does it work?",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-amortization-160656311.html",
+      "title": "Trump’s ‘Run It Hot’ Economic Strategy May Keep Stocks Rolling. Not So Much for Bonds.",
+      "link": "https://www.barrons.com/articles/stock-bond-market-trump-run-it-hot-economy-16de1933?siteid=yhoof2&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-04-21T16:06:56Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/duaukL5QUvWQbEONLkqMJg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/736a7940-1575-11f0-ae75-23ca96610140",
-      "slug": "mortgage-amortization-what-is-it-and-how-does-it-work-d99fdcd4",
-      "orig_slug": "mortgage-amortization-what-is-it-and-how-does-it-work-d99fdcd4"
+      "pubDate": "2025-12-14T08:00:00Z",
+      "image": "",
+      "slug": "trumps-run-it-hot-economic-strategy-may-keep-stocks-rolling-not-so-much-for-bond-0528d6dd",
+      "orig_slug": "trumps-run-it-hot-economic-strategy-may-keep-stocks-rolling-not-so-much-for-bond-0528d6dd"
     },
     {
-      "title": "Jamie Dimon Poaches Buffett Insider Todd Combs, and Wall Street Is Reading Between the Lines",
-      "link": "https://finance.yahoo.com/news/jamie-dimon-poaches-buffett-insider-181604283.html",
+      "title": "Kymera Had a Big Week. This Secretive Hedge Fund Bought $172 Million of Its Stock.",
+      "link": "https://www.barrons.com/articles/kymera-stock-price-baker-brothers-0b0511b4?siteid=yhoof2&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-13T18:16:04Z",
-      "image": "https://media.zenfs.com/en/Benzinga/076742ced21ca2c81f1189cea0affca0",
-      "slug": "jamie-dimon-poaches-buffett-insider-todd-combs-and-wall-street-is-reading-betwee-25e982fa",
-      "orig_slug": "jamie-dimon-poaches-buffett-insider-todd-combs-and-wall-street-is-reading-betwee-25e982fa"
+      "pubDate": "2025-12-14T08:30:00Z",
+      "image": "",
+      "slug": "kymera-had-a-big-week-this-secretive-hedge-fund-bought-172-million-of-its-stock-ea93a145",
+      "orig_slug": "kymera-had-a-big-week-this-secretive-hedge-fund-bought-172-million-of-its-stock-ea93a145"
     },
     {
-      "title": "How to use an FHA construction loan to build your dream home",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/fha-construction-loan-184221466.html",
+      "title": "Carrier Global Corporation (CARR) Struggling Under Multiple Downward Target Price Adjustments",
+      "link": "https://finance.yahoo.com/news/carrier-global-corporation-carr-struggling-094354628.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2024-10-10T18:42:21Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/QWMeLoyV0A2SRlCIdAW51A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-09/e8ea47a0-7a8d-11ef-bf9a-3a4dc1cd9b76",
-      "slug": "how-to-use-an-fha-construction-loan-to-build-your-dream-home-d0b15e86",
-      "orig_slug": "how-to-use-an-fha-construction-loan-to-build-your-dream-home-d0b15e86"
+      "pubDate": "2025-12-14T09:43:54Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/373cd99288a23b063931478b57092742",
+      "slug": "carrier-global-corporation-carr-struggling-under-multiple-downward-target-price--82203196",
+      "orig_slug": "carrier-global-corporation-carr-struggling-under-multiple-downward-target-price--82203196"
     },
     {
-      "title": "How to use an FHA 203(k) loan to renovate a home",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/fha-203k-loan-213628531.html",
+      "title": "2 Stocks That Turned $1,000 Into $1 Million (or More)",
+      "link": "https://finance.yahoo.com/news/2-stocks-turned-1-000-192500982.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2024-10-02T21:36:28Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/fTn93BdJYjqWcAWqUMEM_g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-08/b4a12880-6aff-11ef-9df6-5aaeb37f8ff3",
-      "slug": "how-to-use-an-fha-203k-loan-to-renovate-a-home-e30307de",
-      "orig_slug": "how-to-use-an-fha-203k-loan-to-renovate-a-home-e30307de"
+      "pubDate": "2025-12-13T19:25:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/bd4e511d31cf470ffe00e03ac3b4aa85",
+      "slug": "2-stocks-that-turned-1000-into-1-million-or-more-7e4fcc0f",
+      "orig_slug": "2-stocks-that-turned-1000-into-1-million-or-more-7e4fcc0f"
     },
     {
-      "title": "FHA loan closing costs: What they cover and how much you'll pay",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/fha-loan-closing-costs-211200199.html",
+      "title": "Here’s What Blackwell Portfolio Expansion Means for Super Micro Computer (SMCI)",
+      "link": "https://finance.yahoo.com/news/blackwell-portfolio-expansion-means-super-094432090.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2024-08-08T21:12:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/rtfuRVkGL_NTXhyaJU0ifg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-03/a07b29a0-fba0-11ef-b3dc-9f7306bb50e9",
-      "slug": "fha-loan-closing-costs-what-they-cover-and-how-much-youll-pay-740251a4",
-      "orig_slug": "fha-loan-closing-costs-what-they-cover-and-how-much-youll-pay-740251a4"
-    },
-    {
-      "title": "FHA cash-out refinance: Requirements and guidelines",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/fha-cash-out-refinance-223928777.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2024-05-29T22:39:28Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/oci.BnfePYIybRKuAtWA_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/330f1ee0-f5ec-11ee-bbdb-8bdc83db5b0e",
-      "slug": "fha-cash-out-refinance-requirements-and-guidelines-917d63bd",
-      "orig_slug": "fha-cash-out-refinance-requirements-and-guidelines-917d63bd"
-    },
-    {
-      "title": "Has CELH Stock Been Good for Investors?",
-      "link": "https://finance.yahoo.com/news/celh-stock-good-investors-182000343.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-13T18:20:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/5a96a3ad7a9404e1d176e0cbb43b82f9",
-      "slug": "has-celh-stock-been-good-for-investors-0263fcc1",
-      "orig_slug": "has-celh-stock-been-good-for-investors-0263fcc1"
+      "pubDate": "2025-12-14T09:44:32Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/d3570b25b4644d37337745a1eaa233d5",
+      "slug": "heres-what-blackwell-portfolio-expansion-means-for-super-micro-computer-smci-64fc93fd",
+      "orig_slug": "heres-what-blackwell-portfolio-expansion-means-for-super-micro-computer-smci-64fc93fd"
     },
     {
       "title": "Best money market account rates today, December 14, 2025 (best account provides 4.26% APY)",
@@ -450,6 +360,96 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/j3pIPh4Ou1ooyGj5oigsTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/a04144a0-4b7a-11ef-bffd-2479280852e3",
       "slug": "best-high-yield-savings-interest-rates-today-december-14-2025-earn-up-to-43-apy-decaec14",
       "orig_slug": "best-high-yield-savings-interest-rates-today-december-14-2025-earn-up-to-43-apy-decaec14"
+    },
+    {
+      "title": "A Retired Couple Followed Dave Ramsey's Advice, But Went From Being Debt-Free To Opening 13 Credit Cards And Taking Out Three Personal Loans",
+      "link": "https://finance.yahoo.com/news/retired-couple-followed-dave-ramseys-193116275.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-13T19:31:16Z",
+      "image": "https://media.zenfs.com/en/Benzinga/ba6b17e898fffc72a54c88ffc0dbe305",
+      "slug": "a-retired-couple-followed-dave-ramseys-advice-but-went-from-being-debt-free-to-o-7b2e2e44",
+      "orig_slug": "a-retired-couple-followed-dave-ramseys-advice-but-went-from-being-debt-free-to-o-7b2e2e44"
+    },
+    {
+      "title": "HELOC rates today, December 14, 2025: The lower prime rate of 6.75% is causing lenders to reprice",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-interest-rates-today-sunday-december-14-2025-110050688.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-14T11:00:50Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/DVKxTTZK1v_brFRCxJvfrg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/9858bdf0-3ff7-11f0-8dbd-c3dbfc02bc47",
+      "slug": "heloc-rates-today-december-14-2025-the-lower-prime-rate-of-675-is-causing-lender-8f808082",
+      "orig_slug": "heloc-rates-today-december-14-2025-the-lower-prime-rate-of-675-is-causing-lender-8f808082"
+    },
+    {
+      "title": "Mortgage amortization: What is it, and how does it work?",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-amortization-160656311.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-04-21T16:06:56Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/duaukL5QUvWQbEONLkqMJg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/736a7940-1575-11f0-ae75-23ca96610140",
+      "slug": "mortgage-amortization-what-is-it-and-how-does-it-work-d99fdcd4",
+      "orig_slug": "mortgage-amortization-what-is-it-and-how-does-it-work-d99fdcd4"
+    },
+    {
+      "title": "How to use an FHA construction loan to build your dream home",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/fha-construction-loan-184221466.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2024-10-10T18:42:21Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/QWMeLoyV0A2SRlCIdAW51A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-09/e8ea47a0-7a8d-11ef-bf9a-3a4dc1cd9b76",
+      "slug": "how-to-use-an-fha-construction-loan-to-build-your-dream-home-d0b15e86",
+      "orig_slug": "how-to-use-an-fha-construction-loan-to-build-your-dream-home-d0b15e86"
+    },
+    {
+      "title": "How to use an FHA 203(k) loan to renovate a home",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/fha-203k-loan-213628531.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2024-10-02T21:36:28Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/fTn93BdJYjqWcAWqUMEM_g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-08/b4a12880-6aff-11ef-9df6-5aaeb37f8ff3",
+      "slug": "how-to-use-an-fha-203k-loan-to-renovate-a-home-e30307de",
+      "orig_slug": "how-to-use-an-fha-203k-loan-to-renovate-a-home-e30307de"
+    },
+    {
+      "title": "Read This Before Buying Krispy Kreme Stock",
+      "link": "https://finance.yahoo.com/news/read-buying-krispy-kreme-stock-183300591.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-13T18:33:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/c8cc364b6025ddfdf5881da1d821e857",
+      "slug": "read-this-before-buying-krispy-kreme-stock-aea4f17f",
+      "orig_slug": "read-this-before-buying-krispy-kreme-stock-aea4f17f"
+    },
+    {
+      "title": "FHA loan closing costs: What they cover and how much you'll pay",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/fha-loan-closing-costs-211200199.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2024-08-08T21:12:00Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/rtfuRVkGL_NTXhyaJU0ifg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-03/a07b29a0-fba0-11ef-b3dc-9f7306bb50e9",
+      "slug": "fha-loan-closing-costs-what-they-cover-and-how-much-youll-pay-740251a4",
+      "orig_slug": "fha-loan-closing-costs-what-they-cover-and-how-much-youll-pay-740251a4"
+    },
+    {
+      "title": "FHA cash-out refinance: Requirements and guidelines",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/fha-cash-out-refinance-223928777.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2024-05-29T22:39:28Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/oci.BnfePYIybRKuAtWA_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/330f1ee0-f5ec-11ee-bbdb-8bdc83db5b0e",
+      "slug": "fha-cash-out-refinance-requirements-and-guidelines-917d63bd",
+      "orig_slug": "fha-cash-out-refinance-requirements-and-guidelines-917d63bd"
+    },
+    {
+      "title": "6 AI tools freelancers can use to save money and time",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/ai-for-freelancers-201118618.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-12T20:11:18Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/cZsObJ9N8OtFPH7KfJoNTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/443466c0-d791-11f0-8bfe-8d4836038b76",
+      "slug": "6-ai-tools-freelancers-can-use-to-save-money-and-time-804532c5",
+      "orig_slug": "6-ai-tools-freelancers-can-use-to-save-money-and-time-804532c5"
+    },
+    {
+      "title": "FHA vs. conventional loan: Which should you choose?",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/comparison/fha-vs-conventional-loan-205802284.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2024-05-28T20:58:02Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/piptHNWZG4BlW.dJPk5R2Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/1a762500-1d0f-11ef-9e72-e0a15e2de466",
+      "slug": "fha-vs-conventional-loan-which-should-you-choose-fdf29a86",
+      "orig_slug": "fha-vs-conventional-loan-which-should-you-choose-fdf29a86"
     }
   ]
 }
