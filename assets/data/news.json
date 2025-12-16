@@ -1,14 +1,23 @@
 {
-  "updated": "2025-12-16T09:18:31Z",
+  "updated": "2025-12-16T10:15:06Z",
   "items": [
     {
-      "title": "TON Foundation's OpenPayd Alliance Targets Improved Crypto-to-Fiat Ramps",
-      "link": "https://finance.yahoo.com/news/ton-foundations-openpayd-alliance-targets-085145151.html",
+      "title": "China puts anti-dumping tariff of up to 18.9% on imports of pork from the EU",
+      "link": "https://finance.yahoo.com/news/china-puts-anti-dumping-tariff-095718494.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-16T08:51:45Z",
-      "image": "https://media.zenfs.com/en/ccn_928/884a92f67edc24aee17bcbd6ad8f07d4",
-      "slug": "ton-foundations-openpayd-alliance-targets-improved-crypto-to-fiat-ramps-9723b210",
-      "orig_slug": "ton-foundations-openpayd-alliance-targets-improved-crypto-to-fiat-ramps-9723b210"
+      "pubDate": "2025-12-16T09:57:18Z",
+      "image": "https://media.zenfs.com/en/ap_finance_articles_694/677610018a66b0c00e920f69b1cf3bb4",
+      "slug": "china-puts-anti-dumping-tariff-of-up-to-189-on-imports-of-pork-from-the-eu-60e797da",
+      "orig_slug": "china-puts-anti-dumping-tariff-of-up-to-189-on-imports-of-pork-from-the-eu-60e797da"
+    },
+    {
+      "title": "Payment fraud in EEA touched €4.2bn in 2024, EBA-ECB report finds",
+      "link": "https://finance.yahoo.com/news/payment-fraud-eea-touched-4-095137052.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-16T09:51:37Z",
+      "image": "https://media.zenfs.com/en/electronic_payments_938/ce7eb352a6506f83e1cbff53c0c9c4e2",
+      "slug": "payment-fraud-in-eea-touched-42bn-in-2024-eba-ecb-report-finds-ebdf6752",
+      "orig_slug": "payment-fraud-in-eea-touched-42bn-in-2024-eba-ecb-report-finds-ebdf6752"
     },
     {
       "title": "Stock market today: Dow, S&P 500, Nasdaq futures slide with all eyes on delayed jobs report",
@@ -20,13 +29,103 @@
       "orig_slug": "stock-market-today-dow-sp-500-nasdaq-futures-slide-with-all-eyes-on-delayed-jobs-074c7097"
     },
     {
-      "title": "TotalEnergies wins 21-year deal to power Google data centres in Malaysia",
-      "link": "https://finance.yahoo.com/news/totalenergies-wins-21-deal-power-074730734.html",
+      "title": "Jobs Data, Inflation Report, Micron Earnings: Coming This Week",
+      "link": "https://www.wsj.com/livecoverage/jobs-report-stock-market-today-12-16-2025/card/jobs-data-inflation-report-micron-earnings-coming-this-week-XziUxWmQQmIFm3mmpn6R?siteid=yhoof2&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-16T07:47:30Z",
-      "image": "https://media.zenfs.com/en/reuters-finance.com/da2e08d88b2d5cb03f7174ae9e4c742d",
-      "slug": "totalenergies-wins-21-year-deal-to-power-google-data-centres-in-malaysia-78821ddd",
-      "orig_slug": "totalenergies-wins-21-year-deal-to-power-google-data-centres-in-malaysia-78821ddd"
+      "pubDate": "2025-12-16T09:31:28Z",
+      "image": "",
+      "slug": "jobs-data-inflation-report-micron-earnings-coming-this-week-f07d9faf",
+      "orig_slug": "jobs-data-inflation-report-micron-earnings-coming-this-week-f07d9faf"
+    },
+    {
+      "title": "This Week Is a Central-Bank Bonanza",
+      "link": "https://www.wsj.com/livecoverage/jobs-report-stock-market-today-12-16-2025/card/this-week-is-a-central-bank-bonanza-Aut6zoISTZNKy1AJ2EeQ?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-16T09:29:10Z",
+      "image": "",
+      "slug": "this-week-is-a-central-bank-bonanza-8ce84bcd",
+      "orig_slug": "this-week-is-a-central-bank-bonanza-8ce84bcd"
+    },
+    {
+      "title": "Peace Hopes and Data Suspense Send Global Markets, U.S. Futures Down",
+      "link": "https://www.wsj.com/finance/stocks/peace-hopes-and-data-suspense-send-global-markets-u-s-futures-down-98168155?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-16T09:27:00Z",
+      "image": "",
+      "slug": "peace-hopes-and-data-suspense-send-global-markets-us-futures-down-cf1c31a6",
+      "orig_slug": "peace-hopes-and-data-suspense-send-global-markets-us-futures-down-cf1c31a6"
+    },
+    {
+      "title": "Coinbase Unveils New Perp Listings — Which Altcoins Made the Cut?",
+      "link": "https://finance.yahoo.com/news/coinbase-unveils-perp-listings-altcoins-094715424.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-16T09:47:15Z",
+      "image": "https://media.zenfs.com/en/ccn_928/157a2a6e7e57cae6462282132a370de1",
+      "slug": "coinbase-unveils-new-perp-listings-which-altcoins-made-the-cut-17d6bd90",
+      "orig_slug": "coinbase-unveils-new-perp-listings-which-altcoins-made-the-cut-17d6bd90"
+    },
+    {
+      "title": "Gold Slips Ahead of Key U.S. Data",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-steady-ahead-of-u-s-employment-report-66ebf1ce?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-16T09:20:00Z",
+      "image": "",
+      "slug": "gold-slips-ahead-of-key-us-data-a91691b1",
+      "orig_slug": "gold-slips-ahead-of-key-us-data-a91691b1"
+    },
+    {
+      "title": "Heard on the Street Monday Recap: AI Burnout Builds",
+      "link": "https://www.wsj.com/livecoverage/jobs-report-stock-market-today-12-16-2025/card/heard-on-the-street-monday-recap-ai-burnout-builds-R0abtBOnoPu2y5vhIrI0?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-16T09:16:05Z",
+      "image": "",
+      "slug": "heard-on-the-street-monday-recap-ai-burnout-builds-efe06f67",
+      "orig_slug": "heard-on-the-street-monday-recap-ai-burnout-builds-efe06f67"
+    },
+    {
+      "title": "TotalEnergies Secures 21-Year Solar Power Deal With Google in Malaysia",
+      "link": "https://finance.yahoo.com/news/totalenergies-secures-21-solar-power-091121473.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-16T09:11:21Z",
+      "image": "https://media.zenfs.com/en/oilprice.com/83400ae10e241effe29f33cd3366bbdf",
+      "slug": "totalenergies-secures-21-year-solar-power-deal-with-google-in-malaysia-dd2007ff",
+      "orig_slug": "totalenergies-secures-21-year-solar-power-deal-with-google-in-malaysia-dd2007ff"
+    },
+    {
+      "title": "German 10-Year Bund Yield Falls After Flash PMI Misses Forecasts",
+      "link": "https://www.wsj.com/finance/investing/jgb-futures-edge-lower-amid-possible-position-adjustments-1fd0f147?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-16T08:54:00Z",
+      "image": "",
+      "slug": "german-10-year-bund-yield-falls-after-flash-pmi-misses-forecasts-62d48ec3",
+      "orig_slug": "german-10-year-bund-yield-falls-after-flash-pmi-misses-forecasts-62d48ec3"
+    },
+    {
+      "title": "UK’s FRC probes EY’s audit of Shell 2024 financial statements",
+      "link": "https://finance.yahoo.com/news/uk-frc-probes-ey-audit-094227193.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-16T09:42:27Z",
+      "image": "https://media.zenfs.com/en/international_accounting_bulletin_542/7fcedd8fcb5418946b1154a14e92ee4c",
+      "slug": "uks-frc-probes-eys-audit-of-shell-2024-financial-statements-b4dc0141",
+      "orig_slug": "uks-frc-probes-eys-audit-of-shell-2024-financial-statements-b4dc0141"
+    },
+    {
+      "title": "Euro Trims Gains Vs Dollar After German PMI Survey",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-ahead-of-u-s-employment-report-986edddb?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-16T08:47:00Z",
+      "image": "",
+      "slug": "euro-trims-gains-vs-dollar-after-german-pmi-survey-93bfb2e4",
+      "orig_slug": "euro-trims-gains-vs-dollar-after-german-pmi-survey-93bfb2e4"
+    },
+    {
+      "title": "Holcim to Buy Peruvian Building-Materials Producer Cementos Pacasmayo",
+      "link": "https://www.wsj.com/business/deals/holcim-to-buy-peruvian-building-materials-producer-cementos-pacasmayo-6b7c7418?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-16T07:54:00Z",
+      "image": "",
+      "slug": "holcim-to-buy-peruvian-building-materials-producer-cementos-pacasmayo-fe0041ab",
+      "orig_slug": "holcim-to-buy-peruvian-building-materials-producer-cementos-pacasmayo-fe0041ab"
     },
     {
       "title": "Kering Gets $690 Million for Stake in Fifth Avenue Property",
@@ -38,40 +137,22 @@
       "orig_slug": "kering-gets-690-million-for-stake-in-fifth-avenue-property-4ae550b9"
     },
     {
-      "title": "China Upends the Weak Oil-Demand Narrative",
-      "link": "https://finance.yahoo.com/news/china-upends-weak-oil-demand-220000689.html",
+      "title": "U.S. Treasury Blocks Bid for Lukoil’s Foreign Assets",
+      "link": "https://finance.yahoo.com/news/u-treasury-blocks-bid-lukoil-073212557.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-14T22:00:00Z",
-      "image": "https://media.zenfs.com/en/oilprice.com/1756bb440450d8089a9a34151a7ec9f8",
-      "slug": "china-upends-the-weak-oil-demand-narrative-9b12d7e6",
-      "orig_slug": "china-upends-the-weak-oil-demand-narrative-9b12d7e6"
+      "pubDate": "2025-12-16T07:32:12Z",
+      "image": "https://media.zenfs.com/en/oilprice.com/e495eb4d541fbc0f0e0c387107cea14a",
+      "slug": "us-treasury-blocks-bid-for-lukoils-foreign-assets-50c7419e",
+      "orig_slug": "us-treasury-blocks-bid-for-lukoils-foreign-assets-50c7419e"
     },
     {
-      "title": "Costco's Momentum Continues. Is It Time to Buy the Stock?",
-      "link": "https://finance.yahoo.com/news/costcos-momentum-continues-time-buy-084800730.html",
+      "title": "Odfjell completes acquisition of Deepsea Bollsta and secures refinancing",
+      "link": "https://finance.yahoo.com/news/odfjell-completes-acquisition-deepsea-bollsta-094219266.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-16T08:48:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/b674d58507e37a92f588e4d54255bd2e",
-      "slug": "costcos-momentum-continues-is-it-time-to-buy-the-stock-fe1c07ae",
-      "orig_slug": "costcos-momentum-continues-is-it-time-to-buy-the-stock-fe1c07ae"
-    },
-    {
-      "title": "SpaceX Starts a Wall Street Bake-Off to Hire Banks for Possible IPO",
-      "link": "https://www.wsj.com/finance/banking/spacex-starts-a-wall-street-bake-off-to-hire-banks-for-possible-ipo-0bd2e854?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-14T21:43:00Z",
-      "image": "",
-      "slug": "spacex-starts-a-wall-street-bake-off-to-hire-banks-for-possible-ipo-1e8e1642",
-      "orig_slug": "spacex-starts-a-wall-street-bake-off-to-hire-banks-for-possible-ipo-1e8e1642"
-    },
-    {
-      "title": "CEOs to Keep Spending on AI, Despite Spotty Returns",
-      "link": "https://www.wsj.com/tech/ai/ceos-to-keep-spending-on-ai-despite-spotty-returns-2eaeb6b9?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-14T21:30:00Z",
-      "image": "",
-      "slug": "ceos-to-keep-spending-on-ai-despite-spotty-returns-2cbfc358",
-      "orig_slug": "ceos-to-keep-spending-on-ai-despite-spotty-returns-2cbfc358"
+      "pubDate": "2025-12-16T09:42:19Z",
+      "image": "https://media.zenfs.com/en/offshore_technology_431/1bb090a2c58358e94f6494c71cd65828",
+      "slug": "odfjell-completes-acquisition-of-deepsea-bollsta-and-secures-refinancing-f70a04ed",
+      "orig_slug": "odfjell-completes-acquisition-of-deepsea-bollsta-and-secures-refinancing-f70a04ed"
     },
     {
       "title": "Australia’s ASX Compromised by Shareholder Focus, Regulator Says",
@@ -92,24 +173,6 @@
       "orig_slug": "transportation-stocks-are-hitting-their-stride-thats-a-good-sign-for-investors-f224670f"
     },
     {
-      "title": "Gold Pulls Back After Five-Day Rally Ahead of US Jobs Data",
-      "link": "https://finance.yahoo.com/news/gold-pulls-back-five-day-034953503.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-16T08:44:18Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/cjcXLTpCkrv9ffUeq6zWcg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MDY-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/f339f920-da5a-11f0-b39e-a57dbf3eee4e",
-      "slug": "gold-pulls-back-after-five-day-rally-ahead-of-us-jobs-data-c9645008",
-      "orig_slug": "gold-pulls-back-after-five-day-rally-ahead-of-us-jobs-data-c9645008"
-    },
-    {
-      "title": "SolGold Board Backs Jiangxi Copper’s Sweetened Takeover Bid",
-      "link": "https://www.wsj.com/business/deals/solgold-board-backs-jiangxi-coppers-sweetened-takeover-bid-1a0d7a0d?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-15T03:36:00Z",
-      "image": "",
-      "slug": "solgold-board-backs-jiangxi-coppers-sweetened-takeover-bid-b760456e",
-      "orig_slug": "solgold-board-backs-jiangxi-coppers-sweetened-takeover-bid-b760456e"
-    },
-    {
       "title": "Trump accounts vs. IRAs and 529s: How do they stack up?",
       "link": "https://finance.yahoo.com/personal-finance/taxes/comparison/trump-accounts-vs-iras-and-529s-how-do-they-stack-up-174356186.html",
       "source": "finance.yahoo.com",
@@ -117,15 +180,6 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/yqODBGX3ubYsoFpLKNyvSQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/d40c4210-cfec-11f0-9ed6-8f56ce0f6f13",
       "slug": "trump-accounts-vs-iras-and-529s-how-do-they-stack-up-dd8b9003",
       "orig_slug": "trump-accounts-vs-iras-and-529s-how-do-they-stack-up-dd8b9003"
-    },
-    {
-      "title": "Roomba Maker Declares Bankruptcy, but Tries to Ease ‘Bricking’ Fears",
-      "link": "https://www.wsj.com/business/roomba-maker-declares-bankruptcy-but-tries-to-ease-bricking-fears-fe73dff2?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-15T03:47:00Z",
-      "image": "",
-      "slug": "roomba-maker-declares-bankruptcy-but-tries-to-ease-bricking-fears-fc956221",
-      "orig_slug": "roomba-maker-declares-bankruptcy-but-tries-to-ease-bricking-fears-fc956221"
     },
     {
       "title": "Dow Jones Futures Rise; Will AI Rebound Or Drag Down Market? Tesla, Eli Lilly In Buy Areas",
@@ -137,13 +191,13 @@
       "orig_slug": "dow-jones-futures-rise-will-ai-rebound-or-drag-down-market-tesla-eli-lilly-in-bu-e9b17ebd"
     },
     {
-      "title": "3 Artificial Intelligence (AI) Stocks Billionaires Can't Stop Buying Ahead of 2026",
-      "link": "https://finance.yahoo.com/news/3-artificial-intelligence-ai-stocks-082600066.html",
+      "title": "Should You Buy the Vanguard S&P 500 ETF With the Stock Market at An All-Time High? History Offers a Clear Answer.",
+      "link": "https://finance.yahoo.com/news/buy-vanguard-p-500-etf-093600823.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-16T08:26:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/b749d99f93c3f6ddd7bddf55cd3bd0d2",
-      "slug": "3-artificial-intelligence-ai-stocks-billionaires-cant-stop-buying-ahead-of-2026-9054bca4",
-      "orig_slug": "3-artificial-intelligence-ai-stocks-billionaires-cant-stop-buying-ahead-of-2026-9054bca4"
+      "pubDate": "2025-12-16T09:36:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/6d614ea5995e20360905e94c086f303a",
+      "slug": "should-you-buy-the-vanguard-sp-500-etf-with-the-stock-market-at-an-all-time-high-339415f8",
+      "orig_slug": "should-you-buy-the-vanguard-sp-500-etf-with-the-stock-market-at-an-all-time-high-339415f8"
     },
     {
       "title": "Why Germany Wants a Divorce With China",
@@ -156,12 +210,12 @@
     },
     {
       "title": "US stocks drift ahead of Tuesday's jobs report",
-      "link": "https://finance.yahoo.com/news/asian-shares-slip-wall-street-041632322.html",
+      "link": "https://finance.yahoo.com/news/asian-shares-slip-wall-street-041632991.html",
       "source": "finance.yahoo.com",
       "pubDate": "2025-12-15T04:16:32Z",
-      "image": "https://media.zenfs.com/en/ap.org/951dd165f5f724d342b095a9147d7112",
-      "slug": "us-stocks-drift-ahead-of-tuesdays-jobs-report-abd6b617",
-      "orig_slug": "us-stocks-drift-ahead-of-tuesdays-jobs-report-abd6b617"
+      "image": "https://media.zenfs.com/en/ap_finance_articles_694/706f035ee85d8c972031c5b3d9a0bbdf",
+      "slug": "us-stocks-drift-ahead-of-tuesdays-jobs-report-cddaf7d7",
+      "orig_slug": "us-stocks-drift-ahead-of-tuesdays-jobs-report-cddaf7d7"
     },
     {
       "title": "Volkswagen's $3.5B gamble: Can it win back share in the competitive Chinese market",
@@ -173,130 +227,22 @@
       "orig_slug": "volkswagens-35b-gamble-can-it-win-back-share-in-the-competitive-chinese-market-87d4f866"
     },
     {
-      "title": "Wynn Resorts (WYNN) Expands Global Footprint With UAE Mega-Resort, JPMorgan Raises Price Target",
-      "link": "https://finance.yahoo.com/news/wynn-resorts-wynn-expands-global-044440814.html",
+      "title": "Roomba Maker Declares Bankruptcy, but Tries to Ease ‘Bricking’ Fears",
+      "link": "https://www.wsj.com/business/roomba-maker-declares-bankruptcy-but-tries-to-ease-bricking-fears-fe73dff2?siteid=yhoof2&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-15T04:44:40Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/f0c3b1a3d2112385e74c4196dccb43fe",
-      "slug": "wynn-resorts-wynn-expands-global-footprint-with-uae-mega-resort-jpmorgan-raises--256d00eb",
-      "orig_slug": "wynn-resorts-wynn-expands-global-footprint-with-uae-mega-resort-jpmorgan-raises--256d00eb"
+      "pubDate": "2025-12-15T03:47:00Z",
+      "image": "",
+      "slug": "roomba-maker-declares-bankruptcy-but-tries-to-ease-bricking-fears-fc956221",
+      "orig_slug": "roomba-maker-declares-bankruptcy-but-tries-to-ease-bricking-fears-fc956221"
     },
     {
-      "title": "Possible Stock Splits in 2026: 2 Unstoppable Stocks Up 337% and 1,780% in 2 Years to Buy Now, According to Wall Street",
-      "link": "https://finance.yahoo.com/news/possible-stock-splits-2026-2-082200662.html",
+      "title": "In a Volatile Market, Investors Should Consider These 3 REITs",
+      "link": "https://finance.yahoo.com/news/volatile-market-investors-consider-3-093500538.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-16T08:22:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/7c9bc451508d05bd8c7f325e62e99878",
-      "slug": "possible-stock-splits-in-2026-2-unstoppable-stocks-up-337-and-1780-in-2-years-to-2d53d197",
-      "orig_slug": "possible-stock-splits-in-2026-2-unstoppable-stocks-up-337-and-1780-in-2-years-to-2d53d197"
-    },
-    {
-      "title": "Brown-Forman (BF-B) Faces U.S. Demand Weakness Despite Product Gains, RBC Capital Maintains Neutral Rating",
-      "link": "https://finance.yahoo.com/news/brown-forman-bf-b-faces-044443523.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-15T04:44:43Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/b97290838186f2d1aa6b11e206e8edc9",
-      "slug": "brown-forman-bf-b-faces-us-demand-weakness-despite-product-gains-rbc-capital-mai-bc3003f5",
-      "orig_slug": "brown-forman-bf-b-faces-us-demand-weakness-despite-product-gains-rbc-capital-mai-bc3003f5"
-    },
-    {
-      "title": "Tilray Brands (TLRY) Cuts Float and Regains Nasdaq Compliance With Reverse Split",
-      "link": "https://finance.yahoo.com/news/tilray-brands-tlry-cuts-float-044444773.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-15T04:44:44Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/8a1a92208ed6df9c5038d3aaf5361f9d",
-      "slug": "tilray-brands-tlry-cuts-float-and-regains-nasdaq-compliance-with-reverse-split-9e6d2e55",
-      "orig_slug": "tilray-brands-tlry-cuts-float-and-regains-nasdaq-compliance-with-reverse-split-9e6d2e55"
-    },
-    {
-      "title": "Aurora Cannabis (ACB) Expands Global Footprint With New Europe and Australia Deals",
-      "link": "https://finance.yahoo.com/news/aurora-cannabis-acb-expands-global-044446608.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-15T04:44:46Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/3e7aaba1a40d7c2cd53f2e60b02d3839",
-      "slug": "aurora-cannabis-acb-expands-global-footprint-with-new-europe-and-australia-deals-dfe5594d",
-      "orig_slug": "aurora-cannabis-acb-expands-global-footprint-with-new-europe-and-australia-deals-dfe5594d"
-    },
-    {
-      "title": "Piper Sandler Cuts Price Target on Constellation Brands (STZ) as it Faces Headwinds From GLP-1 Weight Loss Drugs",
-      "link": "https://finance.yahoo.com/news/piper-sandler-cuts-price-target-044441369.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-15T04:44:41Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/ec6731331565e6a51688c1f5b26aea43",
-      "slug": "piper-sandler-cuts-price-target-on-constellation-brands-stz-as-it-faces-headwind-ab5fe2f5",
-      "orig_slug": "piper-sandler-cuts-price-target-on-constellation-brands-stz-as-it-faces-headwind-ab5fe2f5"
-    },
-    {
-      "title": "The Best Warren Buffett Stocks to Buy With $1,000 Right Now",
-      "link": "https://finance.yahoo.com/news/best-warren-buffett-stocks-buy-080400920.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-16T08:04:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/24c4c4f595bbe8893ef11a9d2a402942",
-      "slug": "the-best-warren-buffett-stocks-to-buy-with-1000-right-now-ddbf47d1",
-      "orig_slug": "the-best-warren-buffett-stocks-to-buy-with-1000-right-now-ddbf47d1"
-    },
-    {
-      "title": "Benchmark Retains Buy Rating on Flutter (FLUT) Despite UK Regulatory Changes",
-      "link": "https://finance.yahoo.com/news/benchmark-retains-buy-rating-flutter-044435326.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-15T04:44:35Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/5804a6cf072a9117736f9d958fd9eeed",
-      "slug": "benchmark-retains-buy-rating-on-flutter-flut-despite-uk-regulatory-changes-f9d93ff4",
-      "orig_slug": "benchmark-retains-buy-rating-on-flutter-flut-despite-uk-regulatory-changes-f9d93ff4"
-    },
-    {
-      "title": "DraftKings (DKNG) Gains Market Share in New York Betting Market",
-      "link": "https://finance.yahoo.com/news/draftkings-dkng-gains-market-share-044438550.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-15T04:44:38Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/041b7ad80ff4409f9a9454b74f368312",
-      "slug": "draftkings-dkng-gains-market-share-in-new-york-betting-market-f97909b5",
-      "orig_slug": "draftkings-dkng-gains-market-share-in-new-york-betting-market-f97909b5"
-    },
-    {
-      "title": "Caesars (CZR) Holds Ground Against Emerging Betting Exchanges, Citizens Reaffirms Market Outperform Rating",
-      "link": "https://finance.yahoo.com/news/caesars-czr-holds-ground-against-044436021.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-15T04:44:36Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/163d9fcc5d51e568263e100a96d9fba3",
-      "slug": "caesars-czr-holds-ground-against-emerging-betting-exchanges-citizens-reaffirms-m-ef03a129",
-      "orig_slug": "caesars-czr-holds-ground-against-emerging-betting-exchanges-citizens-reaffirms-m-ef03a129"
-    },
-    {
-      "title": "Chemours Company (CC) Up More than 12% Since Q3, Here’s What Wall Street Thinks About the Stock",
-      "link": "https://finance.yahoo.com/news/chemours-company-cc-more-12-044506069.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-15T04:45:06Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/09835fe7f716e8a08eee4f40309bc3d8",
-      "slug": "chemours-company-cc-up-more-than-12-since-q3-heres-what-wall-street-thinks-about-db73f910",
-      "orig_slug": "chemours-company-cc-up-more-than-12-since-q3-heres-what-wall-street-thinks-about-db73f910"
-    },
-    {
-      "title": "The Final Trade of 2025: What Wall Street’s Rotation Means for Crypto",
-      "link": "https://finance.yahoo.com/news/final-trade-2025-wall-street-080000582.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-16T08:00:00Z",
-      "image": "https://media.zenfs.com/en/beincrypto_us_662/bfb795b5930d5613cae1de261b8f8b85",
-      "slug": "the-final-trade-of-2025-what-wall-streets-rotation-means-for-crypto-28428206",
-      "orig_slug": "the-final-trade-of-2025-what-wall-streets-rotation-means-for-crypto-28428206"
-    },
-    {
-      "title": "Wall Street Maintains a Positive Outlook on Skyward Specialty Insurance Group (SKWD)",
-      "link": "https://finance.yahoo.com/news/wall-street-maintains-positive-outlook-044511400.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-15T04:45:11Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/8ff28b8f9d625110eb711db8d73e9ac7",
-      "slug": "wall-street-maintains-a-positive-outlook-on-skyward-specialty-insurance-group-sk-fc85410f",
-      "orig_slug": "wall-street-maintains-a-positive-outlook-on-skyward-specialty-insurance-group-sk-fc85410f"
-    },
-    {
-      "title": "UBS Raises the PT on United Natural Foods Inc. (UNFI) and Keeps a Hold Rating",
-      "link": "https://finance.yahoo.com/news/ubs-raises-pt-united-natural-044513514.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-15T04:45:13Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/2c32e88e63ba28180391bfeb172563d4",
-      "slug": "ubs-raises-the-pt-on-united-natural-foods-inc-unfi-and-keeps-a-hold-rating-4f849669",
-      "orig_slug": "ubs-raises-the-pt-on-united-natural-foods-inc-unfi-and-keeps-a-hold-rating-4f849669"
+      "pubDate": "2025-12-16T09:35:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/3c47af76d5cc2e3f2325b8e53c8c9540",
+      "slug": "in-a-volatile-market-investors-should-consider-these-3-reits-6079d836",
+      "orig_slug": "in-a-volatile-market-investors-should-consider-these-3-reits-6079d836"
     },
     {
       "title": "HNI Corp (HNI) Completes the Acquisition of Steelcase Inc",
@@ -308,6 +254,60 @@
       "orig_slug": "hni-corp-hni-completes-the-acquisition-of-steelcase-inc-656ca93e"
     },
     {
+      "title": "UBS Raises the PT on United Natural Foods Inc. (UNFI) and Keeps a Hold Rating",
+      "link": "https://finance.yahoo.com/news/ubs-raises-pt-united-natural-044513514.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-15T04:45:13Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/2c32e88e63ba28180391bfeb172563d4",
+      "slug": "ubs-raises-the-pt-on-united-natural-foods-inc-unfi-and-keeps-a-hold-rating-4f849669",
+      "orig_slug": "ubs-raises-the-pt-on-united-natural-foods-inc-unfi-and-keeps-a-hold-rating-4f849669"
+    },
+    {
+      "title": "Brown-Forman (BF-B) Faces U.S. Demand Weakness Despite Product Gains, RBC Capital Maintains Neutral Rating",
+      "link": "https://finance.yahoo.com/news/brown-forman-bf-b-faces-044443523.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-15T04:44:43Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/b97290838186f2d1aa6b11e206e8edc9",
+      "slug": "brown-forman-bf-b-faces-us-demand-weakness-despite-product-gains-rbc-capital-mai-bc3003f5",
+      "orig_slug": "brown-forman-bf-b-faces-us-demand-weakness-despite-product-gains-rbc-capital-mai-bc3003f5"
+    },
+    {
+      "title": "Piper Sandler Cuts Price Target on Constellation Brands (STZ) as it Faces Headwinds From GLP-1 Weight Loss Drugs",
+      "link": "https://finance.yahoo.com/news/piper-sandler-cuts-price-target-044441369.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-15T04:44:41Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/ec6731331565e6a51688c1f5b26aea43",
+      "slug": "piper-sandler-cuts-price-target-on-constellation-brands-stz-as-it-faces-headwind-ab5fe2f5",
+      "orig_slug": "piper-sandler-cuts-price-target-on-constellation-brands-stz-as-it-faces-headwind-ab5fe2f5"
+    },
+    {
+      "title": "Turvolandia rare earths drill programme advances at Canamera’s Brazil project",
+      "link": "https://finance.yahoo.com/news/turvolandia-rare-earths-drill-programme-093219079.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-16T09:32:19Z",
+      "image": "https://media.zenfs.com/en/mining_technology_700/d9640ed9ca59675a782e99d3a5ac5f9f",
+      "slug": "turvolandia-rare-earths-drill-programme-advances-at-canameras-brazil-project-245f36d5",
+      "orig_slug": "turvolandia-rare-earths-drill-programme-advances-at-canameras-brazil-project-245f36d5"
+    },
+    {
+      "title": "Tilray Brands (TLRY) Cuts Float and Regains Nasdaq Compliance With Reverse Split",
+      "link": "https://finance.yahoo.com/news/tilray-brands-tlry-cuts-float-044444773.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-15T04:44:44Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/8a1a92208ed6df9c5038d3aaf5361f9d",
+      "slug": "tilray-brands-tlry-cuts-float-and-regains-nasdaq-compliance-with-reverse-split-9e6d2e55",
+      "orig_slug": "tilray-brands-tlry-cuts-float-and-regains-nasdaq-compliance-with-reverse-split-9e6d2e55"
+    },
+    {
+      "title": "Wynn Resorts (WYNN) Expands Global Footprint With UAE Mega-Resort, JPMorgan Raises Price Target",
+      "link": "https://finance.yahoo.com/news/wynn-resorts-wynn-expands-global-044440814.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-15T04:44:40Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/f0c3b1a3d2112385e74c4196dccb43fe",
+      "slug": "wynn-resorts-wynn-expands-global-footprint-with-uae-mega-resort-jpmorgan-raises--256d00eb",
+      "orig_slug": "wynn-resorts-wynn-expands-global-footprint-with-uae-mega-resort-jpmorgan-raises--256d00eb"
+    },
+    {
       "title": "Wall Street Maintains a Positive Outlook on Marriott Vacations Worldwide (VAC) Despite a 13% Loss Since Q3 2025",
       "link": "https://finance.yahoo.com/news/wall-street-maintains-positive-outlook-044510155.html",
       "source": "finance.yahoo.com",
@@ -315,15 +315,6 @@
       "image": "https://media.zenfs.com/en/insidermonkey.com/1e12997f8c82f5024a7db13d466243bf",
       "slug": "wall-street-maintains-a-positive-outlook-on-marriott-vacations-worldwide-vac-des-6bb6859a",
       "orig_slug": "wall-street-maintains-a-positive-outlook-on-marriott-vacations-worldwide-vac-des-6bb6859a"
-    },
-    {
-      "title": "Ford takes $19.5bn EV hit after demand slump",
-      "link": "https://finance.yahoo.com/news/ford-takes-19-5bn-ev-075226660.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-16T07:52:26Z",
-      "image": "https://media.zenfs.com/en/the_telegraph_258/da88b16eacff6fdab5b4c8bee0cf3a73",
-      "slug": "ford-takes-195bn-ev-hit-after-demand-slump-c103b6ce",
-      "orig_slug": "ford-takes-195bn-ev-hit-after-demand-slump-c103b6ce"
     },
     {
       "title": "United Parks & Resorts Inc. (PRKS) Down More Than 19% Since Q3, Here’s Why",
@@ -335,31 +326,40 @@
       "orig_slug": "united-parks-resorts-inc-prks-down-more-than-19-since-q3-heres-why-40e85941"
     },
     {
-      "title": "Genesis Energy, L.P. (GEL) Up More Than 52% YTD, Here’s What You Need to Know",
-      "link": "https://finance.yahoo.com/news/genesis-energy-l-p-gel-044521802.html",
+      "title": "McFarlane secures exploration permit for Juby gold project in Canada",
+      "link": "https://finance.yahoo.com/news/mcfarlane-secures-exploration-permit-juby-092301740.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-15T04:45:21Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/d41ed1c4d803fd2821191223ef30f401",
-      "slug": "genesis-energy-lp-gel-up-more-than-52-ytd-heres-what-you-need-to-know-7cb2e2c5",
-      "orig_slug": "genesis-energy-lp-gel-up-more-than-52-ytd-heres-what-you-need-to-know-7cb2e2c5"
+      "pubDate": "2025-12-16T09:23:01Z",
+      "image": "https://media.zenfs.com/en/mining_technology_700/edbb1d83317f5353495cdb229bf9ceb1",
+      "slug": "mcfarlane-secures-exploration-permit-for-juby-gold-project-in-canada-ec3080b2",
+      "orig_slug": "mcfarlane-secures-exploration-permit-for-juby-gold-project-in-canada-ec3080b2"
     },
     {
-      "title": "Stifel Nicolaus Remains a Buy on SmartStop Self Storage (SMA), Here’s Why",
-      "link": "https://finance.yahoo.com/news/stifel-nicolaus-remains-buy-smartstop-044519176.html",
+      "title": "Wall Street Maintains a Positive Outlook on Skyward Specialty Insurance Group (SKWD)",
+      "link": "https://finance.yahoo.com/news/wall-street-maintains-positive-outlook-044511400.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-15T04:45:19Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/cbda51c3570c1a969a4e88ded9396375",
-      "slug": "stifel-nicolaus-remains-a-buy-on-smartstop-self-storage-sma-heres-why-e5e9b98f",
-      "orig_slug": "stifel-nicolaus-remains-a-buy-on-smartstop-self-storage-sma-heres-why-e5e9b98f"
+      "pubDate": "2025-12-15T04:45:11Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/8ff28b8f9d625110eb711db8d73e9ac7",
+      "slug": "wall-street-maintains-a-positive-outlook-on-skyward-specialty-insurance-group-sk-fc85410f",
+      "orig_slug": "wall-street-maintains-a-positive-outlook-on-skyward-specialty-insurance-group-sk-fc85410f"
     },
     {
-      "title": "​Sylvamo Corp (SLVM) Down 36.68% YTD, Here’s What You Should Know",
-      "link": "https://finance.yahoo.com/news/sylvamo-corp-slvm-down-36-044517062.html",
+      "title": "Aurora Cannabis (ACB) Expands Global Footprint With New Europe and Australia Deals",
+      "link": "https://finance.yahoo.com/news/aurora-cannabis-acb-expands-global-044446608.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-15T04:45:17Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/b8cea5ccfdcb30c490451dcbab3bf9f4",
-      "slug": "sylvamo-corp-slvm-down-3668-ytd-heres-what-you-should-know-701d164f",
-      "orig_slug": "sylvamo-corp-slvm-down-3668-ytd-heres-what-you-should-know-701d164f"
+      "pubDate": "2025-12-15T04:44:46Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/3e7aaba1a40d7c2cd53f2e60b02d3839",
+      "slug": "aurora-cannabis-acb-expands-global-footprint-with-new-europe-and-australia-deals-dfe5594d",
+      "orig_slug": "aurora-cannabis-acb-expands-global-footprint-with-new-europe-and-australia-deals-dfe5594d"
+    },
+    {
+      "title": "Best high-yield savings interest rates today, December 15, 2025 (Earn up to 4.3% APY)",
+      "link": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-monday-december-15-2025-110041070.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-15T11:00:41Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/1RCI97U8KV1L2ZurZW7kOA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/0a4cca40-4b7b-11ef-abf9-2f9f6d2c2f16",
+      "slug": "best-high-yield-savings-interest-rates-today-december-15-2025-earn-up-to-43-apy-6e5f0958",
+      "orig_slug": "best-high-yield-savings-interest-rates-today-december-15-2025-earn-up-to-43-apy-6e5f0958"
     },
     {
       "title": "Weekly Stock List",
@@ -371,22 +371,22 @@
       "orig_slug": "weekly-stock-list-350e0b49"
     },
     {
-      "title": "Energy Transfer Stock Is Below $17. Time to Buy?",
-      "link": "https://finance.yahoo.com/news/energy-transfer-stock-below-17-073500203.html",
+      "title": "HELOC rates today, December 15, 2025: Lower rates in time for holiday cash needs",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-interest-rates-today-monday-december-15-2025-110031789.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-16T07:35:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/72580dad6c49bcbbd6abbef5bf75cc47",
-      "slug": "energy-transfer-stock-is-below-17-time-to-buy-15261341",
-      "orig_slug": "energy-transfer-stock-is-below-17-time-to-buy-15261341"
+      "pubDate": "2025-12-15T11:00:31Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/_479AhxR01yKrenM2IfZSg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/006c3000-3feb-11f0-b84f-0d1aa528bfe7",
+      "slug": "heloc-rates-today-december-15-2025-lower-rates-in-time-for-holiday-cash-needs-398e8d8e",
+      "orig_slug": "heloc-rates-today-december-15-2025-lower-rates-in-time-for-holiday-cash-needs-398e8d8e"
     },
     {
-      "title": "​Central Garden & Pet Co. (CENT) Has Gained 8% Since Q4 2025, Here’s Why",
-      "link": "https://finance.yahoo.com/news/central-garden-pet-co-cent-044516579.html",
+      "title": "Looking for a Top Growth Stock for 2026? Here's Why Nu Stock Could Skyrocket Next Year.",
+      "link": "https://finance.yahoo.com/news/looking-top-growth-stock-2026-092000152.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-15T04:45:16Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/91be90511debec5341628862378abdbb",
-      "slug": "central-garden-pet-co-cent-has-gained-8-since-q4-2025-heres-why-acabe04b",
-      "orig_slug": "central-garden-pet-co-cent-has-gained-8-since-q4-2025-heres-why-acabe04b"
+      "pubDate": "2025-12-16T09:20:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/e5ddd3407c5d5ec21d4ea731b06f7a3c",
+      "slug": "looking-for-a-top-growth-stock-for-2026-heres-why-nu-stock-could-skyrocket-next--a78879c0",
+      "orig_slug": "looking-for-a-top-growth-stock-for-2026-heres-why-nu-stock-could-skyrocket-next--a78879c0"
     }
   ]
 }
