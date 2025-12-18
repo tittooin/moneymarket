@@ -1,50 +1,230 @@
 {
-  "updated": "2025-12-18T21:12:41Z",
+  "updated": "2025-12-18T22:13:45Z",
   "items": [
     {
-      "title": "Merrill Has Mostly Dropped ‘Lynch’ From Its Corporate Brand. But Not Everywhere.",
-      "link": "https://www.barrons.com/advisor/articles/merrill-mostly-dropped-lynch-19b9195f?siteid=yhoof2&yptr=yahoo",
+      "title": "Asahi moves for Diageo’s Kenya business in $2.3bn deal",
+      "link": "https://finance.yahoo.com/news/asahi-moves-diageo-kenya-business-104639720.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T12:40:00Z",
+      "pubDate": "2025-12-17T14:01:43Z",
+      "image": "https://media.zenfs.com/en/just_drinks_442/086101cc5fe20182f11c4c538bfcb448",
+      "slug": "asahi-moves-for-diageos-kenya-business-in-23bn-deal-e8895dec",
+      "orig_slug": "asahi-moves-for-diageos-kenya-business-in-23bn-deal-e8895dec"
+    },
+    {
+      "title": "Warner Bros Discovery board rejects rival bid from Paramount",
+      "link": "https://finance.yahoo.com/news/warner-bros-discovery-board-rejects-120335579.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-17T12:03:35Z",
+      "image": "https://media.zenfs.com/en/reuters-finance.com/343c67f49000843eadc9cf5815a03209",
+      "slug": "warner-bros-discovery-board-rejects-rival-bid-from-paramount-282e6bf4",
+      "orig_slug": "warner-bros-discovery-board-rejects-rival-bid-from-paramount-282e6bf4"
+    },
+    {
+      "title": "Here’s Why ICON Plc. (ICLR) Gained +20.3% in Q3",
+      "link": "https://finance.yahoo.com/news/why-icon-plc-iclr-gained-135323536.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-17T13:53:23Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/3f521f4b11d75ca2ccdc5b595250218b",
+      "slug": "heres-why-icon-plc-iclr-gained-203-in-q3-b0b58c75",
+      "orig_slug": "heres-why-icon-plc-iclr-gained-203-in-q3-b0b58c75"
+    },
+    {
+      "title": "FactSet Research Systems' Quarterly Earnings Preview: What You Need to Know",
+      "link": "https://finance.yahoo.com/news/factset-research-systems-quarterly-earnings-140422214.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-17T14:04:22Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/5e6f3bbf6d4c37fff1932564a594eaf6",
+      "slug": "factset-research-systems-quarterly-earnings-preview-what-you-need-to-know-d4a5557c",
+      "orig_slug": "factset-research-systems-quarterly-earnings-preview-what-you-need-to-know-d4a5557c"
+    },
+    {
+      "title": "Warren Buffett dumps 2 investments he’s told Americans to buy for years. Should ordinary inventors do the same?",
+      "link": "https://finance.yahoo.com/news/warren-buffett-dumps-2-investments-135700292.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-17T13:57:00Z",
+      "image": "https://media.zenfs.com/en/moneywise_ecomm_711/a31659d21767f257341b0f6d4c3f44ce",
+      "slug": "warren-buffett-dumps-2-investments-hes-told-americans-to-buy-for-years-should-or-bef68296",
+      "orig_slug": "warren-buffett-dumps-2-investments-hes-told-americans-to-buy-for-years-should-or-bef68296"
+    },
+    {
+      "title": "Someone Told Mark Cuban He Could 'Literally End World Hunger' Without Affecting His Net Worth. Here's What He Answered",
+      "link": "https://finance.yahoo.com/news/someone-told-mark-cuban-could-135410538.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-17T13:54:10Z",
+      "image": "https://media.zenfs.com/en/Benzinga/3ff7e9d8f82cef9fa07e13b8fd731976",
+      "slug": "someone-told-mark-cuban-he-could-literally-end-world-hunger-without-affecting-hi-b7712448",
+      "orig_slug": "someone-told-mark-cuban-he-could-literally-end-world-hunger-without-affecting-hi-b7712448"
+    },
+    {
+      "title": "What Makes Alphabet (GOOG) a Long-Term Bet?",
+      "link": "https://finance.yahoo.com/news/makes-alphabet-goog-long-term-135045171.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-17T13:50:45Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/6409e61fe6e177c1ebb9125c47486f11",
+      "slug": "what-makes-alphabet-goog-a-long-term-bet-c4641c1f",
+      "orig_slug": "what-makes-alphabet-goog-a-long-term-bet-c4641c1f"
+    },
+    {
+      "title": "Novo Nordisk (NVO) Hit By Lowered Guidance",
+      "link": "https://finance.yahoo.com/news/novo-nordisk-nvo-hit-lowered-135720614.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-17T13:57:20Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/4c12f919b3a0e46a5e5742f144b0612a",
+      "slug": "novo-nordisk-nvo-hit-by-lowered-guidance-517c0c90",
+      "orig_slug": "novo-nordisk-nvo-hit-by-lowered-guidance-517c0c90"
+    },
+    {
+      "title": "What Makes General Dynamics (GD) a Good Investment Amid Global Geopolitical Tensions",
+      "link": "https://finance.yahoo.com/news/makes-general-dynamics-gd-good-140841300.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-17T14:08:41Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/ede8c7f5b6b3a2301b211bf3a2539fa0",
+      "slug": "what-makes-general-dynamics-gd-a-good-investment-amid-global-geopolitical-tensio-5e7f4ba2",
+      "orig_slug": "what-makes-general-dynamics-gd-a-good-investment-amid-global-geopolitical-tensio-5e7f4ba2"
+    },
+    {
+      "title": "Warner Bros Discovery board rejects hostile bid from Paramount",
+      "link": "https://finance.yahoo.com/news/warner-bros-discovery-board-rejects-141500067.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-17T14:15:00Z",
+      "image": "https://media.zenfs.com/en/reuters.com/4cb28e9cd84b47479c120537cd063a22",
+      "slug": "warner-bros-discovery-board-rejects-hostile-bid-from-paramount-9a13dfe8",
+      "orig_slug": "warner-bros-discovery-board-rejects-hostile-bid-from-paramount-9a13dfe8"
+    },
+    {
+      "title": "Hut 8 stock surges 20% on Fluidstack AI data center deal",
+      "link": "https://finance.yahoo.com/news/hut-8-stock-surges-20-135603300.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-17T13:56:03Z",
+      "image": "https://media.zenfs.com/en/coindesk_75/998d42651517548a286a4870db0654ce",
+      "slug": "hut-8-stock-surges-20-on-fluidstack-ai-data-center-deal-0db6bb99",
+      "orig_slug": "hut-8-stock-surges-20-on-fluidstack-ai-data-center-deal-0db6bb99"
+    },
+    {
+      "title": "Reddit Stock Gains As Analysts See User Growth Momentum Heading Into 2026",
+      "link": "https://www.investors.com/news/technology/reddit-stock-rddt-news-2026/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-17T13:41:46Z",
       "image": "",
-      "slug": "merrill-has-mostly-dropped-lynch-from-its-corporate-brand-but-not-everywhere-f6d76c1b",
-      "orig_slug": "merrill-has-mostly-dropped-lynch-from-its-corporate-brand-but-not-everywhere-f6d76c1b"
+      "slug": "reddit-stock-gains-as-analysts-see-user-growth-momentum-heading-into-2026-10fae351",
+      "orig_slug": "reddit-stock-gains-as-analysts-see-user-growth-momentum-heading-into-2026-10fae351"
     },
     {
-      "title": "Precious metals are going to party like it’s the 1970s, reckons Albert Edwards",
-      "link": "https://finance.yahoo.com/news/precious-metals-going-party-1970s-124300634.html",
+      "title": "Do You Believe in the Growth Potential of Adobe (ADBE)?",
+      "link": "https://finance.yahoo.com/news/believe-growth-potential-adobe-adbe-141821954.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T12:43:00Z",
-      "image": "https://media.zenfs.com/en/marketwatch_hosted_869/7353c5cac24a0cb25a082be42af758e6",
-      "slug": "precious-metals-are-going-to-party-like-its-the-1970s-reckons-albert-edwards-0cc80878",
-      "orig_slug": "precious-metals-are-going-to-party-like-its-the-1970s-reckons-albert-edwards-0cc80878"
+      "pubDate": "2025-12-17T14:18:21Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/2b5b7ecf073968982fd33d6ff1961546",
+      "slug": "do-you-believe-in-the-growth-potential-of-adobe-adbe-e57442bd",
+      "orig_slug": "do-you-believe-in-the-growth-potential-of-adobe-adbe-e57442bd"
     },
     {
-      "title": "OpenAI Gears Up For Bigger AI Battles, IPO Buzz In 2026",
-      "link": "https://www.investors.com/news/technology/openai-ai-stocks-openai-ipo-enterprise-push-2026/?src=A00220&yptr=yahoo",
+      "title": "Here’s Why Sands Capital Global Growth Fund Decided to Sell Repligen Corporation (RGEN)",
+      "link": "https://finance.yahoo.com/news/why-sands-capital-global-growth-133558448.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T12:37:58Z",
-      "image": "",
-      "slug": "openai-gears-up-for-bigger-ai-battles-ipo-buzz-in-2026-e727f358",
-      "orig_slug": "openai-gears-up-for-bigger-ai-battles-ipo-buzz-in-2026-e727f358"
+      "pubDate": "2025-12-17T13:35:58Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/9566e54eafdb7eb193f977b607cfa6dd",
+      "slug": "heres-why-sands-capital-global-growth-fund-decided-to-sell-repligen-corporation--72739320",
+      "orig_slug": "heres-why-sands-capital-global-growth-fund-decided-to-sell-repligen-corporation--72739320"
     },
     {
-      "title": "Coursera to buy Udemy, creating $2.5 billion firm to target AI training",
-      "link": "https://finance.yahoo.com/news/coursera-udemy-merge-deal-valuing-123845944.html",
+      "title": "Do You Believe in the Upward Potential of Carvana (CVNA)?",
+      "link": "https://finance.yahoo.com/news/believe-upward-potential-carvana-cvna-133359594.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T12:38:45Z",
-      "image": "https://media.zenfs.com/en/reuters-finance.com/c0da8de838bb151d1c639e6fc3664035",
-      "slug": "coursera-to-buy-udemy-creating-25-billion-firm-to-target-ai-training-828a721f",
-      "orig_slug": "coursera-to-buy-udemy-creating-25-billion-firm-to-target-ai-training-828a721f"
+      "pubDate": "2025-12-17T13:33:59Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/b03e40056997118b7a3be9ff62cf110d",
+      "slug": "do-you-believe-in-the-upward-potential-of-carvana-cvna-8a085f7e",
+      "orig_slug": "do-you-believe-in-the-upward-potential-of-carvana-cvna-8a085f7e"
     },
     {
-      "title": "S&P 500 Stocks: These 2 Lagging Retailers Become Leaders In December",
-      "link": "https://www.investors.com/news/sp-500-stocks-lululemon-lulu-stock-deckers-deck-stock/?src=A00220&yptr=yahoo",
+      "title": "Ethereum Price Drops Below $3,000 Amid Declining Holder Conviction",
+      "link": "https://finance.yahoo.com/news/ethereum-price-drops-below-3-140000715.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T12:44:33Z",
-      "image": "",
-      "slug": "sp-500-stocks-these-2-lagging-retailers-become-leaders-in-december-00032953",
-      "orig_slug": "sp-500-stocks-these-2-lagging-retailers-become-leaders-in-december-00032953"
+      "pubDate": "2025-12-17T14:00:00Z",
+      "image": "https://media.zenfs.com/en/beincrypto_us_662/aa547512dd63bca9b10061196d34d377",
+      "slug": "ethereum-price-drops-below-3000-amid-declining-holder-conviction-b79a98df",
+      "orig_slug": "ethereum-price-drops-below-3000-amid-declining-holder-conviction-b79a98df"
+    },
+    {
+      "title": "What Makes Axon Enterprise (AXON) a Strong Investment?",
+      "link": "https://finance.yahoo.com/news/makes-axon-enterprise-axon-strong-133126986.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-17T13:31:26Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/4d4a733e28e75e6d5e11be43199f33a1",
+      "slug": "what-makes-axon-enterprise-axon-a-strong-investment-ae312fb8",
+      "orig_slug": "what-makes-axon-enterprise-axon-a-strong-investment-ae312fb8"
+    },
+    {
+      "title": "Corn Ticking Higher on Wednesday Morning",
+      "link": "https://finance.yahoo.com/news/corn-ticking-higher-wednesday-morning-133311897.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-17T13:33:11Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/eb4a81c611ab592a785e7b5a2fc4c2d1",
+      "slug": "corn-ticking-higher-on-wednesday-morning-599fff44",
+      "orig_slug": "corn-ticking-higher-on-wednesday-morning-599fff44"
+    },
+    {
+      "title": "Soybeans Leaking Lower on Wednesday Morning",
+      "link": "https://finance.yahoo.com/news/soybeans-leaking-lower-wednesday-morning-133311911.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-17T13:33:11Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/ac1499480efd27afcc58a417df653208",
+      "slug": "soybeans-leaking-lower-on-wednesday-morning-1608fd6c",
+      "orig_slug": "soybeans-leaking-lower-on-wednesday-morning-1608fd6c"
+    },
+    {
+      "title": "Shopify (SHOP) Surged Following the Earnings Release",
+      "link": "https://finance.yahoo.com/news/shop-shop-surged-following-earnings-132917226.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-17T13:29:17Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/0351fde86bca3fe950b4ff1d0e8b9f7b",
+      "slug": "shopify-shop-surged-following-the-earnings-release-455a6369",
+      "orig_slug": "shopify-shop-surged-following-the-earnings-release-455a6369"
+    },
+    {
+      "title": "General Mills earnings flash a warning sign for the economy",
+      "link": "https://finance.yahoo.com/news/general-mills-earnings-flash-warning-140407977.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-17T14:04:07Z",
+      "image": "https://media.zenfs.com/en/quartz_855/3477d09f3bfcae3ef1655213b0d0a326",
+      "slug": "general-mills-earnings-flash-a-warning-sign-for-the-economy-63df7ad4",
+      "orig_slug": "general-mills-earnings-flash-a-warning-sign-for-the-economy-63df7ad4"
+    },
+    {
+      "title": "Founder of bankrupt subprime auto lender Tricolor Holdings is charged with fraud",
+      "link": "https://finance.yahoo.com/news/founder-bankrupt-subprime-auto-lender-133208936.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-17T13:32:08Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/uChtd_a.PtfwB6X2idpfiw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Nzg-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/95f2c4e0-db4f-11f0-b79f-3065199900c6",
+      "slug": "founder-of-bankrupt-subprime-auto-lender-tricolor-holdings-is-charged-with-fraud-fde5a065",
+      "orig_slug": "founder-of-bankrupt-subprime-auto-lender-tricolor-holdings-is-charged-with-fraud-fde5a065"
+    },
+    {
+      "title": "Is Fiserv (FISV) an Undervalued Stock?",
+      "link": "https://finance.yahoo.com/news/fiserv-fisv-undervalued-stock-142259382.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-17T14:22:59Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/51b17e76e0ed3c67f24aae5762b10083",
+      "slug": "is-fiserv-fisv-an-undervalued-stock-5a5c1403",
+      "orig_slug": "is-fiserv-fisv-an-undervalued-stock-5a5c1403"
+    },
+    {
+      "title": "Factbox-From OpenAI to Google, firms channel billions into AI infrastructure as demand booms",
+      "link": "https://finance.yahoo.com/news/factbox-openai-google-firms-channel-222922643.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-17T13:28:37Z",
+      "image": "https://media.zenfs.com/en/reuters.com/a9a04ba8c5543651691e7aae6f34c944",
+      "slug": "factbox-from-openai-to-google-firms-channel-billions-into-ai-infrastructure-as-d-fbdfc804",
+      "orig_slug": "factbox-from-openai-to-google-firms-channel-billions-into-ai-infrastructure-as-d-fbdfc804"
+    },
+    {
+      "title": "Here’s What Hit Intuitive Surgical (ISRG) in Q3",
+      "link": "https://finance.yahoo.com/news/hit-intuitive-surgical-isrg-q3-132700400.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-17T13:27:00Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/e24fbc1e1c4c2dcb559e88c54481ec43",
+      "slug": "heres-what-hit-intuitive-surgical-isrg-in-q3-6fdbb904",
+      "orig_slug": "heres-what-hit-intuitive-surgical-isrg-in-q3-6fdbb904"
     },
     {
       "title": "Technical Assessment: Bullish in the Intermediate-Term",
@@ -56,49 +236,49 @@
       "orig_slug": "technical-assessment-bullish-in-the-intermediate-term-f8c41e7c"
     },
     {
-      "title": "SOL Strategies: The Premier Public Play on the Solana Economy – Initiation Report",
-      "link": "https://finance.yahoo.com/news/sol-strategies-premier-public-play-124623662.html",
+      "title": "Here Are Wednesday’s Top Wall Street Analyst Research Calls: Ally Financial, CyberArk, Fortinet, Robinhood Markets, Salesforce, ServiceNow, Procter & Gamble, and More",
+      "link": "https://finance.yahoo.com/news/wednesday-top-wall-street-analyst-135825090.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T12:46:23Z",
-      "image": "https://media.zenfs.com/en/exec_edge_220/2f7e0b699cd83f636c918bad6e8414cb",
-      "slug": "sol-strategies-the-premier-public-play-on-the-solana-economy-initiation-report-1f877c15",
-      "orig_slug": "sol-strategies-the-premier-public-play-on-the-solana-economy-initiation-report-1f877c15"
+      "pubDate": "2025-12-17T13:58:25Z",
+      "image": "https://media.zenfs.com/en/24_7_wall_st__718/ffa12de664351d2add9abe9bb1d08bbf",
+      "slug": "here-are-wednesdays-top-wall-street-analyst-research-calls-ally-financial-cybera-b233148e",
+      "orig_slug": "here-are-wednesdays-top-wall-street-analyst-research-calls-ally-financial-cybera-b233148e"
     },
     {
-      "title": "Dragonfly Energy announces 1-for-10 reverse stock split",
-      "link": "https://finance.yahoo.com/news/dragonfly-energy-announces-1-10-123536467.html",
+      "title": "Is Gen Digital Stock Underperforming the Nasdaq?",
+      "link": "https://finance.yahoo.com/news/gen-digital-stock-underperforming-nasdaq-132410997.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T12:35:36Z",
-      "image": "https://media.zenfs.com/en/tipranks_452/3cf2111855037918583f13dbc4eba2b0",
-      "slug": "dragonfly-energy-announces-1-for-10-reverse-stock-split-7feb0145",
-      "orig_slug": "dragonfly-energy-announces-1-for-10-reverse-stock-split-7feb0145"
+      "pubDate": "2025-12-17T13:24:10Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/e9fd95add92c811280dfc95374fa87eb",
+      "slug": "is-gen-digital-stock-underperforming-the-nasdaq-ab407a39",
+      "orig_slug": "is-gen-digital-stock-underperforming-the-nasdaq-ab407a39"
     },
     {
-      "title": "Spencer Jakab | Buy the Dip? No, Just Buy and Hold",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-17-2025/card/spencer-jakab-buy-the-dip-no-just-buy-and-hold-N4HISkLLhbyzijFiMS5g?siteid=yhoof2&yptr=yahoo",
+      "title": "Oracle says Michigan data center project talks on track without Blue Owl",
+      "link": "https://finance.yahoo.com/news/oracles-10-billion-michigan-data-132428847.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T12:38:35Z",
-      "image": "",
-      "slug": "spencer-jakab-buy-the-dip-no-just-buy-and-hold-bbd8fa3b",
-      "orig_slug": "spencer-jakab-buy-the-dip-no-just-buy-and-hold-bbd8fa3b"
+      "pubDate": "2025-12-17T13:24:28Z",
+      "image": "https://media.zenfs.com/en/reuters-finance.com/a0aeef8e6e93d19ed24475ee967d1843",
+      "slug": "oracle-says-michigan-data-center-project-talks-on-track-without-blue-owl-a254c445",
+      "orig_slug": "oracle-says-michigan-data-center-project-talks-on-track-without-blue-owl-a254c445"
     },
     {
-      "title": "Is Pinnacle West Capital Stock Underperforming the Dow?",
-      "link": "https://finance.yahoo.com/news/pinnacle-west-capital-stock-underperforming-123502796.html",
+      "title": "Darden Restaurants' Q2 2026 Earnings: What to Expect",
+      "link": "https://finance.yahoo.com/news/darden-restaurants-q2-2026-earnings-132432923.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T12:35:02Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/f6116a5a9d6fe7b7faf33328371d43d1",
-      "slug": "is-pinnacle-west-capital-stock-underperforming-the-dow-bf851a6a",
-      "orig_slug": "is-pinnacle-west-capital-stock-underperforming-the-dow-bf851a6a"
+      "pubDate": "2025-12-17T13:24:32Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/704cf8df42946964f0f22c5ad0abbfac",
+      "slug": "darden-restaurants-q2-2026-earnings-what-to-expect-69fcb651",
+      "orig_slug": "darden-restaurants-q2-2026-earnings-what-to-expect-69fcb651"
     },
     {
-      "title": "Is Assurant Stock Underperforming the Nasdaq?",
-      "link": "https://finance.yahoo.com/news/assurant-stock-underperforming-nasdaq-123116230.html",
+      "title": "Here’s Why Platinum International Technology Fund Increased Its Stake in Intuitive Surgical (ISRG)",
+      "link": "https://finance.yahoo.com/news/why-platinum-international-technology-fund-131806133.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T12:31:16Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/af1385c08cbf1ef8c95b609d935f8ff7",
-      "slug": "is-assurant-stock-underperforming-the-nasdaq-b554d427",
-      "orig_slug": "is-assurant-stock-underperforming-the-nasdaq-b554d427"
+      "pubDate": "2025-12-17T13:18:06Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/e24fbc1e1c4c2dcb559e88c54481ec43",
+      "slug": "heres-why-platinum-international-technology-fund-increased-its-stake-in-intuitiv-e4bddbdf",
+      "orig_slug": "heres-why-platinum-international-technology-fund-increased-its-stake-in-intuitiv-e4bddbdf"
     },
     {
       "title": "Analyst Report: Equity Residential Properties",
@@ -110,103 +290,40 @@
       "orig_slug": "analyst-report-equity-residential-properties-80c5d7a1"
     },
     {
-      "title": "Buy! Analysts Pound The Table For 11 S&P 500 Stocks In 2026",
-      "link": "https://www.investors.com/etfs-and-funds/sectors/sp500-buy-analysts-pound-the-table-for-11-sp-500-stocks-in-2026/?src=A00220&yptr=yahoo",
+      "title": "Nucor, Steel Dynamics Warn of Profit Shortfalls",
+      "link": "https://www.wsj.com/business/earnings/nucor-steel-dynamics-warn-of-profit-shortfalls-520fe623?siteid=yhoof2&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T12:46:44Z",
+      "pubDate": "2025-12-17T14:28:00Z",
       "image": "",
-      "slug": "buy-analysts-pound-the-table-for-11-sp-500-stocks-in-2026-9259f5e1",
-      "orig_slug": "buy-analysts-pound-the-table-for-11-sp-500-stocks-in-2026-9259f5e1"
+      "slug": "nucor-steel-dynamics-warn-of-profit-shortfalls-5fb16f6d",
+      "orig_slug": "nucor-steel-dynamics-warn-of-profit-shortfalls-5fb16f6d"
     },
     {
-      "title": "Databricks CEO Ali Ghodsi on where AI is most bubbly, and how the company settled on its $134 billion valuation",
-      "link": "https://finance.yahoo.com/news/databricks-ceo-ali-ghodsi-where-124416878.html",
+      "title": "Here’s Platinum International Technology Fund’s Thoughts on the Impact of ChatGPT on Meta Platforms (META)",
+      "link": "https://finance.yahoo.com/news/platinum-international-technology-fund-thoughts-131507952.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T12:44:16Z",
-      "image": "https://media.zenfs.com/en/fortune_175/0a5c5bc47e20356a87084147969ac33b",
-      "slug": "databricks-ceo-ali-ghodsi-on-where-ai-is-most-bubbly-and-how-the-company-settled-96b74302",
-      "orig_slug": "databricks-ceo-ali-ghodsi-on-where-ai-is-most-bubbly-and-how-the-company-settled-96b74302"
+      "pubDate": "2025-12-17T13:15:07Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/3bb8ee25366b0d99cae297f8032c1254",
+      "slug": "heres-platinum-international-technology-funds-thoughts-on-the-impact-of-chatgpt--ecc0a3e7",
+      "orig_slug": "heres-platinum-international-technology-funds-thoughts-on-the-impact-of-chatgpt--ecc0a3e7"
     },
     {
-      "title": "FedEx Earnings Preview: What to Expect",
-      "link": "https://finance.yahoo.com/news/fedex-earnings-preview-expect-125130028.html",
+      "title": "Analysts Are Positive On Celsius Holdings, Inc. (NASDAQ:CELH)",
+      "link": "https://finance.yahoo.com/news/analysts-positive-celsius-holdings-inc-131352656.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T12:51:30Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/e860259a669dfe24eb93492e7f2ca557",
-      "slug": "fedex-earnings-preview-what-to-expect-d6e51e81",
-      "orig_slug": "fedex-earnings-preview-what-to-expect-d6e51e81"
+      "pubDate": "2025-12-17T13:13:52Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/4fcfb28eb27592c4f86abdf3105462a9",
+      "slug": "analysts-are-positive-on-celsius-holdings-inc-nasdaqcelh-f1c3d180",
+      "orig_slug": "analysts-are-positive-on-celsius-holdings-inc-nasdaqcelh-f1c3d180"
     },
     {
-      "title": "Waymo Valuation Could Top $100 Billion In New Funding Round. Is Google Stock A Buy?",
-      "link": "https://www.investors.com/news/technology/google-stock-buy-alphabet-stock-december-2025/?src=A00220&yptr=yahoo",
+      "title": "Accenture's Q1 2026 Earnings: What to Expect",
+      "link": "https://finance.yahoo.com/news/accentures-q1-2026-earnings-expect-131409646.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T12:49:12Z",
-      "image": "",
-      "slug": "waymo-valuation-could-top-100-billion-in-new-funding-round-is-google-stock-a-buy-465cd1e8",
-      "orig_slug": "waymo-valuation-could-top-100-billion-in-new-funding-round-is-google-stock-a-buy-465cd1e8"
-    },
-    {
-      "title": "This Growth Stock With 137% Upside Faces New Challenge: Buy, Hold or Sell?",
-      "link": "https://finance.yahoo.com/news/growth-stock-137-upside-faces-123002062.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T12:30:02Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/236d4e460804212477f656c97c032593",
-      "slug": "this-growth-stock-with-137-upside-faces-new-challenge-buy-hold-or-sell-04a1e671",
-      "orig_slug": "this-growth-stock-with-137-upside-faces-new-challenge-buy-hold-or-sell-04a1e671"
-    },
-    {
-      "title": "Analyst Report: Solventum Corp",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_6200_AnalystReport_1766060307000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-18T12:18:27Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "analyst-report-solventum-corp-f9cd669c",
-      "orig_slug": "analyst-report-solventum-corp-f9cd669c"
-    },
-    {
-      "title": "Is TKO Group Stock Outperforming the S&P 500?",
-      "link": "https://finance.yahoo.com/news/tko-group-stock-outperforming-p-125326497.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T12:53:26Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/5e8f936c3140d7b4b2c375470b4a7378",
-      "slug": "is-tko-group-stock-outperforming-the-sp-500-4b0cd880",
-      "orig_slug": "is-tko-group-stock-outperforming-the-sp-500-4b0cd880"
-    },
-    {
-      "title": "GE Vernova price target raised to $840 from $735 at Goldman Sachs",
-      "link": "https://finance.yahoo.com/news/ge-vernova-price-target-raised-123510536.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T12:35:10Z",
-      "image": "https://media.zenfs.com/en/tipranks_452/b3fdc84be0326986f5b641950d19fc86",
-      "slug": "ge-vernova-price-target-raised-to-840-from-735-at-goldman-sachs-5065f3dd",
-      "orig_slug": "ge-vernova-price-target-raised-to-840-from-735-at-goldman-sachs-5065f3dd"
-    },
-    {
-      "title": "Analysis-Gold forecast to glitter again next year despite biggest gain since 1979",
-      "link": "https://finance.yahoo.com/news/analysis-gold-forecast-glitter-again-122423465.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T12:28:00Z",
-      "image": "https://media.zenfs.com/en/reuters.com/579e9ac5fec38d8d487eb4858a87e2ba",
-      "slug": "analysis-gold-forecast-to-glitter-again-next-year-despite-biggest-gain-since-197-081831ab",
-      "orig_slug": "analysis-gold-forecast-to-glitter-again-next-year-despite-biggest-gain-since-197-081831ab"
-    },
-    {
-      "title": "As private market revenues climb toward $432.2 billion, investors accelerate moves into private equity and real estate",
-      "link": "https://finance.yahoo.com/news/private-market-revenues-climb-toward-125500215.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T12:55:00Z",
-      "image": "https://media.zenfs.com/en/moneywise_ecomm_711/a5e52e876d5f78890fd53d3af4e2285b",
-      "slug": "as-private-market-revenues-climb-toward-4322-billion-investors-accelerate-moves--5206cd24",
-      "orig_slug": "as-private-market-revenues-climb-toward-4322-billion-investors-accelerate-moves--5206cd24"
-    },
-    {
-      "title": "How Is BXP, Inc.'s Stock Performance Compared to Other REIT Stocks?",
-      "link": "https://finance.yahoo.com/news/bxp-inc-stock-performance-compared-122532277.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T12:25:32Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/b33c850ccb1a90ec5aa8a57a07c549e2",
-      "slug": "how-is-bxp-incs-stock-performance-compared-to-other-reit-stocks-301ec331",
-      "orig_slug": "how-is-bxp-incs-stock-performance-compared-to-other-reit-stocks-301ec331"
+      "pubDate": "2025-12-17T13:14:09Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/52e8b17063c5c6269f833d624bbf55ce",
+      "slug": "accentures-q1-2026-earnings-what-to-expect-34fedfb1",
+      "orig_slug": "accentures-q1-2026-earnings-what-to-expect-34fedfb1"
     },
     {
       "title": "Analyst Report: Jabil Inc",
@@ -218,229 +335,76 @@
       "orig_slug": "analyst-report-jabil-inc-c90eb354"
     },
     {
-      "title": "Franco-German Defense Group KNDS to Go Public in Dual Listing",
-      "link": "https://www.wsj.com/business/c-suite/franco-german-defense-group-knds-to-go-public-in-dual-listing-8a394dd7?siteid=yhoof2&yptr=yahoo",
+      "title": "SEC Fraud Suit Forces Crypto VC Shima Capital into Wind-Down",
+      "link": "https://finance.yahoo.com/news/sec-fraud-suit-forces-crypto-140837526.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T12:25:00Z",
-      "image": "",
-      "slug": "franco-german-defense-group-knds-to-go-public-in-dual-listing-f06f29a0",
-      "orig_slug": "franco-german-defense-group-knds-to-go-public-in-dual-listing-f06f29a0"
+      "pubDate": "2025-12-17T14:08:37Z",
+      "image": "https://media.zenfs.com/en/coinspeaker_us_106/724b0cac80e06d5ba544bcd05e97ed48",
+      "slug": "sec-fraud-suit-forces-crypto-vc-shima-capital-into-wind-down-586845dc",
+      "orig_slug": "sec-fraud-suit-forces-crypto-vc-shima-capital-into-wind-down-586845dc"
     },
     {
-      "title": "Binance Puts $5 Million Bounty on Fake Listing Agents as Scrutiny Intensifies",
-      "link": "https://finance.yahoo.com/news/binance-puts-5-million-bounty-123559738.html",
+      "title": "Wall Street Stays Selectively Positive on BJ’s Wholesale Club Holdings, Inc. (BJ)",
+      "link": "https://finance.yahoo.com/news/wall-street-stays-selectively-positive-131405505.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T12:35:59Z",
-      "image": "https://media.zenfs.com/en/beincrypto_us_662/317fca16c974069bcf10bc2f1ee5f96e",
-      "slug": "binance-puts-5-million-bounty-on-fake-listing-agents-as-scrutiny-intensifies-0e34b20d",
-      "orig_slug": "binance-puts-5-million-bounty-on-fake-listing-agents-as-scrutiny-intensifies-0e34b20d"
+      "pubDate": "2025-12-17T13:14:05Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/a23b02e466b1008dd8537f550d29cb0a",
+      "slug": "wall-street-stays-selectively-positive-on-bjs-wholesale-club-holdings-inc-bj-0f4c94aa",
+      "orig_slug": "wall-street-stays-selectively-positive-on-bjs-wholesale-club-holdings-inc-bj-0f4c94aa"
     },
     {
-      "title": "What Makes Allot (ALLT) a Unique Opportunity in the Security Software Space?",
-      "link": "https://finance.yahoo.com/news/makes-allot-allt-unique-opportunity-125629345.html",
+      "title": "Analyst Upgrade Highlights 18% Upside in JBS N.V. (JBS)",
+      "link": "https://finance.yahoo.com/news/analyst-upgrade-highlights-18-upside-131353472.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T12:56:29Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/3a912d6d378d3b713a0057d2021bf568",
-      "slug": "what-makes-allot-allt-a-unique-opportunity-in-the-security-software-space-07eab3ce",
-      "orig_slug": "what-makes-allot-allt-a-unique-opportunity-in-the-security-software-space-07eab3ce"
+      "pubDate": "2025-12-17T13:13:53Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/e13d0819f9ef0bf4fab0bdf1764960db",
+      "slug": "analyst-upgrade-highlights-18-upside-in-jbs-nv-jbs-64cc1980",
+      "orig_slug": "analyst-upgrade-highlights-18-upside-in-jbs-nv-jbs-64cc1980"
     },
     {
-      "title": "What Makes Avidia Bancorp (AVBC) an Investment Choice?",
-      "link": "https://finance.yahoo.com/news/makes-avidia-bancorp-avbc-investment-125808459.html",
+      "title": "Why TD Cowen Remains Cautious on Coty Inc. (COTY)",
+      "link": "https://finance.yahoo.com/news/why-td-cowen-remains-cautious-131401005.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T12:58:08Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/c7dff6c19b1602abb3291e5a59b5ab4e",
-      "slug": "what-makes-avidia-bancorp-avbc-an-investment-choice-6a210e1c",
-      "orig_slug": "what-makes-avidia-bancorp-avbc-an-investment-choice-6a210e1c"
+      "pubDate": "2025-12-17T13:14:01Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/c6d855da09b376735f7f84433cd321aa",
+      "slug": "why-td-cowen-remains-cautious-on-coty-inc-coty-5b360a7b",
+      "orig_slug": "why-td-cowen-remains-cautious-on-coty-inc-coty-5b360a7b"
     },
     {
-      "title": "Nasdaq-100 Rebalance Trade That No One Talks About",
-      "link": "https://finance.yahoo.com/news/nasdaq-100-rebalance-trade-no-130008591.html",
+      "title": "Post Holdings, Inc. (POST) Remains Favored as Analysts Look Past Near-Term Challenges",
+      "link": "https://finance.yahoo.com/news/post-holdings-inc-post-remains-131400127.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T13:00:08Z",
-      "image": "https://media.zenfs.com/en/schaeffers_investment_research_24/4794440d7dc72156ed0cfdb61c0cfef1",
-      "slug": "nasdaq-100-rebalance-trade-that-no-one-talks-about-caf110a0",
-      "orig_slug": "nasdaq-100-rebalance-trade-that-no-one-talks-about-caf110a0"
+      "pubDate": "2025-12-17T13:14:00Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/8705f204a1c504ae98f5c4b6bf3acc0f",
+      "slug": "post-holdings-inc-post-remains-favored-as-analysts-look-past-near-term-challenge-82845520",
+      "orig_slug": "post-holdings-inc-post-remains-favored-as-analysts-look-past-near-term-challenge-82845520"
     },
     {
-      "title": "Market Digest: EQR, JBL, ULTA, WBD, DG, SOLV",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_45630_MarketSummary_1766059407000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "title": "Analyst Report: Solventum Corp",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_6200_AnalystReport_1766060307000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-18T12:03:27Z",
+      "pubDate": "2025-12-18T12:18:27Z",
       "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "market-digest-eqr-jbl-ulta-wbd-dg-solv-96b734df",
-      "orig_slug": "market-digest-eqr-jbl-ulta-wbd-dg-solv-96b734df"
+      "slug": "analyst-report-solventum-corp-f9cd669c",
+      "orig_slug": "analyst-report-solventum-corp-f9cd669c"
     },
     {
-      "title": "Warner Bros recommends investors reject Paramount's offer in favor of Netflix's",
-      "link": "https://finance.yahoo.com/news/warner-bros-asks-investors-reject-121935116.html",
+      "title": "Where Will SoFi Technologies Be in 10 Years?",
+      "link": "https://finance.yahoo.com/news/where-sofi-technologies-10-years-135000651.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T12:19:35Z",
-      "image": "https://media.zenfs.com/en/ap_finance_articles_694/1760162129d1c7dd2cd78c41073e8d97",
-      "slug": "warner-bros-recommends-investors-reject-paramounts-offer-in-favor-of-netflixs-2d44c7e6",
-      "orig_slug": "warner-bros-recommends-investors-reject-paramounts-offer-in-favor-of-netflixs-2d44c7e6"
+      "pubDate": "2025-12-17T13:50:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/1a2bafd03287df2fd2b3ea4090042ca1",
+      "slug": "where-will-sofi-technologies-be-in-10-years-cd5ee4d9",
+      "orig_slug": "where-will-sofi-technologies-be-in-10-years-cd5ee4d9"
     },
     {
-      "title": "Parker-Hannifin price target raised to $1,000 from $900 at Goldman Sachs",
-      "link": "https://finance.yahoo.com/news/parker-hannifin-price-target-raised-123523084.html",
+      "title": "Ollie’s Bargain Outlet Holdings, Inc. (OLLI) Among RBC’s Top Retail Picks For 2026",
+      "link": "https://finance.yahoo.com/news/ollie-bargain-outlet-holdings-inc-131403235.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T12:35:23Z",
-      "image": "https://media.zenfs.com/en/tipranks_452/09c97dfc67cca12ddb489da8133850ca",
-      "slug": "parker-hannifin-price-target-raised-to-1000-from-900-at-goldman-sachs-2068f6e6",
-      "orig_slug": "parker-hannifin-price-target-raised-to-1000-from-900-at-goldman-sachs-2068f6e6"
-    },
-    {
-      "title": "What's a Smart Retirement Budget at 65 With $1.5M and $4,200 in Social Security?",
-      "link": "https://finance.yahoo.com/news/were-65-1-5-million-100000307.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T13:00:00Z",
-      "image": "https://media.zenfs.com/en/smartasset_475/1078592adefeb36227197784b3e5ee4a",
-      "slug": "whats-a-smart-retirement-budget-at-65-with-15m-and-4200-in-social-security-aefc2f09",
-      "orig_slug": "whats-a-smart-retirement-budget-at-65-with-15m-and-4200-in-social-security-aefc2f09"
-    },
-    {
-      "title": "Is Lennox International Stock Underperforming the S&P 500?",
-      "link": "https://finance.yahoo.com/news/lennox-international-stock-underperforming-p-121952708.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T12:19:52Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/83e80e5e52a52b8a6e584bb2edd6a950",
-      "slug": "is-lennox-international-stock-underperforming-the-sp-500-7e30ed60",
-      "orig_slug": "is-lennox-international-stock-underperforming-the-sp-500-7e30ed60"
-    },
-    {
-      "title": "Is Coastal Financial Corporation (CCB) an Attractive Investment?",
-      "link": "https://finance.yahoo.com/news/coastal-financial-corporation-ccb-attractive-130035428.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T13:00:35Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/5dd03633ea8da9907c1bf38bad2ae2bd",
-      "slug": "is-coastal-financial-corporation-ccb-an-attractive-investment-116d809f",
-      "orig_slug": "is-coastal-financial-corporation-ccb-an-attractive-investment-116d809f"
-    },
-    {
-      "title": "Daily – Vickers Top Insider Picks for 12/18/2025",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_45628_InsiderActivity_1766058039000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-18T11:40:39Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-vickers-top-insider-picks-for-12182025-75f2efd1",
-      "orig_slug": "daily-vickers-top-insider-picks-for-12182025-75f2efd1"
-    },
-    {
-      "title": "Texas Pacific Land Stock: Is TPL Underperforming the Energy Sector?",
-      "link": "https://finance.yahoo.com/news/texas-pacific-land-stock-tpl-121507403.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T12:15:07Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/754d1add9645fb46c7ad31fc4fa63ccc",
-      "slug": "texas-pacific-land-stock-is-tpl-underperforming-the-energy-sector-d27077a1",
-      "orig_slug": "texas-pacific-land-stock-is-tpl-underperforming-the-energy-sector-d27077a1"
-    },
-    {
-      "title": "The Safest Dividend ETF for a Recession -- Based on 30 Years of Market Data",
-      "link": "https://finance.yahoo.com/news/safest-dividend-etf-recession-based-123500784.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T12:35:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/199792857c6236550fcda10cf1a40503",
-      "slug": "the-safest-dividend-etf-for-a-recession----based-on-30-years-of-market-data-6244b3ce",
-      "orig_slug": "the-safest-dividend-etf-for-a-recession----based-on-30-years-of-market-data-6244b3ce"
-    },
-    {
-      "title": "Sterling Could Fall Against Australian Dollar on Monetary Policy Divergence",
-      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-fed-rate-cut-prospects-may-support-1d033590?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T12:15:00Z",
-      "image": "",
-      "slug": "sterling-could-fall-against-australian-dollar-on-monetary-policy-divergence-855b56af",
-      "orig_slug": "sterling-could-fall-against-australian-dollar-on-monetary-policy-divergence-855b56af"
-    },
-    {
-      "title": "TransAlta Gets Energy Department Order to Keep Washington Coal-Fired Plant in Operation for 90 Days",
-      "link": "https://www.wsj.com/business/energy-oil/transalta-gets-energy-department-order-to-keep-washington-coal-fired-plant-in-operation-for-90-days-98d28ee4?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T13:04:00Z",
-      "image": "",
-      "slug": "transalta-gets-energy-department-order-to-keep-washington-coal-fired-plant-in-op-d35b9871",
-      "orig_slug": "transalta-gets-energy-department-order-to-keep-washington-coal-fired-plant-in-op-d35b9871"
-    },
-    {
-      "title": "What Makes Mayville Engineering Company (MEC) a Good Long-Term Holding?",
-      "link": "https://finance.yahoo.com/news/makes-mayville-engineering-company-mec-130543347.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T13:05:43Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/9a4cfef195a8972d19917f2cb6059eaa",
-      "slug": "what-makes-mayville-engineering-company-mec-a-good-long-term-holding-d0ae7e56",
-      "orig_slug": "what-makes-mayville-engineering-company-mec-a-good-long-term-holding-d0ae7e56"
-    },
-    {
-      "title": "Daily – Vickers Top Buyers & Sellers for 12/18/2025",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_45629_TopBottomInsiderActivity_1766058039000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-18T11:40:39Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-vickers-top-buyers-sellers-for-12182025-a342bfd4",
-      "orig_slug": "daily-vickers-top-buyers-sellers-for-12182025-a342bfd4"
-    },
-    {
-      "title": "Warner Bros. Rejects 'Inferior' Paramount Offer, Sticks With Netflix",
-      "link": "https://www.investors.com/news/warner-bros-discovery-paramount-skydance-netflix-merger-hollywood-movies/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T12:11:38Z",
-      "image": "",
-      "slug": "warner-bros-rejects-inferior-paramount-offer-sticks-with-netflix-9e999c9a",
-      "orig_slug": "warner-bros-rejects-inferior-paramount-offer-sticks-with-netflix-9e999c9a"
-    },
-    {
-      "title": "Lead Campari shareholder settles tax dispute",
-      "link": "https://finance.yahoo.com/news/lead-campari-shareholder-settles-tax-124626257.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T12:46:26Z",
-      "image": "https://media.zenfs.com/en/just_drinks_442/766bd1a9380c2fe864b92a60336368b1",
-      "slug": "lead-campari-shareholder-settles-tax-dispute-293fdd0d",
-      "orig_slug": "lead-campari-shareholder-settles-tax-dispute-293fdd0d"
-    },
-    {
-      "title": "Where’s the Santa Claus Rally? Stocks Aren’t Following Traditional December Trends.",
-      "link": "https://www.barrons.com/articles/stock-market-santa-claus-december-rally-979749bb?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T12:10:00Z",
-      "image": "",
-      "slug": "wheres-the-santa-claus-rally-stocks-arent-following-traditional-december-trends-ac4d4211",
-      "orig_slug": "wheres-the-santa-claus-rally-stocks-arent-following-traditional-december-trends-ac4d4211"
-    },
-    {
-      "title": "Dow Jones Futures Rise, Nasdaq Eyes Key Level; Tesla, Amazon, Defense Firms In Focus",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-tesla-highs-palantir-eyes-buy-point/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T13:07:22Z",
-      "image": "",
-      "slug": "dow-jones-futures-rise-nasdaq-eyes-key-level-tesla-amazon-defense-firms-in-focus-652b9bc5",
-      "orig_slug": "dow-jones-futures-rise-nasdaq-eyes-key-level-tesla-amazon-defense-firms-in-focus-652b9bc5"
-    },
-    {
-      "title": "Jabil Stock Pops After Earnings. It’s Becoming an AI Winner.",
-      "link": "https://www.barrons.com/articles/jabil-stock-price-earnings-21bde398?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T13:08:00Z",
-      "image": "",
-      "slug": "jabil-stock-pops-after-earnings-its-becoming-an-ai-winner-ec3b5676",
-      "orig_slug": "jabil-stock-pops-after-earnings-its-becoming-an-ai-winner-ec3b5676"
-    },
-    {
-      "title": "Wall Street Sees a 216% Upside to Liberty Global (LBTYK)",
-      "link": "https://finance.yahoo.com/news/wall-street-sees-216-upside-131115113.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T13:11:15Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/bb3fda785fb5d68473dfa440830f97d2",
-      "slug": "wall-street-sees-a-216-upside-to-liberty-global-lbtyk-99d94fac",
-      "orig_slug": "wall-street-sees-a-216-upside-to-liberty-global-lbtyk-99d94fac"
-    },
-    {
-      "title": "How the UK Could Make Stablecoins a Core Part of Payments in 2026",
-      "link": "https://finance.yahoo.com/news/uk-could-stablecoins-core-part-124900654.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-17T12:49:00Z",
-      "image": "https://media.zenfs.com/en/beincrypto_us_662/e6d92032f8cbb3335a8cd54fbdf17dee",
-      "slug": "how-the-uk-could-make-stablecoins-a-core-part-of-payments-in-2026-71626d54",
-      "orig_slug": "how-the-uk-could-make-stablecoins-a-core-part-of-payments-in-2026-71626d54"
+      "pubDate": "2025-12-17T13:14:03Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/c1791b1eaf9af3f2323f47da16bfd6ee",
+      "slug": "ollies-bargain-outlet-holdings-inc-olli-among-rbcs-top-retail-picks-for-2026-0f4fce68",
+      "orig_slug": "ollies-bargain-outlet-holdings-inc-olli-among-rbcs-top-retail-picks-for-2026-0f4fce68"
     }
   ]
 }
