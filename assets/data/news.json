@@ -1,320 +1,59 @@
 {
-  "updated": "2025-12-20T11:10:08Z",
+  "updated": "2025-12-20T12:21:34Z",
   "items": [
     {
-      "title": "Global Markets, U.S. Futures Nudge Up on Cool U.S. Inflation",
-      "link": "https://www.wsj.com/finance/stocks/global-markets-u-s-futures-nudge-up-on-cool-u-s-inflation-045d33cb?siteid=yhoof2&yptr=yahoo",
+      "title": "Where Will Broadcom Stock Be in 1 Year?",
+      "link": "https://finance.yahoo.com/news/where-broadcom-stock-1-120500987.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T09:42:00Z",
+      "pubDate": "2025-12-20T12:05:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/37004f236ebc127c5e07f555c906b9c7",
+      "slug": "where-will-broadcom-stock-be-in-1-year-97928ec4",
+      "orig_slug": "where-will-broadcom-stock-be-in-1-year-97928ec4"
+    },
+    {
+      "title": "Bitcoin Bounces, But Strategy's Buying Power Is Low On Fuel",
+      "link": "https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-19T10:47:30Z",
       "image": "",
-      "slug": "global-markets-us-futures-nudge-up-on-cool-us-inflation-7148acd5",
-      "orig_slug": "global-markets-us-futures-nudge-up-on-cool-us-inflation-7148acd5"
+      "slug": "bitcoin-bounces-but-strategys-buying-power-is-low-on-fuel-aa68f24c",
+      "orig_slug": "bitcoin-bounces-but-strategys-buying-power-is-low-on-fuel-aa68f24c"
     },
     {
-      "title": "Bitcoin price to $1.4m by 2035, Kraken-backed research firm says",
-      "link": "https://finance.yahoo.com/news/bitcoin-price-1-4m-2035-093417811.html",
+      "title": "Insurance Rates Should Fall Next Year. Hopefully Not Too Much.",
+      "link": "https://www.wsj.com/finance/insurance-rates-should-fall-next-year-hopefully-not-too-much-9acd37ec?siteid=yhoof2&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T09:34:17Z",
-      "image": "https://media.zenfs.com/en/dlnews_702/2291b363232f9a2b842cc6b206c269c7",
-      "slug": "bitcoin-price-to-14m-by-2035-kraken-backed-research-firm-says-22937a2d",
-      "orig_slug": "bitcoin-price-to-14m-by-2035-kraken-backed-research-firm-says-22937a2d"
+      "pubDate": "2025-12-19T10:30:00Z",
+      "image": "",
+      "slug": "insurance-rates-should-fall-next-year-hopefully-not-too-much-cbbbff41",
+      "orig_slug": "insurance-rates-should-fall-next-year-hopefully-not-too-much-cbbbff41"
     },
     {
-      "title": "What to Expect From Citizens Financial's Q4 2025 Earnings Report",
-      "link": "https://finance.yahoo.com/news/expect-citizens-financials-q4-2025-093244239.html",
+      "title": "Gold Headed for Weekly Gain on U.S. Rate-Cut Bets",
+      "link": "https://www.barrons.com/livecoverage/stock-market-news-today-121925/card/gold-headed-for-weekly-gain-on-u-s-rate-cut-bets-qyTLsl8h0UZ5ObBhSNmy?siteid=yhoof2&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T09:32:44Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/ca557f3b34eaf784363b4411e5f06b8a",
-      "slug": "what-to-expect-from-citizens-financials-q4-2025-earnings-report-d148abef",
-      "orig_slug": "what-to-expect-from-citizens-financials-q4-2025-earnings-report-d148abef"
-    },
-    {
-      "title": "BeOne Medicines names R&D chief Wang Lai as co-president to lead global expansion",
-      "link": "https://finance.yahoo.com/news/beone-medicines-names-r-d-093000292.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T09:30:00Z",
-      "image": "https://media.zenfs.com/en/south_china_morning_post_us_228/f074b88a0ad5ccc1035e0d76d4df928c",
-      "slug": "beone-medicines-names-rd-chief-wang-lai-as-co-president-to-lead-global-expansion-7897cf7f",
-      "orig_slug": "beone-medicines-names-rd-chief-wang-lai-as-co-president-to-lead-global-expansion-7897cf7f"
-    },
-    {
-      "title": "China's pharmaceutical sector moves into the big leagues as a global innovation powerhouse",
-      "link": "https://finance.yahoo.com/news/chinas-pharmaceutical-sector-moves-big-093000688.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T09:30:00Z",
-      "image": "https://media.zenfs.com/en/south_china_morning_post_us_228/4c13c9241eb904442a667a6fff77d8e8",
-      "slug": "chinas-pharmaceutical-sector-moves-into-the-big-leagues-as-a-global-innovation-p-c9674bbb",
-      "orig_slug": "chinas-pharmaceutical-sector-moves-into-the-big-leagues-as-a-global-innovation-p-c9674bbb"
-    },
-    {
-      "title": "Need for speed: Alibaba ramps up China instant commerce push with Cainiao and Tmall tie-up",
-      "link": "https://finance.yahoo.com/news/speed-alibaba-ramps-china-instant-093000451.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T09:30:00Z",
-      "image": "https://media.zenfs.com/en/south_china_morning_post_us_228/ff1d4f682b841645508aee22b2998e17",
-      "slug": "need-for-speed-alibaba-ramps-up-china-instant-commerce-push-with-cainiao-and-tma-c408af23",
-      "orig_slug": "need-for-speed-alibaba-ramps-up-china-instant-commerce-push-with-cainiao-and-tma-c408af23"
-    },
-    {
-      "title": "Metaplanet to start sponsored ADR program to woo over-the-counter U.S. investors",
-      "link": "https://finance.yahoo.com/news/metaplanet-start-sponsored-adr-program-094111974.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T09:41:11Z",
-      "image": "https://media.zenfs.com/en/coindesk_75/215f55058501e04d72231fb0441e4917",
-      "slug": "metaplanet-to-start-sponsored-adr-program-to-woo-over-the-counter-us-investors-dc1416d3",
-      "orig_slug": "metaplanet-to-start-sponsored-adr-program-to-woo-over-the-counter-us-investors-dc1416d3"
-    },
-    {
-      "title": "China eyes mastery of EUV lithography, bolstering AI chip ambitions, analysts say",
-      "link": "https://finance.yahoo.com/news/china-eyes-mastery-euv-lithography-093000311.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T09:30:00Z",
-      "image": "https://media.zenfs.com/en/south_china_morning_post_us_228/c502d9510589eb5c74fab4d7dfc3e83e",
-      "slug": "china-eyes-mastery-of-euv-lithography-bolstering-ai-chip-ambitions-analysts-say-e952b939",
-      "orig_slug": "china-eyes-mastery-of-euv-lithography-bolstering-ai-chip-ambitions-analysts-say-e952b939"
-    },
-    {
-      "title": "Tech pivot: Chinese AI, chip start-ups court global investors with Hong Kong listing plans",
-      "link": "https://finance.yahoo.com/news/tech-pivot-chinese-ai-chip-093000657.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T09:30:00Z",
-      "image": "https://media.zenfs.com/en/south_china_morning_post_us_228/3da9f4345e7be56de21f1482c449851f",
-      "slug": "tech-pivot-chinese-ai-chip-start-ups-court-global-investors-with-hong-kong-listi-b79e9e6b",
-      "orig_slug": "tech-pivot-chinese-ai-chip-start-ups-court-global-investors-with-hong-kong-listi-b79e9e6b"
-    },
-    {
-      "title": "Hong Kong stocks cap longest rising streak in 3 weeks on cooling US inflation data",
-      "link": "https://finance.yahoo.com/news/hong-kong-stocks-head-longest-093000217.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T09:30:00Z",
-      "image": "https://media.zenfs.com/en/south_china_morning_post_us_228/96e6a53a7e9b680ee3a9afd9a65a124a",
-      "slug": "hong-kong-stocks-cap-longest-rising-streak-in-3-weeks-on-cooling-us-inflation-da-16580451",
-      "orig_slug": "hong-kong-stocks-cap-longest-rising-streak-in-3-weeks-on-cooling-us-inflation-da-16580451"
-    },
-    {
-      "title": "What to Expect From PNC Financial Services’ Next Quarterly Earnings Report",
-      "link": "https://finance.yahoo.com/news/expect-pnc-financial-services-next-092908291.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T09:29:08Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/57e43f526deb412beeb449e4eb41e78c",
-      "slug": "what-to-expect-from-pnc-financial-services-next-quarterly-earnings-report-f5d00db4",
-      "orig_slug": "what-to-expect-from-pnc-financial-services-next-quarterly-earnings-report-f5d00db4"
-    },
-    {
-      "title": "Enery obtains DSK Bank funding for 600MWh BESS in Bulgaria",
-      "link": "https://finance.yahoo.com/news/enery-obtains-dsk-bank-funding-094140934.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T09:41:40Z",
-      "image": "https://media.zenfs.com/en/power_technology_866/a76b75e9c0756e4a5be194a543542397",
-      "slug": "enery-obtains-dsk-bank-funding-for-600mwh-bess-in-bulgaria-cbcc15ce",
-      "orig_slug": "enery-obtains-dsk-bank-funding-for-600mwh-bess-in-bulgaria-cbcc15ce"
-    },
-    {
-      "title": "Oil Poised for Weekly Loss on Oversupply Fears",
-      "link": "https://www.barrons.com/livecoverage/stock-market-news-today-121925/card/oil-poised-for-weekly-loss-on-oversupply-fears-hintiCQ2RwX7cKR9Fwme?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T09:46:50Z",
+      "pubDate": "2025-12-19T10:30:12Z",
       "image": "https://images.barrons.com/im-783602/social",
-      "slug": "oil-poised-for-weekly-loss-on-oversupply-fears-d1943c0c",
-      "orig_slug": "oil-poised-for-weekly-loss-on-oversupply-fears-d1943c0c"
+      "slug": "gold-headed-for-weekly-gain-on-us-rate-cut-bets-e650c098",
+      "orig_slug": "gold-headed-for-weekly-gain-on-us-rate-cut-bets-e650c098"
     },
     {
-      "title": "What You Need to Know Ahead of State Street's Earnings Release",
-      "link": "https://finance.yahoo.com/news/know-ahead-state-streets-earnings-092244669.html",
+      "title": "A Detroit woman bought 8 fixer-upper properties in the 'most unlikely real-estate boomtown'",
+      "link": "https://finance.yahoo.com/news/detroit-woman-bought-8-fixer-102900239.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T09:22:44Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/c135cd12c73335843d8db2dc55f4186a",
-      "slug": "what-you-need-to-know-ahead-of-state-streets-earnings-release-62378f8f",
-      "orig_slug": "what-you-need-to-know-ahead-of-state-streets-earnings-release-62378f8f"
+      "pubDate": "2025-12-19T10:29:00Z",
+      "image": "https://media.zenfs.com/en/moneywise_ecomm_711/6cb045109b3813ab9f53908c2cf16c03",
+      "slug": "a-detroit-woman-bought-8-fixer-upper-properties-in-the-most-unlikely-real-estate-d07ed788",
+      "orig_slug": "a-detroit-woman-bought-8-fixer-upper-properties-in-the-most-unlikely-real-estate-d07ed788"
     },
     {
-      "title": "Morgan Stanley Upgrades Accenture (ACN) to Overweight, Raises Target to $320",
-      "link": "https://finance.yahoo.com/news/morgan-stanley-upgrades-accenture-acn-091300390.html",
+      "title": "Ethereum Leads Wall Street Tokenization Race as Mass Adoption Looms",
+      "link": "https://finance.yahoo.com/news/ethereum-leads-wall-street-tokenization-120215998.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T09:13:00Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/0342e7650e054600fee008f2a522e39b",
-      "slug": "morgan-stanley-upgrades-accenture-acn-to-overweight-raises-target-to-320-f21944aa",
-      "orig_slug": "morgan-stanley-upgrades-accenture-acn-to-overweight-raises-target-to-320-f21944aa"
-    },
-    {
-      "title": "CrowdStrike’s (CRWD) Market Leadership Supports Premium, Citizens Says",
-      "link": "https://finance.yahoo.com/news/crowdstrike-crwd-market-leadership-supports-091123879.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T09:11:23Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/3fa929605158b8bf15ea0964443c4c2c",
-      "slug": "crowdstrikes-crwd-market-leadership-supports-premium-citizens-says-013892b8",
-      "orig_slug": "crowdstrikes-crwd-market-leadership-supports-premium-citizens-says-013892b8"
-    },
-    {
-      "title": "Arko plans to take its wholesale business public",
-      "link": "https://finance.yahoo.com/news/arko-plans-wholesale-business-public-093940610.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T09:39:40Z",
-      "image": "https://media.zenfs.com/en/c_store_dive_342/fe527d6f8b9bb740d81ee6a4dfde2dc3",
-      "slug": "arko-plans-to-take-its-wholesale-business-public-388fa733",
-      "orig_slug": "arko-plans-to-take-its-wholesale-business-public-388fa733"
-    },
-    {
-      "title": "Canaccord Maintains Buy on Rivian (RIVN) After Autonomy & AI Day",
-      "link": "https://finance.yahoo.com/news/canaccord-maintains-buy-rivian-rivn-090740564.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T09:07:40Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/7c8bfe8c9a9bd1fa550a1e221e70896c",
-      "slug": "canaccord-maintains-buy-on-rivian-rivn-after-autonomy-ai-day-eceb2a1c",
-      "orig_slug": "canaccord-maintains-buy-on-rivian-rivn-after-autonomy-ai-day-eceb2a1c"
-    },
-    {
-      "title": "KeyBanc Turns Bearish on Adobe (ADBE) Despite Strong Q4 Results",
-      "link": "https://finance.yahoo.com/news/keybanc-turns-bearish-adobe-adbe-090604008.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T09:06:04Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/0a8656832ddbda1d9a4981e3af1c3d42",
-      "slug": "keybanc-turns-bearish-on-adobe-adbe-despite-strong-q4-results-66860f1f",
-      "orig_slug": "keybanc-turns-bearish-on-adobe-adbe-despite-strong-q4-results-66860f1f"
-    },
-    {
-      "title": "WH Smith Faces Probe From U.K. Financial Watchdog",
-      "link": "https://www.wsj.com/business/earnings/wh-smith-faces-probe-from-u-k-financial-watchdog-f34863a6?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T10:00:00Z",
-      "image": "",
-      "slug": "wh-smith-faces-probe-from-uk-financial-watchdog-71efbf22",
-      "orig_slug": "wh-smith-faces-probe-from-uk-financial-watchdog-71efbf22"
-    },
-    {
-      "title": "Stop Obsessing About Risks and Let The Banks Compete",
-      "link": "https://www.barrons.com/articles/stop-obsessing-about-risks-and-let-the-banks-compete-027daec0?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T10:00:00Z",
-      "image": "",
-      "slug": "stop-obsessing-about-risks-and-let-the-banks-compete-3b6375c3",
-      "orig_slug": "stop-obsessing-about-risks-and-let-the-banks-compete-3b6375c3"
-    },
-    {
-      "title": "Wealth Enhancement to buy independent RIA AEGIS Financial",
-      "link": "https://finance.yahoo.com/news/wealth-enhancement-buy-independent-ria-094011210.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T09:40:11Z",
-      "image": "https://media.zenfs.com/en/private_banker_international_938/ced0e3e12b707487cb79bb73cfb32a66",
-      "slug": "wealth-enhancement-to-buy-independent-ria-aegis-financial-e8c83af2",
-      "orig_slug": "wealth-enhancement-to-buy-independent-ria-aegis-financial-e8c83af2"
-    },
-    {
-      "title": "Dollar Recovers From Brief Falls After U.S. Inflation Data",
-      "link": "https://www.barrons.com/livecoverage/stock-market-news-today-121925/card/dollar-recovers-from-brief-falls-after-u-s-inflation-data-f1m57vEjZvTGL7npF9Zs?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T09:04:47Z",
-      "image": "https://images.barrons.com/im-783602/social",
-      "slug": "dollar-recovers-from-brief-falls-after-us-inflation-data-ea007ad4",
-      "orig_slug": "dollar-recovers-from-brief-falls-after-us-inflation-data-ea007ad4"
-    },
-    {
-      "title": "ServiceNow (NOW) Stock Downgraded on Structural AI Concerns, KeyBanc Says",
-      "link": "https://finance.yahoo.com/news/servicenow-now-stock-downgraded-structural-090321518.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T09:03:21Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/ed8459be7c479ae3a2bbe429fe361920",
-      "slug": "servicenow-now-stock-downgraded-on-structural-ai-concerns-keybanc-says-db25f546",
-      "orig_slug": "servicenow-now-stock-downgraded-on-structural-ai-concerns-keybanc-says-db25f546"
-    },
-    {
-      "title": "Nvidia’s (NVDA) Long-Term AI Leadership Intact, Says Bernstein",
-      "link": "https://finance.yahoo.com/news/nvidia-nvda-long-term-ai-090102747.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T09:01:02Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/812834c09c10ce2fef733674d845b175",
-      "slug": "nvidias-nvda-long-term-ai-leadership-intact-says-bernstein-c382eadb",
-      "orig_slug": "nvidias-nvda-long-term-ai-leadership-intact-says-bernstein-c382eadb"
-    },
-    {
-      "title": "Can I Retire at 60 With $2.5M Saved?",
-      "link": "https://finance.yahoo.com/news/2-5-million-enough-retire-120000967.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T09:00:00Z",
-      "image": "https://media.zenfs.com/en/smartasset_475/46343c59cb830128fa52efb500be5d70",
-      "slug": "can-i-retire-at-60-with-25m-saved-d33d2896",
-      "orig_slug": "can-i-retire-at-60-with-25m-saved-d33d2896"
-    },
-    {
-      "title": "2 Growth Stocks That Have Beaten the Market in Just 2 of the Past 5 Years",
-      "link": "https://finance.yahoo.com/news/2-growth-stocks-beaten-market-094500357.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T09:45:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/ef374d68e041dc38eecfb2b9d3bd4260",
-      "slug": "2-growth-stocks-that-have-beaten-the-market-in-just-2-of-the-past-5-years-0221f3df",
-      "orig_slug": "2-growth-stocks-that-have-beaten-the-market-in-just-2-of-the-past-5-years-0221f3df"
-    },
-    {
-      "title": "Exclusive-Nexperia's China unit switches to local firms for wafer supplies, document shows",
-      "link": "https://finance.yahoo.com/news/exclusive-nexperias-china-unit-switches-100440971.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T10:04:40Z",
-      "image": "https://media.zenfs.com/en/reuters-finance.com/120da1729fa70ac22a4e754f0f87f4d4",
-      "slug": "exclusive-nexperias-china-unit-switches-to-local-firms-for-wafer-supplies-docume-859bdf9f",
-      "orig_slug": "exclusive-nexperias-china-unit-switches-to-local-firms-for-wafer-supplies-docume-859bdf9f"
-    },
-    {
-      "title": "Raymond James Initiates MongoDB (MDB) at Market Perform, Flags AI Crossroads",
-      "link": "https://finance.yahoo.com/news/raymond-james-initiates-mongodb-mdb-085805436.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T08:58:05Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/d4563a8b34b8fc076ac23244c7cb422a",
-      "slug": "raymond-james-initiates-mongodb-mdb-at-market-perform-flags-ai-crossroads-669b90fb",
-      "orig_slug": "raymond-james-initiates-mongodb-mdb-at-market-perform-flags-ai-crossroads-669b90fb"
-    },
-    {
-      "title": "Morgan Stanley Earnings Preview: What to Expect",
-      "link": "https://finance.yahoo.com/news/morgan-stanley-earnings-preview-expect-100636655.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T10:06:36Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/76dd95130b1e0f8adc4f021bcc7597eb",
-      "slug": "morgan-stanley-earnings-preview-what-to-expect-9c306f81",
-      "orig_slug": "morgan-stanley-earnings-preview-what-to-expect-9c306f81"
-    },
-    {
-      "title": "The Argus Dividend Growth Model Portfolio",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_45655_ThematicPortfolio_1766166415000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T17:46:55Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "the-argus-dividend-growth-model-portfolio-354d2bb6",
-      "orig_slug": "the-argus-dividend-growth-model-portfolio-354d2bb6"
-    },
-    {
-      "title": "Heard on the Street Thursday Recap: Memory Boost",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-19-2025/card/heard-on-the-street-thursday-recap-memory-boost-VHWRVMcmxPxcN5o2NzOu?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T10:06:45Z",
-      "image": "",
-      "slug": "heard-on-the-street-thursday-recap-memory-boost-453cd473",
-      "orig_slug": "heard-on-the-street-thursday-recap-memory-boost-453cd473"
-    },
-    {
-      "title": "Will a Change in CEO for Lululemon Help Turn the Stock Around in 2026?",
-      "link": "https://finance.yahoo.com/news/change-ceo-lululemon-help-turn-093500984.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T09:35:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/c7249372d4f3256fd5507ba1be186e45",
-      "slug": "will-a-change-in-ceo-for-lululemon-help-turn-the-stock-around-in-2026-bc758fe0",
-      "orig_slug": "will-a-change-in-ceo-for-lululemon-help-turn-the-stock-around-in-2026-bc758fe0"
-    },
-    {
-      "title": "Piper Sandler Reiterates Overweight on AMD, Sees AI Catalysts Ahead",
-      "link": "https://finance.yahoo.com/news/piper-sandler-reiterates-overweight-amd-085223684.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T08:52:23Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/28f93515799c6f6df0ad7518b403ecf0",
-      "slug": "piper-sandler-reiterates-overweight-on-amd-sees-ai-catalysts-ahead-3fe9a8f8",
-      "orig_slug": "piper-sandler-reiterates-overweight-on-amd-sees-ai-catalysts-ahead-3fe9a8f8"
-    },
-    {
-      "title": "Bitcoin, XRP Climb. Why the Crypto Reaction to Inflation Data Is a Worry.",
-      "link": "https://www.barrons.com/articles/bitcoin-xrp-cryptos-inflation-data-fed-d59ce29f?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T08:52:00Z",
-      "image": "",
-      "slug": "bitcoin-xrp-climb-why-the-crypto-reaction-to-inflation-data-is-a-worry-7b20edc9",
-      "orig_slug": "bitcoin-xrp-climb-why-the-crypto-reaction-to-inflation-data-is-a-worry-7b20edc9"
+      "pubDate": "2025-12-20T12:02:15Z",
+      "image": "https://media.zenfs.com/en/ccn_928/7487b248989010df780e5cacbcc687ef",
+      "slug": "ethereum-leads-wall-street-tokenization-race-as-mass-adoption-looms-105f2ff2",
+      "orig_slug": "ethereum-leads-wall-street-tokenization-race-as-mass-adoption-looms-105f2ff2"
     },
     {
       "title": "Catch Up on This Week’s Central-Bank Action",
@@ -326,6 +65,258 @@
       "orig_slug": "catch-up-on-this-weeks-central-bank-action-bff130a0"
     },
     {
+      "title": "Heard on the Street Thursday Recap: Memory Boost",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-19-2025/card/heard-on-the-street-thursday-recap-memory-boost-VHWRVMcmxPxcN5o2NzOu?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-19T10:06:45Z",
+      "image": "",
+      "slug": "heard-on-the-street-thursday-recap-memory-boost-453cd473",
+      "orig_slug": "heard-on-the-street-thursday-recap-memory-boost-453cd473"
+    },
+    {
+      "title": "Morgan Stanley Earnings Preview: What to Expect",
+      "link": "https://finance.yahoo.com/news/morgan-stanley-earnings-preview-expect-100636655.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-19T10:06:36Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/76dd95130b1e0f8adc4f021bcc7597eb",
+      "slug": "morgan-stanley-earnings-preview-what-to-expect-9c306f81",
+      "orig_slug": "morgan-stanley-earnings-preview-what-to-expect-9c306f81"
+    },
+    {
+      "title": "The Link Between Emotions and Money",
+      "link": "https://finance.yahoo.com/video/between-emotions-money-104724011.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-19T10:47:24Z",
+      "image": "https://media.zenfs.com/en/thestreet_video_805/b6494e29fdbd7cbb40002efae24cdad5",
+      "slug": "the-link-between-emotions-and-money-54d3e804",
+      "orig_slug": "the-link-between-emotions-and-money-54d3e804"
+    },
+    {
+      "title": "Analysts See 12% Upside To Thermo Fisher Scientific Inc. (TMO)",
+      "link": "https://finance.yahoo.com/news/analysts-see-12-upside-thermo-115641098.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-20T11:56:41Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/310be9e29c6b513c3887b32a8d69f0b6",
+      "slug": "analysts-see-12-upside-to-thermo-fisher-scientific-inc-tmo-1f4c2038",
+      "orig_slug": "analysts-see-12-upside-to-thermo-fisher-scientific-inc-tmo-1f4c2038"
+    },
+    {
+      "title": "Analysts Forecast 9% Upside To Capital One Financial Corporation (COF)",
+      "link": "https://finance.yahoo.com/news/analysts-forecast-9-upside-capital-115638701.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-20T11:56:38Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/d33bdc283f11c51e1edf5a2884041b55",
+      "slug": "analysts-forecast-9-upside-to-capital-one-financial-corporation-cof-a608cb65",
+      "orig_slug": "analysts-forecast-9-upside-to-capital-one-financial-corporation-cof-a608cb65"
+    },
+    {
+      "title": "Oracle Corporation (ORCL) a Moderate Buy, Per Wall Street Analysts",
+      "link": "https://finance.yahoo.com/news/oracle-corporation-orcl-moderate-buy-115639407.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-20T11:56:39Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/ad45e965b4e54ca4038c3c524bb47a1a",
+      "slug": "oracle-corporation-orcl-a-moderate-buy-per-wall-street-analysts-f60a34bb",
+      "orig_slug": "oracle-corporation-orcl-a-moderate-buy-per-wall-street-analysts-f60a34bb"
+    },
+    {
+      "title": "Wall Street Remains Bullish on Mastercard Incorporated (MA)",
+      "link": "https://finance.yahoo.com/news/wall-street-remains-bullish-mastercard-115636727.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-20T11:56:36Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/084445da42ce0f7bc8998354d619ef23",
+      "slug": "wall-street-remains-bullish-on-mastercard-incorporated-ma-494fe33c",
+      "orig_slug": "wall-street-remains-bullish-on-mastercard-incorporated-ma-494fe33c"
+    },
+    {
+      "title": "TasFoods gets offers for Nichols Poultry",
+      "link": "https://finance.yahoo.com/news/tasfoods-gets-offers-nichols-poultry-103806968.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-19T10:38:06Z",
+      "image": "https://media.zenfs.com/en/just_food_692/de6a0b708d97fa77ccc547d9f7ba6f1d",
+      "slug": "tasfoods-gets-offers-for-nichols-poultry-a37a0eda",
+      "orig_slug": "tasfoods-gets-offers-for-nichols-poultry-a37a0eda"
+    },
+    {
+      "title": "Wolfe Research Cuts Netflix, Inc. (NFLX)’s Price Target To $121, Maintains Outperform Rating",
+      "link": "https://finance.yahoo.com/news/wolfe-research-cuts-netflix-inc-115633418.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-20T11:56:33Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/178d0492f21aab81c82921a17a106766",
+      "slug": "wolfe-research-cuts-netflix-inc-nflxs-price-target-to-121-maintains-outperform-r-9b99804b",
+      "orig_slug": "wolfe-research-cuts-netflix-inc-nflxs-price-target-to-121-maintains-outperform-r-9b99804b"
+    },
+    {
+      "title": "Analysts Have a Moderate Buy Rating on Apple Inc. (AAPL)",
+      "link": "https://finance.yahoo.com/news/analysts-moderate-buy-rating-apple-115631787.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-20T11:56:31Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/410ac07c4c90786d8592963501a2ed84",
+      "slug": "analysts-have-a-moderate-buy-rating-on-apple-inc-aapl-d887c6c9",
+      "orig_slug": "analysts-have-a-moderate-buy-rating-on-apple-inc-aapl-d887c6c9"
+    },
+    {
+      "title": "Exclusive-Nexperia's China unit switches to local firms for wafer supplies, document shows",
+      "link": "https://finance.yahoo.com/news/exclusive-nexperias-china-unit-switches-100440971.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-19T10:04:40Z",
+      "image": "https://media.zenfs.com/en/reuters-finance.com/120da1729fa70ac22a4e754f0f87f4d4",
+      "slug": "exclusive-nexperias-china-unit-switches-to-local-firms-for-wafer-supplies-docume-859bdf9f",
+      "orig_slug": "exclusive-nexperias-china-unit-switches-to-local-firms-for-wafer-supplies-docume-859bdf9f"
+    },
+    {
+      "title": "UBS Lifts Price Target on Broadcom Inc. (AVGO) Despite Selloff",
+      "link": "https://finance.yahoo.com/news/ubs-lifts-price-target-broadcom-115628284.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-20T11:56:28Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/ad45e965b4e54ca4038c3c524bb47a1a",
+      "slug": "ubs-lifts-price-target-on-broadcom-inc-avgo-despite-selloff-6bc00a6d",
+      "orig_slug": "ubs-lifts-price-target-on-broadcom-inc-avgo-despite-selloff-6bc00a6d"
+    },
+    {
+      "title": "These 2 Financial Stocks Beat the Market by 208% and 55% in 2025. Should You Buy Them in 2026?",
+      "link": "https://finance.yahoo.com/news/2-financial-stocks-beat-market-103500533.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-19T10:35:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/68e10ebe581f4f74cd8efaeded9eec8d",
+      "slug": "these-2-financial-stocks-beat-the-market-by-208-and-55-in-2025-should-you-buy-th-dd1b874c",
+      "orig_slug": "these-2-financial-stocks-beat-the-market-by-208-and-55-in-2025-should-you-buy-th-dd1b874c"
+    },
+    {
+      "title": "Is NVIDIA Corporation (NVDA) the Best S&P 500 Stock to Buy Now?",
+      "link": "https://finance.yahoo.com/news/nvidia-corporation-nvda-best-p-115627257.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-20T11:56:27Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/aa94e059977d3251b8b0630718e013fc",
+      "slug": "is-nvidia-corporation-nvda-the-best-sp-500-stock-to-buy-now-83df4cce",
+      "orig_slug": "is-nvidia-corporation-nvda-the-best-sp-500-stock-to-buy-now-83df4cce"
+    },
+    {
+      "title": "Analysts Rate Meta Platforms, Inc. (META) a Strong Buy, Forecast 28% Upside",
+      "link": "https://finance.yahoo.com/news/analysts-rate-meta-platforms-inc-115624625.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-20T11:56:24Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/2789a9f903e10b49fcb49a5f127bafb2",
+      "slug": "analysts-rate-meta-platforms-inc-meta-a-strong-buy-forecast-28-upside-c71c4bf7",
+      "orig_slug": "analysts-rate-meta-platforms-inc-meta-a-strong-buy-forecast-28-upside-c71c4bf7"
+    },
+    {
+      "title": "Alphabet Inc. (GOOGL) and Meta Working Together To Challenge Nvidia’s Market Dominance: Report",
+      "link": "https://finance.yahoo.com/news/alphabet-inc-googl-meta-working-115625127.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-20T11:56:25Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/b37705cc559a18e5d7c905152c29378c",
+      "slug": "alphabet-inc-googl-and-meta-working-together-to-challenge-nvidias-market-dominan-ae65a706",
+      "orig_slug": "alphabet-inc-googl-and-meta-working-together-to-challenge-nvidias-market-dominan-ae65a706"
+    },
+    {
+      "title": "Save, budget and say goodbye to debt: 6 financial resolutions to start 2026 on the right note",
+      "link": "https://finance.yahoo.com/news/save-budget-goodbye-debt-6-110000424.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-19T11:00:00Z",
+      "image": "https://media.zenfs.com/en/moneywise_327/4856b792f6c9cd8388ac1700c0e69727",
+      "slug": "save-budget-and-say-goodbye-to-debt-6-financial-resolutions-to-start-2026-on-the-3382d70e",
+      "orig_slug": "save-budget-and-say-goodbye-to-debt-6-financial-resolutions-to-start-2026-on-the-3382d70e"
+    },
+    {
+      "title": "Is Warren Buffett's Last Purchase at Berkshire Hathaway a Top Stock Pick for 2026?",
+      "link": "https://finance.yahoo.com/news/warren-buffetts-last-purchase-berkshire-105000982.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-19T10:50:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/dda201e5741c718c32061f7b6d239a19",
+      "slug": "is-warren-buffetts-last-purchase-at-berkshire-hathaway-a-top-stock-pick-for-2026-1dee27d5",
+      "orig_slug": "is-warren-buffetts-last-purchase-at-berkshire-hathaway-a-top-stock-pick-for-2026-1dee27d5"
+    },
+    {
+      "title": "Analysts See 33% Upside To Microsoft Corporation (MSFT)",
+      "link": "https://finance.yahoo.com/news/analysts-see-33-upside-microsoft-115622194.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-20T11:56:22Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/e594c84b43643f9264f217379beb7064",
+      "slug": "analysts-see-33-upside-to-microsoft-corporation-msft-ca1a2df6",
+      "orig_slug": "analysts-see-33-upside-to-microsoft-corporation-msft-ca1a2df6"
+    },
+    {
+      "title": "Can We Use a Backdoor Roth to Reduce Taxes With $300k in Income?",
+      "link": "https://finance.yahoo.com/news/over-300-000-combined-backdoor-120000651.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-19T11:00:00Z",
+      "image": "https://media.zenfs.com/en/smartasset_475/67ded7f3e8a2f2e535bb72f8319b11d4",
+      "slug": "can-we-use-a-backdoor-roth-to-reduce-taxes-with-300k-in-income-911cc1f6",
+      "orig_slug": "can-we-use-a-backdoor-roth-to-reduce-taxes-with-300k-in-income-911cc1f6"
+    },
+    {
+      "title": "Wells Fargo Reiterates Overweight Rating on Amazon.com, Inc. (AMZN)",
+      "link": "https://finance.yahoo.com/news/wells-fargo-reiterates-overweight-rating-115620466.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-20T11:56:20Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/ad45e965b4e54ca4038c3c524bb47a1a",
+      "slug": "wells-fargo-reiterates-overweight-rating-on-amazoncom-inc-amzn-d81ee672",
+      "orig_slug": "wells-fargo-reiterates-overweight-rating-on-amazoncom-inc-amzn-d81ee672"
+    },
+    {
+      "title": "Best money market account rates today, December 19, 2025 (up to 4.25% APY return)",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-friday-december-19-2025-110006390.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-19T11:00:06Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/___pOPSKzgB9WMqYppHlmg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/0ef34f60-1be6-11f0-a17f-e52542084249",
+      "slug": "best-money-market-account-rates-today-december-19-2025-up-to-425-apy-return-22053c13",
+      "orig_slug": "best-money-market-account-rates-today-december-19-2025-up-to-425-apy-return-22053c13"
+    },
+    {
+      "title": "The Argus Dividend Growth Model Portfolio",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_45655_ThematicPortfolio_1766166415000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-19T17:46:55Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "the-argus-dividend-growth-model-portfolio-354d2bb6",
+      "orig_slug": "the-argus-dividend-growth-model-portfolio-354d2bb6"
+    },
+    {
+      "title": "Ripple expands institutional trading push with TJM partnership",
+      "link": "https://finance.yahoo.com/news/ripple-expands-institutional-trading-push-102751194.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-19T10:27:51Z",
+      "image": "https://media.zenfs.com/en/coindesk_75/04dfce7b3d72497b83050cd65777a198",
+      "slug": "ripple-expands-institutional-trading-push-with-tjm-partnership-b4fbafea",
+      "orig_slug": "ripple-expands-institutional-trading-push-with-tjm-partnership-b4fbafea"
+    },
+    {
+      "title": "HELOC rates today, December 19, 2025: Rates move lower, reflecting three Fed rate cuts this year",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-interest-rates-today-friday-december-19-2025-110003715.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-19T11:00:03Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/.s_eK2TthYlP26Fzb3LEMQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/eb4e4990-4262-11f0-b61f-fecabc8eb879",
+      "slug": "heloc-rates-today-december-19-2025-rates-move-lower-reflecting-three-fed-rate-cu-570ae85d",
+      "orig_slug": "heloc-rates-today-december-19-2025-rates-move-lower-reflecting-three-fed-rate-cu-570ae85d"
+    },
+    {
+      "title": "Best high-yield savings interest rates today, December 19, 2025 (up to 4.3% APY return)",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-friday-december-19-2025-110005433.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-19T11:00:05Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/zkP71JMsVlcuMMr4TYwHfg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/822c7220-4eb6-11ef-afbf-4972cf7de987",
+      "slug": "best-high-yield-savings-interest-rates-today-december-19-2025-up-to-43-apy-retur-ec958466",
+      "orig_slug": "best-high-yield-savings-interest-rates-today-december-19-2025-up-to-43-apy-retur-ec958466"
+    },
+    {
+      "title": "Mortgage and refinance interest rates today, December 19, 2025: Stable rates push purchase applications 10% higher",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-friday-december-19-2025-110009825.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-19T11:00:09Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/pkSpSwDGDZC8Ol_scXouEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/c36fbdb0-0289-11ef-be8f-4e0451f1fa09",
+      "slug": "mortgage-and-refinance-interest-rates-today-december-19-2025-stable-rates-push-p-0577f924",
+      "orig_slug": "mortgage-and-refinance-interest-rates-today-december-19-2025-stable-rates-push-p-0577f924"
+    },
+    {
+      "title": "WH Smith Faces Probe From U.K. Financial Watchdog",
+      "link": "https://www.wsj.com/business/earnings/wh-smith-faces-probe-from-u-k-financial-watchdog-f34863a6?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-19T10:00:00Z",
+      "image": "",
+      "slug": "wh-smith-faces-probe-from-uk-financial-watchdog-71efbf22",
+      "orig_slug": "wh-smith-faces-probe-from-uk-financial-watchdog-71efbf22"
+    },
+    {
       "title": "Analyst Report: Deere & Co.",
       "link": "https://finance.yahoo.com/research/reports/ARGUS_2888_AnalystReport_1766146565000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "source": "finance.yahoo.com",
@@ -335,49 +326,49 @@
       "orig_slug": "analyst-report-deere-co-3912f3a8"
     },
     {
-      "title": "Mizuho Raises Tesla Price Target to $530, Backs Robotaxi Momentum",
-      "link": "https://finance.yahoo.com/news/mizuho-raises-tesla-price-target-085019919.html",
+      "title": "HPQ Stock Price Prediction: Where HP Could Be by 2025, 2026, and 2030",
+      "link": "https://finance.yahoo.com/news/hpq-stock-price-prediction-where-102205078.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T08:50:19Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/8dbba0a1888a45a50bb2297e733cf328",
-      "slug": "mizuho-raises-tesla-price-target-to-530-backs-robotaxi-momentum-ec93c1c2",
-      "orig_slug": "mizuho-raises-tesla-price-target-to-530-backs-robotaxi-momentum-ec93c1c2"
+      "pubDate": "2025-12-19T10:25:27Z",
+      "image": "https://media.zenfs.com/en/benzinga_79/f731ef1c3ce7e161b2c32624479ed3a3",
+      "slug": "hpq-stock-price-prediction-where-hp-could-be-by-2025-2026-and-2030-c88b8da2",
+      "orig_slug": "hpq-stock-price-prediction-where-hp-could-be-by-2025-2026-and-2030-c88b8da2"
     },
     {
-      "title": "Arrow announces initial production from Mateguafa field well in Colombia",
-      "link": "https://finance.yahoo.com/news/arrow-announces-initial-production-mateguafa-093752505.html",
+      "title": "Stop Obsessing About Risks and Let The Banks Compete",
+      "link": "https://www.barrons.com/articles/stop-obsessing-about-risks-and-let-the-banks-compete-027daec0?siteid=yhoof2&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T09:37:52Z",
-      "image": "https://media.zenfs.com/en/offshore_technology_431/49fe72276d8c7269a1cfe35daf1cd2d9",
-      "slug": "arrow-announces-initial-production-from-mateguafa-field-well-in-colombia-b804727b",
-      "orig_slug": "arrow-announces-initial-production-from-mateguafa-field-well-in-colombia-b804727b"
+      "pubDate": "2025-12-19T10:00:00Z",
+      "image": "",
+      "slug": "stop-obsessing-about-risks-and-let-the-banks-compete-3b6375c3",
+      "orig_slug": "stop-obsessing-about-risks-and-let-the-banks-compete-3b6375c3"
     },
     {
-      "title": "Oracle (ORCL) Stock Gets $275 Target as Evercore Highlights Long-Term OCI Growth",
-      "link": "https://finance.yahoo.com/news/oracle-orcl-stock-gets-275-084809399.html",
+      "title": "Morning Bid: All I want for Xmas is accurate economic data",
+      "link": "https://finance.yahoo.com/news/morning-bid-want-xmas-accurate-110419145.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T08:48:09Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/929b40cac95e8e50f8e4ac06abbb4453",
-      "slug": "oracle-orcl-stock-gets-275-target-as-evercore-highlights-long-term-oci-growth-99d666bc",
-      "orig_slug": "oracle-orcl-stock-gets-275-target-as-evercore-highlights-long-term-oci-growth-99d666bc"
+      "pubDate": "2025-12-19T11:04:19Z",
+      "image": "https://media.zenfs.com/en/reuters.com/8c4adf08329d299f2df8d79a8b138ebe",
+      "slug": "morning-bid-all-i-want-for-xmas-is-accurate-economic-data-a51affcf",
+      "orig_slug": "morning-bid-all-i-want-for-xmas-is-accurate-economic-data-a51affcf"
     },
     {
-      "title": "What to Expect From Truist Financial’s Q4 2025 Earnings Report",
-      "link": "https://finance.yahoo.com/news/expect-truist-financial-q4-2025-083408749.html",
+      "title": "Earnings Preview: What To Expect From J.B. Hunt Transport's Report",
+      "link": "https://finance.yahoo.com/news/earnings-preview-expect-j-b-110824101.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T08:34:08Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/25aef2ccb2b5e97b16785145b5be78aa",
-      "slug": "what-to-expect-from-truist-financials-q4-2025-earnings-report-77e262e7",
-      "orig_slug": "what-to-expect-from-truist-financials-q4-2025-earnings-report-77e262e7"
+      "pubDate": "2025-12-19T11:08:24Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/7a7fcbbb9bd6946a014ca338bbe71980",
+      "slug": "earnings-preview-what-to-expect-from-jb-hunt-transports-report-51502f1e",
+      "orig_slug": "earnings-preview-what-to-expect-from-jb-hunt-transports-report-51502f1e"
     },
     {
-      "title": "Is the Outlook Bullish for Metals in 2026?",
-      "link": "https://finance.yahoo.com/news/outlook-bullish-metals-2026-083246565.html",
+      "title": "Oil Poised for Weekly Loss on Oversupply Fears",
+      "link": "https://www.barrons.com/livecoverage/stock-market-news-today-121925/card/oil-poised-for-weekly-loss-on-oversupply-fears-hintiCQ2RwX7cKR9Fwme?siteid=yhoof2&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T08:32:46Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/485048f72671c5ea7e5dab99f0d79931",
-      "slug": "is-the-outlook-bullish-for-metals-in-2026-2820ad79",
-      "orig_slug": "is-the-outlook-bullish-for-metals-in-2026-2820ad79"
+      "pubDate": "2025-12-19T09:46:50Z",
+      "image": "https://images.barrons.com/im-783602/social",
+      "slug": "oil-poised-for-weekly-loss-on-oversupply-fears-d1943c0c",
+      "orig_slug": "oil-poised-for-weekly-loss-on-oversupply-fears-d1943c0c"
     },
     {
       "title": "Technical Assessment: Bullish in the Intermediate-Term",
@@ -389,22 +380,22 @@
       "orig_slug": "technical-assessment-bullish-in-the-intermediate-term-4cfea0fd"
     },
     {
-      "title": "Here's What to Expect From Fastenal’s Next Earnings Report",
-      "link": "https://finance.yahoo.com/news/heres-expect-fastenal-next-earnings-083159209.html",
+      "title": "TSLA Stock Price Prediction: Where Tesla Could Be by 2025, 2026, 2030",
+      "link": "https://finance.yahoo.com/news/tsla-stock-price-prediction-where-130456912.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T08:31:59Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/005980acfe390bfc5f98e1de06c207d6",
-      "slug": "heres-what-to-expect-from-fastenals-next-earnings-report-7af46757",
-      "orig_slug": "heres-what-to-expect-from-fastenals-next-earnings-report-7af46757"
+      "pubDate": "2025-12-19T10:25:29Z",
+      "image": "https://media.zenfs.com/en/benzinga_79/5f05336e25e3c7a7452eed743f413aaa",
+      "slug": "tsla-stock-price-prediction-where-tesla-could-be-by-2025-2026-2030-c4038704",
+      "orig_slug": "tsla-stock-price-prediction-where-tesla-could-be-by-2025-2026-2030-c4038704"
     },
     {
-      "title": "Opendoor Technologies Stock Is Up 320% in 2025. Is It a Buy for 2026?",
-      "link": "https://finance.yahoo.com/news/opendoor-technologies-stock-320-2025-093800090.html",
+      "title": "Global Markets, U.S. Futures Nudge Up on Cool U.S. Inflation",
+      "link": "https://www.wsj.com/finance/stocks/global-markets-u-s-futures-nudge-up-on-cool-u-s-inflation-045d33cb?siteid=yhoof2&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-19T09:38:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/68d122e03374437ce7c2a1e0e8181ca9",
-      "slug": "opendoor-technologies-stock-is-up-320-in-2025-is-it-a-buy-for-2026-11e3ce91",
-      "orig_slug": "opendoor-technologies-stock-is-up-320-in-2025-is-it-a-buy-for-2026-11e3ce91"
+      "pubDate": "2025-12-19T09:42:00Z",
+      "image": "",
+      "slug": "global-markets-us-futures-nudge-up-on-cool-us-inflation-7148acd5",
+      "orig_slug": "global-markets-us-futures-nudge-up-on-cool-us-inflation-7148acd5"
     }
   ]
 }
