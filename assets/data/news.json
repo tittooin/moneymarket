@@ -1,195 +1,6 @@
 {
-  "updated": "2025-12-25T18:18:19Z",
+  "updated": "2025-12-25T19:11:04Z",
   "items": [
-    {
-      "title": "Upexi Shares Slide After $1B Filing to Expand Solana Treasury",
-      "link": "https://finance.yahoo.com/news/upexi-shares-slide-1b-filing-081415801.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-24T08:14:15Z",
-      "image": "https://media.zenfs.com/en/cryptonews_us_711/c08f533c607490f40ea6957a6ed16408",
-      "slug": "upexi-shares-slide-after-1b-filing-to-expand-solana-treasury-f08300e9",
-      "orig_slug": "upexi-shares-slide-after-1b-filing-to-expand-solana-treasury-f08300e9"
-    },
-    {
-      "title": "Why BMO Sees Alphabet (GOOGL) Benefiting From Expanding AI Cloud Commitments",
-      "link": "https://finance.yahoo.com/news/why-bmo-sees-alphabet-googl-075942051.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-24T07:59:42Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/740e998f922ee9e77034b4a4387a4b79",
-      "slug": "why-bmo-sees-alphabet-googl-benefiting-from-expanding-ai-cloud-commitments-03dd01b5",
-      "orig_slug": "why-bmo-sees-alphabet-googl-benefiting-from-expanding-ai-cloud-commitments-03dd01b5"
-    },
-    {
-      "title": "Nvidia (NVDA) Tests Path Back Into China With H200 AI Chip Plans",
-      "link": "https://finance.yahoo.com/news/nvidia-nvda-tests-path-back-075935453.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-24T07:59:35Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/f72133c65098a511abe62c9ff7692346",
-      "slug": "nvidia-nvda-tests-path-back-into-china-with-h200-ai-chip-plans-35643abf",
-      "orig_slug": "nvidia-nvda-tests-path-back-into-china-with-h200-ai-chip-plans-35643abf"
-    },
-    {
-      "title": "Wedbush Calls Microsoft (MSFT) a Core AI Winner With $625 Price Target",
-      "link": "https://finance.yahoo.com/news/wedbush-calls-microsoft-msft-core-075951622.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-24T07:59:51Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/8357d4801c2f5a834455cbcc99383b11",
-      "slug": "wedbush-calls-microsoft-msft-a-core-ai-winner-with-625-price-target-ae611bf7",
-      "orig_slug": "wedbush-calls-microsoft-msft-a-core-ai-winner-with-625-price-target-ae611bf7"
-    },
-    {
-      "title": "Micron (MU) in Focus as Analysts Highlight Multi-Year AI Data-Center Expansion",
-      "link": "https://finance.yahoo.com/news/micron-mu-focus-analysts-highlight-075704724.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-24T07:57:04Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/73ab4414c83ed6a1da86ba3f9da8523a",
-      "slug": "micron-mu-in-focus-as-analysts-highlight-multi-year-ai-data-center-expansion-e3fcfb1d",
-      "orig_slug": "micron-mu-in-focus-as-analysts-highlight-multi-year-ai-data-center-expansion-e3fcfb1d"
-    },
-    {
-      "title": "Sapporo to Sell Real-Estate Business to KKR-PAG Consortium",
-      "link": "https://finance.yahoo.com/news/sapporo-sell-real-estate-business-081200719.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-24T08:12:00Z",
-      "image": "https://media.zenfs.com/en/the_wall_street_journal_hosted_996/c551be76376209805f2f3c914132c159",
-      "slug": "sapporo-to-sell-real-estate-business-to-kkr-pag-consortium-e7737d1a",
-      "orig_slug": "sapporo-to-sell-real-estate-business-to-kkr-pag-consortium-e7737d1a"
-    },
-    {
-      "title": "Citizens Stays Constructive on Oracle (ORCL) Amid Investor Confusion on OCI",
-      "link": "https://finance.yahoo.com/news/citizens-stays-constructive-oracle-orcl-075926360.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-24T07:59:26Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/929b40cac95e8e50f8e4ac06abbb4453",
-      "slug": "citizens-stays-constructive-on-oracle-orcl-amid-investor-confusion-on-oci-5616371a",
-      "orig_slug": "citizens-stays-constructive-on-oracle-orcl-amid-investor-confusion-on-oci-5616371a"
-    },
-    {
-      "title": "Why Truist Sees Salesforce (CRM) Positioned for AI-Driven Growth",
-      "link": "https://finance.yahoo.com/news/why-truist-sees-salesforce-crm-075719670.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-24T07:57:19Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/916ad430b04c4c3e9fab96515705109e",
-      "slug": "why-truist-sees-salesforce-crm-positioned-for-ai-driven-growth-1cc6a927",
-      "orig_slug": "why-truist-sees-salesforce-crm-positioned-for-ai-driven-growth-1cc6a927"
-    },
-    {
-      "title": "Tesla (TSLA) Draws Wall Street Attention on Driverless Testing in Austin",
-      "link": "https://finance.yahoo.com/news/tesla-tsla-draws-wall-street-075838070.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-24T07:58:38Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/29a6aea20a7c867bec3078256880ee1c",
-      "slug": "tesla-tsla-draws-wall-street-attention-on-driverless-testing-in-austin-b088d8fe",
-      "orig_slug": "tesla-tsla-draws-wall-street-attention-on-driverless-testing-in-austin-b088d8fe"
-    },
-    {
-      "title": "Why Oppenheimer Sees Serve Robotics (SERV) as a Physical AI Leader",
-      "link": "https://finance.yahoo.com/news/why-oppenheimer-sees-serve-robotics-075520879.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-24T07:55:20Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/29ab74f9a7552cdf0c5e13c45a18d661",
-      "slug": "why-oppenheimer-sees-serve-robotics-serv-as-a-physical-ai-leader-3e9f6677",
-      "orig_slug": "why-oppenheimer-sees-serve-robotics-serv-as-a-physical-ai-leader-3e9f6677"
-    },
-    {
-      "title": "Australasia’s investment in mining technology – survey",
-      "link": "https://finance.yahoo.com/news/australasia-investment-mining-technology-survey-081900737.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-24T08:19:00Z",
-      "image": "https://media.zenfs.com/en/mining_technology_700/ee4f29d95b65c299706ed9cd2644690f",
-      "slug": "australasias-investment-in-mining-technology-survey-e863d997",
-      "orig_slug": "australasias-investment-in-mining-technology-survey-e863d997"
-    },
-    {
-      "title": "Citi Adds Positive Catalyst Watch on Marvell (MRVL) Ahead of CES 2026",
-      "link": "https://finance.yahoo.com/news/citi-adds-positive-catalyst-watch-075654306.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-24T07:56:54Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/520bd8f56e0f30096fb34661bc230e0f",
-      "slug": "citi-adds-positive-catalyst-watch-on-marvell-mrvl-ahead-of-ces-2026-e012a53f",
-      "orig_slug": "citi-adds-positive-catalyst-watch-on-marvell-mrvl-ahead-of-ces-2026-e012a53f"
-    },
-    {
-      "title": "H.C. Wainwright Reaffirms Buy on WhiteFiber (WYFI) Following Nscale Agreement",
-      "link": "https://finance.yahoo.com/news/h-c-wainwright-reaffirms-buy-075534679.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-24T07:55:34Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/98ace7d177f6baa00a1954de70127d01",
-      "slug": "hc-wainwright-reaffirms-buy-on-whitefiber-wyfi-following-nscale-agreement-20b13f5c",
-      "orig_slug": "hc-wainwright-reaffirms-buy-on-whitefiber-wyfi-following-nscale-agreement-20b13f5c"
-    },
-    {
-      "title": "Wedbush Lifts Rivian (RIVN) Price Target Ahead of R2 Launch",
-      "link": "https://finance.yahoo.com/news/wedbush-lifts-rivian-rivn-price-075639507.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-24T07:56:39Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/666f9d6a4c94e71c9a9541e4df322964",
-      "slug": "wedbush-lifts-rivian-rivn-price-target-ahead-of-r2-launch-604249df",
-      "orig_slug": "wedbush-lifts-rivian-rivn-price-target-ahead-of-r2-launch-604249df"
-    },
-    {
-      "title": "Five9 (FIVN) in Focus as Analysts Push Back on Bearish Tech Concerns",
-      "link": "https://finance.yahoo.com/news/five9-fivn-focus-analysts-push-075615742.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-24T07:56:15Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/80f7f47c2fb133b7a2c9dfeb2238c23f",
-      "slug": "five9-fivn-in-focus-as-analysts-push-back-on-bearish-tech-concerns-21661ca1",
-      "orig_slug": "five9-fivn-in-focus-as-analysts-push-back-on-bearish-tech-concerns-21661ca1"
-    },
-    {
-      "title": "Dividend Stocks Are the Gift that Will Keep On Giving You More Income in 2026",
-      "link": "https://finance.yahoo.com/news/dividend-stocks-gift-keep-giving-080500610.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-24T08:05:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/49671bdcc645bdd30160c609116535f8",
-      "slug": "dividend-stocks-are-the-gift-that-will-keep-on-giving-you-more-income-in-2026-e23980c4",
-      "orig_slug": "dividend-stocks-are-the-gift-that-will-keep-on-giving-you-more-income-in-2026-e23980c4"
-    },
-    {
-      "title": "BP Sells Majority Stake in Castrol to Stonepeak in $10 Billion Deal",
-      "link": "https://finance.yahoo.com/news/bp-sells-majority-stake-castrol-084210334.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-24T08:42:10Z",
-      "image": "https://media.zenfs.com/en/oilprice.com/69e4fc1f07e5c67471f16fbdd92afaf4",
-      "slug": "bp-sells-majority-stake-in-castrol-to-stonepeak-in-10-billion-deal-c59f7598",
-      "orig_slug": "bp-sells-majority-stake-in-castrol-to-stonepeak-in-10-billion-deal-c59f7598"
-    },
-    {
-      "title": "Here's What to Expect From Packaging Corporation’s Next Earnings Report",
-      "link": "https://finance.yahoo.com/news/heres-expect-packaging-corporation-next-072724818.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-24T07:27:24Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/84ee3295e353473193409aedd4008442",
-      "slug": "heres-what-to-expect-from-packaging-corporations-next-earnings-report-f76b8594",
-      "orig_slug": "heres-what-to-expect-from-packaging-corporations-next-earnings-report-f76b8594"
-    },
-    {
-      "title": "General Motors’ Quarterly Earnings Preview: What You Need to Know",
-      "link": "https://finance.yahoo.com/news/general-motors-quarterly-earnings-preview-072348144.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-24T07:23:48Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/1cc55a10023450ff0ece065b5a2a7854",
-      "slug": "general-motors-quarterly-earnings-preview-what-you-need-to-know-9f44cb02",
-      "orig_slug": "general-motors-quarterly-earnings-preview-what-you-need-to-know-9f44cb02"
-    },
-    {
-      "title": "‘Precarious’ is Wall Street’s defining word for 2026",
-      "link": "https://finance.yahoo.com/news/precarious-wall-street-defining-word-080500868.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-24T08:05:00Z",
-      "image": "https://media.zenfs.com/en/fortune_175/0f0efab1a3ab35e4aa20a17bce06d2ed",
-      "slug": "precarious-is-wall-streets-defining-word-for-2026-16012c4f",
-      "orig_slug": "precarious-is-wall-streets-defining-word-for-2026-16012c4f"
-    },
-    {
-      "title": "Earnings Preview: What to Expect From PACCAR’s Report",
-      "link": "https://finance.yahoo.com/news/earnings-preview-expect-paccar-report-072109645.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-24T07:21:09Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/ddbc50f875b9747e51c5d5e072f91fa7",
-      "slug": "earnings-preview-what-to-expect-from-paccars-report-f5933eaa",
-      "orig_slug": "earnings-preview-what-to-expect-from-paccars-report-f5933eaa"
-    },
     {
       "title": "Can a Nursing Home Take Our $350k in IRAs?",
       "link": "https://finance.yahoo.com/news/nursing-home-savings-350-000-145528883.html",
@@ -200,40 +11,13 @@
       "orig_slug": "can-a-nursing-home-take-our-350k-in-iras-f2d90897"
     },
     {
-      "title": "Is a $400k Pension Lump Sum or $2,000 Monthly the Better Choice?",
-      "link": "https://finance.yahoo.com/news/400-000-lump-sum-2-110000526.html",
+      "title": "Billionaire Stanley Druckenmiller Sold Nvidia and Palantir and Piled Into One of Wall Street's Hottest Drug Stocks Ahead of 2026",
+      "link": "https://finance.yahoo.com/news/billionaire-stanley-druckenmiller-sold-nvidia-091100141.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-24T07:00:00Z",
-      "image": "https://media.zenfs.com/en/smartasset_475/dbb277fe2730b72eb9c736992f69a8c3",
-      "slug": "is-a-400k-pension-lump-sum-or-2000-monthly-the-better-choice-318bc6da",
-      "orig_slug": "is-a-400k-pension-lump-sum-or-2000-monthly-the-better-choice-318bc6da"
-    },
-    {
-      "title": "Oil Prices Hold Gains as Markets Focus on Supply Fears and Economic Strength",
-      "link": "https://finance.yahoo.com/news/oil-prices-hold-gains-markets-061400501.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-24T06:14:00Z",
-      "image": "https://media.zenfs.com/en/oilprice.com/fb3169989a7f5fda1b29eb334269540c",
-      "slug": "oil-prices-hold-gains-as-markets-focus-on-supply-fears-and-economic-strength-3450b623",
-      "orig_slug": "oil-prices-hold-gains-as-markets-focus-on-supply-fears-and-economic-strength-3450b623"
-    },
-    {
-      "title": "Daily Spotlight: Three Signals from Dividend Growth",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_45685_MarketOutlook_1766578302000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-24T12:11:42Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-spotlight-three-signals-from-dividend-growth-535a120a",
-      "orig_slug": "daily-spotlight-three-signals-from-dividend-growth-535a120a"
-    },
-    {
-      "title": "Dollar Falls as Japanese Yen Rises on Intervention Hopes",
-      "link": "https://www.barrons.com/livecoverage/stock-market-news-today-122425/card/dollar-falls-as-japanese-yen-rises-on-intervention-hopes-M30Hmj5Pm5AfZ2CBvo4B?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-24T08:20:14Z",
-      "image": "https://images.barrons.com/im-26877187",
-      "slug": "dollar-falls-as-japanese-yen-rises-on-intervention-hopes-ecddf73d",
-      "orig_slug": "dollar-falls-as-japanese-yen-rises-on-intervention-hopes-ecddf73d"
+      "pubDate": "2025-12-24T09:11:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/6c6b8b2455e73bc84d349a9aac7ed685",
+      "slug": "billionaire-stanley-druckenmiller-sold-nvidia-and-palantir-and-piled-into-one-of-be7cf516",
+      "orig_slug": "billionaire-stanley-druckenmiller-sold-nvidia-and-palantir-and-piled-into-one-of-be7cf516"
     },
     {
       "title": "This California nurse made over $100K, but was still living with her dad. Here's why",
@@ -245,6 +29,15 @@
       "orig_slug": "this-california-nurse-made-over-100k-but-was-still-living-with-her-dad-heres-why-d81d8d5e"
     },
     {
+      "title": "BP Sells Majority Stake in Castrol to Stonepeak in $10 Billion Deal",
+      "link": "https://finance.yahoo.com/news/bp-sells-majority-stake-castrol-084210334.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-24T08:42:10Z",
+      "image": "https://media.zenfs.com/en/oilprice.com/69e4fc1f07e5c67471f16fbdd92afaf4",
+      "slug": "bp-sells-majority-stake-in-castrol-to-stonepeak-in-10-billion-deal-c59f7598",
+      "orig_slug": "bp-sells-majority-stake-in-castrol-to-stonepeak-in-10-billion-deal-c59f7598"
+    },
+    {
       "title": "Stock Index Futures Muted in Thin Pre-Christmas Trade, U.S. Jobless Claims Data on Tap",
       "link": "https://finance.yahoo.com/news/stock-index-futures-muted-thin-105624987.html",
       "source": "finance.yahoo.com",
@@ -254,31 +47,13 @@
       "orig_slug": "stock-index-futures-muted-in-thin-pre-christmas-trade-us-jobless-claims-data-on--5c6a140f"
     },
     {
-      "title": "Will Paying $30k for My Child's Wedding Trigger Gift Taxes?",
-      "link": "https://finance.yahoo.com/news/worry-gift-tax-pay-30-122213443.html",
+      "title": "Treasury Yields Steady After Rising Following Strong GDP Data",
+      "link": "https://www.barrons.com/livecoverage/stock-market-news-today-122425/card/treasury-yields-steady-after-rising-following-strong-gdp-data-kKWwM9spXrh5lDWF54Kp?siteid=yhoof2&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-24T11:00:00Z",
-      "image": "https://media.zenfs.com/en/smartasset_475/0187c71357ff9013ed9864954bf3aef7",
-      "slug": "will-paying-30k-for-my-childs-wedding-trigger-gift-taxes-08a58a4c",
-      "orig_slug": "will-paying-30k-for-my-childs-wedding-trigger-gift-taxes-08a58a4c"
-    },
-    {
-      "title": "Technical Assessment: Bullish in the Intermediate-Term",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_45684_TechnicalAnalysis_1766578159000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-24T12:09:19Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "technical-assessment-bullish-in-the-intermediate-term-b6e209ba",
-      "orig_slug": "technical-assessment-bullish-in-the-intermediate-term-b6e209ba"
-    },
-    {
-      "title": "Precious Metals Lead the ‘Santa Rally’: Is Rotation To Crypto Still Possible?",
-      "link": "https://finance.yahoo.com/news/precious-metals-lead-santa-rally-080157123.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-24T08:01:57Z",
-      "image": "https://media.zenfs.com/en/beincrypto_us_662/b84a5b27e7511196cef6f7583474506e",
-      "slug": "precious-metals-lead-the-santa-rally-is-rotation-to-crypto-still-possible-a6b5fa5b",
-      "orig_slug": "precious-metals-lead-the-santa-rally-is-rotation-to-crypto-still-possible-a6b5fa5b"
+      "pubDate": "2025-12-24T09:09:42Z",
+      "image": "https://images.barrons.com/im-783602/social",
+      "slug": "treasury-yields-steady-after-rising-following-strong-gdp-data-c2d0efea",
+      "orig_slug": "treasury-yields-steady-after-rising-following-strong-gdp-data-c2d0efea"
     },
     {
       "title": "Vanguard flips the script on 60/40 investment strategy",
@@ -290,13 +65,13 @@
       "orig_slug": "vanguard-flips-the-script-on-6040-investment-strategy-97480ca8"
     },
     {
-      "title": "HELOC rates today, December 24, 2025: Lenders begin pushing rates down to the 6% range",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-interest-rates-today-wednesday-december-24-2025-110031480.html",
+      "title": "Will Paying $30k for My Child's Wedding Trigger Gift Taxes?",
+      "link": "https://finance.yahoo.com/news/worry-gift-tax-pay-30-122213443.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-24T11:00:31Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/1N13V9BzRI7dAUoW_qyesw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/92704b90-40d5-11f0-bbfd-0abdc0412cbb",
-      "slug": "heloc-rates-today-december-24-2025-lenders-begin-pushing-rates-down-to-the-6-ran-7e1f9827",
-      "orig_slug": "heloc-rates-today-december-24-2025-lenders-begin-pushing-rates-down-to-the-6-ran-7e1f9827"
+      "pubDate": "2025-12-24T11:00:00Z",
+      "image": "https://media.zenfs.com/en/smartasset_475/0187c71357ff9013ed9864954bf3aef7",
+      "slug": "will-paying-30k-for-my-childs-wedding-trigger-gift-taxes-08a58a4c",
+      "orig_slug": "will-paying-30k-for-my-childs-wedding-trigger-gift-taxes-08a58a4c"
     },
     {
       "title": "Best money market account rates today, December 24, 2025 (secure up to 4.25% APY)",
@@ -317,22 +92,22 @@
       "orig_slug": "best-high-yield-savings-interest-rates-today-december-24-2025-earn-up-to-4-apy-374b3da0"
     },
     {
-      "title": "Analyst Report: U.S. Bancorp.",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_3482_AnalystReport_1766578026000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "title": "BP to Sell Majority Stake of Castrol to Stonepeak",
+      "link": "https://finance.yahoo.com/video/bp-sell-majority-stake-castrol-092047934.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-24T12:07:06Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "analyst-report-us-bancorp-6f57ca21",
-      "orig_slug": "analyst-report-us-bancorp-6f57ca21"
+      "pubDate": "2025-12-24T09:20:47Z",
+      "image": "https://media.zenfs.com/en/bloomberg_markets_video_2/63b4b3f7b1b0874d358f56ef5d87b6db",
+      "slug": "bp-to-sell-majority-stake-of-castrol-to-stonepeak-3953a15c",
+      "orig_slug": "bp-to-sell-majority-stake-of-castrol-to-stonepeak-3953a15c"
     },
     {
-      "title": "In 2026 CFOs predict AI transformation, not just efficiency gains",
-      "link": "https://finance.yahoo.com/news/2026-cfos-predict-ai-transformation-080000379.html",
+      "title": "HELOC rates today, December 24, 2025: Lenders begin pushing rates down to the 6% range",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-interest-rates-today-wednesday-december-24-2025-110031480.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-24T08:00:00Z",
-      "image": "https://media.zenfs.com/en/fortune_175/21b20cf20a3a0e46e3932ca69ec983b8",
-      "slug": "in-2026-cfos-predict-ai-transformation-not-just-efficiency-gains-f73b3131",
-      "orig_slug": "in-2026-cfos-predict-ai-transformation-not-just-efficiency-gains-f73b3131"
+      "pubDate": "2025-12-24T11:00:31Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/1N13V9BzRI7dAUoW_qyesw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/92704b90-40d5-11f0-bbfd-0abdc0412cbb",
+      "slug": "heloc-rates-today-december-24-2025-lenders-begin-pushing-rates-down-to-the-6-ran-7e1f9827",
+      "orig_slug": "heloc-rates-today-december-24-2025-lenders-begin-pushing-rates-down-to-the-6-ran-7e1f9827"
     },
     {
       "title": "How a Silicon Valley dealmaker charmed Trump and gave Intel a lifeline",
@@ -342,6 +117,186 @@
       "image": "https://media.zenfs.com/en/reuters-finance.com/31b826a9ccf02121a7a0b456d4677482",
       "slug": "how-a-silicon-valley-dealmaker-charmed-trump-and-gave-intel-a-lifeline-2255852f",
       "orig_slug": "how-a-silicon-valley-dealmaker-charmed-trump-and-gave-intel-a-lifeline-2255852f"
+    },
+    {
+      "title": "Wedbush Calls Microsoft (MSFT) a Core AI Winner With $625 Price Target",
+      "link": "https://finance.yahoo.com/news/wedbush-calls-microsoft-msft-core-075951622.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-24T07:59:51Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/8357d4801c2f5a834455cbcc99383b11",
+      "slug": "wedbush-calls-microsoft-msft-a-core-ai-winner-with-625-price-target-ae611bf7",
+      "orig_slug": "wedbush-calls-microsoft-msft-a-core-ai-winner-with-625-price-target-ae611bf7"
+    },
+    {
+      "title": "Billionaires Buy 2 Trillion-Dollar AI Stocks Hand Over Fist Ahead of 2026",
+      "link": "https://finance.yahoo.com/news/billionaires-buy-2-trillion-dollar-085000974.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-24T08:50:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/b0b9f8451ca6eace828240e2496086e9",
+      "slug": "billionaires-buy-2-trillion-dollar-ai-stocks-hand-over-fist-ahead-of-2026-e97ce99f",
+      "orig_slug": "billionaires-buy-2-trillion-dollar-ai-stocks-hand-over-fist-ahead-of-2026-e97ce99f"
+    },
+    {
+      "title": "Why BMO Sees Alphabet (GOOGL) Benefiting From Expanding AI Cloud Commitments",
+      "link": "https://finance.yahoo.com/news/why-bmo-sees-alphabet-googl-075942051.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-24T07:59:42Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/740e998f922ee9e77034b4a4387a4b79",
+      "slug": "why-bmo-sees-alphabet-googl-benefiting-from-expanding-ai-cloud-commitments-03dd01b5",
+      "orig_slug": "why-bmo-sees-alphabet-googl-benefiting-from-expanding-ai-cloud-commitments-03dd01b5"
+    },
+    {
+      "title": "Citizens Stays Constructive on Oracle (ORCL) Amid Investor Confusion on OCI",
+      "link": "https://finance.yahoo.com/news/citizens-stays-constructive-oracle-orcl-075926360.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-24T07:59:26Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/929b40cac95e8e50f8e4ac06abbb4453",
+      "slug": "citizens-stays-constructive-on-oracle-orcl-amid-investor-confusion-on-oci-5616371a",
+      "orig_slug": "citizens-stays-constructive-on-oracle-orcl-amid-investor-confusion-on-oci-5616371a"
+    },
+    {
+      "title": "Nvidia (NVDA) Tests Path Back Into China With H200 AI Chip Plans",
+      "link": "https://finance.yahoo.com/news/nvidia-nvda-tests-path-back-075935453.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-24T07:59:35Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/f72133c65098a511abe62c9ff7692346",
+      "slug": "nvidia-nvda-tests-path-back-into-china-with-h200-ai-chip-plans-35643abf",
+      "orig_slug": "nvidia-nvda-tests-path-back-into-china-with-h200-ai-chip-plans-35643abf"
+    },
+    {
+      "title": "Tesla (TSLA) Draws Wall Street Attention on Driverless Testing in Austin",
+      "link": "https://finance.yahoo.com/news/tesla-tsla-draws-wall-street-075838070.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-24T07:58:38Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/29a6aea20a7c867bec3078256880ee1c",
+      "slug": "tesla-tsla-draws-wall-street-attention-on-driverless-testing-in-austin-b088d8fe",
+      "orig_slug": "tesla-tsla-draws-wall-street-attention-on-driverless-testing-in-austin-b088d8fe"
+    },
+    {
+      "title": "Oil and gas industry scaling back its energy transition initiatives",
+      "link": "https://finance.yahoo.com/news/oil-gas-industry-scaling-back-101412908.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-24T10:14:12Z",
+      "image": "https://media.zenfs.com/en/offshore_technology_431/544cc45f9005322e9d5f10a3f985762b",
+      "slug": "oil-and-gas-industry-scaling-back-its-energy-transition-initiatives-04529208",
+      "orig_slug": "oil-and-gas-industry-scaling-back-its-energy-transition-initiatives-04529208"
+    },
+    {
+      "title": "Micron (MU) in Focus as Analysts Highlight Multi-Year AI Data-Center Expansion",
+      "link": "https://finance.yahoo.com/news/micron-mu-focus-analysts-highlight-075704724.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-24T07:57:04Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/73ab4414c83ed6a1da86ba3f9da8523a",
+      "slug": "micron-mu-in-focus-as-analysts-highlight-multi-year-ai-data-center-expansion-e3fcfb1d",
+      "orig_slug": "micron-mu-in-focus-as-analysts-highlight-multi-year-ai-data-center-expansion-e3fcfb1d"
+    },
+    {
+      "title": "Why Truist Sees Salesforce (CRM) Positioned for AI-Driven Growth",
+      "link": "https://finance.yahoo.com/news/why-truist-sees-salesforce-crm-075719670.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-24T07:57:19Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/916ad430b04c4c3e9fab96515705109e",
+      "slug": "why-truist-sees-salesforce-crm-positioned-for-ai-driven-growth-1cc6a927",
+      "orig_slug": "why-truist-sees-salesforce-crm-positioned-for-ai-driven-growth-1cc6a927"
+    },
+    {
+      "title": "Citi Adds Positive Catalyst Watch on Marvell (MRVL) Ahead of CES 2026",
+      "link": "https://finance.yahoo.com/news/citi-adds-positive-catalyst-watch-075654306.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-24T07:56:54Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/520bd8f56e0f30096fb34661bc230e0f",
+      "slug": "citi-adds-positive-catalyst-watch-on-marvell-mrvl-ahead-of-ces-2026-e012a53f",
+      "orig_slug": "citi-adds-positive-catalyst-watch-on-marvell-mrvl-ahead-of-ces-2026-e012a53f"
+    },
+    {
+      "title": "Daily Spotlight: Three Signals from Dividend Growth",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_45685_MarketOutlook_1766578302000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-24T12:11:42Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "daily-spotlight-three-signals-from-dividend-growth-535a120a",
+      "orig_slug": "daily-spotlight-three-signals-from-dividend-growth-535a120a"
+    },
+    {
+      "title": "Wedbush Lifts Rivian (RIVN) Price Target Ahead of R2 Launch",
+      "link": "https://finance.yahoo.com/news/wedbush-lifts-rivian-rivn-price-075639507.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-24T07:56:39Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/666f9d6a4c94e71c9a9541e4df322964",
+      "slug": "wedbush-lifts-rivian-rivn-price-target-ahead-of-r2-launch-604249df",
+      "orig_slug": "wedbush-lifts-rivian-rivn-price-target-ahead-of-r2-launch-604249df"
+    },
+    {
+      "title": "Here's why an investment giant wants to turn the 60/40 rule on its ear",
+      "link": "https://finance.yahoo.com/news/heres-why-investment-giant-wants-102226824.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-24T10:22:26Z",
+      "image": "https://media.zenfs.com/en/usa_today_money_325/a811d34fc8fc1e984c4288200d4e0c8e",
+      "slug": "heres-why-an-investment-giant-wants-to-turn-the-6040-rule-on-its-ear-bcb9bff5",
+      "orig_slug": "heres-why-an-investment-giant-wants-to-turn-the-6040-rule-on-its-ear-bcb9bff5"
+    },
+    {
+      "title": "Five9 (FIVN) in Focus as Analysts Push Back on Bearish Tech Concerns",
+      "link": "https://finance.yahoo.com/news/five9-fivn-focus-analysts-push-075615742.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-24T07:56:15Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/80f7f47c2fb133b7a2c9dfeb2238c23f",
+      "slug": "five9-fivn-in-focus-as-analysts-push-back-on-bearish-tech-concerns-21661ca1",
+      "orig_slug": "five9-fivn-in-focus-as-analysts-push-back-on-bearish-tech-concerns-21661ca1"
+    },
+    {
+      "title": "H.C. Wainwright Reaffirms Buy on WhiteFiber (WYFI) Following Nscale Agreement",
+      "link": "https://finance.yahoo.com/news/h-c-wainwright-reaffirms-buy-075534679.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-24T07:55:34Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/98ace7d177f6baa00a1954de70127d01",
+      "slug": "hc-wainwright-reaffirms-buy-on-whitefiber-wyfi-following-nscale-agreement-20b13f5c",
+      "orig_slug": "hc-wainwright-reaffirms-buy-on-whitefiber-wyfi-following-nscale-agreement-20b13f5c"
+    },
+    {
+      "title": "Why Oppenheimer Sees Serve Robotics (SERV) as a Physical AI Leader",
+      "link": "https://finance.yahoo.com/news/why-oppenheimer-sees-serve-robotics-075520879.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-24T07:55:20Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/29ab74f9a7552cdf0c5e13c45a18d661",
+      "slug": "why-oppenheimer-sees-serve-robotics-serv-as-a-physical-ai-leader-3e9f6677",
+      "orig_slug": "why-oppenheimer-sees-serve-robotics-serv-as-a-physical-ai-leader-3e9f6677"
+    },
+    {
+      "title": "Technical Assessment: Bullish in the Intermediate-Term",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_45684_TechnicalAnalysis_1766578159000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-24T12:09:19Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "technical-assessment-bullish-in-the-intermediate-term-b6e209ba",
+      "orig_slug": "technical-assessment-bullish-in-the-intermediate-term-b6e209ba"
+    },
+    {
+      "title": "Here's What to Expect From Packaging Corporation’s Next Earnings Report",
+      "link": "https://finance.yahoo.com/news/heres-expect-packaging-corporation-next-072724818.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-24T07:27:24Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/84ee3295e353473193409aedd4008442",
+      "slug": "heres-what-to-expect-from-packaging-corporations-next-earnings-report-f76b8594",
+      "orig_slug": "heres-what-to-expect-from-packaging-corporations-next-earnings-report-f76b8594"
+    },
+    {
+      "title": "Why the ‘Everyone’s a Winner’ Energy Trade Can’t Last Forever",
+      "link": "https://www.wsj.com/finance/stocks/why-the-everyones-a-winner-energy-trade-cant-last-forever-79656c69?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-24T10:30:00Z",
+      "image": "",
+      "slug": "why-the-everyones-a-winner-energy-trade-cant-last-forever-5dc46d37",
+      "orig_slug": "why-the-everyones-a-winner-energy-trade-cant-last-forever-5dc46d37"
+    },
+    {
+      "title": "General Motors’ Quarterly Earnings Preview: What You Need to Know",
+      "link": "https://finance.yahoo.com/news/general-motors-quarterly-earnings-preview-072348144.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-24T07:23:48Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/1cc55a10023450ff0ece065b5a2a7854",
+      "slug": "general-motors-quarterly-earnings-preview-what-you-need-to-know-9f44cb02",
+      "orig_slug": "general-motors-quarterly-earnings-preview-what-you-need-to-know-9f44cb02"
     },
     {
       "title": "Gold price today, Wednesday, December 24: Gold opens above $4,500 for the second consecutive day",
@@ -362,6 +317,15 @@
       "orig_slug": "best-cd-rates-today-december-24-2025-lock-in-up-to-42-apy-8c09aa77"
     },
     {
+      "title": "Analyst Report: U.S. Bancorp.",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_3482_AnalystReport_1766578026000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-24T12:07:06Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-us-bancorp-6f57ca21",
+      "orig_slug": "analyst-report-us-bancorp-6f57ca21"
+    },
+    {
       "title": "Copper prices are soaring. Here's what that often signals for the economy.",
       "link": "https://finance.yahoo.com/personal-finance/investing/article/copper-prices-are-soaring-heres-what-that-often-signals-for-the-economy-152855325.html",
       "source": "finance.yahoo.com",
@@ -369,6 +333,42 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/7SV7ITkbj8bqG_Xh4KENMg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/d72f2250-1459-11ef-9e9f-0d8cdecb0db2",
       "slug": "copper-prices-are-soaring-heres-what-that-often-signals-for-the-economy-a8636599",
       "orig_slug": "copper-prices-are-soaring-heres-what-that-often-signals-for-the-economy-a8636599"
+    },
+    {
+      "title": "Trump-backed DeFi Project World Liberty Financial Investigations Raise More Questions Than Answers",
+      "link": "https://finance.yahoo.com/news/trump-backed-defi-project-world-102208496.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-24T10:22:08Z",
+      "image": "https://media.zenfs.com/en/ccn_928/ab7b612065e8923e8636cf6eff17b06e",
+      "slug": "trump-backed-defi-project-world-liberty-financial-investigations-raise-more-ques-fd2d307a",
+      "orig_slug": "trump-backed-defi-project-world-liberty-financial-investigations-raise-more-ques-fd2d307a"
+    },
+    {
+      "title": "Top 5 lenders remain in the 5% range: Mortgage lenders with the best rates this week, Dec. 22-28, 2025",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/top-5-lenders-remain-in-the-5-range-mortgage-lenders-with-the-best-rates-this-week-dec-22-28-2025-170834352.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-11-03T17:08:34Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/crsTFDE81vgLssLr_Y8YZw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2020-10/d211e2e0-0985-11eb-94fd-7135f02b8494",
+      "slug": "top-5-lenders-remain-in-the-5-range-mortgage-lenders-with-the-best-rates-this-we-9ba9f4f3",
+      "orig_slug": "top-5-lenders-remain-in-the-5-range-mortgage-lenders-with-the-best-rates-this-we-9ba9f4f3"
+    },
+    {
+      "title": "Why is silver outperforming gold? What to know before you invest.",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/why-is-silver-outperforming-gold-what-to-know-before-you-invest-231615030.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-22T23:16:15Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/tKMF1dFX9qWuilqs_f5Sag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/01dc5a90-df88-11f0-bfff-e5a5c38339cf",
+      "slug": "why-is-silver-outperforming-gold-what-to-know-before-you-invest-7726ac2c",
+      "orig_slug": "why-is-silver-outperforming-gold-what-to-know-before-you-invest-7726ac2c"
+    },
+    {
+      "title": "The best cash-back credit cards for January 2026",
+      "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-cash-back-credit-cards-182338292.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-11-04T18:23:38Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/S.7h.6GRT0QDXXJvN3e9Tg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/cdb72f80-db70-11f0-afdb-1852a6bf600f",
+      "slug": "the-best-cash-back-credit-cards-for-january-2026-bddb6e39",
+      "orig_slug": "the-best-cash-back-credit-cards-for-january-2026-bddb6e39"
     },
     {
       "title": "Market Digest: USB",
@@ -380,22 +380,22 @@
       "orig_slug": "market-digest-usb-56dcc677"
     },
     {
-      "title": "Reddit Stock Is Ready to Run Again",
-      "link": "https://www.barrons.com/articles/reddit-stock-ready-to-run-again-d276daf6?siteid=yhoof2&yptr=yahoo",
+      "title": "Best business credit cards for January 2026: Save money and score great benefits for your small business",
+      "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-business-credit-cards-181831412.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-24T08:00:00Z",
-      "image": "",
-      "slug": "reddit-stock-is-ready-to-run-again-8423f786",
-      "orig_slug": "reddit-stock-is-ready-to-run-again-8423f786"
+      "pubDate": "2024-09-11T23:26:44Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/X1_eyEOCWC8XR9BYfNUFiQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-01/fe195f40-a4cd-11ed-b757-5aaab805addf",
+      "slug": "best-business-credit-cards-for-january-2026-save-money-and-score-great-benefits--e52b2e3d",
+      "orig_slug": "best-business-credit-cards-for-january-2026-save-money-and-score-great-benefits--e52b2e3d"
     },
     {
-      "title": "Top 5 lenders remain in the 5% range: Mortgage lenders with the best rates this week, Dec. 22-28, 2025",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/top-5-lenders-remain-in-the-5-range-mortgage-lenders-with-the-best-rates-this-week-dec-22-28-2025-170834352.html",
+      "title": "The best stocks of 2025: AI, tech, gold, and some surprises",
+      "link": "https://finance.yahoo.com/news/best-stocks-2025-ai-tech-100500407.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-11-03T17:08:34Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/crsTFDE81vgLssLr_Y8YZw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2020-10/d211e2e0-0985-11eb-94fd-7135f02b8494",
-      "slug": "top-5-lenders-remain-in-the-5-range-mortgage-lenders-with-the-best-rates-this-we-9ba9f4f3",
-      "orig_slug": "top-5-lenders-remain-in-the-5-range-mortgage-lenders-with-the-best-rates-this-we-9ba9f4f3"
+      "pubDate": "2025-12-24T10:05:00Z",
+      "image": "https://media.zenfs.com/en/quartz_855/d12d28ad8bf26877b63948e30975e5e6",
+      "slug": "the-best-stocks-of-2025-ai-tech-gold-and-some-surprises-880a8036",
+      "orig_slug": "the-best-stocks-of-2025-ai-tech-gold-and-some-surprises-880a8036"
     }
   ]
 }
