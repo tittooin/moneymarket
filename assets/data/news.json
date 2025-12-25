@@ -1,194 +1,14 @@
 {
-  "updated": "2025-12-25T02:52:39Z",
+  "updated": "2025-12-25T03:57:17Z",
   "items": [
     {
-      "title": "Quantum computing stocks soar, then fall, in holiday week trading. What’s up with D-Wave, Rigetti, and IonQ?",
-      "link": "https://finance.yahoo.com/news/quantum-computing-stocks-soar-then-151000471.html",
+      "title": "XRP ETFs Pull in $1.2B as Bitcoin, Ethereum Funds Cool",
+      "link": "https://finance.yahoo.com/news/xrp-etfs-pull-1-2b-160241228.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-23T15:10:00Z",
-      "image": "https://media.zenfs.com/en/fastcompany_735/87035fc496d6570cd4ab489c3b9ed2c9",
-      "slug": "quantum-computing-stocks-soar-then-fall-in-holiday-week-trading-whats-up-with-d--f75be70f",
-      "orig_slug": "quantum-computing-stocks-soar-then-fall-in-holiday-week-trading-whats-up-with-d--f75be70f"
-    },
-    {
-      "title": "NextEra Energy's Q4 2025 Earnings: What to Expect",
-      "link": "https://finance.yahoo.com/news/nextera-energys-q4-2025-earnings-150416635.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-23T15:04:16Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/96bdb2ad99a016d14ec7f672299e5cac",
-      "slug": "nextera-energys-q4-2025-earnings-what-to-expect-a163e238",
-      "orig_slug": "nextera-energys-q4-2025-earnings-what-to-expect-a163e238"
-    },
-    {
-      "title": "Stocks Little Changed as Fed Rate-Cut Odds Drop after Strong US GDP Report",
-      "link": "https://finance.yahoo.com/news/stocks-little-changed-fed-rate-151444636.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-23T15:14:44Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/a7ae4b2672b6ce658bd7fe96a66c5b12",
-      "slug": "stocks-little-changed-as-fed-rate-cut-odds-drop-after-strong-us-gdp-report-1217d5c4",
-      "orig_slug": "stocks-little-changed-as-fed-rate-cut-odds-drop-after-strong-us-gdp-report-1217d5c4"
-    },
-    {
-      "title": "Qualivian Investment Partners’ Updates on Moody’s (MCO)",
-      "link": "https://finance.yahoo.com/news/qualivian-investment-partners-updates-moody-145550068.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-23T14:55:50Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/6ed5b230de907c077f603828ef9f0386",
-      "slug": "qualivian-investment-partners-updates-on-moodys-mco-8d3339c0",
-      "orig_slug": "qualivian-investment-partners-updates-on-moodys-mco-8d3339c0"
-    },
-    {
-      "title": "Is the stock market open today? What to know about Christmas Eve, Christmas, and New Year's.",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/is-the-stock-market-open-today-what-to-know-about-christmas-eve-christmas-and-new-years-210239495.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2024-03-25T21:02:39Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/Zu.uG8M3QWAfwKzKHu3UBg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-07/c5a1bc20-6d8e-11f0-bfb7-e07100b1a2df",
-      "slug": "is-the-stock-market-open-today-what-to-know-about-christmas-eve-christmas-and-ne-155754e1",
-      "orig_slug": "is-the-stock-market-open-today-what-to-know-about-christmas-eve-christmas-and-ne-155754e1"
-    },
-    {
-      "title": "Daily Spotlight: Three Signals from Dividend Growth",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_45685_MarketOutlook_1766578302000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-24T12:11:42Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-spotlight-three-signals-from-dividend-growth-535a120a",
-      "orig_slug": "daily-spotlight-three-signals-from-dividend-growth-535a120a"
-    },
-    {
-      "title": "BC Card Successfully Tests Stablecoin Payments in South Korea",
-      "link": "https://finance.yahoo.com/news/bc-card-successfully-tests-stablecoin-150901892.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-23T15:09:01Z",
-      "image": "https://media.zenfs.com/en/coinspeaker_us_106/6d13c630b391e34458381c6c67147139",
-      "slug": "bc-card-successfully-tests-stablecoin-payments-in-south-korea-26a7e410",
-      "orig_slug": "bc-card-successfully-tests-stablecoin-payments-in-south-korea-26a7e410"
-    },
-    {
-      "title": "TJX Corp. (TJX) Surged Following Results that Exceeded Expectations",
-      "link": "https://finance.yahoo.com/news/tjx-corp-tjx-surged-following-144630887.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-23T14:46:30Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/95f737aae57fb39e235711c1dbc636f2",
-      "slug": "tjx-corp-tjx-surged-following-results-that-exceeded-expectations-407015b0",
-      "orig_slug": "tjx-corp-tjx-surged-following-results-that-exceeded-expectations-407015b0"
-    },
-    {
-      "title": "8 strategies for getting the lowest mortgage rates",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/8-strategies-for-getting-the-lowest-mortgage-rates-224601064.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2024-01-26T22:46:01Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/Goax7s8IUk7zAyhlsYm4XA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Nzg-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/8a0cdc30-4dea-11f0-853b-6352d2a30cb4",
-      "slug": "8-strategies-for-getting-the-lowest-mortgage-rates-7c1a15e0",
-      "orig_slug": "8-strategies-for-getting-the-lowest-mortgage-rates-7c1a15e0"
-    },
-    {
-      "title": "This Little-Known Stock Just Landed a Big Disney Win. Should You Buy Shares Here?",
-      "link": "https://finance.yahoo.com/news/little-known-stock-just-landed-153403383.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-23T15:34:03Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/86e3824dc5d0aa393214fc8cfa46079a",
-      "slug": "this-little-known-stock-just-landed-a-big-disney-win-should-you-buy-shares-here-1a22d820",
-      "orig_slug": "this-little-known-stock-just-landed-a-big-disney-win-should-you-buy-shares-here-1a22d820"
-    },
-    {
-      "title": "Want to buy a house in early 2026? Here's how to prepare.",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/want-to-buy-a-house-in-the-first-half-of-2026-162052519.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-11-04T16:20:52Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/xipBSSThG6gSvnTuePma0w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTc-/https://s.yimg.com/os/creatr-images/2020-07/55c51dc0-c84d-11ea-af5f-bc66357f1330",
-      "slug": "want-to-buy-a-house-in-early-2026-heres-how-to-prepare-17b8e664",
-      "orig_slug": "want-to-buy-a-house-in-early-2026-heres-how-to-prepare-17b8e664"
-    },
-    {
-      "title": "Technical Assessment: Bullish in the Intermediate-Term",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_45684_TechnicalAnalysis_1766578159000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-24T12:09:19Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "technical-assessment-bullish-in-the-intermediate-term-b6e209ba",
-      "orig_slug": "technical-assessment-bullish-in-the-intermediate-term-b6e209ba"
-    },
-    {
-      "title": "Amphastar Director Sells 16,679 Shares for $441,800",
-      "link": "https://finance.yahoo.com/news/amphastar-director-sells-16-679-150727937.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-23T15:07:27Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/3555dd81096d2e030a1eb53e86b6c0ba",
-      "slug": "amphastar-director-sells-16679-shares-for-441800-bb0c5d53",
-      "orig_slug": "amphastar-director-sells-16679-shares-for-441800-bb0c5d53"
-    },
-    {
-      "title": "What is the average interest rate for savings accounts?",
-      "link": "https://finance.yahoo.com/news/average-interest-rate-savings-accounts-203543195.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-23T15:43:37Z",
-      "image": "https://media.zenfs.com/en/bankrate_626/5b76b3d83343bbbd80a1636369c0fb38",
-      "slug": "what-is-the-average-interest-rate-for-savings-accounts-5ad4e9e1",
-      "orig_slug": "what-is-the-average-interest-rate-for-savings-accounts-5ad4e9e1"
-    },
-    {
-      "title": "National average money market account rates for December 2025",
-      "link": "https://finance.yahoo.com/news/national-average-money-market-account-113634479.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-23T15:53:52Z",
-      "image": "https://media.zenfs.com/en/bankrate_626/d51e7054baaf776acd839801a22efa77",
-      "slug": "national-average-money-market-account-rates-for-december-2025-3c4f0b03",
-      "orig_slug": "national-average-money-market-account-rates-for-december-2025-3c4f0b03"
-    },
-    {
-      "title": "It’s All About the Meat: Can a New High-Protein Menu Get Chipotle Stock Back on Track?",
-      "link": "https://finance.yahoo.com/news/meat-high-protein-menu-chipotle-155613112.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-23T15:56:13Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/b7da239e5ba9a11dfea76e834f18176d",
-      "slug": "its-all-about-the-meat-can-a-new-high-protein-menu-get-chipotle-stock-back-on-tr-0024caa3",
-      "orig_slug": "its-all-about-the-meat-can-a-new-high-protein-menu-get-chipotle-stock-back-on-tr-0024caa3"
-    },
-    {
-      "title": "Are banks open on Christmas Eve? 12 federal holidays when your bank is closed.",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/banks-open-today-federal-holidays-221315418.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2024-01-29T22:13:15Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/vmPTveBTahDdOvB1S_Co2g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTU-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/db0f02e0-1c79-11f0-beff-775b71443905",
-      "slug": "are-banks-open-on-christmas-eve-12-federal-holidays-when-your-bank-is-closed-da158f3f",
-      "orig_slug": "are-banks-open-on-christmas-eve-12-federal-holidays-when-your-bank-is-closed-da158f3f"
-    },
-    {
-      "title": "Analyst Report: U.S. Bancorp.",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_3482_AnalystReport_1766578026000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-24T12:07:06Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "analyst-report-us-bancorp-6f57ca21",
-      "orig_slug": "analyst-report-us-bancorp-6f57ca21"
-    },
-    {
-      "title": "Jaspreet Singh: Stop Buying These 5 Things Now To Get Rich in 2026",
-      "link": "https://finance.yahoo.com/news/jaspreet-singh-stop-buying-5-151123090.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-23T15:11:23Z",
-      "image": "https://media.zenfs.com/en/gobankingrates_644/439f40ca876817fb3f7a290cc0df00c5",
-      "slug": "jaspreet-singh-stop-buying-these-5-things-now-to-get-rich-in-2026-5b636547",
-      "orig_slug": "jaspreet-singh-stop-buying-these-5-things-now-to-get-rich-in-2026-5b636547"
-    },
-    {
-      "title": "Higher prices could be killing your credit. Here's what to do about it.",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/credit-and-inflation-what-to-do-140016002.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-23T14:00:16Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/LHw4757e178iRmhHEJ.p1w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-08/45ee15f0-6bd2-11ef-beee-bd329775215e",
-      "slug": "higher-prices-could-be-killing-your-credit-heres-what-to-do-about-it-1ae74ff4",
-      "orig_slug": "higher-prices-could-be-killing-your-credit-heres-what-to-do-about-it-1ae74ff4"
-    },
-    {
-      "title": "Apple Just Released a New AI Model. Should You Buy AAPL Stock Here?",
-      "link": "https://finance.yahoo.com/news/apple-just-released-ai-model-160003178.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-23T16:00:03Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/0ebcb181fa5c1dc0fd30a445fb867adb",
-      "slug": "apple-just-released-a-new-ai-model-should-you-buy-aapl-stock-here-4f45897d",
-      "orig_slug": "apple-just-released-a-new-ai-model-should-you-buy-aapl-stock-here-4f45897d"
+      "pubDate": "2025-12-23T16:02:41Z",
+      "image": "https://media.zenfs.com/en/99bitcoins_us_315/fd297689b6e026dd3947a064e06202f1",
+      "slug": "xrp-etfs-pull-in-12b-as-bitcoin-ethereum-funds-cool-ddb7d416",
+      "orig_slug": "xrp-etfs-pull-in-12b-as-bitcoin-ethereum-funds-cool-ddb7d416"
     },
     {
       "title": "This Lesser-Known AI Stock Just Scored a Defense Win. Should You Buy Its Shares Here?",
@@ -200,6 +20,15 @@
       "orig_slug": "this-lesser-known-ai-stock-just-scored-a-defense-win-should-you-buy-its-shares-h-1973e136"
     },
     {
+      "title": "Apple Just Released a New AI Model. Should You Buy AAPL Stock Here?",
+      "link": "https://finance.yahoo.com/news/apple-just-released-ai-model-160003178.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-23T16:00:03Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/0ebcb181fa5c1dc0fd30a445fb867adb",
+      "slug": "apple-just-released-a-new-ai-model-should-you-buy-aapl-stock-here-4f45897d",
+      "orig_slug": "apple-just-released-a-new-ai-model-should-you-buy-aapl-stock-here-4f45897d"
+    },
+    {
       "title": "Will Oracle Stock Hit $250 in 2026? Dan Ives Thinks So.",
       "link": "https://finance.yahoo.com/news/oracle-stock-hit-250-2026-160847152.html",
       "source": "finance.yahoo.com",
@@ -209,24 +38,6 @@
       "orig_slug": "will-oracle-stock-hit-250-in-2026-dan-ives-thinks-so-bc61ed4e"
     },
     {
-      "title": "Market Digest: USB",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_45682_MarketSummary_1766577126000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-24T11:52:06Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "market-digest-usb-56dcc677",
-      "orig_slug": "market-digest-usb-56dcc677"
-    },
-    {
-      "title": "Could This Growth ETF Outperform the Market by 25% in 5 Years?",
-      "link": "https://finance.yahoo.com/news/could-growth-etf-outperform-market-150500592.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-23T15:05:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/8b07e3708a9e5a76f30ff57e15bd0f2c",
-      "slug": "could-this-growth-etf-outperform-the-market-by-25-in-5-years-afa57342",
-      "orig_slug": "could-this-growth-etf-outperform-the-market-by-25-in-5-years-afa57342"
-    },
-    {
       "title": "What credit score do you need to buy a house in 2026?",
       "link": "https://finance.yahoo.com/personal-finance/mortgages/article/credit-score-to-buy-a-house-214412439.html",
       "source": "finance.yahoo.com",
@@ -234,6 +45,24 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/fkfIJYda64ZkN82mG5lzSw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTU-/https://s.yimg.com/os/creatr-uploaded-images/2023-10/5d3d9750-72a2-11ee-bfdf-2a46bab0be93",
       "slug": "what-credit-score-do-you-need-to-buy-a-house-in-2026-303fdec2",
       "orig_slug": "what-credit-score-do-you-need-to-buy-a-house-in-2026-303fdec2"
+    },
+    {
+      "title": "Wingtech chair warns chip supplies at risk amid control dispute",
+      "link": "https://finance.yahoo.com/news/wingtech-chair-warns-chip-supplies-160218750.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-23T16:02:18Z",
+      "image": "https://media.zenfs.com/en/just_auto_187/89f4026a10a00d69069a4e8803345d4b",
+      "slug": "wingtech-chair-warns-chip-supplies-at-risk-amid-control-dispute-36c4cddf",
+      "orig_slug": "wingtech-chair-warns-chip-supplies-at-risk-amid-control-dispute-36c4cddf"
+    },
+    {
+      "title": "It’s All About the Meat: Can a New High-Protein Menu Get Chipotle Stock Back on Track?",
+      "link": "https://finance.yahoo.com/news/meat-high-protein-menu-chipotle-155613112.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-23T15:56:13Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/b7da239e5ba9a11dfea76e834f18176d",
+      "slug": "its-all-about-the-meat-can-a-new-high-protein-menu-get-chipotle-stock-back-on-tr-0024caa3",
+      "orig_slug": "its-all-about-the-meat-can-a-new-high-protein-menu-get-chipotle-stock-back-on-tr-0024caa3"
     },
     {
       "title": "Jim Cramer Notes “Paychex Tends to Sell off on Earnings”",
@@ -254,6 +83,24 @@
       "orig_slug": "is-palo-alto-networks-stock-a-buy-sell-or-hold-following-its-major-multibillion--889fb9e8"
     },
     {
+      "title": "National average money market account rates for December 2025",
+      "link": "https://finance.yahoo.com/news/national-average-money-market-account-113634479.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-23T15:53:52Z",
+      "image": "https://media.zenfs.com/en/bankrate_626/d51e7054baaf776acd839801a22efa77",
+      "slug": "national-average-money-market-account-rates-for-december-2025-3c4f0b03",
+      "orig_slug": "national-average-money-market-account-rates-for-december-2025-3c4f0b03"
+    },
+    {
+      "title": "Kalshi Claims it ‘Beats Wall Street’ Forecasts, But Prediction Market Accuracy Remains Contested",
+      "link": "https://finance.yahoo.com/news/kalshi-claims-beats-wall-street-160215485.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-23T16:02:15Z",
+      "image": "https://media.zenfs.com/en/ccn_928/0558a247d9ed9a5a76deea6acbf78dcc",
+      "slug": "kalshi-claims-it-beats-wall-street-forecasts-but-prediction-market-accuracy-rema-d3b09fcb",
+      "orig_slug": "kalshi-claims-it-beats-wall-street-forecasts-but-prediction-market-accuracy-rema-d3b09fcb"
+    },
+    {
       "title": "Jim Cramer Says “Right Now, the Biggest Ambush in This Market Comes from Oracle”",
       "link": "https://finance.yahoo.com/news/jim-cramer-says-now-biggest-161831611.html",
       "source": "finance.yahoo.com",
@@ -261,24 +108,6 @@
       "image": "https://media.zenfs.com/en/insidermonkey.com/293138d34069d99e680c827f55215206",
       "slug": "jim-cramer-says-right-now-the-biggest-ambush-in-this-market-comes-from-oracle-1e41eea7",
       "orig_slug": "jim-cramer-says-right-now-the-biggest-ambush-in-this-market-comes-from-oracle-1e41eea7"
-    },
-    {
-      "title": "Daily – Vickers Top Insider Picks for 12/24/2025",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_45680_InsiderActivity_1766576874000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-24T11:47:54Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-vickers-top-insider-picks-for-12242025-f17f0e32",
-      "orig_slug": "daily-vickers-top-insider-picks-for-12242025-f17f0e32"
-    },
-    {
-      "title": "Bitcoin hashrate drop may signal bottom as treasury firms buy the dip: VanEck",
-      "link": "https://finance.yahoo.com/news/bitcoin-hashrate-drop-may-signal-151608018.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-23T15:16:08Z",
-      "image": "https://media.zenfs.com/en/blockspace_702/770faa5307690503f985f32cdff90c7e",
-      "slug": "bitcoin-hashrate-drop-may-signal-bottom-as-treasury-firms-buy-the-dip-vaneck-a48b0b71",
-      "orig_slug": "bitcoin-hashrate-drop-may-signal-bottom-as-treasury-firms-buy-the-dip-vaneck-a48b0b71"
     },
     {
       "title": "Jim Cramer Believes “Goldman Sachs May Be Growing Faster Than Almost All the Stocks in Tech”",
@@ -308,6 +137,15 @@
       "orig_slug": "jim-cramer-says-carnival-corp-offers-a-real-bargain-b97e6b9e"
     },
     {
+      "title": "VSP Vision Finalizes Deal to Acquire Marcolin",
+      "link": "https://finance.yahoo.com/news/vsp-vision-finalizes-deal-aquire-160000980.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-23T16:00:00Z",
+      "image": "https://media.zenfs.com/en/wwd_409/7e621263adde01f2daba53520d9f1bf3",
+      "slug": "vsp-vision-finalizes-deal-to-acquire-marcolin-246bad78",
+      "orig_slug": "vsp-vision-finalizes-deal-to-acquire-marcolin-246bad78"
+    },
+    {
       "title": "Stifel and Truist Rate CAVA Group (CAVA) Buy on Strong Outlook",
       "link": "https://finance.yahoo.com/news/stifel-truist-rate-cava-group-162217115.html",
       "source": "finance.yahoo.com",
@@ -315,24 +153,6 @@
       "image": "https://media.zenfs.com/en/insidermonkey.com/02a380acf6abff185a8d3763ce33a382",
       "slug": "stifel-and-truist-rate-cava-group-cava-buy-on-strong-outlook-c6863b3b",
       "orig_slug": "stifel-and-truist-rate-cava-group-cava-buy-on-strong-outlook-c6863b3b"
-    },
-    {
-      "title": "Daily – Vickers Top Buyers & Sellers for 12/24/2025",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_45681_TopBottomInsiderActivity_1766576874000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-24T11:47:54Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-vickers-top-buyers-sellers-for-12242025-4c9a27fd",
-      "orig_slug": "daily-vickers-top-buyers-sellers-for-12242025-4c9a27fd"
-    },
-    {
-      "title": "It’s Time to Spend Your FSA Money Before Your Employer Gets What’s Left",
-      "link": "https://www.wsj.com/personal-finance/its-time-to-spend-your-fsa-money-before-your-employer-gets-whats-left-48af0816?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-23T15:00:00Z",
-      "image": "",
-      "slug": "its-time-to-spend-your-fsa-money-before-your-employer-gets-whats-left-8c822285",
-      "orig_slug": "its-time-to-spend-your-fsa-money-before-your-employer-gets-whats-left-8c822285"
     },
     {
       "title": "Jefferies and RBC Capital Bullish on Wingstop (WING)",
@@ -353,15 +173,6 @@
       "orig_slug": "heres-what-analysts-say-on-yum-brands-yum-amid-pizza-hut-review-71272f9a"
     },
     {
-      "title": "Evercore ISI and Goldman Bullish on Chipotle Mexican Grill (CMG)",
-      "link": "https://finance.yahoo.com/news/evercore-isi-goldman-bullish-chipotle-162611644.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-23T16:26:11Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/b81a859b45533ff4280a6d306633720c",
-      "slug": "evercore-isi-and-goldman-bullish-on-chipotle-mexican-grill-cmg-68ab1b57",
-      "orig_slug": "evercore-isi-and-goldman-bullish-on-chipotle-mexican-grill-cmg-68ab1b57"
-    },
-    {
       "title": "Analysts Keep Neutral Views on Domino’s Pizza (DPZ)",
       "link": "https://finance.yahoo.com/news/analysts-keep-neutral-views-domino-162613952.html",
       "source": "finance.yahoo.com",
@@ -371,13 +182,22 @@
       "orig_slug": "analysts-keep-neutral-views-on-dominos-pizza-dpz-90003f13"
     },
     {
-      "title": "7 of the Biggest Layoffs to Hit Footwear in 2025",
-      "link": "https://finance.yahoo.com/news/7-biggest-layoffs-hit-footwear-150000637.html",
+      "title": "What to Watch With COCO Stock in 2026",
+      "link": "https://finance.yahoo.com/news/watch-coco-stock-2026-160700304.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-23T15:00:00Z",
-      "image": "https://media.zenfs.com/en/footwear_news_finance_8/920dea4954a95a424ba45ee4174abec4",
-      "slug": "7-of-the-biggest-layoffs-to-hit-footwear-in-2025-ca7cc344",
-      "orig_slug": "7-of-the-biggest-layoffs-to-hit-footwear-in-2025-ca7cc344"
+      "pubDate": "2025-12-23T16:07:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/88a41ccbc35fc4cc53e00ea9514794dd",
+      "slug": "what-to-watch-with-coco-stock-in-2026-6734f8aa",
+      "orig_slug": "what-to-watch-with-coco-stock-in-2026-6734f8aa"
+    },
+    {
+      "title": "Evercore ISI and Goldman Bullish on Chipotle Mexican Grill (CMG)",
+      "link": "https://finance.yahoo.com/news/evercore-isi-goldman-bullish-chipotle-162611644.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-23T16:26:11Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/b81a859b45533ff4280a6d306633720c",
+      "slug": "evercore-isi-and-goldman-bullish-on-chipotle-mexican-grill-cmg-68ab1b57",
+      "orig_slug": "evercore-isi-and-goldman-bullish-on-chipotle-mexican-grill-cmg-68ab1b57"
     },
     {
       "title": "Here’s What Analysts Say on McDonald’s (MCD)",
@@ -407,6 +227,24 @@
       "orig_slug": "benchmark-diesel-down-yet-again-five-straight-weeks-of-declines-5d475d9a"
     },
     {
+      "title": "Daily Spotlight: Three Signals from Dividend Growth",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_45685_MarketOutlook_1766578302000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-24T12:11:42Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "daily-spotlight-three-signals-from-dividend-growth-535a120a",
+      "orig_slug": "daily-spotlight-three-signals-from-dividend-growth-535a120a"
+    },
+    {
+      "title": "Three Catalysts That Will Change How You Borrow Money",
+      "link": "https://finance.yahoo.com/video/three-catalysts-change-borrow-money-160722227.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-23T16:07:22Z",
+      "image": "https://media.zenfs.com/en/coindesk_75/6da0719d987db4d21afd208477977696",
+      "slug": "three-catalysts-that-will-change-how-you-borrow-money-4ffa7430",
+      "orig_slug": "three-catalysts-that-will-change-how-you-borrow-money-4ffa7430"
+    },
+    {
       "title": "Dan Ives Thinks Trump Will Invest in This Quantum Computing Stock in 2026. Should You Buy It First?",
       "link": "https://finance.yahoo.com/news/dan-ives-thinks-trump-invest-163111320.html",
       "source": "finance.yahoo.com",
@@ -416,15 +254,6 @@
       "orig_slug": "dan-ives-thinks-trump-will-invest-in-this-quantum-computing-stock-in-2026-should-ade785ac"
     },
     {
-      "title": "Why Bybit will end services in Japan",
-      "link": "https://finance.yahoo.com/news/why-bybit-end-services-japan-151740145.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-23T15:17:40Z",
-      "image": "https://media.zenfs.com/en/dlnews_702/f248e01d197f1f5cc5349ff3241a7df1",
-      "slug": "why-bybit-will-end-services-in-japan-f866d786",
-      "orig_slug": "why-bybit-will-end-services-in-japan-f866d786"
-    },
-    {
       "title": "Best secured credit cards for January 2026",
       "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-secured-credit-cards-171300343.html",
       "source": "finance.yahoo.com",
@@ -432,6 +261,159 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/ltL4h_y_O6W4aQUDAkF7Bg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/3ebd54b0-d9ec-11f0-bf5f-1d24c5882ffe",
       "slug": "best-secured-credit-cards-for-january-2026-21b2883f",
       "orig_slug": "best-secured-credit-cards-for-january-2026-21b2883f"
+    },
+    {
+      "title": "Hycroft (HYMC) Soars to Record High on Stellar Exploration Drilling Results",
+      "link": "https://finance.yahoo.com/news/hycroft-hymc-soars-record-high-163527177.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-23T16:35:27Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/b897bd840a4e3c4e7ea94dd95b619a30",
+      "slug": "hycroft-hymc-soars-to-record-high-on-stellar-exploration-drilling-results-574d5ea8",
+      "orig_slug": "hycroft-hymc-soars-to-record-high-on-stellar-exploration-drilling-results-574d5ea8"
+    },
+    {
+      "title": "Applied Optoelectronics (AAOI) Soars 24.8% on New Pump Laser for AI",
+      "link": "https://finance.yahoo.com/news/applied-optoelectronics-aaoi-soars-24-163534666.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-23T16:35:34Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/f331190bb7b247844271fb535abb76e1",
+      "slug": "applied-optoelectronics-aaoi-soars-248-on-new-pump-laser-for-ai-5dcd73c9",
+      "orig_slug": "applied-optoelectronics-aaoi-soars-248-on-new-pump-laser-for-ai-5dcd73c9"
+    },
+    {
+      "title": "Technical Assessment: Bullish in the Intermediate-Term",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_45684_TechnicalAnalysis_1766578159000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-24T12:09:19Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "technical-assessment-bullish-in-the-intermediate-term-b6e209ba",
+      "orig_slug": "technical-assessment-bullish-in-the-intermediate-term-b6e209ba"
+    },
+    {
+      "title": "Suzuki rolls out AI-based work analysis software ‘Ollo Factory’",
+      "link": "https://finance.yahoo.com/news/suzuki-rolls-ai-based-analysis-160640693.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-23T16:06:40Z",
+      "image": "https://media.zenfs.com/en/just_auto_187/b51ff28301cfbbd4f537a127c5871644",
+      "slug": "suzuki-rolls-out-ai-based-work-analysis-software-ollo-factory-9e858487",
+      "orig_slug": "suzuki-rolls-out-ai-based-work-analysis-software-ollo-factory-9e858487"
+    },
+    {
+      "title": "Want to buy a house in early 2026? Here's how to prepare.",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/want-to-buy-a-house-in-the-first-half-of-2026-162052519.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-11-04T16:20:52Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/xipBSSThG6gSvnTuePma0w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTc-/https://s.yimg.com/os/creatr-images/2020-07/55c51dc0-c84d-11ea-af5f-bc66357f1330",
+      "slug": "want-to-buy-a-house-in-early-2026-heres-how-to-prepare-17b8e664",
+      "orig_slug": "want-to-buy-a-house-in-early-2026-heres-how-to-prepare-17b8e664"
+    },
+    {
+      "title": "D-Wave Quantum (QBTS) Gets 20% Boost on Expected Business Updates",
+      "link": "https://finance.yahoo.com/news/d-wave-quantum-qbts-gets-163703347.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-23T16:37:03Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/adf936646074790f97d3f766be1e0c3f",
+      "slug": "d-wave-quantum-qbts-gets-20-boost-on-expected-business-updates-7975078d",
+      "orig_slug": "d-wave-quantum-qbts-gets-20-boost-on-expected-business-updates-7975078d"
+    },
+    {
+      "title": "Top 100 Stocks to Buy: AMC Entertainment Partially Exited Hycroft Mining Earlier This Month. There’s Good News and Bad News for AMC Shareholders.",
+      "link": "https://finance.yahoo.com/news/top-100-stocks-buy-amc-163824736.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-23T16:38:24Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/3ebf35045bba0d1430ff712d90eb49d0",
+      "slug": "top-100-stocks-to-buy-amc-entertainment-partially-exited-hycroft-mining-earlier--26b6be44",
+      "orig_slug": "top-100-stocks-to-buy-amc-entertainment-partially-exited-hycroft-mining-earlier--26b6be44"
+    },
+    {
+      "title": "Firefly Aerospace (FLY) Soars 16% on Russell 2000 Inclusion",
+      "link": "https://finance.yahoo.com/news/firefly-aerospace-fly-soars-16-163930414.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-23T16:39:30Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/12248054398b062b1dbd7c0cf2ea6399",
+      "slug": "firefly-aerospace-fly-soars-16-on-russell-2000-inclusion-be035626",
+      "orig_slug": "firefly-aerospace-fly-soars-16-on-russell-2000-inclusion-be035626"
+    },
+    {
+      "title": "Analyst Report: U.S. Bancorp.",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_3482_AnalystReport_1766578026000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-24T12:07:06Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-us-bancorp-6f57ca21",
+      "orig_slug": "analyst-report-us-bancorp-6f57ca21"
+    },
+    {
+      "title": "Women’s steady climb to CEO jobs and board seats is stalling amid a perfect storm of politics, economic uncertainty, and changing management tracks",
+      "link": "https://finance.yahoo.com/news/women-steady-climb-ceo-jobs-161013690.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-23T16:10:13Z",
+      "image": "https://media.zenfs.com/en/fortune_175/3cc2dd3101058ee0c76d6126ff384f7e",
+      "slug": "womens-steady-climb-to-ceo-jobs-and-board-seats-is-stalling-amid-a-perfect-storm-8df174d9",
+      "orig_slug": "womens-steady-climb-to-ceo-jobs-and-board-seats-is-stalling-amid-a-perfect-storm-8df174d9"
+    },
+    {
+      "title": "8 strategies for getting the lowest mortgage rates",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/8-strategies-for-getting-the-lowest-mortgage-rates-224601064.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2024-01-26T22:46:01Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/Goax7s8IUk7zAyhlsYm4XA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Nzg-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/8a0cdc30-4dea-11f0-853b-6352d2a30cb4",
+      "slug": "8-strategies-for-getting-the-lowest-mortgage-rates-7c1a15e0",
+      "orig_slug": "8-strategies-for-getting-the-lowest-mortgage-rates-7c1a15e0"
+    },
+    {
+      "title": "Dollar Falls Despite Strong US GDP Report",
+      "link": "https://finance.yahoo.com/news/dollar-falls-despite-strong-us-164317595.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-23T16:43:17Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/2c2f5b83145598d80c022d2c80d7d9cb",
+      "slug": "dollar-falls-despite-strong-us-gdp-report-1b3e6f9b",
+      "orig_slug": "dollar-falls-despite-strong-us-gdp-report-1b3e6f9b"
+    },
+    {
+      "title": "Hut 8 (HUT) Jumps 14% on Bullish Rating, PT",
+      "link": "https://finance.yahoo.com/news/hut-8-hut-jumps-14-164451345.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-23T16:44:51Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/05d340371674ba1b8f1a42b994b66b63",
+      "slug": "hut-8-hut-jumps-14-on-bullish-rating-pt-a1319510",
+      "orig_slug": "hut-8-hut-jumps-14-on-bullish-rating-pt-a1319510"
+    },
+    {
+      "title": "AST SpaceMobile (ASTS) Rockets 14% Earlier Than BlueBird 6",
+      "link": "https://finance.yahoo.com/news/ast-spacemobile-asts-rockets-14-164559196.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-23T16:45:59Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/b869736c6e13ccec7e484e0dca22fc0e",
+      "slug": "ast-spacemobile-asts-rockets-14-earlier-than-bluebird-6-9f319a9a",
+      "orig_slug": "ast-spacemobile-asts-rockets-14-earlier-than-bluebird-6-9f319a9a"
+    },
+    {
+      "title": "Market Digest: USB",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_45682_MarketSummary_1766577126000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-24T11:52:06Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "market-digest-usb-56dcc677",
+      "orig_slug": "market-digest-usb-56dcc677"
+    },
+    {
+      "title": "Here’s Why Investors Don’t Need To Beat the Market To Be Rich, According to Humphrey Yang",
+      "link": "https://finance.yahoo.com/news/why-investors-don-t-beat-155804395.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-23T15:58:04Z",
+      "image": "https://media.zenfs.com/en/gobankingrates_644/575a531c989095d1c044eb5d5de54630",
+      "slug": "heres-why-investors-dont-need-to-beat-the-market-to-be-rich-according-to-humphre-47949383",
+      "orig_slug": "heres-why-investors-dont-need-to-beat-the-market-to-be-rich-according-to-humphre-47949383"
+    },
+    {
+      "title": "This Dividend Stock Just Scored an FDA Win. Should You Buy Shares Now?",
+      "link": "https://finance.yahoo.com/news/dividend-stock-just-scored-fda-164553663.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-23T16:45:53Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/c45c7663791f2fe119b3401a74163bde",
+      "slug": "this-dividend-stock-just-scored-an-fda-win-should-you-buy-shares-now-994fefd6",
+      "orig_slug": "this-dividend-stock-just-scored-an-fda-win-should-you-buy-shares-now-994fefd6"
     }
   ]
 }
