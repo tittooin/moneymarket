@@ -1,24 +1,6 @@
 {
-  "updated": "2025-12-27T07:13:17Z",
+  "updated": "2025-12-27T08:16:41Z",
   "items": [
-    {
-      "title": "Over 300 Stocks Doubled in 2025!",
-      "link": "https://finance.yahoo.com/news/over-300-stocks-doubled-2025-023000443.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-26T02:30:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/6263f53f9aaa22957139b478e8cc3876",
-      "slug": "over-300-stocks-doubled-in-2025-8d159ca3",
-      "orig_slug": "over-300-stocks-doubled-in-2025-8d159ca3"
-    },
-    {
-      "title": "This Dividend Giant Yielding 4.5% Is Wall Street’s Top Telecom Pick for 2026",
-      "link": "https://finance.yahoo.com/news/dividend-giant-yielding-4-5-003002601.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-26T00:30:02Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/83e80e5e52a52b8a6e584bb2edd6a950",
-      "slug": "this-dividend-giant-yielding-45-is-wall-streets-top-telecom-pick-for-2026-4221bc11",
-      "orig_slug": "this-dividend-giant-yielding-45-is-wall-streets-top-telecom-pick-for-2026-4221bc11"
-    },
     {
       "title": "San Juan Basin Royalty Trust (SJT) Falls Following Suspension of Cash Distribution for December",
       "link": "https://finance.yahoo.com/news/san-juan-basin-royalty-trust-033954609.html",
@@ -27,6 +9,15 @@
       "image": "https://media.zenfs.com/en/insidermonkey.com/b78a3cd50213ee5d752e8a503c8cf90c",
       "slug": "san-juan-basin-royalty-trust-sjt-falls-following-suspension-of-cash-distribution-aabd791d",
       "orig_slug": "san-juan-basin-royalty-trust-sjt-falls-following-suspension-of-cash-distribution-aabd791d"
+    },
+    {
+      "title": "The Paycheck Raid: Trump Restarts Student Loan Seizures",
+      "link": "https://finance.yahoo.com/news/paycheck-raid-trump-restarts-student-033105377.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-26T03:31:05Z",
+      "image": "https://media.zenfs.com/en/Benzinga/fc33f20f5e31e0fc3fbba0a33d9a4648",
+      "slug": "the-paycheck-raid-trump-restarts-student-loan-seizures-07823daa",
+      "orig_slug": "the-paycheck-raid-trump-restarts-student-loan-seizures-07823daa"
     },
     {
       "title": "Helix Energy Solutions’ (HLX) Long-Standing CEO Set to Retire",
@@ -47,24 +38,6 @@
       "orig_slug": "cosan-csan-continued-to-slide-this-week-here-is-why-e1ac158f"
     },
     {
-      "title": "Market Digest: MNST",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_45694_MarketSummary_1766752841000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-26T12:40:41Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "market-digest-mnst-3d88fbdc",
-      "orig_slug": "market-digest-mnst-3d88fbdc"
-    },
-    {
-      "title": "Disney Vs. Netflix: Christmas Streaming Wars And What It Means For The Stocks",
-      "link": "https://finance.yahoo.com/news/disney-vs-netflix-christmas-streaming-023107946.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-26T02:31:07Z",
-      "image": "https://media.zenfs.com/en/Benzinga/b0a0f49e6ab25bef79eb0b428e5ba5ce",
-      "slug": "disney-vs-netflix-christmas-streaming-wars-and-what-it-means-for-the-stocks-641db1c8",
-      "orig_slug": "disney-vs-netflix-christmas-streaming-wars-and-what-it-means-for-the-stocks-641db1c8"
-    },
-    {
       "title": "S&P Downgrades New Fortress Energy (NFE) Amid Financial Troubles",
       "link": "https://finance.yahoo.com/news/p-downgrades-fortress-energy-nfe-043523019.html",
       "source": "finance.yahoo.com",
@@ -72,33 +45,6 @@
       "image": "https://media.zenfs.com/en/insidermonkey.com/acb7510ebe83cfc81458ddd4e96c5d0c",
       "slug": "sp-downgrades-new-fortress-energy-nfe-amid-financial-troubles-5150b485",
       "orig_slug": "sp-downgrades-new-fortress-energy-nfe-amid-financial-troubles-5150b485"
-    },
-    {
-      "title": "Analyst Assumes Coverage of ProFrac Holding (ACDC) with ‘Underweight’ Rating",
-      "link": "https://finance.yahoo.com/news/analyst-assumes-coverage-profrac-holding-043527771.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-26T04:35:27Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/b8a1a0f30bfc75245282ae6ed66e8c66",
-      "slug": "analyst-assumes-coverage-of-profrac-holding-acdc-with-underweight-rating-1f4f9c05",
-      "orig_slug": "analyst-assumes-coverage-of-profrac-holding-acdc-with-underweight-rating-1f4f9c05"
-    },
-    {
-      "title": "Analysts Advise Caution on Tenaris (TS)",
-      "link": "https://finance.yahoo.com/news/analysts-advise-caution-tenaris-ts-043529844.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-26T04:35:29Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/94dad127bac0387450d5daf736256d20",
-      "slug": "analysts-advise-caution-on-tenaris-ts-234afd4c",
-      "orig_slug": "analysts-advise-caution-on-tenaris-ts-234afd4c"
-    },
-    {
-      "title": "Occidental Petroleum (OXY) Price Target Trimmed by Analysts",
-      "link": "https://finance.yahoo.com/news/occidental-petroleum-oxy-price-target-043535617.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-26T04:35:35Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/02188ab599333bd41a649b11eec6b7a9",
-      "slug": "occidental-petroleum-oxy-price-target-trimmed-by-analysts-acb8cf56",
-      "orig_slug": "occidental-petroleum-oxy-price-target-trimmed-by-analysts-acb8cf56"
     },
     {
       "title": "Analyst Report: Monster Beverage Corp.",
@@ -110,13 +56,22 @@
       "orig_slug": "analyst-report-monster-beverage-corp-b017f00c"
     },
     {
-      "title": "Why retirement may be harder to reach for many older Americans in 2026",
-      "link": "https://finance.yahoo.com/news/thousands-older-americans-plan-unretire-023807583.html",
+      "title": "Analysts Advise Caution on Tenaris (TS)",
+      "link": "https://finance.yahoo.com/news/analysts-advise-caution-tenaris-ts-043529844.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-26T02:38:07Z",
-      "image": "https://media.zenfs.com/en/business_insider_articles_888/84fac85d58e134bb1ad76a090c038020",
-      "slug": "why-retirement-may-be-harder-to-reach-for-many-older-americans-in-2026-3b34490a",
-      "orig_slug": "why-retirement-may-be-harder-to-reach-for-many-older-americans-in-2026-3b34490a"
+      "pubDate": "2025-12-26T04:35:29Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/94dad127bac0387450d5daf736256d20",
+      "slug": "analysts-advise-caution-on-tenaris-ts-234afd4c",
+      "orig_slug": "analysts-advise-caution-on-tenaris-ts-234afd4c"
+    },
+    {
+      "title": "Asia Market Open: Bitcoin Steady At $89k As Thin Trading Lifts Stocks, Silver Shines",
+      "link": "https://finance.yahoo.com/news/asia-market-open-bitcoin-steady-031631780.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-26T03:16:31Z",
+      "image": "https://media.zenfs.com/en/cryptonews_us_711/157172bd61da6e98658267c00dab7a4e",
+      "slug": "asia-market-open-bitcoin-steady-at-89k-as-thin-trading-lifts-stocks-silver-shine-8291090b",
+      "orig_slug": "asia-market-open-bitcoin-steady-at-89k-as-thin-trading-lifts-stocks-silver-shine-8291090b"
     },
     {
       "title": "Riley Exploration Permian (REPX) Fell This Week. Here is Why.",
@@ -128,6 +83,15 @@
       "orig_slug": "riley-exploration-permian-repx-fell-this-week-here-is-why-a7c8938b"
     },
     {
+      "title": "Analyst Assumes Coverage of ProFrac Holding (ACDC) with ‘Underweight’ Rating",
+      "link": "https://finance.yahoo.com/news/analyst-assumes-coverage-profrac-holding-043527771.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-26T04:35:27Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/b8a1a0f30bfc75245282ae6ed66e8c66",
+      "slug": "analyst-assumes-coverage-of-profrac-holding-acdc-with-underweight-rating-1f4f9c05",
+      "orig_slug": "analyst-assumes-coverage-of-profrac-holding-acdc-with-underweight-rating-1f4f9c05"
+    },
+    {
       "title": "Here is Why Dominion Energy (D) Fell This Week",
       "link": "https://finance.yahoo.com/news/why-dominion-energy-d-fell-043533262.html",
       "source": "finance.yahoo.com",
@@ -135,6 +99,33 @@
       "image": "https://media.zenfs.com/en/insidermonkey.com/81a75bf4f517b251598cf1673538cf91",
       "slug": "here-is-why-dominion-energy-d-fell-this-week-b906a409",
       "orig_slug": "here-is-why-dominion-energy-d-fell-this-week-b906a409"
+    },
+    {
+      "title": "Market Digest: MNST",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_45694_MarketSummary_1766752841000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-26T12:40:41Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "market-digest-mnst-3d88fbdc",
+      "orig_slug": "market-digest-mnst-3d88fbdc"
+    },
+    {
+      "title": "Occidental Petroleum (OXY) Price Target Trimmed by Analysts",
+      "link": "https://finance.yahoo.com/news/occidental-petroleum-oxy-price-target-043535617.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-26T04:35:35Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/02188ab599333bd41a649b11eec6b7a9",
+      "slug": "occidental-petroleum-oxy-price-target-trimmed-by-analysts-acb8cf56",
+      "orig_slug": "occidental-petroleum-oxy-price-target-trimmed-by-analysts-acb8cf56"
+    },
+    {
+      "title": "Interested in FedEx? Mark Your Calendars for June 1, 2026.",
+      "link": "https://finance.yahoo.com/news/interested-fedex-mark-calendars-june-041300702.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-26T04:13:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/befe4635cdd08d02144f329fb8b88fdb",
+      "slug": "interested-in-fedex-mark-your-calendars-for-june-1-2026-aa750c3a",
+      "orig_slug": "interested-in-fedex-mark-your-calendars-for-june-1-2026-aa750c3a"
     },
     {
       "title": "Consumer Spending Surge Sets Stage for Year-End Market Rally",
@@ -155,6 +146,15 @@
       "orig_slug": "exit-strategizing-private-equity-carries-record-backlog-of-companies-into-2026-4743ee9e"
     },
     {
+      "title": "Stocks close slightly lower in quiet post-Christmas trading",
+      "link": "https://finance.yahoo.com/news/asian-shares-mixed-while-gold-053144827.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-26T05:31:44Z",
+      "image": "https://media.zenfs.com/en/ap_finance_articles_694/79bee8960355786111eead983311ba74",
+      "slug": "stocks-close-slightly-lower-in-quiet-post-christmas-trading-97e3ac8a",
+      "orig_slug": "stocks-close-slightly-lower-in-quiet-post-christmas-trading-97e3ac8a"
+    },
+    {
       "title": "Daily Spotlight: Upward Slope for Yield Curve",
       "link": "https://finance.yahoo.com/research/reports/ARGUS_45697_MarketOutlook_1766752002000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "source": "finance.yahoo.com",
@@ -164,22 +164,22 @@
       "orig_slug": "daily-spotlight-upward-slope-for-yield-curve-4ad80321"
     },
     {
-      "title": "Mexican Stocks Hammer Wall Street As Peso Notches Best Year Since 1993",
-      "link": "https://finance.yahoo.com/news/mexican-stocks-hammer-wall-street-013112848.html",
+      "title": "This Dividend Giant Yielding 4.5% Is Wall Street’s Top Telecom Pick for 2026",
+      "link": "https://finance.yahoo.com/news/dividend-giant-yielding-4-5-003002601.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-26T01:31:12Z",
-      "image": "https://media.zenfs.com/en/Benzinga/5a6aa9a514c6a1a168866768c14ff92f",
-      "slug": "mexican-stocks-hammer-wall-street-as-peso-notches-best-year-since-1993-c7a1e8c8",
-      "orig_slug": "mexican-stocks-hammer-wall-street-as-peso-notches-best-year-since-1993-c7a1e8c8"
+      "pubDate": "2025-12-26T00:30:02Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/83e80e5e52a52b8a6e584bb2edd6a950",
+      "slug": "this-dividend-giant-yielding-45-is-wall-streets-top-telecom-pick-for-2026-4221bc11",
+      "orig_slug": "this-dividend-giant-yielding-45-is-wall-streets-top-telecom-pick-for-2026-4221bc11"
     },
     {
-      "title": "Stocks close slightly lower in quiet post-Christmas trading",
-      "link": "https://finance.yahoo.com/news/asian-shares-mixed-while-gold-053144827.html",
+      "title": "Opendoor Expands To Every Zip Code In America In Record Time Using AI: 'This Is Why Every Major Business Is Excited About AI,' Says Anthony Pompliano",
+      "link": "https://finance.yahoo.com/news/opendoor-expands-every-zip-code-043104774.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-26T05:31:44Z",
-      "image": "https://media.zenfs.com/en/ap_finance_articles_694/79bee8960355786111eead983311ba74",
-      "slug": "stocks-close-slightly-lower-in-quiet-post-christmas-trading-97e3ac8a",
-      "orig_slug": "stocks-close-slightly-lower-in-quiet-post-christmas-trading-97e3ac8a"
+      "pubDate": "2025-12-26T04:31:04Z",
+      "image": "https://media.zenfs.com/en/benzinga_79/43ced638c4378bd3382a223ca8d8518f",
+      "slug": "opendoor-expands-to-every-zip-code-in-america-in-record-time-using-ai-this-is-wh-67165965",
+      "orig_slug": "opendoor-expands-to-every-zip-code-in-america-in-record-time-using-ai-this-is-wh-67165965"
     },
     {
       "title": "BXP, Inc.'s Quarterly Earnings Preview: What You Need to Know",
@@ -191,15 +191,6 @@
       "orig_slug": "bxp-incs-quarterly-earnings-preview-what-you-need-to-know-0c288868"
     },
     {
-      "title": "Starbucks' Q1 2026 Earnings: What to Expect",
-      "link": "https://finance.yahoo.com/news/starbucks-q1-2026-earnings-expect-084225540.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-26T08:42:25Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/71238401370afedd121cd3042e4f4d47",
-      "slug": "starbucks-q1-2026-earnings-what-to-expect-74a72640",
-      "orig_slug": "starbucks-q1-2026-earnings-what-to-expect-74a72640"
-    },
-    {
       "title": "Steel Dynamics' Q4 2025 Earnings: What to Expect",
       "link": "https://finance.yahoo.com/news/steel-dynamics-q4-2025-earnings-084220988.html",
       "source": "finance.yahoo.com",
@@ -207,6 +198,15 @@
       "image": "https://media.zenfs.com/en/barchart_com_477/8887c8f344cf15b7cc59bc9f54a9d016",
       "slug": "steel-dynamics-q4-2025-earnings-what-to-expect-8f0a2268",
       "orig_slug": "steel-dynamics-q4-2025-earnings-what-to-expect-8f0a2268"
+    },
+    {
+      "title": "Starbucks' Q1 2026 Earnings: What to Expect",
+      "link": "https://finance.yahoo.com/news/starbucks-q1-2026-earnings-expect-084225540.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-26T08:42:25Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/71238401370afedd121cd3042e4f4d47",
+      "slug": "starbucks-q1-2026-earnings-what-to-expect-74a72640",
+      "orig_slug": "starbucks-q1-2026-earnings-what-to-expect-74a72640"
     },
     {
       "title": "Technical Assessment: Bullish in the Intermediate-Term",
@@ -218,15 +218,6 @@
       "orig_slug": "technical-assessment-bullish-in-the-intermediate-term-dcce4cc2"
     },
     {
-      "title": "6 Key Signs You’re Making Better Money Moves Than the Average American",
-      "link": "https://finance.yahoo.com/news/6-signs-more-financially-savvy-170041654.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-26T01:20:05Z",
-      "image": "https://media.zenfs.com/en/gobankingrates_644/c5ab01a40fcc972a50fdbbe47f933775",
-      "slug": "6-key-signs-youre-making-better-money-moves-than-the-average-american-df53bf36",
-      "orig_slug": "6-key-signs-youre-making-better-money-moves-than-the-average-american-df53bf36"
-    },
-    {
       "title": "Earnings Preview: What to Expect From Sysco’s Report",
       "link": "https://finance.yahoo.com/news/earnings-preview-expect-sysco-report-084545666.html",
       "source": "finance.yahoo.com",
@@ -234,6 +225,15 @@
       "image": "https://media.zenfs.com/en/barchart_com_477/09e6fce7b2351017866eb1313b0d32cb",
       "slug": "earnings-preview-what-to-expect-from-syscos-report-269f5cbd",
       "orig_slug": "earnings-preview-what-to-expect-from-syscos-report-269f5cbd"
+    },
+    {
+      "title": "Prediction: Rigetti Computing Stock Is Going to Plunge in 2026",
+      "link": "https://finance.yahoo.com/news/prediction-rigetti-computing-stock-going-043800156.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-26T04:38:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/27123c9799cd7f747f7d220ed8933ea3",
+      "slug": "prediction-rigetti-computing-stock-is-going-to-plunge-in-2026-b058fa47",
+      "orig_slug": "prediction-rigetti-computing-stock-is-going-to-plunge-in-2026-b058fa47"
     },
     {
       "title": "Stryker Earnings Preview: What to Expect",
@@ -263,15 +263,6 @@
       "orig_slug": "micron-mu-in-focus-as-analysts-highlight-multi-year-ai-data-center-expansion-e3fcfb1d"
     },
     {
-      "title": "Patients Who Searched in Vain for Mental-Health Care Take Insurers to Court",
-      "link": "https://www.wsj.com/us-news/law/health-insurance-lawsuit-network-provider-list-4ab84fbd?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-26T01:00:00Z",
-      "image": "",
-      "slug": "patients-who-searched-in-vain-for-mental-health-care-take-insurers-to-court-7181caaa",
-      "orig_slug": "patients-who-searched-in-vain-for-mental-health-care-take-insurers-to-court-7181caaa"
-    },
-    {
       "title": "Chinese EV battery giant CATL and Guoxin Micro set up new automotive chip firm",
       "link": "https://finance.yahoo.com/news/chinese-ev-battery-giant-catl-093000370.html",
       "source": "finance.yahoo.com",
@@ -279,6 +270,15 @@
       "image": "https://media.zenfs.com/en/south_china_morning_post_us_228/0d629a1eea79df4102733611132ae869",
       "slug": "chinese-ev-battery-giant-catl-and-guoxin-micro-set-up-new-automotive-chip-firm-53fc073a",
       "orig_slug": "chinese-ev-battery-giant-catl-and-guoxin-micro-set-up-new-automotive-chip-firm-53fc073a"
+    },
+    {
+      "title": "TRON Network Hits Record User Growth as TRX Price Faces Worst Q4 Decline",
+      "link": "https://finance.yahoo.com/news/tron-network-hits-record-user-045335942.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-26T04:53:35Z",
+      "image": "https://media.zenfs.com/en/beincrypto_us_662/9a8a2159e4d65816ef10efd6d31b801a",
+      "slug": "tron-network-hits-record-user-growth-as-trx-price-faces-worst-q4-decline-3dc658af",
+      "orig_slug": "tron-network-hits-record-user-growth-as-trx-price-faces-worst-q4-decline-3dc658af"
     },
     {
       "title": "Geopolitics Lifts Oil Prices in Thin Holiday Trading",
@@ -299,24 +299,6 @@
       "orig_slug": "an-ohio-woman-won-a-15m-jackpot-but-she-may-take-home-45m-after-taxes-how-to-use-54e674c4"
     },
     {
-      "title": "Energy-as-a-Service: A Subscription Trap for Heavy Infrastructure",
-      "link": "https://finance.yahoo.com/news/energy-subscription-trap-heavy-infrastructure-200000848.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-25T20:00:00Z",
-      "image": "https://media.zenfs.com/en/oilprice.com/28ca939581808dc3c57067444aad7b86",
-      "slug": "energy-as-a-service-a-subscription-trap-for-heavy-infrastructure-6e26b359",
-      "orig_slug": "energy-as-a-service-a-subscription-trap-for-heavy-infrastructure-6e26b359"
-    },
-    {
-      "title": "Asia Market Open: Bitcoin Steady At $89k As Thin Trading Lifts Stocks, Silver Shines",
-      "link": "https://finance.yahoo.com/news/asia-market-open-bitcoin-steady-031631780.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-26T03:16:31Z",
-      "image": "https://media.zenfs.com/en/cryptonews_us_711/157172bd61da6e98658267c00dab7a4e",
-      "slug": "asia-market-open-bitcoin-steady-at-89k-as-thin-trading-lifts-stocks-silver-shine-8291090b",
-      "orig_slug": "asia-market-open-bitcoin-steady-at-89k-as-thin-trading-lifts-stocks-silver-shine-8291090b"
-    },
-    {
       "title": "Financial apps are turning kids into savvy savers. Here’s how parents are making money lessons fun",
       "link": "https://finance.yahoo.com/news/financial-apps-turning-kids-savvy-110000326.html",
       "source": "finance.yahoo.com",
@@ -324,15 +306,6 @@
       "image": "https://media.zenfs.com/en/moneywise_327/3825db76280168544f0b7c02e17c0db4",
       "slug": "financial-apps-are-turning-kids-into-savvy-savers-heres-how-parents-are-making-m-375613ec",
       "orig_slug": "financial-apps-are-turning-kids-into-savvy-savers-heres-how-parents-are-making-m-375613ec"
-    },
-    {
-      "title": "Mortgage and refinance interest rates today, December 26, 2025: Minor moves up and down",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-friday-december-26-2025-110004393.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-26T11:00:04Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/pkSpSwDGDZC8Ol_scXouEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/c36fbdb0-0289-11ef-be8f-4e0451f1fa09",
-      "slug": "mortgage-and-refinance-interest-rates-today-december-26-2025-minor-moves-up-and--ec25a183",
-      "orig_slug": "mortgage-and-refinance-interest-rates-today-december-26-2025-minor-moves-up-and--ec25a183"
     },
     {
       "title": "Best high-yield savings interest rates today, December 26, 2025 (up to 4% APY return)",
@@ -344,6 +317,24 @@
       "orig_slug": "best-high-yield-savings-interest-rates-today-december-26-2025-up-to-4-apy-return-8ee1ed65"
     },
     {
+      "title": "Why retirement may be harder to reach for many older Americans in 2026",
+      "link": "https://finance.yahoo.com/news/thousands-older-americans-plan-unretire-023807583.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-26T02:38:07Z",
+      "image": "https://media.zenfs.com/en/business_insider_articles_888/84fac85d58e134bb1ad76a090c038020",
+      "slug": "why-retirement-may-be-harder-to-reach-for-many-older-americans-in-2026-3b34490a",
+      "orig_slug": "why-retirement-may-be-harder-to-reach-for-many-older-americans-in-2026-3b34490a"
+    },
+    {
+      "title": "Mortgage and refinance interest rates today, December 26, 2025: Minor moves up and down",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-friday-december-26-2025-110004393.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-26T11:00:04Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/pkSpSwDGDZC8Ol_scXouEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/c36fbdb0-0289-11ef-be8f-4e0451f1fa09",
+      "slug": "mortgage-and-refinance-interest-rates-today-december-26-2025-minor-moves-up-and--ec25a183",
+      "orig_slug": "mortgage-and-refinance-interest-rates-today-december-26-2025-minor-moves-up-and--ec25a183"
+    },
+    {
       "title": "Best money market account rates today, December 26, 2025 (up to 4.25% APY return)",
       "link": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-friday-december-26-2025-110009250.html",
       "source": "finance.yahoo.com",
@@ -351,15 +342,6 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/___pOPSKzgB9WMqYppHlmg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/0ef34f60-1be6-11f0-a17f-e52542084249",
       "slug": "best-money-market-account-rates-today-december-26-2025-up-to-425-apy-return-8e626cfe",
       "orig_slug": "best-money-market-account-rates-today-december-26-2025-up-to-425-apy-return-8e626cfe"
-    },
-    {
-      "title": "Raymond James Sees an Attractive Setup in These 2 ‘Strong Buy’ Stocks",
-      "link": "https://finance.yahoo.com/news/raymond-james-sees-attractive-setup-000006720.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-26T00:00:06Z",
-      "image": "https://media.zenfs.com/en/tipranks_452/cf2a2ca74e1fe01229e1b904a5c18cf2",
-      "slug": "raymond-james-sees-an-attractive-setup-in-these-2-strong-buy-stocks-72ffd7aa",
-      "orig_slug": "raymond-james-sees-an-attractive-setup-in-these-2-strong-buy-stocks-72ffd7aa"
     },
     {
       "title": "HELOC rates today, December 26, 2025: Rates may bottom out before the next Fed rate cut",
@@ -371,6 +353,24 @@
       "orig_slug": "heloc-rates-today-december-26-2025-rates-may-bottom-out-before-the-next-fed-rate-24482aa5"
     },
     {
+      "title": "S&P Futures Muted in Thin Post-Christmas Trade",
+      "link": "https://finance.yahoo.com/news/p-futures-muted-thin-post-110717211.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-26T11:07:17Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/a7ae4b2672b6ce658bd7fe96a66c5b12",
+      "slug": "sp-futures-muted-in-thin-post-christmas-trade-f14f0efa",
+      "orig_slug": "sp-futures-muted-in-thin-post-christmas-trade-f14f0efa"
+    },
+    {
+      "title": "Disney Vs. Netflix: Christmas Streaming Wars And What It Means For The Stocks",
+      "link": "https://finance.yahoo.com/news/disney-vs-netflix-christmas-streaming-023107946.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-26T02:31:07Z",
+      "image": "https://media.zenfs.com/en/Benzinga/b0a0f49e6ab25bef79eb0b428e5ba5ce",
+      "slug": "disney-vs-netflix-christmas-streaming-wars-and-what-it-means-for-the-stocks-641db1c8",
+      "orig_slug": "disney-vs-netflix-christmas-streaming-wars-and-what-it-means-for-the-stocks-641db1c8"
+    },
+    {
       "title": "What's ahead for stocks and gold in 2026? What experts are watching.",
       "link": "https://finance.yahoo.com/personal-finance/investing/article/stock-market-outlook-183956475.html",
       "source": "finance.yahoo.com",
@@ -378,6 +378,51 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/FBfgIgbCZmRbp9zm6qDVYw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/d5957410-bd6a-11f0-bbeb-937ab2fc0d59",
       "slug": "whats-ahead-for-stocks-and-gold-in-2026-what-experts-are-watching-8d6f2e6e",
       "orig_slug": "whats-ahead-for-stocks-and-gold-in-2026-what-experts-are-watching-8d6f2e6e"
+    },
+    {
+      "title": "How Oracle became a ‘poster child’ for AI bubble fears",
+      "link": "https://finance.yahoo.com/news/how-oracle-became-a-poster-child-for-ai-bubble-fears-150039511.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-21T15:00:39Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/R9FXlTbkvVzLIkvCFqe3AQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/234bd480-dc72-11f0-bb76-4afba1d1dbe0",
+      "slug": "how-oracle-became-a-poster-child-for-ai-bubble-fears-6e11a4b9",
+      "orig_slug": "how-oracle-became-a-poster-child-for-ai-bubble-fears-6e11a4b9"
+    },
+    {
+      "title": "What You Need to Know Ahead of Abbott Laboratories' Earnings Release",
+      "link": "https://finance.yahoo.com/news/know-ahead-abbott-laboratories-earnings-112637376.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-26T11:26:37Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/26fcccad8a1735f3e7836064d3bb03ed",
+      "slug": "what-you-need-to-know-ahead-of-abbott-laboratories-earnings-release-5bdd835e",
+      "orig_slug": "what-you-need-to-know-ahead-of-abbott-laboratories-earnings-release-5bdd835e"
+    },
+    {
+      "title": "Gen X is behind on retirement savings more than any other generation. Here’s how to catch up and secure your future",
+      "link": "https://finance.yahoo.com/news/gen-x-behind-retirement-savings-113000243.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-26T11:30:00Z",
+      "image": "https://media.zenfs.com/en/moneywise_327/e21f3e5c5ca0c9f84d9a3ccfca457da9",
+      "slug": "gen-x-is-behind-on-retirement-savings-more-than-any-other-generation-heres-how-t-156d76ef",
+      "orig_slug": "gen-x-is-behind-on-retirement-savings-more-than-any-other-generation-heres-how-t-156d76ef"
+    },
+    {
+      "title": "Over 300 Stocks Doubled in 2025!",
+      "link": "https://finance.yahoo.com/news/over-300-stocks-doubled-2025-023000443.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-26T02:30:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/6263f53f9aaa22957139b478e8cc3876",
+      "slug": "over-300-stocks-doubled-in-2025-8d159ca3",
+      "orig_slug": "over-300-stocks-doubled-in-2025-8d159ca3"
+    },
+    {
+      "title": "What to Expect From Textron's Next Quarterly Earnings Report",
+      "link": "https://finance.yahoo.com/news/expect-textrons-next-quarterly-earnings-113025693.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-26T11:30:25Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/7cd62468acea3ba09f004f9df4d211b2",
+      "slug": "what-to-expect-from-textrons-next-quarterly-earnings-report-01de220e",
+      "orig_slug": "what-to-expect-from-textrons-next-quarterly-earnings-report-01de220e"
     },
     {
       "title": "5 ways to start the new year with less debt, according to experts",
@@ -398,15 +443,6 @@
       "orig_slug": "gold-price-today-friday-december-26-gold-opens-above-4500-for-third-consecutive--09c82096"
     },
     {
-      "title": "The Paycheck Raid: Trump Restarts Student Loan Seizures",
-      "link": "https://finance.yahoo.com/news/paycheck-raid-trump-restarts-student-033105377.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-26T03:31:05Z",
-      "image": "https://media.zenfs.com/en/Benzinga/fc33f20f5e31e0fc3fbba0a33d9a4648",
-      "slug": "the-paycheck-raid-trump-restarts-student-loan-seizures-07823daa",
-      "orig_slug": "the-paycheck-raid-trump-restarts-student-loan-seizures-07823daa"
-    },
-    {
       "title": "Cheapest car insurance in the U.S. 2026",
       "link": "https://finance.yahoo.com/personal-finance/insurance/article/cheap-car-insurance-152307402.html",
       "source": "finance.yahoo.com",
@@ -414,42 +450,6 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/xQbKKUyRNIzfpAO_YpSkVg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/c820e730-4621-11f0-bfe9-73fca0795614",
       "slug": "cheapest-car-insurance-in-the-us-2026-95581403",
       "orig_slug": "cheapest-car-insurance-in-the-us-2026-95581403"
-    },
-    {
-      "title": "Best CD rates today, December 26, 2025 (up to 4.1% APY return)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-december-26-2025-110056984.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-26T11:00:56Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/jh7QT_uSJ4u1MJbMoh5tSw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47b17e2-4f64-11ef-afbf-1041709cf169",
-      "slug": "best-cd-rates-today-december-26-2025-up-to-41-apy-return-4407cc19",
-      "orig_slug": "best-cd-rates-today-december-26-2025-up-to-41-apy-return-4407cc19"
-    },
-    {
-      "title": "Mortgage lenders with the best rates this week, Dec. 22-28, 2025",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-lenders-with-the-best-rates-this-week-dec-22-28-2025-170834914.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-11-03T17:08:34Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/crsTFDE81vgLssLr_Y8YZw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2020-10/d211e2e0-0985-11eb-94fd-7135f02b8494",
-      "slug": "mortgage-lenders-with-the-best-rates-this-week-dec-22-28-2025-00cd5552",
-      "orig_slug": "mortgage-lenders-with-the-best-rates-this-week-dec-22-28-2025-00cd5552"
-    },
-    {
-      "title": "What will mortgage rates do over the next 5 years?",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/what-will-mortgage-rates-do-over-the-next-5-years-195826882.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-08-18T19:58:26Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/SNPzftDDbhVEdhC34xsQNQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/4dec0760-7c4f-11f0-bff7-ef39526b906c",
-      "slug": "what-will-mortgage-rates-do-over-the-next-5-years-4de45095",
-      "orig_slug": "what-will-mortgage-rates-do-over-the-next-5-years-4de45095"
-    },
-    {
-      "title": "Here's what big bank CEOs have said about AI's impact on head count",
-      "link": "https://finance.yahoo.com/news/heres-big-bank-ceos-said-194101588.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-25T18:55:01Z",
-      "image": "https://media.zenfs.com/en/business_insider_articles_888/55e1acd970ebef0a505562d0921ea3ac",
-      "slug": "heres-what-big-bank-ceos-have-said-about-ais-impact-on-head-count-388b1a5c",
-      "orig_slug": "heres-what-big-bank-ceos-have-said-about-ais-impact-on-head-count-388b1a5c"
     }
   ]
 }
