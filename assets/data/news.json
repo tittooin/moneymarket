@@ -1,6 +1,375 @@
 {
-  "updated": "2025-12-28T15:12:17Z",
+  "updated": "2025-12-28T16:14:54Z",
   "items": [
+    {
+      "title": "Sanofi (SNY) to Acquire Dynavax Technologies Corporation (DVAX)",
+      "link": "https://finance.yahoo.com/news/sanofi-sny-acquire-dynavax-technologies-155927769.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:59:27Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/4f7369a8cd76489e18c06afee0976ddc",
+      "slug": "sanofi-sny-to-acquire-dynavax-technologies-corporation-dvax-1a75351a",
+      "orig_slug": "sanofi-sny-to-acquire-dynavax-technologies-corporation-dvax-1a75351a"
+    },
+    {
+      "title": "PVH Corp (PVH) Down 21% Since Q3 2025 Earnings, Wall Street Maintains a Positive Opinion",
+      "link": "https://finance.yahoo.com/news/pvh-corp-pvh-down-21-155925848.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:59:25Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/65c9174053853ca03580310dcffc098e",
+      "slug": "pvh-corp-pvh-down-21-since-q3-2025-earnings-wall-street-maintains-a-positive-opi-ac4984a9",
+      "orig_slug": "pvh-corp-pvh-down-21-since-q3-2025-earnings-wall-street-maintains-a-positive-opi-ac4984a9"
+    },
+    {
+      "title": "Here’s What Wall Street Thinks About EOG Resources (EOG)",
+      "link": "https://finance.yahoo.com/news/wall-street-thinks-eog-resources-155923938.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:59:23Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/2dee577f606a4142b6884884737cf7de",
+      "slug": "heres-what-wall-street-thinks-about-eog-resources-eog-baf48cc5",
+      "orig_slug": "heres-what-wall-street-thinks-about-eog-resources-eog-baf48cc5"
+    },
+    {
+      "title": "Wall Street Maintains a Positive Opinion on LKQ Corporation (LKQ), Here’s Why",
+      "link": "https://finance.yahoo.com/news/wall-street-maintains-positive-opinion-155921773.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:59:21Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/030bbf3eb5683a074e97294ab141121a",
+      "slug": "wall-street-maintains-a-positive-opinion-on-lkq-corporation-lkq-heres-why-e95fe2d2",
+      "orig_slug": "wall-street-maintains-a-positive-opinion-on-lkq-corporation-lkq-heres-why-e95fe2d2"
+    },
+    {
+      "title": "KBR, Inc. (KBR) Secures a Seat on Multiple Indefinite Delivery Indefinite Quantity Contracts By US Navy",
+      "link": "https://finance.yahoo.com/news/kbr-inc-kbr-secures-seat-155919544.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:59:19Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/d31fe4141423e3429ef34c439c2685ce",
+      "slug": "kbr-inc-kbr-secures-a-seat-on-multiple-indefinite-delivery-indefinite-quantity-c-a4a6ee0f",
+      "orig_slug": "kbr-inc-kbr-secures-a-seat-on-multiple-indefinite-delivery-indefinite-quantity-c-a4a6ee0f"
+    },
+    {
+      "title": "Wall Street Maintains a Positive Outlook on Energy Transfer LP (ET), Here’s Why",
+      "link": "https://finance.yahoo.com/news/wall-street-maintains-positive-outlook-155917656.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:59:17Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/a97f111c62451e82df1b503f29d424ac",
+      "slug": "wall-street-maintains-a-positive-outlook-on-energy-transfer-lp-et-heres-why-4516ecb3",
+      "orig_slug": "wall-street-maintains-a-positive-outlook-on-energy-transfer-lp-et-heres-why-4516ecb3"
+    },
+    {
+      "title": "Roth MKM Remains a Buy on Permian Resources Corporation (PR)",
+      "link": "https://finance.yahoo.com/news/roth-mkm-remains-buy-permian-155916863.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:59:16Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/0c1fbd00e6f9de5afb355d6b623fff6f",
+      "slug": "roth-mkm-remains-a-buy-on-permian-resources-corporation-pr-7ace3d30",
+      "orig_slug": "roth-mkm-remains-a-buy-on-permian-resources-corporation-pr-7ace3d30"
+    },
+    {
+      "title": "The Mosaic Company (MOS) to Sell Mosaic Potash Carlsbad Operations",
+      "link": "https://finance.yahoo.com/news/mosaic-company-mos-sell-mosaic-155913670.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:59:13Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/4811ed72d6e46ef2af211e1584c96d2f",
+      "slug": "the-mosaic-company-mos-to-sell-mosaic-potash-carlsbad-operations-b268407f",
+      "orig_slug": "the-mosaic-company-mos-to-sell-mosaic-potash-carlsbad-operations-b268407f"
+    },
+    {
+      "title": "Uber Technologies (UBER) Partners With Lyft and Baidu to Launch Driverless Taxi Trials in UK",
+      "link": "https://finance.yahoo.com/news/uber-technologies-uber-partners-lyft-155914728.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:59:14Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/1b0d24331c5749b8809056a69d9d96ee",
+      "slug": "uber-technologies-uber-partners-with-lyft-and-baidu-to-launch-driverless-taxi-tr-0493c437",
+      "orig_slug": "uber-technologies-uber-partners-with-lyft-and-baidu-to-launch-driverless-taxi-tr-0493c437"
+    },
+    {
+      "title": "Wall Street Maintains a Positive Outlook on Charter Communications (CHTR)",
+      "link": "https://finance.yahoo.com/news/wall-street-maintains-positive-outlook-155911572.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:59:11Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/119ca111016f54aae713bde7ee7869d0",
+      "slug": "wall-street-maintains-a-positive-outlook-on-charter-communications-chtr-67b4f7ba",
+      "orig_slug": "wall-street-maintains-a-positive-outlook-on-charter-communications-chtr-67b4f7ba"
+    },
+    {
+      "title": "Here’s What Analysts Think About Cheniere Energy (LNG)",
+      "link": "https://finance.yahoo.com/news/analysts-think-cheniere-energy-lng-155908033.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:59:08Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/f15af525386ffbfbcba24ee6c62613ed",
+      "slug": "heres-what-analysts-think-about-cheniere-energy-lng-77a19711",
+      "orig_slug": "heres-what-analysts-think-about-cheniere-energy-lng-77a19711"
+    },
+    {
+      "title": "Is XP Inc. (XP) One of the Best Affordable Stocks to Buy?",
+      "link": "https://finance.yahoo.com/news/xp-inc-xp-one-best-155910767.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:59:10Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/bf0ceaec9630a19a030af63251f1fba0",
+      "slug": "is-xp-inc-xp-one-of-the-best-affordable-stocks-to-buy-452bc8e7",
+      "orig_slug": "is-xp-inc-xp-one-of-the-best-affordable-stocks-to-buy-452bc8e7"
+    },
+    {
+      "title": "Here’s What You Need to Know About Matador Resources Company (MTDR)",
+      "link": "https://finance.yahoo.com/news/know-matador-resources-company-mtdr-155907563.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:59:07Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/60ee7a845bcfefe9b1ee80fcbf847e4c",
+      "slug": "heres-what-you-need-to-know-about-matador-resources-company-mtdr-4a79802b",
+      "orig_slug": "heres-what-you-need-to-know-about-matador-resources-company-mtdr-4a79802b"
+    },
+    {
+      "title": "Here’s What Wall Street Thinks About California Resources Corporation (CRC)",
+      "link": "https://finance.yahoo.com/news/wall-street-thinks-california-resources-155903796.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:59:03Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/b454a036fa1db4c0ec2e38d2d65a7402",
+      "slug": "heres-what-wall-street-thinks-about-california-resources-corporation-crc-53d527e7",
+      "orig_slug": "heres-what-wall-street-thinks-about-california-resources-corporation-crc-53d527e7"
+    },
+    {
+      "title": "Piper Sandler Reiterates Neutral Rating on NICE Ltd (NICE)",
+      "link": "https://finance.yahoo.com/news/piper-sandler-reiterates-neutral-rating-155905809.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:59:05Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/9972d1b1e765232183954ed06614a5d8",
+      "slug": "piper-sandler-reiterates-neutral-rating-on-nice-ltd-nice-2cf241ef",
+      "orig_slug": "piper-sandler-reiterates-neutral-rating-on-nice-ltd-nice-2cf241ef"
+    },
+    {
+      "title": "Moody’s Upgraded Rating on Marvell Technology, Inc. (MRVL), Here’s Why",
+      "link": "https://finance.yahoo.com/news/moody-upgraded-rating-marvell-technology-155901614.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:59:01Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/0872f8b35522c2f658f52ef6621fca26",
+      "slug": "moodys-upgraded-rating-on-marvell-technology-inc-mrvl-heres-why-c1ddd6db",
+      "orig_slug": "moodys-upgraded-rating-on-marvell-technology-inc-mrvl-heres-why-c1ddd6db"
+    },
+    {
+      "title": "​NIKE, Inc. (NKE) Down 10.8% Since Q2 2026, Wall Street Remains Positive",
+      "link": "https://finance.yahoo.com/news/nike-inc-nke-down-10-155859047.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:58:59Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/4300c8c508ae9d4d14d06afac024ed3b",
+      "slug": "nike-inc-nke-down-108-since-q2-2026-wall-street-remains-positive-aeec8804",
+      "orig_slug": "nike-inc-nke-down-108-since-q2-2026-wall-street-remains-positive-aeec8804"
+    },
+    {
+      "title": "ServiceNow, Inc. (NOW) Completes Moveworks Acquisition, Here’s What You Need to Know",
+      "link": "https://finance.yahoo.com/news/servicenow-inc-now-completes-moveworks-155858564.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:58:58Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/5775cb349015718d263df9d11bfbbfa0",
+      "slug": "servicenow-inc-now-completes-moveworks-acquisition-heres-what-you-need-to-know-7d17d9fb",
+      "orig_slug": "servicenow-inc-now-completes-moveworks-acquisition-heres-what-you-need-to-know-7d17d9fb"
+    },
+    {
+      "title": "Novartis Selects ​Salesforce’s (CRM) Agentforce Life Sciences for Customer Engagement",
+      "link": "https://finance.yahoo.com/news/novartis-selects-salesforce-crm-agentforce-155855288.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:58:55Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/057172d1bddd5e7eaee5fc08e2756794",
+      "slug": "novartis-selects-salesforces-crm-agentforce-life-sciences-for-customer-engagemen-7a683a10",
+      "orig_slug": "novartis-selects-salesforces-crm-agentforce-life-sciences-for-customer-engagemen-7a683a10"
+    },
+    {
+      "title": "Advanced Micro Devices (AMD) up More Than 76% YTD, Is it Still a Buy?",
+      "link": "https://finance.yahoo.com/news/advanced-micro-devices-amd-more-155856137.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:58:56Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/78ee81d4d8cbe53924c848faf9b29aa4",
+      "slug": "advanced-micro-devices-amd-up-more-than-76-ytd-is-it-still-a-buy-517a86c0",
+      "orig_slug": "advanced-micro-devices-amd-up-more-than-76-ytd-is-it-still-a-buy-517a86c0"
+    },
+    {
+      "title": "Can NFE Stock Beat the Market?",
+      "link": "https://finance.yahoo.com/news/nfe-stock-beat-market-155000408.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:50:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/f41ef4cede74764f43daab1aa95259f4",
+      "slug": "can-nfe-stock-beat-the-market-4c7564a2",
+      "orig_slug": "can-nfe-stock-beat-the-market-4c7564a2"
+    },
+    {
+      "title": "Needham Highlights Rocket Lab’s (RKLB) Shift to Major Defense Prime After Record $805M Satellite Award",
+      "link": "https://finance.yahoo.com/news/needham-highlights-rocket-lab-rklb-150541208.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:05:41Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/419b4545bbf583b1916a4b0eec76014e",
+      "slug": "needham-highlights-rocket-labs-rklb-shift-to-major-defense-prime-after-record-80-96984f7f",
+      "orig_slug": "needham-highlights-rocket-labs-rklb-shift-to-major-defense-prime-after-record-80-96984f7f"
+    },
+    {
+      "title": "JPMorgan Raises Cogent Biosciences (COGT) PT to $67 on Sector Model Update",
+      "link": "https://finance.yahoo.com/news/jpmorgan-raises-cogent-biosciences-cogt-150543009.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:05:43Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/0409cc5623a4ab223b14d4b6a6d2790a",
+      "slug": "jpmorgan-raises-cogent-biosciences-cogt-pt-to-67-on-sector-model-update-965098c7",
+      "orig_slug": "jpmorgan-raises-cogent-biosciences-cogt-pt-to-67-on-sector-model-update-965098c7"
+    },
+    {
+      "title": "Guggenheim Bullish on Abivax (ABVX) Ahead of Key Obefazimod Data Readout",
+      "link": "https://finance.yahoo.com/news/guggenheim-bullish-abivax-abvx-ahead-150544576.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:05:44Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/4e92d2c1e3022275942c147e27f5c322",
+      "slug": "guggenheim-bullish-on-abivax-abvx-ahead-of-key-obefazimod-data-readout-f1f51769",
+      "orig_slug": "guggenheim-bullish-on-abivax-abvx-ahead-of-key-obefazimod-data-readout-f1f51769"
+    },
+    {
+      "title": "Morgan Stanley Eyes Emerging Growth for Grail (GRAL) as Sector Valuations Reach Equilibrium",
+      "link": "https://finance.yahoo.com/news/morgan-stanley-eyes-emerging-growth-150540524.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:05:40Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/1ea768ec4636ee6545f00685abc4f87e",
+      "slug": "morgan-stanley-eyes-emerging-growth-for-grail-gral-as-sector-valuations-reach-eq-fd2a5957",
+      "orig_slug": "morgan-stanley-eyes-emerging-growth-for-grail-gral-as-sector-valuations-reach-eq-fd2a5957"
+    },
+    {
+      "title": "2 Nuclear Energy Stocks That Could Be Going to $0, and 1 Generating Serious Portfolio Power",
+      "link": "https://finance.yahoo.com/news/2-nuclear-energy-stocks-could-154500523.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:45:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/ef3581429df98a242a896b06de2d7cc7",
+      "slug": "2-nuclear-energy-stocks-that-could-be-going-to-0-and-1-generating-serious-portfo-15866d42",
+      "orig_slug": "2-nuclear-energy-stocks-that-could-be-going-to-0-and-1-generating-serious-portfo-15866d42"
+    },
+    {
+      "title": "Wedbush Spotlights IonQ’s (IONQ) Scaling Revenue and Robust Pipeline in Quantum Leadership Pivot",
+      "link": "https://finance.yahoo.com/news/wedbush-spotlights-ionq-ionq-scaling-150538956.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:05:38Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/80692f3e48103e8907cb30b996063895",
+      "slug": "wedbush-spotlights-ionqs-ionq-scaling-revenue-and-robust-pipeline-in-quantum-lea-64e5a6fc",
+      "orig_slug": "wedbush-spotlights-ionqs-ionq-scaling-revenue-and-robust-pipeline-in-quantum-lea-64e5a6fc"
+    },
+    {
+      "title": "B. Riley Sees Intuitive Machines (LUNR) as Key Beneficiary of White House Order to Accelerate Lunar Missions",
+      "link": "https://finance.yahoo.com/news/b-riley-sees-intuitive-machines-150537649.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:05:37Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/c3cd5432a0928db55aaead0e237803a3",
+      "slug": "b-riley-sees-intuitive-machines-lunr-as-key-beneficiary-of-white-house-order-to--8e51d9ed",
+      "orig_slug": "b-riley-sees-intuitive-machines-lunr-as-key-beneficiary-of-white-house-order-to--8e51d9ed"
+    },
+    {
+      "title": "Needham Highlights Vertical Aerospace’s (EVTL) Execution Strengths Following Site Visit to UK Facilities",
+      "link": "https://finance.yahoo.com/news/needham-highlights-vertical-aerospace-evtl-150531889.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:05:31Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/6a4bfe2ac54a93a11d3e6b559a68bf6e",
+      "slug": "needham-highlights-vertical-aerospaces-evtl-execution-strengths-following-site-v-0d596f31",
+      "orig_slug": "needham-highlights-vertical-aerospaces-evtl-execution-strengths-following-site-v-0d596f31"
+    },
+    {
+      "title": "Is Navitas (NVTS) One of the Best Emerging Technology Stocks to Invest In?",
+      "link": "https://finance.yahoo.com/news/navitas-nvts-one-best-emerging-150528474.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:05:28Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/e10b3d6d26fe5b99c42f5f2f474aa03d",
+      "slug": "is-navitas-nvts-one-of-the-best-emerging-technology-stocks-to-invest-in-ae513c44",
+      "orig_slug": "is-navitas-nvts-one-of-the-best-emerging-technology-stocks-to-invest-in-ae513c44"
+    },
+    {
+      "title": "Better Consumer Staples ETF: Vanguard's VDC vs. Invesco's RSPS",
+      "link": "https://finance.yahoo.com/news/better-consumer-staples-etf-vanguards-154401198.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:44:01Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/7d8373c80fc4c0389715375e89d6f854",
+      "slug": "better-consumer-staples-etf-vanguards-vdc-vs-invescos-rsps-98675dd4",
+      "orig_slug": "better-consumer-staples-etf-vanguards-vdc-vs-invescos-rsps-98675dd4"
+    },
+    {
+      "title": "Is Tapestry (TPR) One of the Best Performing S&P 500 Stocks in 2025?",
+      "link": "https://finance.yahoo.com/news/tapestry-tpr-one-best-performing-150525539.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:05:25Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/50321b3b7b677da4e23d38471c56abd0",
+      "slug": "is-tapestry-tpr-one-of-the-best-performing-sp-500-stocks-in-2025-ff66e7f0",
+      "orig_slug": "is-tapestry-tpr-one-of-the-best-performing-sp-500-stocks-in-2025-ff66e7f0"
+    },
+    {
+      "title": "KeyBanc Notes Redwire’s (RDW) Shift to Multi-Domain Defense Following Transformative Edge Autonomy Deal",
+      "link": "https://finance.yahoo.com/news/keybanc-notes-redwire-rdw-shift-150526154.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:05:26Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/3ea9476e35684c998a86c50c9b548a84",
+      "slug": "keybanc-notes-redwires-rdw-shift-to-multi-domain-defense-following-transformativ-53f39606",
+      "orig_slug": "keybanc-notes-redwires-rdw-shift-to-multi-domain-defense-following-transformativ-53f39606"
+    },
+    {
+      "title": "Is Nike (NKE) One of the Most Active US Stocks to Buy According to Analysts?",
+      "link": "https://finance.yahoo.com/news/nike-nke-one-most-active-150523569.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:05:23Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/396e4269f5a1153e41dc8ee844f7fd4e",
+      "slug": "is-nike-nke-one-of-the-most-active-us-stocks-to-buy-according-to-analysts-9c64d3a5",
+      "orig_slug": "is-nike-nke-one-of-the-most-active-us-stocks-to-buy-according-to-analysts-9c64d3a5"
+    },
+    {
+      "title": "JPMorgan Cautions on SanDisk’s (SNDK) Long-Term Profitability Despite AI-Driven SSD Supercycle",
+      "link": "https://finance.yahoo.com/news/jpmorgan-cautions-sandisk-sndk-long-150520085.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:05:20Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/dc7f0752d54fa6cc2b59a6b2f3e494c0",
+      "slug": "jpmorgan-cautions-on-sandisks-sndk-long-term-profitability-despite-ai-driven-ssd-e90ab1ca",
+      "orig_slug": "jpmorgan-cautions-on-sandisks-sndk-long-term-profitability-despite-ai-driven-ssd-e90ab1ca"
+    },
+    {
+      "title": "WBI Investments Dumps 82,000 VFLO Shares Worth $2.6 Million. Should This Cash Flow Yield ETF Have a Place in Your Portfolio?",
+      "link": "https://finance.yahoo.com/news/wbi-investments-dumps-82-000-152836177.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:28:36Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/c9531603494b566ba9899131a58e57ef",
+      "slug": "wbi-investments-dumps-82000-vflo-shares-worth-26-million-should-this-cash-flow-y-08ab7a48",
+      "orig_slug": "wbi-investments-dumps-82000-vflo-shares-worth-26-million-should-this-cash-flow-y-08ab7a48"
+    },
+    {
+      "title": "Morgan Stanley Names Western Digital (WDC) a 2026 Top Pick Amid Cloud Capital Expenditure Boom",
+      "link": "https://finance.yahoo.com/news/morgan-stanley-names-western-digital-150519434.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:05:19Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/56285c0d296f9bf367d09ff98b70bff0",
+      "slug": "morgan-stanley-names-western-digital-wdc-a-2026-top-pick-amid-cloud-capital-expe-58b346ef",
+      "orig_slug": "morgan-stanley-names-western-digital-wdc-a-2026-top-pick-amid-cloud-capital-expe-58b346ef"
+    },
+    {
+      "title": "Is Ambev (ABEV) One of the Cheap Penny Stocks to Invest In?",
+      "link": "https://finance.yahoo.com/news/ambev-abev-one-cheap-penny-150522520.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:05:22Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/2fb6db5d49a9f2bc8f17bb73347ff3f7",
+      "slug": "is-ambev-abev-one-of-the-cheap-penny-stocks-to-invest-in-5cfa6fed",
+      "orig_slug": "is-ambev-abev-one-of-the-cheap-penny-stocks-to-invest-in-5cfa6fed"
+    },
+    {
+      "title": "Deutsche Bank Applauds Micron’s (MU) Consistent Execution and Technical Leadership Following Record Results",
+      "link": "https://finance.yahoo.com/news/deutsche-bank-applauds-micron-mu-150517291.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:05:17Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/cece14d8df3ff9750f89999715c2f4bb",
+      "slug": "deutsche-bank-applauds-microns-mu-consistent-execution-and-technical-leadership--ac90f191",
+      "orig_slug": "deutsche-bank-applauds-microns-mu-consistent-execution-and-technical-leadership--ac90f191"
+    },
+    {
+      "title": "Morgan Stanley Raises Robinhood (HOOD) Q4 EPS Estimates on Surging Year-End Transaction Volumes",
+      "link": "https://finance.yahoo.com/news/morgan-stanley-raises-robinhood-hood-150516479.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:05:16Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/ec7cdbcb5520f1c412e1549972f60dcf",
+      "slug": "morgan-stanley-raises-robinhood-hood-q4-eps-estimates-on-surging-year-end-transa-18d4f5ea",
+      "orig_slug": "morgan-stanley-raises-robinhood-hood-q4-eps-estimates-on-surging-year-end-transa-18d4f5ea"
+    },
+    {
+      "title": "Prediction: This AI Stock Could Be the First New $2 Trillion Company in 2026",
+      "link": "https://finance.yahoo.com/news/prediction-ai-stock-could-first-152000439.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:20:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/167e164e4b38c20eae3254205b8285f3",
+      "slug": "prediction-this-ai-stock-could-be-the-first-new-2-trillion-company-in-2026-59a6f4ff",
+      "orig_slug": "prediction-this-ai-stock-could-be-the-first-new-2-trillion-company-in-2026-59a6f4ff"
+    },
     {
       "title": "Divisions at the Fed that defined 2025 are expected to carry into 2026",
       "link": "https://finance.yahoo.com/news/divisions-at-the-fed-that-defined-2025-are-expected-to-carry-into-2026-182017036.html",
@@ -9,15 +378,6 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/y8c3FQoKPzc6ULCPAlM0hQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDI-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/b089ad70-e025-11f0-b7d6-a6156b465eaa",
       "slug": "divisions-at-the-fed-that-defined-2025-are-expected-to-carry-into-2026-11e70346",
       "orig_slug": "divisions-at-the-fed-that-defined-2025-are-expected-to-carry-into-2026-11e70346"
-    },
-    {
-      "title": "This Growth Stock Continues to Crush the Market",
-      "link": "https://finance.yahoo.com/news/growth-stock-continues-crush-market-145500529.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-28T14:55:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/a54a0df5cc6373851affb688150ccab5",
-      "slug": "this-growth-stock-continues-to-crush-the-market-d691a99b",
-      "orig_slug": "this-growth-stock-continues-to-crush-the-market-d691a99b"
     },
     {
       "title": "What's changing for retirement savers and retirees in 2026",
@@ -38,6 +398,15 @@
       "orig_slug": "i-dont-see-a-bubble-why-wall-street-thinks-the-stock-market-can-keep-climbing-ev-c894bfc0"
     },
     {
+      "title": "If You’ve Made Money on Bitcoin, This Should Be Your Next Move",
+      "link": "https://finance.yahoo.com/news/ve-made-money-bitcoin-next-150704383.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-12-28T15:07:04Z",
+      "image": "https://media.zenfs.com/en/gobankingrates_644/5c6429669e6212ccab34a4c8f059b89b",
+      "slug": "if-youve-made-money-on-bitcoin-this-should-be-your-next-move-24a2abf4",
+      "orig_slug": "if-youve-made-money-on-bitcoin-this-should-be-your-next-move-24a2abf4"
+    },
+    {
       "title": "Many Americans make this 1 mistake with their 401(k)s and IRAs. Here's how to avoid leaving a headache for your heirs",
       "link": "https://finance.yahoo.com/news/many-americans-1-mistake-401-133000200.html",
       "source": "finance.yahoo.com",
@@ -45,42 +414,6 @@
       "image": "https://media.zenfs.com/en/moneywise_327/5f8b68fd52f21f443663310ac995da13",
       "slug": "many-americans-make-this-1-mistake-with-their-401ks-and-iras-heres-how-to-avoid--f2c21e0b",
       "orig_slug": "many-americans-make-this-1-mistake-with-their-401ks-and-iras-heres-how-to-avoid--f2c21e0b"
-    },
-    {
-      "title": "3 Stock-Split Stocks to Buy and Hold for at Least a Decade",
-      "link": "https://finance.yahoo.com/news/3-stock-split-stocks-buy-143500164.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-28T14:35:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/7f58e6f9e37d988c4fdc1952bcd7d414",
-      "slug": "3-stock-split-stocks-to-buy-and-hold-for-at-least-a-decade-b36de725",
-      "orig_slug": "3-stock-split-stocks-to-buy-and-hold-for-at-least-a-decade-b36de725"
-    },
-    {
-      "title": "A $2 Billion Reason to Buy Kroger Stock Here",
-      "link": "https://finance.yahoo.com/news/2-billion-reason-buy-kroger-140002201.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-27T14:00:02Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/8006783645eac908645c211fc59d1b33",
-      "slug": "a-2-billion-reason-to-buy-kroger-stock-here-1acbaf87",
-      "orig_slug": "a-2-billion-reason-to-buy-kroger-stock-here-1acbaf87"
-    },
-    {
-      "title": "401(k), Social Security, or pension? The order you choose can mean financial health or disaster. Get it right in 2026",
-      "link": "https://finance.yahoo.com/news/401-k-social-security-pension-140000718.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-27T14:00:00Z",
-      "image": "https://media.zenfs.com/en/moneywise_327/f1e05ebcaa7a5139db96b12bb384a18c",
-      "slug": "401k-social-security-or-pension-the-order-you-choose-can-mean-financial-health-o-52d6d131",
-      "orig_slug": "401k-social-security-or-pension-the-order-you-choose-can-mean-financial-health-o-52d6d131"
-    },
-    {
-      "title": "Peter Thiel warns US real estate ‘catastrophe’ will deal massive blow to young Americans, but boomers might get windfall",
-      "link": "https://finance.yahoo.com/news/peter-thiel-warns-us-real-132700099.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-27T13:27:00Z",
-      "image": "https://media.zenfs.com/en/moneywise_ecomm_711/3e85fea8a7d21c851bdb04bec3923275",
-      "slug": "peter-thiel-warns-us-real-estate-catastrophe-will-deal-massive-blow-to-young-ame-157ea128",
-      "orig_slug": "peter-thiel-warns-us-real-estate-catastrophe-will-deal-massive-blow-to-young-ame-157ea128"
     },
     {
       "title": "These 6 stocks will lead the $1 trillion chip surge in 2026, BofA says",
@@ -92,249 +425,6 @@
       "orig_slug": "these-6-stocks-will-lead-the-1-trillion-chip-surge-in-2026-bofa-says-ed11af14"
     },
     {
-      "title": "The Best Cryptocurrency to Buy With $100 Right Now",
-      "link": "https://finance.yahoo.com/news/best-cryptocurrency-buy-100-now-142600134.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-28T14:26:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/79fd2c77452409235f3c399d479f5414",
-      "slug": "the-best-cryptocurrency-to-buy-with-100-right-now-ccd6e36a",
-      "orig_slug": "the-best-cryptocurrency-to-buy-with-100-right-now-ccd6e36a"
-    },
-    {
-      "title": "Palantir, Nvidia Lead 5 Stocks Near Buy Points Heading Into Final Days Of 2025",
-      "link": "https://www.investors.com/news/palantir-nvidia-stock-buy-areas-2025/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-27T13:00:34Z",
-      "image": "",
-      "slug": "palantir-nvidia-lead-5-stocks-near-buy-points-heading-into-final-days-of-2025-7475a7d3",
-      "orig_slug": "palantir-nvidia-lead-5-stocks-near-buy-points-heading-into-final-days-of-2025-7475a7d3"
-    },
-    {
-      "title": "Reporting rent can boost your credit, but 1 tiny mistake could cost you all the benefits",
-      "link": "https://finance.yahoo.com/news/reporting-rent-boost-credit-1-130000288.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-27T13:00:00Z",
-      "image": "https://media.zenfs.com/en/moneywise_327/bfb6b2f1363c335e3c533fb8f87af446",
-      "slug": "reporting-rent-can-boost-your-credit-but-1-tiny-mistake-could-cost-you-all-the-b-790e49b0",
-      "orig_slug": "reporting-rent-can-boost-your-credit-but-1-tiny-mistake-could-cost-you-all-the-b-790e49b0"
-    },
-    {
-      "title": "Intel stock soared in 2025. But the chipmaker still has a long road ahead.",
-      "link": "https://finance.yahoo.com/news/intel-stock-soared-in-2025-but-the-chipmaker-still-has-a-long-road-ahead-140004121.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-21T14:00:04Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/VqmBBmfPaNmQJXri7FsXIg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-images/2020-01/60c49a50-3047-11ea-947f-16712b748ca2",
-      "slug": "intel-stock-soared-in-2025-but-the-chipmaker-still-has-a-long-road-ahead-4bdc4b2d",
-      "orig_slug": "intel-stock-soared-in-2025-but-the-chipmaker-still-has-a-long-road-ahead-4bdc4b2d"
-    },
-    {
-      "title": "3 big surprises that caught stock market pros off guard in 2025",
-      "link": "https://finance.yahoo.com/news/3-big-surprises-that-caught-stock-market-pros-off-guard-in-2025-141448400.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-24T14:14:48Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/p3a9BguK27wzgSFotlIr8g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/b4bff430-e011-11f0-b9e3-323f6e662371",
-      "slug": "3-big-surprises-that-caught-stock-market-pros-off-guard-in-2025-95ee8d5a",
-      "orig_slug": "3-big-surprises-that-caught-stock-market-pros-off-guard-in-2025-95ee8d5a"
-    },
-    {
-      "title": "3 Things Millennials Should Be Doing if They Want To Retire Wealthy",
-      "link": "https://finance.yahoo.com/news/3-things-millennials-doing-want-141704798.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-28T14:17:04Z",
-      "image": "https://media.zenfs.com/en/gobankingrates_644/795d2d11c253ebd408ac0c8d75c10898",
-      "slug": "3-things-millennials-should-be-doing-if-they-want-to-retire-wealthy-f1535260",
-      "orig_slug": "3-things-millennials-should-be-doing-if-they-want-to-retire-wealthy-f1535260"
-    },
-    {
-      "title": "Here’s why you should seriously think about retiring at 55, even if you’ve planned for 62 (you can actually save money)",
-      "link": "https://finance.yahoo.com/news/why-seriously-think-retiring-55-124500980.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-27T12:45:00Z",
-      "image": "https://media.zenfs.com/en/moneywise_327/f0d6ccfa16111af3c8af73411e55fed2",
-      "slug": "heres-why-you-should-seriously-think-about-retiring-at-55-even-if-youve-planned--d9c7fe1d",
-      "orig_slug": "heres-why-you-should-seriously-think-about-retiring-at-55-even-if-youve-planned--d9c7fe1d"
-    },
-    {
-      "title": "JonesTrading Highlights Differentiated Pipeline at Atai Beckley N.V. (ATAI)",
-      "link": "https://finance.yahoo.com/news/jonestrading-highlights-differentiated-pipeline-atai-124308963.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-27T12:43:08Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/eadec32765d79f6cf3279c2d18e4f869",
-      "slug": "jonestrading-highlights-differentiated-pipeline-at-atai-beckley-nv-atai-17374011",
-      "orig_slug": "jonestrading-highlights-differentiated-pipeline-at-atai-beckley-nv-atai-17374011"
-    },
-    {
-      "title": "Tilray Brands, Inc. (TLRY)’s Potential Upside Meets a Cautious Consensus",
-      "link": "https://finance.yahoo.com/news/tilray-brands-inc-tlry-potential-124318308.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-27T12:43:18Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/ed168310783238404d5b2527e5b30f06",
-      "slug": "tilray-brands-inc-tlrys-potential-upside-meets-a-cautious-consensus-31298356",
-      "orig_slug": "tilray-brands-inc-tlrys-potential-upside-meets-a-cautious-consensus-31298356"
-    },
-    {
-      "title": "Why Wall Street Sees Big Potential in Janux Therapeutics, Inc. (JANX)",
-      "link": "https://finance.yahoo.com/news/why-wall-street-sees-big-124306739.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-27T12:43:06Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/8c92f9b28c162d2e24728d45649be12d",
-      "slug": "why-wall-street-sees-big-potential-in-janux-therapeutics-inc-janx-208bff62",
-      "orig_slug": "why-wall-street-sees-big-potential-in-janux-therapeutics-inc-janx-208bff62"
-    },
-    {
-      "title": "2 Growth Stocks to Buy and Hold Through 2035",
-      "link": "https://finance.yahoo.com/news/2-growth-stocks-buy-hold-140500516.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-28T14:05:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/ad202fa1407423318b564b8b21c915f3",
-      "slug": "2-growth-stocks-to-buy-and-hold-through-2035-6543ae26",
-      "orig_slug": "2-growth-stocks-to-buy-and-hold-through-2035-6543ae26"
-    },
-    {
-      "title": "ProKidney Corp. (PROK) Positioned to Redefine Chronic Kidney Disease Treatment, Believes H.C. Wainwright",
-      "link": "https://finance.yahoo.com/news/prokidney-corp-prok-positioned-redefine-124309424.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-27T12:43:09Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/8577738f84a3c852cf540caf7ca4aba5",
-      "slug": "prokidney-corp-prok-positioned-to-redefine-chronic-kidney-disease-treatment-beli-29684fe6",
-      "orig_slug": "prokidney-corp-prok-positioned-to-redefine-chronic-kidney-disease-treatment-beli-29684fe6"
-    },
-    {
-      "title": "Absci Corporation (ABSI) Draws Full Buy Consensus With 150% Upside Potential",
-      "link": "https://finance.yahoo.com/news/absci-corporation-absi-draws-full-124311396.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-27T12:43:11Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/21d4d673e1042a24902bd749e241a4e9",
-      "slug": "absci-corporation-absi-draws-full-buy-consensus-with-150-upside-potential-96771a92",
-      "orig_slug": "absci-corporation-absi-draws-full-buy-consensus-with-150-upside-potential-96771a92"
-    },
-    {
-      "title": "Why COMPASS Pathways plc (CMPS) Draws Both Optimism and Caution",
-      "link": "https://finance.yahoo.com/news/why-compass-pathways-plc-cmps-124314680.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-27T12:43:14Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/a90c613596a0c71b514d15c58e470385",
-      "slug": "why-compass-pathways-plc-cmps-draws-both-optimism-and-caution-f21a0146",
-      "orig_slug": "why-compass-pathways-plc-cmps-draws-both-optimism-and-caution-f21a0146"
-    },
-    {
-      "title": "Why Everyone Is Watching 4D Molecular Therapeutics, Inc. (FDMT) Closely",
-      "link": "https://finance.yahoo.com/news/why-everyone-watching-4d-molecular-124303434.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-27T12:43:03Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/9acb176576f991de715e046452d558e4",
-      "slug": "why-everyone-is-watching-4d-molecular-therapeutics-inc-fdmt-closely-7739dcbe",
-      "orig_slug": "why-everyone-is-watching-4d-molecular-therapeutics-inc-fdmt-closely-7739dcbe"
-    },
-    {
-      "title": "Suze Orman’s Top 5 Money-Saving Tips for Those Who Are Just Getting By",
-      "link": "https://finance.yahoo.com/news/suze-orman-5-best-tips-130038597.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-28T14:03:03Z",
-      "image": "https://media.zenfs.com/en/gobankingrates_644/e123d6bd2385f1bf21b55fdb2f3d50d9",
-      "slug": "suze-ormans-top-5-money-saving-tips-for-those-who-are-just-getting-by-10fbcf41",
-      "orig_slug": "suze-ormans-top-5-money-saving-tips-for-those-who-are-just-getting-by-10fbcf41"
-    },
-    {
-      "title": "Analysts Back Canaan Inc. (CAN) Amid BTC Expansion and New Facilities",
-      "link": "https://finance.yahoo.com/news/analysts-back-canaan-inc-amid-124304376.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-27T12:43:04Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/89e1f430fe28c1b8a95ed15a5f2121e9",
-      "slug": "analysts-back-canaan-inc-can-amid-btc-expansion-and-new-facilities-319ad7b9",
-      "orig_slug": "analysts-back-canaan-inc-can-amid-btc-expansion-and-new-facilities-319ad7b9"
-    },
-    {
-      "title": "Is Autolus Therapeutics plc (AUTL) The Best Get Rich Fast Stocks to Buy Right Now?",
-      "link": "https://finance.yahoo.com/news/autolus-therapeutics-plc-autl-best-124301972.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-27T12:43:01Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/bd5c15a75896cf7e55a77e15da76cce2",
-      "slug": "is-autolus-therapeutics-plc-autl-the-best-get-rich-fast-stocks-to-buy-right-now-fb397900",
-      "orig_slug": "is-autolus-therapeutics-plc-autl-the-best-get-rich-fast-stocks-to-buy-right-now-fb397900"
-    },
-    {
-      "title": "Why Analysts Remain Split on Domo, Inc. (DOMO)",
-      "link": "https://finance.yahoo.com/news/why-analysts-remain-split-domo-124316317.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-27T12:43:16Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/bcfd08ceaf78019bf49b4ecc55f49fd2",
-      "slug": "why-analysts-remain-split-on-domo-inc-domo-b2013a9d",
-      "orig_slug": "why-analysts-remain-split-on-domo-inc-domo-b2013a9d"
-    },
-    {
-      "title": "TD Cowen Sees Compelling Long-Term Value in Cerus Corporation (CERS)",
-      "link": "https://finance.yahoo.com/news/td-cowen-sees-compelling-long-124312450.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-27T12:43:12Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/87c52b6250133265982f3f09a85b29c6",
-      "slug": "td-cowen-sees-compelling-long-term-value-in-cerus-corporation-cers-2d6c7605",
-      "orig_slug": "td-cowen-sees-compelling-long-term-value-in-cerus-corporation-cers-2d6c7605"
-    },
-    {
-      "title": "The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party",
-      "link": "https://finance.yahoo.com/news/crypto-etfs-2025-bitcoin-ethereum-140103429.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-28T14:01:03Z",
-      "image": "https://media.zenfs.com/en/decrypt_157/2010017ee761454f4837fd79721786b9",
-      "slug": "the-year-in-crypto-etfs-2025-bitcoin-ethereum-thrive-as-xrp-and-more-join-the-pa-0e00fcaa",
-      "orig_slug": "the-year-in-crypto-etfs-2025-bitcoin-ethereum-thrive-as-xrp-and-more-join-the-pa-0e00fcaa"
-    },
-    {
-      "title": "What’s Driving JonesTrading’s Bullish View on Mind Medicine (MindMed) Inc. (MNMD)",
-      "link": "https://finance.yahoo.com/news/driving-jonestrading-bullish-view-mind-124026743.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-27T12:40:26Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/91d6221e3df11e4933938a3082c41da1",
-      "slug": "whats-driving-jonestradings-bullish-view-on-mind-medicine-mindmed-inc-mnmd-17717ea9",
-      "orig_slug": "whats-driving-jonestradings-bullish-view-on-mind-medicine-mindmed-inc-mnmd-17717ea9"
-    },
-    {
-      "title": "'You're going to live on beans and rice': Dave Ramsey tells a 73-year-old without retirement savings how to get on track",
-      "link": "https://finance.yahoo.com/news/youre-going-live-beans-rice-124000210.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-27T12:40:00Z",
-      "image": "https://media.zenfs.com/en/moneywise_ecomm_711/8f5ea4dc952546b6836eefa67fc0a1cd",
-      "slug": "youre-going-to-live-on-beans-and-rice-dave-ramsey-tells-a-73-year-old-without-re-cba41afc",
-      "orig_slug": "youre-going-to-live-on-beans-and-rice-dave-ramsey-tells-a-73-year-old-without-re-cba41afc"
-    },
-    {
-      "title": "Wall Street Rallies Behind Lexeo Therapeutics (LXEO)’s Gene Therapy Pipeline",
-      "link": "https://finance.yahoo.com/news/wall-street-rallies-behind-lexeo-122838594.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-27T12:28:38Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/1a45695c9996dd7317baf18e7b48506a",
-      "slug": "wall-street-rallies-behind-lexeo-therapeutics-lxeos-gene-therapy-pipeline-fd04ac46",
-      "orig_slug": "wall-street-rallies-behind-lexeo-therapeutics-lxeos-gene-therapy-pipeline-fd04ac46"
-    },
-    {
-      "title": "Nvidia Stock Is ‘Ripe’ for Gains in 2026, According to This Top Analyst",
-      "link": "https://finance.yahoo.com/news/nvidia-stock-ripe-gains-2026-143002055.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-27T14:30:02Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/b2c8ecf82d78d5405278844007950511",
-      "slug": "nvidia-stock-is-ripe-for-gains-in-2026-according-to-this-top-analyst-d4a3117f",
-      "orig_slug": "nvidia-stock-is-ripe-for-gains-in-2026-according-to-this-top-analyst-d4a3117f"
-    },
-    {
-      "title": "Uniswap Triggers Deflationary Loop with $600 Million Treasury Contraction",
-      "link": "https://finance.yahoo.com/news/uniswap-triggers-deflationary-loop-600-140000175.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-28T14:00:00Z",
-      "image": "https://media.zenfs.com/en/beincrypto_us_662/c901b68371328e1f1359571b5bac8fb3",
-      "slug": "uniswap-triggers-deflationary-loop-with-600-million-treasury-contraction-c10dbe57",
-      "orig_slug": "uniswap-triggers-deflationary-loop-with-600-million-treasury-contraction-c10dbe57"
-    },
-    {
-      "title": "I make $80K, my husband $700K, and he’s tired of paying most bills. What does a fair split look like now?",
-      "link": "https://finance.yahoo.com/news/80k-husband-700k-tired-paying-121500922.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-27T12:15:00Z",
-      "image": "https://media.zenfs.com/en/moneywise_327/59c8a9cc8c26296ae4c6533f1280a792",
-      "slug": "i-make-80k-my-husband-700k-and-hes-tired-of-paying-most-bills-what-does-a-fair-s-c4bfe2f7",
-      "orig_slug": "i-make-80k-my-husband-700k-and-hes-tired-of-paying-most-bills-what-does-a-fair-s-c4bfe2f7"
-    },
-    {
       "title": "Carvana, Robinhood, Coinbase: How 3 of the market's biggest 2022 losers ended up in the S&P 500 this year",
       "link": "https://finance.yahoo.com/news/carvana-robinhood-coinbase-how-3-of-the-markets-biggest-2022-losers-ended-up-in-the-sp-500-this-year-140654224.html",
       "source": "finance.yahoo.com",
@@ -344,15 +434,6 @@
       "orig_slug": "carvana-robinhood-coinbase-how-3-of-the-markets-biggest-2022-losers-ended-up-in--41612439"
     },
     {
-      "title": "You’re probably broke if you always say ‘yes’ to these 5 things, no matter how much money you make",
-      "link": "https://finance.yahoo.com/news/probably-broke-always-yes-5-114500041.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-27T11:45:00Z",
-      "image": "https://media.zenfs.com/en/moneywise_327/60620bbcf627f4e6b8660046cfc5f2c7",
-      "slug": "youre-probably-broke-if-you-always-say-yes-to-these-5-things-no-matter-how-much--9f204cfd",
-      "orig_slug": "youre-probably-broke-if-you-always-say-yes-to-these-5-things-no-matter-how-much--9f204cfd"
-    },
-    {
       "title": "Carvana Stock Was a Top Performer in 2025. Is There Gas Left in the Tank for 2026?",
       "link": "https://finance.yahoo.com/news/carvana-stock-top-performer-2025-150002969.html",
       "source": "finance.yahoo.com",
@@ -360,87 +441,6 @@
       "image": "https://media.zenfs.com/en/barchart_com_477/76da9650373c5feceebced05191c13b4",
       "slug": "carvana-stock-was-a-top-performer-in-2025-is-there-gas-left-in-the-tank-for-2026-797278c2",
       "orig_slug": "carvana-stock-was-a-top-performer-in-2025-is-there-gas-left-in-the-tank-for-2026-797278c2"
-    },
-    {
-      "title": "Should You Forget AGNC Investment and Buy Realty Income Instead?",
-      "link": "https://finance.yahoo.com/news/forget-agnc-investment-buy-realty-134200023.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-28T13:42:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/dd2cb1090e7e747d930503e2aae37f85",
-      "slug": "should-you-forget-agnc-investment-and-buy-realty-income-instead-d001b978",
-      "orig_slug": "should-you-forget-agnc-investment-and-buy-realty-income-instead-d001b978"
-    },
-    {
-      "title": "The Saturday Spread: Using Risk Topography to Plan Your Options Strategies (JD, NTAP, ZS)",
-      "link": "https://finance.yahoo.com/news/saturday-spread-using-risk-topography-151502452.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-27T15:15:02Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/2f8c2928a5e3383584a0d582ae3789dc",
-      "slug": "the-saturday-spread-using-risk-topography-to-plan-your-options-strategies-jd-nta-bd39b093",
-      "orig_slug": "the-saturday-spread-using-risk-topography-to-plan-your-options-strategies-jd-nta-bd39b093"
-    },
-    {
-      "title": "Mortgage and refinance interest rates today, December 27, 2025: A fraction above 6%",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-saturday-december-27-2025-110022870.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-27T11:00:22Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/fK9okicBoD2VGZ7E4.6v7w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/86ef4c20-03dd-11ef-b7af-5ddf7b57fe6e",
-      "slug": "mortgage-and-refinance-interest-rates-today-december-27-2025-a-fraction-above-6-8fbabd56",
-      "orig_slug": "mortgage-and-refinance-interest-rates-today-december-27-2025-a-fraction-above-6-8fbabd56"
-    },
-    {
-      "title": "Best CD rates today, December 27, 2025 (best account provides 4.1% APY)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-december-27-2025-110036186.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-27T11:00:36Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/ovrcHtWjuWeW708CWElIWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47af0d0-4f64-11ef-a7fe-afb55aa695d3",
-      "slug": "best-cd-rates-today-december-27-2025-best-account-provides-41-apy-1861f389",
-      "orig_slug": "best-cd-rates-today-december-27-2025-best-account-provides-41-apy-1861f389"
-    },
-    {
-      "title": "Best high-yield savings interest rates today, December 27, 2025 (Earn up to 4% APY)",
-      "link": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-saturday-december-27-2025-110020133.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-27T11:00:20Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/aRDcY28ieSeI9vEdf5zsPA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/ca22a990-4b79-11ef-bb75-05cc1913c137",
-      "slug": "best-high-yield-savings-interest-rates-today-december-27-2025-earn-up-to-4-apy-b16bb0fa",
-      "orig_slug": "best-high-yield-savings-interest-rates-today-december-27-2025-earn-up-to-4-apy-b16bb0fa"
-    },
-    {
-      "title": "'He'd Be Nuts To Trust You Instantly,' 'Ramsey' Host Says After Woman Reveals A Year Of Financial Secrets And A $16K Mortgage Forbearance",
-      "link": "https://finance.yahoo.com/news/hed-nuts-trust-instantly-ramsey-133046491.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-28T13:30:46Z",
-      "image": "https://media.zenfs.com/en/Benzinga/0a1b9a7707b21d9037503170abdd2afd",
-      "slug": "hed-be-nuts-to-trust-you-instantly-ramsey-host-says-after-woman-reveals-a-year-o-bea8ddcd",
-      "orig_slug": "hed-be-nuts-to-trust-you-instantly-ramsey-host-says-after-woman-reveals-a-year-o-bea8ddcd"
-    },
-    {
-      "title": "HELOC rates today, December 27, 2025: Lowest HELOC rates in 3 years",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-interest-rates-today-saturday-december-27-2025-110013657.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-27T11:00:13Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/DEYBT6nBXCugfeps8WOPog--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/dc14d470-3ff7-11f0-8ff7-510b29e3a941",
-      "slug": "heloc-rates-today-december-27-2025-lowest-heloc-rates-in-3-years-bf573d16",
-      "orig_slug": "heloc-rates-today-december-27-2025-lowest-heloc-rates-in-3-years-bf573d16"
-    },
-    {
-      "title": "Best money market account rates today, December 27, 2025 (best account provides 4.25% APY)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-saturday-december-27-2025-110003894.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-27T11:00:03Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/W0IqMRID_AsrQoqbpHUG1A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/678943f0-1cdb-11f0-bfb7-b3f563b0ea90",
-      "slug": "best-money-market-account-rates-today-december-27-2025-best-account-provides-425-ec0e9fb0",
-      "orig_slug": "best-money-market-account-rates-today-december-27-2025-best-account-provides-425-ec0e9fb0"
-    },
-    {
-      "title": "HELOC rates today, December 28, 2025: The equity-tapping advantage of 2026",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-interest-rates-today-sunday-december-28-2025-110055839.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-28T11:00:55Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/DVKxTTZK1v_brFRCxJvfrg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/9858bdf0-3ff7-11f0-8dbd-c3dbfc02bc47",
-      "slug": "heloc-rates-today-december-28-2025-the-equity-tapping-advantage-of-2026-97e4e02b",
-      "orig_slug": "heloc-rates-today-december-28-2025-the-equity-tapping-advantage-of-2026-97e4e02b"
     }
   ]
 }
