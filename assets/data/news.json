@@ -1,23 +1,338 @@
 {
-  "updated": "2026-01-08T15:17:34Z",
+  "updated": "2026-01-08T16:18:30Z",
   "items": [
     {
-      "title": "Taaleri SolarWind III Fund commitments reach $736m at final close",
-      "link": "https://finance.yahoo.com/news/taaleri-solarwind-iii-fund-commitments-145916607.html",
+      "title": "Nvidia CEO Jensen Huang settles the Tesla autonomy debate",
+      "link": "https://finance.yahoo.com/news/nvidia-ceo-jensen-huang-settles-160700058.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-08T14:59:16Z",
-      "image": "https://media.zenfs.com/en/power_technology_866/41101b3c2e7cea0c83acaca16f71c44e",
-      "slug": "taaleri-solarwind-iii-fund-commitments-reach-736m-at-final-close-c8d75a65",
-      "orig_slug": "taaleri-solarwind-iii-fund-commitments-reach-736m-at-final-close-c8d75a65"
+      "pubDate": "2026-01-08T16:07:00Z",
+      "image": "https://media.zenfs.com/en/thestreet_881/f1720493127b5ceb3bfb9c1955ccb74f",
+      "slug": "nvidia-ceo-jensen-huang-settles-the-tesla-autonomy-debate-85cdf1ca",
+      "orig_slug": "nvidia-ceo-jensen-huang-settles-the-tesla-autonomy-debate-85cdf1ca"
     },
     {
-      "title": "Stock Market Today: Dow Falls After Surprise Jobless Claims; Apple, Tesla Extend Losses (Live Coverage)",
+      "title": "US consumers more worried about job market in December, New York Fed report says",
+      "link": "https://finance.yahoo.com/news/us-consumers-more-worried-job-160353960.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-08T16:03:53Z",
+      "image": "https://media.zenfs.com/en/reuters.com/8ae007cf727cd2f567bf73c4cbdd63b6",
+      "slug": "us-consumers-more-worried-about-job-market-in-december-new-york-fed-report-says-352b89ff",
+      "orig_slug": "us-consumers-more-worried-about-job-market-in-december-new-york-fed-report-says-352b89ff"
+    },
+    {
+      "title": "Caterpillar Bringing AI Smarts, Autonomy To Construction Sites",
+      "link": "https://www.investors.com/news/technology/ces-2026-caterpillar-autonomy-construction/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-08T15:58:51Z",
+      "image": "",
+      "slug": "caterpillar-bringing-ai-smarts-autonomy-to-construction-sites-2dad54b8",
+      "orig_slug": "caterpillar-bringing-ai-smarts-autonomy-to-construction-sites-2dad54b8"
+    },
+    {
+      "title": "Alphabet overtakes Apple as world's second-most valuable company behind Nvidia",
+      "link": "https://finance.yahoo.com/news/alphabet-overtakes-apple-as-worlds-second-most-valuable-company-behind-nvidia-154751861.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-08T15:47:51Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/aLsTqXKQYLvpKw6.MeJyXA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-05/bdc9b0e0-3718-11f0-beff-757478ab2dec",
+      "slug": "alphabet-overtakes-apple-as-worlds-second-most-valuable-company-behind-nvidia-f3295883",
+      "orig_slug": "alphabet-overtakes-apple-as-worlds-second-most-valuable-company-behind-nvidia-f3295883"
+    },
+    {
+      "title": "Betting That Netflix Stock Won't Keep Tumbling In Coming Months",
+      "link": "https://www.investors.com/research/options/netflix-nflx-stock-bull-put-spread-options/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-08T15:46:46Z",
+      "image": "",
+      "slug": "betting-that-netflix-stock-wont-keep-tumbling-in-coming-months-a634ee03",
+      "orig_slug": "betting-that-netflix-stock-wont-keep-tumbling-in-coming-months-a634ee03"
+    },
+    {
+      "title": "Daily Spotlight: Global Stocks Were Leaders in 2025",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_45793_MarketOutlook_1767875139000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-08T12:25:39Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "daily-spotlight-global-stocks-were-leaders-in-2025-eef02046",
+      "orig_slug": "daily-spotlight-global-stocks-were-leaders-in-2025-eef02046"
+    },
+    {
+      "title": "This Analyst Explains Why Tesla Is Not A Typical 'Meme Stock' And Which Sectors Will Drive The Next Frenzy",
+      "link": "https://finance.yahoo.com/news/analyst-explains-why-tesla-not-160106807.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-08T16:01:06Z",
+      "image": "https://media.zenfs.com/en/Benzinga/37ec564bb35f6e4219450612e612c57b",
+      "slug": "this-analyst-explains-why-tesla-is-not-a-typical-meme-stock-and-which-sectors-wi-79e91fb3",
+      "orig_slug": "this-analyst-explains-why-tesla-is-not-a-typical-meme-stock-and-which-sectors-wi-79e91fb3"
+    },
+    {
+      "title": "CrowdStrike To Acquire Identity Security Firm Amid Cybersecurity Platform Race",
+      "link": "https://www.investors.com/news/technology/crowdstrike-stock-sgnl-acquisition-cybersecurity-platform-building-race/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-08T15:45:18Z",
+      "image": "",
+      "slug": "crowdstrike-to-acquire-identity-security-firm-amid-cybersecurity-platform-race-b74338dc",
+      "orig_slug": "crowdstrike-to-acquire-identity-security-firm-amid-cybersecurity-platform-race-b74338dc"
+    },
+    {
+      "title": "Telecom Stocks 2026: As Wireless Price War Fears Grow, Is AT&T, T-Mobile Or Verizon The Best Buy?",
+      "link": "https://www.investors.com/news/technology/telecom-stocks-wireless-price-war-2026-tmus-verizon-att/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-08T15:35:21Z",
+      "image": "",
+      "slug": "telecom-stocks-2026-as-wireless-price-war-fears-grow-is-att-t-mobile-or-verizon--737d804b",
+      "orig_slug": "telecom-stocks-2026-as-wireless-price-war-fears-grow-is-att-t-mobile-or-verizon--737d804b"
+    },
+    {
+      "title": "Layoffs, bankruptcies batter U.S. logistics and manufacturing at start of 2026",
+      "link": "https://finance.yahoo.com/news/layoffs-bankruptcies-batter-u-logistics-152429374.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-08T15:24:29Z",
+      "image": "https://media.zenfs.com/en/freightwaves_373/bd7ed0ea99867865927277432015ec6a",
+      "slug": "layoffs-bankruptcies-batter-us-logistics-and-manufacturing-at-start-of-2026-bc05d293",
+      "orig_slug": "layoffs-bankruptcies-batter-us-logistics-and-manufacturing-at-start-of-2026-bc05d293"
+    },
+    {
+      "title": "Tesla 'Faces Increased Competition' In Autonomy Race With Nvidia Entering Market",
+      "link": "https://www.investors.com/news/tesla-elon-musk-face-increased-competition-autonomy-race-nvidia-others/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-08T15:20:47Z",
+      "image": "",
+      "slug": "tesla-faces-increased-competition-in-autonomy-race-with-nvidia-entering-market-1a5f87cf",
+      "orig_slug": "tesla-faces-increased-competition-in-autonomy-race-with-nvidia-entering-market-1a5f87cf"
+    },
+    {
+      "title": "Technical Assessment: Bullish in the Intermediate-Term",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_45792_TechnicalAnalysis_1767875120000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-08T12:25:20Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "technical-assessment-bullish-in-the-intermediate-term-29e15fd3",
+      "orig_slug": "technical-assessment-bullish-in-the-intermediate-term-29e15fd3"
+    },
+    {
+      "title": "Why General Dynamics Stock Soared Today",
+      "link": "https://finance.yahoo.com/news/why-general-dynamics-stock-soared-155522428.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-08T15:55:22Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/0f4d1d6f697ba6ff2a738becde00ded5",
+      "slug": "why-general-dynamics-stock-soared-today-125d531e",
+      "orig_slug": "why-general-dynamics-stock-soared-today-125d531e"
+    },
+    {
+      "title": "Defense Stocks Surge On Trump's $500 Billion Budget-Hike Push",
+      "link": "https://www.investors.com/news/lockheed-martin-defense-stocks-break-out-trump-defense-budget-proposal-buybacks-dividends/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-08T15:19:18Z",
+      "image": "",
+      "slug": "defense-stocks-surge-on-trumps-500-billion-budget-hike-push-ec407cd6",
+      "orig_slug": "defense-stocks-surge-on-trumps-500-billion-budget-hike-push-ec407cd6"
+    },
+    {
+      "title": "After clinching Apple Card sale to JPMorgan, Goldman Sachs nears the end of its years-long consumer headache",
+      "link": "https://finance.yahoo.com/news/after-clinching-apple-card-sale-to-jpmorgan-goldman-sachs-nears-the-end-of-its-years-long-consumer-headache-143343363.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-08T14:33:43Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/.A1nviD0gG7zQF1G4HilJQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/850775b0-ec9b-11f0-bf56-838d09282fa5",
+      "slug": "after-clinching-apple-card-sale-to-jpmorgan-goldman-sachs-nears-the-end-of-its-y-b686d0b9",
+      "orig_slug": "after-clinching-apple-card-sale-to-jpmorgan-goldman-sachs-nears-the-end-of-its-y-b686d0b9"
+    },
+    {
+      "title": "How Eli Lilly's Plan To Buy Ventyx For $1.2 Billion Could Benefit Neumora, Neurocrine",
+      "link": "https://www.investors.com/news/technology/eli-lilly-ventyx-biosciences-ventyx-stock/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-08T15:13:34Z",
+      "image": "",
+      "slug": "how-eli-lillys-plan-to-buy-ventyx-for-12-billion-could-benefit-neumora-neurocrin-0397d5fa",
+      "orig_slug": "how-eli-lillys-plan-to-buy-ventyx-for-12-billion-could-benefit-neumora-neurocrin-0397d5fa"
+    },
+    {
+      "title": "Stock Market Today: Dow, Small Caps Rise; Apple, Meta Tumble But This Midcap Retakes Its Entry (Live Coverage)",
       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobless-claims-apple-appl-tesla-tsla/?src=A00220&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-08T14:44:20Z",
+      "pubDate": "2026-01-08T15:11:37Z",
       "image": "",
-      "slug": "stock-market-today-dow-falls-after-surprise-jobless-claims-apple-tesla-extend-lo-19141fc0",
-      "orig_slug": "stock-market-today-dow-falls-after-surprise-jobless-claims-apple-tesla-extend-lo-19141fc0"
+      "slug": "stock-market-today-dow-small-caps-rise-apple-meta-tumble-but-this-midcap-retakes-19141fc0",
+      "orig_slug": "stock-market-today-dow-small-caps-rise-apple-meta-tumble-but-this-midcap-retakes-19141fc0"
+    },
+    {
+      "title": "Analyst Report: Bristol-Myers Squibb Co.",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_2781_AnalystReport_1767874338000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-08T12:12:18Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-bristol-myers-squibb-co-1dd5946c",
+      "orig_slug": "analyst-report-bristol-myers-squibb-co-1dd5946c"
+    },
+    {
+      "title": "This Impinj Insider Sold 45,000 Shares Worth $7.7 Million. Did They Miss Out on Even Bigger Gains?",
+      "link": "https://finance.yahoo.com/news/impinj-insider-sold-45-000-155127620.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-08T15:51:27Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/beb751fe64b83c39e69071ee1b68bd95",
+      "slug": "this-impinj-insider-sold-45000-shares-worth-77-million-did-they-miss-out-on-even-e3d5cbb9",
+      "orig_slug": "this-impinj-insider-sold-45000-shares-worth-77-million-did-they-miss-out-on-even-e3d5cbb9"
+    },
+    {
+      "title": "Is Credo (CRDO) One of the Must-Buy AI Stocks to Invest In?",
+      "link": "https://finance.yahoo.com/news/credo-crdo-one-must-buy-150945246.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-08T15:09:45Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/09c7f5fad9a09b0d1dec2354f7b31f92",
+      "slug": "is-credo-crdo-one-of-the-must-buy-ai-stocks-to-invest-in-3d1c9689",
+      "orig_slug": "is-credo-crdo-one-of-the-must-buy-ai-stocks-to-invest-in-3d1c9689"
+    },
+    {
+      "title": "Nebius (NBIS) Launches AI Cloud 3.1 Powered by NVIDIA Blackwell Ultra",
+      "link": "https://finance.yahoo.com/news/nebius-nbis-launches-ai-cloud-150944284.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-08T15:09:44Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/e82bbc1fd07e08efde71771bf5112e97",
+      "slug": "nebius-nbis-launches-ai-cloud-31-powered-by-nvidia-blackwell-ultra-d8e8387d",
+      "orig_slug": "nebius-nbis-launches-ai-cloud-31-powered-by-nvidia-blackwell-ultra-d8e8387d"
+    },
+    {
+      "title": "Jefferies Names ServiceNow (NOW) AI Growth Winner, Reaffirms Buy",
+      "link": "https://finance.yahoo.com/news/jefferies-names-servicenow-now-ai-150941250.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-08T15:09:41Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/7ed647e1f7480b5a9ff6cb9a5be3c107",
+      "slug": "jefferies-names-servicenow-now-ai-growth-winner-reaffirms-buy-7d8d83ff",
+      "orig_slug": "jefferies-names-servicenow-now-ai-growth-winner-reaffirms-buy-7d8d83ff"
+    },
+    {
+      "title": "Adobe (ADBE) Partners With Runway to Expand Firefly AI Video Tools",
+      "link": "https://finance.yahoo.com/news/adobe-adbe-partners-runway-expand-150942723.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-08T15:09:42Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/8f5c2021989d89e6a00cd1ed5c40df66",
+      "slug": "adobe-adbe-partners-with-runway-to-expand-firefly-ai-video-tools-ca7be67b",
+      "orig_slug": "adobe-adbe-partners-with-runway-to-expand-firefly-ai-video-tools-ca7be67b"
+    },
+    {
+      "title": "Analyst Report: Snowflake Inc",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_6355_AnalystReport_1767874338000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-08T12:12:18Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-snowflake-inc-a5a86758",
+      "orig_slug": "analyst-report-snowflake-inc-a5a86758"
+    },
+    {
+      "title": "Secretary Bessent drops U.S. auto loan deduction bombshell",
+      "link": "https://finance.yahoo.com/news/secretary-bessent-drops-u-auto-155043011.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-08T15:50:43Z",
+      "image": "https://media.zenfs.com/en/thestreet_881/52f6ea685b0e75f72dddec84433a92db",
+      "slug": "secretary-bessent-drops-us-auto-loan-deduction-bombshell-3085f260",
+      "orig_slug": "secretary-bessent-drops-us-auto-loan-deduction-bombshell-3085f260"
+    },
+    {
+      "title": "TSMC (TSM): AI Boom, Revenue Upside, and Attractive Valuation Through 2027",
+      "link": "https://finance.yahoo.com/news/tsmc-tsm-ai-boom-revenue-150937510.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-08T15:09:37Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/555a019e1f4fbc93ccb8acc184c6aa1e",
+      "slug": "tsmc-tsm-ai-boom-revenue-upside-and-attractive-valuation-through-2027-5333ec8a",
+      "orig_slug": "tsmc-tsm-ai-boom-revenue-upside-and-attractive-valuation-through-2027-5333ec8a"
+    },
+    {
+      "title": "AMD (AMD): AI Growth Strategy, Server Shipments Surge, and Analyst Ratings",
+      "link": "https://finance.yahoo.com/news/amd-amd-ai-growth-strategy-150939010.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-08T15:09:39Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/fe0b16308278491a239b6a2819deebec",
+      "slug": "amd-amd-ai-growth-strategy-server-shipments-surge-and-analyst-ratings-1717f2ad",
+      "orig_slug": "amd-amd-ai-growth-strategy-server-shipments-surge-and-analyst-ratings-1717f2ad"
+    },
+    {
+      "title": "Truist Raises NVIDIA (NVDA) PT After Nemotron 3 AI Model Launch",
+      "link": "https://finance.yahoo.com/news/truist-raises-nvidia-nvda-pt-150936819.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-08T15:09:36Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/f1bc79dd7e76327f0bc414fdfab6010d",
+      "slug": "truist-raises-nvidia-nvda-pt-after-nemotron-3-ai-model-launch-59ae4092",
+      "orig_slug": "truist-raises-nvidia-nvda-pt-after-nemotron-3-ai-model-launch-59ae4092"
+    },
+    {
+      "title": "Alphabet (GOOGL) Strengthens Data Center and Renewable Power Push Amid Analyst Price Target Upgrade",
+      "link": "https://finance.yahoo.com/news/alphabet-googl-strengthens-data-center-150934601.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-08T15:09:34Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/674faf8d2701d04a1ca95692e0adb4f0",
+      "slug": "alphabet-googl-strengthens-data-center-and-renewable-power-push-amid-analyst-pri-e88b673e",
+      "orig_slug": "alphabet-googl-strengthens-data-center-and-renewable-power-push-amid-analyst-pri-e88b673e"
+    },
+    {
+      "title": "Market Digest: BMY, SNOW",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_45790_MarketSummary_1767873438000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-08T11:57:18Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "market-digest-bmy-snow-819e568c",
+      "orig_slug": "market-digest-bmy-snow-819e568c"
+    },
+    {
+      "title": "Everything You Need To Know About ‘Trump Accounts’ Launching in 2026",
+      "link": "https://finance.yahoo.com/news/everything-know-trump-accounts-launching-154958206.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-08T15:49:58Z",
+      "image": "https://media.zenfs.com/en/gobankingrates_644/ed8e1285d46e7e7d3d71c8c92b21bb39",
+      "slug": "everything-you-need-to-know-about-trump-accounts-launching-in-2026-db035a21",
+      "orig_slug": "everything-you-need-to-know-about-trump-accounts-launching-in-2026-db035a21"
+    },
+    {
+      "title": "AWS Clears OCC Security Review as BMO Raises Amazon (AMZN) PT to $304",
+      "link": "https://finance.yahoo.com/news/aws-clears-occ-security-review-150930329.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-08T15:09:30Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/7d8d5d2c93e0496436c8272743df541d",
+      "slug": "aws-clears-occ-security-review-as-bmo-raises-amazon-amzn-pt-to-304-f4e36157",
+      "orig_slug": "aws-clears-occ-security-review-as-bmo-raises-amazon-amzn-pt-to-304-f4e36157"
+    },
+    {
+      "title": "Wedbush Reiterates Outperform on Microsoft (MSFT) on Azure AI Momentum",
+      "link": "https://finance.yahoo.com/news/wedbush-reiterates-outperform-microsoft-msft-150932736.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-08T15:09:32Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/52d1772a91e0b074c5496ca25de5811e",
+      "slug": "wedbush-reiterates-outperform-on-microsoft-msft-on-azure-ai-momentum-1db00e4a",
+      "orig_slug": "wedbush-reiterates-outperform-on-microsoft-msft-on-azure-ai-momentum-1db00e4a"
+    },
+    {
+      "title": "Google Stock Poised To Pop. Why More Gains May Be Coming.",
+      "link": "https://www.investors.com/research/ibd-stock-analysis/google-stock-poised-to-pop-waymo-could-drive-more-gains/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-08T15:08:59Z",
+      "image": "",
+      "slug": "google-stock-poised-to-pop-why-more-gains-may-be-coming-5f458c4b",
+      "orig_slug": "google-stock-poised-to-pop-why-more-gains-may-be-coming-5f458c4b"
+    },
+    {
+      "title": "Data Center Demand Points This Stock Toward A Buy Point After Major Project Approval",
+      "link": "https://www.investors.com/news/bloom-energy-stock-market-buy-point-data-center-demand/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-08T15:07:47Z",
+      "image": "",
+      "slug": "data-center-demand-points-this-stock-toward-a-buy-point-after-major-project-appr-353e1d69",
+      "orig_slug": "data-center-demand-points-this-stock-toward-a-buy-point-after-major-project-appr-353e1d69"
+    },
+    {
+      "title": "Daily – Vickers Top Insider Picks for 01/08/2026",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_45788_InsiderActivity_1767872295000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-08T11:38:15Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "daily-vickers-top-insider-picks-for-01082026-c8cda40b",
+      "orig_slug": "daily-vickers-top-insider-picks-for-01082026-c8cda40b"
+    },
+    {
+      "title": "Neumann Advisory Cuts Loose Pony AI Shares Worth $23.2 Million, According to Recent SEC Filing",
+      "link": "https://finance.yahoo.com/news/neumann-advisory-cuts-loose-pony-154810980.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-08T15:48:10Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/3555dd81096d2e030a1eb53e86b6c0ba",
+      "slug": "neumann-advisory-cuts-loose-pony-ai-shares-worth-232-million-according-to-recent-56e36ec8",
+      "orig_slug": "neumann-advisory-cuts-loose-pony-ai-shares-worth-232-million-according-to-recent-56e36ec8"
     },
     {
       "title": "H.C. Wainwright Upgrades Structure Therapeutics (GPCR) on Massive Arbitrage Opportunity for Oral GLP-1",
@@ -47,24 +362,6 @@
       "orig_slug": "truist-maintains-buy-rating-on-procept-biorobotics-prct-amid-medtech-sector-rota-4cd6e810"
     },
     {
-      "title": "Daily Spotlight: Global Stocks Were Leaders in 2025",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_45793_MarketOutlook_1767875139000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-08T12:25:39Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-spotlight-global-stocks-were-leaders-in-2025-eef02046",
-      "orig_slug": "daily-spotlight-global-stocks-were-leaders-in-2025-eef02046"
-    },
-    {
-      "title": "Oil Glut, Wind Freeze, and Energy Policy in the Year Ahead",
-      "link": "https://finance.yahoo.com/news/oil-glut-wind-freeze-energy-145800212.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-08T14:58:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/ae957b869a13e2a43953dabd17fca087",
-      "slug": "oil-glut-wind-freeze-and-energy-policy-in-the-year-ahead-932ce56e",
-      "orig_slug": "oil-glut-wind-freeze-and-energy-policy-in-the-year-ahead-932ce56e"
-    },
-    {
       "title": "Keefe Bruyette Lowers Klarna (KLAR) PT to $45 Due to Sector-Wide Valuation Adjustments",
       "link": "https://finance.yahoo.com/news/keefe-bruyette-lowers-klarna-klar-144134408.html",
       "source": "finance.yahoo.com",
@@ -72,6 +369,24 @@
       "image": "https://media.zenfs.com/en/insidermonkey.com/90f38886f04e26b67dca12c7e6ba0890",
       "slug": "keefe-bruyette-lowers-klarna-klar-pt-to-45-due-to-sector-wide-valuation-adjustme-51f7036d",
       "orig_slug": "keefe-bruyette-lowers-klarna-klar-pt-to-45-due-to-sector-wide-valuation-adjustme-51f7036d"
+    },
+    {
+      "title": "Daily – Vickers Top Buyers & Sellers for 01/08/2026",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_45789_TopBottomInsiderActivity_1767872295000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-08T11:38:15Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "daily-vickers-top-buyers-sellers-for-01082026-72140edd",
+      "orig_slug": "daily-vickers-top-buyers-sellers-for-01082026-72140edd"
+    },
+    {
+      "title": "3 Top Dividend Stocks to Buy in January",
+      "link": "https://finance.yahoo.com/news/3-top-dividend-stocks-buy-154800798.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-08T15:48:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/aaa9948392c1a764d80f39a04c92b779",
+      "slug": "3-top-dividend-stocks-to-buy-in-january-a40205fa",
+      "orig_slug": "3-top-dividend-stocks-to-buy-in-january-a40205fa"
     },
     {
       "title": "Needham Hikes Centessa (CNTA) PT to $38 on High Potential for ORX-750 Trial Success and M&A Appeal",
@@ -92,42 +407,6 @@
       "orig_slug": "what-makes-nxp-semiconductors-nv-nxpi-an-attractive-investment-4c0cc824"
     },
     {
-      "title": "Goldman Sachs nears the end of its years-long consumer headache after clinching Apple Card sale to JPMorgan",
-      "link": "https://finance.yahoo.com/news/goldman-sachs-nears-the-end-of-its-years-long-consumer-headache-after-clinching-apple-card-sale-to-jpmorgan-143343912.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-08T14:33:43Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/.A1nviD0gG7zQF1G4HilJQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/850775b0-ec9b-11f0-bf56-838d09282fa5",
-      "slug": "goldman-sachs-nears-the-end-of-its-years-long-consumer-headache-after-clinching--047f3352",
-      "orig_slug": "goldman-sachs-nears-the-end-of-its-years-long-consumer-headache-after-clinching--047f3352"
-    },
-    {
-      "title": "Technical Assessment: Bullish in the Intermediate-Term",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_45792_TechnicalAnalysis_1767875120000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-08T12:25:20Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "technical-assessment-bullish-in-the-intermediate-term-29e15fd3",
-      "orig_slug": "technical-assessment-bullish-in-the-intermediate-term-29e15fd3"
-    },
-    {
-      "title": "If the Next Market Crash Mirrors 2008, Here’s How Much the Average Portfolio Could Lose",
-      "link": "https://finance.yahoo.com/news/next-market-crash-mirrors-2008-145747276.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-08T14:57:47Z",
-      "image": "https://media.zenfs.com/en/gobankingrates_644/ebc9466565772ec0528fd154450eb98e",
-      "slug": "if-the-next-market-crash-mirrors-2008-heres-how-much-the-average-portfolio-could-020c9332",
-      "orig_slug": "if-the-next-market-crash-mirrors-2008-heres-how-much-the-average-portfolio-could-020c9332"
-    },
-    {
-      "title": "Data Center Demand Points This Stock Toward A Buy Point After Major Project Approval",
-      "link": "https://www.investors.com/news/bloom-energy-stock-market-buy-point-data-center-demand/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-08T14:33:29Z",
-      "image": "",
-      "slug": "data-center-demand-points-this-stock-toward-a-buy-point-after-major-project-appr-353e1d69",
-      "orig_slug": "data-center-demand-points-this-stock-toward-a-buy-point-after-major-project-appr-353e1d69"
-    },
-    {
       "title": "What Provides InsuletCorp. (PODD) With a Durable Competitive Advantage?",
       "link": "https://finance.yahoo.com/news/provides-insuletcorp-podd-durable-competitive-143308780.html",
       "source": "finance.yahoo.com",
@@ -135,15 +414,6 @@
       "image": "https://media.zenfs.com/en/insidermonkey.com/1ff32164f516e4ca8a3a18c8d881286d",
       "slug": "what-provides-insuletcorp-podd-with-a-durable-competitive-advantage-6b3e5bd4",
       "orig_slug": "what-provides-insuletcorp-podd-with-a-durable-competitive-advantage-6b3e5bd4"
-    },
-    {
-      "title": "Tesla 'Faces Increased Competition' In Autonomy Race With Nvidia Entering Market",
-      "link": "https://www.investors.com/news/tesla-elon-musk-face-increased-competition-autonomy-race-nvidia-others/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-08T14:32:10Z",
-      "image": "",
-      "slug": "tesla-faces-increased-competition-in-autonomy-race-with-nvidia-entering-market-1a5f87cf",
-      "orig_slug": "tesla-faces-increased-competition-in-autonomy-race-with-nvidia-entering-market-1a5f87cf"
     },
     {
       "title": "Parnassus Core Equity Fund Reestablished a Position in BILL Holdings (BILL). Here’s Why",
@@ -155,22 +425,13 @@
       "orig_slug": "parnassus-core-equity-fund-reestablished-a-position-in-bill-holdings-bill-heres--12ee4453"
     },
     {
-      "title": "Analyst Report: Bristol-Myers Squibb Co.",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_2781_AnalystReport_1767874338000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "title": "C3.ai Founder Thomas Siebel Sells $7.6 Million in Stock After Difficult Year",
+      "link": "https://finance.yahoo.com/news/c3-ai-founder-thomas-siebel-154703993.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-08T12:12:18Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "analyst-report-bristol-myers-squibb-co-1dd5946c",
-      "orig_slug": "analyst-report-bristol-myers-squibb-co-1dd5946c"
-    },
-    {
-      "title": "Albertsons Q3 profit declines despite higher sales and digital gains",
-      "link": "https://finance.yahoo.com/news/albertsons-q3-profit-declines-despite-144821753.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-08T14:48:21Z",
-      "image": "https://media.zenfs.com/en/retail_insight_network_724/01d53c4a310e0e002dcae7e4e12e8432",
-      "slug": "albertsons-q3-profit-declines-despite-higher-sales-and-digital-gains-15e3cdda",
-      "orig_slug": "albertsons-q3-profit-declines-despite-higher-sales-and-digital-gains-15e3cdda"
+      "pubDate": "2026-01-08T15:47:03Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/c9531603494b566ba9899131a58e57ef",
+      "slug": "c3ai-founder-thomas-siebel-sells-76-million-in-stock-after-difficult-year-9be3fc9e",
+      "orig_slug": "c3ai-founder-thomas-siebel-sells-76-million-in-stock-after-difficult-year-9be3fc9e"
     },
     {
       "title": "Should You Hold Republic Services (RSG)?",
@@ -180,267 +441,6 @@
       "image": "https://media.zenfs.com/en/insidermonkey.com/cd7ac226ad701111529531cbb0c96ff2",
       "slug": "should-you-hold-republic-services-rsg-890592e2",
       "orig_slug": "should-you-hold-republic-services-rsg-890592e2"
-    },
-    {
-      "title": "Is StandardAero (SARO) a Worthy Investment?",
-      "link": "https://finance.yahoo.com/news/standardaero-saro-worthy-investment-142034760.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-08T14:20:34Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/d8468524067c607909c92c19917220c8",
-      "slug": "is-standardaero-saro-a-worthy-investment-afe5128c",
-      "orig_slug": "is-standardaero-saro-a-worthy-investment-afe5128c"
-    },
-    {
-      "title": "RBC Lowers Oracle (ORCL) PT to $195 While Eyeing 2026 as a Pivotal Year for AI-Driven Growth",
-      "link": "https://finance.yahoo.com/news/rbc-lowers-oracle-orcl-pt-141307418.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-08T14:13:07Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/c388e80b395d28f87022b1339a8070b1",
-      "slug": "rbc-lowers-oracle-orcl-pt-to-195-while-eyeing-2026-as-a-pivotal-year-for-ai-driv-08af1449",
-      "orig_slug": "rbc-lowers-oracle-orcl-pt-to-195-while-eyeing-2026-as-a-pivotal-year-for-ai-driv-08af1449"
-    },
-    {
-      "title": "Truist Cuts Tesla (TSLA) PT to $439 as Record Energy Storage Offsets Q4 Delivery Miss",
-      "link": "https://finance.yahoo.com/news/truist-cuts-tesla-tsla-pt-141305096.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-08T14:13:05Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/1277c6032fd09b727a10249a170024cf",
-      "slug": "truist-cuts-tesla-tsla-pt-to-439-as-record-energy-storage-offsets-q4-delivery-mi-787cf886",
-      "orig_slug": "truist-cuts-tesla-tsla-pt-to-439-as-record-energy-storage-offsets-q4-delivery-mi-787cf886"
-    },
-    {
-      "title": "Analyst Report: Snowflake Inc",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_6355_AnalystReport_1767874338000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-08T12:12:18Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "analyst-report-snowflake-inc-a5a86758",
-      "orig_slug": "analyst-report-snowflake-inc-a5a86758"
-    },
-    {
-      "title": "Tech Veteran Imran Khan Fully Exits Dave Position Following Massive 2025 Run-Up",
-      "link": "https://finance.yahoo.com/news/tech-veteran-imran-khan-fully-144707927.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-08T14:47:07Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/beb751fe64b83c39e69071ee1b68bd95",
-      "slug": "tech-veteran-imran-khan-fully-exits-dave-position-following-massive-2025-run-up-39e3e49a",
-      "orig_slug": "tech-veteran-imran-khan-fully-exits-dave-position-following-massive-2025-run-up-39e3e49a"
-    },
-    {
-      "title": "Barclays Hikes BofA (BAC) PT To $71 on Expectations of Sustained Earnings Momentum in 2026",
-      "link": "https://finance.yahoo.com/news/barclays-hikes-bofa-bac-pt-141303263.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-08T14:13:03Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/7065f126b064bc11ea3265b66b77adc6",
-      "slug": "barclays-hikes-bofa-bac-pt-to-71-on-expectations-of-sustained-earnings-momentum--af71f87e",
-      "orig_slug": "barclays-hikes-bofa-bac-pt-to-71-on-expectations-of-sustained-earnings-momentum--af71f87e"
-    },
-    {
-      "title": "Pfizer, Astellas Report Positive Phase 3 Trial Results for PADCEV Combination in Bladder Cancer Treatment",
-      "link": "https://finance.yahoo.com/news/pfizer-astellas-report-positive-phase-141301195.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-08T14:13:01Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/aef4b35e5ea946bf7f4ed347e5c4f487",
-      "slug": "pfizer-astellas-report-positive-phase-3-trial-results-for-padcev-combination-in--dcb3d0bd",
-      "orig_slug": "pfizer-astellas-report-positive-phase-3-trial-results-for-padcev-combination-in--dcb3d0bd"
-    },
-    {
-      "title": "Melius Research Upgrades Intel (INTC) to Buy with $50 PT on Long-Term 14A Node Prospects for Nvidia, Apple",
-      "link": "https://finance.yahoo.com/news/melius-research-upgrades-intel-intc-141259302.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-08T14:12:59Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/fe3d07f390ab832594f0e07094b3f8cd",
-      "slug": "melius-research-upgrades-intel-intc-to-buy-with-50-pt-on-long-term-14a-node-pros-ac86052e",
-      "orig_slug": "melius-research-upgrades-intel-intc-to-buy-with-50-pt-on-long-term-14a-node-pros-ac86052e"
-    },
-    {
-      "title": "RBC Cuts UiPath (PATH) PT to $17 Highlighting 2026 as a Year of Divergence for Software Sector",
-      "link": "https://finance.yahoo.com/news/rbc-cuts-uipath-path-pt-141258259.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-08T14:12:58Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/355c23d963533f658ce51f18a11930e5",
-      "slug": "rbc-cuts-uipath-path-pt-to-17-highlighting-2026-as-a-year-of-divergence-for-soft-9d9daf40",
-      "orig_slug": "rbc-cuts-uipath-path-pt-to-17-highlighting-2026-as-a-year-of-divergence-for-soft-9d9daf40"
-    },
-    {
-      "title": "Market Digest: BMY, SNOW",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_45790_MarketSummary_1767873438000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-08T11:57:18Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "market-digest-bmy-snow-819e568c",
-      "orig_slug": "market-digest-bmy-snow-819e568c"
-    },
-    {
-      "title": "Where Will Palantir Stock Be in 5 Years?",
-      "link": "https://finance.yahoo.com/news/where-palantir-stock-5-years-144700478.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-08T14:47:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/bb7cbe490e441b48f939ba2b101752db",
-      "slug": "where-will-palantir-stock-be-in-5-years-8b1e9d0f",
-      "orig_slug": "where-will-palantir-stock-be-in-5-years-8b1e9d0f"
-    },
-    {
-      "title": "Keefe Bruyette Upgrades TeraWulf (WULF) on Massive 505% Projected EBITDA Growth",
-      "link": "https://finance.yahoo.com/news/keefe-bruyette-upgrades-terawulf-wulf-141256259.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-08T14:12:56Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/9903b9e83c4e52874b0c06d6d925f139",
-      "slug": "keefe-bruyette-upgrades-terawulf-wulf-on-massive-505-projected-ebitda-growth-df6b7736",
-      "orig_slug": "keefe-bruyette-upgrades-terawulf-wulf-on-massive-505-projected-ebitda-growth-df6b7736"
-    },
-    {
-      "title": "Ford (F) Expands 2025 Market Share to 13.2% on Strong Hybrid Demand, Powertrain Diversification Strategy",
-      "link": "https://finance.yahoo.com/news/ford-f-expands-2025-market-141255815.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-08T14:12:55Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/4a2f97ff6459f92034d76ce4fcdedbcc",
-      "slug": "ford-f-expands-2025-market-share-to-132-on-strong-hybrid-demand-powertrain-diver-6e253a36",
-      "orig_slug": "ford-f-expands-2025-market-share-to-132-on-strong-hybrid-demand-powertrain-diver-6e253a36"
-    },
-    {
-      "title": "Is Vale (VALE) One of the Most Buzzing Stocks to Invest in According to Hedge Funds?",
-      "link": "https://finance.yahoo.com/news/vale-vale-one-most-buzzing-141253832.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-08T14:12:53Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/138281667b035ca43f0f617eac1e4feb",
-      "slug": "is-vale-vale-one-of-the-most-buzzing-stocks-to-invest-in-according-to-hedge-fund-991d5a39",
-      "orig_slug": "is-vale-vale-one-of-the-most-buzzing-stocks-to-invest-in-according-to-hedge-fund-991d5a39"
-    },
-    {
-      "title": "Barclays Raises Huntington Bancshares (HBAN) PT to $20 Citing Continued 2026 Sector Outperformance",
-      "link": "https://finance.yahoo.com/news/barclays-raises-huntington-bancshares-hban-141252883.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-08T14:12:52Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/f84b2d263172133b0f6b9aff2d96da99",
-      "slug": "barclays-raises-huntington-bancshares-hban-pt-to-20-citing-continued-2026-sector-9e14a16f",
-      "orig_slug": "barclays-raises-huntington-bancshares-hban-pt-to-20-citing-continued-2026-sector-9e14a16f"
-    },
-    {
-      "title": "Daily – Vickers Top Buyers & Sellers for 01/08/2026",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_45789_TopBottomInsiderActivity_1767872295000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-08T11:38:15Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-vickers-top-buyers-sellers-for-01082026-72140edd",
-      "orig_slug": "daily-vickers-top-buyers-sellers-for-01082026-72140edd"
-    },
-    {
-      "title": "Lindian mobilises Komatsu fleet for Kangankunde rare earths project",
-      "link": "https://finance.yahoo.com/news/lindian-mobilises-komatsu-fleet-kangankunde-144651460.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-08T14:46:51Z",
-      "image": "https://media.zenfs.com/en/mining_technology_700/8e9aba03ec0d16b0cf2b8cb8ad552883",
-      "slug": "lindian-mobilises-komatsu-fleet-for-kangankunde-rare-earths-project-26d6f26d",
-      "orig_slug": "lindian-mobilises-komatsu-fleet-for-kangankunde-rare-earths-project-26d6f26d"
-    },
-    {
-      "title": "Goldman Sachs Hikes Rivian (RIVN) to $18 as Focus Shifts to R2 Platform, Autonomous Driving Progress",
-      "link": "https://finance.yahoo.com/news/goldman-sachs-hikes-rivian-rivn-141250116.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-08T14:12:50Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/d99283c606d60a0eed52201dfd27a07a",
-      "slug": "goldman-sachs-hikes-rivian-rivn-to-18-as-focus-shifts-to-r2-platform-autonomous--20a2a63e",
-      "orig_slug": "goldman-sachs-hikes-rivian-rivn-to-18-as-focus-shifts-to-r2-platform-autonomous--20a2a63e"
-    },
-    {
-      "title": "Canaccord Hikes Denison Mines (DNN) PT to C$5 on Phoenix Project Construction Readiness, Strategic Expansion",
-      "link": "https://finance.yahoo.com/news/canaccord-hikes-denison-mines-dnn-141249147.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-08T14:12:49Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/3d20326d6ca50812c875e9add574d7ff",
-      "slug": "canaccord-hikes-denison-mines-dnn-pt-to-c5-on-phoenix-project-construction-readi-10c66cc9",
-      "orig_slug": "canaccord-hikes-denison-mines-dnn-pt-to-c5-on-phoenix-project-construction-readi-10c66cc9"
-    },
-    {
-      "title": "Piper Sandler Cuts SoundHound AI (SOUN) PT to $11 Citing Execution Risks, Slow Adoption for Standalone AI Vendors",
-      "link": "https://finance.yahoo.com/news/piper-sandler-cuts-soundhound-ai-141247274.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-08T14:12:47Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/92c8f6ab3a869702836486e881eaaf1a",
-      "slug": "piper-sandler-cuts-soundhound-ai-soun-pt-to-11-citing-execution-risks-slow-adopt-346f57a8",
-      "orig_slug": "piper-sandler-cuts-soundhound-ai-soun-pt-to-11-citing-execution-risks-slow-adopt-346f57a8"
-    },
-    {
-      "title": "Cantor Fitzgerald Initiates Bitmine Immersion (BMNR) with $39 PT on Scale of Ethereum Treasury",
-      "link": "https://finance.yahoo.com/news/cantor-fitzgerald-initiates-bitmine-immersion-141246508.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-08T14:12:46Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/4e92d2c1e3022275942c147e27f5c322",
-      "slug": "cantor-fitzgerald-initiates-bitmine-immersion-bmnr-with-39-pt-on-scale-of-ethere-6f43e4e7",
-      "orig_slug": "cantor-fitzgerald-initiates-bitmine-immersion-bmnr-with-39-pt-on-scale-of-ethere-6f43e4e7"
-    },
-    {
-      "title": "Daily – Vickers Top Insider Picks for 01/08/2026",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_45788_InsiderActivity_1767872295000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-08T11:38:15Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-vickers-top-insider-picks-for-01082026-c8cda40b",
-      "orig_slug": "daily-vickers-top-insider-picks-for-01082026-c8cda40b"
-    },
-    {
-      "title": "Josh Harris Firm Leads $1 Billion Raise for Bruin Capital",
-      "link": "https://finance.yahoo.com/news/josh-harris-firm-leads-1-144559221.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-08T14:45:59Z",
-      "image": "https://media.zenfs.com/en/sportico_165/0bb41d219018966cbbdb1a6c5c63519a",
-      "slug": "josh-harris-firm-leads-1-billion-raise-for-bruin-capital-04e553cf",
-      "orig_slug": "josh-harris-firm-leads-1-billion-raise-for-bruin-capital-04e553cf"
-    },
-    {
-      "title": "Is Credo Technology (CRDO) One of the Best Up and Coming Stocks to Buy According to Wall Street?",
-      "link": "https://finance.yahoo.com/news/credo-technology-crdo-one-best-141244092.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-08T14:12:44Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/704231fc1efa4e63b56f2a2052e39032",
-      "slug": "is-credo-technology-crdo-one-of-the-best-up-and-coming-stocks-to-buy-according-t-dbfe1bcf",
-      "orig_slug": "is-credo-technology-crdo-one-of-the-best-up-and-coming-stocks-to-buy-according-t-dbfe1bcf"
-    },
-    {
-      "title": "Wolfe Research Cuts Roblox (RBLX) PT to $100 While Citing AI and New Products as 2026 Growth Drivers",
-      "link": "https://finance.yahoo.com/news/wolfe-research-cuts-roblox-rblx-141243261.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-08T14:12:43Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/368ebed672d5e1c688faceeef27bb20b",
-      "slug": "wolfe-research-cuts-roblox-rblx-pt-to-100-while-citing-ai-and-new-products-as-20-ddcbf2f2",
-      "orig_slug": "wolfe-research-cuts-roblox-rblx-pt-to-100-while-citing-ai-and-new-products-as-20-ddcbf2f2"
-    },
-    {
-      "title": "RBC Capital Lowers Netskope (NTSK) PT to $23 While Highlighting 2026 as a turning Point for Enterprise AI Adoption",
-      "link": "https://finance.yahoo.com/news/rbc-capital-lowers-netskope-ntsk-141240460.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-08T14:12:40Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/09959d1ddf8c7ce65a36045340ac479a",
-      "slug": "rbc-capital-lowers-netskope-ntsk-pt-to-23-while-highlighting-2026-as-a-turning-p-b37c428f",
-      "orig_slug": "rbc-capital-lowers-netskope-ntsk-pt-to-23-while-highlighting-2026-as-a-turning-p-b37c428f"
-    },
-    {
-      "title": "Barclays Cuts Rubrik (RBRK) PT to $100 While Maintaining Overweight Rating",
-      "link": "https://finance.yahoo.com/news/barclays-cuts-rubrik-rbrk-pt-141237144.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-08T14:12:37Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/85373bc41713bda2682a486e2f1708bb",
-      "slug": "barclays-cuts-rubrik-rbrk-pt-to-100-while-maintaining-overweight-rating-71ada911",
-      "orig_slug": "barclays-cuts-rubrik-rbrk-pt-to-100-while-maintaining-overweight-rating-71ada911"
-    },
-    {
-      "title": "3 Unstoppable Artificial Intelligence (AI) Stocks to Buy for 2026",
-      "link": "https://finance.yahoo.com/news/3-unstoppable-artificial-intelligence-ai-144400839.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-08T14:44:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/13f8b5cf81d00595bb32fbde11461cfb",
-      "slug": "3-unstoppable-artificial-intelligence-ai-stocks-to-buy-for-2026-e2521c82",
-      "orig_slug": "3-unstoppable-artificial-intelligence-ai-stocks-to-buy-for-2026-e2521c82"
-    },
-    {
-      "title": "Jefferies Cuts Monday.com (MNDY) PT to $260 Amid Focus on 2026 AI Monetization",
-      "link": "https://finance.yahoo.com/news/jefferies-cuts-monday-com-mndy-141241692.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-08T14:12:41Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/d318a315f39e09ef55f964f3773d75e9",
-      "slug": "jefferies-cuts-mondaycom-mndy-pt-to-260-amid-focus-on-2026-ai-monetization-357623ae",
-      "orig_slug": "jefferies-cuts-mondaycom-mndy-pt-to-260-amid-focus-on-2026-ai-monetization-357623ae"
     }
   ]
 }
