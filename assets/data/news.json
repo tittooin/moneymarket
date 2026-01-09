@@ -1,6 +1,78 @@
 {
-  "updated": "2026-01-09T16:16:56Z",
+  "updated": "2026-01-09T17:17:16Z",
   "items": [
+    {
+      "title": "Corning (GLW)’s a “Potential Winner,” Says Jim Cramer",
+      "link": "https://finance.yahoo.com/news/corning-glw-potential-winner-says-170348462.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T17:03:48Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/91d6221e3df11e4933938a3082c41da1",
+      "slug": "corning-glws-a-potential-winner-says-jim-cramer-767d0aad",
+      "orig_slug": "corning-glws-a-potential-winner-says-jim-cramer-767d0aad"
+    },
+    {
+      "title": "Jim Cramer Says He’d Rather Own Broadcom (AVGO)",
+      "link": "https://finance.yahoo.com/news/jim-cramer-says-d-rather-170327411.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T17:03:27Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/680b1320a6a702c378188abec0e1b01c",
+      "slug": "jim-cramer-says-hed-rather-own-broadcom-avgo-261dffdb",
+      "orig_slug": "jim-cramer-says-hed-rather-own-broadcom-avgo-261dffdb"
+    },
+    {
+      "title": "Stock Market Today: Dow Up After Surprise Jobs Data; Intel Soars On Trump Comments (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobs-report-trump-tariff/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T17:01:40Z",
+      "image": "",
+      "slug": "stock-market-today-dow-up-after-surprise-jobs-data-intel-soars-on-trump-comments-bc635248",
+      "orig_slug": "stock-market-today-dow-up-after-surprise-jobs-data-intel-soars-on-trump-comments-bc635248"
+    },
+    {
+      "title": "How Trump’s latest bond-buying plan could influence mortgage rates and affordability",
+      "link": "https://finance.yahoo.com/news/how-trumps-latest-bond-buying-plan-could-influence-mortgage-rates-and-affordability-165946400.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T16:59:46Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/50bRUYHgeKwmzXlKOIw0dA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-11/48027fb0-a76a-11ef-abbb-bcea8e9add65",
+      "slug": "how-trumps-latest-bond-buying-plan-could-influence-mortgage-rates-and-affordabil-5734e64f",
+      "orig_slug": "how-trumps-latest-bond-buying-plan-could-influence-mortgage-rates-and-affordabil-5734e64f"
+    },
+    {
+      "title": "Jobless rate holds steady in December",
+      "link": "https://finance.yahoo.com/news/jobless-rate-holds-steady-december-165646472.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T16:56:46Z",
+      "image": "https://media.zenfs.com/en/thestreet_881/6da6a6d339f5f53714a570735fc3568a",
+      "slug": "jobless-rate-holds-steady-in-december-0e2cee2c",
+      "orig_slug": "jobless-rate-holds-steady-in-december-0e2cee2c"
+    },
+    {
+      "title": "Daily Spotlight: Unemployment Rate Drops to 4.4%",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_45808_MarketOutlook_1767969427000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T14:37:07Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "daily-spotlight-unemployment-rate-drops-to-44-6f76d0b3",
+      "orig_slug": "daily-spotlight-unemployment-rate-drops-to-44-6f76d0b3"
+    },
+    {
+      "title": "Banks eye Venezuela investment, JPMorgan seen with advantage",
+      "link": "https://finance.yahoo.com/news/banks-eye-venezuela-investment-jpmorgan-165306078.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T16:53:06Z",
+      "image": "https://media.zenfs.com/en/reuters.com/fdcdc3b67004d37b1146cf5787ab4b6f",
+      "slug": "banks-eye-venezuela-investment-jpmorgan-seen-with-advantage-08e366da",
+      "orig_slug": "banks-eye-venezuela-investment-jpmorgan-seen-with-advantage-08e366da"
+    },
+    {
+      "title": "Palantir, Two Other Defense Names Head Toward Wins After Volatile Industry Week",
+      "link": "https://www.investors.com/stock-lists/ibd-50/palantir-stock-trump-pltr-defense-tech-howmet-rocket-lab-military-markets-investing/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T16:49:26Z",
+      "image": "",
+      "slug": "palantir-two-other-defense-names-head-toward-wins-after-volatile-industry-week-aa91d524",
+      "orig_slug": "palantir-two-other-defense-names-head-toward-wins-after-volatile-industry-week-aa91d524"
+    },
     {
       "title": "Stock market today: Dow, S&P 500, Nasdaq rise as jobs report seals rate bets, with SCOTUS tariff ruling in focus",
       "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-jobs-report-seals-rate-bets-with-scotus-tariff-ruling-in-focus-234631324.html",
@@ -11,13 +83,49 @@
       "orig_slug": "stock-market-today-dow-sp-500-nasdaq-rise-as-jobs-report-seals-rate-bets-with-sc-5597f736"
     },
     {
-      "title": "Cathie Wood Goes Shopping: 3 Stocks She Just Bought",
-      "link": "https://finance.yahoo.com/news/cathie-wood-goes-shopping-3-155700179.html",
+      "title": "This Biotech Stock Eyes Fresh Entry With 522% Earnings Growth Seen",
+      "link": "https://www.investors.com/stock-lists/stock-spotlight/biotech-stock-incyte-incy-flirts-fresh-entry-earnings-growth/?src=A00220&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T15:57:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/54580163720d077d55412cb0673e8ac5",
-      "slug": "cathie-wood-goes-shopping-3-stocks-she-just-bought-bd876ea0",
-      "orig_slug": "cathie-wood-goes-shopping-3-stocks-she-just-bought-bd876ea0"
+      "pubDate": "2026-01-09T16:40:39Z",
+      "image": "",
+      "slug": "this-biotech-stock-eyes-fresh-entry-with-522-earnings-growth-seen-ae80645d",
+      "orig_slug": "this-biotech-stock-eyes-fresh-entry-with-522-earnings-growth-seen-ae80645d"
+    },
+    {
+      "title": "2 Brilliant AI Stocks to Buy in January and Hold for the Long Term",
+      "link": "https://finance.yahoo.com/news/2-brilliant-ai-stocks-buy-165000731.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T16:50:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/cbe5a1acb56778bd854d5c0a2d50ed31",
+      "slug": "2-brilliant-ai-stocks-to-buy-in-january-and-hold-for-the-long-term-4f075426",
+      "orig_slug": "2-brilliant-ai-stocks-to-buy-in-january-and-hold-for-the-long-term-4f075426"
+    },
+    {
+      "title": "Politics tops Americans' list of money fears, financial planners say. How you can protect yourself",
+      "link": "https://finance.yahoo.com/news/politics-tops-americans-list-money-163000368.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T16:30:00Z",
+      "image": "https://media.zenfs.com/en/moneywise_327/0515888da900dad4dd00714d5b980a58",
+      "slug": "politics-tops-americans-list-of-money-fears-financial-planners-say-how-you-can-p-52296b36",
+      "orig_slug": "politics-tops-americans-list-of-money-fears-financial-planners-say-how-you-can-p-52296b36"
+    },
+    {
+      "title": "JPMorgan Stock, This AI Chip Leader Kick Off Earnings Season",
+      "link": "https://www.investors.com/research/earnings-preview/jp-morgan-stock-taiwan-semiconductor-ai-stock-earnings-season/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T16:21:49Z",
+      "image": "",
+      "slug": "jpmorgan-stock-this-ai-chip-leader-kick-off-earnings-season-b05a3491",
+      "orig_slug": "jpmorgan-stock-this-ai-chip-leader-kick-off-earnings-season-b05a3491"
+    },
+    {
+      "title": "Best 6-month CD rates for January 2026: Earn up to 4.05% APY",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-6-month-cd-rates-161216488.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T16:12:16Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/0bRBgpI5Z_uJuwh8Wj_iaA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/391121f0-ece7-11f0-b5e9-f526350924a0",
+      "slug": "best-6-month-cd-rates-for-january-2026-earn-up-to-405-apy-d4d113af",
+      "orig_slug": "best-6-month-cd-rates-for-january-2026-earn-up-to-405-apy-d4d113af"
     },
     {
       "title": "Here’s What the Street Thinks About Amazon.com (AMZN)",
@@ -27,6 +135,15 @@
       "image": "https://media.zenfs.com/en/insidermonkey.com/226ed9ed0936942adb97f3d56073e411",
       "slug": "heres-what-the-street-thinks-about-amazoncom-amzn-c392db45",
       "orig_slug": "heres-what-the-street-thinks-about-amazoncom-amzn-c392db45"
+    },
+    {
+      "title": "4 Tips To Reduce Your Social Security Tax Bill in 2026",
+      "link": "https://finance.yahoo.com/news/social-security-taxes-expect-reduce-155638821.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T16:48:06Z",
+      "image": "https://media.zenfs.com/en/gobankingrates_644/f00a9ee0914d026b1c6e9e6143a78e58",
+      "slug": "4-tips-to-reduce-your-social-security-tax-bill-in-2026-86195185",
+      "orig_slug": "4-tips-to-reduce-your-social-security-tax-bill-in-2026-86195185"
     },
     {
       "title": "Benchmark Co Reiterates a Buy Rating on AppLovin Corporation (APP)",
@@ -47,15 +164,6 @@
       "orig_slug": "heres-what-ubs-thinks-about-eli-lilly-and-company-lly-fa431bfd"
     },
     {
-      "title": "Daily Spotlight: Unemployment Rate Drops to 4.4%",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_45808_MarketOutlook_1767969427000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T14:37:07Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-spotlight-unemployment-rate-drops-to-44-6f76d0b3",
-      "orig_slug": "daily-spotlight-unemployment-rate-drops-to-44-6f76d0b3"
-    },
-    {
       "title": "JPM Raises PT on Taiwan Semiconductor Manufacturing Company Limited (TSM), Keeps a Buy",
       "link": "https://finance.yahoo.com/news/jpm-raises-pt-taiwan-semiconductor-155431616.html",
       "source": "finance.yahoo.com",
@@ -65,15 +173,6 @@
       "orig_slug": "jpm-raises-pt-on-taiwan-semiconductor-manufacturing-company-limited-tsm-keeps-a--8724f5d8"
     },
     {
-      "title": "Campbell Soup Insider Sells $325K in Stock as Shares Fall 33% This Past Year",
-      "link": "https://finance.yahoo.com/news/campbell-soup-insider-sells-325k-155651614.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T15:56:51Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/beb751fe64b83c39e69071ee1b68bd95",
-      "slug": "campbell-soup-insider-sells-325k-in-stock-as-shares-fall-33-this-past-year-5dc07001",
-      "orig_slug": "campbell-soup-insider-sells-325k-in-stock-as-shares-fall-33-this-past-year-5dc07001"
-    },
-    {
       "title": "Here’s What Wall Street Thinks About Amphenol Corporation (APH)",
       "link": "https://finance.yahoo.com/news/wall-street-thinks-amphenol-corporation-155336402.html",
       "source": "finance.yahoo.com",
@@ -81,6 +180,24 @@
       "image": "https://media.zenfs.com/en/insidermonkey.com/5a0c31a287f1a461b600a4e2f52005af",
       "slug": "heres-what-wall-street-thinks-about-amphenol-corporation-aph-a85cf779",
       "orig_slug": "heres-what-wall-street-thinks-about-amphenol-corporation-aph-a85cf779"
+    },
+    {
+      "title": "Iconic Chick-fil-A rival closed over 1,100 stores, no bankruptcy",
+      "link": "https://finance.yahoo.com/news/iconic-fast-food-chain-clings-203700435.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T16:47:46Z",
+      "image": "https://media.zenfs.com/en/thestreet_881/825bf3aaa28d99eb36236bfb61b04410",
+      "slug": "iconic-chick-fil-a-rival-closed-over-1100-stores-no-bankruptcy-13b08ae3",
+      "orig_slug": "iconic-chick-fil-a-rival-closed-over-1100-stores-no-bankruptcy-13b08ae3"
+    },
+    {
+      "title": "Analyst Report: Alliant Energy Corp.",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_3152_AnalystReport_1767961115000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T12:18:35Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-alliant-energy-corp-94dae934",
+      "orig_slug": "analyst-report-alliant-energy-corp-94dae934"
     },
     {
       "title": "Mortgage rate predictions for the next 5 years: A data-driven forecast through 2030",
@@ -110,15 +227,6 @@
       "orig_slug": "how-to-use-options-on-nvidia-stock-with-shares-floundering-206a5028"
     },
     {
-      "title": "1 Dividend King Stock I'd Buy Before Illinois Tool Works in 2026",
-      "link": "https://finance.yahoo.com/news/1-dividend-king-stock-id-155000809.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T15:50:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/68740ceec1a96282c89ad1919ce9ef8e",
-      "slug": "1-dividend-king-stock-id-buy-before-illinois-tool-works-in-2026-e05e6ec2",
-      "orig_slug": "1-dividend-king-stock-id-buy-before-illinois-tool-works-in-2026-e05e6ec2"
-    },
-    {
       "title": "Demand For Google, Palantir Is Mere Peanuts Next To These 3 Stocks",
       "link": "https://www.investors.com/etfs-and-funds/mutual-funds/best-mutual-funds-buy-google-broadcom-palantir-but-place-massive-bets-here/?src=A00220&yptr=yahoo",
       "source": "finance.yahoo.com",
@@ -126,6 +234,24 @@
       "image": "",
       "slug": "demand-for-google-palantir-is-mere-peanuts-next-to-these-3-stocks-620469e8",
       "orig_slug": "demand-for-google-palantir-is-mere-peanuts-next-to-these-3-stocks-620469e8"
+    },
+    {
+      "title": "$10B Employee-Owned Ferguson Wellman Makes First Acquisition",
+      "link": "https://finance.yahoo.com/news/10b-employee-owned-ferguson-wellman-164018027.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T16:40:18Z",
+      "image": "https://media.zenfs.com/en/wealth_management_474/c62071f2601879438c80da04a8d93b6b",
+      "slug": "10b-employee-owned-ferguson-wellman-makes-first-acquisition-e183ac71",
+      "orig_slug": "10b-employee-owned-ferguson-wellman-makes-first-acquisition-e183ac71"
+    },
+    {
+      "title": "Analyst Report: Robinhood Markets Inc",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_6740_AnalystReport_1767961115000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T12:18:35Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-robinhood-markets-inc-96f7b3b8",
+      "orig_slug": "analyst-report-robinhood-markets-inc-96f7b3b8"
     },
     {
       "title": "The Next Blackout Won't Be Caused by a Storm—It Will Be Sparked by a Talent War",
@@ -155,22 +281,31 @@
       "orig_slug": "nationwide-car-insurance-review-2026-37-out-of-5-stars-984cc063"
     },
     {
-      "title": "Ripple Gets Green Light From FCA to Scale Crypto Payments in the UK",
-      "link": "https://finance.yahoo.com/news/ripple-gets-green-light-fca-154852284.html",
+      "title": "Iran Protests Put Supply Risk Back on the Oil Radar",
+      "link": "https://finance.yahoo.com/news/iran-protests-put-supply-risk-151500898.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T15:48:52Z",
-      "image": "https://media.zenfs.com/en/decrypt_157/6f34420c69a28253e19597eba1dc9eb7",
-      "slug": "ripple-gets-green-light-from-fca-to-scale-crypto-payments-in-the-uk-45970e53",
-      "orig_slug": "ripple-gets-green-light-from-fca-to-scale-crypto-payments-in-the-uk-45970e53"
+      "pubDate": "2026-01-09T15:15:00Z",
+      "image": "https://media.zenfs.com/en/oilprice.com/0ba272bf60f8b50454e9bbc0771d9879",
+      "slug": "iran-protests-put-supply-risk-back-on-the-oil-radar-8705fe4d",
+      "orig_slug": "iran-protests-put-supply-risk-back-on-the-oil-radar-8705fe4d"
     },
     {
-      "title": "Stock Market Today: Dow Up After Surprise Jobs Data; Trump Tariff Ruling Looms (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobs-report-trump-tariff/?src=A00220&yptr=yahoo",
+      "title": "The Stock Market Just Did Something It Hasn't Done Since 1950 -- and It's Scary",
+      "link": "https://finance.yahoo.com/news/stock-market-just-did-something-163546881.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T15:14:39Z",
-      "image": "",
-      "slug": "stock-market-today-dow-up-after-surprise-jobs-data-trump-tariff-ruling-looms-liv-bc635248",
-      "orig_slug": "stock-market-today-dow-up-after-surprise-jobs-data-trump-tariff-ruling-looms-liv-bc635248"
+      "pubDate": "2026-01-09T16:35:46Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/5fee7506b3142ff0064b17979a63242c",
+      "slug": "the-stock-market-just-did-something-it-hasnt-done-since-1950----and-its-scary-74fea09f",
+      "orig_slug": "the-stock-market-just-did-something-it-hasnt-done-since-1950----and-its-scary-74fea09f"
+    },
+    {
+      "title": "Technical Assessment: Bullish in the Intermediate-Term",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_45805_TechnicalAnalysis_1767960253000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T12:04:13Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "technical-assessment-bullish-in-the-intermediate-term-8259e927",
+      "orig_slug": "technical-assessment-bullish-in-the-intermediate-term-8259e927"
     },
     {
       "title": "Apartment Investment and Management Company (AIV) is Moving Towards Liquidation",
@@ -191,15 +326,6 @@
       "orig_slug": "heres-why-weightwatchers-ww-rose-in-q4-9e2085f7"
     },
     {
-      "title": "Technical Assessment: Bullish in the Intermediate-Term",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_45805_TechnicalAnalysis_1767960253000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T12:04:13Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "technical-assessment-bullish-in-the-intermediate-term-8259e927",
-      "orig_slug": "technical-assessment-bullish-in-the-intermediate-term-8259e927"
-    },
-    {
       "title": "Factbox-Global companies that have sued the US government for tariff refunds",
       "link": "https://finance.yahoo.com/news/factbox-global-companies-sued-us-150647053.html",
       "source": "finance.yahoo.com",
@@ -207,15 +333,6 @@
       "image": "https://media.zenfs.com/en/reuters.com/6956c374ce44d2de0f3d33d0d06d1dae",
       "slug": "factbox-global-companies-that-have-sued-the-us-government-for-tariff-refunds-c3d276ce",
       "orig_slug": "factbox-global-companies-that-have-sued-the-us-government-for-tariff-refunds-c3d276ce"
-    },
-    {
-      "title": "California Ranch Featured In 'War Of The Worlds' And 'NCIS' Hits The Market For $44M. It Still Has An Ongoing Oil Drilling Operation",
-      "link": "https://finance.yahoo.com/news/california-ranch-featured-war-worlds-154605764.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T15:46:05Z",
-      "image": "https://media.zenfs.com/en/benzinga_79/640e2db78aca63e9ce90a4eaf95ebf28",
-      "slug": "california-ranch-featured-in-war-of-the-worlds-and-ncis-hits-the-market-for-44m--910c2372",
-      "orig_slug": "california-ranch-featured-in-war-of-the-worlds-and-ncis-hits-the-market-for-44m--910c2372"
     },
     {
       "title": "When will mortgage rates go down? The trend into 2026",
@@ -227,22 +344,13 @@
       "orig_slug": "when-will-mortgage-rates-go-down-the-trend-into-2026-4047f6f5"
     },
     {
-      "title": "United Natural Foods (UNFI) Faced a Cyber Attack in June",
-      "link": "https://finance.yahoo.com/news/united-natural-foods-unfi-faced-150553953.html",
+      "title": "Could Nebius Group Stock Help You Become a Millionaire?",
+      "link": "https://finance.yahoo.com/news/could-nebius-group-stock-help-163500096.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T15:05:53Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/8aad6a0d4928fb226af7f0f5d75befbc",
-      "slug": "united-natural-foods-unfi-faced-a-cyber-attack-in-june-e0c7ee20",
-      "orig_slug": "united-natural-foods-unfi-faced-a-cyber-attack-in-june-e0c7ee20"
-    },
-    {
-      "title": "Kingdom Capital Advisors Maintained a Constructive View on Magnera Corporation (MAGN)",
-      "link": "https://finance.yahoo.com/news/kingdom-capital-advisors-maintained-constructive-150300706.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T15:03:00Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/4fb2bf2cbf1fc57fbd0e0601cad2a8a4",
-      "slug": "kingdom-capital-advisors-maintained-a-constructive-view-on-magnera-corporation-m-554923f1",
-      "orig_slug": "kingdom-capital-advisors-maintained-a-constructive-view-on-magnera-corporation-m-554923f1"
+      "pubDate": "2026-01-09T16:35:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/476eb6d7d0821250fc31fa1fab8e9eb3",
+      "slug": "could-nebius-group-stock-help-you-become-a-millionaire-6c9f3546",
+      "orig_slug": "could-nebius-group-stock-help-you-become-a-millionaire-6c9f3546"
     },
     {
       "title": "Market Digest: LNT, STZ, RDDT, HOOD",
@@ -254,87 +362,6 @@
       "orig_slug": "market-digest-lnt-stz-rddt-hood-ead9de06"
     },
     {
-      "title": "Do You Believe in TSS’s (TSSI) Growth Potential?",
-      "link": "https://finance.yahoo.com/news/believe-tss-tssi-growth-potential-150113130.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T15:01:13Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/161e487ed0701ee910d79d8e825621bb",
-      "slug": "do-you-believe-in-tsss-tssi-growth-potential-4d8c0944",
-      "orig_slug": "do-you-believe-in-tsss-tssi-growth-potential-4d8c0944"
-    },
-    {
-      "title": "New Jump Report Delivers Advisor-Client Insights Never Seen Before",
-      "link": "https://finance.yahoo.com/news/jump-report-delivers-advisor-client-154603452.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T15:46:03Z",
-      "image": "https://media.zenfs.com/en/wealth_management_474/6263ea40d3049b9f7641a08b8ba68621",
-      "slug": "new-jump-report-delivers-advisor-client-insights-never-seen-before-6d35b2ae",
-      "orig_slug": "new-jump-report-delivers-advisor-client-insights-never-seen-before-6d35b2ae"
-    },
-    {
-      "title": "This 20-year old lotto winner refused $1M in cash and chose $1,000/week for life. Which option would you pick?",
-      "link": "https://finance.yahoo.com/news/20-old-lotto-winner-refused-150100218.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T15:01:00Z",
-      "image": "https://media.zenfs.com/en/moneywise_ecomm_711/51d8379d4b06440f35a12f7392c8bb6c",
-      "slug": "this-20-year-old-lotto-winner-refused-1m-in-cash-and-chose-1000week-for-life-whi-9768c641",
-      "orig_slug": "this-20-year-old-lotto-winner-refused-1m-in-cash-and-chose-1000week-for-life-whi-9768c641"
-    },
-    {
-      "title": "Should You Scale in 2026? The Questions That Matter More Than Truck Counts",
-      "link": "https://finance.yahoo.com/news/scale-2026-questions-matter-more-145939794.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T14:59:39Z",
-      "image": "https://media.zenfs.com/en/freightwaves_373/47d5235cd68c3afb54e286dcb2cc02d5",
-      "slug": "should-you-scale-in-2026-the-questions-that-matter-more-than-truck-counts-cc7b623e",
-      "orig_slug": "should-you-scale-in-2026-the-questions-that-matter-more-than-truck-counts-cc7b623e"
-    },
-    {
-      "title": "Susquehanna says TL recovery requires kick start from demand",
-      "link": "https://finance.yahoo.com/news/susquehanna-says-tl-recovery-requires-145805529.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T14:58:05Z",
-      "image": "https://media.zenfs.com/en/freightwaves_373/367d05cac725fe843f45100b96b9b19d",
-      "slug": "susquehanna-says-tl-recovery-requires-kick-start-from-demand-fe03b52c",
-      "orig_slug": "susquehanna-says-tl-recovery-requires-kick-start-from-demand-fe03b52c"
-    },
-    {
-      "title": "Daily – Vickers Top Buyers & Sellers for 01/09/2026",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_45802_TopBottomInsiderActivity_1767959464000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T11:51:04Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-vickers-top-buyers-sellers-for-01092026-353e7819",
-      "orig_slug": "daily-vickers-top-buyers-sellers-for-01092026-353e7819"
-    },
-    {
-      "title": "Google Stock Poised To Pop. Why More Gains May Be Coming.",
-      "link": "https://www.investors.com/research/ibd-stock-analysis/google-stock-poised-to-pop-waymo-could-drive-more-gains/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T14:52:05Z",
-      "image": "",
-      "slug": "google-stock-poised-to-pop-why-more-gains-may-be-coming-5f458c4b",
-      "orig_slug": "google-stock-poised-to-pop-why-more-gains-may-be-coming-5f458c4b"
-    },
-    {
-      "title": "1 Stock I'd Buy Before JMIA in 2026",
-      "link": "https://finance.yahoo.com/news/1-stock-id-buy-jmia-154500550.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T15:45:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/db4b9048db91072b252164aa51acde65",
-      "slug": "1-stock-id-buy-before-jmia-in-2026-dc5ef79a",
-      "orig_slug": "1-stock-id-buy-before-jmia-in-2026-dc5ef79a"
-    },
-    {
-      "title": "Net Lease Office Properties (NLOP) Share Appreciated Despite Liquidation Plan",
-      "link": "https://finance.yahoo.com/news/net-lease-office-properties-nlop-145106913.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T14:51:06Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/92387a288788f9ce198dc19585524562",
-      "slug": "net-lease-office-properties-nlop-share-appreciated-despite-liquidation-plan-799149e5",
-      "orig_slug": "net-lease-office-properties-nlop-share-appreciated-despite-liquidation-plan-799149e5"
-    },
-    {
       "title": "IRS will start accepting tax returns on Jan. 26 for 2026 filing season",
       "link": "https://finance.yahoo.com/personal-finance/taxes/article/irs-will-start-accepting-tax-returns-on-jan-26-for-2026-filing-season-212136973.html",
       "source": "finance.yahoo.com",
@@ -342,60 +369,6 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/NFzplK9j8wixFaHKWIIV_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/ca771f30-a487-11f0-bbfe-34f557ad72b4",
       "slug": "irs-will-start-accepting-tax-returns-on-jan-26-for-2026-filing-season-db7c6644",
       "orig_slug": "irs-will-start-accepting-tax-returns-on-jan-26-for-2026-filing-season-db7c6644"
-    },
-    {
-      "title": "Enviri Corporation (NVRI): Kingdom Capital Advisors’ Top Contributor",
-      "link": "https://finance.yahoo.com/news/enviri-corporation-nvri-kingdom-capital-144932026.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T14:49:32Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/0fb2762e1308919e5808f6a5c5c4d220",
-      "slug": "enviri-corporation-nvri-kingdom-capital-advisors-top-contributor-9d5b210d",
-      "orig_slug": "enviri-corporation-nvri-kingdom-capital-advisors-top-contributor-9d5b210d"
-    },
-    {
-      "title": "Daily – Vickers Top Insider Picks for 01/09/2026",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_45801_InsiderActivity_1767959464000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T11:51:04Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-vickers-top-insider-picks-for-01092026-e70f36a7",
-      "orig_slug": "daily-vickers-top-insider-picks-for-01092026-e70f36a7"
-    },
-    {
-      "title": "Meta Sends These Nuclear Stocks Higher After Inking New Round Of Data Center Deals",
-      "link": "https://www.investors.com/news/meta-nuclear-stocks-run-higher-after-new-round-of-data-center-deals/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T14:49:23Z",
-      "image": "",
-      "slug": "meta-sends-these-nuclear-stocks-higher-after-inking-new-round-of-data-center-dea-ccaa1ef9",
-      "orig_slug": "meta-sends-these-nuclear-stocks-higher-after-inking-new-round-of-data-center-dea-ccaa1ef9"
-    },
-    {
-      "title": "This Adviser Put $9 Million Into a Golf Stock Up 55% Despite a $15 Million Quarterly Loss",
-      "link": "https://finance.yahoo.com/news/adviser-put-9-million-golf-154010604.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T15:40:10Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/c56e3568847fb09dd7f84c439c528236",
-      "slug": "this-adviser-put-9-million-into-a-golf-stock-up-55-despite-a-15-million-quarterl-0ee3e6a1",
-      "orig_slug": "this-adviser-put-9-million-into-a-golf-stock-up-55-despite-a-15-million-quarterl-0ee3e6a1"
-    },
-    {
-      "title": "Airline Scores Breakout, Receives Double Upgrade. Delta Earnings On Deck.",
-      "link": "https://www.investors.com/news/southwest-airlines-luv-stock-double-upgrade-q4-airline-earnings-outlook/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T14:40:54Z",
-      "image": "",
-      "slug": "airline-scores-breakout-receives-double-upgrade-delta-earnings-on-deck-f28621f2",
-      "orig_slug": "airline-scores-breakout-receives-double-upgrade-delta-earnings-on-deck-f28621f2"
-    },
-    {
-      "title": "Susquehanna upgrades American Airlines and Sun Country on projected demand recovery",
-      "link": "https://finance.yahoo.com/news/susquehanna-upgrades-american-airlines-sun-143851152.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T14:38:51Z",
-      "image": "https://media.zenfs.com/en/freightwaves_373/22f14b519b794bf6140a8c2304bfe94c",
-      "slug": "susquehanna-upgrades-american-airlines-and-sun-country-on-projected-demand-recov-11fda81f",
-      "orig_slug": "susquehanna-upgrades-american-airlines-and-sun-country-on-projected-demand-recov-11fda81f"
     },
     {
       "title": "Mercury car insurance review 2026: 2.9 out of 5 stars",
@@ -407,22 +380,58 @@
       "orig_slug": "mercury-car-insurance-review-2026-29-out-of-5-stars-8e9adc5d"
     },
     {
-      "title": "US equity funds see weekly outflows on geopolitical, rate worries",
-      "link": "https://finance.yahoo.com/news/us-equity-funds-see-weekly-143642843.html",
+      "title": "Gold price today, Friday, January 9: Gold nears $4,500 per ounce",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-friday-january-9-gold-nears-4500-per-ounce-121857325.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T14:36:42Z",
-      "image": "https://media.zenfs.com/en/reuters.com/2fc4c95f3e78a2268a11b97665fe130a",
-      "slug": "us-equity-funds-see-weekly-outflows-on-geopolitical-rate-worries-310fa92b",
-      "orig_slug": "us-equity-funds-see-weekly-outflows-on-geopolitical-rate-worries-310fa92b"
+      "pubDate": "2026-01-05T12:18:57Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/aWaWnIbi5BX_E1GSCU8txA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/3e495ec0-b0cf-11f0-9eff-b6d8878d384d",
+      "slug": "gold-price-today-friday-january-9-gold-nears-4500-per-ounce-05afda39",
+      "orig_slug": "gold-price-today-friday-january-9-gold-nears-4500-per-ounce-05afda39"
     },
     {
-      "title": "Why Did QXO Stock Hit a 52-Week High This Week?",
-      "link": "https://finance.yahoo.com/news/why-did-qxo-stock-hit-153922394.html",
+      "title": "Best money market account rates today, January 8, 2026 (earn up to 4.1% APY)",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-thursday-january-8-2026-110054826.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T15:39:22Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/5d92baddbbc8bff33060315a8109ee76",
-      "slug": "why-did-qxo-stock-hit-a-52-week-high-this-week-5647b6b7",
-      "orig_slug": "why-did-qxo-stock-hit-a-52-week-high-this-week-5647b6b7"
+      "pubDate": "2026-01-08T11:00:54Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/ZtU3O8e27vm2THzYgLOq4w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/1aac32e0-1b28-11f0-bfbf-e6f1fb0fa991",
+      "slug": "best-money-market-account-rates-today-january-8-2026-earn-up-to-41-apy-b657b8dd",
+      "orig_slug": "best-money-market-account-rates-today-january-8-2026-earn-up-to-41-apy-b657b8dd"
+    },
+    {
+      "title": "Why Constellation Energy Stock Popped Today",
+      "link": "https://finance.yahoo.com/news/why-constellation-energy-stock-popped-162901701.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T16:29:01Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/eb87e98afa5c0eaaf2aa05d971c6d41f",
+      "slug": "why-constellation-energy-stock-popped-today-a5a7d3a1",
+      "orig_slug": "why-constellation-energy-stock-popped-today-a5a7d3a1"
+    },
+    {
+      "title": "Daily – Vickers Top Insider Picks for 01/09/2026",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_45801_InsiderActivity_1767959464000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T11:51:04Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "daily-vickers-top-insider-picks-for-01092026-e70f36a7",
+      "orig_slug": "daily-vickers-top-insider-picks-for-01092026-e70f36a7"
+    },
+    {
+      "title": "Best high-yield savings interest rates today, January 8, 2026 (top account pays 4% APY)",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-thursday-january-8-2026-110057828.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-08T11:00:57Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/j.Q7K.PM0AVOB0rxpGj2YA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/0b8d03a0-4eb6-11ef-bffd-16e2b437d0c3",
+      "slug": "best-high-yield-savings-interest-rates-today-january-8-2026-top-account-pays-4-a-3518051c",
+      "orig_slug": "best-high-yield-savings-interest-rates-today-january-8-2026-top-account-pays-4-a-3518051c"
+    },
+    {
+      "title": "Best CD rates today, January 8, 2026 (lock in up to 4.1% APY)",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-january-8-2026-lock-in-up-to-410-apy-110004312.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-08T11:00:04Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/ZUb6Vxjvr9QTQlhugSpWpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47af0d1-4f64-11ef-94fa-3befcbf0f2e3",
+      "slug": "best-cd-rates-today-january-8-2026-lock-in-up-to-41-apy-1210686c",
+      "orig_slug": "best-cd-rates-today-january-8-2026-lock-in-up-to-41-apy-1210686c"
     }
   ]
 }
