@@ -1,14 +1,311 @@
 {
-  "updated": "2026-01-10T08:16:46Z",
+  "updated": "2026-01-10T09:13:11Z",
   "items": [
     {
-      "title": "Rokos Capital delivers strong performance in banner year for macro hedge funds",
-      "link": "https://finance.yahoo.com/news/rokos-capital-delivers-strong-performance-033852252.html",
+      "title": "Bitcoin and Ethereum Pinned at Max Pain as $2.2 Billion Options Expire into Macro Storm",
+      "link": "https://finance.yahoo.com/news/bitcoin-ethereum-pinned-max-pain-055809174.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T03:38:52Z",
-      "image": "https://media.zenfs.com/en/business_insider_articles_888/95a67d9ec7a8aca7b9114adecd9045a4",
-      "slug": "rokos-capital-delivers-strong-performance-in-banner-year-for-macro-hedge-funds-39b00d9f",
-      "orig_slug": "rokos-capital-delivers-strong-performance-in-banner-year-for-macro-hedge-funds-39b00d9f"
+      "pubDate": "2026-01-09T05:58:09Z",
+      "image": "https://media.zenfs.com/en/beincrypto_us_662/b4c3fe4e770d4adec78576f02bddd6cd",
+      "slug": "bitcoin-and-ethereum-pinned-at-max-pain-as-22-billion-options-expire-into-macro--a3f46b00",
+      "orig_slug": "bitcoin-and-ethereum-pinned-at-max-pain-as-22-billion-options-expire-into-macro--a3f46b00"
+    },
+    {
+      "title": "Musk's xAI to invest over $20 billion in Mississippi data center",
+      "link": "https://finance.yahoo.com/news/musks-xai-invest-over-20-054524916.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T05:45:24Z",
+      "image": "https://s.yimg.com/os/en/reuters-finance.com/d276cc355e03f446be2d2ce63ca0ecb2",
+      "slug": "musks-xai-to-invest-over-20-billion-in-mississippi-data-center-733fef64",
+      "orig_slug": "musks-xai-to-invest-over-20-billion-in-mississippi-data-center-733fef64"
+    },
+    {
+      "title": "Wall Street rises to records after the unemployment rate improves",
+      "link": "https://finance.yahoo.com/news/asian-shares-rise-us-futures-044116480.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T04:41:16Z",
+      "image": "https://media.zenfs.com/en/ap_finance_articles_694/0c317a715f78ab8af1b5f48e19783387",
+      "slug": "wall-street-rises-to-records-after-the-unemployment-rate-improves-5cdb4150",
+      "orig_slug": "wall-street-rises-to-records-after-the-unemployment-rate-improves-5cdb4150"
+    },
+    {
+      "title": "I'm 62 With $900K in a 401(k). Should I Convert $90K Per Year to Cut Taxes and RMDs?",
+      "link": "https://finance.yahoo.com/news/im-62-900-000-401-142054024.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T05:00:00Z",
+      "image": "https://media.zenfs.com/en/smartasset_475/e174b8d6244be80e5d853f3f3c142c2a",
+      "slug": "im-62-with-900k-in-a-401k-should-i-convert-90k-per-year-to-cut-taxes-and-rmds-f5b1365e",
+      "orig_slug": "im-62-with-900k-in-a-401k-should-i-convert-90k-per-year-to-cut-taxes-and-rmds-f5b1365e"
+    },
+    {
+      "title": "South Korea to open FX market around the clock, in bid for MSCI upgrade",
+      "link": "https://finance.yahoo.com/news/south-korea-open-fx-market-050556053.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T05:05:56Z",
+      "image": "https://s.yimg.com/os/en/reuters.com/1caa6eccad6affcbf442f32ac144b15e",
+      "slug": "south-korea-to-open-fx-market-around-the-clock-in-bid-for-msci-upgrade-47890526",
+      "orig_slug": "south-korea-to-open-fx-market-around-the-clock-in-bid-for-msci-upgrade-47890526"
+    },
+    {
+      "title": "Rio Tinto, Glencore Restart Talks to Form World’s Biggest Miner",
+      "link": "https://www.wsj.com/business/glencore-rio-tinto-restart-merger-talks-64a763ef?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T05:59:00Z",
+      "image": "",
+      "slug": "rio-tinto-glencore-restart-talks-to-form-worlds-biggest-miner-ad92800f",
+      "orig_slug": "rio-tinto-glencore-restart-talks-to-form-worlds-biggest-miner-ad92800f"
+    },
+    {
+      "title": "Chinese automaker Xpeng touts AI pivot in face of fierce competition",
+      "link": "https://finance.yahoo.com/news/chinese-automaker-xpeng-touts-ai-051232947.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T05:12:32Z",
+      "image": "https://s.yimg.com/os/en/reuters-finance.com/ab082b4cd3c9938d90049fefb616dd8e",
+      "slug": "chinese-automaker-xpeng-touts-ai-pivot-in-face-of-fierce-competition-a397c8c8",
+      "orig_slug": "chinese-automaker-xpeng-touts-ai-pivot-in-face-of-fierce-competition-a397c8c8"
+    },
+    {
+      "title": "Trump says he wants government to buy $200B in mortgage bonds in a push to bring down mortgage rates",
+      "link": "https://finance.yahoo.com/news/trump-says-wants-government-buy-214700427.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-08T21:47:00Z",
+      "image": "https://media.zenfs.com/en/ap_finance_articles_694/ee8a0e89f9214baed5497c87a1ccb2fa",
+      "slug": "trump-says-he-wants-government-to-buy-200b-in-mortgage-bonds-in-a-push-to-bring--49d88095",
+      "orig_slug": "trump-says-he-wants-government-to-buy-200b-in-mortgage-bonds-in-a-push-to-bring--49d88095"
+    },
+    {
+      "title": "Can a Nursing Home Take Your Assets If You Have a $250K IRA and a Home?",
+      "link": "https://finance.yahoo.com/news/nursing-home-savings-250k-ira-133540731.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T07:00:00Z",
+      "image": "https://s.yimg.com/os/en/smartasset_475/d5fb980ddae51168b181acbaccb25615",
+      "slug": "can-a-nursing-home-take-your-assets-if-you-have-a-250k-ira-and-a-home-5049c7f4",
+      "orig_slug": "can-a-nursing-home-take-your-assets-if-you-have-a-250k-ira-and-a-home-5049c7f4"
+    },
+    {
+      "title": "Jim Cramer Says Amazon “Never Should Have Underperformed to Begin With”",
+      "link": "https://finance.yahoo.com/news/jim-cramer-says-amazon-never-081645378.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T08:16:45Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/990b7edf68d640b729ce75bb5a0624ac",
+      "slug": "jim-cramer-says-amazon-never-should-have-underperformed-to-begin-with-e7e5ad3c",
+      "orig_slug": "jim-cramer-says-amazon-never-should-have-underperformed-to-begin-with-e7e5ad3c"
+    },
+    {
+      "title": "Stablecoin Transactions Soared 72% in 2025, Hit $33T With USDC in Lead",
+      "link": "https://finance.yahoo.com/news/stablecoin-transactions-soared-72-2025-054951388.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T05:49:51Z",
+      "image": "https://s.yimg.com/os/en/cryptonews_us_711/448069dca2e297d9505c4191f9bb52e4",
+      "slug": "stablecoin-transactions-soared-72-in-2025-hit-33t-with-usdc-in-lead-338475d2",
+      "orig_slug": "stablecoin-transactions-soared-72-in-2025-hit-33t-with-usdc-in-lead-338475d2"
+    },
+    {
+      "title": "Alvotech (ALVO) Secures $100 Million in New Financing",
+      "link": "https://finance.yahoo.com/news/alvotech-alvo-secures-100-million-081655071.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T08:16:55Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/30bb0d86b3dbc1d7c24ccfc5ba3fb3b4",
+      "slug": "alvotech-alvo-secures-100-million-in-new-financing-44718fe8",
+      "orig_slug": "alvotech-alvo-secures-100-million-in-new-financing-44718fe8"
+    },
+    {
+      "title": "Analysts Lower Ultragenyx (RARE) Target but Stay Bullish",
+      "link": "https://finance.yahoo.com/news/analysts-lower-ultragenyx-rare-target-081645800.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T08:16:45Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/62942d2993cc235b7ac3e91c61665111",
+      "slug": "analysts-lower-ultragenyx-rare-target-but-stay-bullish-c91556db",
+      "orig_slug": "analysts-lower-ultragenyx-rare-target-but-stay-bullish-c91556db"
+    },
+    {
+      "title": "Jim Cramer on USA Rare Earth: “I Can’t Bless It”",
+      "link": "https://finance.yahoo.com/news/jim-cramer-usa-rare-earth-081656181.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T08:16:56Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/909f75c9b4d705d8380a2443e4a2797a",
+      "slug": "jim-cramer-on-usa-rare-earth-i-cant-bless-it-92eecc54",
+      "orig_slug": "jim-cramer-on-usa-rare-earth-i-cant-bless-it-92eecc54"
+    },
+    {
+      "title": "Jim Cramer on Sweetgreen: “They’ve Got to Start Making Money”",
+      "link": "https://finance.yahoo.com/news/jim-cramer-sweetgreen-ve-got-081649038.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T08:16:49Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/293138d34069d99e680c827f55215206",
+      "slug": "jim-cramer-on-sweetgreen-theyve-got-to-start-making-money-dec8cb8c",
+      "orig_slug": "jim-cramer-on-sweetgreen-theyve-got-to-start-making-money-dec8cb8c"
+    },
+    {
+      "title": "Natixis CIB's Narain on APAC M&A Outlook",
+      "link": "https://finance.yahoo.com/video/natixis-cibs-narain-apac-m-061919108.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T06:19:19Z",
+      "image": "https://media.zenfs.com/en/bloomberg_markets_video_2/7d5434cf6c22e5b6e056bcc39d1c34e5",
+      "slug": "natixis-cibs-narain-on-apac-ma-outlook-15118cdf",
+      "orig_slug": "natixis-cibs-narain-on-apac-ma-outlook-15118cdf"
+    },
+    {
+      "title": "UBS Gives Zai Lab (ZLAB) a Buy Rating",
+      "link": "https://finance.yahoo.com/news/ubs-gives-zai-lab-zlab-081650348.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T08:16:50Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/ac36945dcc562504b57b471a72d8fa6f",
+      "slug": "ubs-gives-zai-lab-zlab-a-buy-rating-6d07e01c",
+      "orig_slug": "ubs-gives-zai-lab-zlab-a-buy-rating-6d07e01c"
+    },
+    {
+      "title": "Price Targets Lowered on Corcept Therapeutics (CORT) After FDA Letter",
+      "link": "https://finance.yahoo.com/news/price-targets-lowered-corcept-therapeutics-081646227.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T08:16:46Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/819d79dd60fe8039d70f40a0d7bf8cca",
+      "slug": "price-targets-lowered-on-corcept-therapeutics-cort-after-fda-letter-450e1c0e",
+      "orig_slug": "price-targets-lowered-on-corcept-therapeutics-cort-after-fda-letter-450e1c0e"
+    },
+    {
+      "title": "Jim Cramer on Teradyne: “I Would Not Step Away From It”",
+      "link": "https://finance.yahoo.com/news/jim-cramer-teradyne-not-step-081654876.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T08:16:54Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/d33bdc283f11c51e1edf5a2884041b55",
+      "slug": "jim-cramer-on-teradyne-i-would-not-step-away-from-it-a6fc1388",
+      "orig_slug": "jim-cramer-on-teradyne-i-would-not-step-away-from-it-a6fc1388"
+    },
+    {
+      "title": "Jim Cramer on Oracle: “I’m Not Really Sure About Their Business Model”",
+      "link": "https://finance.yahoo.com/news/jim-cramer-oracle-m-not-081651619.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T08:16:51Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/550b7b32810fca720730932cab25a9bb",
+      "slug": "jim-cramer-on-oracle-im-not-really-sure-about-their-business-model-f93d2dd8",
+      "orig_slug": "jim-cramer-on-oracle-im-not-really-sure-about-their-business-model-f93d2dd8"
+    },
+    {
+      "title": "Oil Isn’t the Only Commodity at Play in the U.S. Ouster of Maduro",
+      "link": "https://www.barrons.com/articles/venezuela-maduro-oil-critical-minerals-lithium-copper-gold-94c43700?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T06:30:00Z",
+      "image": "",
+      "slug": "oil-isnt-the-only-commodity-at-play-in-the-us-ouster-of-maduro-6fe6913a",
+      "orig_slug": "oil-isnt-the-only-commodity-at-play-in-the-us-ouster-of-maduro-6fe6913a"
+    },
+    {
+      "title": "Here’s What Analysts Think About Telix Pharmaceuticals (TLX)",
+      "link": "https://finance.yahoo.com/news/analysts-think-telix-pharmaceuticals-tlx-081654286.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T08:16:54Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/89770f592a85af3f398560eb8eb699e7",
+      "slug": "heres-what-analysts-think-about-telix-pharmaceuticals-tlx-f44cb86b",
+      "orig_slug": "heres-what-analysts-think-about-telix-pharmaceuticals-tlx-f44cb86b"
+    },
+    {
+      "title": "Jim Cramer Says “Taiwan Semi Is a Very Good Company”",
+      "link": "https://finance.yahoo.com/news/jim-cramer-says-taiwan-semi-081652388.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T08:16:52Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/de8df6d5dadb2d673b307341d6e5e10b",
+      "slug": "jim-cramer-says-taiwan-semi-is-a-very-good-company-eb9c1b68",
+      "orig_slug": "jim-cramer-says-taiwan-semi-is-a-very-good-company-eb9c1b68"
+    },
+    {
+      "title": "MARA Holdings (MARA) Faces Pressure After Bitcoin Drop",
+      "link": "https://finance.yahoo.com/news/mara-holdings-mara-faces-pressure-081652953.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T08:16:52Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/c7b4d0e05ca5b213d76cce5001de89ba",
+      "slug": "mara-holdings-mara-faces-pressure-after-bitcoin-drop-8a857ba6",
+      "orig_slug": "mara-holdings-mara-faces-pressure-after-bitcoin-drop-8a857ba6"
+    },
+    {
+      "title": "RBC Capital and Mizuho Securities Stay Bullish on Surgery Partners (SGRY)",
+      "link": "https://finance.yahoo.com/news/rbc-capital-mizuho-securities-stay-081657830.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T08:16:57Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/2543093d79cc825398eea9ac37f71e31",
+      "slug": "rbc-capital-and-mizuho-securities-stay-bullish-on-surgery-partners-sgry-7d49620a",
+      "orig_slug": "rbc-capital-and-mizuho-securities-stay-bullish-on-surgery-partners-sgry-7d49620a"
+    },
+    {
+      "title": "Treasury doesn’t understand risks of shadow banking bubble, Lords warn",
+      "link": "https://finance.yahoo.com/news/treasury-doesn-t-understand-risks-063000683.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T06:30:00Z",
+      "image": "https://media.zenfs.com/en/the_telegraph_258/b9330a0870508287eb444a1c5c80ef07",
+      "slug": "treasury-doesnt-understand-risks-of-shadow-banking-bubble-lords-warn-f6959fdf",
+      "orig_slug": "treasury-doesnt-understand-risks-of-shadow-banking-bubble-lords-warn-f6959fdf"
+    },
+    {
+      "title": "Jim Cramer on Cheniere Energy: “It’s Not My Favorite Right Here”",
+      "link": "https://finance.yahoo.com/news/jim-cramer-cheniere-energy-not-081647048.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T08:16:47Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/3d514494e70559fab2160c9e252902be",
+      "slug": "jim-cramer-on-cheniere-energy-its-not-my-favorite-right-here-ed1f7abf",
+      "orig_slug": "jim-cramer-on-cheniere-energy-its-not-my-favorite-right-here-ed1f7abf"
+    },
+    {
+      "title": "Soleno Therapeutics (SLNO) Among Stocks That Will Bounce Back According to Analysts",
+      "link": "https://finance.yahoo.com/news/soleno-therapeutics-slno-among-stocks-081648164.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T08:16:48Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/2f78fead5594bb342fb5f189e04643d0",
+      "slug": "soleno-therapeutics-slno-among-stocks-that-will-bounce-back-according-to-analyst-6974a4e0",
+      "orig_slug": "soleno-therapeutics-slno-among-stocks-that-will-bounce-back-according-to-analyst-6974a4e0"
+    },
+    {
+      "title": "Jim Cramer on Fifth Third Bancorp: “I Think It’s a Buy”",
+      "link": "https://finance.yahoo.com/news/jim-cramer-fifth-third-bancorp-081658650.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T08:16:58Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/04816330227784e99fa139754a436e25",
+      "slug": "jim-cramer-on-fifth-third-bancorp-i-think-its-a-buy-55bffd15",
+      "orig_slug": "jim-cramer-on-fifth-third-bancorp-i-think-its-a-buy-55bffd15"
+    },
+    {
+      "title": "Piper Sandler and DA Davidson Have a Neutral View on Five9 (FIVN)",
+      "link": "https://finance.yahoo.com/news/piper-sandler-da-davidson-neutral-081659330.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T08:16:59Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/3f9695b288b943dc1be35cb72c415c03",
+      "slug": "piper-sandler-and-da-davidson-have-a-neutral-view-on-five9-fivn-fe6c4aa7",
+      "orig_slug": "piper-sandler-and-da-davidson-have-a-neutral-view-on-five9-fivn-fe6c4aa7"
+    },
+    {
+      "title": "1 Stock I'd Buy Before DEO in 2026",
+      "link": "https://finance.yahoo.com/news/1-stock-id-buy-deo-074700057.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T07:47:00Z",
+      "image": "https://s.yimg.com/os/en/motleyfool.com/7cf3359a3f547a8e0171945f2ba01e9d",
+      "slug": "1-stock-id-buy-before-deo-in-2026-4ab4e9b8",
+      "orig_slug": "1-stock-id-buy-before-deo-in-2026-4ab4e9b8"
+    },
+    {
+      "title": "Jim Cramer on SI-BONE: “This is a Great, Great Speculation”",
+      "link": "https://finance.yahoo.com/news/jim-cramer-si-bone-great-081700434.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T08:17:00Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/344bd6a9038b9f32ae261446499b0a77",
+      "slug": "jim-cramer-on-si-bone-this-is-a-great-great-speculation-5c648938",
+      "orig_slug": "jim-cramer-on-si-bone-this-is-a-great-great-speculation-5c648938"
+    },
+    {
+      "title": "Jim Cramer Highlights The Change of Management in Kraft Heinz",
+      "link": "https://finance.yahoo.com/news/jim-cramer-highlights-change-management-081704633.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T08:17:04Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/caba07cba7712e8105277a3c1c37acf4",
+      "slug": "jim-cramer-highlights-the-change-of-management-in-kraft-heinz-02b2d72d",
+      "orig_slug": "jim-cramer-highlights-the-change-of-management-in-kraft-heinz-02b2d72d"
+    },
+    {
+      "title": "Jim Cramer Prefers Home Depot Over Fortune Brands as a Housing Play",
+      "link": "https://finance.yahoo.com/news/jim-cramer-prefers-home-depot-081702792.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T08:17:02Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/92264ef32b70332cc4ea9283d978e1a6",
+      "slug": "jim-cramer-prefers-home-depot-over-fortune-brands-as-a-housing-play-9f4b9aa5",
+      "orig_slug": "jim-cramer-prefers-home-depot-over-fortune-brands-as-a-housing-play-9f4b9aa5"
     },
     {
       "title": "Neogen (NEOG) Hits 10-Month High on Earnings, Upbeat Outlook",
@@ -18,6 +315,15 @@
       "image": "https://s.yimg.com/os/en/insidermonkey.com/9566e54eafdb7eb193f977b607cfa6dd",
       "slug": "neogen-neog-hits-10-month-high-on-earnings-upbeat-outlook-5b77b5cc",
       "orig_slug": "neogen-neog-hits-10-month-high-on-earnings-upbeat-outlook-5b77b5cc"
+    },
+    {
+      "title": "Sainsbury’s Raises Free-Cash-Flow Outlook After Sales Growth",
+      "link": "https://www.wsj.com/business/retail/sainsburys-raises-free-cash-flow-outlook-after-sales-growth-676b753a?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-09T07:50:00Z",
+      "image": "",
+      "slug": "sainsburys-raises-free-cash-flow-outlook-after-sales-growth-5d299f0d",
+      "orig_slug": "sainsburys-raises-free-cash-flow-outlook-after-sales-growth-5d299f0d"
     },
     {
       "title": "Ondas Holdings (ONDS) Soars to All-Time High Ahead of Business Updates",
@@ -47,15 +353,6 @@
       "orig_slug": "kratos-ktos-climbs-to-3-month-high-as-trump-pushes-for-15-trillion-defense-spend-1cbfd946"
     },
     {
-      "title": "BNP's Mateos y Lago on Outlook for 2026",
-      "link": "https://finance.yahoo.com/video/bnps-mateos-y-lago-outlook-033815980.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T03:38:15Z",
-      "image": "https://media.zenfs.com/en/bloomberg_markets_video_2/f5f024c5aa4d2cc4c2c81821c39616f1",
-      "slug": "bnps-mateos-y-lago-on-outlook-for-2026-c88ce1f1",
-      "orig_slug": "bnps-mateos-y-lago-on-outlook-for-2026-c88ce1f1"
-    },
-    {
       "title": "Analyst Downgrades Gulfport Energy (GPOR) to ‘Peer Perform’",
       "link": "https://finance.yahoo.com/news/analyst-downgrades-gulfport-energy-gpor-030034329.html",
       "source": "finance.yahoo.com",
@@ -63,303 +360,6 @@
       "image": "https://media.zenfs.com/en/insidermonkey.com/686d3460f3ed55884ae0b298ce2e378c",
       "slug": "analyst-downgrades-gulfport-energy-gpor-to-peer-perform-e6b83b6c",
       "orig_slug": "analyst-downgrades-gulfport-energy-gpor-to-peer-perform-e6b83b6c"
-    },
-    {
-      "title": "Canadian Natural Resources (CNQ) – Among the Energy Stocks that Fell This Week",
-      "link": "https://finance.yahoo.com/news/canadian-natural-resources-cnq-among-030036073.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T03:00:36Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/0f13785d9318b1b8fc5b7c01ed47cf97",
-      "slug": "canadian-natural-resources-cnq-among-the-energy-stocks-that-fell-this-week-0c5c7ec8",
-      "orig_slug": "canadian-natural-resources-cnq-among-the-energy-stocks-that-fell-this-week-0c5c7ec8"
-    },
-    {
-      "title": "Here is Why Cenovus Energy (CVE) Fell This Week",
-      "link": "https://finance.yahoo.com/news/why-cenovus-energy-cve-fell-030040072.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T03:00:40Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/311e7140e140ac450c57aadfd2eaaa58",
-      "slug": "here-is-why-cenovus-energy-cve-fell-this-week-dbf7e9af",
-      "orig_slug": "here-is-why-cenovus-energy-cve-fell-this-week-dbf7e9af"
-    },
-    {
-      "title": "Jefferies Remains Cautious on First Solar (FSLR), Cuts Target to $260",
-      "link": "https://finance.yahoo.com/news/jefferies-remains-cautious-first-solar-030037527.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T03:00:37Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/a399a984219861dff070da739c021c13",
-      "slug": "jefferies-remains-cautious-on-first-solar-fslr-cuts-target-to-260-e3b6e29a",
-      "orig_slug": "jefferies-remains-cautious-on-first-solar-fslr-cuts-target-to-260-e3b6e29a"
-    },
-    {
-      "title": "US Bitcoin ETFs Clock Three-Day Outflow Streak as Risk Appetite Cools",
-      "link": "https://finance.yahoo.com/news/us-bitcoin-etfs-clock-three-034647633.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T03:46:47Z",
-      "image": "https://media.zenfs.com/en/decrypt_157/c1d96296f71772c796947f341ab6a117",
-      "slug": "us-bitcoin-etfs-clock-three-day-outflow-streak-as-risk-appetite-cools-accee40e",
-      "orig_slug": "us-bitcoin-etfs-clock-three-day-outflow-streak-as-risk-appetite-cools-accee40e"
-    },
-    {
-      "title": "EOG Resources (EOG) Price Target Cut by $18",
-      "link": "https://finance.yahoo.com/news/eog-resources-eog-price-target-030045535.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T03:00:45Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/2dee577f606a4142b6884884737cf7de",
-      "slug": "eog-resources-eog-price-target-cut-by-18-c5cef56f",
-      "orig_slug": "eog-resources-eog-price-target-cut-by-18-c5cef56f"
-    },
-    {
-      "title": "Deutsche Bank Trims Price Target on Sunrun (RUN)",
-      "link": "https://finance.yahoo.com/news/deutsche-bank-trims-price-target-030044766.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T03:00:44Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/d346dbf0d9bd9e118f8e2031a56b7833",
-      "slug": "deutsche-bank-trims-price-target-on-sunrun-run-ac2348e8",
-      "orig_slug": "deutsche-bank-trims-price-target-on-sunrun-run-ac2348e8"
-    },
-    {
-      "title": "Analyst Trims Diamondback Energy (FANG) Price Target by $2, Keeps ‘Buy’ Rating",
-      "link": "https://finance.yahoo.com/news/analyst-trims-diamondback-energy-fang-030039436.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T03:00:39Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/fa920a90fa191b1ef0a3f34ecadd0df9",
-      "slug": "analyst-trims-diamondback-energy-fang-price-target-by-2-keeps-buy-rating-58dc2e28",
-      "orig_slug": "analyst-trims-diamondback-energy-fang-price-target-by-2-keeps-buy-rating-58dc2e28"
-    },
-    {
-      "title": "Devon Energy (DVN) Price Target Lowered to $42, ‘Outperform’ Rating Maintained",
-      "link": "https://finance.yahoo.com/news/devon-energy-dvn-price-target-030042907.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T03:00:42Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/ce74cb4e24f6aeeae8f41ae50a33944c",
-      "slug": "devon-energy-dvn-price-target-lowered-to-42-outperform-rating-maintained-c6343020",
-      "orig_slug": "devon-energy-dvn-price-target-lowered-to-42-outperform-rating-maintained-c6343020"
-    },
-    {
-      "title": "Wealth Enhancement Leans Into USVM for Structured Small and Mid Cap Exposure",
-      "link": "https://finance.yahoo.com/news/wealth-enhancement-leans-usvm-structured-035528058.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T03:55:28Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/1773f636089323ade8901242c04ad862",
-      "slug": "wealth-enhancement-leans-into-usvm-for-structured-small-and-mid-cap-exposure-1533a001",
-      "orig_slug": "wealth-enhancement-leans-into-usvm-for-structured-small-and-mid-cap-exposure-1533a001"
-    },
-    {
-      "title": "Bloom Energy (BE) Rockets 12.8% After Bagging New Billion-Dollar Deal",
-      "link": "https://finance.yahoo.com/news/bloom-energy-rockets-12-8-025050694.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T02:50:50Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/24385fa2d01fe0c3a49fe72fe5d49f45",
-      "slug": "bloom-energy-be-rockets-128-after-bagging-new-billion-dollar-deal-f68df936",
-      "orig_slug": "bloom-energy-be-rockets-128-after-bagging-new-billion-dollar-deal-f68df936"
-    },
-    {
-      "title": "VNET Group (VNET) Soars 10.8% as Goldman Sachs Bullish on Chinese Stocks",
-      "link": "https://finance.yahoo.com/news/vnet-group-vnet-soars-10-024542184.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T02:45:42Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/fabd76d746fb98c8021505089a867168",
-      "slug": "vnet-group-vnet-soars-108-as-goldman-sachs-bullish-on-chinese-stocks-59df5857",
-      "orig_slug": "vnet-group-vnet-soars-108-as-goldman-sachs-bullish-on-chinese-stocks-59df5857"
-    },
-    {
-      "title": "Wall Street rises to records after the unemployment rate improves",
-      "link": "https://finance.yahoo.com/news/asian-shares-rise-us-futures-044116480.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T04:41:16Z",
-      "image": "https://media.zenfs.com/en/ap_finance_articles_694/0c317a715f78ab8af1b5f48e19783387",
-      "slug": "wall-street-rises-to-records-after-the-unemployment-rate-improves-5cdb4150",
-      "orig_slug": "wall-street-rises-to-records-after-the-unemployment-rate-improves-5cdb4150"
-    },
-    {
-      "title": "Venture Global (VG) Jumps 10% as LNG Demand Spikes Up in Winter",
-      "link": "https://finance.yahoo.com/news/venture-global-vg-jumps-10-024045076.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T02:40:45Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/06e8cca735aceb5139084283bf25b2da",
-      "slug": "venture-global-vg-jumps-10-as-lng-demand-spikes-up-in-winter-8acee542",
-      "orig_slug": "venture-global-vg-jumps-10-as-lng-demand-spikes-up-in-winter-8acee542"
-    },
-    {
-      "title": "Alphabet vs. Meta Platforms: Is One the Better Long-Term Play?",
-      "link": "https://finance.yahoo.com/news/alphabet-vs-meta-platforms-one-040000825.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T04:00:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/d2b6a7536bb96d73c1ca10027f413cfe",
-      "slug": "alphabet-vs-meta-platforms-is-one-the-better-long-term-play-5cd51bc0",
-      "orig_slug": "alphabet-vs-meta-platforms-is-one-the-better-long-term-play-5cd51bc0"
-    },
-    {
-      "title": "I'm 62 With $900K in a 401(k). Should I Convert $90K Per Year to Cut Taxes and RMDs?",
-      "link": "https://finance.yahoo.com/news/im-62-900-000-401-142054024.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T05:00:00Z",
-      "image": "https://media.zenfs.com/en/smartasset_475/e174b8d6244be80e5d853f3f3c142c2a",
-      "slug": "im-62-with-900k-in-a-401k-should-i-convert-90k-per-year-to-cut-taxes-and-rmds-f5b1365e",
-      "orig_slug": "im-62-with-900k-in-a-401k-should-i-convert-90k-per-year-to-cut-taxes-and-rmds-f5b1365e"
-    },
-    {
-      "title": "Caesars Entertainment (CZR) Climbs 9% on Rating, PT Upgrade",
-      "link": "https://finance.yahoo.com/news/caesars-entertainment-czr-climbs-9-023506780.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T02:35:06Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/72918ca1cbbebe1ef8b36fb479b38826",
-      "slug": "caesars-entertainment-czr-climbs-9-on-rating-pt-upgrade-42c23f46",
-      "orig_slug": "caesars-entertainment-czr-climbs-9-on-rating-pt-upgrade-42c23f46"
-    },
-    {
-      "title": "South Korea to open FX market around the clock, in bid for MSCI upgrade",
-      "link": "https://finance.yahoo.com/news/south-korea-open-fx-market-050556053.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T05:05:56Z",
-      "image": "https://s.yimg.com/os/en/reuters.com/1caa6eccad6affcbf442f32ac144b15e",
-      "slug": "south-korea-to-open-fx-market-around-the-clock-in-bid-for-msci-upgrade-47890526",
-      "orig_slug": "south-korea-to-open-fx-market-around-the-clock-in-bid-for-msci-upgrade-47890526"
-    },
-    {
-      "title": "Chinese automaker Xpeng touts AI pivot in face of fierce competition",
-      "link": "https://finance.yahoo.com/news/chinese-automaker-xpeng-touts-ai-051232947.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T05:12:32Z",
-      "image": "https://s.yimg.com/os/en/reuters-finance.com/ab082b4cd3c9938d90049fefb616dd8e",
-      "slug": "chinese-automaker-xpeng-touts-ai-pivot-in-face-of-fierce-competition-a397c8c8",
-      "orig_slug": "chinese-automaker-xpeng-touts-ai-pivot-in-face-of-fierce-competition-a397c8c8"
-    },
-    {
-      "title": "Teleflex CEO leaving company",
-      "link": "https://finance.yahoo.com/news/teleflex-ceo-leaving-company-041244772.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T04:12:44Z",
-      "image": "https://media.zenfs.com/en/medtech_dive_335/10978f6ce7d445d759e9cd0c750c8309",
-      "slug": "teleflex-ceo-leaving-company-562b8036",
-      "orig_slug": "teleflex-ceo-leaving-company-562b8036"
-    },
-    {
-      "title": "GDS Holdings (GDS) Soars 8.6% as Global Investors Place Billion-Dollar Bets",
-      "link": "https://finance.yahoo.com/news/gds-holdings-gds-soars-8-022829878.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T02:28:29Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/13c3d73dfd1ea4f9b1f878b1ea926068",
-      "slug": "gds-holdings-gds-soars-86-as-global-investors-place-billion-dollar-bets-a36d7449",
-      "orig_slug": "gds-holdings-gds-soars-86-as-global-investors-place-billion-dollar-bets-a36d7449"
-    },
-    {
-      "title": "APA Corp (APA) Jumps 8.5% on LNG Demand Growth, Colder Season",
-      "link": "https://finance.yahoo.com/news/apa-corp-apa-jumps-8-022326177.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T02:23:26Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/c45c5c2b34af86645282b635478c9c37",
-      "slug": "apa-corp-apa-jumps-85-on-lng-demand-growth-colder-season-9d033c8e",
-      "orig_slug": "apa-corp-apa-jumps-85-on-lng-demand-growth-colder-season-9d033c8e"
-    },
-    {
-      "title": "Musk's xAI to invest over $20 billion in Mississippi data center",
-      "link": "https://finance.yahoo.com/news/musks-xai-invest-over-20-054524916.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T05:45:24Z",
-      "image": "https://s.yimg.com/os/en/reuters-finance.com/d276cc355e03f446be2d2ce63ca0ecb2",
-      "slug": "musks-xai-to-invest-over-20-billion-in-mississippi-data-center-733fef64",
-      "orig_slug": "musks-xai-to-invest-over-20-billion-in-mississippi-data-center-733fef64"
-    },
-    {
-      "title": "Trump says he wants government to buy $200B in mortgage bonds in a push to bring down mortgage rates",
-      "link": "https://finance.yahoo.com/news/trump-says-wants-government-buy-214700427.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-08T21:47:00Z",
-      "image": "https://media.zenfs.com/en/ap_finance_articles_694/ee8a0e89f9214baed5497c87a1ccb2fa",
-      "slug": "trump-says-he-wants-government-to-buy-200b-in-mortgage-bonds-in-a-push-to-bring--49d88095",
-      "orig_slug": "trump-says-he-wants-government-to-buy-200b-in-mortgage-bonds-in-a-push-to-bring--49d88095"
-    },
-    {
-      "title": "What Trump's plan to ban defense dividends and raise the military budget could mean for your portfolio",
-      "link": "https://finance.yahoo.com/news/trumps-plan-ban-defense-dividends-041551613.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T04:15:51Z",
-      "image": "https://media.zenfs.com/en/business_insider_articles_888/057afe2a8498f65aed53fcefb47d6225",
-      "slug": "what-trumps-plan-to-ban-defense-dividends-and-raise-the-military-budget-could-me-dd37698a",
-      "orig_slug": "what-trumps-plan-to-ban-defense-dividends-and-raise-the-military-budget-could-me-dd37698a"
-    },
-    {
-      "title": "Can a Nursing Home Take Your Assets If You Have a $250K IRA and a Home?",
-      "link": "https://finance.yahoo.com/news/nursing-home-savings-250k-ira-133540731.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T07:00:00Z",
-      "image": "https://s.yimg.com/os/en/smartasset_475/d5fb980ddae51168b181acbaccb25615",
-      "slug": "can-a-nursing-home-take-your-assets-if-you-have-a-250k-ira-and-a-home-5049c7f4",
-      "orig_slug": "can-a-nursing-home-take-your-assets-if-you-have-a-250k-ira-and-a-home-5049c7f4"
-    },
-    {
-      "title": "10 tips to improve your credit score in 2026",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/how-to-improve-credit-score-140045472.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2023-12-28T14:00:45Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/OnmkFYhsFYosb3FvFRUMPQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-10/ae59e930-74d8-11ee-abfe-3ecdd0fd3409",
-      "slug": "10-tips-to-improve-your-credit-score-in-2026-6f8941a7",
-      "orig_slug": "10-tips-to-improve-your-credit-score-in-2026-6f8941a7"
-    },
-    {
-      "title": "Glencore Confirms Early Talks on Potential Merger With Rio Tinto",
-      "link": "https://finance.yahoo.com/news/glencore-confirms-early-talks-potential-015744815.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T01:57:44Z",
-      "image": "https://s.yimg.com/os/en/oilprice.com/9f881325b7cb84dbb2cc1477833ff076",
-      "slug": "glencore-confirms-early-talks-on-potential-merger-with-rio-tinto-4685e77e",
-      "orig_slug": "glencore-confirms-early-talks-on-potential-merger-with-rio-tinto-4685e77e"
-    },
-    {
-      "title": "CK Hutchison taps Goldman Sachs, UBS for AS Watson IPO, Bloomberg News reports",
-      "link": "https://finance.yahoo.com/news/ck-hutchison-taps-goldman-sachs-010807728.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T01:08:07Z",
-      "image": "https://s.yimg.com/os/en/reuters.com/a5517a9a7f729da3e753fe2e9e6adc91",
-      "slug": "ck-hutchison-taps-goldman-sachs-ubs-for-as-watson-ipo-bloomberg-news-reports-51f2f180",
-      "orig_slug": "ck-hutchison-taps-goldman-sachs-ubs-for-as-watson-ipo-bloomberg-news-reports-51f2f180"
-    },
-    {
-      "title": "LG Electronics Expects First Quarterly Operating Loss in Nine Years",
-      "link": "https://www.wsj.com/business/earnings/lg-electronics-expects-first-quarterly-operating-loss-in-nine-years-04e6b92d?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T04:17:00Z",
-      "image": "",
-      "slug": "lg-electronics-expects-first-quarterly-operating-loss-in-nine-years-c54e1172",
-      "orig_slug": "lg-electronics-expects-first-quarterly-operating-loss-in-nine-years-c54e1172"
-    },
-    {
-      "title": "Why Trump Underestimates the Challenge of Reviving Venezuela’s Oil",
-      "link": "https://finance.yahoo.com/news/why-trump-underestimates-challenge-reviving-010000752.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T01:00:00Z",
-      "image": "https://s.yimg.com/os/en/oilprice.com/4913710580ff966fe1e6f33bd9217f55",
-      "slug": "why-trump-underestimates-the-challenge-of-reviving-venezuelas-oil-eb473404",
-      "orig_slug": "why-trump-underestimates-the-challenge-of-reviving-venezuelas-oil-eb473404"
-    },
-    {
-      "title": "Jim Cramer Says Amazon “Never Should Have Underperformed to Begin With”",
-      "link": "https://finance.yahoo.com/news/jim-cramer-says-amazon-never-081645378.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T08:16:45Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/990b7edf68d640b729ce75bb5a0624ac",
-      "slug": "jim-cramer-says-amazon-never-should-have-underperformed-to-begin-with-e7e5ad3c",
-      "orig_slug": "jim-cramer-says-amazon-never-should-have-underperformed-to-begin-with-e7e5ad3c"
-    },
-    {
-      "title": "Analysts Lower Ultragenyx (RARE) Target but Stay Bullish",
-      "link": "https://finance.yahoo.com/news/analysts-lower-ultragenyx-rare-target-081645800.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T08:16:45Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/62942d2993cc235b7ac3e91c61665111",
-      "slug": "analysts-lower-ultragenyx-rare-target-but-stay-bullish-c91556db",
-      "orig_slug": "analysts-lower-ultragenyx-rare-target-but-stay-bullish-c91556db"
-    },
-    {
-      "title": "Soleno Therapeutics (SLNO) Among Stocks That Will Bounce Back According to Analysts",
-      "link": "https://finance.yahoo.com/news/soleno-therapeutics-slno-among-stocks-081648164.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T08:16:48Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/2f78fead5594bb342fb5f189e04643d0",
-      "slug": "soleno-therapeutics-slno-among-stocks-that-will-bounce-back-according-to-analyst-6974a4e0",
-      "orig_slug": "soleno-therapeutics-slno-among-stocks-that-will-bounce-back-according-to-analyst-6974a4e0"
     },
     {
       "title": "Daily Spotlight: Unemployment Rate Drops to 4.4%",
@@ -371,22 +371,22 @@
       "orig_slug": "daily-spotlight-unemployment-rate-drops-to-44-6f76d0b3"
     },
     {
-      "title": "Where Will Nvidia Be in 1 Year?",
-      "link": "https://finance.yahoo.com/news/where-nvidia-1-042000637.html",
+      "title": "Colombia and France Tighten Crypto Tax Rules — Here’s Who’s in Their Crosshairs",
+      "link": "https://finance.yahoo.com/news/colombia-france-tighten-crypto-tax-074950289.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T04:20:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/d9155e87f3de5ef23488cba2707ff9ba",
-      "slug": "where-will-nvidia-be-in-1-year-2f718389",
-      "orig_slug": "where-will-nvidia-be-in-1-year-2f718389"
+      "pubDate": "2026-01-09T07:49:50Z",
+      "image": "https://media.zenfs.com/en/beincrypto_us_662/7a9a0741b09d4dc47752a3c81a1379b4",
+      "slug": "colombia-and-france-tighten-crypto-tax-rules-heres-whos-in-their-crosshairs-04838660",
+      "orig_slug": "colombia-and-france-tighten-crypto-tax-rules-heres-whos-in-their-crosshairs-04838660"
     },
     {
-      "title": "Jim Cramer on Cheniere Energy: “It’s Not My Favorite Right Here”",
-      "link": "https://finance.yahoo.com/news/jim-cramer-cheniere-energy-not-081647048.html",
+      "title": "Here is Why Cenovus Energy (CVE) Fell This Week",
+      "link": "https://finance.yahoo.com/news/why-cenovus-energy-cve-fell-030040072.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-09T08:16:47Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/3d514494e70559fab2160c9e252902be",
-      "slug": "jim-cramer-on-cheniere-energy-its-not-my-favorite-right-here-ed1f7abf",
-      "orig_slug": "jim-cramer-on-cheniere-energy-its-not-my-favorite-right-here-ed1f7abf"
+      "pubDate": "2026-01-09T03:00:40Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/311e7140e140ac450c57aadfd2eaaa58",
+      "slug": "here-is-why-cenovus-energy-cve-fell-this-week-dbf7e9af",
+      "orig_slug": "here-is-why-cenovus-energy-cve-fell-this-week-dbf7e9af"
     }
   ]
 }
