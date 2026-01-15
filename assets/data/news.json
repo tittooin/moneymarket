@@ -1,14 +1,383 @@
 {
-  "updated": "2026-01-15T14:17:59Z",
+  "updated": "2026-01-15T15:16:33Z",
   "items": [
     {
-      "title": "Stock market today: Nasdaq futures lead Dow, S&P 500 higher as TSMC's strong outlook buoys AI hopes",
-      "link": "https://finance.yahoo.com/news/live/stock-market-today-nasdaq-futures-lead-dow-sp-500-higher-as-tsmcs-strong-outlook-buoys-ai-hopes-235521821.html",
+      "title": "Golar LNG Limited (GLNG): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/golar-lng-limited-glng-bull-145635692.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-14T23:55:21Z",
+      "pubDate": "2026-01-15T14:56:35Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/c441555fb8af21731c293cad005966ea",
+      "slug": "golar-lng-limited-glng-a-bull-case-theory-270cfd42",
+      "orig_slug": "golar-lng-limited-glng-a-bull-case-theory-270cfd42"
+    },
+    {
+      "title": "HIVE Digital Technologies Ltd. (HIVE): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/hive-digital-technologies-ltd-hive-145628846.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-15T14:56:28Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/64829af7ff8fc48c65591fadb184f56e",
+      "slug": "hive-digital-technologies-ltd-hive-a-bull-case-theory-bd94a6ff",
+      "orig_slug": "hive-digital-technologies-ltd-hive-a-bull-case-theory-bd94a6ff"
+    },
+    {
+      "title": "Another Nuclear Play Leans Into Grid Consolidation With $3.45 Billion Natural Gas Deal",
+      "link": "https://www.investors.com/news/nuclear-play-talen-energy-power-grid-consolidation-natural-gas/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-15T14:55:57Z",
+      "image": "",
+      "slug": "another-nuclear-play-leans-into-grid-consolidation-with-345-billion-natural-gas--f58d8261",
+      "orig_slug": "another-nuclear-play-leans-into-grid-consolidation-with-345-billion-natural-gas--f58d8261"
+    },
+    {
+      "title": "S&P 500 Stock, Retail Play Near Buy Points Get PT Hikes",
+      "link": "https://www.investors.com/news/sp-500-health-care-cah-wayfair-stock-online-retailer-stocks-to-watch/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-15T14:55:44Z",
+      "image": "",
+      "slug": "sp-500-stock-retail-play-near-buy-points-get-pt-hikes-bcde9110",
+      "orig_slug": "sp-500-stock-retail-play-near-buy-points-get-pt-hikes-bcde9110"
+    },
+    {
+      "title": "Further Rate Cuts Could Boost Economy And Dollar But Not if Fed Loses Independence",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-amid-mixed-signals-1ecc24f5?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-15T14:54:00Z",
+      "image": "",
+      "slug": "further-rate-cuts-could-boost-economy-and-dollar-but-not-if-fed-loses-independen-5913621b",
+      "orig_slug": "further-rate-cuts-could-boost-economy-and-dollar-but-not-if-fed-loses-independen-5913621b"
+    },
+    {
+      "title": "Technical Assessment: Bullish in the Intermediate-Term",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_45863_TechnicalAnalysis_1768480209000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-15T12:30:09Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "technical-assessment-bullish-in-the-intermediate-term-ad5282bb",
+      "orig_slug": "technical-assessment-bullish-in-the-intermediate-term-ad5282bb"
+    },
+    {
+      "title": "Amazon.com (AMZN)’s Long-Term Outperformance Highlights the Risks of Paying Premium Valuations",
+      "link": "https://finance.yahoo.com/news/amazon-com-amzn-long-term-145047776.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-15T14:50:47Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/145d57e1f9087f4ed6866a1a76dd96f0",
+      "slug": "amazoncom-amzns-long-term-outperformance-highlights-the-risks-of-paying-premium--1796a91f",
+      "orig_slug": "amazoncom-amzns-long-term-outperformance-highlights-the-risks-of-paying-premium--1796a91f"
+    },
+    {
+      "title": "Stock market today: Nasdaq leads Dow, S&P 500 higher as TSMC's strong outlook buoys AI hopes",
+      "link": "https://finance.yahoo.com/news/live/stock-market-today-nasdaq-leads-dow-sp-500-higher-as-tsmcs-strong-outlook-buoys-ai-hopes-143402160.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-15T14:34:02Z",
       "image": "https://s.yimg.com/ny/api/res/1.2/A4FJT1dzd6hzxGd9qJChWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/2cf3a160-f1a4-11f0-bc77-f90cd8e4e1f4",
-      "slug": "stock-market-today-nasdaq-futures-lead-dow-sp-500-higher-as-tsmcs-strong-outlook-31b5a827",
-      "orig_slug": "stock-market-today-nasdaq-futures-lead-dow-sp-500-higher-as-tsmcs-strong-outlook-31b5a827"
+      "slug": "stock-market-today-nasdaq-leads-dow-sp-500-higher-as-tsmcs-strong-outlook-buoys--1109ad86",
+      "orig_slug": "stock-market-today-nasdaq-leads-dow-sp-500-higher-as-tsmcs-strong-outlook-buoys--1109ad86"
+    },
+    {
+      "title": "Nu Holdings Ltd. (NU): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/nu-holdings-ltd-nu-bull-144747396.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-15T14:47:47Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/583095a45c4864bd533b61d304e00600",
+      "slug": "nu-holdings-ltd-nu-a-bull-case-theory-d02f778c",
+      "orig_slug": "nu-holdings-ltd-nu-a-bull-case-theory-d02f778c"
+    },
+    {
+      "title": "PagSeguro Digital Ltd. (PAGS): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/pagseguro-digital-ltd-pags-bull-144738378.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-15T14:47:38Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/9c63dcb8931f507bd2d1f4c603d97019",
+      "slug": "pagseguro-digital-ltd-pags-a-bull-case-theory-299dcb37",
+      "orig_slug": "pagseguro-digital-ltd-pags-a-bull-case-theory-299dcb37"
+    },
+    {
+      "title": "Nvidia initiated, DraftKings upgraded: Wall Street's top analyst calls",
+      "link": "https://finance.yahoo.com/news/nvidia-initiated-draftkings-upgraded-wall-145300434.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-15T14:53:00Z",
+      "image": "https://s.yimg.com/os/en/the_fly_169/5039a5ccc6ec98e1b92bc672330bfcec",
+      "slug": "nvidia-initiated-draftkings-upgraded-wall-streets-top-analyst-calls-f09f51e6",
+      "orig_slug": "nvidia-initiated-draftkings-upgraded-wall-streets-top-analyst-calls-f09f51e6"
+    },
+    {
+      "title": "Analyst Report: Pinnacle West Capital Corp.",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_3322_AnalystReport_1768478957000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-15T12:09:17Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-pinnacle-west-capital-corp-c8f20e46",
+      "orig_slug": "analyst-report-pinnacle-west-capital-corp-c8f20e46"
+    },
+    {
+      "title": "Danaos Corporation (DAC): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/danaos-corporation-dac-bull-case-144715738.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-15T14:47:15Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/faba7617a8ff7a2bd637650362190f1b",
+      "slug": "danaos-corporation-dac-a-bull-case-theory-9288a7de",
+      "orig_slug": "danaos-corporation-dac-a-bull-case-theory-9288a7de"
+    },
+    {
+      "title": "Goldman Sachs, Morgan Stanley Report Atop Multimonth Rallies",
+      "link": "https://www.investors.com/news/goldman-sachs-earnings-q4-2025-gs-stock-dow-jones-morgan-stanley-ms-stock/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-15T14:44:43Z",
+      "image": "",
+      "slug": "goldman-sachs-morgan-stanley-report-atop-multimonth-rallies-80914ea0",
+      "orig_slug": "goldman-sachs-morgan-stanley-report-atop-multimonth-rallies-80914ea0"
+    },
+    {
+      "title": "Sweetgreen, Inc. (SG): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/sweetgreen-inc-sg-bull-case-144421517.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-15T14:44:21Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/ddb2a390c35ac6bf222b53dafa7e7b97",
+      "slug": "sweetgreen-inc-sg-a-bull-case-theory-a7e29c27",
+      "orig_slug": "sweetgreen-inc-sg-a-bull-case-theory-a7e29c27"
+    },
+    {
+      "title": "Clover Health Investments, Corp. (CLOV): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/clover-health-investments-corp-clov-144409076.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-15T14:44:09Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/88a26fec070ee9681fc54d0ff698d832",
+      "slug": "clover-health-investments-corp-clov-a-bull-case-theory-2cda4091",
+      "orig_slug": "clover-health-investments-corp-clov-a-bull-case-theory-2cda4091"
+    },
+    {
+      "title": "Fed’s Goolsbee: Investigating as a Pretext Because of a Rate Disagreement ‘Is a Mess’",
+      "link": "https://www.wsj.com/economy/central-banking/feds-goolsbee-investigating-as-a-pretext-because-of-a-rate-disagreement-is-a-mess-7f98b218?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-15T14:51:00Z",
+      "image": "",
+      "slug": "feds-goolsbee-investigating-as-a-pretext-because-of-a-rate-disagreement-is-a-mes-f135cfe0",
+      "orig_slug": "feds-goolsbee-investigating-as-a-pretext-because-of-a-rate-disagreement-is-a-mes-f135cfe0"
+    },
+    {
+      "title": "Analyst Report: Wells Fargo & Co.",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_3519_AnalystReport_1768478957000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-15T12:09:17Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-wells-fargo-co-d0311222",
+      "orig_slug": "analyst-report-wells-fargo-co-d0311222"
+    },
+    {
+      "title": "Occidental Petroleum Corporation (OXY): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/occidental-petroleum-corporation-oxy-bull-144352363.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-15T14:43:52Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/a9c51e6237b89e110d6edbae7aeec83a",
+      "slug": "occidental-petroleum-corporation-oxy-a-bull-case-theory-b8850212",
+      "orig_slug": "occidental-petroleum-corporation-oxy-a-bull-case-theory-b8850212"
+    },
+    {
+      "title": "Adecoagro S.A. (AGRO): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/adecoagro-agro-bull-case-theory-144342694.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-15T14:43:42Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/e1971d7758b11290958b23cb504e7ef0",
+      "slug": "adecoagro-sa-agro-a-bull-case-theory-c5c009c5",
+      "orig_slug": "adecoagro-sa-agro-a-bull-case-theory-c5c009c5"
+    },
+    {
+      "title": "Starwood Property Trust, Inc. (STWD): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/starwood-property-trust-inc-stwd-144329739.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-15T14:43:29Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/b5b4f16e9e657b95d4707fcb0c95ca7f",
+      "slug": "starwood-property-trust-inc-stwd-a-bull-case-theory-324e993d",
+      "orig_slug": "starwood-property-trust-inc-stwd-a-bull-case-theory-324e993d"
+    },
+    {
+      "title": "Canadian Natural Resources Limited (CNQ): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/canadian-natural-resources-limited-cnq-144318872.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-15T14:43:18Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/efd1e811e83dc3a5c0f02d72ad0cb9e2",
+      "slug": "canadian-natural-resources-limited-cnq-a-bull-case-theory-ef7a8f78",
+      "orig_slug": "canadian-natural-resources-limited-cnq-a-bull-case-theory-ef7a8f78"
+    },
+    {
+      "title": "This Growth Stock Continues to Crush the Market",
+      "link": "https://finance.yahoo.com/news/growth-stock-continues-crush-market-145000280.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-15T14:50:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/490d007851880ef07e63852cc0994132",
+      "slug": "this-growth-stock-continues-to-crush-the-market-e0e4c2d2",
+      "orig_slug": "this-growth-stock-continues-to-crush-the-market-e0e4c2d2"
+    },
+    {
+      "title": "Market Digest: PNW, RL, WFC",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_45857_MarketSummary_1768478057000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-15T11:54:17Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "market-digest-pnw-rl-wfc-c7ec0f39",
+      "orig_slug": "market-digest-pnw-rl-wfc-c7ec0f39"
+    },
+    {
+      "title": "Stock Market Today: Dow Rises On Jobless Claims; Nvidia Chipmaker Surges (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobless-claims-nvidia-tsmc-tsm-stock/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-15T14:41:37Z",
+      "image": "",
+      "slug": "stock-market-today-dow-rises-on-jobless-claims-nvidia-chipmaker-surges-live-cove-2bc03b44",
+      "orig_slug": "stock-market-today-dow-rises-on-jobless-claims-nvidia-chipmaker-surges-live-cove-2bc03b44"
+    },
+    {
+      "title": "Here’s Why PAR Technology Corp’s (PAR) Shares were Down ~50% on The Year",
+      "link": "https://finance.yahoo.com/news/why-par-technology-corp-par-144118285.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-15T14:41:18Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/2fe044b19890fd13ccef33d2bd6efa05",
+      "slug": "heres-why-par-technology-corps-par-shares-were-down-50-on-the-year-efdb8b6e",
+      "orig_slug": "heres-why-par-technology-corps-par-shares-were-down-50-on-the-year-efdb8b6e"
+    },
+    {
+      "title": "Cheniere Energy, Inc. (LNG): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/cheniere-energy-inc-lng-bull-143748556.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-15T14:37:48Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/e590d1250f8fca3d2434ceacf67e32aa",
+      "slug": "cheniere-energy-inc-lng-a-bull-case-theory-4a633e01",
+      "orig_slug": "cheniere-energy-inc-lng-a-bull-case-theory-4a633e01"
+    },
+    {
+      "title": "BlackRock Surges On Q4 Beat, Dividend Hike. Shares In Bullish Pattern.",
+      "link": "https://www.investors.com/news/blackrock-earnings-revenue-q4-2025-blk-stock/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-15T14:35:55Z",
+      "image": "",
+      "slug": "blackrock-surges-on-q4-beat-dividend-hike-shares-in-bullish-pattern-2e1ecd78",
+      "orig_slug": "blackrock-surges-on-q4-beat-dividend-hike-shares-in-bullish-pattern-2e1ecd78"
+    },
+    {
+      "title": "Stocks to Watch Thursday: Goldman Sachs, Boston Scientific, BlackRock",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-15-2026/card/stocks-to-watch-thursday-tsmc-goldman-sachs-nvidia-alibaba-Q7S472ia1M1VgD5wREeq?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-15T14:45:12Z",
+      "image": "",
+      "slug": "stocks-to-watch-thursday-goldman-sachs-boston-scientific-blackrock-6e9e5c86",
+      "orig_slug": "stocks-to-watch-thursday-goldman-sachs-boston-scientific-blackrock-6e9e5c86"
+    },
+    {
+      "title": "Daily – Vickers Top Buyers & Sellers for 01/15/2026",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_45856_TopBottomInsiderActivity_1768477627000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-15T11:47:07Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "daily-vickers-top-buyers-sellers-for-01152026-cdf46bee",
+      "orig_slug": "daily-vickers-top-buyers-sellers-for-01152026-cdf46bee"
+    },
+    {
+      "title": "NextDecade Corporation (NEXT): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/nextdecade-corporation-next-bull-case-143547688.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-15T14:35:47Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/0a709792ff7b8f78914b7c74caa406ac",
+      "slug": "nextdecade-corporation-next-a-bull-case-theory-f29869c9",
+      "orig_slug": "nextdecade-corporation-next-a-bull-case-theory-f29869c9"
+    },
+    {
+      "title": "Cleveland-Cliffs Inc. (CLF): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/cleveland-cliffs-inc-clf-bull-143402915.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-15T14:34:02Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/61505c5ef43a6198dad5dd0920e7f85e",
+      "slug": "cleveland-cliffs-inc-clf-a-bull-case-theory-669ddeae",
+      "orig_slug": "cleveland-cliffs-inc-clf-a-bull-case-theory-669ddeae"
+    },
+    {
+      "title": "Why Elon Musk And Tesla Are Going The Subscription Route With FSD",
+      "link": "https://www.investors.com/news/tesla-elon-musk-go-the-subscription-route-with-fsd/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-15T14:32:44Z",
+      "image": "",
+      "slug": "why-elon-musk-and-tesla-are-going-the-subscription-route-with-fsd-1b76500e",
+      "orig_slug": "why-elon-musk-and-tesla-are-going-the-subscription-route-with-fsd-1b76500e"
+    },
+    {
+      "title": "Elevate Renewables Acquires Major Battery Storage Project in PJM",
+      "link": "https://finance.yahoo.com/news/elevate-renewables-acquires-major-battery-142733136.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-15T14:27:33Z",
+      "image": "https://media.zenfs.com/en/power_magazine_984/9eff58fbcbab41246ecc3fda2c2cfd3c",
+      "slug": "elevate-renewables-acquires-major-battery-storage-project-in-pjm-46ddfe61",
+      "orig_slug": "elevate-renewables-acquires-major-battery-storage-project-in-pjm-46ddfe61"
+    },
+    {
+      "title": "\"You're Never Going to Run Out of Laundry Detergent Again\": Inside Walmart's AI Vision",
+      "link": "https://finance.yahoo.com/news/youre-never-going-run-laundry-144400949.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-15T14:44:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/765ba08180df187fe32b94a36010b8ad",
+      "slug": "youre-never-going-to-run-out-of-laundry-detergent-again-inside-walmarts-ai-visio-2328e08e",
+      "orig_slug": "youre-never-going-to-run-out-of-laundry-detergent-again-inside-walmarts-ai-visio-2328e08e"
+    },
+    {
+      "title": "Daily – Vickers Top Insider Picks for 01/15/2026",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_45855_InsiderActivity_1768477627000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-15T11:47:07Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "daily-vickers-top-insider-picks-for-01152026-3a1d9be9",
+      "orig_slug": "daily-vickers-top-insider-picks-for-01152026-3a1d9be9"
+    },
+    {
+      "title": "Chip stocks jump as Nvidia supplier TSMC dismisses bubble fears: 'AI is real'",
+      "link": "https://finance.yahoo.com/news/chip-stocks-jump-as-nvidia-supplier-tsmc-dismisses-bubble-fears-ai-is-real-142119829.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-15T14:21:19Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/bpV9Q.FEbalL82nXDKFypw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NTE-/https://s.yimg.com/os/creatr-uploaded-images/2022-02/f15d0810-9a06-11ec-bff7-f1ebd1da20a0",
+      "slug": "chip-stocks-jump-as-nvidia-supplier-tsmc-dismisses-bubble-fears-ai-is-real-d02fd5c2",
+      "orig_slug": "chip-stocks-jump-as-nvidia-supplier-tsmc-dismisses-bubble-fears-ai-is-real-d02fd5c2"
+    },
+    {
+      "title": "Ciena Corporation (CIEN) Has Emerged as a High-Growth, Key Infrastructure Winner in the AI Era. Here’ Why",
+      "link": "https://finance.yahoo.com/news/ciena-corporation-cien-emerged-high-141933711.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-15T14:19:33Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/aa67aab8f5f51a6a23b453dff7157e00",
+      "slug": "ciena-corporation-cien-has-emerged-as-a-high-growth-key-infrastructure-winner-in-83e1f372",
+      "orig_slug": "ciena-corporation-cien-has-emerged-as-a-high-growth-key-infrastructure-winner-in-83e1f372"
+    },
+    {
+      "title": "Oracle (ORCL) Fell Due to Investors’ Concerns About Its Aggressive Spending Plans",
+      "link": "https://finance.yahoo.com/news/oracle-orcl-fell-due-investors-141525300.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-15T14:15:25Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/a62f5e82c8600d76c4fc73c1f4beaec9",
+      "slug": "oracle-orcl-fell-due-to-investors-concerns-about-its-aggressive-spending-plans-5858e40f",
+      "orig_slug": "oracle-orcl-fell-due-to-investors-concerns-about-its-aggressive-spending-plans-5858e40f"
+    },
+    {
+      "title": "A confluence of Factors Lifted Alphabet (GOOG) in Q4",
+      "link": "https://finance.yahoo.com/news/confluence-factors-lifted-alphabet-goog-141222437.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-15T14:12:22Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/cf6d2f879575432f39eec460d8fb6fb8",
+      "slug": "a-confluence-of-factors-lifted-alphabet-goog-in-q4-9fdfc7b8",
+      "orig_slug": "a-confluence-of-factors-lifted-alphabet-goog-in-q4-9fdfc7b8"
+    },
+    {
+      "title": "Chip Stocks Rally After TSMC Earnings Boost Outlook for AI Boom",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-15-2026/card/chip-stocks-rally-after-tsmc-earnings-boost-ai-boom-outlook-a36pcgoEQupV0J7HHQIq?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-15T14:34:03Z",
+      "image": "",
+      "slug": "chip-stocks-rally-after-tsmc-earnings-boost-outlook-for-ai-boom-1c608f57",
+      "orig_slug": "chip-stocks-rally-after-tsmc-earnings-boost-outlook-for-ai-boom-1c608f57"
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing Company Limited (TSM) Continued to Benefit from Increased Demand",
+      "link": "https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-company-limited-140855166.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-15T14:08:55Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/442e18eff9a8e446a0d4424af02ac033",
+      "slug": "taiwan-semiconductor-manufacturing-company-limited-tsm-continued-to-benefit-from-96d1631f",
+      "orig_slug": "taiwan-semiconductor-manufacturing-company-limited-tsm-continued-to-benefit-from-96d1631f"
     },
     {
       "title": "Why Salesforce stock is already down 10% this year",
@@ -29,15 +398,6 @@
       "orig_slug": "taiwan-semiconductor-manufacturing-company-limited-tsm-surged-following-strong-d-789f3fc3"
     },
     {
-      "title": "This Fintech Stock Could Be 1 of the Best Companies to Own in 2026",
-      "link": "https://finance.yahoo.com/news/fintech-stock-could-1-best-140500057.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T14:05:00Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/0cd309c94c3e1de36b96f61e4f1b009f",
-      "slug": "this-fintech-stock-could-be-1-of-the-best-companies-to-own-in-2026-77f85a32",
-      "orig_slug": "this-fintech-stock-could-be-1-of-the-best-companies-to-own-in-2026-77f85a32"
-    },
-    {
       "title": "L1 Capital International’s Views on Jacobs Solutions (J)",
       "link": "https://finance.yahoo.com/news/l1-capital-international-views-jacobs-140416313.html",
       "source": "finance.yahoo.com",
@@ -47,13 +407,13 @@
       "orig_slug": "l1-capital-internationals-views-on-jacobs-solutions-j-b2ac95f2"
     },
     {
-      "title": "Technical Assessment: Bullish in the Intermediate-Term",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_45863_TechnicalAnalysis_1768480209000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "title": "Morgan Stanley Stock Rises After Earnings Beat Forecasts",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-15-2026/card/morgan-stanley-stock-rises-after-earnings-beat-expectations-Mwi3TnMPqQcWkrkCsDKu?siteid=yhoof2&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T12:30:09Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "technical-assessment-bullish-in-the-intermediate-term-ad5282bb",
-      "orig_slug": "technical-assessment-bullish-in-the-intermediate-term-ad5282bb"
+      "pubDate": "2026-01-15T14:31:40Z",
+      "image": "",
+      "slug": "morgan-stanley-stock-rises-after-earnings-beat-forecasts-d5062fb1",
+      "orig_slug": "morgan-stanley-stock-rises-after-earnings-beat-forecasts-d5062fb1"
     },
     {
       "title": "Boston Scientific Will Buy Penumbra In $14.5 Billion Medtech Deal",
@@ -72,357 +432,6 @@
       "image": "https://s.yimg.com/os/en/insidermonkey.com/4ef0bf0d70c14c7d9ca3d34bcf332ab4",
       "slug": "what-makes-salesforce-crm-an-attractive-investment-option-c84e4f79",
       "orig_slug": "what-makes-salesforce-crm-an-attractive-investment-option-c84e4f79"
-    },
-    {
-      "title": "L1 Capital International Strategy: Uber (UBER) is a ‘Battleground’ Company",
-      "link": "https://finance.yahoo.com/news/l1-capital-international-strategy-uber-135852846.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T13:58:52Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/f0cec49aa344ee185df4efe615e2e57d",
-      "slug": "l1-capital-international-strategy-uber-uber-is-a-battleground-company-bb5b6db3",
-      "orig_slug": "l1-capital-international-strategy-uber-uber-is-a-battleground-company-bb5b6db3"
-    },
-    {
-      "title": "TSMC posts another record quarter as AI demand holds steady",
-      "link": "https://finance.yahoo.com/news/tsmc-posts-another-record-quarter-140413832.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T14:04:13Z",
-      "image": "https://media.zenfs.com/en/quartz_855/8b97660ec8908178fe05c7a7107ab06a",
-      "slug": "tsmc-posts-another-record-quarter-as-ai-demand-holds-steady-d7a3c1c9",
-      "orig_slug": "tsmc-posts-another-record-quarter-as-ai-demand-holds-steady-d7a3c1c9"
-    },
-    {
-      "title": "Goldman Sachs, Morgan Stanley profits soar as Wall Street capitalizes on 2025 deal boom",
-      "link": "https://finance.yahoo.com/news/goldman-sachs-morgan-stanley-profits-soar-as-wall-street-capitalizes-on-2025-deal-boom-125649639.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T12:56:49Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/Qgto0JqTWgtC5ueFTE5z4w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-03/91118f00-0405-11f0-b7ad-19b80c1b286e",
-      "slug": "goldman-sachs-morgan-stanley-profits-soar-as-wall-street-capitalizes-on-2025-dea-ba5c1838",
-      "orig_slug": "goldman-sachs-morgan-stanley-profits-soar-as-wall-street-capitalizes-on-2025-dea-ba5c1838"
-    },
-    {
-      "title": "Analyst Report: Pinnacle West Capital Corp.",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_3322_AnalystReport_1768478957000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T12:09:17Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "analyst-report-pinnacle-west-capital-corp-c8f20e46",
-      "orig_slug": "analyst-report-pinnacle-west-capital-corp-c8f20e46"
-    },
-    {
-      "title": "L1 Capital International Strategy Trimmed HCA Healthcare (HCA) Due to Share Price Appreciation",
-      "link": "https://finance.yahoo.com/news/l1-capital-international-strategy-trimmed-135726812.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T13:57:26Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/5f54d2e73181af4bc79b6b462cb5b5a5",
-      "slug": "l1-capital-international-strategy-trimmed-hca-healthcare-hca-due-to-share-price--4e45debb",
-      "orig_slug": "l1-capital-international-strategy-trimmed-hca-healthcare-hca-due-to-share-price--4e45debb"
-    },
-    {
-      "title": "Intercontinental Exchange (ICE) Fell Due to AI-Related Concerns",
-      "link": "https://finance.yahoo.com/news/intercontinental-exchange-ice-fell-due-135545070.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T13:55:45Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/b05236204ef2ec8a78d19d5d08dad170",
-      "slug": "intercontinental-exchange-ice-fell-due-to-ai-related-concerns-1114a8f5",
-      "orig_slug": "intercontinental-exchange-ice-fell-due-to-ai-related-concerns-1114a8f5"
-    },
-    {
-      "title": "BlackRock Climbs On Q4 Beat, Dividend Hike. Shares In Bullish Pattern.",
-      "link": "https://www.investors.com/news/blackrock-earnings-revenue-q4-2025-blk-stock/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T13:54:34Z",
-      "image": "",
-      "slug": "blackrock-climbs-on-q4-beat-dividend-hike-shares-in-bullish-pattern-2e1ecd78",
-      "orig_slug": "blackrock-climbs-on-q4-beat-dividend-hike-shares-in-bullish-pattern-2e1ecd78"
-    },
-    {
-      "title": "We're 65 With $1.3 Million Saved and Expect $6,000 a Month in Retirement Income. Why Doesn't It Feel Settled?",
-      "link": "https://finance.yahoo.com/news/were-65-1-3-million-140111020.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T14:01:11Z",
-      "image": "https://s.yimg.com/os/en/benzinga_79/f36a121f95996bbc48519d8fdabc2093",
-      "slug": "were-65-with-13-million-saved-and-expect-6000-a-month-in-retirement-income-why-d-87cba7dd",
-      "orig_slug": "were-65-with-13-million-saved-and-expect-6000-a-month-in-retirement-income-why-d-87cba7dd"
-    },
-    {
-      "title": "Here’s What Boosted AerCap Holdings N.V. (AER) in 2025",
-      "link": "https://finance.yahoo.com/news/boosted-aercap-holdings-n-v-135406895.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T13:54:06Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/2aa7819ad1f50abd00af7db5e9d136b6",
-      "slug": "heres-what-boosted-aercap-holdings-nv-aer-in-2025-00251926",
-      "orig_slug": "heres-what-boosted-aercap-holdings-nv-aer-in-2025-00251926"
-    },
-    {
-      "title": "Analyst Report: Wells Fargo & Co.",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_3519_AnalystReport_1768478957000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T12:09:17Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "analyst-report-wells-fargo-co-d0311222",
-      "orig_slug": "analyst-report-wells-fargo-co-d0311222"
-    },
-    {
-      "title": "German AI startup Parloa triples valuation to $3 billion in latest fundraise",
-      "link": "https://finance.yahoo.com/news/german-ai-startup-parloa-triples-135110599.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T13:51:10Z",
-      "image": "https://s.yimg.com/os/en/reuters-finance.com/888beb4d4694692fe1e97d9f2b6d5c52",
-      "slug": "german-ai-startup-parloa-triples-valuation-to-3-billion-in-latest-fundraise-2402d2e3",
-      "orig_slug": "german-ai-startup-parloa-triples-valuation-to-3-billion-in-latest-fundraise-2402d2e3"
-    },
-    {
-      "title": "Alibaba Updates Qwen AI App With Shopping-Focused Features",
-      "link": "https://www.investors.com/news/technology/alibaba-stock-qwen-ai-shopping/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T13:47:56Z",
-      "image": "",
-      "slug": "alibaba-updates-qwen-ai-app-with-shopping-focused-features-5c413553",
-      "orig_slug": "alibaba-updates-qwen-ai-app-with-shopping-focused-features-5c413553"
-    },
-    {
-      "title": "Goldman Sachs, Morgan Stanley Report Atop Multi-Month Rallies",
-      "link": "https://www.investors.com/news/goldman-sachs-earnings-q4-2025-gs-stock-dow-jones-morgan-stanley-ms-stock/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T13:45:27Z",
-      "image": "",
-      "slug": "goldman-sachs-morgan-stanley-report-atop-multi-month-rallies-80914ea0",
-      "orig_slug": "goldman-sachs-morgan-stanley-report-atop-multi-month-rallies-80914ea0"
-    },
-    {
-      "title": "CMT targets wider use of telematics in commercial motor pricing",
-      "link": "https://finance.yahoo.com/news/cmt-targets-wider-telematics-commercial-140000534.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T14:00:00Z",
-      "image": "https://s.yimg.com/os/en/motor_finance_444/3e512acf0ff8f5346c20f171839daa3f",
-      "slug": "cmt-targets-wider-use-of-telematics-in-commercial-motor-pricing-34044ec5",
-      "orig_slug": "cmt-targets-wider-use-of-telematics-in-commercial-motor-pricing-34044ec5"
-    },
-    {
-      "title": "Stock Market Today: Dow Falls On Surprise Jobless Claims; Nvidia Chipmaker Surges (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobless-claims-nvidia-tsmc-tsm-stock/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T13:44:44Z",
-      "image": "",
-      "slug": "stock-market-today-dow-falls-on-surprise-jobless-claims-nvidia-chipmaker-surges--2bc03b44",
-      "orig_slug": "stock-market-today-dow-falls-on-surprise-jobless-claims-nvidia-chipmaker-surges--2bc03b44"
-    },
-    {
-      "title": "Market Digest: PNW, RL, WFC",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_45857_MarketSummary_1768478057000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T11:54:17Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "market-digest-pnw-rl-wfc-c7ec0f39",
-      "orig_slug": "market-digest-pnw-rl-wfc-c7ec0f39"
-    },
-    {
-      "title": "Earnings live: Goldman Sachs and BlackRock profits beat, TSMC stock jumps on robust outlook",
-      "link": "https://finance.yahoo.com/news/live/earnings-live-goldman-sachs-and-blackrock-profits-beat-tsmc-stock-jumps-on-robust-outlook-130229297.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T13:02:29Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/8_hF6xdl.va8zmTvN5zp8A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/0b92dd00-f213-11f0-9aee-d0b6198c522e",
-      "slug": "earnings-live-goldman-sachs-and-blackrock-profits-beat-tsmc-stock-jumps-on-robus-12d5f14d",
-      "orig_slug": "earnings-live-goldman-sachs-and-blackrock-profits-beat-tsmc-stock-jumps-on-robus-12d5f14d"
-    },
-    {
-      "title": "Why Elon Musk And Tesla Are Going The Subscription Route With FSD",
-      "link": "https://www.investors.com/news/tesla-elon-musk-go-the-subscription-route-with-fsd/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T13:42:06Z",
-      "image": "",
-      "slug": "why-elon-musk-and-tesla-are-going-the-subscription-route-with-fsd-1b76500e",
-      "orig_slug": "why-elon-musk-and-tesla-are-going-the-subscription-route-with-fsd-1b76500e"
-    },
-    {
-      "title": "As AI use in healthcare rises, Waystar is riding the wave",
-      "link": "https://finance.yahoo.com/news/as-ai-use-in-healthcare-rises-waystar-is-riding-the-wave-133906610.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T13:39:06Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/zayxJaCtOWRMp2Lr08mYHA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/f2b11b50-f21a-11f0-9f9b-0760d7f089ff",
-      "slug": "as-ai-use-in-healthcare-rises-waystar-is-riding-the-wave-146caab6",
-      "orig_slug": "as-ai-use-in-healthcare-rises-waystar-is-riding-the-wave-146caab6"
-    },
-    {
-      "title": "This $22 AI Stock Could Be Your Ticket to Millionaire Status",
-      "link": "https://finance.yahoo.com/news/22-ai-stock-could-ticket-135800153.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T13:58:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/e494cf94ed7a0542a97ef980661b1d7d",
-      "slug": "this-22-ai-stock-could-be-your-ticket-to-millionaire-status-5e3f8fa6",
-      "orig_slug": "this-22-ai-stock-could-be-your-ticket-to-millionaire-status-5e3f8fa6"
-    },
-    {
-      "title": "ClassPass-owner Playlist, EGYM to merge in deal backed by Jared Kushner's firm",
-      "link": "https://finance.yahoo.com/news/classpass-owner-playlist-egym-merge-133807655.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T13:38:07Z",
-      "image": "https://s.yimg.com/os/en/reuters.com/05b568cb0f38bfb3a484fc574fea24ab",
-      "slug": "classpass-owner-playlist-egym-to-merge-in-deal-backed-by-jared-kushners-firm-b1ddc3ee",
-      "orig_slug": "classpass-owner-playlist-egym-to-merge-in-deal-backed-by-jared-kushners-firm-b1ddc3ee"
-    },
-    {
-      "title": "Daily – Vickers Top Buyers & Sellers for 01/15/2026",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_45856_TopBottomInsiderActivity_1768477627000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T11:47:07Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-vickers-top-buyers-sellers-for-01152026-cdf46bee",
-      "orig_slug": "daily-vickers-top-buyers-sellers-for-01152026-cdf46bee"
-    },
-    {
-      "title": "VICI Properties Inc. (VICI): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/vici-properties-inc-vici-bull-133620890.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T13:36:20Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/2a74a7ecce370d46e9767d9f5b0842ce",
-      "slug": "vici-properties-inc-vici-a-bull-case-theory-34f072b6",
-      "orig_slug": "vici-properties-inc-vici-a-bull-case-theory-34f072b6"
-    },
-    {
-      "title": "BigBear.ai Holdings, Inc. (BBAI): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/bigbear-ai-holdings-inc-bbai-133608090.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T13:36:08Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/c4ededf810c38bb0029990bd191caf28",
-      "slug": "bigbearai-holdings-inc-bbai-a-bull-case-theory-ece6cb42",
-      "orig_slug": "bigbearai-holdings-inc-bbai-a-bull-case-theory-ece6cb42"
-    },
-    {
-      "title": "SMX (Security Matters) Public Limited Company (SMX): A Bear Case Theory",
-      "link": "https://finance.yahoo.com/news/smx-security-matters-public-limited-133555678.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T13:35:55Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/bf11bfbf19a24a68218c8b54b3a098f3",
-      "slug": "smx-security-matters-public-limited-company-smx-a-bear-case-theory-fbc01fcb",
-      "orig_slug": "smx-security-matters-public-limited-company-smx-a-bear-case-theory-fbc01fcb"
-    },
-    {
-      "title": "Goldman Sachs Profit Rises on Jump in Dealmaking",
-      "link": "https://finance.yahoo.com/news/goldman-sachs-profit-rises-jump-124800221.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T13:57:00Z",
-      "image": "https://media.zenfs.com/en/the_wall_street_journal_hosted_996/fac6a27fadd0bab8901b3d55f1cf6335",
-      "slug": "goldman-sachs-profit-rises-on-jump-in-dealmaking-913ff7b5",
-      "orig_slug": "goldman-sachs-profit-rises-on-jump-in-dealmaking-913ff7b5"
-    },
-    {
-      "title": "Via Transportation, Inc. (VIA): A Bear Case Theory",
-      "link": "https://finance.yahoo.com/news/via-transportation-inc-via-bear-133548863.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T13:35:48Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/8372c9783371b5a875f007172320c14c",
-      "slug": "via-transportation-inc-via-a-bear-case-theory-6c0d9531",
-      "orig_slug": "via-transportation-inc-via-a-bear-case-theory-6c0d9531"
-    },
-    {
-      "title": "Daily – Vickers Top Insider Picks for 01/15/2026",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_45855_InsiderActivity_1768477627000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T11:47:07Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-vickers-top-insider-picks-for-01152026-3a1d9be9",
-      "orig_slug": "daily-vickers-top-insider-picks-for-01152026-3a1d9be9"
-    },
-    {
-      "title": "UDR, Inc. (UDR): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/udr-inc-udr-bull-case-133523120.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T13:35:23Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/550c28fc993bbc2f4e2e6ded2a3ef975",
-      "slug": "udr-inc-udr-a-bull-case-theory-47e22a41",
-      "orig_slug": "udr-inc-udr-a-bull-case-theory-47e22a41"
-    },
-    {
-      "title": "Another Nuclear Play Leans Into Grid Consolidation With $3.45 Billion Natural Gas Deal",
-      "link": "https://www.investors.com/news/nuclear-play-talen-energy-power-grid-consolidation-natural-gas/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T13:34:23Z",
-      "image": "",
-      "slug": "another-nuclear-play-leans-into-grid-consolidation-with-345-billion-natural-gas--f58d8261",
-      "orig_slug": "another-nuclear-play-leans-into-grid-consolidation-with-345-billion-natural-gas--f58d8261"
-    },
-    {
-      "title": "NNN REIT, Inc. (NNN): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/nnn-reit-inc-nnn-bull-133400130.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T13:34:00Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/673fd253435cbe1971128f25a875fb11",
-      "slug": "nnn-reit-inc-nnn-a-bull-case-theory-8dd5ec37",
-      "orig_slug": "nnn-reit-inc-nnn-a-bull-case-theory-8dd5ec37"
-    },
-    {
-      "title": "Brookfield Corporation (BN): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/brookfield-corporation-bn-bull-case-133345575.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T13:33:45Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/eae2ae0739b63a15e308a1feb9ceb309",
-      "slug": "brookfield-corporation-bn-a-bull-case-theory-c075e0b7",
-      "orig_slug": "brookfield-corporation-bn-a-bull-case-theory-c075e0b7"
-    },
-    {
-      "title": "Miami International Holdings, Inc. (MIAX): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/miami-international-holdings-inc-miax-133234030.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T13:32:34Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/dc80761093b430fc5d9d5d2414e9dbe5",
-      "slug": "miami-international-holdings-inc-miax-a-bull-case-theory-247172a1",
-      "orig_slug": "miami-international-holdings-inc-miax-a-bull-case-theory-247172a1"
-    },
-    {
-      "title": "Array Technologies, Inc. (ARRY): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/array-technologies-inc-arry-bull-133201320.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T13:32:01Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/aede09097fc464fcec194074782d8c23",
-      "slug": "array-technologies-inc-arry-a-bull-case-theory-407805df",
-      "orig_slug": "array-technologies-inc-arry-a-bull-case-theory-407805df"
-    },
-    {
-      "title": "Enlight Renewable Energy Ltd (ENLT): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/enlight-renewable-energy-ltd-enlt-133126095.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T13:31:26Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/b3e404795f827bde02957d853658c0e5",
-      "slug": "enlight-renewable-energy-ltd-enlt-a-bull-case-theory-10fa60bd",
-      "orig_slug": "enlight-renewable-energy-ltd-enlt-a-bull-case-theory-10fa60bd"
-    },
-    {
-      "title": "4 Reasons To Invest in Crypto Even in a Shaky Economy",
-      "link": "https://finance.yahoo.com/news/4-reasons-invest-crypto-even-135509274.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T13:55:09Z",
-      "image": "https://media.zenfs.com/en/gobankingrates_644/d7b6b5a2d9e8093138aba6cff4cd4748",
-      "slug": "4-reasons-to-invest-in-crypto-even-in-a-shaky-economy-b6bb8633",
-      "orig_slug": "4-reasons-to-invest-in-crypto-even-in-a-shaky-economy-b6bb8633"
-    },
-    {
-      "title": "Marex Group plc (MRX): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/marex-group-plc-mrx-bull-133114363.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T13:31:14Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/dfe724609d03aee73c4b8d246b5c5547",
-      "slug": "marex-group-plc-mrx-a-bull-case-theory-3a84bb8c",
-      "orig_slug": "marex-group-plc-mrx-a-bull-case-theory-3a84bb8c"
-    },
-    {
-      "title": "Oakmark Equity and Income Fund’s Top Contributor: Alphabet (GOOG)",
-      "link": "https://finance.yahoo.com/news/oakmark-equity-income-fund-top-133108617.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T13:31:08Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/6409e61fe6e177c1ebb9125c47486f11",
-      "slug": "oakmark-equity-and-income-funds-top-contributor-alphabet-goog-0b9d1068",
-      "orig_slug": "oakmark-equity-and-income-funds-top-contributor-alphabet-goog-0b9d1068"
-    },
-    {
-      "title": "Alexandria Real Estate Equities, Inc. (ARE): A Bear Case Theory",
-      "link": "https://finance.yahoo.com/news/alexandria-real-estate-equities-inc-132805099.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T13:28:05Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/799654f0608780ea586c21e56825c04b",
-      "slug": "alexandria-real-estate-equities-inc-are-a-bear-case-theory-9ecb935c",
-      "orig_slug": "alexandria-real-estate-equities-inc-are-a-bear-case-theory-9ecb935c"
     }
   ]
 }
