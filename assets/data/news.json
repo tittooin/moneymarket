@@ -1,41 +1,257 @@
 {
-  "updated": "2026-01-24T07:14:33Z",
+  "updated": "2026-01-24T08:16:53Z",
   "items": [
     {
-      "title": "Abbott Stock Suffers Worst Drop in More Than 20 Years",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-22-2026/card/abbott-stock-drops-on-slumping-sales-of-baby-formula-and-nutrition-shakes-ZNaIuJKaLdwSvBTtd0ca?siteid=yhoof2&yptr=yahoo",
+      "title": "TikTok Seals Deal to Operate in the US After Years of Drama",
+      "link": "https://finance.yahoo.com/news/tiktok-seals-deal-create-us-003822230.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-23T02:16:12Z",
+      "pubDate": "2026-01-23T03:36:23Z",
+      "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/82970919b2560ea968b85aa9103edef2",
+      "slug": "tiktok-seals-deal-to-operate-in-the-us-after-years-of-drama-0c2e7396",
+      "orig_slug": "tiktok-seals-deal-to-operate-in-the-us-after-years-of-drama-0c2e7396"
+    },
+    {
+      "title": "Vitol Extends Brunei LNG Supply Deal Through 2031",
+      "link": "https://finance.yahoo.com/news/vitol-extends-brunei-lng-supply-033411909.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-23T03:34:11Z",
+      "image": "https://s.yimg.com/os/en/oilprice.com/230f6f76e99c72b65525f4789e607d63",
+      "slug": "vitol-extends-brunei-lng-supply-deal-through-2031-b61d6e5b",
+      "orig_slug": "vitol-extends-brunei-lng-supply-deal-through-2031-b61d6e5b"
+    },
+    {
+      "title": "Is VEON Ltd. (VEON) One of the Best Cheap Stocks That Will Skyrocket?",
+      "link": "https://finance.yahoo.com/news/veon-ltd-veon-one-best-032145743.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-23T03:21:45Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/93c7ef45b6118326a2ca4e3756556629",
+      "slug": "is-veon-ltd-veon-one-of-the-best-cheap-stocks-that-will-skyrocket-09cd2538",
+      "orig_slug": "is-veon-ltd-veon-one-of-the-best-cheap-stocks-that-will-skyrocket-09cd2538"
+    },
+    {
+      "title": "Needham and Stifel Bullish on Tenable Holdings Inc. (TENB) Amid Billing Pattern Changes",
+      "link": "https://finance.yahoo.com/news/needham-stifel-bullish-tenable-holdings-032139682.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-23T03:21:39Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/7ded8050fa143f50b8904a407b2c79b6",
+      "slug": "needham-and-stifel-bullish-on-tenable-holdings-inc-tenb-amid-billing-pattern-cha-10f218bc",
+      "orig_slug": "needham-and-stifel-bullish-on-tenable-holdings-inc-tenb-amid-billing-pattern-cha-10f218bc"
+    },
+    {
+      "title": "Soleno Therapeutics Inc. (SLNO): Analysts See Major Upside",
+      "link": "https://finance.yahoo.com/news/soleno-therapeutics-inc-slno-analysts-032135433.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-23T03:21:35Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/b7efa8709372b33b3f5ec8cc30602094",
+      "slug": "soleno-therapeutics-inc-slno-analysts-see-major-upside-9a47464e",
+      "orig_slug": "soleno-therapeutics-inc-slno-analysts-see-major-upside-9a47464e"
+    },
+    {
+      "title": "Asia Market Open: Bitcoin Dips Below $90K, Wall Street Rebound Lifts Asia Risk Mood",
+      "link": "https://finance.yahoo.com/news/asia-market-open-bitcoin-dips-033440704.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-23T03:34:40Z",
+      "image": "https://s.yimg.com/os/en/cryptonews_us_711/354f8f8b0ad43cfbaa3110edae9b4f58",
+      "slug": "asia-market-open-bitcoin-dips-below-90k-wall-street-rebound-lifts-asia-risk-mood-d4d40669",
+      "orig_slug": "asia-market-open-bitcoin-dips-below-90k-wall-street-rebound-lifts-asia-risk-mood-d4d40669"
+    },
+    {
+      "title": "Cleanspark Inc. (CLSK) Expands in Texas in Pursuit of AI and HPC Opportunities",
+      "link": "https://finance.yahoo.com/news/cleanspark-inc-clsk-expands-texas-032138041.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-23T03:21:38Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/cb1cdef7f61312a6227d15b13bc5bd2c",
+      "slug": "cleanspark-inc-clsk-expands-in-texas-in-pursuit-of-ai-and-hpc-opportunities-6ac6b4fc",
+      "orig_slug": "cleanspark-inc-clsk-expands-in-texas-in-pursuit-of-ai-and-hpc-opportunities-6ac6b4fc"
+    },
+    {
+      "title": "Pagaya Technologies Ltd. (PGY) is a Market Outperform on Strong Unit Economics and Operating Leverage: Citizens",
+      "link": "https://finance.yahoo.com/news/pagaya-technologies-ltd-pgy-market-032132932.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-23T03:21:32Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/c39fbae5690d4b5dbaa666dd79ac741a",
+      "slug": "pagaya-technologies-ltd-pgy-is-a-market-outperform-on-strong-unit-economics-and--a0ca0483",
+      "orig_slug": "pagaya-technologies-ltd-pgy-is-a-market-outperform-on-strong-unit-economics-and--a0ca0483"
+    },
+    {
+      "title": "Enovis Corporation (ENOV): Orthopedic Innovation and Growth Potential Drive Analyst Confidence",
+      "link": "https://finance.yahoo.com/news/enovis-corporation-enov-orthopedic-innovation-032141683.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-23T03:21:41Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/73357b7f9bd79376b9c5060ce2bc5524",
+      "slug": "enovis-corporation-enov-orthopedic-innovation-and-growth-potential-drive-analyst-d6fd8f8d",
+      "orig_slug": "enovis-corporation-enov-orthopedic-innovation-and-growth-potential-drive-analyst-d6fd8f8d"
+    },
+    {
+      "title": "Mizuho Touts BellRing Brands Inc. (BRBR) as a Top Food Stock as Bank of America Hikes Price Target",
+      "link": "https://finance.yahoo.com/news/mizuho-touts-bellring-brands-inc-032136812.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-23T03:21:36Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/c1a0d3bbcfccdf16c7a8c3dc4058dffa",
+      "slug": "mizuho-touts-bellring-brands-inc-brbr-as-a-top-food-stock-as-bank-of-america-hik-256ac7ab",
+      "orig_slug": "mizuho-touts-bellring-brands-inc-brbr-as-a-top-food-stock-as-bank-of-america-hik-256ac7ab"
+    },
+    {
+      "title": "What Roblox Still Hasn't Fixed in 2025 -- and Why It Matters",
+      "link": "https://finance.yahoo.com/news/roblox-still-hasnt-fixed-2025-035000301.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-23T03:50:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/0127541a7baf6d4b7f5d604f26198ab7",
+      "slug": "what-roblox-still-hasnt-fixed-in-2025----and-why-it-matters-f241261e",
+      "orig_slug": "what-roblox-still-hasnt-fixed-in-2025----and-why-it-matters-f241261e"
+    },
+    {
+      "title": "Mizuho Boosts Allstate (ALL) PT to $255 as New Insurance Models Confirm Outperform Rating",
+      "link": "https://finance.yahoo.com/news/mizuho-boosts-allstate-pt-255-030006171.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-23T03:00:06Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/0ca0989b6f8fea7e8b35cdd974f0b4a3",
+      "slug": "mizuho-boosts-allstate-all-pt-to-255-as-new-insurance-models-confirm-outperform--6ab2ce94",
+      "orig_slug": "mizuho-boosts-allstate-all-pt-to-255-as-new-insurance-models-confirm-outperform--6ab2ce94"
+    },
+    {
+      "title": "BofA Lifts Devon Energy (DVN) PT to $46, Favoring Its Resilient Portfolio",
+      "link": "https://finance.yahoo.com/news/bofa-lifts-devon-energy-dvn-030005500.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-23T03:00:05Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/ce74cb4e24f6aeeae8f41ae50a33944c",
+      "slug": "bofa-lifts-devon-energy-dvn-pt-to-46-favoring-its-resilient-portfolio-25398ec9",
+      "orig_slug": "bofa-lifts-devon-energy-dvn-pt-to-46-favoring-its-resilient-portfolio-25398ec9"
+    },
+    {
+      "title": "TD Cowen Cites Expanding Balance Sheets, Shifting Fed Leadership as Key Catalysts for US Bancorp (USB)",
+      "link": "https://finance.yahoo.com/news/td-cowen-cites-expanding-balance-030001272.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-23T03:00:01Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/7ce52b0079bf51dfbc78eead3956ae5e",
+      "slug": "td-cowen-cites-expanding-balance-sheets-shifting-fed-leadership-as-key-catalysts-65097186",
+      "orig_slug": "td-cowen-cites-expanding-balance-sheets-shifting-fed-leadership-as-key-catalysts-65097186"
+    },
+    {
+      "title": "TD Cowen Cites Asset Repricing, Potential Fed Shifts as Key Bullish Catalysts for Truist Financial (TFC)",
+      "link": "https://finance.yahoo.com/news/td-cowen-cites-asset-repricing-030003807.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-23T03:00:03Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/85d43faf004287f1a66b405e5218bfe2",
+      "slug": "td-cowen-cites-asset-repricing-potential-fed-shifts-as-key-bullish-catalysts-for-b4d12efe",
+      "orig_slug": "td-cowen-cites-asset-repricing-potential-fed-shifts-as-key-bullish-catalysts-for-b4d12efe"
+    },
+    {
+      "title": "TikTok Finalizes Deal to Keep Operating in the U.S.",
+      "link": "https://www.wsj.com/tech/tiktok-finalizes-deal-to-keep-operating-in-the-u-s-dd2c161a?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-23T03:23:00Z",
       "image": "",
-      "slug": "abbott-stock-suffers-worst-drop-in-more-than-20-years-47624823",
-      "orig_slug": "abbott-stock-suffers-worst-drop-in-more-than-20-years-47624823"
+      "slug": "tiktok-finalizes-deal-to-keep-operating-in-the-us-235504d0",
+      "orig_slug": "tiktok-finalizes-deal-to-keep-operating-in-the-us-235504d0"
     },
     {
-      "title": "CSX sees small drop in revenue, slight gain in volume",
-      "link": "https://finance.yahoo.com/news/csx-sees-small-drop-revenue-020317445.html",
+      "title": "Truist Expects Core Revenue Growth to Drive BNY Mellon (BK) Profitability Despite Expense, Buyback Headwinds",
+      "link": "https://finance.yahoo.com/news/truist-expects-core-revenue-growth-030011150.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-23T02:03:17Z",
-      "image": "https://s.yimg.com/os/en/freightwaves_373/60425b9c04c58cdc5fbf04263d61f8f4",
-      "slug": "csx-sees-small-drop-in-revenue-slight-gain-in-volume-09d56b92",
-      "orig_slug": "csx-sees-small-drop-in-revenue-slight-gain-in-volume-09d56b92"
+      "pubDate": "2026-01-23T03:00:11Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/c6749faf0c74a6ac0bdf494cbbd4ca40",
+      "slug": "truist-expects-core-revenue-growth-to-drive-bny-mellon-bk-profitability-despite--12fff5e3",
+      "orig_slug": "truist-expects-core-revenue-growth-to-drive-bny-mellon-bk-profitability-despite--12fff5e3"
     },
     {
-      "title": "Best brokers for buying fractional shares",
-      "link": "https://finance.yahoo.com/news/best-brokers-fractional-share-investing-051318904.html",
+      "title": "RBC Capital Expects Seasonal Loan Growth, Improved Credit Quality for Synchrony Financial (SYF) Heading into 2026",
+      "link": "https://finance.yahoo.com/news/rbc-capital-expects-seasonal-loan-030000683.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-23T01:10:25Z",
-      "image": "https://media.zenfs.com/en/bankrate_626/7faa18006b64c4bfde7f46c36282ae10",
-      "slug": "best-brokers-for-buying-fractional-shares-3c725bcc",
-      "orig_slug": "best-brokers-for-buying-fractional-shares-3c725bcc"
+      "pubDate": "2026-01-23T03:00:00Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/a1b55c778f71cbd4d50543ab309ad7df",
+      "slug": "rbc-capital-expects-seasonal-loan-growth-improved-credit-quality-for-synchrony-f-dd3e21dc",
+      "orig_slug": "rbc-capital-expects-seasonal-loan-growth-improved-credit-quality-for-synchrony-f-dd3e21dc"
     },
     {
-      "title": "JPMorgan Notes Improving Spending Environment for Calix (CALX) Among Broadband Service Providers",
-      "link": "https://finance.yahoo.com/news/jpmorgan-notes-improving-spending-environment-025239925.html",
+      "title": "Jefferies Raises EQT Corp. (EQT) PT to $71, Cites Strong Q4 Earnings Outlook",
+      "link": "https://finance.yahoo.com/news/jefferies-raises-eqt-corp-eqt-030018263.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-23T02:52:39Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/4e4eeed64d6ca5c5e4b52c4676842ce4",
-      "slug": "jpmorgan-notes-improving-spending-environment-for-calix-calx-among-broadband-ser-f7b347fc",
-      "orig_slug": "jpmorgan-notes-improving-spending-environment-for-calix-calx-among-broadband-ser-f7b347fc"
+      "pubDate": "2026-01-23T03:00:18Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/727848f5a5743b33a44b8c8b46541f85",
+      "slug": "jefferies-raises-eqt-corp-eqt-pt-to-71-cites-strong-q4-earnings-outlook-43bd4e61",
+      "orig_slug": "jefferies-raises-eqt-corp-eqt-pt-to-71-cites-strong-q4-earnings-outlook-43bd4e61"
+    },
+    {
+      "title": "Goldman Sachs Cuts Industry Outlook as Government Shutdown Drags on United Airlines’ (UAL) Q4 Earnings Expectations",
+      "link": "https://finance.yahoo.com/news/goldman-sachs-cuts-industry-outlook-030014744.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-23T03:00:14Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/ef6c17d4ac1945460649787055a06701",
+      "slug": "goldman-sachs-cuts-industry-outlook-as-government-shutdown-drags-on-united-airli-4badac4c",
+      "orig_slug": "goldman-sachs-cuts-industry-outlook-as-government-shutdown-drags-on-united-airli-4badac4c"
+    },
+    {
+      "title": "Japan Holds Rates at 0.75%: What It Means for Crypto Markets",
+      "link": "https://finance.yahoo.com/news/japan-holds-rates-0-75-040101949.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-23T04:01:01Z",
+      "image": "https://media.zenfs.com/en/beincrypto_us_662/b497458136793daf6dbdfbe36707fe8c",
+      "slug": "japan-holds-rates-at-075-what-it-means-for-crypto-markets-645e98f6",
+      "orig_slug": "japan-holds-rates-at-075-what-it-means-for-crypto-markets-645e98f6"
+    },
+    {
+      "title": "RBC Capital Maintains Constructive Stance on Webster Financial (WBS) Following Q4 Preview",
+      "link": "https://finance.yahoo.com/news/rbc-capital-maintains-constructive-stance-030015238.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-23T03:00:15Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/72eb647118def60c0344800bbe895d96",
+      "slug": "rbc-capital-maintains-constructive-stance-on-webster-financial-wbs-following-q4--1409b6d7",
+      "orig_slug": "rbc-capital-maintains-constructive-stance-on-webster-financial-wbs-following-q4--1409b6d7"
+    },
+    {
+      "title": "Scotiabank Lowers EOG Resources (EOG) PT to $123, Cites Stable Production, Sector-Wide Adjustments",
+      "link": "https://finance.yahoo.com/news/scotiabank-lowers-eog-resources-eog-030009986.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-23T03:00:09Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/2dee577f606a4142b6884884737cf7de",
+      "slug": "scotiabank-lowers-eog-resources-eog-pt-to-123-cites-stable-production-sector-wid-f8496797",
+      "orig_slug": "scotiabank-lowers-eog-resources-eog-pt-to-123-cites-stable-production-sector-wid-f8496797"
+    },
+    {
+      "title": "HSBC Upgrades Chubb (CB) to Buy With a $354 PT",
+      "link": "https://finance.yahoo.com/news/hsbc-upgrades-chubb-cb-buy-030012788.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-23T03:00:12Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/b0e4c57de9fa06945e127d64205b8c25",
+      "slug": "hsbc-upgrades-chubb-cb-to-buy-with-a-354-pt-ec01af4b",
+      "orig_slug": "hsbc-upgrades-chubb-cb-to-buy-with-a-354-pt-ec01af4b"
+    },
+    {
+      "title": "Scotiabank Adjusts Marathon Petroleum (MPC) PT to $174, Shifts Focus to 2026 Guidance, Cost-Saving Potential",
+      "link": "https://finance.yahoo.com/news/scotiabank-adjusts-marathon-petroleum-mpc-025958178.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-23T02:59:58Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/7746916dc82119be00709fa019315081",
+      "slug": "scotiabank-adjusts-marathon-petroleum-mpc-pt-to-174-shifts-focus-to-2026-guidanc-ea117d61",
+      "orig_slug": "scotiabank-adjusts-marathon-petroleum-mpc-pt-to-174-shifts-focus-to-2026-guidanc-ea117d61"
+    },
+    {
+      "title": "Crypto’s 2025 ‘whipsaw’ year drove capitulation as markets look toward a 2026 rebound, Pantera says",
+      "link": "https://finance.yahoo.com/news/crypto-2025-whipsaw-drove-capitulation-040148396.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-23T04:01:48Z",
+      "image": "https://media.zenfs.com/en/coindesk_75/86f7b46b011038ebc30636d10c1a1611",
+      "slug": "cryptos-2025-whipsaw-year-drove-capitulation-as-markets-look-toward-a-2026-rebou-9c626d3e",
+      "orig_slug": "cryptos-2025-whipsaw-year-drove-capitulation-as-markets-look-toward-a-2026-rebou-9c626d3e"
+    },
+    {
+      "title": "Seaport Research Maintains Buy Rating for Delta Air Lines (DAL) With $88 PT Amid Market Volatility",
+      "link": "https://finance.yahoo.com/news/seaport-research-maintains-buy-rating-030017179.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-23T03:00:17Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/6063309cea48816349150e8e1129f294",
+      "slug": "seaport-research-maintains-buy-rating-for-delta-air-lines-dal-with-88-pt-amid-ma-0854866a",
+      "orig_slug": "seaport-research-maintains-buy-rating-for-delta-air-lines-dal-with-88-pt-amid-ma-0854866a"
+    },
+    {
+      "title": "BofA Remains Positive on Travere Despite FDA Decision Delay for Filspari",
+      "link": "https://finance.yahoo.com/news/bofa-remains-positive-travere-despite-025255677.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-23T02:52:55Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/9ddf11d1d06b04560e363fc68e049ef9",
+      "slug": "bofa-remains-positive-on-travere-despite-fda-decision-delay-for-filspari-c450fa2d",
+      "orig_slug": "bofa-remains-positive-on-travere-despite-fda-decision-delay-for-filspari-c450fa2d"
     },
     {
       "title": "RBC Capital Initiates Silicon Laboratories (SLAB), Waits for New Wi-Fi Tech to Gain Traction",
@@ -47,15 +263,6 @@
       "orig_slug": "rbc-capital-initiates-silicon-laboratories-slab-waits-for-new-wi-fi-tech-to-gain-6689f9dd"
     },
     {
-      "title": "NVDA, PLTR, small cap stock bets reset after Greenland U-turn",
-      "link": "https://finance.yahoo.com/news/nvda-pltr-small-cap-stock-021422143.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-23T02:14:22Z",
-      "image": "https://s.yimg.com/os/en/thestreet_881/334c047582ff540e09600613b6165cd5",
-      "slug": "nvda-pltr-small-cap-stock-bets-reset-after-greenland-u-turn-caa086a2",
-      "orig_slug": "nvda-pltr-small-cap-stock-bets-reset-after-greenland-u-turn-caa086a2"
-    },
-    {
       "title": "Morgan Stanley Upgrades Appian (APPN) on Undervalued Growth, Federal Sector Momentum",
       "link": "https://finance.yahoo.com/news/morgan-stanley-upgrades-appian-appn-025242809.html",
       "source": "finance.yahoo.com",
@@ -65,49 +272,22 @@
       "orig_slug": "morgan-stanley-upgrades-appian-appn-on-undervalued-growth-federal-sector-momentu-77d07700"
     },
     {
-      "title": "Mizuho Anticipates Sustained Restaurant Price War Through 2026 as Chains Fight to Reclaim Market Share From Grocers",
-      "link": "https://finance.yahoo.com/news/mizuho-anticipates-sustained-restaurant-price-025247461.html",
+      "title": "Is Now the Time to Move Away From the \"Magnificent Seven\" and Into Small-Cap Stocks?",
+      "link": "https://finance.yahoo.com/news/now-time-move-away-magnificent-032000282.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-23T02:52:47Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/46578501a92cf06d0d2c418e7f229e4b",
-      "slug": "mizuho-anticipates-sustained-restaurant-price-war-through-2026-as-chains-fight-t-9e408cb1",
-      "orig_slug": "mizuho-anticipates-sustained-restaurant-price-war-through-2026-as-chains-fight-t-9e408cb1"
+      "pubDate": "2026-01-23T03:20:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/729bdc4a1649de3006c38185c734db73",
+      "slug": "is-now-the-time-to-move-away-from-the-magnificent-seven-and-into-small-cap-stock-67f5ba1d",
+      "orig_slug": "is-now-the-time-to-move-away-from-the-magnificent-seven-and-into-small-cap-stock-67f5ba1d"
     },
     {
-      "title": "UBS Raises Alignment Healthcare PT to $21 on Strong Membership Growth, 2026 EBITDA Outlook",
-      "link": "https://finance.yahoo.com/news/ubs-raises-alignment-healthcare-pt-025248074.html",
+      "title": "Morgan Stanley Views Zeta Global (ZETA) as Selectively Opportunistic Amid Easing AI Concerns for 2026",
+      "link": "https://finance.yahoo.com/news/morgan-stanley-views-zeta-global-025254733.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-23T02:52:48Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/32ddfbd5bc680cb2485e975dac4619dd",
-      "slug": "ubs-raises-alignment-healthcare-pt-to-21-on-strong-membership-growth-2026-ebitda-b5b176f4",
-      "orig_slug": "ubs-raises-alignment-healthcare-pt-to-21-on-strong-membership-growth-2026-ebitda-b5b176f4"
-    },
-    {
-      "title": "Stifel Raises SiTime (SITM) PT as Edge AI Becomes a Reality for 2026 Earnings",
-      "link": "https://finance.yahoo.com/news/stifel-raises-sitime-sitm-pt-025245305.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-23T02:52:45Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/0ee30ec9ad8349ce0b6c8deff9b4f616",
-      "slug": "stifel-raises-sitime-sitm-pt-as-edge-ai-becomes-a-reality-for-2026-earnings-70f75fd9",
-      "orig_slug": "stifel-raises-sitime-sitm-pt-as-edge-ai-becomes-a-reality-for-2026-earnings-70f75fd9"
-    },
-    {
-      "title": "Stocks Shake Off Trump Greenland Uncertainty With a Fresh TACO Trade Rally",
-      "link": "https://finance.yahoo.com/news/stocks-shake-off-trump-greenland-021650556.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-23T02:16:50Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/e3ee22492c163aea83fbe82117d68e47",
-      "slug": "stocks-shake-off-trump-greenland-uncertainty-with-a-fresh-taco-trade-rally-054e8a5a",
-      "orig_slug": "stocks-shake-off-trump-greenland-uncertainty-with-a-fresh-taco-trade-rally-054e8a5a"
-    },
-    {
-      "title": "Truist Analyst Matthew Coad Raises Global-E Online (GLBE) PT to $43 Following FinTech Sector Preview",
-      "link": "https://finance.yahoo.com/news/truist-analyst-matthew-coad-raises-025244195.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-23T02:52:44Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/c90a94a787154b9262f07cee20cb9042",
-      "slug": "truist-analyst-matthew-coad-raises-global-e-online-glbe-pt-to-43-following-finte-9fef288f",
-      "orig_slug": "truist-analyst-matthew-coad-raises-global-e-online-glbe-pt-to-43-following-finte-9fef288f"
+      "pubDate": "2026-01-23T02:52:54Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/f9c00d41feb0317b707cb3dc3c792d14",
+      "slug": "morgan-stanley-views-zeta-global-zeta-as-selectively-opportunistic-amid-easing-a-6fbf563a",
+      "orig_slug": "morgan-stanley-views-zeta-global-zeta-as-selectively-opportunistic-amid-easing-a-6fbf563a"
     },
     {
       "title": "Baird Updates Mirum Pharmaceuticals (MIRM) Valuation Following Beat-and-Raise Earnings Results",
@@ -137,31 +317,22 @@
       "orig_slug": "piper-sandler-bullish-on-axsome-therapeutics-axsm-ahead-of-likely-auvelity-label-b2ce92f8"
     },
     {
-      "title": "Is Lucid Stock a Buy Now?",
-      "link": "https://finance.yahoo.com/news/lucid-stock-buy-now-022500152.html",
+      "title": "Popular convenience store chain closing forever",
+      "link": "https://finance.yahoo.com/news/growing-trend-causes-another-popular-223400794.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-23T02:25:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/06d31b66d2381aaef85443c9c693d064",
-      "slug": "is-lucid-stock-a-buy-now-820a4730",
-      "orig_slug": "is-lucid-stock-a-buy-now-820a4730"
+      "pubDate": "2026-01-23T03:14:09Z",
+      "image": "https://s.yimg.com/os/en/thestreet_881/9322f19b8dfa13ff6c468c8e510089f2",
+      "slug": "popular-convenience-store-chain-closing-forever-bc44f190",
+      "orig_slug": "popular-convenience-store-chain-closing-forever-bc44f190"
     },
     {
-      "title": "Morgan Stanley Views Zeta Global (ZETA) as Selectively Opportunistic Amid Easing AI Concerns for 2026",
-      "link": "https://finance.yahoo.com/news/morgan-stanley-views-zeta-global-025254733.html",
+      "title": "Truist Analyst Matthew Coad Raises Global-E Online (GLBE) PT to $43 Following FinTech Sector Preview",
+      "link": "https://finance.yahoo.com/news/truist-analyst-matthew-coad-raises-025244195.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-23T02:52:54Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/f9c00d41feb0317b707cb3dc3c792d14",
-      "slug": "morgan-stanley-views-zeta-global-zeta-as-selectively-opportunistic-amid-easing-a-6fbf563a",
-      "orig_slug": "morgan-stanley-views-zeta-global-zeta-as-selectively-opportunistic-amid-easing-a-6fbf563a"
-    },
-    {
-      "title": "BofA Remains Positive on Travere Despite FDA Decision Delay for Filspari",
-      "link": "https://finance.yahoo.com/news/bofa-remains-positive-travere-despite-025255677.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-23T02:52:55Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/9ddf11d1d06b04560e363fc68e049ef9",
-      "slug": "bofa-remains-positive-on-travere-despite-fda-decision-delay-for-filspari-c450fa2d",
-      "orig_slug": "bofa-remains-positive-on-travere-despite-fda-decision-delay-for-filspari-c450fa2d"
+      "pubDate": "2026-01-23T02:52:44Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/c90a94a787154b9262f07cee20cb9042",
+      "slug": "truist-analyst-matthew-coad-raises-global-e-online-glbe-pt-to-43-following-finte-9fef288f",
+      "orig_slug": "truist-analyst-matthew-coad-raises-global-e-online-glbe-pt-to-43-following-finte-9fef288f"
     },
     {
       "title": "UBS Tags Repligen (RGEN) as Bioprocessing Leader for 2026, Cites 20% Order Growth and Reshoring Tailwinds",
@@ -173,211 +344,40 @@
       "orig_slug": "ubs-tags-repligen-rgen-as-bioprocessing-leader-for-2026-cites-20-order-growth-an-0f71a3ee"
     },
     {
-      "title": "TikTok seals deal for new US joint venture to avoid American ban",
-      "link": "https://finance.yahoo.com/news/tiktok-reaches-deal-us-joint-010506658.html",
+      "title": "Mizuho Anticipates Sustained Restaurant Price War Through 2026 as Chains Fight to Reclaim Market Share From Grocers",
+      "link": "https://finance.yahoo.com/news/mizuho-anticipates-sustained-restaurant-price-025247461.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-23T01:05:06Z",
-      "image": "https://s.yimg.com/os/en/reuters-finance.com/ff9b4c8c5391cee004ec55b346e0cab9",
-      "slug": "tiktok-seals-deal-for-new-us-joint-venture-to-avoid-american-ban-a287da17",
-      "orig_slug": "tiktok-seals-deal-for-new-us-joint-venture-to-avoid-american-ban-a287da17"
+      "pubDate": "2026-01-23T02:52:47Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/46578501a92cf06d0d2c418e7f229e4b",
+      "slug": "mizuho-anticipates-sustained-restaurant-price-war-through-2026-as-chains-fight-t-9e408cb1",
+      "orig_slug": "mizuho-anticipates-sustained-restaurant-price-war-through-2026-as-chains-fight-t-9e408cb1"
     },
     {
-      "title": "I’m 75 and still working, but my job is boring. Can I retire with $830K in cash and investments?",
-      "link": "https://finance.yahoo.com/news/m-75-still-working-job-022100759.html",
+      "title": "UBS Raises Alignment Healthcare PT to $21 on Strong Membership Growth, 2026 EBITDA Outlook",
+      "link": "https://finance.yahoo.com/news/ubs-raises-alignment-healthcare-pt-025248074.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-23T02:21:00Z",
-      "image": "https://media.zenfs.com/en/marketwatch_hosted_869/4fbd8cfc61c4e6fec9e045732c39bc22",
-      "slug": "im-75-and-still-working-but-my-job-is-boring-can-i-retire-with-830k-in-cash-and--fe57b243",
-      "orig_slug": "im-75-and-still-working-but-my-job-is-boring-can-i-retire-with-830k-in-cash-and--fe57b243"
+      "pubDate": "2026-01-23T02:52:48Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/32ddfbd5bc680cb2485e975dac4619dd",
+      "slug": "ubs-raises-alignment-healthcare-pt-to-21-on-strong-membership-growth-2026-ebitda-b5b176f4",
+      "orig_slug": "ubs-raises-alignment-healthcare-pt-to-21-on-strong-membership-growth-2026-ebitda-b5b176f4"
     },
     {
-      "title": "HSBC Upgrades Chubb (CB) to Buy With a $354 PT",
-      "link": "https://finance.yahoo.com/news/hsbc-upgrades-chubb-cb-buy-030012788.html",
+      "title": "TikTok avoids US ban by finalizing historic Trump-backed American majority ownership deal",
+      "link": "https://finance.yahoo.com/news/tiktok-avoids-us-ban-finalizing-031328391.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-23T03:00:12Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/b0e4c57de9fa06945e127d64205b8c25",
-      "slug": "hsbc-upgrades-chubb-cb-to-buy-with-a-354-pt-ec01af4b",
-      "orig_slug": "hsbc-upgrades-chubb-cb-to-buy-with-a-354-pt-ec01af4b"
+      "pubDate": "2026-01-23T03:13:28Z",
+      "image": "https://media.zenfs.com/en/fox_business_text_367/d2eed0a051ab559396fae817120e9c28",
+      "slug": "tiktok-avoids-us-ban-by-finalizing-historic-trump-backed-american-majority-owner-2a882415",
+      "orig_slug": "tiktok-avoids-us-ban-by-finalizing-historic-trump-backed-american-majority-owner-2a882415"
     },
     {
-      "title": "BofA Lifts Devon Energy (DVN) PT to $46, Favoring Its Resilient Portfolio",
-      "link": "https://finance.yahoo.com/news/bofa-lifts-devon-energy-dvn-030005500.html",
+      "title": "JPMorgan Notes Improving Spending Environment for Calix (CALX) Among Broadband Service Providers",
+      "link": "https://finance.yahoo.com/news/jpmorgan-notes-improving-spending-environment-025239925.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-23T03:00:05Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/ce74cb4e24f6aeeae8f41ae50a33944c",
-      "slug": "bofa-lifts-devon-energy-dvn-pt-to-46-favoring-its-resilient-portfolio-25398ec9",
-      "orig_slug": "bofa-lifts-devon-energy-dvn-pt-to-46-favoring-its-resilient-portfolio-25398ec9"
-    },
-    {
-      "title": "RBC Capital Expects Seasonal Loan Growth, Improved Credit Quality for Synchrony Financial (SYF) Heading into 2026",
-      "link": "https://finance.yahoo.com/news/rbc-capital-expects-seasonal-loan-030000683.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-23T03:00:00Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/a1b55c778f71cbd4d50543ab309ad7df",
-      "slug": "rbc-capital-expects-seasonal-loan-growth-improved-credit-quality-for-synchrony-f-dd3e21dc",
-      "orig_slug": "rbc-capital-expects-seasonal-loan-growth-improved-credit-quality-for-synchrony-f-dd3e21dc"
-    },
-    {
-      "title": "Jefferies Raises EQT Corp. (EQT) PT to $71, Cites Strong Q4 Earnings Outlook",
-      "link": "https://finance.yahoo.com/news/jefferies-raises-eqt-corp-eqt-030018263.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-23T03:00:18Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/727848f5a5743b33a44b8c8b46541f85",
-      "slug": "jefferies-raises-eqt-corp-eqt-pt-to-71-cites-strong-q4-earnings-outlook-43bd4e61",
-      "orig_slug": "jefferies-raises-eqt-corp-eqt-pt-to-71-cites-strong-q4-earnings-outlook-43bd4e61"
-    },
-    {
-      "title": "Down More Than 70% From Its High, Is Circle Internet Group a Cheap Buy Right Now?",
-      "link": "https://finance.yahoo.com/news/down-more-70-high-circle-020900214.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-23T02:09:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/f56cf1872e6757d449c52eb0876a87a4",
-      "slug": "down-more-than-70-from-its-high-is-circle-internet-group-a-cheap-buy-right-now-6bc354b2",
-      "orig_slug": "down-more-than-70-from-its-high-is-circle-internet-group-a-cheap-buy-right-now-6bc354b2"
-    },
-    {
-      "title": "Goldman Sachs Cuts Industry Outlook as Government Shutdown Drags on United Airlines’ (UAL) Q4 Earnings Expectations",
-      "link": "https://finance.yahoo.com/news/goldman-sachs-cuts-industry-outlook-030014744.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-23T03:00:14Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/ef6c17d4ac1945460649787055a06701",
-      "slug": "goldman-sachs-cuts-industry-outlook-as-government-shutdown-drags-on-united-airli-4badac4c",
-      "orig_slug": "goldman-sachs-cuts-industry-outlook-as-government-shutdown-drags-on-united-airli-4badac4c"
-    },
-    {
-      "title": "Truist Expects Core Revenue Growth to Drive BNY Mellon (BK) Profitability Despite Expense, Buyback Headwinds",
-      "link": "https://finance.yahoo.com/news/truist-expects-core-revenue-growth-030011150.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-23T03:00:11Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/c6749faf0c74a6ac0bdf494cbbd4ca40",
-      "slug": "truist-expects-core-revenue-growth-to-drive-bny-mellon-bk-profitability-despite--12fff5e3",
-      "orig_slug": "truist-expects-core-revenue-growth-to-drive-bny-mellon-bk-profitability-despite--12fff5e3"
-    },
-    {
-      "title": "RBC Capital Maintains Constructive Stance on Webster Financial (WBS) Following Q4 Preview",
-      "link": "https://finance.yahoo.com/news/rbc-capital-maintains-constructive-stance-030015238.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-23T03:00:15Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/72eb647118def60c0344800bbe895d96",
-      "slug": "rbc-capital-maintains-constructive-stance-on-webster-financial-wbs-following-q4--1409b6d7",
-      "orig_slug": "rbc-capital-maintains-constructive-stance-on-webster-financial-wbs-following-q4--1409b6d7"
-    },
-    {
-      "title": "Mizuho Boosts Allstate (ALL) PT to $255 as New Insurance Models Confirm Outperform Rating",
-      "link": "https://finance.yahoo.com/news/mizuho-boosts-allstate-pt-255-030006171.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-23T03:00:06Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/0ca0989b6f8fea7e8b35cdd974f0b4a3",
-      "slug": "mizuho-boosts-allstate-all-pt-to-255-as-new-insurance-models-confirm-outperform--6ab2ce94",
-      "orig_slug": "mizuho-boosts-allstate-all-pt-to-255-as-new-insurance-models-confirm-outperform--6ab2ce94"
-    },
-    {
-      "title": "Ripple President: Half Of Fortune 500 Will Have Crypto Strategies By Year-End",
-      "link": "https://finance.yahoo.com/news/ripple-president-half-fortune-500-023114437.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-23T02:31:14Z",
-      "image": "https://s.yimg.com/os/en/benzinga_79/384f1632c602ce0a28309fa732c67724",
-      "slug": "ripple-president-half-of-fortune-500-will-have-crypto-strategies-by-year-end-b3aeb1ee",
-      "orig_slug": "ripple-president-half-of-fortune-500-will-have-crypto-strategies-by-year-end-b3aeb1ee"
-    },
-    {
-      "title": "TD Cowen Cites Expanding Balance Sheets, Shifting Fed Leadership as Key Catalysts for US Bancorp (USB)",
-      "link": "https://finance.yahoo.com/news/td-cowen-cites-expanding-balance-030001272.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-23T03:00:01Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/7ce52b0079bf51dfbc78eead3956ae5e",
-      "slug": "td-cowen-cites-expanding-balance-sheets-shifting-fed-leadership-as-key-catalysts-65097186",
-      "orig_slug": "td-cowen-cites-expanding-balance-sheets-shifting-fed-leadership-as-key-catalysts-65097186"
-    },
-    {
-      "title": "Scotiabank Adjusts Marathon Petroleum (MPC) PT to $174, Shifts Focus to 2026 Guidance, Cost-Saving Potential",
-      "link": "https://finance.yahoo.com/news/scotiabank-adjusts-marathon-petroleum-mpc-025958178.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-23T02:59:58Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/7746916dc82119be00709fa019315081",
-      "slug": "scotiabank-adjusts-marathon-petroleum-mpc-pt-to-174-shifts-focus-to-2026-guidanc-ea117d61",
-      "orig_slug": "scotiabank-adjusts-marathon-petroleum-mpc-pt-to-174-shifts-focus-to-2026-guidanc-ea117d61"
-    },
-    {
-      "title": "Seaport Research Maintains Buy Rating for Delta Air Lines (DAL) With $88 PT Amid Market Volatility",
-      "link": "https://finance.yahoo.com/news/seaport-research-maintains-buy-rating-030017179.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-23T03:00:17Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/6063309cea48816349150e8e1129f294",
-      "slug": "seaport-research-maintains-buy-rating-for-delta-air-lines-dal-with-88-pt-amid-ma-0854866a",
-      "orig_slug": "seaport-research-maintains-buy-rating-for-delta-air-lines-dal-with-88-pt-amid-ma-0854866a"
-    },
-    {
-      "title": "TD Cowen Cites Asset Repricing, Potential Fed Shifts as Key Bullish Catalysts for Truist Financial (TFC)",
-      "link": "https://finance.yahoo.com/news/td-cowen-cites-asset-repricing-030003807.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-23T03:00:03Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/85d43faf004287f1a66b405e5218bfe2",
-      "slug": "td-cowen-cites-asset-repricing-potential-fed-shifts-as-key-bullish-catalysts-for-b4d12efe",
-      "orig_slug": "td-cowen-cites-asset-repricing-potential-fed-shifts-as-key-bullish-catalysts-for-b4d12efe"
-    },
-    {
-      "title": "When Your Software Company Gets Compared to a Chipmaker, Valuation Has Gone Wrong",
-      "link": "https://finance.yahoo.com/news/software-company-gets-compared-chipmaker-020037854.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-23T02:00:37Z",
-      "image": "https://media.zenfs.com/en/24_7_wall_st__718/16765eb4ddd79057bdf0bbdeb3ef7bc1",
-      "slug": "when-your-software-company-gets-compared-to-a-chipmaker-valuation-has-gone-wrong-c25b547f",
-      "orig_slug": "when-your-software-company-gets-compared-to-a-chipmaker-valuation-has-gone-wrong-c25b547f"
-    },
-    {
-      "title": "Scotiabank Lowers EOG Resources (EOG) PT to $123, Cites Stable Production, Sector-Wide Adjustments",
-      "link": "https://finance.yahoo.com/news/scotiabank-lowers-eog-resources-eog-030009986.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-23T03:00:09Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/2dee577f606a4142b6884884737cf7de",
-      "slug": "scotiabank-lowers-eog-resources-eog-pt-to-123-cites-stable-production-sector-wid-f8496797",
-      "orig_slug": "scotiabank-lowers-eog-resources-eog-pt-to-123-cites-stable-production-sector-wid-f8496797"
-    },
-    {
-      "title": "Japan's factory activity returns to growth after seven months, PMI shows",
-      "link": "https://finance.yahoo.com/news/japans-factory-activity-returns-growth-003200354.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-23T00:32:00Z",
-      "image": "https://s.yimg.com/os/en/reuters.com/a3607659c48ce80d167bd62fc2c56f54",
-      "slug": "japans-factory-activity-returns-to-growth-after-seven-months-pmi-shows-1647eed9",
-      "orig_slug": "japans-factory-activity-returns-to-growth-after-seven-months-pmi-shows-1647eed9"
-    },
-    {
-      "title": "Goldman Sachs Just Hiked Its Dividend 12.5%. Should You Buy GS Stock Now?",
-      "link": "https://finance.yahoo.com/news/goldman-sachs-just-hiked-dividend-003002490.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-23T00:30:02Z",
-      "image": "https://s.yimg.com/os/en/barchart_com_477/94fd06a5b887399adae387f908a1d953",
-      "slug": "goldman-sachs-just-hiked-its-dividend-125-should-you-buy-gs-stock-now-5d228248",
-      "orig_slug": "goldman-sachs-just-hiked-its-dividend-125-should-you-buy-gs-stock-now-5d228248"
-    },
-    {
-      "title": "Bitwise and Proficio Capital Partners ETF targets gold, metals, bitcoin as alternative to currencies",
-      "link": "https://finance.yahoo.com/news/bitwise-proficio-capital-partners-etf-001852525.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-23T00:18:52Z",
-      "image": "https://s.yimg.com/os/en/reuters-finance.com/debf6fa92a2443a202e13d3b462944b3",
-      "slug": "bitwise-and-proficio-capital-partners-etf-targets-gold-metals-bitcoin-as-alterna-190f08cb",
-      "orig_slug": "bitwise-and-proficio-capital-partners-etf-targets-gold-metals-bitcoin-as-alterna-190f08cb"
-    },
-    {
-      "title": "Better Artificial Intelligence Stock: Nvidia vs. Meta Platforms",
-      "link": "https://finance.yahoo.com/news/better-artificial-intelligence-stock-nvidia-023500691.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-23T02:35:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/5705f9917712b3d89e6e3c7588a15b2a",
-      "slug": "better-artificial-intelligence-stock-nvidia-vs-meta-platforms-5d26281a",
-      "orig_slug": "better-artificial-intelligence-stock-nvidia-vs-meta-platforms-5d26281a"
-    },
-    {
-      "title": "Mizuho Touts BellRing Brands Inc. (BRBR) as a Top Food Stock as Bank of America Hikes Price Target",
-      "link": "https://finance.yahoo.com/news/mizuho-touts-bellring-brands-inc-032136812.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-23T03:21:36Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/c1a0d3bbcfccdf16c7a8c3dc4058dffa",
-      "slug": "mizuho-touts-bellring-brands-inc-brbr-as-a-top-food-stock-as-bank-of-america-hik-256ac7ab",
-      "orig_slug": "mizuho-touts-bellring-brands-inc-brbr-as-a-top-food-stock-as-bank-of-america-hik-256ac7ab"
+      "pubDate": "2026-01-23T02:52:39Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/4e4eeed64d6ca5c5e4b52c4676842ce4",
+      "slug": "jpmorgan-notes-improving-spending-environment-for-calix-calx-among-broadband-ser-f7b347fc",
+      "orig_slug": "jpmorgan-notes-improving-spending-environment-for-calix-calx-among-broadband-ser-f7b347fc"
     }
   ]
 }
