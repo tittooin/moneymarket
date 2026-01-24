@@ -1,6 +1,87 @@
 {
-  "updated": "2026-01-24T15:13:16Z",
+  "updated": "2026-01-24T16:14:54Z",
   "items": [
+    {
+      "title": "Jim Cramer Reveals Why Apple (AAPL) Stock is Struggling",
+      "link": "https://finance.yahoo.com/news/jim-cramer-reveals-why-apple-155944112.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-24T15:59:44Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/83d002304964b8d94207c27471f8cdcd",
+      "slug": "jim-cramer-reveals-why-apple-aapl-stock-is-struggling-649a9e5a",
+      "orig_slug": "jim-cramer-reveals-why-apple-aapl-stock-is-struggling-649a9e5a"
+    },
+    {
+      "title": "Jim Cramer Says Micron (MU) Ceo Is “Doing an Amazing Job”",
+      "link": "https://finance.yahoo.com/news/jim-cramer-says-micron-mu-155851988.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-24T15:58:51Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/a07353f0567b34cc6d43062bf7eff645",
+      "slug": "jim-cramer-says-micron-mu-ceo-is-doing-an-amazing-job-85c99ad2",
+      "orig_slug": "jim-cramer-says-micron-mu-ceo-is-doing-an-amazing-job-85c99ad2"
+    },
+    {
+      "title": "Why a Nearly $30 Million Bet on BETA Stock Says More Than Its 26% Post-IPO Drop",
+      "link": "https://finance.yahoo.com/news/why-nearly-30-million-bet-154719698.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-24T15:47:19Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/25e6b58b06c9f89477abad48f6a1b39c",
+      "slug": "why-a-nearly-30-million-bet-on-beta-stock-says-more-than-its-26-post-ipo-drop-3a2f8a70",
+      "orig_slug": "why-a-nearly-30-million-bet-on-beta-stock-says-more-than-its-26-post-ipo-drop-3a2f8a70"
+    },
+    {
+      "title": "Jim Cramer Discusses ServiceNow (NOW) & OpenAI Deal",
+      "link": "https://finance.yahoo.com/news/jim-cramer-discusses-servicenow-now-153650651.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-24T15:36:50Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/e82bbc1fd07e08efde71771bf5112e97",
+      "slug": "jim-cramer-discusses-servicenow-now-openai-deal-3c86a40a",
+      "orig_slug": "jim-cramer-discusses-servicenow-now-openai-deal-3c86a40a"
+    },
+    {
+      "title": "Jim Cramer Discusses President Trump & Whirlpool (WHR)",
+      "link": "https://finance.yahoo.com/news/jim-cramer-discusses-president-trump-153544314.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-24T15:35:44Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/889ba5d09d5b418fe463c25b6cd2a638",
+      "slug": "jim-cramer-discusses-president-trump-whirlpool-whr-af932c4d",
+      "orig_slug": "jim-cramer-discusses-president-trump-whirlpool-whr-af932c4d"
+    },
+    {
+      "title": "Jim Cramer Discusses President Trump & CoreWeave (CRWV)",
+      "link": "https://finance.yahoo.com/news/jim-cramer-discusses-president-trump-153422838.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-24T15:34:22Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/619fa1bb05f655fa14fd182d5d637c40",
+      "slug": "jim-cramer-discusses-president-trump-coreweave-crwv-33fda9f9",
+      "orig_slug": "jim-cramer-discusses-president-trump-coreweave-crwv-33fda9f9"
+    },
+    {
+      "title": "Jim Cramer Discusses D.R. Horton (DHI) In Context of Interest Rates",
+      "link": "https://finance.yahoo.com/news/jim-cramer-discusses-d-r-153328946.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-24T15:33:28Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/7e40eb864849e832b528ce3543ab3cb7",
+      "slug": "jim-cramer-discusses-dr-horton-dhi-in-context-of-interest-rates-03e10cd7",
+      "orig_slug": "jim-cramer-discusses-dr-horton-dhi-in-context-of-interest-rates-03e10cd7"
+    },
+    {
+      "title": "International ETFs: Low-Cost SPDW vs. Values-Based NZAC",
+      "link": "https://finance.yahoo.com/news/international-etfs-low-cost-spdw-154502814.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-24T15:45:02Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/6b28a065be0b5031477267afbc8e62a9",
+      "slug": "international-etfs-low-cost-spdw-vs-values-based-nzac-21d441a8",
+      "orig_slug": "international-etfs-low-cost-spdw-vs-values-based-nzac-21d441a8"
+    },
+    {
+      "title": "Oracle (ORCL)’s a “Linchpin” Stock, Says Jim Cramer",
+      "link": "https://finance.yahoo.com/news/oracle-orcl-linchpin-stock-says-153222864.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-24T15:32:22Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/cbab97f037dbc8ab3a142dfa36cea1fc",
+      "slug": "oracle-orcls-a-linchpin-stock-says-jim-cramer-431c0e20",
+      "orig_slug": "oracle-orcls-a-linchpin-stock-says-jim-cramer-431c0e20"
+    },
     {
       "title": "‘Broke billionaires’ or investing geniuses? Why Beyoncé and Jay-Z took out a second $57M mortgage",
       "link": "https://finance.yahoo.com/news/broke-billionaires-investing-geniuses-why-150000316.html",
@@ -20,22 +101,94 @@
       "orig_slug": "biggest-bubble-in-history-robert-kiyosaki-warns-baby-boomers-investments-will-be-ee81acb9"
     },
     {
-      "title": "Could Buying USA Rare Earth Stock Today Set You Up for Life?",
-      "link": "https://finance.yahoo.com/news/could-buying-usa-rare-earth-143700499.html",
+      "title": "IREN (IREN) Climbs 8.5% Ahead of Earnings",
+      "link": "https://finance.yahoo.com/news/iren-iren-climbs-8-5-121629877.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-24T14:37:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/4542a3a7d93ba7b03cb667785bda4aa6",
-      "slug": "could-buying-usa-rare-earth-stock-today-set-you-up-for-life-e7255473",
-      "orig_slug": "could-buying-usa-rare-earth-stock-today-set-you-up-for-life-e7255473"
+      "pubDate": "2026-01-24T14:59:29Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/943322b567353791f7a79eefa0ce1ce0",
+      "slug": "iren-iren-climbs-85-ahead-of-earnings-7c98c561",
+      "orig_slug": "iren-iren-climbs-85-ahead-of-earnings-7c98c561"
     },
     {
-      "title": "Citi Lowers Its Price Target on Microsoft (MSFT) from $690 to $660, Reiterates a ‘Buy’ Rating",
-      "link": "https://finance.yahoo.com/news/citi-lowers-price-target-microsoft-142928065.html",
+      "title": "Why Hecla Mining Stock Just Hit an All-Time High This Week",
+      "link": "https://finance.yahoo.com/news/why-hecla-mining-stock-just-154327323.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-24T14:29:28Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/e594c84b43643f9264f217379beb7064",
-      "slug": "citi-lowers-its-price-target-on-microsoft-msft-from-690-to-660-reiterates-a-buy--e18cba70",
-      "orig_slug": "citi-lowers-its-price-target-on-microsoft-msft-from-690-to-660-reiterates-a-buy--e18cba70"
+      "pubDate": "2026-01-24T15:43:27Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/b195d4fd1a0ac82a6030284eae8dc328",
+      "slug": "why-hecla-mining-stock-just-hit-an-all-time-high-this-week-0a5956bb",
+      "orig_slug": "why-hecla-mining-stock-just-hit-an-all-time-high-this-week-0a5956bb"
+    },
+    {
+      "title": "Applied Digital (APLD) Jumps to All-Time High on Data Center Kickoff",
+      "link": "https://finance.yahoo.com/news/applied-digital-apld-jumps-time-121653409.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-24T14:58:53Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/e9308d2db0b2bfd5922203283f044d49",
+      "slug": "applied-digital-apld-jumps-to-all-time-high-on-data-center-kickoff-47e8b5a5",
+      "orig_slug": "applied-digital-apld-jumps-to-all-time-high-on-data-center-kickoff-47e8b5a5"
+    },
+    {
+      "title": "Hycroft (HYMC) Jumps to 4-Year High Anew on Gold, Silver Fever",
+      "link": "https://finance.yahoo.com/news/hycroft-hymc-jumps-4-high-121644719.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-24T14:58:44Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/b180975d27aa0de3cf9b0f2d5f3fceda",
+      "slug": "hycroft-hymc-jumps-to-4-year-high-anew-on-gold-silver-fever-73ebc370",
+      "orig_slug": "hycroft-hymc-jumps-to-4-year-high-anew-on-gold-silver-fever-73ebc370"
+    },
+    {
+      "title": "Ericsson (ERIC) Touches 3-Year High on Strong Earnings",
+      "link": "https://finance.yahoo.com/news/ericsson-eric-touches-3-high-121706633.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-24T14:57:06Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/0c1c1c9238d3f67d18deea5fdc8b4fa1",
+      "slug": "ericsson-eric-touches-3-year-high-on-strong-earnings-1ae41a00",
+      "orig_slug": "ericsson-eric-touches-3-year-high-on-strong-earnings-1ae41a00"
+    },
+    {
+      "title": "Americas Gold and Silver Corp. (USAS) Climbs to 52-Week High on Precious Metals’ Surge",
+      "link": "https://finance.yahoo.com/news/americas-gold-silver-corp-usas-121745934.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-24T14:56:45Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/cfdbc68c5433a09e3f42a08dbfc56748",
+      "slug": "americas-gold-and-silver-corp-usas-climbs-to-52-week-high-on-precious-metals-sur-08b48fdc",
+      "orig_slug": "americas-gold-and-silver-corp-usas-climbs-to-52-week-high-on-precious-metals-sur-08b48fdc"
+    },
+    {
+      "title": "2 Popular Cryptos to Sell Before They Plummet",
+      "link": "https://finance.yahoo.com/news/2-popular-cryptos-sell-plummet-154200111.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-24T15:42:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/be44871ebd9b896940b6a73dc943165b",
+      "slug": "2-popular-cryptos-to-sell-before-they-plummet-7755f47d",
+      "orig_slug": "2-popular-cryptos-to-sell-before-they-plummet-7755f47d"
+    },
+    {
+      "title": "TeraWulf (WULF) Soars 9.5% on Tech Rally",
+      "link": "https://finance.yahoo.com/news/terawulf-wulf-soars-9-5-121733738.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-24T14:56:33Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/ffc9aa9d21d10b83a3e757ea235712a9",
+      "slug": "terawulf-wulf-soars-95-on-tech-rally-1b5d5d17",
+      "orig_slug": "terawulf-wulf-soars-95-on-tech-rally-1b5d5d17"
+    },
+    {
+      "title": "EquipmentShare (EQPT) Soars 33% on Market Debut",
+      "link": "https://finance.yahoo.com/news/equipmentshare-eqpt-soars-33-market-122140780.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-24T14:55:40Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/01d685c9b867fa5e6c98d618bb37f614",
+      "slug": "equipmentshare-eqpt-soars-33-on-market-debut-482713aa",
+      "orig_slug": "equipmentshare-eqpt-soars-33-on-market-debut-482713aa"
+    },
+    {
+      "title": "Critical Metals (CRML) Jumps 11% on International Expansion",
+      "link": "https://finance.yahoo.com/news/critical-metals-crml-jumps-11-121757507.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-24T14:54:57Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/88a7d99160e6aac52cb070a305fd1a67",
+      "slug": "critical-metals-crml-jumps-11-on-international-expansion-4a406079",
+      "orig_slug": "critical-metals-crml-jumps-11-on-international-expansion-4a406079"
     },
     {
       "title": "NVIDIA (NVDA) CEO Jensen Huang Frames AI as the Largest Infrastructure Buildout in Human History",
@@ -45,6 +198,24 @@
       "image": "https://media.zenfs.com/en/insidermonkey.com/e5778e17a7b89081a7a835e7c30370ab",
       "slug": "nvidia-nvda-ceo-jensen-huang-frames-ai-as-the-largest-infrastructure-buildout-in-ce4142a0",
       "orig_slug": "nvidia-nvda-ceo-jensen-huang-frames-ai-as-the-largest-infrastructure-buildout-in-ce4142a0"
+    },
+    {
+      "title": "Could Investing $2,000 in the Schwab U.S. Dividend Equity ETF Make You a Millionaire?",
+      "link": "https://finance.yahoo.com/news/could-investing-2-000-schwab-153500908.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-24T15:35:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/5715588a4edca394075b44bbf8581fda",
+      "slug": "could-investing-2000-in-the-schwab-us-dividend-equity-etf-make-you-a-millionaire-350a9b5c",
+      "orig_slug": "could-investing-2000-in-the-schwab-us-dividend-equity-etf-make-you-a-millionaire-350a9b5c"
+    },
+    {
+      "title": "Citi Lowers Its Price Target on Microsoft (MSFT) from $690 to $660, Reiterates a ‘Buy’ Rating",
+      "link": "https://finance.yahoo.com/news/citi-lowers-price-target-microsoft-142928065.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-24T14:29:28Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/e594c84b43643f9264f217379beb7064",
+      "slug": "citi-lowers-its-price-target-on-microsoft-msft-from-690-to-660-reiterates-a-buy--e18cba70",
+      "orig_slug": "citi-lowers-its-price-target-on-microsoft-msft-from-690-to-660-reiterates-a-buy--e18cba70"
     },
     {
       "title": "Amazon.com (AMZN)’s E-Commerce Platform Faces Tariff-Related Price Spikes",
@@ -65,15 +236,6 @@
       "orig_slug": "jpmorgan-ceo-jamie-dimon-sees-rising-regulatory-risk-for-card-networks-such-as-v-67cc3ae9"
     },
     {
-      "title": "Elon Musk Says FSD's $99/Month Subscription Fee Will Rise As Tesla Scraps Autopilot In US: 'You Can Be On Your Phone…'",
-      "link": "https://finance.yahoo.com/news/elon-musk-says-fsds-99-143103862.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-24T14:31:03Z",
-      "image": "https://s.yimg.com/os/en/Benzinga/520c12548e8abd70695e9a15581e5463",
-      "slug": "elon-musk-says-fsds-99month-subscription-fee-will-rise-as-tesla-scraps-autopilot-4f48b250",
-      "orig_slug": "elon-musk-says-fsds-99month-subscription-fee-will-rise-as-tesla-scraps-autopilot-4f48b250"
-    },
-    {
       "title": "UBS Reaffirms Its ‘Neutral’ Rating with a $280 Price Target on Apple (AAPL)",
       "link": "https://finance.yahoo.com/news/ubs-reaffirms-neutral-rating-280-142920042.html",
       "source": "finance.yahoo.com",
@@ -81,6 +243,15 @@
       "image": "https://s.yimg.com/os/en/insidermonkey.com/62cb46e6eeef5e0adeaa5b81e9188f72",
       "slug": "ubs-reaffirms-its-neutral-rating-with-a-280-price-target-on-apple-aapl-65d2ab2c",
       "orig_slug": "ubs-reaffirms-its-neutral-rating-with-a-280-price-target-on-apple-aapl-65d2ab2c"
+    },
+    {
+      "title": "Intel Won't Rush Costly Chip Capacity Buildout Despite AI Boom, Even As Rivals TSMC And Samsung Spend Big Bucks: Here's Why",
+      "link": "https://finance.yahoo.com/news/intel-wont-rush-costly-chip-153108516.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-24T15:31:08Z",
+      "image": "https://s.yimg.com/os/en/Benzinga/5281e68ccdab6f08bf75cd85470f415e",
+      "slug": "intel-wont-rush-costly-chip-capacity-buildout-despite-ai-boom-even-as-rivals-tsm-183bb5cd",
+      "orig_slug": "intel-wont-rush-costly-chip-capacity-buildout-despite-ai-boom-even-as-rivals-tsm-183bb5cd"
     },
     {
       "title": "The Procter & Gamble Company (PG) Reports Mixed Second-Quarter 2026 Results Amid Weak Consumer Spending",
@@ -92,15 +263,6 @@
       "orig_slug": "the-procter-gamble-company-pg-reports-mixed-second-quarter-2026-results-amid-wea-023ceaef"
     },
     {
-      "title": "Guggenheim Reduces PT on Eli Lilly and Company (LLY) to $1,161, Reiterates ‘Buy’ Rating",
-      "link": "https://finance.yahoo.com/news/guggenheim-reduces-pt-eli-lilly-142916084.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-24T14:29:16Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/2f78fead5594bb342fb5f189e04643d0",
-      "slug": "guggenheim-reduces-pt-on-eli-lilly-and-company-lly-to-1161-reiterates-buy-rating-6ea7f057",
-      "orig_slug": "guggenheim-reduces-pt-on-eli-lilly-and-company-lly-to-1161-reiterates-buy-rating-6ea7f057"
-    },
-    {
       "title": "The Coca-Cola Company (KO) Accelerates Consumer-Centric Execution and Enterprise-Wide Digital Transformation With Key Leadership Changes",
       "link": "https://finance.yahoo.com/news/coca-cola-company-ko-accelerates-142918856.html",
       "source": "finance.yahoo.com",
@@ -110,13 +272,13 @@
       "orig_slug": "the-coca-cola-company-ko-accelerates-consumer-centric-execution-and-enterprise-w-03a19932"
     },
     {
-      "title": "Better S&P 500 ETF: iShares IVV vs. Vanguard VOO",
-      "link": "https://finance.yahoo.com/news/better-p-500-etf-ishares-143102242.html",
+      "title": "Guggenheim Reduces PT on Eli Lilly and Company (LLY) to $1,161, Reiterates ‘Buy’ Rating",
+      "link": "https://finance.yahoo.com/news/guggenheim-reduces-pt-eli-lilly-142916084.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-24T14:31:02Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/6b28a065be0b5031477267afbc8e62a9",
-      "slug": "better-sp-500-etf-ishares-ivv-vs-vanguard-voo-111fbaa9",
-      "orig_slug": "better-sp-500-etf-ishares-ivv-vs-vanguard-voo-111fbaa9"
+      "pubDate": "2026-01-24T14:29:16Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/2f78fead5594bb342fb5f189e04643d0",
+      "slug": "guggenheim-reduces-pt-on-eli-lilly-and-company-lly-to-1161-reiterates-buy-rating-6ea7f057",
+      "orig_slug": "guggenheim-reduces-pt-on-eli-lilly-and-company-lly-to-1161-reiterates-buy-rating-6ea7f057"
     },
     {
       "title": "Berkshire Hathaway (BRK-B) Looks to Exit Its 27.5% Stake in Kraft Heinz",
@@ -128,13 +290,13 @@
       "orig_slug": "berkshire-hathaway-brk-b-looks-to-exit-its-275-stake-in-kraft-heinz-06d4a95f"
     },
     {
-      "title": "Trump housing finance chief OKs more mortgage spending and adds risk for government-backed lenders",
-      "link": "https://finance.yahoo.com/news/trump-housing-finance-chief-oks-132142036.html",
+      "title": "This Precious Metal Just Doubled Gold's Returns: Is PPLT or GLD a Better Buy?",
+      "link": "https://finance.yahoo.com/news/precious-metal-just-doubled-golds-152902180.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-24T13:21:42Z",
-      "image": "https://media.zenfs.com/en/ap_finance_articles_694/e9b3e47e375a1392fcb1bfd1f9bc108a",
-      "slug": "trump-housing-finance-chief-oks-more-mortgage-spending-and-adds-risk-for-governm-44c677d9",
-      "orig_slug": "trump-housing-finance-chief-oks-more-mortgage-spending-and-adds-risk-for-governm-44c677d9"
+      "pubDate": "2026-01-24T15:29:02Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/cd59dd2c77c3210ea428e186ff5222fb",
+      "slug": "this-precious-metal-just-doubled-golds-returns-is-pplt-or-gld-a-better-buy-58bd82aa",
+      "orig_slug": "this-precious-metal-just-doubled-golds-returns-is-pplt-or-gld-a-better-buy-58bd82aa"
     },
     {
       "title": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Google Stock Holds Near Buy Point",
@@ -155,15 +317,6 @@
       "orig_slug": "i-can-save-172-a-month-if-i-refinance-my-mortgage-but-is-it-actually-worth-it-in-37ef9d27"
     },
     {
-      "title": "2 Dirt Cheap Stocks to Buy With $200 Right Now",
-      "link": "https://finance.yahoo.com/news/2-dirt-cheap-stocks-buy-142100648.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-24T14:21:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/0184a905468ced8fbe47addf50df1b2f",
-      "slug": "2-dirt-cheap-stocks-to-buy-with-200-right-now-66730aa1",
-      "orig_slug": "2-dirt-cheap-stocks-to-buy-with-200-right-now-66730aa1"
-    },
-    {
       "title": "Wolfe Research Flags Tax Refund Tailwinds as a Positive for Costco Wholesale (COST)",
       "link": "https://finance.yahoo.com/news/wolfe-research-flags-tax-refund-134100666.html",
       "source": "finance.yahoo.com",
@@ -182,6 +335,15 @@
       "orig_slug": "market-week-ahead-fed-meeting-shutdown-risks-and-heavy-earnings-9ad0a5dd"
     },
     {
+      "title": "This Tech Stock Could Turn $1,000 Into $16,000",
+      "link": "https://finance.yahoo.com/news/tech-stock-could-turn-1-151300357.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-24T15:13:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/e6d8f8b84e0af3e79d87c3900911448d",
+      "slug": "this-tech-stock-could-turn-1000-into-16000-a5c63b65",
+      "orig_slug": "this-tech-stock-could-turn-1000-into-16000-a5c63b65"
+    },
+    {
       "title": "Intel stock plunges as hopes for a 'clean' turnaround story meet reality",
       "link": "https://finance.yahoo.com/news/intel-stock-plunges-as-hopes-for-a-clean-turnaround-story-meet-reality-202949131.html",
       "source": "finance.yahoo.com",
@@ -189,6 +351,15 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/jy.n0VbBH7gCKJQpu4KvAQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MjU-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/65aa84c0-f888-11f0-bcbd-09390885d9ef",
       "slug": "intel-stock-plunges-as-hopes-for-a-clean-turnaround-story-meet-reality-336080f4",
       "orig_slug": "intel-stock-plunges-as-hopes-for-a-clean-turnaround-story-meet-reality-336080f4"
+    },
+    {
+      "title": "Trump housing finance chief OKs more mortgage spending and adds risk for government-backed lenders",
+      "link": "https://finance.yahoo.com/news/trump-housing-finance-chief-oks-132142036.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-24T13:21:42Z",
+      "image": "https://media.zenfs.com/en/ap_finance_articles_694/e9b3e47e375a1392fcb1bfd1f9bc108a",
+      "slug": "trump-housing-finance-chief-oks-more-mortgage-spending-and-adds-risk-for-governm-44c677d9",
+      "orig_slug": "trump-housing-finance-chief-oks-more-mortgage-spending-and-adds-risk-for-governm-44c677d9"
     },
     {
       "title": "SEC agrees to dismiss case over crypto lending by Winklevoss' Gemini",
@@ -200,15 +371,6 @@
       "orig_slug": "sec-agrees-to-dismiss-case-over-crypto-lending-by-winklevoss-gemini-2a090545"
     },
     {
-      "title": "VEA vs. ACWX: Cheap International Exposure or Full Global Access?",
-      "link": "https://finance.yahoo.com/news/vea-vs-acwx-cheap-international-140902604.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-24T14:09:02Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/6b28a065be0b5031477267afbc8e62a9",
-      "slug": "vea-vs-acwx-cheap-international-exposure-or-full-global-access-789d8349",
-      "orig_slug": "vea-vs-acwx-cheap-international-exposure-or-full-global-access-789d8349"
-    },
-    {
       "title": "84% of Americans are opposed to the U.S. becoming cashless",
       "link": "https://finance.yahoo.com/news/84-americans-opposed-u-becoming-131500629.html",
       "source": "finance.yahoo.com",
@@ -216,168 +378,6 @@
       "image": "https://media.zenfs.com/en/moneywise_327/3fb0b97572ce7341c7e0115eb6aa6eea",
       "slug": "84-of-americans-are-opposed-to-the-us-becoming-cashless-742437ec",
       "orig_slug": "84-of-americans-are-opposed-to-the-us-becoming-cashless-742437ec"
-    },
-    {
-      "title": "Is 57 too late to start saving for retirement? Dave Ramsey says 'of course not'. What to do now to build nest egg",
-      "link": "https://finance.yahoo.com/news/57-too-start-saving-retirement-130000884.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-24T13:00:00Z",
-      "image": "https://s.yimg.com/os/en/moneywise_327/4477007d0379ec7788b08035e5450717",
-      "slug": "is-57-too-late-to-start-saving-for-retirement-dave-ramsey-says-of-course-not-wha-ff2fc244",
-      "orig_slug": "is-57-too-late-to-start-saving-for-retirement-dave-ramsey-says-of-course-not-wha-ff2fc244"
-    },
-    {
-      "title": "Schwab is managing to win over young investors",
-      "link": "https://finance.yahoo.com/news/schwab-is-managing-to-win-over-young-investors-110040610.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-24T11:00:40Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/nbafUzglKqAyjfTZKg6t4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/2f179140-f893-11f0-9bfb-fd9466361209",
-      "slug": "schwab-is-managing-to-win-over-young-investors-c6d791ff",
-      "orig_slug": "schwab-is-managing-to-win-over-young-investors-c6d791ff"
-    },
-    {
-      "title": "Are you potentially wasting thousands? Here are 5 things US retirees are told to buy (but don't actually need)",
-      "link": "https://finance.yahoo.com/news/potentially-wasting-thousands-5-things-123000759.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-24T12:30:00Z",
-      "image": "https://media.zenfs.com/en/moneywise_327/8af32678c6198eb12bd56a30d0480a01",
-      "slug": "are-you-potentially-wasting-thousands-here-are-5-things-us-retirees-are-told-to--db88d915",
-      "orig_slug": "are-you-potentially-wasting-thousands-here-are-5-things-us-retirees-are-told-to--db88d915"
-    },
-    {
-      "title": "1 Top ETF to Load Up on in 2026",
-      "link": "https://finance.yahoo.com/news/1-top-etf-load-2026-140500784.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-24T14:05:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/57bad4d047682719d61acf49d9272cc2",
-      "slug": "1-top-etf-to-load-up-on-in-2026-f9c21a21",
-      "orig_slug": "1-top-etf-to-load-up-on-in-2026-f9c21a21"
-    },
-    {
-      "title": "This retirement expert says the US is ‘past the point where we can fix Social Security.’ What she recommends instead",
-      "link": "https://finance.yahoo.com/news/retirement-expert-says-us-past-122300655.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-24T12:23:00Z",
-      "image": "https://s.yimg.com/os/en/moneywise_ecomm_711/0ea79de3efc79a397445a5969e328f4c",
-      "slug": "this-retirement-expert-says-the-us-is-past-the-point-where-we-can-fix-social-sec-7557c92a",
-      "orig_slug": "this-retirement-expert-says-the-us-is-past-the-point-where-we-can-fix-social-sec-7557c92a"
-    },
-    {
-      "title": "EquipmentShare (EQPT) Soars 33% on Market Debut",
-      "link": "https://finance.yahoo.com/news/equipmentshare-eqpt-soars-33-market-122140780.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-24T12:21:40Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/01d685c9b867fa5e6c98d618bb37f614",
-      "slug": "equipmentshare-eqpt-soars-33-on-market-debut-482713aa",
-      "orig_slug": "equipmentshare-eqpt-soars-33-on-market-debut-482713aa"
-    },
-    {
-      "title": "TMC the metals company Inc. (TMC) Soars 13.5% as Firm Seeks New Approval for Deep-Sea Mining",
-      "link": "https://finance.yahoo.com/news/tmc-metals-company-inc-tmc-122101978.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-24T12:21:01Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/b369c30e277b2f4eb4060d2631d9016a",
-      "slug": "tmc-the-metals-company-inc-tmc-soars-135-as-firm-seeks-new-approval-for-deep-sea-c2c54c56",
-      "orig_slug": "tmc-the-metals-company-inc-tmc-soars-135-as-firm-seeks-new-approval-for-deep-sea-c2c54c56"
-    },
-    {
-      "title": "Critical Metals (CRML) Jumps 11% on International Expansion",
-      "link": "https://finance.yahoo.com/news/critical-metals-crml-jumps-11-121757507.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-24T12:17:57Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/88a7d99160e6aac52cb070a305fd1a67",
-      "slug": "critical-metals-crml-jumps-11-on-international-expansion-4a406079",
-      "orig_slug": "critical-metals-crml-jumps-11-on-international-expansion-4a406079"
-    },
-    {
-      "title": "Trump Adviser Says Crypto Market Structure Bill Is A 'Question Of When, Not If,' Argues Industry Cannot Continue To Run Without It",
-      "link": "https://finance.yahoo.com/news/trump-adviser-says-crypto-market-140211314.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-24T14:02:11Z",
-      "image": "https://s.yimg.com/os/en/benzinga_79/6af148ffc3cb02a1c870396e8fc519bb",
-      "slug": "trump-adviser-says-crypto-market-structure-bill-is-a-question-of-when-not-if-arg-6b3878d4",
-      "orig_slug": "trump-adviser-says-crypto-market-structure-bill-is-a-question-of-when-not-if-arg-6b3878d4"
-    },
-    {
-      "title": "Americas Gold and Silver Corp. (USAS) Climbs to 52-Week High on Precious Metals’ Surge",
-      "link": "https://finance.yahoo.com/news/americas-gold-silver-corp-usas-121745934.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-24T12:17:45Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/cfdbc68c5433a09e3f42a08dbfc56748",
-      "slug": "americas-gold-and-silver-corp-usas-climbs-to-52-week-high-on-precious-metals-sur-08b48fdc",
-      "orig_slug": "americas-gold-and-silver-corp-usas-climbs-to-52-week-high-on-precious-metals-sur-08b48fdc"
-    },
-    {
-      "title": "TeraWulf (WULF) Soars 9.5% on Tech Rally",
-      "link": "https://finance.yahoo.com/news/terawulf-wulf-soars-9-5-121733738.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-24T12:17:33Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/ffc9aa9d21d10b83a3e757ea235712a9",
-      "slug": "terawulf-wulf-soars-95-on-tech-rally-1b5d5d17",
-      "orig_slug": "terawulf-wulf-soars-95-on-tech-rally-1b5d5d17"
-    },
-    {
-      "title": "Ericsson (ERIC) Touches 3-Year High on Strong Earnings",
-      "link": "https://finance.yahoo.com/news/ericsson-eric-touches-3-high-121706633.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-24T12:17:06Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/0c1c1c9238d3f67d18deea5fdc8b4fa1",
-      "slug": "ericsson-eric-touches-3-year-high-on-strong-earnings-1ae41a00",
-      "orig_slug": "ericsson-eric-touches-3-year-high-on-strong-earnings-1ae41a00"
-    },
-    {
-      "title": "Applied Digital (APLD) Jumps to All-Time High on Data Center Kickoff",
-      "link": "https://finance.yahoo.com/news/applied-digital-apld-jumps-time-121653409.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-24T12:16:53Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/e9308d2db0b2bfd5922203283f044d49",
-      "slug": "applied-digital-apld-jumps-to-all-time-high-on-data-center-kickoff-47e8b5a5",
-      "orig_slug": "applied-digital-apld-jumps-to-all-time-high-on-data-center-kickoff-47e8b5a5"
-    },
-    {
-      "title": "Broadridge price target lowered to $228 from $240 at DA Davidson",
-      "link": "https://finance.yahoo.com/news/broadridge-price-target-lowered-228-140114561.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-24T14:01:14Z",
-      "image": "https://s.yimg.com/os/en/tipranks_452/740f5b35098ee61dacb714fa2bfeccc8",
-      "slug": "broadridge-price-target-lowered-to-228-from-240-at-da-davidson-a3e051e3",
-      "orig_slug": "broadridge-price-target-lowered-to-228-from-240-at-da-davidson-a3e051e3"
-    },
-    {
-      "title": "Hycroft (HYMC) Jumps to 4-Year High Anew on Gold, Silver Fever",
-      "link": "https://finance.yahoo.com/news/hycroft-hymc-jumps-4-high-121644719.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-24T12:16:44Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/b180975d27aa0de3cf9b0f2d5f3fceda",
-      "slug": "hycroft-hymc-jumps-to-4-year-high-anew-on-gold-silver-fever-73ebc370",
-      "orig_slug": "hycroft-hymc-jumps-to-4-year-high-anew-on-gold-silver-fever-73ebc370"
-    },
-    {
-      "title": "IREN (IREN) Climbs 8.5% Ahead of Earnings",
-      "link": "https://finance.yahoo.com/news/iren-iren-climbs-8-5-121629877.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-24T12:16:29Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/943322b567353791f7a79eefa0ce1ce0",
-      "slug": "iren-iren-climbs-85-ahead-of-earnings-7c98c561",
-      "orig_slug": "iren-iren-climbs-85-ahead-of-earnings-7c98c561"
-    },
-    {
-      "title": "Citi Downgrades Chord Energy (CHRD) as Oil and Gas Macro Risks Take Center Stage",
-      "link": "https://finance.yahoo.com/news/citi-downgrades-chord-energy-chrd-115507455.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-24T11:55:07Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/aa46c4b4a5c2dbd1d815183af8252893",
-      "slug": "citi-downgrades-chord-energy-chrd-as-oil-and-gas-macro-risks-take-center-stage-2ef58848",
-      "orig_slug": "citi-downgrades-chord-energy-chrd-as-oil-and-gas-macro-risks-take-center-stage-2ef58848"
-    },
-    {
-      "title": "Mortgage and refinance interest rates today, January 24, 2026: The 30-year drops to an important baseline",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-saturday-january-24-2026-110052027.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-24T11:00:52Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/fK9okicBoD2VGZ7E4.6v7w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/86ef4c20-03dd-11ef-b7af-5ddf7b57fe6e",
-      "slug": "mortgage-and-refinance-interest-rates-today-january-24-2026-the-30-year-drops-to-95761bc9",
-      "orig_slug": "mortgage-and-refinance-interest-rates-today-january-24-2026-the-30-year-drops-to-95761bc9"
     }
   ]
 }
