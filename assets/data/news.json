@@ -1,14 +1,77 @@
 {
-  "updated": "2026-01-25T19:11:46Z",
+  "updated": "2026-01-25T20:15:25Z",
   "items": [
     {
-      "title": "Market on high alert for yen intervention after Takaichi warning",
-      "link": "https://finance.yahoo.com/news/market-high-alert-yen-intervention-110000711.html",
+      "title": "The Man Who Almost Replaced Warren Buffett",
+      "link": "https://www.wsj.com/business/david-sokol-berkshire-hathaway-a2f92bf2?siteid=yhoof2&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-25T11:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/Tvw31wvC82c3I_m_38jBJg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/389cf6c0-f9f5-11f0-bfba-19b36c8f32d1",
-      "slug": "market-on-high-alert-for-yen-intervention-after-takaichi-warning-5131aea7",
-      "orig_slug": "market-on-high-alert-for-yen-intervention-after-takaichi-warning-5131aea7"
+      "pubDate": "2026-01-25T19:49:00Z",
+      "image": "",
+      "slug": "the-man-who-almost-replaced-warren-buffett-c0ac83b7",
+      "orig_slug": "the-man-who-almost-replaced-warren-buffett-c0ac83b7"
+    },
+    {
+      "title": "Raymond James Highlights Cash Flow Delivery as Key for MPLX LP (MPLX) Going Forward",
+      "link": "https://finance.yahoo.com/news/raymond-james-highlights-cash-flow-194702459.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-25T19:47:02Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/d94f33539261d084aa3737e0b735201a",
+      "slug": "raymond-james-highlights-cash-flow-delivery-as-key-for-mplx-lp-mplx-going-forwar-9d1e8171",
+      "orig_slug": "raymond-james-highlights-cash-flow-delivery-as-key-for-mplx-lp-mplx-going-forwar-9d1e8171"
+    },
+    {
+      "title": "Big Tech earnings, Fed meeting feature as markets end January with busiest week of Q1: What to watch",
+      "link": "https://finance.yahoo.com/news/big-tech-earnings-fed-meeting-feature-as-markets-end-january-with-busiest-week-of-q1-what-to-watch-125211822.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-25T12:52:11Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/d2WsIJjo1vVR0N8juIeMGA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDI-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/5740dde0-efea-11f0-affd-bc521dd6f3ea",
+      "slug": "big-tech-earnings-fed-meeting-feature-as-markets-end-january-with-busiest-week-o-b0518a4a",
+      "orig_slug": "big-tech-earnings-fed-meeting-feature-as-markets-end-january-with-busiest-week-o-b0518a4a"
+    },
+    {
+      "title": "Pfizer to Exit ViiV Healthcare as GSK and Shionogi Reshape Ownership",
+      "link": "https://finance.yahoo.com/news/pfizer-exit-viiv-healthcare-gsk-193818772.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-25T19:38:18Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/aef4b35e5ea946bf7f4ed347e5c4f487",
+      "slug": "pfizer-to-exit-viiv-healthcare-as-gsk-and-shionogi-reshape-ownership-cfa4429d",
+      "orig_slug": "pfizer-to-exit-viiv-healthcare-as-gsk-and-shionogi-reshape-ownership-cfa4429d"
+    },
+    {
+      "title": "Evercore ISI Sees Cost Initiatives Anchoring EPS at United Parcel Service, Inc. (UPS)",
+      "link": "https://finance.yahoo.com/news/evercore-isi-sees-cost-initiatives-193603331.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-25T19:36:03Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/e4f0c9cac9ca53a5fe87c6d6fdc6681c",
+      "slug": "evercore-isi-sees-cost-initiatives-anchoring-eps-at-united-parcel-service-inc-up-69703e2b",
+      "orig_slug": "evercore-isi-sees-cost-initiatives-anchoring-eps-at-united-parcel-service-inc-up-69703e2b"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang gives AI warning Wall Street can’t ignore",
+      "link": "https://finance.yahoo.com/news/nvidia-ceo-jensen-huang-gives-194700195.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-25T19:47:00Z",
+      "image": "https://s.yimg.com/os/en/thestreet_881/e264046f70315b3221c85462e4f9a1ed",
+      "slug": "nvidia-ceo-jensen-huang-gives-ai-warning-wall-street-cant-ignore-2c82d9dc",
+      "orig_slug": "nvidia-ceo-jensen-huang-gives-ai-warning-wall-street-cant-ignore-2c82d9dc"
+    },
+    {
+      "title": "Edison International (EIX) in Focus as Morgan Stanley Refreshes its Utilities Outlook",
+      "link": "https://finance.yahoo.com/news/edison-international-eix-focus-morgan-193231177.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-25T19:32:31Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/46e2699ee7ae1142c4594fb70d42ea0d",
+      "slug": "edison-international-eix-in-focus-as-morgan-stanley-refreshes-its-utilities-outl-1fb1328b",
+      "orig_slug": "edison-international-eix-in-focus-as-morgan-stanley-refreshes-its-utilities-outl-1fb1328b"
+    },
+    {
+      "title": "Dow Jones Futures Due With Trump Tariffs, Government Shutdown, Big Earnings In Focus",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-100-canada-tariff-tesla-microsoft-meta-apple-earnings/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-25T19:04:25Z",
+      "image": "",
+      "slug": "dow-jones-futures-due-with-trump-tariffs-government-shutdown-big-earnings-in-foc-c8891348",
+      "orig_slug": "dow-jones-futures-due-with-trump-tariffs-government-shutdown-big-earnings-in-foc-c8891348"
     },
     {
       "title": "‘They are awful’: Dave Ramsey rips millennials and Gen Z for wanting homes without working",
@@ -29,13 +92,13 @@
       "orig_slug": "gen-z-is-cutting-back-on-retirement-savings-942aca6b"
     },
     {
-      "title": "Dow Jones Futures Loom: New Trump Tariff Threat, Government Shutdown, Earnings Wave In Focus",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-100-canada-tariff-tesla-microsoft-meta-apple-earnings/?src=A00220&yptr=yahoo",
+      "title": "Is Eaton Stock a Buy Now?",
+      "link": "https://finance.yahoo.com/news/eaton-stock-buy-now-194700679.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-25T15:50:58Z",
-      "image": "",
-      "slug": "dow-jones-futures-loom-new-trump-tariff-threat-government-shutdown-earnings-wave-c8891348",
-      "orig_slug": "dow-jones-futures-loom-new-trump-tariff-threat-government-shutdown-earnings-wave-c8891348"
+      "pubDate": "2026-01-25T19:47:00Z",
+      "image": "https://s.yimg.com/os/en/motleyfool.com/6caa2fb8080371e10d5191233076bc8c",
+      "slug": "is-eaton-stock-a-buy-now-09264cb1",
+      "orig_slug": "is-eaton-stock-a-buy-now-09264cb1"
     },
     {
       "title": "Currency market on guard for intervention in Japan's yen",
@@ -45,15 +108,6 @@
       "image": "https://s.yimg.com/os/en/reuters.com/0bcdb237c48a47d780997e9ee9436a7d",
       "slug": "currency-market-on-guard-for-intervention-in-japans-yen-9d62db4b",
       "orig_slug": "currency-market-on-guard-for-intervention-in-japans-yen-9d62db4b"
-    },
-    {
-      "title": "These International ETFs Can Add Unique Diversity to Your Portfolio",
-      "link": "https://finance.yahoo.com/news/international-etfs-add-unique-diversity-184116945.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-25T18:41:16Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/ff59daeae3cc0592ae4e38860996ddf8",
-      "slug": "these-international-etfs-can-add-unique-diversity-to-your-portfolio-c758b83e",
-      "orig_slug": "these-international-etfs-can-add-unique-diversity-to-your-portfolio-c758b83e"
     },
     {
       "title": "'An excellent backdrop for earnings': Wall Street expects profit growth to power markets in 2026",
@@ -83,6 +137,15 @@
       "orig_slug": "prudential-financial-inc-pru-in-focus-as-wells-fargo-outlines-key-themes-across--6070194f"
     },
     {
+      "title": "This Bond ETF Has a Special Tax Advantage Over One of Fidelity's Top Bond Fund",
+      "link": "https://finance.yahoo.com/news/bond-etf-special-tax-advantage-194521867.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-25T19:45:21Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/cd59dd2c77c3210ea428e186ff5222fb",
+      "slug": "this-bond-etf-has-a-special-tax-advantage-over-one-of-fidelitys-top-bond-fund-2597a64a",
+      "orig_slug": "this-bond-etf-has-a-special-tax-advantage-over-one-of-fidelitys-top-bond-fund-2597a64a"
+    },
+    {
       "title": "OGE Energy Corp. (OGE) in Focus as RBC Capital Reassesses Utility Capital Plans",
       "link": "https://finance.yahoo.com/news/oge-energy-corp-oge-focus-144628933.html",
       "source": "finance.yahoo.com",
@@ -90,15 +153,6 @@
       "image": "https://media.zenfs.com/en/insidermonkey.com/c544146a8aca3ebf88ac41cb84a12678",
       "slug": "oge-energy-corp-oge-in-focus-as-rbc-capital-reassesses-utility-capital-plans-2cd5f710",
       "orig_slug": "oge-energy-corp-oge-in-focus-as-rbc-capital-reassesses-utility-capital-plans-2cd5f710"
-    },
-    {
-      "title": "Is the AI Bubble About to Burst? Here's How to Profit Either Way",
-      "link": "https://finance.yahoo.com/news/ai-bubble-burst-heres-profit-183500196.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-25T18:35:00Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/1f3b1ecfce98c71f22220125b50d773b",
-      "slug": "is-the-ai-bubble-about-to-burst-heres-how-to-profit-either-way-bcbe90a2",
-      "orig_slug": "is-the-ai-bubble-about-to-burst-heres-how-to-profit-either-way-bcbe90a2"
     },
     {
       "title": "TD Cowen Maintains a Constructive View on U.S. Bancorp (USB)",
@@ -128,6 +182,15 @@
       "orig_slug": "manulife-financial-corporation-mfcs-medium-term-progress-supports-a-more-constru-435483b9"
     },
     {
+      "title": "Want to Invest Globally? IEFA Offers Broader Diversification Than EEM.",
+      "link": "https://finance.yahoo.com/news/want-invest-globally-iefa-offers-193502709.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-25T19:35:02Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/fe5f32fdfe5a59f72ec5591bd8cc5921",
+      "slug": "want-to-invest-globally-iefa-offers-broader-diversification-than-eem-25a80e12",
+      "orig_slug": "want-to-invest-globally-iefa-offers-broader-diversification-than-eem-25a80e12"
+    },
+    {
       "title": "American Electric Power Company, Inc. (AEP) in Focus as Morgan Stanley Reassesses Regulated Utilities",
       "link": "https://finance.yahoo.com/news/american-electric-power-company-inc-141720069.html",
       "source": "finance.yahoo.com",
@@ -135,15 +198,6 @@
       "image": "https://media.zenfs.com/en/insidermonkey.com/37ec2ba08f49cd69935c2f6276ab7e4c",
       "slug": "american-electric-power-company-inc-aep-in-focus-as-morgan-stanley-reassesses-re-b7941c7b",
       "orig_slug": "american-electric-power-company-inc-aep-in-focus-as-morgan-stanley-reassesses-re-b7941c7b"
-    },
-    {
-      "title": "Why Parker-Hannifin Rallied 38.2% in 2025",
-      "link": "https://finance.yahoo.com/news/why-parker-hannifin-rallied-38-182700251.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-25T18:27:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/752986151c1a67edaadc20ad8495bc81",
-      "slug": "why-parker-hannifin-rallied-382-in-2025-bf119cdd",
-      "orig_slug": "why-parker-hannifin-rallied-382-in-2025-bf119cdd"
     },
     {
       "title": "Merck & Co., Inc. (MRK) and CEPI Launch Effort to Make Ebola Vaccine Cheaper and Easier to Distribute",
@@ -173,6 +227,15 @@
       "orig_slug": "baird-calls-unitedhealth-group-incorporated-unhs-aca-rebate-a-strategic-move-wit-50549974"
     },
     {
+      "title": "2 Cybersecurity Stocks You Can Buy and Hold for the Next Decade",
+      "link": "https://finance.yahoo.com/news/2-cybersecurity-stocks-buy-hold-193500699.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-25T19:35:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/deb458d30850ecf054a2dcd8721ecbbf",
+      "slug": "2-cybersecurity-stocks-you-can-buy-and-hold-for-the-next-decade-e4e5e77e",
+      "orig_slug": "2-cybersecurity-stocks-you-can-buy-and-hold-for-the-next-decade-e4e5e77e"
+    },
+    {
       "title": "The Home Depot, Inc. (HD) Remains a Key Pick as TD Cowen Updates Hardlines Outlook",
       "link": "https://finance.yahoo.com/news/home-depot-inc-hd-remains-140434836.html",
       "source": "finance.yahoo.com",
@@ -180,15 +243,6 @@
       "image": "https://s.yimg.com/os/en/insidermonkey.com/fe9b83c48e42a480f2d96b3e53f65fb2",
       "slug": "the-home-depot-inc-hd-remains-a-key-pick-as-td-cowen-updates-hardlines-outlook-fb53f9a3",
       "orig_slug": "the-home-depot-inc-hd-remains-a-key-pick-as-td-cowen-updates-hardlines-outlook-fb53f9a3"
-    },
-    {
-      "title": "Precious Metals Investing: PPLT's Simple Platinum Access vs. SIL's Mining Holdings",
-      "link": "https://finance.yahoo.com/news/precious-metals-investing-pplts-simple-182502468.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-25T18:25:02Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/cd59dd2c77c3210ea428e186ff5222fb",
-      "slug": "precious-metals-investing-pplts-simple-platinum-access-vs-sils-mining-holdings-4257f1e7",
-      "orig_slug": "precious-metals-investing-pplts-simple-platinum-access-vs-sils-mining-holdings-4257f1e7"
     },
     {
       "title": "Susquehanna Sees Commercial and Defense Trends Supporting Lockheed Martin Corporation (LMT)",
@@ -218,6 +272,15 @@
       "orig_slug": "will-diamondback-energy-raise-its-dividend-next-month-if-so-fang-stock-could-ris-9d0e3ef6"
     },
     {
+      "title": "Saudi developers jump as kingdom moves to open property market",
+      "link": "https://finance.yahoo.com/news/saudi-developers-jump-kingdom-moves-134317577.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-25T13:43:17Z",
+      "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/1783e06e4c28978ab190c48b67ade80b",
+      "slug": "saudi-developers-jump-as-kingdom-moves-to-open-property-market-81238439",
+      "orig_slug": "saudi-developers-jump-as-kingdom-moves-to-open-property-market-81238439"
+    },
+    {
       "title": "Analog Devices, Inc. (ADI) Stands to Benefit as BofA Highlights Sector Tailwinds",
       "link": "https://finance.yahoo.com/news/analog-devices-inc-adi-stands-135155174.html",
       "source": "finance.yahoo.com",
@@ -227,31 +290,67 @@
       "orig_slug": "analog-devices-inc-adi-stands-to-benefit-as-bofa-highlights-sector-tailwinds-281b6a09"
     },
     {
-      "title": "Costco $4.99 chicken under fire for safety and ingredients",
-      "link": "https://finance.yahoo.com/news/costco-4-99-chicken-under-181500099.html",
+      "title": "When is the Fed's next meeting?",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/when-is-the-next-fed-meeting-150709150.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-25T18:15:00Z",
-      "image": "https://s.yimg.com/os/en/thestreet_881/a51a41fe4d5dd29d4b3cd58f42c1c726",
-      "slug": "costco-499-chicken-under-fire-for-safety-and-ingredients-1397b88b",
-      "orig_slug": "costco-499-chicken-under-fire-for-safety-and-ingredients-1397b88b"
+      "pubDate": "2024-06-06T15:07:09Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/aApgzZDxv33njJiYAWSuRg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/5f009a60-f8a6-11f0-bf7f-8dd061102402",
+      "slug": "when-is-the-feds-next-meeting-ed8b9935",
+      "orig_slug": "when-is-the-feds-next-meeting-ed8b9935"
     },
     {
-      "title": "I am really confused about the consumer",
-      "link": "https://finance.yahoo.com/news/i-am-really-confused-about-the-consumer-133011221.html",
+      "title": "Best high-yield savings interest rates today, January 25, 2026 (Earn up to 4% APY)",
+      "link": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-sunday-january-25-2026-110050436.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-25T13:30:11Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/Ex35OQf6rhhU63IFAwhMBw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/fca1ca00-f793-11f0-b2f7-71fc7fe2154d",
-      "slug": "i-am-really-confused-about-the-consumer-b0415df5",
-      "orig_slug": "i-am-really-confused-about-the-consumer-b0415df5"
+      "pubDate": "2026-01-25T11:00:50Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/j3pIPh4Ou1ooyGj5oigsTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/a04144a0-4b7a-11ef-bffd-2479280852e3",
+      "slug": "best-high-yield-savings-interest-rates-today-january-25-2026-earn-up-to-4-apy-71fc736a",
+      "orig_slug": "best-high-yield-savings-interest-rates-today-january-25-2026-earn-up-to-4-apy-71fc736a"
     },
     {
-      "title": "Mass layoffs and AI have white-collar workers spooked. Ways to guard your finances in changing job market",
-      "link": "https://finance.yahoo.com/news/mass-layoffs-ai-white-collar-133000295.html",
+      "title": "Best money market account rates today, January 25, 2026 (best account provides 4.1% APY)",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-sunday-january-25-2026-110039082.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-25T13:30:00Z",
-      "image": "https://s.yimg.com/os/en/moneywise_327/8d829492bbdd187b2e2d90082b0a4577",
-      "slug": "mass-layoffs-and-ai-have-white-collar-workers-spooked-ways-to-guard-your-finance-f57b5ff0",
-      "orig_slug": "mass-layoffs-and-ai-have-white-collar-workers-spooked-ways-to-guard-your-finance-f57b5ff0"
+      "pubDate": "2026-01-25T11:00:39Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/koR_lnQjXxki7oireLjoxQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/6e3d4f60-1cdc-11f0-b66f-8aec820566bc",
+      "slug": "best-money-market-account-rates-today-january-25-2026-best-account-provides-41-a-9f7ec48b",
+      "orig_slug": "best-money-market-account-rates-today-january-25-2026-best-account-provides-41-a-9f7ec48b"
+    },
+    {
+      "title": "2 Top AI Stocks to Buy in 2026",
+      "link": "https://finance.yahoo.com/news/2-top-ai-stocks-buy-192000596.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-25T19:20:00Z",
+      "image": "https://s.yimg.com/os/en/motleyfool.com/4328cf75167502b5d7835ae9437532ee",
+      "slug": "2-top-ai-stocks-to-buy-in-2026-97157b2f",
+      "orig_slug": "2-top-ai-stocks-to-buy-in-2026-97157b2f"
+    },
+    {
+      "title": "HELOC and home equity loan rates Sunday, January 25, 2026: Get home equity cash without refinancing",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-sunday-january-25-2026-110027182.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-25T11:00:27Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/DVKxTTZK1v_brFRCxJvfrg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/9858bdf0-3ff7-11f0-8dbd-c3dbfc02bc47",
+      "slug": "heloc-and-home-equity-loan-rates-sunday-january-25-2026-get-home-equity-cash-wit-e94a5259",
+      "orig_slug": "heloc-and-home-equity-loan-rates-sunday-january-25-2026-get-home-equity-cash-wit-e94a5259"
+    },
+    {
+      "title": "Best CD rates today, January 25, 2026 (lock in up to 4% APY)",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-january-25-2026-110024858.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-25T11:00:24Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/9xZhsl9JDBre6CMmLno6Gg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47b17e0-4f64-11ef-afb3-0ed5867646a0",
+      "slug": "best-cd-rates-today-january-25-2026-lock-in-up-to-4-apy-0482a0c3",
+      "orig_slug": "best-cd-rates-today-january-25-2026-lock-in-up-to-4-apy-0482a0c3"
+    },
+    {
+      "title": "Mortgage and refinance interest rates today, January 25, 2026: Rates level out",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-sunday-january-25-2026-110014347.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-25T11:00:14Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/I199q7waIrtuQGBJaPIm2w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/6f016ae0-03e6-11ef-97ff-13785de87be3",
+      "slug": "mortgage-and-refinance-interest-rates-today-january-25-2026-rates-level-out-4fb48b6c",
+      "orig_slug": "mortgage-and-refinance-interest-rates-today-january-25-2026-rates-level-out-4fb48b6c"
     },
     {
       "title": "Mortgage and refinance interest rates today, January 24, 2026: The 30-year drops to an important baseline",
@@ -263,6 +362,15 @@
       "orig_slug": "mortgage-and-refinance-interest-rates-today-january-24-2026-the-30-year-drops-to-95761bc9"
     },
     {
+      "title": "The One Daily Habit That Predicts Your Financial Health Better Than Your Credit Score",
+      "link": "https://finance.yahoo.com/news/one-daily-habit-predicts-financial-190904983.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-25T19:09:04Z",
+      "image": "https://media.zenfs.com/en/gobankingrates_644/d6af87b42336224a1b3e5889c34df40e",
+      "slug": "the-one-daily-habit-that-predicts-your-financial-health-better-than-your-credit--5c40ec1b",
+      "orig_slug": "the-one-daily-habit-that-predicts-your-financial-health-better-than-your-credit--5c40ec1b"
+    },
+    {
       "title": "HELOC and home equity loan rates Saturday, January 24, 2026: Why now is a smart time to tap home equity",
       "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-saturday-january-24-2026-110035658.html",
       "source": "finance.yahoo.com",
@@ -270,15 +378,6 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/DEYBT6nBXCugfeps8WOPog--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/dc14d470-3ff7-11f0-8ff7-510b29e3a941",
       "slug": "heloc-and-home-equity-loan-rates-saturday-january-24-2026-why-now-is-a-smart-tim-b87529dd",
       "orig_slug": "heloc-and-home-equity-loan-rates-saturday-january-24-2026-why-now-is-a-smart-tim-b87529dd"
-    },
-    {
-      "title": "Is Ford Really Shifting Into Reverse With Electric Vehicles?",
-      "link": "https://finance.yahoo.com/news/ford-really-shifting-reverse-electric-181500355.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-25T18:15:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/ee34122c0247eb16955df1075c84dfc4",
-      "slug": "is-ford-really-shifting-into-reverse-with-electric-vehicles-1a2576bb",
-      "orig_slug": "is-ford-really-shifting-into-reverse-with-electric-vehicles-1a2576bb"
     },
     {
       "title": "Best money market account rates today, January 24, 2026 (best account provides 4.1% APY)",
@@ -308,76 +407,13 @@
       "orig_slug": "best-cd-rates-today-january-24-2026-best-account-provides-4-apy-1c2e9bdf"
     },
     {
-      "title": "When is the Fed's next meeting?",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/when-is-the-next-fed-meeting-150709150.html",
+      "title": "Should You Buy United Parcel Service Stock While It's Below $110?",
+      "link": "https://finance.yahoo.com/news/buy-united-parcel-stock-while-190500435.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2024-06-06T15:07:09Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/aApgzZDxv33njJiYAWSuRg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/5f009a60-f8a6-11f0-bf7f-8dd061102402",
-      "slug": "when-is-the-feds-next-meeting-ed8b9935",
-      "orig_slug": "when-is-the-feds-next-meeting-ed8b9935"
-    },
-    {
-      "title": "The Gold Rush Continues: GDX's Amplified Bet vs. GLD's Steady Hold",
-      "link": "https://finance.yahoo.com/news/gold-rush-continues-gdxs-amplified-180851334.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-25T18:08:51Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/6b28a065be0b5031477267afbc8e62a9",
-      "slug": "the-gold-rush-continues-gdxs-amplified-bet-vs-glds-steady-hold-4160ae15",
-      "orig_slug": "the-gold-rush-continues-gdxs-amplified-bet-vs-glds-steady-hold-4160ae15"
-    },
-    {
-      "title": "Best high-yield savings interest rates today, January 25, 2026 (Earn up to 4% APY)",
-      "link": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-sunday-january-25-2026-110050436.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-25T11:00:50Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/j3pIPh4Ou1ooyGj5oigsTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/a04144a0-4b7a-11ef-bffd-2479280852e3",
-      "slug": "best-high-yield-savings-interest-rates-today-january-25-2026-earn-up-to-4-apy-71fc736a",
-      "orig_slug": "best-high-yield-savings-interest-rates-today-january-25-2026-earn-up-to-4-apy-71fc736a"
-    },
-    {
-      "title": "Best money market account rates today, January 25, 2026 (best account provides 4.1% APY)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-sunday-january-25-2026-110039082.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-25T11:00:39Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/koR_lnQjXxki7oireLjoxQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/6e3d4f60-1cdc-11f0-b66f-8aec820566bc",
-      "slug": "best-money-market-account-rates-today-january-25-2026-best-account-provides-41-a-9f7ec48b",
-      "orig_slug": "best-money-market-account-rates-today-january-25-2026-best-account-provides-41-a-9f7ec48b"
-    },
-    {
-      "title": "Best CD rates today, January 25, 2026 (lock in up to 4% APY)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-january-25-2026-110024858.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-25T11:00:24Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/9xZhsl9JDBre6CMmLno6Gg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47b17e0-4f64-11ef-afb3-0ed5867646a0",
-      "slug": "best-cd-rates-today-january-25-2026-lock-in-up-to-4-apy-0482a0c3",
-      "orig_slug": "best-cd-rates-today-january-25-2026-lock-in-up-to-4-apy-0482a0c3"
-    },
-    {
-      "title": "HELOC and home equity loan rates Sunday, January 25, 2026: Get home equity cash without refinancing",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-sunday-january-25-2026-110027182.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-25T11:00:27Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/DVKxTTZK1v_brFRCxJvfrg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/9858bdf0-3ff7-11f0-8dbd-c3dbfc02bc47",
-      "slug": "heloc-and-home-equity-loan-rates-sunday-january-25-2026-get-home-equity-cash-wit-e94a5259",
-      "orig_slug": "heloc-and-home-equity-loan-rates-sunday-january-25-2026-get-home-equity-cash-wit-e94a5259"
-    },
-    {
-      "title": "Tax-Free Income vs. Treasury Safety: Inside VGSH and SMB ETFs",
-      "link": "https://finance.yahoo.com/news/tax-free-income-vs-treasury-180552736.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-25T18:05:52Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/7d8373c80fc4c0389715375e89d6f854",
-      "slug": "tax-free-income-vs-treasury-safety-inside-vgsh-and-smb-etfs-687c2a96",
-      "orig_slug": "tax-free-income-vs-treasury-safety-inside-vgsh-and-smb-etfs-687c2a96"
-    },
-    {
-      "title": "Mortgage and refinance interest rates today, January 25, 2026: Rates level out",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-sunday-january-25-2026-110014347.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-25T11:00:14Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/I199q7waIrtuQGBJaPIm2w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/6f016ae0-03e6-11ef-97ff-13785de87be3",
-      "slug": "mortgage-and-refinance-interest-rates-today-january-25-2026-rates-level-out-4fb48b6c",
-      "orig_slug": "mortgage-and-refinance-interest-rates-today-january-25-2026-rates-level-out-4fb48b6c"
+      "pubDate": "2026-01-25T19:05:00Z",
+      "image": "https://s.yimg.com/os/en/motleyfool.com/cbabe371c6c5ee2c2ec3cacab5055a52",
+      "slug": "should-you-buy-united-parcel-service-stock-while-its-below-110-3054cd1a",
+      "orig_slug": "should-you-buy-united-parcel-service-stock-while-its-below-110-3054cd1a"
     },
     {
       "title": "Mine card review: No hidden fees, no interest, and no credit check — plus an exclusive offer for Yahoo Finance readers",
@@ -407,15 +443,6 @@
       "orig_slug": "3-benefits-to-making-1-extra-mortgage-payment-per-year-3e1a1951"
     },
     {
-      "title": "Should You Buy Microsoft Stock Before Jan. 28?",
-      "link": "https://finance.yahoo.com/news/buy-microsoft-stock-jan-28-180500860.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-25T18:05:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/940b4a9de1a8e57032460535dcb33b83",
-      "slug": "should-you-buy-microsoft-stock-before-jan-28-35b940f4",
-      "orig_slug": "should-you-buy-microsoft-stock-before-jan-28-35b940f4"
-    },
-    {
       "title": "When will mortgage rates go down to 5%? Don't miss the lenders offering sub-6% loans now.",
       "link": "https://finance.yahoo.com/personal-finance/mortgages/article/when-will-mortgage-rates-go-down-to-5-201806162.html",
       "source": "finance.yahoo.com",
@@ -423,33 +450,6 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/rLk9xn1nTrvuCeuK2XLPcw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/589485c0-e13c-11ee-bddf-ed1ab68c7f18",
       "slug": "when-will-mortgage-rates-go-down-to-5-dont-miss-the-lenders-offering-sub-6-loans-7c1564cc",
       "orig_slug": "when-will-mortgage-rates-go-down-to-5-dont-miss-the-lenders-offering-sub-6-loans-7c1564cc"
-    },
-    {
-      "title": "Esurance car insurance review 2026",
-      "link": "https://finance.yahoo.com/personal-finance/insurance/review/esurance-car-insurance-review-180017987.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-23T18:00:17Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/hBsfnEx4MMKK.aQnNnHVSg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/63609e20-f86f-11f0-92e9-b798d1ffb3c8",
-      "slug": "esurance-car-insurance-review-2026-ac0ffc03",
-      "orig_slug": "esurance-car-insurance-review-2026-ac0ffc03"
-    },
-    {
-      "title": "Will mortgage rates fall ahead of January's Fed meeting?",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/will-mortgage-rates-decrease-before-the-next-fed-meeting-174648246.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-23T17:46:48Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/dvUJiYpgQgf3lV3EhYorIQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/7ef46b10-f051-11f0-bbdb-13db6997f105",
-      "slug": "will-mortgage-rates-fall-ahead-of-januarys-fed-meeting-41e16b9e",
-      "orig_slug": "will-mortgage-rates-fall-ahead-of-januarys-fed-meeting-41e16b9e"
-    },
-    {
-      "title": "5 ways to save on taxes in retirement",
-      "link": "https://finance.yahoo.com/personal-finance/taxes/article/taxes-in-retirement-162008500.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2024-01-20T16:20:08Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/_XMvVTzo4nYnxFvoiA3TBQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/db824850-cfc9-11f0-9fff-937be767546e",
-      "slug": "5-ways-to-save-on-taxes-in-retirement-72f3f993",
-      "orig_slug": "5-ways-to-save-on-taxes-in-retirement-72f3f993"
     }
   ]
 }
