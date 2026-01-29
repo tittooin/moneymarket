@@ -1,212 +1,14 @@
 {
-  "updated": "2026-01-29T10:28:15Z",
+  "updated": "2026-01-29T11:25:16Z",
   "items": [
     {
-      "title": "What is the 10-year Treasury note?",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/10-year-treasury-note-170612896.html",
+      "title": "Stock Market Today, Jan. 27: Nvidia’s $2 Billion Bet Lifts CoreWeave and Refocuses the AI Infrastructure Trade",
+      "link": "https://finance.yahoo.com/news/stock-market-today-jan-27-232014447.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2024-08-14T17:06:12Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/4ijVwBwuw3rPAtwTk1Aaxg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-09/b6683f90-818a-11ef-a57e-433f6a7665b0",
-      "slug": "what-is-the-10-year-treasury-note-43bd3432",
-      "orig_slug": "what-is-the-10-year-treasury-note-43bd3432"
-    },
-    {
-      "title": "How long does it take to get a home equity loan?",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/how-long-does-a-home-equity-loan-take-165544886.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-27T16:55:44Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/3t4x_H6kb2Kvu778he23jw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/c2968120-faea-11f0-befa-d7272fb1b2fc",
-      "slug": "how-long-does-it-take-to-get-a-home-equity-loan-f056faf7",
-      "orig_slug": "how-long-does-it-take-to-get-a-home-equity-loan-f056faf7"
-    },
-    {
-      "title": "Japan Is the Market’s ‘Big Story’ as Investors Await 40-Year Bond Auction",
-      "link": "https://www.barrons.com/articles/japan-yen-jgb-auction-yields-a00582c4?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-27T22:27:00Z",
-      "image": "",
-      "slug": "japan-is-the-markets-big-story-as-investors-await-40-year-bond-auction-3f543509",
-      "orig_slug": "japan-is-the-markets-big-story-as-investors-await-40-year-bond-auction-3f543509"
-    },
-    {
-      "title": "Wells Fargo Sees Near-Term Pressure at Mosaic (MOS) but Steadier Outlook Ahead",
-      "link": "https://finance.yahoo.com/news/wells-fargo-sees-near-term-223646012.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-27T22:36:46Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/4811ed72d6e46ef2af211e1584c96d2f",
-      "slug": "wells-fargo-sees-near-term-pressure-at-mosaic-mos-but-steadier-outlook-ahead-25ae1d58",
-      "orig_slug": "wells-fargo-sees-near-term-pressure-at-mosaic-mos-but-steadier-outlook-ahead-25ae1d58"
-    },
-    {
-      "title": "Piper Sandler Turns Cautious on Old Republic (ORI) After Q4 Results",
-      "link": "https://finance.yahoo.com/news/piper-sandler-turns-cautious-old-224001126.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-27T22:40:01Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/f7a8bcd669e56b036083222d7f68f396",
-      "slug": "piper-sandler-turns-cautious-on-old-republic-ori-after-q4-results-9bc21028",
-      "orig_slug": "piper-sandler-turns-cautious-on-old-republic-ori-after-q4-results-9bc21028"
-    },
-    {
-      "title": "Stephens Highlights Strong Returns at United Bankshares (UBSI) After Earnings Beat",
-      "link": "https://finance.yahoo.com/news/stephens-highlights-strong-returns-united-224259763.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-27T22:42:59Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/30173640c9b0cffb6b7013930030fa3e",
-      "slug": "stephens-highlights-strong-returns-at-united-bankshares-ubsi-after-earnings-beat-87884aed",
-      "orig_slug": "stephens-highlights-strong-returns-at-united-bankshares-ubsi-after-earnings-beat-87884aed"
-    },
-    {
-      "title": "Black Hills (BKH) Valuation Updated as BofA Revises Models",
-      "link": "https://finance.yahoo.com/news/black-hills-bkh-valuation-updated-224609845.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-27T22:46:09Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/232ba58b3a3c53423fcdc77b00a3dc6b",
-      "slug": "black-hills-bkh-valuation-updated-as-bofa-revises-models-517bd6b0",
-      "orig_slug": "black-hills-bkh-valuation-updated-as-bofa-revises-models-517bd6b0"
-    },
-    {
-      "title": "Analysts Remain Steadfast on Rocket Lab After Neutron Test Failure",
-      "link": "https://finance.yahoo.com/news/analysts-remain-steadfast-rocket-lab-222700465.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-27T22:27:00Z",
-      "image": "https://s.yimg.com/os/en/marketbeat_955/3ee07ebb5362bcfaa35948949bc8c9a3",
-      "slug": "analysts-remain-steadfast-on-rocket-lab-after-neutron-test-failure-a29e6b7e",
-      "orig_slug": "analysts-remain-steadfast-on-rocket-lab-after-neutron-test-failure-a29e6b7e"
-    },
-    {
-      "title": "ADM Positioned for Margin Tailwinds Into 2026, According to JPMorgan",
-      "link": "https://finance.yahoo.com/news/adm-positioned-margin-tailwinds-2026-224756610.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-27T22:47:56Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/adc61041d789979da1d171fe0cd1d40f",
-      "slug": "adm-positioned-for-margin-tailwinds-into-2026-according-to-jpmorgan-0a7735dd",
-      "orig_slug": "adm-positioned-for-margin-tailwinds-into-2026-according-to-jpmorgan-0a7735dd"
-    },
-    {
-      "title": "How to buy a house with low income",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/how-to-buy-a-house-with-low-income-211649815.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-10-09T21:16:49Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/DxJ2rm4EegKVwB_g0fOw0g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-images/2019-01/8fc92720-1055-11e9-bdfc-93f0967fd816",
-      "slug": "how-to-buy-a-house-with-low-income-314a3a32",
-      "orig_slug": "how-to-buy-a-house-with-low-income-314a3a32"
-    },
-    {
-      "title": "Morgan Stanley Updates Chevron (CVX) Valuation on Lower Oil Price Assumptions",
-      "link": "https://finance.yahoo.com/news/morgan-stanley-updates-chevron-cvx-225026655.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-27T22:50:26Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/9993985ff21c88fc97966aed5b1501d8",
-      "slug": "morgan-stanley-updates-chevron-cvx-valuation-on-lower-oil-price-assumptions-469e156d",
-      "orig_slug": "morgan-stanley-updates-chevron-cvx-valuation-on-lower-oil-price-assumptions-469e156d"
-    },
-    {
-      "title": "BofA Stays Positive on McCormick (MKC) Despite Weaker Q4 Results",
-      "link": "https://finance.yahoo.com/news/bofa-stays-positive-mccormick-mkc-225326583.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-27T22:53:26Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/2df0f31ea9121a6a999ff9962a1e477d",
-      "slug": "bofa-stays-positive-on-mccormick-mkc-despite-weaker-q4-results-a2af1a06",
-      "orig_slug": "bofa-stays-positive-on-mccormick-mkc-despite-weaker-q4-results-a2af1a06"
-    },
-    {
-      "title": "Circle faces first major 'threat' for institutional dollars from Tether’s USAT",
-      "link": "https://finance.yahoo.com/news/circle-faces-first-major-threat-222743262.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-27T22:27:43Z",
-      "image": "https://media.zenfs.com/en/coindesk_75/ce0d88cddc3ee78b481b8fc779fdd3b8",
-      "slug": "circle-faces-first-major-threat-for-institutional-dollars-from-tethers-usat-ebc2d3fb",
-      "orig_slug": "circle-faces-first-major-threat-for-institutional-dollars-from-tethers-usat-ebc2d3fb"
-    },
-    {
-      "title": "American Electric Power (AEP) Draws Focus as Barclays Refreshes Utilities Models",
-      "link": "https://finance.yahoo.com/news/american-electric-power-aep-draws-225518517.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-27T22:55:18Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/37ec2ba08f49cd69935c2f6276ab7e4c",
-      "slug": "american-electric-power-aep-draws-focus-as-barclays-refreshes-utilities-models-3cf70dc6",
-      "orig_slug": "american-electric-power-aep-draws-focus-as-barclays-refreshes-utilities-models-3cf70dc6"
-    },
-    {
-      "title": "Daily ETF Flows: AGG Takes No. 1 Spot",
-      "link": "https://finance.yahoo.com/news/daily-etf-flows-agg-takes-230005498.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-27T23:00:05Z",
-      "image": "https://s.yimg.com/os/en/indexuniverse.com/1d45f9488d95ad21b16acbe33a9dfed0",
-      "slug": "daily-etf-flows-agg-takes-no-1-spot-54b7d44f",
-      "orig_slug": "daily-etf-flows-agg-takes-no-1-spot-54b7d44f"
-    },
-    {
-      "title": "Deutsche Bank Adjusts Clorox (CLX) Valuation Following GOJO Purchase",
-      "link": "https://finance.yahoo.com/news/deutsche-bank-adjusts-clorox-clx-230000992.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-27T23:00:00Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/e6a2ce624a38c86f0c76df65df739e65",
-      "slug": "deutsche-bank-adjusts-clorox-clx-valuation-following-gojo-purchase-0f663fd8",
-      "orig_slug": "deutsche-bank-adjusts-clorox-clx-valuation-following-gojo-purchase-0f663fd8"
-    },
-    {
-      "title": "Southern Company (SO) Target Lifted as RBC Updates Utility Models",
-      "link": "https://finance.yahoo.com/news/southern-company-target-lifted-rbc-230408310.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-27T23:04:08Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/26ad3d6597228d4df119c0a796f9dbc9",
-      "slug": "southern-company-so-target-lifted-as-rbc-updates-utility-models-61b8a163",
-      "orig_slug": "southern-company-so-target-lifted-as-rbc-updates-utility-models-61b8a163"
-    },
-    {
-      "title": "Health Insurers in Shock After Medicare Holds Line on 2027 Payments",
-      "link": "https://www.wsj.com/health/healthcare/shock-and-dismay-among-health-insurers-after-medicare-holds-line-on-2027-payments-3c5bb085?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-27T22:33:00Z",
-      "image": "",
-      "slug": "health-insurers-in-shock-after-medicare-holds-line-on-2027-payments-e2b5d730",
-      "orig_slug": "health-insurers-in-shock-after-medicare-holds-line-on-2027-payments-e2b5d730"
-    },
-    {
-      "title": "Soybeans Post a Turnaround Tuesday Bounce",
-      "link": "https://finance.yahoo.com/news/soybeans-post-turnaround-tuesday-bounce-230513279.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-27T23:05:13Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/ac1499480efd27afcc58a417df653208",
-      "slug": "soybeans-post-a-turnaround-tuesday-bounce-b93b6e24",
-      "orig_slug": "soybeans-post-a-turnaround-tuesday-bounce-b93b6e24"
-    },
-    {
-      "title": "Cotton Rebounds on Tuesday",
-      "link": "https://finance.yahoo.com/news/cotton-rebounds-tuesday-230514636.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-27T23:05:14Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/f597045077aea51f4674f567991c18ad",
-      "slug": "cotton-rebounds-on-tuesday-7bb7ef40",
-      "orig_slug": "cotton-rebounds-on-tuesday-7bb7ef40"
-    },
-    {
-      "title": "BofA Maintains Cautious View on Con Edison (ED) After Rate Decision",
-      "link": "https://finance.yahoo.com/news/bofa-maintains-cautious-view-con-230617246.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-27T23:06:17Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/9d4ece8aaee048b44cec83c6606329f4",
-      "slug": "bofa-maintains-cautious-view-on-con-edison-ed-after-rate-decision-e74d4e39",
-      "orig_slug": "bofa-maintains-cautious-view-on-con-edison-ed-after-rate-decision-e74d4e39"
-    },
-    {
-      "title": "Janux Therapeutics Partners With Bristol-Myers (BMY) on Solid Tumor Therapy",
-      "link": "https://finance.yahoo.com/news/janux-therapeutics-partners-bristol-myers-230920453.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-27T23:09:20Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/4da437b7638100421dc4d0ddd5060036",
-      "slug": "janux-therapeutics-partners-with-bristol-myers-bmy-on-solid-tumor-therapy-b11bbd28",
-      "orig_slug": "janux-therapeutics-partners-with-bristol-myers-bmy-on-solid-tumor-therapy-b11bbd28"
-    },
-    {
-      "title": "Heard on the Street Recap: Medicare Disadvantage",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-27-2026/card/heard-on-the-street-recap-medicare-disadvantage-6uKXRcQTZjE2oGPWnBWE?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-27T22:34:05Z",
-      "image": "",
-      "slug": "heard-on-the-street-recap-medicare-disadvantage-489efa3a",
-      "orig_slug": "heard-on-the-street-recap-medicare-disadvantage-489efa3a"
+      "pubDate": "2026-01-27T23:20:14Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/ece2644f62c999828edb4a744e8a56b7",
+      "slug": "stock-market-today-jan-27-nvidias-2-billion-bet-lifts-coreweave-and-refocuses-th-2ab77bb0",
+      "orig_slug": "stock-market-today-jan-27-nvidias-2-billion-bet-lifts-coreweave-and-refocuses-th-2ab77bb0"
     },
     {
       "title": "Is a 'mini retirement' right for you? Here’s what you need to know.",
@@ -236,24 +38,6 @@
       "orig_slug": "enhanced-ceo-maximilian-martin-on-enhanced-games-icr-conference-2026-1013e50d"
     },
     {
-      "title": "Nvidia Just Gave You a $2 Billion Reason to Buy CoreWeave Stock",
-      "link": "https://finance.yahoo.com/news/nvidia-just-gave-2-billion-232440800.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-27T23:24:40Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/e16f16e4ebde8d2d9bbaa3616d2c00ee",
-      "slug": "nvidia-just-gave-you-a-2-billion-reason-to-buy-coreweave-stock-5db9ab64",
-      "orig_slug": "nvidia-just-gave-you-a-2-billion-reason-to-buy-coreweave-stock-5db9ab64"
-    },
-    {
-      "title": "Construction Companies See Promise in AI Agents",
-      "link": "https://www.wsj.com/articles/construction-companies-see-promise-in-ai-agents-12dc2d60?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-27T22:34:00Z",
-      "image": "",
-      "slug": "construction-companies-see-promise-in-ai-agents-65edc897",
-      "orig_slug": "construction-companies-see-promise-in-ai-agents-65edc897"
-    },
-    {
       "title": "National Vision CEO Alex Wilkes on Leveraging Brands: ICR Conference 2026",
       "link": "https://finance.yahoo.com/news/national-vision-ceo-alex-wilkes-232526609.html",
       "source": "finance.yahoo.com",
@@ -261,6 +45,24 @@
       "image": "https://media.zenfs.com/en/exec_edge_220/24a2800b49664acdce55faa47df582da",
       "slug": "national-vision-ceo-alex-wilkes-on-leveraging-brands-icr-conference-2026-097b744d",
       "orig_slug": "national-vision-ceo-alex-wilkes-on-leveraging-brands-icr-conference-2026-097b744d"
+    },
+    {
+      "title": "Former LVMH Exec Weighs in on Earnings, Luxury Outlook",
+      "link": "https://finance.yahoo.com/video/former-lvmh-exec-weighs-earnings-232145123.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-27T23:21:45Z",
+      "image": "https://media.zenfs.com/en/bloomberg_markets_video_2/56a8975abf62eaea3a7beb4cf11b3816",
+      "slug": "former-lvmh-exec-weighs-in-on-earnings-luxury-outlook-ca21cb19",
+      "orig_slug": "former-lvmh-exec-weighs-in-on-earnings-luxury-outlook-ca21cb19"
+    },
+    {
+      "title": "Nvidia Just Gave You a $2 Billion Reason to Buy CoreWeave Stock",
+      "link": "https://finance.yahoo.com/news/nvidia-just-gave-2-billion-232440800.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-27T23:24:40Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/e16f16e4ebde8d2d9bbaa3616d2c00ee",
+      "slug": "nvidia-just-gave-you-a-2-billion-reason-to-buy-coreweave-stock-5db9ab64",
+      "orig_slug": "nvidia-just-gave-you-a-2-billion-reason-to-buy-coreweave-stock-5db9ab64"
     },
     {
       "title": "Upbound Group CEO Fahmi Karam on Serving the Underserved: ICR Conference 2026",
@@ -272,15 +74,6 @@
       "orig_slug": "upbound-group-ceo-fahmi-karam-on-serving-the-underserved-icr-conference-2026-27c9ee77"
     },
     {
-      "title": "Direct auto insurance review 2026: 3.3 stars out of 5",
-      "link": "https://finance.yahoo.com/personal-finance/insurance/review/direct-auto-insurance-review-155919143.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-27T15:59:19Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/6y5gYgtnygcSqD5SJ1U6Gg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/bf6f2970-faea-11f0-bd87-7883c211ef74",
-      "slug": "direct-auto-insurance-review-2026-33-stars-out-of-5-cdc5dd26",
-      "orig_slug": "direct-auto-insurance-review-2026-33-stars-out-of-5-cdc5dd26"
-    },
-    {
       "title": "Dollar sinks to four-year low, Trump brushes off the decline",
       "link": "https://finance.yahoo.com/news/dollar-sinks-four-low-trump-233415761.html",
       "source": "finance.yahoo.com",
@@ -290,13 +83,49 @@
       "orig_slug": "dollar-sinks-to-four-year-low-trump-brushes-off-the-decline-88880105"
     },
     {
-      "title": "Fed expected to pause rate cuts after 3 straight reductions amid uncertainty over jobs, inflation",
-      "link": "https://finance.yahoo.com/news/fed-expected-pause-rate-cuts-223514940.html",
+      "title": "ADM to pay $40 million in US SEC settlement, avoids criminal charges",
+      "link": "https://finance.yahoo.com/news/adm-pay-40-million-us-003303571.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-27T22:35:14Z",
-      "image": "https://s.yimg.com/os/en/fox_business_text_367/858b7de755d191a1c62d854937e472aa",
-      "slug": "fed-expected-to-pause-rate-cuts-after-3-straight-reductions-amid-uncertainty-ove-1f93e64d",
-      "orig_slug": "fed-expected-to-pause-rate-cuts-after-3-straight-reductions-amid-uncertainty-ove-1f93e64d"
+      "pubDate": "2026-01-28T00:33:03Z",
+      "image": "https://s.yimg.com/os/en/reuters.com/771efb0679590fb5e703ab4eeaa95302",
+      "slug": "adm-to-pay-40-million-in-us-sec-settlement-avoids-criminal-charges-dbe02cab",
+      "orig_slug": "adm-to-pay-40-million-in-us-sec-settlement-avoids-criminal-charges-dbe02cab"
+    },
+    {
+      "title": "Why UPS Stock Crept Higher on Tuesday",
+      "link": "https://finance.yahoo.com/news/why-ups-stock-crept-higher-232238883.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-27T23:22:38Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/99df10c92d93ea32692bdc075539dbe6",
+      "slug": "why-ups-stock-crept-higher-on-tuesday-d1bb15fb",
+      "orig_slug": "why-ups-stock-crept-higher-on-tuesday-d1bb15fb"
+    },
+    {
+      "title": "SoftBank in talks to invest up to $30 billion more in OpenAI, source says",
+      "link": "https://finance.yahoo.com/news/softbank-talks-invest-30-billion-004740741.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-28T00:47:40Z",
+      "image": "https://s.yimg.com/os/en/reuters-finance.com/600359e14cd02217e705afa6080f0cdc",
+      "slug": "softbank-in-talks-to-invest-up-to-30-billion-more-in-openai-source-says-4c85c58d",
+      "orig_slug": "softbank-in-talks-to-invest-up-to-30-billion-more-in-openai-source-says-4c85c58d"
+    },
+    {
+      "title": "1 Dividend Stock to Buy Now as Trump Turns Up the Tariff Heat Again",
+      "link": "https://finance.yahoo.com/news/1-dividend-stock-buy-now-003002433.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-28T00:30:02Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/a2b7ec91e64a9235675aeab5524f2944",
+      "slug": "1-dividend-stock-to-buy-now-as-trump-turns-up-the-tariff-heat-again-ebc0aaed",
+      "orig_slug": "1-dividend-stock-to-buy-now-as-trump-turns-up-the-tariff-heat-again-ebc0aaed"
+    },
+    {
+      "title": "Woodside Delivers Record Output in 2025 Despite Softer Fourth Quarter",
+      "link": "https://finance.yahoo.com/news/woodside-delivers-record-output-2025-004816177.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-28T00:48:16Z",
+      "image": "https://s.yimg.com/os/en/oilprice.com/c2aa50e9a1a3b74e9cad2931a2a2924e",
+      "slug": "woodside-delivers-record-output-in-2025-despite-softer-fourth-quarter-647f8c43",
+      "orig_slug": "woodside-delivers-record-output-in-2025-despite-softer-fourth-quarter-647f8c43"
     },
     {
       "title": "Diesel surging on cold weather, more increases in DOE/EIA benchmark loom",
@@ -306,6 +135,15 @@
       "image": "https://media.zenfs.com/en/freightwaves_373/fec915de9e9d9b180b30f238ca35d5df",
       "slug": "diesel-surging-on-cold-weather-more-increases-in-doeeia-benchmark-loom-4eaa167a",
       "orig_slug": "diesel-surging-on-cold-weather-more-increases-in-doeeia-benchmark-loom-4eaa167a"
+    },
+    {
+      "title": "Robinhood Is Betting on Predictions Markets. Could This Be a Major Win for the Fintech Giant?",
+      "link": "https://finance.yahoo.com/news/robinhood-betting-predictions-markets-could-232500576.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-27T23:25:00Z",
+      "image": "https://s.yimg.com/os/en/motleyfool.com/531e4c9cc657c01cde99738ac849cf29",
+      "slug": "robinhood-is-betting-on-predictions-markets-could-this-be-a-major-win-for-the-fi-b89ddfe7",
+      "orig_slug": "robinhood-is-betting-on-predictions-markets-could-this-be-a-major-win-for-the-fi-b89ddfe7"
     },
     {
       "title": "Oil Supertanker Markets Stay Red-Hot as Sanctions and Rerouting Bite",
@@ -326,22 +164,175 @@
       "orig_slug": "ups-sees-higher-profits-in-2026-from-network-amazon-downsizing-21d96902"
     },
     {
-      "title": "Mortgage and refinance interest rates today, January 27, 2026: Under 6% again",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-january-27-2026-110016445.html",
+      "title": "C3.AI in talks to merge with software company Automation Anywhere, The Information reports",
+      "link": "https://finance.yahoo.com/news/c3-ai-talks-merge-startup-021447064.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-27T11:00:16Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/Y2tfJtD0oUt6xTTdKawkhA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/700e25a0-fb43-11ee-be6b-a40c5cf2631a",
-      "slug": "mortgage-and-refinance-interest-rates-today-january-27-2026-under-6-again-2587b2a2",
-      "orig_slug": "mortgage-and-refinance-interest-rates-today-january-27-2026-under-6-again-2587b2a2"
+      "pubDate": "2026-01-28T02:14:47Z",
+      "image": "https://s.yimg.com/os/en/reuters-finance.com/eebf8767e053c0b05c090d6331dd8bdd",
+      "slug": "c3ai-in-talks-to-merge-with-software-company-automation-anywhere-the-information-5251be20",
+      "orig_slug": "c3ai-in-talks-to-merge-with-software-company-automation-anywhere-the-information-5251be20"
     },
     {
-      "title": "Qorvo Q3 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/news/qorvo-q3-earnings-call-highlights-223706025.html",
+      "title": "How to buy a house with low income",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/how-to-buy-a-house-with-low-income-211649815.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-27T22:37:06Z",
-      "image": "https://s.yimg.com/os/en/marketbeat_955/a88b5b46f0fedb230b09455def58ed36",
-      "slug": "qorvo-q3-earnings-call-highlights-4344bb49",
-      "orig_slug": "qorvo-q3-earnings-call-highlights-4344bb49"
+      "pubDate": "2025-10-09T21:16:49Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/DxJ2rm4EegKVwB_g0fOw0g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-images/2019-01/8fc92720-1055-11e9-bdfc-93f0967fd816",
+      "slug": "how-to-buy-a-house-with-low-income-314a3a32",
+      "orig_slug": "how-to-buy-a-house-with-low-income-314a3a32"
+    },
+    {
+      "title": "How Much Lower Could Bitcoin Go? Forbes Maps the Pain",
+      "link": "https://finance.yahoo.com/news/much-lower-could-bitcoin-forbes-232539568.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-27T23:25:39Z",
+      "image": "https://s.yimg.com/os/en/99bitcoins_us_315/8119e6437ecbceff7aa0c6a9b8e82975",
+      "slug": "how-much-lower-could-bitcoin-go-forbes-maps-the-pain-493e1cd1",
+      "orig_slug": "how-much-lower-could-bitcoin-go-forbes-maps-the-pain-493e1cd1"
+    },
+    {
+      "title": "TotalEnergies Signs 10-Year Clean Power Deal With Paper Maker SWM in France",
+      "link": "https://finance.yahoo.com/news/totalenergies-signs-10-clean-power-040000118.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-28T04:00:00Z",
+      "image": "https://s.yimg.com/os/en/oilprice.com/61cb13fa923b3903ccdd73fd615cdaac",
+      "slug": "totalenergies-signs-10-year-clean-power-deal-with-paper-maker-swm-in-france-8b539b1b",
+      "orig_slug": "totalenergies-signs-10-year-clean-power-deal-with-paper-maker-swm-in-france-8b539b1b"
+    },
+    {
+      "title": "Mortgages and loans to pay for home renovations: How to find the best one for you",
+      "link": "https://finance.yahoo.com/news/mortgages-loans-pay-home-renovations-213037849.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-28T04:06:40Z",
+      "image": "https://media.zenfs.com/en/bankrate_626/e89cee69d28fa4e375f5c4909b3e3dd0",
+      "slug": "mortgages-and-loans-to-pay-for-home-renovations-how-to-find-the-best-one-for-you-85684dcb",
+      "orig_slug": "mortgages-and-loans-to-pay-for-home-renovations-how-to-find-the-best-one-for-you-85684dcb"
+    },
+    {
+      "title": "What is the 10-year Treasury note?",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/10-year-treasury-note-170612896.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2024-08-14T17:06:12Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/4ijVwBwuw3rPAtwTk1Aaxg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-09/b6683f90-818a-11ef-a57e-433f6a7665b0",
+      "slug": "what-is-the-10-year-treasury-note-43bd3432",
+      "orig_slug": "what-is-the-10-year-treasury-note-43bd3432"
+    },
+    {
+      "title": "How long does it take to get a home equity loan?",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/how-long-does-a-home-equity-loan-take-165544886.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-27T16:55:44Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/3t4x_H6kb2Kvu778he23jw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/c2968120-faea-11f0-befa-d7272fb1b2fc",
+      "slug": "how-long-does-it-take-to-get-a-home-equity-loan-f056faf7",
+      "orig_slug": "how-long-does-it-take-to-get-a-home-equity-loan-f056faf7"
+    },
+    {
+      "title": "Stride (LRN) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/news/stride-lrn-q2-2026-earnings-232609632.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-27T23:26:09Z",
+      "image": "https://s.yimg.com/os/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
+      "slug": "stride-lrn-q2-2026-earnings-call-transcript-7fac7cd9",
+      "orig_slug": "stride-lrn-q2-2026-earnings-call-transcript-7fac7cd9"
+    },
+    {
+      "title": "I'm Planning to Retire in 4 Years. Is It Wise to Convert 25% of My 401(k) to a Roth IRA to Minimize RMDs and Taxes?",
+      "link": "https://finance.yahoo.com/news/want-retire-4-years-convert-143249461.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-28T05:00:00Z",
+      "image": "https://s.yimg.com/os/en/smartasset_475/c3c187fdb3142984f01c22e4a0d15a77",
+      "slug": "im-planning-to-retire-in-4-years-is-it-wise-to-convert-25-of-my-401k-to-a-roth-i-b7939d7e",
+      "orig_slug": "im-planning-to-retire-in-4-years-is-it-wise-to-convert-25-of-my-401k-to-a-roth-i-b7939d7e"
+    },
+    {
+      "title": "GM Dividend Hike, $6B Stock Buyback Show ‘Heartbeat of America’ Strategy Paying Off",
+      "link": "https://finance.yahoo.com/news/gm-dividend-hike-6b-stock-050100046.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-28T05:01:00Z",
+      "image": "https://media.zenfs.com/en/the_daily_upside_435/46c3bf1861ee0ed6ff18eb73be508d63",
+      "slug": "gm-dividend-hike-6b-stock-buyback-show-heartbeat-of-america-strategy-paying-off-c2bc1f47",
+      "orig_slug": "gm-dividend-hike-6b-stock-buyback-show-heartbeat-of-america-strategy-paying-off-c2bc1f47"
+    },
+    {
+      "title": "Gold ETFs Shine as Prices Hit New Highs",
+      "link": "https://finance.yahoo.com/news/gold-etfs-shine-prices-hit-050100689.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-28T05:01:00Z",
+      "image": "https://media.zenfs.com/en/the_daily_upside_435/e39312f337908a1b41b7880538f9b254",
+      "slug": "gold-etfs-shine-as-prices-hit-new-highs-b4f7add6",
+      "orig_slug": "gold-etfs-shine-as-prices-hit-new-highs-b4f7add6"
+    },
+    {
+      "title": "Why Is Gold Beating Bitcoin? Tom Lee Explains What’s Really Happening",
+      "link": "https://finance.yahoo.com/news/why-gold-beating-bitcoin-tom-232552649.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-27T23:25:52Z",
+      "image": "https://s.yimg.com/os/en/99bitcoins_us_315/aff683a263f084ecd2ff1c44a5182353",
+      "slug": "why-is-gold-beating-bitcoin-tom-lee-explains-whats-really-happening-1845141d",
+      "orig_slug": "why-is-gold-beating-bitcoin-tom-lee-explains-whats-really-happening-1845141d"
+    },
+    {
+      "title": "Move Over Mutual Funds, All-ETF Portfolios Are on the Rise",
+      "link": "https://finance.yahoo.com/news/move-over-mutual-funds-etf-050100646.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-28T05:01:00Z",
+      "image": "https://media.zenfs.com/en/the_daily_upside_435/7d1281d5426cda12707478072f6dd651",
+      "slug": "move-over-mutual-funds-all-etf-portfolios-are-on-the-rise-b03adafb",
+      "orig_slug": "move-over-mutual-funds-all-etf-portfolios-are-on-the-rise-b03adafb"
+    },
+    {
+      "title": "Declining Profit, Medicare Budget-Tightening Spell Double Trouble for UnitedHealth",
+      "link": "https://finance.yahoo.com/news/declining-profit-medicare-budget-tightening-050100955.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-28T05:01:00Z",
+      "image": "https://media.zenfs.com/en/the_daily_upside_435/257c2c7eca36f456b5e4370aac053161",
+      "slug": "declining-profit-medicare-budget-tightening-spell-double-trouble-for-unitedhealt-ef6363ff",
+      "orig_slug": "declining-profit-medicare-budget-tightening-spell-double-trouble-for-unitedhealt-ef6363ff"
+    },
+    {
+      "title": "Behind BlackRock’s Proposed Bitcoin Premium Income ETF",
+      "link": "https://finance.yahoo.com/news/behind-blackrock-proposed-bitcoin-premium-050100273.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-28T05:01:00Z",
+      "image": "https://media.zenfs.com/en/the_daily_upside_435/503a5342c07eab4c71a8d5233dadce62",
+      "slug": "behind-blackrocks-proposed-bitcoin-premium-income-etf-b81907a4",
+      "orig_slug": "behind-blackrocks-proposed-bitcoin-premium-income-etf-b81907a4"
+    },
+    {
+      "title": "UPS Wins by Winding Down Amazon Partnership",
+      "link": "https://finance.yahoo.com/news/ups-wins-winding-down-amazon-050100169.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-28T05:01:00Z",
+      "image": "https://media.zenfs.com/en/the_daily_upside_435/d43f256741a204ebac12623721ddab6c",
+      "slug": "ups-wins-by-winding-down-amazon-partnership-115d7114",
+      "orig_slug": "ups-wins-by-winding-down-amazon-partnership-115d7114"
+    },
+    {
+      "title": "Nextpower (NXT) Q3 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/news/nextpower-nxt-q3-2026-earnings-232903479.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-27T23:29:03Z",
+      "image": "https://s.yimg.com/os/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
+      "slug": "nextpower-nxt-q3-2026-earnings-call-transcript-f9d6e3c2",
+      "orig_slug": "nextpower-nxt-q3-2026-earnings-call-transcript-f9d6e3c2"
+    },
+    {
+      "title": "SpaceX weighs June 2026 IPO at $1.5 trillion valuation, FT says",
+      "link": "https://finance.yahoo.com/news/spacex-weighs-june-2026-ipo-050656741.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-28T05:06:56Z",
+      "image": "https://s.yimg.com/os/en/reuters-finance.com/6c01b233a1cd6b34ba46f8ce24d29a87",
+      "slug": "spacex-weighs-june-2026-ipo-at-15-trillion-valuation-ft-says-ec0759a3",
+      "orig_slug": "spacex-weighs-june-2026-ipo-at-15-trillion-valuation-ft-says-ec0759a3"
+    },
+    {
+      "title": "Direct auto insurance review 2026: 3.3 stars out of 5",
+      "link": "https://finance.yahoo.com/personal-finance/insurance/review/direct-auto-insurance-review-155919143.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-27T15:59:19Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/6y5gYgtnygcSqD5SJ1U6Gg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/bf6f2970-faea-11f0-bd87-7883c211ef74",
+      "slug": "direct-auto-insurance-review-2026-33-stars-out-of-5-cdc5dd26",
+      "orig_slug": "direct-auto-insurance-review-2026-33-stars-out-of-5-cdc5dd26"
     },
     {
       "title": "Root car insurance review 2026: 2.0 out of 5 stars",
@@ -353,31 +344,31 @@
       "orig_slug": "root-car-insurance-review-2026-20-out-of-5-stars-c2c79492"
     },
     {
-      "title": "1 Dividend Stock to Buy Now as Trump Turns Up the Tariff Heat Again",
-      "link": "https://finance.yahoo.com/news/1-dividend-stock-buy-now-003002433.html",
+      "title": "Mortgage and refinance interest rates today, January 27, 2026: Under 6% again",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-january-27-2026-110016445.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-28T00:30:02Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/a2b7ec91e64a9235675aeab5524f2944",
-      "slug": "1-dividend-stock-to-buy-now-as-trump-turns-up-the-tariff-heat-again-ebc0aaed",
-      "orig_slug": "1-dividend-stock-to-buy-now-as-trump-turns-up-the-tariff-heat-again-ebc0aaed"
+      "pubDate": "2026-01-27T11:00:16Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/Y2tfJtD0oUt6xTTdKawkhA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/700e25a0-fb43-11ee-be6b-a40c5cf2631a",
+      "slug": "mortgage-and-refinance-interest-rates-today-january-27-2026-under-6-again-2587b2a2",
+      "orig_slug": "mortgage-and-refinance-interest-rates-today-january-27-2026-under-6-again-2587b2a2"
     },
     {
-      "title": "ADM to pay $40 million in US SEC settlement, avoids criminal charges",
-      "link": "https://finance.yahoo.com/news/adm-pay-40-million-us-003303571.html",
+      "title": "Jewelry retailer, TV brand closed after Chapter 7 bankruptcy",
+      "link": "https://finance.yahoo.com/news/jewelry-retailer-tv-brand-closed-233300214.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-28T00:33:03Z",
-      "image": "https://s.yimg.com/os/en/reuters.com/771efb0679590fb5e703ab4eeaa95302",
-      "slug": "adm-to-pay-40-million-in-us-sec-settlement-avoids-criminal-charges-dbe02cab",
-      "orig_slug": "adm-to-pay-40-million-in-us-sec-settlement-avoids-criminal-charges-dbe02cab"
+      "pubDate": "2026-01-27T23:33:00Z",
+      "image": "https://s.yimg.com/os/en/thestreet_881/06a8e73e7c2584da81a44c5fc24cb632",
+      "slug": "jewelry-retailer-tv-brand-closed-after-chapter-7-bankruptcy-486f540f",
+      "orig_slug": "jewelry-retailer-tv-brand-closed-after-chapter-7-bankruptcy-486f540f"
     },
     {
-      "title": "SoftBank in talks to invest up to $30 billion more in OpenAI, source says",
-      "link": "https://finance.yahoo.com/news/softbank-talks-invest-30-billion-004740741.html",
+      "title": "Your tax refund may be bigger this year. Here's why.",
+      "link": "https://finance.yahoo.com/personal-finance/taxes/article/your-tax-refund-may-be-bigger-this-year-heres-why-152025333.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-28T00:47:40Z",
-      "image": "https://s.yimg.com/os/en/reuters-finance.com/600359e14cd02217e705afa6080f0cdc",
-      "slug": "softbank-in-talks-to-invest-up-to-30-billion-more-in-openai-source-says-4c85c58d",
-      "orig_slug": "softbank-in-talks-to-invest-up-to-30-billion-more-in-openai-source-says-4c85c58d"
+      "pubDate": "2026-01-27T15:20:25Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/fFko_iNPFnHvidVO3bTP3A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/5aca7d80-f874-11f0-b6a7-114d390ceb35",
+      "slug": "your-tax-refund-may-be-bigger-this-year-heres-why-4b4ac1d2",
+      "orig_slug": "your-tax-refund-may-be-bigger-this-year-heres-why-4b4ac1d2"
     }
   ]
 }
