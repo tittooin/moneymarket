@@ -1,68 +1,122 @@
 {
-  "updated": "2026-01-31T05:37:51Z",
+  "updated": "2026-01-31T06:26:25Z",
   "items": [
     {
-      "title": "Apple Keeps Finding New Customers",
-      "link": "https://www.barrons.com/livecoverage/apple-earnings-stock-price-iphone-ai-tim-cook/card/apple-keeps-finding-new-customers-rD9BJF9dI37USDjXHj3Z?siteid=yhoof2&yptr=yahoo",
+      "title": "Stifel Revises Parker-Hannifin (PH) Outlook in Diversified Industrials Review",
+      "link": "https://finance.yahoo.com/news/stifel-revises-parker-hannifin-ph-233037886.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-29T22:37:29Z",
-      "image": "https://images.barrons.com/im-97772223/social",
-      "slug": "apple-keeps-finding-new-customers-2b19d5cd",
-      "orig_slug": "apple-keeps-finding-new-customers-2b19d5cd"
+      "pubDate": "2026-01-29T23:30:37Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/d444fce460f8346168e0a6e22d29c70d",
+      "slug": "stifel-revises-parker-hannifin-ph-outlook-in-diversified-industrials-review-b95a6232",
+      "orig_slug": "stifel-revises-parker-hannifin-ph-outlook-in-diversified-industrials-review-b95a6232"
     },
     {
-      "title": "What is a Schedule C IRS form?",
-      "link": "https://finance.yahoo.com/personal-finance/taxes/article/what-is-a-schedule-c-223632940.html",
+      "title": "Trump's Flat Rate Medicare Advantage Proposal Is 'Shock To The System,' Risking 20% Earnings Hit, Delaying Healthcare Turnaround",
+      "link": "https://finance.yahoo.com/news/trumps-flat-rate-medicare-advantage-233108981.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-29T22:36:32Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/Vlb9gdd1HqqIwLD6.tiUCg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-09/bebf7ce0-9a10-11f0-bded-435da6ce9771",
-      "slug": "what-is-a-schedule-c-irs-form-8a1bbcc8",
-      "orig_slug": "what-is-a-schedule-c-irs-form-8a1bbcc8"
+      "pubDate": "2026-01-29T23:31:08Z",
+      "image": "https://s.yimg.com/os/en/Benzinga/83641dab9244ca903152f185434ead3d",
+      "slug": "trumps-flat-rate-medicare-advantage-proposal-is-shock-to-the-system-risking-20-e-64b91f6e",
+      "orig_slug": "trumps-flat-rate-medicare-advantage-proposal-is-shock-to-the-system-risking-20-e-64b91f6e"
     },
     {
-      "title": "Apple Handily Beats Holiday-Quarter Goals On Record iPhone Sales",
-      "link": "https://www.investors.com/news/technology/apple-stock-aapl-fiscal-q1-2026-earnings/?src=A00220&yptr=yahoo",
+      "title": "First look: Covenant Logistics reports Q4 net loss",
+      "link": "https://finance.yahoo.com/news/first-look-covenant-logistics-reports-232624422.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-29T22:39:21Z",
+      "pubDate": "2026-01-29T23:26:24Z",
+      "image": "https://media.zenfs.com/en/freightwaves_373/4afa69937b6c67b0a64030d0ebba4ab3",
+      "slug": "first-look-covenant-logistics-reports-q4-net-loss-399c00ee",
+      "orig_slug": "first-look-covenant-logistics-reports-q4-net-loss-399c00ee"
+    },
+    {
+      "title": "BofA Lowers Long-Term Earnings Outlook for Brown & Brown (BRO) After Q4 Results",
+      "link": "https://finance.yahoo.com/news/bofa-lowers-long-term-earnings-232554744.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-29T23:25:54Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/2bd43e87e518620e9a88867994a26664",
+      "slug": "bofa-lowers-long-term-earnings-outlook-for-brown-brown-bro-after-q4-results-4960c157",
+      "orig_slug": "bofa-lowers-long-term-earnings-outlook-for-brown-brown-bro-after-q4-results-4960c157"
+    },
+    {
+      "title": "Stephens Raises Price Target on Matson (MATX) After Strong Preliminary Q4 Results",
+      "link": "https://finance.yahoo.com/news/stephens-raises-price-target-matson-232843754.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-29T23:28:43Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/d77a5d82f662190636a19665ad03d84f",
+      "slug": "stephens-raises-price-target-on-matson-matx-after-strong-preliminary-q4-results-f6fdbc8d",
+      "orig_slug": "stephens-raises-price-target-on-matson-matx-after-strong-preliminary-q4-results-f6fdbc8d"
+    },
+    {
+      "title": "Wells Fargo Updates 2026 Assumptions for Western Midstream (WES)",
+      "link": "https://finance.yahoo.com/news/wells-fargo-updates-2026-assumptions-232231857.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-29T23:22:31Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/20b514cea8e6590da43eab3fca0eb564",
+      "slug": "wells-fargo-updates-2026-assumptions-for-western-midstream-wes-5dd0a33a",
+      "orig_slug": "wells-fargo-updates-2026-assumptions-for-western-midstream-wes-5dd0a33a"
+    },
+    {
+      "title": "The WSJ Dollar Index Falls 0.15% to 93.88",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-mostly-strengthen-amid-fed-rate-cut-prospects-7b0ae056?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-29T23:28:00Z",
       "image": "",
-      "slug": "apple-handily-beats-holiday-quarter-goals-on-record-iphone-sales-5079a658",
-      "orig_slug": "apple-handily-beats-holiday-quarter-goals-on-record-iphone-sales-5079a658"
+      "slug": "the-wsj-dollar-index-falls-015-to-9388-d3832d8e",
+      "orig_slug": "the-wsj-dollar-index-falls-015-to-9388-d3832d8e"
     },
     {
-      "title": "Elon Musk's SpaceX said to consider merger with Tesla, Bloomberg News reports",
-      "link": "https://finance.yahoo.com/news/elon-musks-spacex-said-consider-224603248.html",
+      "title": "Jefferies Cuts Cheniere (LNG) Target but Stays Constructive Ahead of Q4",
+      "link": "https://finance.yahoo.com/news/jefferies-cuts-cheniere-lng-target-233256037.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-29T22:46:03Z",
-      "image": "https://s.yimg.com/os/en/reuters-finance.com/1544e7d59d3e13f63bd966ad28000ab4",
-      "slug": "elon-musks-spacex-said-to-consider-merger-with-tesla-bloomberg-news-reports-97524f3b",
-      "orig_slug": "elon-musks-spacex-said-to-consider-merger-with-tesla-bloomberg-news-reports-97524f3b"
+      "pubDate": "2026-01-29T23:32:56Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/acb7510ebe83cfc81458ddd4e96c5d0c",
+      "slug": "jefferies-cuts-cheniere-lng-target-but-stays-constructive-ahead-of-q4-59e8e400",
+      "orig_slug": "jefferies-cuts-cheniere-lng-target-but-stays-constructive-ahead-of-q4-59e8e400"
     },
     {
-      "title": "APR vs. interest rate: What’s the difference?",
-      "link": "https://finance.yahoo.com/news/apr-vs-interest-rate-difference-151004412.html",
+      "title": "Corn Closes Slightly Higher on Thursday",
+      "link": "https://finance.yahoo.com/news/corn-closes-slightly-higher-thursday-231823105.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-29T22:56:33Z",
-      "image": "https://media.zenfs.com/en/bankrate_626/602ac664cc622aa47a0880b57cb5d244",
-      "slug": "apr-vs-interest-rate-whats-the-difference-a54a721c",
-      "orig_slug": "apr-vs-interest-rate-whats-the-difference-a54a721c"
+      "pubDate": "2026-01-29T23:18:23Z",
+      "image": "https://s.yimg.com/os/en/barchart_com_477/a28ae8828dc3ea77749e2b9bbe74950c",
+      "slug": "corn-closes-slightly-higher-on-thursday-b807a5b6",
+      "orig_slug": "corn-closes-slightly-higher-on-thursday-b807a5b6"
     },
     {
-      "title": "Why Altria Stock Dropped Today",
-      "link": "https://finance.yahoo.com/news/why-altria-stock-dropped-today-223707483.html",
+      "title": "Wheat Holding Higher at Midday",
+      "link": "https://finance.yahoo.com/news/wheat-holding-higher-midday-231823377.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-29T22:37:07Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/456803d2ab7ccb5f424ab80041496776",
-      "slug": "why-altria-stock-dropped-today-51eaae9d",
-      "orig_slug": "why-altria-stock-dropped-today-51eaae9d"
+      "pubDate": "2026-01-29T23:18:23Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/99cae090e50fa0a19f92430967fe7caf",
+      "slug": "wheat-holding-higher-at-midday-f77e3e03",
+      "orig_slug": "wheat-holding-higher-at-midday-f77e3e03"
     },
     {
-      "title": "Burned by a bad loan? Here's how to recover.",
-      "link": "https://finance.yahoo.com/personal-finance/personal-loans/article/bad-loan-recovery-222252790.html",
+      "title": "Soybeans Fall Back on Thursday",
+      "link": "https://finance.yahoo.com/news/soybeans-fall-back-thursday-231823566.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-29T22:22:52Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/2GCf.NAZc0PIE4COqQnUoA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/8c4b7040-fd5f-11f0-adfb-f55fe8bd1bde",
-      "slug": "burned-by-a-bad-loan-heres-how-to-recover-3f1e6fed",
-      "orig_slug": "burned-by-a-bad-loan-heres-how-to-recover-3f1e6fed"
+      "pubDate": "2026-01-29T23:18:23Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/7485eb1de317f617acbba6b372ed019e",
+      "slug": "soybeans-fall-back-on-thursday-d37aa5f9",
+      "orig_slug": "soybeans-fall-back-on-thursday-d37aa5f9"
+    },
+    {
+      "title": "LPL Financial (LPLA) Q4 2025 Earnings Transcript",
+      "link": "https://finance.yahoo.com/news/lpl-financial-lpla-q4-2025-233149206.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-29T23:31:49Z",
+      "image": "https://s.yimg.com/os/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
+      "slug": "lpl-financial-lpla-q4-2025-earnings-transcript-57eadcf7",
+      "orig_slug": "lpl-financial-lpla-q4-2025-earnings-transcript-57eadcf7"
+    },
+    {
+      "title": "Schneider National’s shares sink on weak Q4, 2026 outlook",
+      "link": "https://finance.yahoo.com/news/schneider-national-shares-sink-weak-231127776.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-29T23:11:27Z",
+      "image": "https://media.zenfs.com/en/freightwaves_373/83351e33b4225816b76e2b35863c4123",
+      "slug": "schneider-nationals-shares-sink-on-weak-q4-2026-outlook-73b49cd0",
+      "orig_slug": "schneider-nationals-shares-sink-on-weak-q4-2026-outlook-73b49cd0"
     },
     {
       "title": "China’s Crude Hoarding Is Propping Up Oil Prices",
@@ -83,49 +137,130 @@
       "orig_slug": "daily-etf-flows-15b-flows-into-vxus-57df3796"
     },
     {
-      "title": "Trading day: Volatility surge, tech wreck",
-      "link": "https://finance.yahoo.com/news/trading-day-volatility-surge-tech-220333810.html",
+      "title": "RBC Capital Trims Duke Energy (DUK) Target in Utilities Sector Preview",
+      "link": "https://finance.yahoo.com/news/rbc-capital-trims-duke-energy-233743441.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-29T22:06:07Z",
-      "image": "https://s.yimg.com/os/en/reuters.com/dc935828ecf2135ce21aae7ceed6516a",
-      "slug": "trading-day-volatility-surge-tech-wreck-1cd6c8b2",
-      "orig_slug": "trading-day-volatility-surge-tech-wreck-1cd6c8b2"
+      "pubDate": "2026-01-29T23:37:43Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/26ad3d6597228d4df119c0a796f9dbc9",
+      "slug": "rbc-capital-trims-duke-energy-duk-target-in-utilities-sector-preview-35f3c16d",
+      "orig_slug": "rbc-capital-trims-duke-energy-duk-target-in-utilities-sector-preview-35f3c16d"
     },
     {
-      "title": "Apple Offers Strong Guidance, Shaking Off Rising Memory Prices",
-      "link": "https://www.barrons.com/livecoverage/apple-earnings-stock-price-iphone-ai-tim-cook/card/apple-offers-strong-guidance-shaking-off-rising-memory-prices-I04eWvDMwRrrYCw2Yb33?siteid=yhoof2&yptr=yahoo",
+      "title": "Axos (AX) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/news/axos-ax-q2-2026-earnings-232552101.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-29T22:36:07Z",
-      "image": "https://images.barrons.com/im-97772223/social",
-      "slug": "apple-offers-strong-guidance-shaking-off-rising-memory-prices-23dfb34d",
-      "orig_slug": "apple-offers-strong-guidance-shaking-off-rising-memory-prices-23dfb34d"
+      "pubDate": "2026-01-29T23:25:52Z",
+      "image": "https://s.yimg.com/os/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
+      "slug": "axos-ax-q2-2026-earnings-call-transcript-193b612f",
+      "orig_slug": "axos-ax-q2-2026-earnings-call-transcript-193b612f"
     },
     {
-      "title": "Copper surges in 'unsustainable' rally, joining silver and gold in 2026 metals frenzy",
-      "link": "https://finance.yahoo.com/news/copper-surges-in-unsustainable-rally-joining-silver-and-gold-in-2026-metals-frenzy-144259758.html",
+      "title": "Wolfe Research Upgrades Target (TGT) Ahead of March Investor Day",
+      "link": "https://finance.yahoo.com/news/wolfe-research-upgrades-target-tgt-233743611.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-29T14:42:59Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/Y_fBm2LNK7JW4PVi4WoE1Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/ebdfaf90-fbab-11f0-989f-e362546a8ba4",
-      "slug": "copper-surges-in-unsustainable-rally-joining-silver-and-gold-in-2026-metals-fren-d4cebf0a",
-      "orig_slug": "copper-surges-in-unsustainable-rally-joining-silver-and-gold-in-2026-metals-fren-d4cebf0a"
+      "pubDate": "2026-01-29T23:37:43Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/f5b860e6ce3ba35c97dada05c42c8169",
+      "slug": "wolfe-research-upgrades-target-tgt-ahead-of-march-investor-day-28c56801",
+      "orig_slug": "wolfe-research-upgrades-target-tgt-ahead-of-march-investor-day-28c56801"
     },
     {
-      "title": "Mexico’s Dos Bocas Refinery Starts Biting Into U.S. Fuel Exports",
-      "link": "https://finance.yahoo.com/news/mexico-dos-bocas-refinery-starts-220000761.html",
+      "title": "What is a Schedule C IRS form?",
+      "link": "https://finance.yahoo.com/personal-finance/taxes/article/what-is-a-schedule-c-223632940.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-29T22:00:00Z",
-      "image": "https://s.yimg.com/os/en/oilprice.com/9b128ee5c747309d5b6888587880c7f2",
-      "slug": "mexicos-dos-bocas-refinery-starts-biting-into-us-fuel-exports-17667516",
-      "orig_slug": "mexicos-dos-bocas-refinery-starts-biting-into-us-fuel-exports-17667516"
+      "pubDate": "2026-01-29T22:36:32Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/Vlb9gdd1HqqIwLD6.tiUCg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-09/bebf7ce0-9a10-11f0-bded-435da6ce9771",
+      "slug": "what-is-a-schedule-c-irs-form-8a1bbcc8",
+      "orig_slug": "what-is-a-schedule-c-irs-form-8a1bbcc8"
     },
     {
-      "title": "Apple's iPhone sales surge to new quarterly high despite early missteps in artificial intelligence",
-      "link": "https://finance.yahoo.com/news/apples-iphone-sales-surge-quarterly-215728671.html",
+      "title": "APR vs. interest rate: What’s the difference?",
+      "link": "https://finance.yahoo.com/news/apr-vs-interest-rate-difference-151004412.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-29T21:57:28Z",
-      "image": "https://media.zenfs.com/en/ap_finance_articles_694/e7f540ebca73765f84713c9f2410b032",
-      "slug": "apples-iphone-sales-surge-to-new-quarterly-high-despite-early-missteps-in-artifi-bad26488",
-      "orig_slug": "apples-iphone-sales-surge-to-new-quarterly-high-despite-early-missteps-in-artifi-bad26488"
+      "pubDate": "2026-01-29T22:56:33Z",
+      "image": "https://media.zenfs.com/en/bankrate_626/602ac664cc622aa47a0880b57cb5d244",
+      "slug": "apr-vs-interest-rate-whats-the-difference-a54a721c",
+      "orig_slug": "apr-vs-interest-rate-whats-the-difference-a54a721c"
+    },
+    {
+      "title": "Apple Handily Beats Holiday-Quarter Goals On Record iPhone Sales",
+      "link": "https://www.investors.com/news/technology/apple-stock-aapl-fiscal-q1-2026-earnings/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-29T22:39:21Z",
+      "image": "",
+      "slug": "apple-handily-beats-holiday-quarter-goals-on-record-iphone-sales-5079a658",
+      "orig_slug": "apple-handily-beats-holiday-quarter-goals-on-record-iphone-sales-5079a658"
+    },
+    {
+      "title": "1 Reason This $4 Trillion Tech Giant Is the Ultimate AI Stock to Buy With $1,000",
+      "link": "https://finance.yahoo.com/news/1-reason-4-trillion-tech-232400066.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-29T23:24:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/e0f7c4a3fb7363f098f5d956e971ca69",
+      "slug": "1-reason-this-4-trillion-tech-giant-is-the-ultimate-ai-stock-to-buy-with-1000-cd8fbbb3",
+      "orig_slug": "1-reason-this-4-trillion-tech-giant-is-the-ultimate-ai-stock-to-buy-with-1000-cd8fbbb3"
+    },
+    {
+      "title": "Elon Musk's SpaceX said to consider merger with Tesla, Bloomberg News reports",
+      "link": "https://finance.yahoo.com/news/elon-musks-spacex-said-consider-224603248.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-29T22:46:03Z",
+      "image": "https://s.yimg.com/os/en/reuters-finance.com/1544e7d59d3e13f63bd966ad28000ab4",
+      "slug": "elon-musks-spacex-said-to-consider-merger-with-tesla-bloomberg-news-reports-97524f3b",
+      "orig_slug": "elon-musks-spacex-said-to-consider-merger-with-tesla-bloomberg-news-reports-97524f3b"
+    },
+    {
+      "title": "Burned by a bad loan? Here's how to recover.",
+      "link": "https://finance.yahoo.com/personal-finance/personal-loans/article/bad-loan-recovery-222252790.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-29T22:22:52Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/2GCf.NAZc0PIE4COqQnUoA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/8c4b7040-fd5f-11f0-adfb-f55fe8bd1bde",
+      "slug": "burned-by-a-bad-loan-heres-how-to-recover-3f1e6fed",
+      "orig_slug": "burned-by-a-bad-loan-heres-how-to-recover-3f1e6fed"
+    },
+    {
+      "title": "Wells Fargo Upgrades Cintas (CTAS) and Names it a Top Pick for 2026",
+      "link": "https://finance.yahoo.com/news/wells-fargo-upgrades-cintas-ctas-234032884.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-29T23:40:32Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/be3393f134c2a187ca00a2f11da1c8b1",
+      "slug": "wells-fargo-upgrades-cintas-ctas-and-names-it-a-top-pick-for-2026-5c7492d5",
+      "orig_slug": "wells-fargo-upgrades-cintas-ctas-and-names-it-a-top-pick-for-2026-5c7492d5"
+    },
+    {
+      "title": "Susquehanna Lifts UPS Price Target, Maintains Neutral Stance",
+      "link": "https://finance.yahoo.com/news/susquehanna-lifts-ups-price-target-234526206.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-29T23:45:26Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/e4f0c9cac9ca53a5fe87c6d6fdc6681c",
+      "slug": "susquehanna-lifts-ups-price-target-maintains-neutral-stance-3f26d5b5",
+      "orig_slug": "susquehanna-lifts-ups-price-target-maintains-neutral-stance-3f26d5b5"
+    },
+    {
+      "title": "The Artificial Intelligence (AI) Stock That Refuses to Stay Down",
+      "link": "https://finance.yahoo.com/news/artificial-intelligence-ai-stock-refuses-232000677.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-29T23:20:00Z",
+      "image": "https://s.yimg.com/os/en/motleyfool.com/23d11c36346de5053ec15afdf5ed56e5",
+      "slug": "the-artificial-intelligence-ai-stock-that-refuses-to-stay-down-014c0812",
+      "orig_slug": "the-artificial-intelligence-ai-stock-that-refuses-to-stay-down-014c0812"
+    },
+    {
+      "title": "Citi Turns More Positive on PPG as Housing Tailwinds Emerge",
+      "link": "https://finance.yahoo.com/news/citi-turns-more-positive-ppg-234703814.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-29T23:47:03Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/f9fe65a88fb1b8ddf7a2605e86c581d2",
+      "slug": "citi-turns-more-positive-on-ppg-as-housing-tailwinds-emerge-954b6408",
+      "orig_slug": "citi-turns-more-positive-on-ppg-as-housing-tailwinds-emerge-954b6408"
+    },
+    {
+      "title": "UBS Revises Scotts Miracle-Gro (SMG) Outlook as Consumer Staples Pressures Persist",
+      "link": "https://finance.yahoo.com/news/ubs-revises-scotts-miracle-gro-234853497.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-29T23:48:53Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/f78d95ae75e2fc1578efb14fe6581cb5",
+      "slug": "ubs-revises-scotts-miracle-gro-smg-outlook-as-consumer-staples-pressures-persist-52ffcda6",
+      "orig_slug": "ubs-revises-scotts-miracle-gro-smg-outlook-as-consumer-staples-pressures-persist-52ffcda6"
     },
     {
       "title": "Copper prices are soaring. Here's what that often signals for the economy.",
@@ -137,15 +272,6 @@
       "orig_slug": "copper-prices-are-soaring-heres-what-that-often-signals-for-the-economy-a8636599"
     },
     {
-      "title": "One Fund Cut $3 Million From This Cruise Stock Amid a Nearly 30% Slide",
-      "link": "https://finance.yahoo.com/news/one-fund-cut-3-million-224025782.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-29T22:40:25Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/af7ec8d325cf2a320c12c354cd741265",
-      "slug": "one-fund-cut-3-million-from-this-cruise-stock-amid-a-nearly-30-slide-773ba1e4",
-      "orig_slug": "one-fund-cut-3-million-from-this-cruise-stock-amid-a-nearly-30-slide-773ba1e4"
-    },
-    {
       "title": "FNBO Review (2026): A variety of checking and savings options",
       "link": "https://finance.yahoo.com/personal-finance/banking/review/fnbo-review-213133306.html",
       "source": "finance.yahoo.com",
@@ -153,6 +279,15 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/OLif5xxTFQZeV5pLJcivNA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MTM-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/7fc16280-fd4b-11f0-bcde-735e5a92f21b",
       "slug": "fnbo-review-2026-a-variety-of-checking-and-savings-options-5f1cc2d6",
       "orig_slug": "fnbo-review-2026-a-variety-of-checking-and-savings-options-5f1cc2d6"
+    },
+    {
+      "title": "SWIFT Adopts Ripple’s Playbook — But Without Replacing Banks",
+      "link": "https://finance.yahoo.com/news/swift-adopts-ripple-playbook-without-231928134.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-29T23:19:28Z",
+      "image": "https://media.zenfs.com/en/beincrypto_us_662/08226e1ee3e8b7a61b5eca4969b43055",
+      "slug": "swift-adopts-ripples-playbook-but-without-replacing-banks-b5bdc0d9",
+      "orig_slug": "swift-adopts-ripples-playbook-but-without-replacing-banks-b5bdc0d9"
     },
     {
       "title": "How to use a personal loan to pay off $10K in credit card debt",
@@ -182,15 +317,6 @@
       "orig_slug": "gold-alternatives-how-to-invest-in-silver-platinum-and-palladium-eea8e1a5"
     },
     {
-      "title": "Stock Market Today, Jan. 29: Microsoft Slides and Meta Surges",
-      "link": "https://finance.yahoo.com/news/stock-market-today-jan-29-224135170.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-29T22:41:35Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/8293b92b1ffe888be5281be0564a56ab",
-      "slug": "stock-market-today-jan-29-microsoft-slides-and-meta-surges-a4e2f672",
-      "orig_slug": "stock-market-today-jan-29-microsoft-slides-and-meta-surges-a4e2f672"
-    },
-    {
       "title": "9 options to refinance a mortgage with bad credit",
       "link": "https://finance.yahoo.com/personal-finance/mortgages/article/refinance-mortgage-bad-credit-155231051.html",
       "source": "finance.yahoo.com",
@@ -198,6 +324,15 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/w5feOw11vqIKb0jAwVvRpA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/a3a00200-4dd5-11ef-bdee-bec81ed3c5bd",
       "slug": "9-options-to-refinance-a-mortgage-with-bad-credit-dfeccb8e",
       "orig_slug": "9-options-to-refinance-a-mortgage-with-bad-credit-dfeccb8e"
+    },
+    {
+      "title": "Strategy, BitMine Stock Prices Dive as Bitcoin and Ethereum Sink",
+      "link": "https://finance.yahoo.com/news/strategy-bitmine-stock-prices-dive-231919136.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-01-29T23:19:19Z",
+      "image": "https://media.zenfs.com/en/decrypt_157/7e5fd3c1a8294e9cec25b7494a6d2c73",
+      "slug": "strategy-bitmine-stock-prices-dive-as-bitcoin-and-ethereum-sink-5d71ea92",
+      "orig_slug": "strategy-bitmine-stock-prices-dive-as-bitcoin-and-ethereum-sink-5d71ea92"
     },
     {
       "title": "Delta Gold vs. Delta Platinum: Which card offers more Delta savings?",
@@ -218,96 +353,6 @@
       "orig_slug": "delta-reserve-vs-amex-platinum-how-to-best-maximize-perks-as-a-frequent-traveler-06134dd7"
     },
     {
-      "title": "When will mortgage rates go down? Considerations following the Fed meeting.",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/when-will-mortgage-rates-go-down-considerations-following-the-fed-meeting-190610129.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-04-22T19:06:10Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/UU4eEVaI8KzdTSlNRUf.bA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-03/1f42f290-ff5c-11ef-bfbf-7d26008535ed",
-      "slug": "when-will-mortgage-rates-go-down-considerations-following-the-fed-meeting-eead583f",
-      "orig_slug": "when-will-mortgage-rates-go-down-considerations-following-the-fed-meeting-eead583f"
-    },
-    {
-      "title": "McDonald's quietly fixes its customers' biggest menu beef",
-      "link": "https://finance.yahoo.com/news/mcdonalds-quietly-fixes-customers-biggest-223300689.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-29T22:33:00Z",
-      "image": "https://s.yimg.com/os/en/thestreet_881/b9b2070184a54bb4702c3f810d2f8aca",
-      "slug": "mcdonalds-quietly-fixes-its-customers-biggest-menu-beef-3cfc51ab",
-      "orig_slug": "mcdonalds-quietly-fixes-its-customers-biggest-menu-beef-3cfc51ab"
-    },
-    {
-      "title": "Mortgage and refinance interest rates today, January 29, 2026: Small moves higher as the Fed takes a rate pause",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-thursday-january-29-2026-110031515.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-29T11:00:31Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/RoIXxvn1UzNI5EghyfptMQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/ab364f60-fcfe-11ee-b9f4-32f16cee3a7b",
-      "slug": "mortgage-and-refinance-interest-rates-today-january-29-2026-small-moves-higher-a-2b37dcf3",
-      "orig_slug": "mortgage-and-refinance-interest-rates-today-january-29-2026-small-moves-higher-a-2b37dcf3"
-    },
-    {
-      "title": "Pumpkin pet insurance review 2026: 3.9 out of 5 stars",
-      "link": "https://finance.yahoo.com/personal-finance/insurance/review/pumpkin-pet-insurance-review-163202255.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-29T16:32:02Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/Hd2y1RNStqFo9AQUG2_zXw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/7a93e090-fd09-11f0-b09f-11d8fb70bb26",
-      "slug": "pumpkin-pet-insurance-review-2026-39-out-of-5-stars-35be2979",
-      "orig_slug": "pumpkin-pet-insurance-review-2026-39-out-of-5-stars-35be2979"
-    },
-    {
-      "title": "Who decides what gold is worth? How gold prices are determined.",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/who-decides-what-gold-is-worth-how-gold-prices-are-determined-130135952.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-10-13T13:01:35Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/d..zB8C5IhGh_zpDV4GYfw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/c076c6c0-9fd7-11f0-9db9-bbf88d1bae3a",
-      "slug": "who-decides-what-gold-is-worth-how-gold-prices-are-determined-9dd0e2bd",
-      "orig_slug": "who-decides-what-gold-is-worth-how-gold-prices-are-determined-9dd0e2bd"
-    },
-    {
-      "title": "Can a felon buy a house?",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/can-a-felon-buy-a-house-214336902.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-01-06T21:43:36Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/UJg0oVeR4H2zEV0scblvSQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-01/ccde58b0-ca21-11ef-b5e7-f5dd7260cccd",
-      "slug": "can-a-felon-buy-a-house-f27f354a",
-      "orig_slug": "can-a-felon-buy-a-house-f27f354a"
-    },
-    {
-      "title": "Elon Musk’s SpaceX, Tesla, and xAI in talks to merge, according to reports",
-      "link": "https://finance.yahoo.com/news/elon-musk-spacex-xai-talks-193059143.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-29T22:47:42Z",
-      "image": "https://media.zenfs.com/en/techcrunch_finance_785/16f47913344757b6ff771ab5c84ff669",
-      "slug": "elon-musks-spacex-tesla-and-xai-in-talks-to-merge-according-to-reports-c007d1ea",
-      "orig_slug": "elon-musks-spacex-tesla-and-xai-in-talks-to-merge-according-to-reports-c007d1ea"
-    },
-    {
-      "title": "Are personal loans taxable? Here’s when you may need to report them.",
-      "link": "https://finance.yahoo.com/personal-finance/personal-loans/article/personal-loan-taxes-175537332.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2023-12-15T22:58:05Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/_xfoVVd8sK38ZJw23Gsb.g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-images/2019-12/59cf5a20-16be-11ea-bff7-2bcaeed3d582",
-      "slug": "are-personal-loans-taxable-heres-when-you-may-need-to-report-them-f06a9323",
-      "orig_slug": "are-personal-loans-taxable-heres-when-you-may-need-to-report-them-f06a9323"
-    },
-    {
-      "title": "Home equity lines of credit (HELOCs) vs. home equity loans",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-vs-home-equity-loan-184445251.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2023-12-15T17:48:17Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/UldncgJyLUambgYAlHDb7w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/8e5c57b0-8966-11ee-bf7b-37b9c1b11ed1",
-      "slug": "home-equity-lines-of-credit-helocs-vs-home-equity-loans-d660bb7b",
-      "orig_slug": "home-equity-lines-of-credit-helocs-vs-home-equity-loans-d660bb7b"
-    },
-    {
-      "title": "How to invest in gold in 4 steps",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/how-to-invest-in-gold-181632105.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2024-11-20T18:16:32Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/eaMy9a1WD9IEm7ZqgrjKtQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-11/3e9b1ea0-a76a-11ef-b3ee-f9e692b3349f",
-      "slug": "how-to-invest-in-gold-in-4-steps-3e7b5d3d",
-      "orig_slug": "how-to-invest-in-gold-in-4-steps-3e7b5d3d"
-    },
-    {
       "title": "HELOC and home equity loan rates today, January 30, 2026: As the Fed pauses, so do home equity rates",
       "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-friday-january-30-2026-110002106.html",
       "source": "finance.yahoo.com",
@@ -315,15 +360,6 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/.s_eK2TthYlP26Fzb3LEMQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/eb4e4990-4262-11f0-b61f-fecabc8eb879",
       "slug": "heloc-and-home-equity-loan-rates-today-january-30-2026-as-the-fed-pauses-so-do-h-76dabe4b",
       "orig_slug": "heloc-and-home-equity-loan-rates-today-january-30-2026-as-the-fed-pauses-so-do-h-76dabe4b"
-    },
-    {
-      "title": "Boeing’s 737 MAX Delivery Pace Tells the Truth Earnings Reports Can’t Hide",
-      "link": "https://finance.yahoo.com/news/boeing-737-max-delivery-pace-224732613.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-29T22:47:32Z",
-      "image": "https://media.zenfs.com/en/24_7_wall_st__718/a9bff1d8f073d8ed4b5647479565f3dd",
-      "slug": "boeings-737-max-delivery-pace-tells-the-truth-earnings-reports-cant-hide-de426df1",
-      "orig_slug": "boeings-737-max-delivery-pace-tells-the-truth-earnings-reports-cant-hide-de426df1"
     },
     {
       "title": "Best money market account rates today, January 30, 2026 (up to 4.1% APY return)",
@@ -335,49 +371,13 @@
       "orig_slug": "best-money-market-account-rates-today-january-30-2026-up-to-41-apy-return-c690e857"
     },
     {
-      "title": "Best CD rates today, January 30, 2026 (up to 4% APY return)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-january-30-2026-110026592.html",
+      "title": "Stock Market Today, Jan. 29: AT&T Climbs as Earnings Confirm Cash Flow Strength",
+      "link": "https://finance.yahoo.com/news/stock-market-today-jan-29-231806512.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-01-30T11:00:26Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/jh7QT_uSJ4u1MJbMoh5tSw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47b17e2-4f64-11ef-afbf-1041709cf169",
-      "slug": "best-cd-rates-today-january-30-2026-up-to-4-apy-return-afa5848a",
-      "orig_slug": "best-cd-rates-today-january-30-2026-up-to-4-apy-return-afa5848a"
-    },
-    {
-      "title": "Mortgage and refinance interest rates today, January 30, 2026: Lingering near one-year lows",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-friday-january-30-2026-110033891.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-30T11:00:33Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/pkSpSwDGDZC8Ol_scXouEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/c36fbdb0-0289-11ef-be8f-4e0451f1fa09",
-      "slug": "mortgage-and-refinance-interest-rates-today-january-30-2026-lingering-near-one-y-befa909a",
-      "orig_slug": "mortgage-and-refinance-interest-rates-today-january-30-2026-lingering-near-one-y-befa909a"
-    },
-    {
-      "title": "Best high-yield savings interest rates today, January 30, 2026 (up to 4% APY return)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-friday-january-30-2026-110057291.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-30T11:00:57Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/zkP71JMsVlcuMMr4TYwHfg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/822c7220-4eb6-11ef-afbf-4972cf7de987",
-      "slug": "best-high-yield-savings-interest-rates-today-january-30-2026-up-to-4-apy-return-f9ce06ea",
-      "orig_slug": "best-high-yield-savings-interest-rates-today-january-30-2026-up-to-4-apy-return-f9ce06ea"
-    },
-    {
-      "title": "Fed sends surprising message on gold and silver price surge",
-      "link": "https://finance.yahoo.com/news/fed-sends-surprising-message-gold-224700252.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-29T22:47:00Z",
-      "image": "https://s.yimg.com/os/en/thestreet_881/b62a8e165de790d4e3bc3715b5b3c8a4",
-      "slug": "fed-sends-surprising-message-on-gold-and-silver-price-surge-cf40f85d",
-      "orig_slug": "fed-sends-surprising-message-on-gold-and-silver-price-surge-cf40f85d"
-    },
-    {
-      "title": "Gold price today, Friday, January 30: Gold slides nearly 5%",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-friday-january-30-gold-slides-nearly-5-121930265.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-26T12:19:30Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/aWaWnIbi5BX_E1GSCU8txA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/3e495ec0-b0cf-11f0-9eff-b6d8878d384d",
-      "slug": "gold-price-today-friday-january-30-gold-slides-nearly-5-c61a8d1d",
-      "orig_slug": "gold-price-today-friday-january-30-gold-slides-nearly-5-c61a8d1d"
+      "pubDate": "2026-01-29T23:18:06Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/ba80d0f341edc9eafd634feaeedbd932",
+      "slug": "stock-market-today-jan-29-att-climbs-as-earnings-confirm-cash-flow-strength-04a0513a",
+      "orig_slug": "stock-market-today-jan-29-att-climbs-as-earnings-confirm-cash-flow-strength-04a0513a"
     }
   ]
 }
