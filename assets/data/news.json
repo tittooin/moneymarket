@@ -1,383 +1,437 @@
 {
-  "updated": "2026-02-03T12:36:31Z",
+  "updated": "2026-02-03T13:58:14Z",
   "items": [
     {
-      "title": "German fashion leaders seek supply chain law suspension",
-      "link": "https://finance.yahoo.com/news/german-fashion-leaders-seek-supply-122839012.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-03T12:28:39Z",
-      "image": "https://s.yimg.com/os/en/just_style_482/c5505feae188d27e398ff4a1f154a422",
-      "slug": "german-fashion-leaders-seek-supply-chain-law-suspension-7bc2fe05",
-      "orig_slug": "german-fashion-leaders-seek-supply-chain-law-suspension-7bc2fe05"
-    },
-    {
-      "title": "Jim Cramer on Reddit: “I Bet It’s Up This Time”",
-      "link": "https://finance.yahoo.com/news/jim-cramer-reddit-bet-time-122416887.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-03T12:24:16Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/f0af17fbad2cffbf10431e616670da6d",
-      "slug": "jim-cramer-on-reddit-i-bet-its-up-this-time-8965e475",
-      "orig_slug": "jim-cramer-on-reddit-i-bet-its-up-this-time-8965e475"
-    },
-    {
-      "title": "Jim Cramer on Affirm: “The Bears Will Be Put on the Run By CEO Max Levchin”",
-      "link": "https://finance.yahoo.com/news/jim-cramer-affirm-bears-put-122414748.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-03T12:24:14Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/d33bdc283f11c51e1edf5a2884041b55",
-      "slug": "jim-cramer-on-affirm-the-bears-will-be-put-on-the-run-by-ceo-max-levchin-4f2fcd05",
-      "orig_slug": "jim-cramer-on-affirm-the-bears-will-be-put-on-the-run-by-ceo-max-levchin-4f2fcd05"
-    },
-    {
-      "title": "Jim Cramer on Amazon: “Lost in the Shuffle Is the Greatness of the Company Itself”",
-      "link": "https://finance.yahoo.com/news/jim-cramer-amazon-lost-shuffle-122413972.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-03T12:24:13Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/90e386a06858d8b4751ec77797010aed",
-      "slug": "jim-cramer-on-amazon-lost-in-the-shuffle-is-the-greatness-of-the-company-itself-1dc974bf",
-      "orig_slug": "jim-cramer-on-amazon-lost-in-the-shuffle-is-the-greatness-of-the-company-itself-1dc974bf"
-    },
-    {
-      "title": "Jim Cramer on McKesson: “When This Company Reports, Its Stock Usually Flies”",
-      "link": "https://finance.yahoo.com/news/jim-cramer-mckesson-company-reports-122411662.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-03T12:24:11Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/f6497930c7732eef3c7d79847d97e1aa",
-      "slug": "jim-cramer-on-mckesson-when-this-company-reports-its-stock-usually-flies-889ddae9",
-      "orig_slug": "jim-cramer-on-mckesson-when-this-company-reports-its-stock-usually-flies-889ddae9"
-    },
-    {
-      "title": "What a $20 Million Bet on a Stock Down 3% Signals for Investors",
-      "link": "https://finance.yahoo.com/news/20-million-bet-stock-down-122729655.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-03T12:27:29Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/0fa990b14f17bb2b976e65e5c2750f93",
-      "slug": "what-a-20-million-bet-on-a-stock-down-3-signals-for-investors-317d2161",
-      "orig_slug": "what-a-20-million-bet-on-a-stock-down-3-signals-for-investors-317d2161"
-    },
-    {
-      "title": "Jim Cramer on Alphabet: “Best Stock in the Business, At Least By My Count”",
-      "link": "https://finance.yahoo.com/news/jim-cramer-alphabet-best-stock-122410698.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-03T12:24:10Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/af2bb6bdbc4f56cfaf197a2118a94cf1",
-      "slug": "jim-cramer-on-alphabet-best-stock-in-the-business-at-least-by-my-count-7a9e34fa",
-      "orig_slug": "jim-cramer-on-alphabet-best-stock-in-the-business-at-least-by-my-count-7a9e34fa"
-    },
-    {
-      "title": "Jim Cramer Says Eli Lilly “Could Announce Some New Data, and That Could Get the Stock Rolling”",
-      "link": "https://finance.yahoo.com/news/jim-cramer-says-eli-lilly-122408617.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-03T12:24:08Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/5f241f83ea3e77a50a204217fc3a84bc",
-      "slug": "jim-cramer-says-eli-lilly-could-announce-some-new-data-and-that-could-get-the-st-1bfe9500",
-      "orig_slug": "jim-cramer-says-eli-lilly-could-announce-some-new-data-and-that-could-get-the-st-1bfe9500"
-    },
-    {
-      "title": "Jim Cramer on Amgen: “The Biotech Really Impressed Me With a Very Strong Pipeline”",
-      "link": "https://finance.yahoo.com/news/jim-cramer-amgen-biotech-really-122406856.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-03T12:24:06Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/753cb9cb32336de8f86289f7a7c7b36e",
-      "slug": "jim-cramer-on-amgen-the-biotech-really-impressed-me-with-a-very-strong-pipeline-9e211bbb",
-      "orig_slug": "jim-cramer-on-amgen-the-biotech-really-impressed-me-with-a-very-strong-pipeline-9e211bbb"
-    },
-    {
-      "title": "Jim Cramer on Chipotle: “It Might Actually Bounce Even If the Quarter Isn’t Spectacular”",
-      "link": "https://finance.yahoo.com/news/jim-cramer-chipotle-might-actually-122405309.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-03T12:24:05Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/04816330227784e99fa139754a436e25",
-      "slug": "jim-cramer-on-chipotle-it-might-actually-bounce-even-if-the-quarter-isnt-spectac-7f62f5b1",
-      "orig_slug": "jim-cramer-on-chipotle-it-might-actually-bounce-even-if-the-quarter-isnt-spectac-7f62f5b1"
-    },
-    {
-      "title": "Jim Cramer Highlights His “Fear” Around Advanced Micro Earnings As He Explains “New Pattern for Semis”",
-      "link": "https://finance.yahoo.com/news/jim-cramer-highlights-fear-around-122403351.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-03T12:24:03Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/1e85b81aa18457637c55df2e7f588803",
-      "slug": "jim-cramer-highlights-his-fear-around-advanced-micro-earnings-as-he-explains-new-1474d078",
-      "orig_slug": "jim-cramer-highlights-his-fear-around-advanced-micro-earnings-as-he-explains-new-1474d078"
-    },
-    {
-      "title": "Jim Cramer Expresses Concern About Pfizer Despite Its “Terrific Yield”",
-      "link": "https://finance.yahoo.com/news/jim-cramer-expresses-concern-pfizer-122401373.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-03T12:24:01Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/bede06ab4149315d5115f133c0b1480c",
-      "slug": "jim-cramer-expresses-concern-about-pfizer-despite-its-terrific-yield-dbc136fa",
-      "orig_slug": "jim-cramer-expresses-concern-about-pfizer-despite-its-terrific-yield-dbc136fa"
-    },
-    {
-      "title": "Jim Cramer on Merck & Co.: “I Think It Can Spread Out the Wealth”",
-      "link": "https://finance.yahoo.com/news/jim-cramer-merck-co-think-122400720.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-03T12:24:00Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/3d514494e70559fab2160c9e252902be",
-      "slug": "jim-cramer-on-merck-co-i-think-it-can-spread-out-the-wealth-b9942195",
-      "orig_slug": "jim-cramer-on-merck-co-i-think-it-can-spread-out-the-wealth-b9942195"
-    },
-    {
-      "title": "Jim Cramer on PepsiCo’s Recent Rally: “Maybe Something’s Going On”",
-      "link": "https://finance.yahoo.com/news/jim-cramer-pepsico-recent-rally-122358142.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-03T12:23:58Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/a9629676c8eff8f7c06e15cab8736cf0",
-      "slug": "jim-cramer-on-pepsicos-recent-rally-maybe-somethings-going-on-5d931d7d",
-      "orig_slug": "jim-cramer-on-pepsicos-recent-rally-maybe-somethings-going-on-5d931d7d"
-    },
-    {
-      "title": "Jim Cramer on Palantir CEO: “Karp’s a Fighter”",
-      "link": "https://finance.yahoo.com/news/jim-cramer-palantir-ceo-karp-122357924.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-03T12:23:57Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/f4972b23ca1d429713741721f81c5f25",
-      "slug": "jim-cramer-on-palantir-ceo-karps-a-fighter-d6667dac",
-      "orig_slug": "jim-cramer-on-palantir-ceo-karps-a-fighter-d6667dac"
-    },
-    {
-      "title": "Jim Cramer Highlights Disney’s Challenges",
-      "link": "https://finance.yahoo.com/news/jim-cramer-highlights-disney-challenges-122355987.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-03T12:23:55Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/1de21e5102a599aeff81a47861460c91",
-      "slug": "jim-cramer-highlights-disneys-challenges-768d5965",
-      "orig_slug": "jim-cramer-highlights-disneys-challenges-768d5965"
-    },
-    {
-      "title": "Jim Cramer Notes “Western Digital Stock Has Been One of the Best Performers of This Era”",
-      "link": "https://finance.yahoo.com/news/jim-cramer-notes-western-digital-122354034.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-03T12:23:54Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/e7ce02738b547dc513a8196cdef40274",
-      "slug": "jim-cramer-notes-western-digital-stock-has-been-one-of-the-best-performers-of-th-a92ca677",
-      "orig_slug": "jim-cramer-notes-western-digital-stock-has-been-one-of-the-best-performers-of-th-a92ca677"
-    },
-    {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures trade mixed as Palantir lifts tech hopes, earnings flow in",
-      "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-trade-mixed-as-palantir-lifts-tech-hopes-earnings-flow-in-235214738.html",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise as Palantir lifts tech hopes, earnings flow in",
+      "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-palantir-lifts-tech-hopes-earnings-flow-in-235214520.html",
       "source": "finance.yahoo.com",
       "pubDate": "2026-02-02T23:52:14Z",
       "image": "https://s.yimg.com/ny/api/res/1.2/bysG7CPX7h55oj7jRKchww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/21f94c00-0091-11f1-b24d-080e67b380f6",
-      "slug": "stock-market-today-dow-sp-500-nasdaq-futures-trade-mixed-as-palantir-lifts-tech--313b457d",
-      "orig_slug": "stock-market-today-dow-sp-500-nasdaq-futures-trade-mixed-as-palantir-lifts-tech--313b457d"
+      "slug": "stock-market-today-dow-sp-500-nasdaq-futures-rise-as-palantir-lifts-tech-hopes-e-88f872f5",
+      "orig_slug": "stock-market-today-dow-sp-500-nasdaq-futures-rise-as-palantir-lifts-tech-hopes-e-88f872f5"
+    },
+    {
+      "title": "Erie Indemnity’s (ERIE) Long Dividend Record Reflects Operating Consistency",
+      "link": "https://finance.yahoo.com/news/erie-indemnity-erie-long-dividend-134726486.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T13:47:26Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/e2066eee995672dda44c19a730473841",
+      "slug": "erie-indemnitys-erie-long-dividend-record-reflects-operating-consistency-e27ee5f5",
+      "orig_slug": "erie-indemnitys-erie-long-dividend-record-reflects-operating-consistency-e27ee5f5"
+    },
+    {
+      "title": "Do You Believe in the Growth Potential of Establishment Labs Holdings (ESTA)?",
+      "link": "https://finance.yahoo.com/news/believe-growth-potential-establishment-labs-134649139.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T13:46:49Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/7243cec3e76cb9fc5b9092978b5900f7",
+      "slug": "do-you-believe-in-the-growth-potential-of-establishment-labs-holdings-esta-94ab6c04",
+      "orig_slug": "do-you-believe-in-the-growth-potential-of-establishment-labs-holdings-esta-94ab6c04"
+    },
+    {
+      "title": "Aerospace Name Clocks Q4 Trounce; ARK Makes $18M Defense Bet",
+      "link": "https://www.investors.com/news/cathie-wood-woodward-earnings-ark-invest-18-million-defense-stocks-lockheed-martin-aerovironment-avav-stock-lmt/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T13:46:44Z",
+      "image": "",
+      "slug": "aerospace-name-clocks-q4-trounce-ark-makes-18m-defense-bet-127210f6",
+      "orig_slug": "aerospace-name-clocks-q4-trounce-ark-makes-18m-defense-bet-127210f6"
+    },
+    {
+      "title": "Illinois Tool Works (ITW) Maintains Dividend Growth Through Business Cycles",
+      "link": "https://finance.yahoo.com/news/illinois-tool-works-itw-maintains-134321334.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T13:43:21Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/122bf82d8a60e4e2034afdddbd9c36d5",
+      "slug": "illinois-tool-works-itw-maintains-dividend-growth-through-business-cycles-7869684c",
+      "orig_slug": "illinois-tool-works-itw-maintains-dividend-growth-through-business-cycles-7869684c"
+    },
+    {
+      "title": "Daily Spotlight: February Can Be a Tough Month for Stocks",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46045_MarketOutlook_1770122075000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T12:34:35Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "daily-spotlight-february-can-be-a-tough-month-for-stocks-40941cf6",
+      "orig_slug": "daily-spotlight-february-can-be-a-tough-month-for-stocks-40941cf6"
+    },
+    {
+      "title": "Sportradar Raised Earnings Outlook but Lost a Holder in an $8.7 Million Fourth-Quarter Exit",
+      "link": "https://finance.yahoo.com/news/sportradar-raised-earnings-outlook-lost-134149488.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T13:41:49Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/c9531603494b566ba9899131a58e57ef",
+      "slug": "sportradar-raised-earnings-outlook-but-lost-a-holder-in-an-87-million-fourth-qua-59665365",
+      "orig_slug": "sportradar-raised-earnings-outlook-but-lost-a-holder-in-an-87-million-fourth-qua-59665365"
+    },
+    {
+      "title": "Pfizer Dives After Reaffirming Its Modest Outlook And Providing An Obesity Update",
+      "link": "https://www.investors.com/news/technology/pfizer-stock-pfizer-earnings-q4-2025/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T13:41:23Z",
+      "image": "",
+      "slug": "pfizer-dives-after-reaffirming-its-modest-outlook-and-providing-an-obesity-updat-1cc7c8bc",
+      "orig_slug": "pfizer-dives-after-reaffirming-its-modest-outlook-and-providing-an-obesity-updat-1cc7c8bc"
+    },
+    {
+      "title": "Clearwater Analytics Holdings (CWAN) Rallied Following an Acquisition Announcement",
+      "link": "https://finance.yahoo.com/news/clearwater-analytics-holdings-cwan-rallied-134050913.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T13:40:50Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/31c9faa6fbf09ea903a78b037c9d4558",
+      "slug": "clearwater-analytics-holdings-cwan-rallied-following-an-acquisition-announcement-88663308",
+      "orig_slug": "clearwater-analytics-holdings-cwan-rallied-following-an-acquisition-announcement-88663308"
+    },
+    {
+      "title": "UBS Points to Pricing Strength Behind Nucor’s (NUE) Share Gains",
+      "link": "https://finance.yahoo.com/news/ubs-points-pricing-strength-behind-134034646.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T13:40:34Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/db8c767f0b83ac2f9e991d35e00dc860",
+      "slug": "ubs-points-to-pricing-strength-behind-nucors-nue-share-gains-c7cc6c0f",
+      "orig_slug": "ubs-points-to-pricing-strength-behind-nucors-nue-share-gains-c7cc6c0f"
+    },
+    {
+      "title": "Disney names parks leader Josh D'Amaro as next CEO, succeeding Bob Iger",
+      "link": "https://finance.yahoo.com/news/disney-names-parks-leader-josh-damaro-as-next-ceo-succeeding-bob-iger-133752601.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T13:37:52Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/fThW1Mq8m_xkfP4jvY_ZOQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/06db5de0-0105-11f1-b937-ce37101c1c65",
+      "slug": "disney-names-parks-leader-josh-damaro-as-next-ceo-succeeding-bob-iger-78af6b1c",
+      "orig_slug": "disney-names-parks-leader-josh-damaro-as-next-ceo-succeeding-bob-iger-78af6b1c"
+    },
+    {
+      "title": "Analyst Report: ManpowerGroup",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_3663_AnalystReport_1770120650000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T12:10:50Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-manpowergroup-c4fd1a11",
+      "orig_slug": "analyst-report-manpowergroup-c4fd1a11"
+    },
+    {
+      "title": "If You Had Put $10K Into an S&P 500 Fund in 2016, Here’s What You Would’ve Had Today",
+      "link": "https://finance.yahoo.com/news/had-put-10k-p-500-134104869.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T13:41:04Z",
+      "image": "https://media.zenfs.com/en/gobankingrates_644/68d66d621e2a960154454e2caff2da12",
+      "slug": "if-you-had-put-10k-into-an-sp-500-fund-in-2016-heres-what-you-wouldve-had-today-07d80d7e",
+      "orig_slug": "if-you-had-put-10k-into-an-sp-500-fund-in-2016-heres-what-you-wouldve-had-today-07d80d7e"
+    },
+    {
+      "title": "Western Digital adds $4 billion to buyback plan as AI boosts memory chip sales",
+      "link": "https://finance.yahoo.com/news/western-digital-adds-4-billion-133740945.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T13:37:40Z",
+      "image": "https://s.yimg.com/os/en/reuters-finance.com/346104be54c946826843739ad1a7b82b",
+      "slug": "western-digital-adds-4-billion-to-buyback-plan-as-ai-boosts-memory-chip-sales-cdef8b34",
+      "orig_slug": "western-digital-adds-4-billion-to-buyback-plan-as-ai-boosts-memory-chip-sales-cdef8b34"
+    },
+    {
+      "title": "Varonis Systems (VRNS) Dipped Despite Reporting Strong Earnings",
+      "link": "https://finance.yahoo.com/news/varonis-systems-vrns-dipped-despite-133725195.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T13:37:25Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/808c28b206f31cec7bc29260791faae1",
+      "slug": "varonis-systems-vrns-dipped-despite-reporting-strong-earnings-fa3a4e0e",
+      "orig_slug": "varonis-systems-vrns-dipped-despite-reporting-strong-earnings-fa3a4e0e"
+    },
+    {
+      "title": "Stock Market Today: Dow Steady As Palantir Soars On Earnings; PayPal Plunges (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-palantir-earnings-pltr-stok-paypal-stock/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T13:36:39Z",
+      "image": "",
+      "slug": "stock-market-today-dow-steady-as-palantir-soars-on-earnings-paypal-plunges-live--638ecd4f",
+      "orig_slug": "stock-market-today-dow-steady-as-palantir-soars-on-earnings-paypal-plunges-live--638ecd4f"
+    },
+    {
+      "title": "UBS Sees Improving Demand Across General Dynamics’ (GD) Core Businesses",
+      "link": "https://finance.yahoo.com/news/ubs-sees-improving-demand-across-133635255.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T13:36:35Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/30173640c9b0cffb6b7013930030fa3e",
+      "slug": "ubs-sees-improving-demand-across-general-dynamics-gd-core-businesses-4cd3b729",
+      "orig_slug": "ubs-sees-improving-demand-across-general-dynamics-gd-core-businesses-4cd3b729"
+    },
+    {
+      "title": "Analyst Report: Chevron Corp.",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_2878_AnalystReport_1770120650000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T12:10:50Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-chevron-corp-259d5bc1",
+      "orig_slug": "analyst-report-chevron-corp-259d5bc1"
+    },
+    {
+      "title": "Why Bloom Energy Rallied Almost 75% in January",
+      "link": "https://finance.yahoo.com/news/why-bloom-energy-rallied-almost-134100756.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T13:41:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/c13eba827292f2c5627a5e141256ed14",
+      "slug": "why-bloom-energy-rallied-almost-75-in-january-2fc877c0",
+      "orig_slug": "why-bloom-energy-rallied-almost-75-in-january-2fc877c0"
+    },
+    {
+      "title": "Palantir Stock Pops On Q4 Earnings Beat, Strong 2026 Outlook",
+      "link": "https://www.investors.com/news/technology/palantir-stock-pltr-palantir-earnings-q42025/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T13:35:41Z",
+      "image": "",
+      "slug": "palantir-stock-pops-on-q4-earnings-beat-strong-2026-outlook-10adc6d6",
+      "orig_slug": "palantir-stock-pops-on-q4-earnings-beat-strong-2026-outlook-10adc6d6"
+    },
+    {
+      "title": "What Makes Casella Waste Systems (CWST) a Scarce Asset?",
+      "link": "https://finance.yahoo.com/news/makes-casella-waste-systems-cwst-133508535.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T13:35:08Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/2c169721831f277edbeeebff59bfb63e",
+      "slug": "what-makes-casella-waste-systems-cwst-a-scarce-asset-c0757f36",
+      "orig_slug": "what-makes-casella-waste-systems-cwst-a-scarce-asset-c0757f36"
+    },
+    {
+      "title": "Piper Sandler Highlights Upcoming Segment Transition at Becton Dickinson (BDX)",
+      "link": "https://finance.yahoo.com/news/piper-sandler-highlights-upcoming-segment-133404709.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T13:34:04Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/c5231be68f8a8ee09937b7b67ae3b30f",
+      "slug": "piper-sandler-highlights-upcoming-segment-transition-at-becton-dickinson-bdx-3d843c60",
+      "orig_slug": "piper-sandler-highlights-upcoming-segment-transition-at-becton-dickinson-bdx-3d843c60"
+    },
+    {
+      "title": "What Makes JFrog Ltd. (FROG) an Investment Choice?",
+      "link": "https://finance.yahoo.com/news/makes-jfrog-ltd-frog-investment-133307715.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T13:33:07Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/61a04bceb140f1a889f2c2d0581a0a1d",
+      "slug": "what-makes-jfrog-ltd-frog-an-investment-choice-129af08d",
+      "orig_slug": "what-makes-jfrog-ltd-frog-an-investment-choice-129af08d"
+    },
+    {
+      "title": "Market Digest: CVX, LAZ, LRCX, MAN, WDC",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46042_MarketSummary_1770119750000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T11:55:50Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "market-digest-cvx-laz-lrcx-man-wdc-9194cfe6",
+      "orig_slug": "market-digest-cvx-laz-lrcx-man-wdc-9194cfe6"
+    },
+    {
+      "title": "Netflix's Ad Revenue Surges to $1.5 Billion: Is This the Best Stock to Buy Today With $2,000?",
+      "link": "https://finance.yahoo.com/news/netflixs-ad-revenue-surges-1-133500929.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T13:35:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/d5baad71d9da19c188b959b86e83f7bb",
+      "slug": "netflixs-ad-revenue-surges-to-15-billion-is-this-the-best-stock-to-buy-today-wit-c2cc9e5c",
+      "orig_slug": "netflixs-ad-revenue-surges-to-15-billion-is-this-the-best-stock-to-buy-today-wit-c2cc9e5c"
+    },
+    {
+      "title": "Eversource Energy (ES) Positions for Long-Term Growth With Utility Investments",
+      "link": "https://finance.yahoo.com/news/eversource-energy-es-positions-long-133146586.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T13:31:46Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/26ad3d6597228d4df119c0a796f9dbc9",
+      "slug": "eversource-energy-es-positions-for-long-term-growth-with-utility-investments-6d5c5174",
+      "orig_slug": "eversource-energy-es-positions-for-long-term-growth-with-utility-investments-6d5c5174"
+    },
+    {
+      "title": "BlackRock Acquisition Chatter Sends This Stock Towards A Breakout",
+      "link": "https://www.investors.com/news/blackrock-acquisition-chatter-sends-aes-stock-towards-a-breakout/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T13:31:13Z",
+      "image": "",
+      "slug": "blackrock-acquisition-chatter-sends-this-stock-towards-a-breakout-b6df4e94",
+      "orig_slug": "blackrock-acquisition-chatter-sends-this-stock-towards-a-breakout-b6df4e94"
+    },
+    {
+      "title": "Multiple Tailwinds Lifted Exact Sciences Corporation (EXAS) in 2025",
+      "link": "https://finance.yahoo.com/news/multiple-tailwinds-lifted-exact-sciences-133009324.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T13:30:09Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/8233160c18147a8e4ebf754261b228e8",
+      "slug": "multiple-tailwinds-lifted-exact-sciences-corporation-exas-in-2025-06ce6670",
+      "orig_slug": "multiple-tailwinds-lifted-exact-sciences-corporation-exas-in-2025-06ce6670"
+    },
+    {
+      "title": "Werner settlement ready to go in drivers’ lawsuit that dates to 2014",
+      "link": "https://finance.yahoo.com/news/werner-settlement-ready-drivers-lawsuit-132858963.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T13:28:58Z",
+      "image": "https://media.zenfs.com/en/freightwaves_373/d8768fd54b92d4a14027931ef4eb01c1",
+      "slug": "werner-settlement-ready-to-go-in-drivers-lawsuit-that-dates-to-2014-e62baa13",
+      "orig_slug": "werner-settlement-ready-to-go-in-drivers-lawsuit-that-dates-to-2014-e62baa13"
+    },
+    {
+      "title": "Daily – Vickers Top Buyers & Sellers for 02/03/2026",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46041_TopBottomInsiderActivity_1770116985000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T11:09:45Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "daily-vickers-top-buyers-sellers-for-02032026-c7b1dfe8",
+      "orig_slug": "daily-vickers-top-buyers-sellers-for-02032026-c7b1dfe8"
+    },
+    {
+      "title": "Marzetti bolsters sauces portfolio with Bachan’s acquisition",
+      "link": "https://finance.yahoo.com/news/marzetti-bolsters-sauces-portfolio-bachan-133302817.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T13:33:02Z",
+      "image": "https://s.yimg.com/os/en/just_food_692/8ba44c0a604ff323ae37410e5d64dc36",
+      "slug": "marzetti-bolsters-sauces-portfolio-with-bachans-acquisition-be15cf19",
+      "orig_slug": "marzetti-bolsters-sauces-portfolio-with-bachans-acquisition-be15cf19"
+    },
+    {
+      "title": "Capital One Financial Corp (COF) Surged Following Strong Results",
+      "link": "https://finance.yahoo.com/news/capital-one-financial-corp-cof-132237015.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T13:22:37Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/49c6cb4b74002bdba34526f5a77286cd",
+      "slug": "capital-one-financial-corp-cof-surged-following-strong-results-defb25d1",
+      "orig_slug": "capital-one-financial-corp-cof-surged-following-strong-results-defb25d1"
+    },
+    {
+      "title": "PayPal replaces CEO Chriss with HP's Lores",
+      "link": "https://finance.yahoo.com/news/paypal-replaces-ceo-chriss-hps-131948726.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T13:19:48Z",
+      "image": "https://media.zenfs.com/en/ap_finance_articles_694/d13658047878ec103949161098ae971b",
+      "slug": "paypal-replaces-ceo-chriss-with-hps-lores-0ba9494c",
+      "orig_slug": "paypal-replaces-ceo-chriss-with-hps-lores-0ba9494c"
     },
     {
       "title": "Dow Jones Futures: Palantir Jumps On Earnings; SpaceX, xAI To Merge",
       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-palantir-earnings-space-xai-merger/?src=A00220&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-03T12:21:13Z",
+      "pubDate": "2026-02-03T13:17:20Z",
       "image": "",
       "slug": "dow-jones-futures-palantir-jumps-on-earnings-spacex-xai-to-merge-6ef64d71",
       "orig_slug": "dow-jones-futures-palantir-jumps-on-earnings-spacex-xai-to-merge-6ef64d71"
     },
     {
-      "title": "My 3 Best Stocks to Buy In February",
-      "link": "https://finance.yahoo.com/news/3-best-stocks-buy-february-122000887.html",
+      "title": "Here’s What Lifted American International Group (AIG) in 2025",
+      "link": "https://finance.yahoo.com/news/lifted-american-international-group-aig-131708858.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-03T12:20:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/4021db997d027d3b8f48a614cd831640",
-      "slug": "my-3-best-stocks-to-buy-in-february-5c2fdb95",
-      "orig_slug": "my-3-best-stocks-to-buy-in-february-5c2fdb95"
+      "pubDate": "2026-02-03T13:17:08Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/8e6fbfe2e6dc82625fff93544e438798",
+      "slug": "heres-what-lifted-american-international-group-aig-in-2025-8abb6529",
+      "orig_slug": "heres-what-lifted-american-international-group-aig-in-2025-8abb6529"
     },
     {
-      "title": "Earnings live: Palantir stock surges after Q4 beat, NXP and Disney stocks fall",
-      "link": "https://finance.yahoo.com/news/live/earnings-live-palantir-stock-surges-after-q4-beat-nxp-and-disney-stocks-fall-213916677.html",
+      "title": "Daily – Vickers Top Insider Picks for 02/03/2026",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46040_InsiderActivity_1770116985000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-02T21:39:16Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/27HVvC5oQu7Rdo3SxNPQPw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/7f77f2d0-007f-11f1-baf9-74a2e76917d1",
-      "slug": "earnings-live-palantir-stock-surges-after-q4-beat-nxp-and-disney-stocks-fall-09149448",
-      "orig_slug": "earnings-live-palantir-stock-surges-after-q4-beat-nxp-and-disney-stocks-fall-09149448"
-    },
-    {
-      "title": "Gold price today, Tuesday, February 3: Gold rises nearly 6% to eclipse $4,900 per ounce",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-february-3-gold-rises-nearly-6-to-eclipse-4900-per-ounce-130036168.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-02T13:00:36Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/g8m8e.vWJVmbJN8Vcygm5Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/95b97660-b113-11f0-b3d3-57670e048682",
-      "slug": "gold-price-today-tuesday-february-3-gold-rises-nearly-6-to-eclipse-4900-per-ounc-02ed88fb",
-      "orig_slug": "gold-price-today-tuesday-february-3-gold-rises-nearly-6-to-eclipse-4900-per-ounc-02ed88fb"
-    },
-    {
-      "title": "PayPal sees 2026 profit below estimates, names Enrique Lores as CEO",
-      "link": "https://finance.yahoo.com/news/paypal-sees-2026-profit-below-120302791.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-03T12:03:02Z",
-      "image": "https://s.yimg.com/os/en/reuters-finance.com/372b5e5f0c73327e4130af73faaa5c5f",
-      "slug": "paypal-sees-2026-profit-below-estimates-names-enrique-lores-as-ceo-ca848278",
-      "orig_slug": "paypal-sees-2026-profit-below-estimates-names-enrique-lores-as-ceo-ca848278"
-    },
-    {
-      "title": "Pfizer beats fourth-quarter profit estimates on strong drug demand",
-      "link": "https://finance.yahoo.com/news/pfizer-beats-fourth-quarter-profit-115248423.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-03T12:00:58Z",
-      "image": "https://s.yimg.com/os/en/reuters.com/76d545bba934786e3320b25c0a241d2c",
-      "slug": "pfizer-beats-fourth-quarter-profit-estimates-on-strong-drug-demand-e949663a",
-      "orig_slug": "pfizer-beats-fourth-quarter-profit-estimates-on-strong-drug-demand-e949663a"
-    },
-    {
-      "title": "Porsche weighs scrapping electric models as costs climb",
-      "link": "https://finance.yahoo.com/news/porsche-weighs-scrapping-electric-models-121821963.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-03T12:18:21Z",
-      "image": "https://media.zenfs.com/en/just_auto_187/1412f85295f9d840fc103b8065b2fa8c",
-      "slug": "porsche-weighs-scrapping-electric-models-as-costs-climb-595564f0",
-      "orig_slug": "porsche-weighs-scrapping-electric-models-as-costs-climb-595564f0"
-    },
-    {
-      "title": "Millionaire caller with unpaid taxes, $350K debt is debating bankruptcy. Dave Ramsey says to deal with this crime first",
-      "link": "https://finance.yahoo.com/news/millionaire-caller-unpaid-taxes-350k-120000855.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-03T12:00:00Z",
-      "image": "https://s.yimg.com/os/en/moneywise_327/fd6cd7570e5e83d2c0e5d6eb6143e8ee",
-      "slug": "millionaire-caller-with-unpaid-taxes-350k-debt-is-debating-bankruptcy-dave-ramse-9027e6f4",
-      "orig_slug": "millionaire-caller-with-unpaid-taxes-350k-debt-is-debating-bankruptcy-dave-ramse-9027e6f4"
-    },
-    {
-      "title": "Bernstein and Stifel Lift IBM Price Targets After Q4 Results",
-      "link": "https://finance.yahoo.com/news/bernstein-stifel-lift-ibm-price-115549079.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-03T11:55:49Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/006bcfc0bf6a5e2502bce632646ee7ea",
-      "slug": "bernstein-and-stifel-lift-ibm-price-targets-after-q4-results-d8521222",
-      "orig_slug": "bernstein-and-stifel-lift-ibm-price-targets-after-q4-results-d8521222"
-    },
-    {
-      "title": "Is Palantir (PLTR) One of the Best AI Software Stocks to Buy?",
-      "link": "https://finance.yahoo.com/news/palantir-pltr-one-best-ai-115548133.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-03T11:55:48Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/1ff6b7fecb40946a6b0937648ae250a9",
-      "slug": "is-palantir-pltr-one-of-the-best-ai-software-stocks-to-buy-89e7f3f8",
-      "orig_slug": "is-palantir-pltr-one-of-the-best-ai-software-stocks-to-buy-89e7f3f8"
-    },
-    {
-      "title": "Palo Alto (PANW) Buys Chronosphere, Citizens Stays Bullish",
-      "link": "https://finance.yahoo.com/news/palo-alto-panw-buys-chronosphere-115546858.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-03T11:55:46Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/7006489d3d3d822489cfb2f041eac233",
-      "slug": "palo-alto-panw-buys-chronosphere-citizens-stays-bullish-cc85b43e",
-      "orig_slug": "palo-alto-panw-buys-chronosphere-citizens-stays-bullish-cc85b43e"
-    },
-    {
-      "title": "UBS, Baird Lower PT on Adobe (ADBE), BMO Capital Downgrades to Market Perform",
-      "link": "https://finance.yahoo.com/news/ubs-baird-lower-pt-adobe-115544575.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-03T11:55:44Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/f284970b371dea7baf8d274c5181c1ed",
-      "slug": "ubs-baird-lower-pt-on-adobe-adbe-bmo-capital-downgrades-to-market-perform-148d1c67",
-      "orig_slug": "ubs-baird-lower-pt-on-adobe-adbe-bmo-capital-downgrades-to-market-perform-148d1c67"
-    },
-    {
-      "title": "BofA and Stifel Stay Bullish on MongoDB (MDB)",
-      "link": "https://finance.yahoo.com/news/bofa-stifel-stay-bullish-mongodb-115543927.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-03T11:55:43Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/1390be7eafc0b5e13e446e815d0b5399",
-      "slug": "bofa-and-stifel-stay-bullish-on-mongodb-mdb-f8d4c553",
-      "orig_slug": "bofa-and-stifel-stay-bullish-on-mongodb-mdb-f8d4c553"
-    },
-    {
-      "title": "DA Davidson and BofA Stay Bullish on Snowflake (SNOW) Despite Market Challenges",
-      "link": "https://finance.yahoo.com/news/da-davidson-bofa-stay-bullish-115541378.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-03T11:55:41Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/4a25e1c441831c55a553ed49bcb06b8e",
-      "slug": "da-davidson-and-bofa-stay-bullish-on-snowflake-snow-despite-market-challenges-898c8338",
-      "orig_slug": "da-davidson-and-bofa-stay-bullish-on-snowflake-snow-despite-market-challenges-898c8338"
-    },
-    {
-      "title": "Analysts Stay Bullish on ServiceNow (NOW) After Earnings Report",
-      "link": "https://finance.yahoo.com/news/analysts-stay-bullish-servicenow-now-115539038.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-03T11:55:39Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/51263d3d0f4c550afb6e0dbf3b80d1d9",
-      "slug": "analysts-stay-bullish-on-servicenow-now-after-earnings-report-d550336a",
-      "orig_slug": "analysts-stay-bullish-on-servicenow-now-after-earnings-report-d550336a"
-    },
-    {
-      "title": "Autoliv Stock Is Up 32% in a Year, But One Fund Just Cut $3.8 Million",
-      "link": "https://finance.yahoo.com/news/autoliv-stock-32-one-fund-121547128.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-03T12:15:47Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/beb751fe64b83c39e69071ee1b68bd95",
-      "slug": "autoliv-stock-is-up-32-in-a-year-but-one-fund-just-cut-38-million-1083c504",
-      "orig_slug": "autoliv-stock-is-up-32-in-a-year-but-one-fund-just-cut-38-million-1083c504"
-    },
-    {
-      "title": "Salesforce (CRM) Wins $5.6 Billion Army Deal, Citizens Stays Positive",
-      "link": "https://finance.yahoo.com/news/salesforce-crm-wins-5-6-115538956.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-03T11:55:38Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/bb83c4cf6e17dcd0f8e57f62df9e0417",
-      "slug": "salesforce-crm-wins-56-billion-army-deal-citizens-stays-positive-f6d996a8",
-      "orig_slug": "salesforce-crm-wins-56-billion-army-deal-citizens-stays-positive-f6d996a8"
-    },
-    {
-      "title": "Morgan Stanley and RBC Capital Lower Oracle (ORCL) Price Targets",
-      "link": "https://finance.yahoo.com/news/morgan-stanley-rbc-capital-lower-115536485.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-03T11:55:36Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/929b40cac95e8e50f8e4ac06abbb4453",
-      "slug": "morgan-stanley-and-rbc-capital-lower-oracle-orcl-price-targets-1c78f723",
-      "orig_slug": "morgan-stanley-and-rbc-capital-lower-oracle-orcl-price-targets-1c78f723"
-    },
-    {
-      "title": "Analysts Cut Microsoft (MSFT) Price Targets",
-      "link": "https://finance.yahoo.com/news/analysts-cut-microsoft-msft-price-115534415.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-03T11:55:34Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/52d1772a91e0b074c5496ca25de5811e",
-      "slug": "analysts-cut-microsoft-msft-price-targets-3ca393b6",
-      "orig_slug": "analysts-cut-microsoft-msft-price-targets-3ca393b6"
-    },
-    {
-      "title": "Axsome Therapeutics (AXSM) Reports 66% Revenue Growth in FY2025, Beats Analyst Estimates",
-      "link": "https://finance.yahoo.com/news/axsome-therapeutics-axsm-reports-66-115508453.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-03T11:55:08Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/ab6f878f3081ddfbe3cd231ff6eb130e",
-      "slug": "axsome-therapeutics-axsm-reports-66-revenue-growth-in-fy2025-beats-analyst-estim-64182330",
-      "orig_slug": "axsome-therapeutics-axsm-reports-66-revenue-growth-in-fy2025-beats-analyst-estim-64182330"
-    },
-    {
-      "title": "Top brands converge at Kingpins New York, showcasing denim innovation",
-      "link": "https://finance.yahoo.com/news/top-brands-converge-kingpins-york-121324366.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-03T12:13:24Z",
-      "image": "https://media.zenfs.com/en/just_style_482/33d4af3bf04ae54695f22b579b80ba2f",
-      "slug": "top-brands-converge-at-kingpins-new-york-showcasing-denim-innovation-45da316e",
-      "orig_slug": "top-brands-converge-at-kingpins-new-york-showcasing-denim-innovation-45da316e"
-    },
-    {
-      "title": "Analyst Report: Valero Energy Corp.",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_3497_AnalystReport_1770062662000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-02T20:04:22Z",
+      "pubDate": "2026-02-03T11:09:45Z",
       "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "analyst-report-valero-energy-corp-6b15473c",
-      "orig_slug": "analyst-report-valero-energy-corp-6b15473c"
+      "slug": "daily-vickers-top-insider-picks-for-02032026-286fac8b",
+      "orig_slug": "daily-vickers-top-insider-picks-for-02032026-286fac8b"
     },
     {
-      "title": "DA Davidson Raises Modine Manufacturing (MOD) Price Target Amid Data Center Focus",
-      "link": "https://finance.yahoo.com/news/da-davidson-raises-modine-manufacturing-115506026.html",
+      "title": "Disney names theme parks head Josh D'Amaro as new CEO",
+      "link": "https://finance.yahoo.com/news/disney-names-theme-parks-head-133211198.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-03T11:55:06Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/81cb0dc84485872e6db3340d522e5969",
-      "slug": "da-davidson-raises-modine-manufacturing-mod-price-target-amid-data-center-focus-72b87e65",
-      "orig_slug": "da-davidson-raises-modine-manufacturing-mod-price-target-amid-data-center-focus-72b87e65"
+      "pubDate": "2026-02-03T13:32:11Z",
+      "image": "https://s.yimg.com/os/en/la_times_articles_853/443c30575bf8edcd6c5d7925d66632ce",
+      "slug": "disney-names-theme-parks-head-josh-damaro-as-new-ceo-28b46323",
+      "orig_slug": "disney-names-theme-parks-head-josh-damaro-as-new-ceo-28b46323"
     },
     {
-      "title": "Truist Securities Raises Jazz Pharmaceuticals (JAZZ) Price Target After HERIZON-GEA Trial",
-      "link": "https://finance.yahoo.com/news/truist-securities-raises-jazz-pharmaceuticals-115505254.html",
+      "title": "Zoetis (ZTS) Traded Lower Due to Reduced 2026 Outlook",
+      "link": "https://finance.yahoo.com/news/zoetis-zts-traded-lower-due-131447819.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-03T11:55:05Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/e53b819884867e24f24b5370fddba317",
-      "slug": "truist-securities-raises-jazz-pharmaceuticals-jazz-price-target-after-herizon-ge-0ab86bdb",
-      "orig_slug": "truist-securities-raises-jazz-pharmaceuticals-jazz-price-target-after-herizon-ge-0ab86bdb"
+      "pubDate": "2026-02-03T13:14:47Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/395ff4446b0f47267b9cc4fc8cf927ea",
+      "slug": "zoetis-zts-traded-lower-due-to-reduced-2026-outlook-de799cfd",
+      "orig_slug": "zoetis-zts-traded-lower-due-to-reduced-2026-outlook-de799cfd"
+    },
+    {
+      "title": "Earnings live: Palantir stock surges after Q4 beat, PayPal plunges, PepsiCo slips",
+      "link": "https://finance.yahoo.com/news/live/earnings-live-palantir-stock-surges-after-q4-beat-paypal-plunges-pepsico-slips-125920971.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T12:59:20Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/aZE0oyhRL3G7l73G5idE0g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MzM-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/8485f9a0-bff9-11f0-bfdc-60ad4833be21",
+      "slug": "earnings-live-palantir-stock-surges-after-q4-beat-paypal-plunges-pepsico-slips-f88a89fa",
+      "orig_slug": "earnings-live-palantir-stock-surges-after-q4-beat-paypal-plunges-pepsico-slips-f88a89fa"
+    },
+    {
+      "title": "Investor Concerns Impacted Labcorp (LH) in Q4",
+      "link": "https://finance.yahoo.com/news/investor-concerns-impacted-labcorp-lh-131012534.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T13:10:12Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/8e4a39f8f10aada02e8f176e8442758e",
+      "slug": "investor-concerns-impacted-labcorp-lh-in-q4-444c7572",
+      "orig_slug": "investor-concerns-impacted-labcorp-lh-in-q4-444c7572"
+    },
+    {
+      "title": "PayPal Turmoil At The Top: Struggling Payments Firm Hires New CEO",
+      "link": "https://www.investors.com/news/technology/paypal-stock-turmoil-struggling-firm-hires-new-ceo/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T13:08:45Z",
+      "image": "",
+      "slug": "paypal-turmoil-at-the-top-struggling-payments-firm-hires-new-ceo-f77253b3",
+      "orig_slug": "paypal-turmoil-at-the-top-struggling-payments-firm-hires-new-ceo-f77253b3"
+    },
+    {
+      "title": "A Business Owner Wants To Cut Their Profit In Half To Pay Workers More. Their Peers Aren't Sure That Generosity Will Lead To Tangible Results",
+      "link": "https://finance.yahoo.com/news/business-owner-wants-cut-profit-133105470.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T13:31:05Z",
+      "image": "https://s.yimg.com/os/en/Benzinga/a67da64ae5ea01f7ecd46c32650853d4",
+      "slug": "a-business-owner-wants-to-cut-their-profit-in-half-to-pay-workers-more-their-pee-6d99f090",
+      "orig_slug": "a-business-owner-wants-to-cut-their-profit-in-half-to-pay-workers-more-their-pee-6d99f090"
+    },
+    {
+      "title": "Sysco Corporation (SYY) Declined on Investor Worry About the Restaurant Macro Environment, Consumer Weakness",
+      "link": "https://finance.yahoo.com/news/sysco-corporation-syy-declined-investor-130839167.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T13:08:39Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/fbd2be3f24ffd62343f1b54c222e3e9a",
+      "slug": "sysco-corporation-syy-declined-on-investor-worry-about-the-restaurant-macro-envi-b4392a16",
+      "orig_slug": "sysco-corporation-syy-declined-on-investor-worry-about-the-restaurant-macro-envi-b4392a16"
+    },
+    {
+      "title": "Diamond Hill Large Cap Fund Purchased Cooper Companies (COO) Betting on the Resilient Contact Lens Industry",
+      "link": "https://finance.yahoo.com/news/diamond-hill-large-cap-fund-130534033.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T13:05:34Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/5e885a19018c7dfae737d9b58ded8352",
+      "slug": "diamond-hill-large-cap-fund-purchased-cooper-companies-coo-betting-on-the-resili-0ff88f02",
+      "orig_slug": "diamond-hill-large-cap-fund-purchased-cooper-companies-coo-betting-on-the-resili-0ff88f02"
+    },
+    {
+      "title": "Does Dover Corp. (DOV) Have a Long Runway for Growth?",
+      "link": "https://finance.yahoo.com/news/does-dover-corp-dov-long-130425933.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T13:04:25Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/d55e66e03282d719f08aac86e9a74eb1",
+      "slug": "does-dover-corp-dov-have-a-long-runway-for-growth-5ca69913",
+      "orig_slug": "does-dover-corp-dov-have-a-long-runway-for-growth-5ca69913"
+    },
+    {
+      "title": "What Makes Wix.com (WIX) a Strong Long-Term Position?",
+      "link": "https://finance.yahoo.com/news/makes-wix-com-wix-strong-130126596.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T13:01:26Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/25057720e13ffcfeddfe5ee3eaf6e0df",
+      "slug": "what-makes-wixcom-wix-a-strong-long-term-position-553a75f9",
+      "orig_slug": "what-makes-wixcom-wix-a-strong-long-term-position-553a75f9"
+    },
+    {
+      "title": "Tabasco sauce owner Mcllhenny hires new CEO from Nestlé",
+      "link": "https://finance.yahoo.com/news/tabasco-sauce-owner-mcllhenny-hires-132815709.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T13:28:15Z",
+      "image": "https://media.zenfs.com/en/just_food_692/1c6c0c04ef7757d665428f6e485328fd",
+      "slug": "tabasco-sauce-owner-mcllhenny-hires-new-ceo-from-nestl-36a901e0",
+      "orig_slug": "tabasco-sauce-owner-mcllhenny-hires-new-ceo-from-nestl-36a901e0"
+    },
+    {
+      "title": "Silver's Crash Is Getting Pretty Uncomfortable",
+      "link": "https://www.investors.com/etfs-and-funds/sectors/silver-crash-is-getting-pretty-uncomfortable/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T13:00:45Z",
+      "image": "",
+      "slug": "silvers-crash-is-getting-pretty-uncomfortable-2898fc3a",
+      "orig_slug": "silvers-crash-is-getting-pretty-uncomfortable-2898fc3a"
     }
   ]
 }
