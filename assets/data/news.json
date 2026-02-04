@@ -1,383 +1,455 @@
 {
-  "updated": "2026-02-04T12:36:47Z",
+  "updated": "2026-02-04T13:58:08Z",
   "items": [
     {
-      "title": "Earnings live: AMD, Chipotle stocks fall, Mondelez profits hit by high cocoa prices",
-      "link": "https://finance.yahoo.com/news/live/earnings-live-amd-chipotle-stocks-fall-mondelez-profits-hit-by-high-cocoa-prices-215027935.html",
+      "title": "Itron, PG&E expand collaboration to create more reliable, flexible grid",
+      "link": "https://finance.yahoo.com/news/itron-pg-e-expand-collaboration-135037917.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-03T21:50:27Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/X0W5qctuNBdL_OWE71zzOg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/91054180-01c2-11f1-bd8f-7694ef7a5775",
-      "slug": "earnings-live-amd-chipotle-stocks-fall-mondelez-profits-hit-by-high-cocoa-prices-a3ae9e73",
-      "orig_slug": "earnings-live-amd-chipotle-stocks-fall-mondelez-profits-hit-by-high-cocoa-prices-a3ae9e73"
+      "pubDate": "2026-02-04T13:50:37Z",
+      "image": "https://s.yimg.com/os/en/tipranks_452/30b1d840e249361a7df9dbeb9efcfd03",
+      "slug": "itron-pge-expand-collaboration-to-create-more-reliable-flexible-grid-42ebf64f",
+      "orig_slug": "itron-pge-expand-collaboration-to-create-more-reliable-flexible-grid-42ebf64f"
     },
     {
-      "title": "GE HealthCare forecasts 2026 profit above estimates on strong demand for medical devices",
-      "link": "https://finance.yahoo.com/news/ge-healthcare-forecasts-2026-profit-122408442.html",
+      "title": "Nevada Sues Coinbase Over Sports Contracts, Cathie Wood Sells $21M Of DraftKings",
+      "link": "https://www.investors.com/news/coinbase-nevada-sports-betting-event-contracts-prediction-markets-cathie-wood-ark-draftkings-sale/?src=A00220&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-04T12:24:08Z",
-      "image": "https://s.yimg.com/os/en/reuters.com/ce639c5b14b70fb3096fef94c497e650",
-      "slug": "ge-healthcare-forecasts-2026-profit-above-estimates-on-strong-demand-for-medical-0fdf8d8c",
-      "orig_slug": "ge-healthcare-forecasts-2026-profit-above-estimates-on-strong-demand-for-medical-0fdf8d8c"
+      "pubDate": "2026-02-04T13:41:38Z",
+      "image": "",
+      "slug": "nevada-sues-coinbase-over-sports-contracts-cathie-wood-sells-21m-of-draftkings-ca0e6b77",
+      "orig_slug": "nevada-sues-coinbase-over-sports-contracts-cathie-wood-sells-21m-of-draftkings-ca0e6b77"
     },
     {
-      "title": "UBS profit surges 56% in Q4 2025",
-      "link": "https://finance.yahoo.com/news/ubs-profit-surges-56-q4-122119136.html",
+      "title": "Legacy Ridge Capital Management’s Investment Approach in Polaris (PII)",
+      "link": "https://finance.yahoo.com/news/legacy-ridge-capital-management-investment-133945120.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-04T12:21:19Z",
-      "image": "https://media.zenfs.com/en/private_banker_international_938/178b8d82fdb283353a314bcaae349abf",
-      "slug": "ubs-profit-surges-56-in-q4-2025-a646de62",
-      "orig_slug": "ubs-profit-surges-56-in-q4-2025-a646de62"
+      "pubDate": "2026-02-04T13:39:45Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/68f98edefef415d1575023ced083b16e",
+      "slug": "legacy-ridge-capital-managements-investment-approach-in-polaris-pii-bd9403cc",
+      "orig_slug": "legacy-ridge-capital-managements-investment-approach-in-polaris-pii-bd9403cc"
+    },
+    {
+      "title": "Stock Market Today: Dow Rises On Surprise Jobs Data; AMD Plunges On Earnings (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-amd-stock-amd-earnings/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-04T13:38:19Z",
+      "image": "",
+      "slug": "stock-market-today-dow-rises-on-surprise-jobs-data-amd-plunges-on-earnings-live--707e7b57",
+      "orig_slug": "stock-market-today-dow-rises-on-surprise-jobs-data-amd-plunges-on-earnings-live--707e7b57"
+    },
+    {
+      "title": "Boston Scientific Dives After Key Division Misses Sales Forecasts",
+      "link": "https://www.investors.com/news/technology/boston-scientific-stock-boston-scientific-earnings-q4-2025/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-04T13:36:16Z",
+      "image": "",
+      "slug": "boston-scientific-dives-after-key-division-misses-sales-forecasts-5da36da7",
+      "orig_slug": "boston-scientific-dives-after-key-division-misses-sales-forecasts-5da36da7"
+    },
+    {
+      "title": "Daily Spotlight: Reasonable Valuation for Stocks",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46056_MarketOutlook_1770207752000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-04T12:22:32Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "daily-spotlight-reasonable-valuation-for-stocks-0dede785",
+      "orig_slug": "daily-spotlight-reasonable-valuation-for-stocks-0dede785"
+    },
+    {
+      "title": "Worksport enters partnership with Potomac International Partners",
+      "link": "https://finance.yahoo.com/news/worksport-enters-partnership-potomac-international-135026748.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-04T13:50:26Z",
+      "image": "https://s.yimg.com/os/en/tipranks_452/ea52b62d3dcf3ae7154bc31131a2fc0e",
+      "slug": "worksport-enters-partnership-with-potomac-international-partners-8f0b381c",
+      "orig_slug": "worksport-enters-partnership-with-potomac-international-partners-8f0b381c"
+    },
+    {
+      "title": "Silicon Labs Stock Rockets On Texas Instruments Buyout",
+      "link": "https://www.investors.com/news/technology/silicon-labs-stock-rockets-texas-instruments-buyout/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-04T13:35:05Z",
+      "image": "",
+      "slug": "silicon-labs-stock-rockets-on-texas-instruments-buyout-03b3c27a",
+      "orig_slug": "silicon-labs-stock-rockets-on-texas-instruments-buyout-03b3c27a"
+    },
+    {
+      "title": "What Makes Dutch Bros (BROS) Immersion Investment Partners’ “Doubted Champion”?",
+      "link": "https://finance.yahoo.com/news/makes-dutch-bros-bros-immersion-133429579.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-04T13:34:29Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/044ee34decfc8607149c925985bfcc5b",
+      "slug": "what-makes-dutch-bros-bros-immersion-investment-partners-doubted-champion-5dcb432b",
+      "orig_slug": "what-makes-dutch-bros-bros-immersion-investment-partners-doubted-champion-5dcb432b"
+    },
+    {
+      "title": "AbbVie Slumps Despite Widespread Beat, Upbeat Earnings Guidance",
+      "link": "https://www.investors.com/news/technology/abbvie-stock-abbvie-earnings-q4-2025/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-04T13:23:55Z",
+      "image": "",
+      "slug": "abbvie-slumps-despite-widespread-beat-upbeat-earnings-guidance-d8e75a4e",
+      "orig_slug": "abbvie-slumps-despite-widespread-beat-upbeat-earnings-guidance-d8e75a4e"
+    },
+    {
+      "title": "Strong Business Attributes Position Mama’s Creations (MAMA) for Strong Growth",
+      "link": "https://finance.yahoo.com/news/strong-business-attributes-position-mama-132309332.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-04T13:23:09Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/83f659aefb347dc486320b00ed61b235",
+      "slug": "strong-business-attributes-position-mamas-creations-mama-for-strong-growth-c66acb08",
+      "orig_slug": "strong-business-attributes-position-mamas-creations-mama-for-strong-growth-c66acb08"
+    },
+    {
+      "title": "Technical Assessment: Bullish in the Intermediate-Term",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46055_TechnicalAnalysis_1770207717000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-04T12:21:57Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "technical-assessment-bullish-in-the-intermediate-term-a8ed7d3d",
+      "orig_slug": "technical-assessment-bullish-in-the-intermediate-term-a8ed7d3d"
+    },
+    {
+      "title": "Apple App store revenue up 6.3% in fiscal Q2-to-date, says BofA",
+      "link": "https://finance.yahoo.com/news/apple-app-store-revenue-6-135019086.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-04T13:50:19Z",
+      "image": "https://s.yimg.com/os/en/tipranks_452/82297196b6ab3f6943ed5fc1d68a1dec",
+      "slug": "apple-app-store-revenue-up-63-in-fiscal-q2-to-date-says-bofa-a2239582",
+      "orig_slug": "apple-app-store-revenue-up-63-in-fiscal-q2-to-date-says-bofa-a2239582"
+    },
+    {
+      "title": "First look: Old Dominion posts Q4 beat",
+      "link": "https://finance.yahoo.com/news/first-look-old-dominion-posts-132246402.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-04T13:22:46Z",
+      "image": "https://media.zenfs.com/en/freightwaves_373/7b73f254d4c6c8af1928212b21ec40ca",
+      "slug": "first-look-old-dominion-posts-q4-beat-e3310a0e",
+      "orig_slug": "first-look-old-dominion-posts-q4-beat-e3310a0e"
+    },
+    {
+      "title": "Par Technology (PAR) is on Track for $225M Gross Profit and $90M EBITDA in 2026",
+      "link": "https://finance.yahoo.com/news/par-technology-par-track-225m-131709786.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-04T13:17:09Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/ab11120b396c3f4a8bcf900f89d44c5e",
+      "slug": "par-technology-par-is-on-track-for-225m-gross-profit-and-90m-ebitda-in-2026-3c118647",
+      "orig_slug": "par-technology-par-is-on-track-for-225m-gross-profit-and-90m-ebitda-in-2026-3c118647"
+    },
+    {
+      "title": "Jefferies Sees Modest Q4 Beat for Fortinet (FTNT), Remains Cautious on 2026",
+      "link": "https://finance.yahoo.com/news/jefferies-sees-modest-q4-beat-131558521.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-04T13:15:58Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/ea35b0e6ecbd2fd7acf5d2a3e06b5ef6",
+      "slug": "jefferies-sees-modest-q4-beat-for-fortinet-ftnt-remains-cautious-on-2026-a75c6ea9",
+      "orig_slug": "jefferies-sees-modest-q4-beat-for-fortinet-ftnt-remains-cautious-on-2026-a75c6ea9"
+    },
+    {
+      "title": "Eli Lilly Surges 9% After Obliterating Forecasts As Mounjaro, Zepbound Sales Double",
+      "link": "https://www.investors.com/news/technology/eli-lilly-stock-eli-lilly-earnings-q4-2025/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-04T13:15:14Z",
+      "image": "",
+      "slug": "eli-lilly-surges-9-after-obliterating-forecasts-as-mounjaro-zepbound-sales-doubl-30203471",
+      "orig_slug": "eli-lilly-surges-9-after-obliterating-forecasts-as-mounjaro-zepbound-sales-doubl-30203471"
+    },
+    {
+      "title": "Analyst Report: Church & Dwight Co., Inc.",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_3938_AnalystReport_1770207449000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-04T12:17:29Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-church-dwight-co-inc-d32ace0e",
+      "orig_slug": "analyst-report-church-dwight-co-inc-d32ace0e"
+    },
+    {
+      "title": "Beeline Holdings to integrate BLINKQC into Encompass platform",
+      "link": "https://finance.yahoo.com/news/beeline-holdings-integrate-blinkqc-encompass-134648896.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-04T13:46:48Z",
+      "image": "https://s.yimg.com/os/en/tipranks_452/78a521346ac05d505b35a7dcbc6f3d27",
+      "slug": "beeline-holdings-to-integrate-blinkqc-into-encompass-platform-848ed21c",
+      "orig_slug": "beeline-holdings-to-integrate-blinkqc-into-encompass-platform-848ed21c"
+    },
+    {
+      "title": "WSFS Financial (WSFS) PT Raised to $70 by Keefe Bruyette",
+      "link": "https://finance.yahoo.com/news/wsfs-financial-wsfs-pt-raised-131330450.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-04T13:13:30Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/93b71c13fda22f3df7e6352a95c6a74f",
+      "slug": "wsfs-financial-wsfs-pt-raised-to-70-by-keefe-bruyette-91ffb428",
+      "orig_slug": "wsfs-financial-wsfs-pt-raised-to-70-by-keefe-bruyette-91ffb428"
+    },
+    {
+      "title": "TD Cowen Ups Primerica (PRI) PT to $326 Amid Positive Life Insurance Sector Preview",
+      "link": "https://finance.yahoo.com/news/td-cowen-ups-primerica-pri-131312615.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-04T13:13:12Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/ac1b7bc226ce9b97a00c2d84c49aa59c",
+      "slug": "td-cowen-ups-primerica-pri-pt-to-326-amid-positive-life-insurance-sector-preview-2d54ad4a",
+      "orig_slug": "td-cowen-ups-primerica-pri-pt-to-326-amid-positive-life-insurance-sector-preview-2d54ad4a"
+    },
+    {
+      "title": "Morgan Stanley Lifts Mattel (MAT) PT to $22, Cites Sector Valuation Adjustments",
+      "link": "https://finance.yahoo.com/news/morgan-stanley-lifts-mattel-mat-131257854.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-04T13:12:57Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/c082a058b14bdc6c8a809fd66fa216c8",
+      "slug": "morgan-stanley-lifts-mattel-mat-pt-to-22-cites-sector-valuation-adjustments-cb79b169",
+      "orig_slug": "morgan-stanley-lifts-mattel-mat-pt-to-22-cites-sector-valuation-adjustments-cb79b169"
+    },
+    {
+      "title": "Bernstein Raises PPG Industries (PPG) PT to $130, Cites Revenue Beat Despite Q4 Earnings Miss",
+      "link": "https://finance.yahoo.com/news/bernstein-raises-ppg-industries-ppg-131238594.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-04T13:12:38Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/955758ab4e18abfd34b363325174d7d5",
+      "slug": "bernstein-raises-ppg-industries-ppg-pt-to-130-cites-revenue-beat-despite-q4-earn-4a379fbc",
+      "orig_slug": "bernstein-raises-ppg-industries-ppg-pt-to-130-cites-revenue-beat-despite-q4-earn-4a379fbc"
+    },
+    {
+      "title": "Analyst Report: AGNC Investment Corp",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_5888_AnalystReport_1770207449000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-04T12:17:29Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-agnc-investment-corp-c6f9d524",
+      "orig_slug": "analyst-report-agnc-investment-corp-c6f9d524"
+    },
+    {
+      "title": "Aquestive Therapeutics price target lowered to $6 from $8 at Lake Street",
+      "link": "https://finance.yahoo.com/news/aquestive-therapeutics-price-target-lowered-134632637.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-04T13:46:32Z",
+      "image": "https://s.yimg.com/os/en/tipranks_452/bd23518bddbecaa2e26b66cd7da7f21e",
+      "slug": "aquestive-therapeutics-price-target-lowered-to-6-from-8-at-lake-street-98e0d3a1",
+      "orig_slug": "aquestive-therapeutics-price-target-lowered-to-6-from-8-at-lake-street-98e0d3a1"
+    },
+    {
+      "title": "Is RenaissanceRe Holdings (RNR) One of the Most Undervalued Quality Stocks to Buy Right Now?",
+      "link": "https://finance.yahoo.com/news/renaissancere-holdings-rnr-one-most-131216188.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-04T13:12:16Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/ee550600198f898f2c9832c8d76743ea",
+      "slug": "is-renaissancere-holdings-rnr-one-of-the-most-undervalued-quality-stocks-to-buy--22fc3a11",
+      "orig_slug": "is-renaissancere-holdings-rnr-one-of-the-most-undervalued-quality-stocks-to-buy--22fc3a11"
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures wobble after tech-led losses, with Google earnings on deck",
+      "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-wobble-after-tech-led-losses-with-google-earnings-on-deck-234546341.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-03T23:45:46Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/kdpbh7wo4J.osRtAWIZfWA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/8c4f7ce0-015a-11f1-bf57-f2d3372d7171",
+      "slug": "stock-market-today-dow-sp-500-nasdaq-futures-wobble-after-tech-led-losses-with-g-f3d88441",
+      "orig_slug": "stock-market-today-dow-sp-500-nasdaq-futures-wobble-after-tech-led-losses-with-g-f3d88441"
+    },
+    {
+      "title": "Morgan Stanley Downgrades NetApp (NTAP) Due to 15-Year Low in IT Hardware Budget Growth",
+      "link": "https://finance.yahoo.com/news/morgan-stanley-downgrades-netapp-ntap-131158686.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-04T13:11:58Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/7453b0e60165351159491691fcbb6b4e",
+      "slug": "morgan-stanley-downgrades-netapp-ntap-due-to-15-year-low-in-it-hardware-budget-g-9212c9b8",
+      "orig_slug": "morgan-stanley-downgrades-netapp-ntap-due-to-15-year-low-in-it-hardware-budget-g-9212c9b8"
     },
     {
       "title": "Dow Jones Futures Rise Amid Shift Out Of Tech; AMD, Lumentum, Eli Lilly Are Earnings Movers",
       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-amd-lumentum-eli-lilly-earnings/?src=A00220&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-04T12:11:44Z",
+      "pubDate": "2026-02-04T13:11:47Z",
       "image": "",
       "slug": "dow-jones-futures-rise-amid-shift-out-of-tech-amd-lumentum-eli-lilly-are-earning-46fc2618",
       "orig_slug": "dow-jones-futures-rise-amid-shift-out-of-tech-amd-lumentum-eli-lilly-are-earning-46fc2618"
     },
     {
-      "title": "Palantir (PLTR) Delivers Another ‘Drop-the-Mic’ Quarter, Wedbush Says",
-      "link": "https://finance.yahoo.com/news/palantir-pltr-delivers-another-drop-121030693.html",
+      "title": "Analyst Report: Celestica Inc",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_2844_AnalystReport_1770207449000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-04T12:10:30Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/5cceacc358b02ec487e8b118bd5164f8",
-      "slug": "palantir-pltr-delivers-another-drop-the-mic-quarter-wedbush-says-29fd57b3",
-      "orig_slug": "palantir-pltr-delivers-another-drop-the-mic-quarter-wedbush-says-29fd57b3"
+      "pubDate": "2026-02-04T12:17:29Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-celestica-inc-d66cfd72",
+      "orig_slug": "analyst-report-celestica-inc-d66cfd72"
     },
     {
-      "title": "Amazon.com’s (AMZN) 2026 Could Mark an AI Script Flip, Evercore Says",
-      "link": "https://finance.yahoo.com/news/amazon-com-amzn-2026-could-120930418.html",
+      "title": "T. Rowe Price price target lowered to $123 from $128 at Morgan Stanley",
+      "link": "https://finance.yahoo.com/news/t-rowe-price-price-target-134622594.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-04T12:09:30Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/bf5db36a1da6774e5e796de67b414473",
-      "slug": "amazoncoms-amzn-2026-could-mark-an-ai-script-flip-evercore-says-6259704b",
-      "orig_slug": "amazoncoms-amzn-2026-could-mark-an-ai-script-flip-evercore-says-6259704b"
+      "pubDate": "2026-02-04T13:46:22Z",
+      "image": "https://s.yimg.com/os/en/tipranks_452/bbbaa42db25505e0ef236b01717fc510",
+      "slug": "t-rowe-price-price-target-lowered-to-123-from-128-at-morgan-stanley-cb9b04e9",
+      "orig_slug": "t-rowe-price-price-target-lowered-to-123-from-128-at-morgan-stanley-cb9b04e9"
     },
     {
-      "title": "UBS Cuts Oracle (ORCL) Target but Sees Funding Clarity as a Catalyst",
-      "link": "https://finance.yahoo.com/news/ubs-cuts-oracle-orcl-target-120846233.html",
+      "title": "Truist Adjusts State Street (STT) Outlook Following Strong Fee Growth, Higher Expense Forecasts",
+      "link": "https://finance.yahoo.com/news/truist-adjusts-state-street-stt-131139554.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-04T12:08:46Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/7d2691eb9795991132d8d2bef548fb51",
-      "slug": "ubs-cuts-oracle-orcl-target-but-sees-funding-clarity-as-a-catalyst-bf16690a",
-      "orig_slug": "ubs-cuts-oracle-orcl-target-but-sees-funding-clarity-as-a-catalyst-bf16690a"
+      "pubDate": "2026-02-04T13:11:39Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/a434e07c04db0d525e78e7ea4f2a5342",
+      "slug": "truist-adjusts-state-street-stt-outlook-following-strong-fee-growth-higher-expen-de3ab526",
+      "orig_slug": "truist-adjusts-state-street-stt-outlook-following-strong-fee-growth-higher-expen-de3ab526"
     },
     {
-      "title": "CoreWeave's 2025 -- The Year Its Growth Story Became Clear",
-      "link": "https://finance.yahoo.com/news/coreweaves-2025-growth-story-became-122000138.html",
+      "title": "TD Cowen Keeps Buy Rating on Incyte (INCY), Cites Roadmap to Triple Non-Jakafi Revenue by 2029",
+      "link": "https://finance.yahoo.com/news/td-cowen-keeps-buy-rating-131115743.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-04T12:20:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/eb55b46ff38967d4578916e7219699c3",
-      "slug": "coreweaves-2025----the-year-its-growth-story-became-clear-11e1ed43",
-      "orig_slug": "coreweaves-2025----the-year-its-growth-story-became-clear-11e1ed43"
+      "pubDate": "2026-02-04T13:11:15Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/54064ea5aa5f17b3ea6086a8a9c9f45a",
+      "slug": "td-cowen-keeps-buy-rating-on-incyte-incy-cites-roadmap-to-triple-non-jakafi-reve-6d12b01b",
+      "orig_slug": "td-cowen-keeps-buy-rating-on-incyte-incy-cites-roadmap-to-triple-non-jakafi-reve-6d12b01b"
     },
     {
-      "title": "Why Cantor Is Sticking With Tesla (TSLA) on AI and Robotics",
-      "link": "https://finance.yahoo.com/news/why-cantor-sticking-tesla-tsla-120807019.html",
+      "title": "Solar Stock Enphase Spikes On Strong Guidance, But This Key Question Remains",
+      "link": "https://www.investors.com/news/enphase-stock-solar-stocks-rally-strong-guidance-but-this-key-question-remains/?src=A00220&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-04T12:08:07Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/f605d006edcc6d4452a5aef69b1a7127",
-      "slug": "why-cantor-is-sticking-with-tesla-tsla-on-ai-and-robotics-26421ddb",
-      "orig_slug": "why-cantor-is-sticking-with-tesla-tsla-on-ai-and-robotics-26421ddb"
+      "pubDate": "2026-02-04T13:11:15Z",
+      "image": "",
+      "slug": "solar-stock-enphase-spikes-on-strong-guidance-but-this-key-question-remains-1d05caae",
+      "orig_slug": "solar-stock-enphase-spikes-on-strong-guidance-but-this-key-question-remains-1d05caae"
     },
     {
-      "title": "MongoDB (MDB) Seen as a Leader in Database Growth, BofA Says",
-      "link": "https://finance.yahoo.com/news/mongodb-mdb-seen-leader-database-120728649.html",
+      "title": "Goldman Sachs Raises Northern Trust (NTRS) PT to $148 Despite Maintaining a Sell Rating",
+      "link": "https://finance.yahoo.com/news/goldman-sachs-raises-northern-trust-131047975.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-04T12:07:28Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/15bc0b12dc9e61e6020d5dbd3d134902",
-      "slug": "mongodb-mdb-seen-as-a-leader-in-database-growth-bofa-says-cbe8aac4",
-      "orig_slug": "mongodb-mdb-seen-as-a-leader-in-database-growth-bofa-says-cbe8aac4"
+      "pubDate": "2026-02-04T13:10:47Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/93c7ef45b6118326a2ca4e3756556629",
+      "slug": "goldman-sachs-raises-northern-trust-ntrs-pt-to-148-despite-maintaining-a-sell-ra-320baa46",
+      "orig_slug": "goldman-sachs-raises-northern-trust-ntrs-pt-to-148-despite-maintaining-a-sell-ra-320baa46"
     },
     {
-      "title": "Gold price today, Wednesday, February 4: Gold rises back over $5,000 in early trading",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-february-4-gold-rises-back-over-5000-in-early-trading-130036265.html",
+      "title": "Analyst Report: Blackstone Inc",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_2797_AnalystReport_1770207449000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-02T13:00:36Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/GMiV7Ntlatqp.8LRi4jxEg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/b4fba110-b113-11f0-bdf7-8b0ac08fed6a",
-      "slug": "gold-price-today-wednesday-february-4-gold-rises-back-over-5000-in-early-trading-e8c76e16",
-      "orig_slug": "gold-price-today-wednesday-february-4-gold-rises-back-over-5000-in-early-trading-e8c76e16"
+      "pubDate": "2026-02-04T12:17:29Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-blackstone-inc-6f5c4fca",
+      "orig_slug": "analyst-report-blackstone-inc-6f5c4fca"
     },
     {
-      "title": "Global software stocks hit by Anthropic wake-up call on AI disruption",
-      "link": "https://finance.yahoo.com/news/global-software-stocks-hit-anthropic-120659089.html",
+      "title": "Palantir price target lowered to $180 from $215 at DA Davidson",
+      "link": "https://finance.yahoo.com/news/palantir-price-target-lowered-180-134610497.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-04T12:06:59Z",
-      "image": "https://s.yimg.com/os/en/reuters-finance.com/d79babb8dd349c0a55c9f060cbab6a0f",
-      "slug": "global-software-stocks-hit-by-anthropic-wake-up-call-on-ai-disruption-654d8dd4",
-      "orig_slug": "global-software-stocks-hit-by-anthropic-wake-up-call-on-ai-disruption-654d8dd4"
+      "pubDate": "2026-02-04T13:46:10Z",
+      "image": "https://s.yimg.com/os/en/tipranks_452/ffbf7167243407a5b6693aa9ad74855f",
+      "slug": "palantir-price-target-lowered-to-180-from-215-at-da-davidson-5f58b15a",
+      "orig_slug": "palantir-price-target-lowered-to-180-from-215-at-da-davidson-5f58b15a"
     },
     {
-      "title": "HMRC charges £325m in penalties for late self-assessment payments",
-      "link": "https://finance.yahoo.com/news/hmrc-charges-325m-penalties-self-121520076.html",
+      "title": "Cantor Fitzgerald Raises Hartford Insurance (HIG) PT to $165 Following Strong Q4 Results, 2026 Growth Outlook",
+      "link": "https://finance.yahoo.com/news/cantor-fitzgerald-raises-hartford-insurance-131030136.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-04T12:15:20Z",
-      "image": "https://media.zenfs.com/en/the_accountant_923/c233c7776a1c28902e5b9f50548780cb",
-      "slug": "hmrc-charges-325m-in-penalties-for-late-self-assessment-payments-35fdd895",
-      "orig_slug": "hmrc-charges-325m-in-penalties-for-late-self-assessment-payments-35fdd895"
+      "pubDate": "2026-02-04T13:10:30Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/6c66301f4ef87973c7eff9bccc953ef7",
+      "slug": "cantor-fitzgerald-raises-hartford-insurance-hig-pt-to-165-following-strong-q4-re-792b29c6",
+      "orig_slug": "cantor-fitzgerald-raises-hartford-insurance-hig-pt-to-165-following-strong-q4-re-792b29c6"
     },
     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures edge up after tech-led losses, with Google earnings on deck",
-      "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-edge-up-after-tech-led-losses-with-google-earnings-on-deck-234546688.html",
+      "title": "Truist Lowers Synchrony Financial (SYF) PT to $84 Following Cautious Credit Outlook, Adjusted 2026 Guidance",
+      "link": "https://finance.yahoo.com/news/truist-lowers-synchrony-financial-syf-131013836.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-03T23:45:46Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/kdpbh7wo4J.osRtAWIZfWA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/8c4f7ce0-015a-11f1-bf57-f2d3372d7171",
-      "slug": "stock-market-today-dow-sp-500-nasdaq-futures-edge-up-after-tech-led-losses-with--e3c47e01",
-      "orig_slug": "stock-market-today-dow-sp-500-nasdaq-futures-edge-up-after-tech-led-losses-with--e3c47e01"
+      "pubDate": "2026-02-04T13:10:13Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/21b9a1597a9b895651c9ad241e0cd57f",
+      "slug": "truist-lowers-synchrony-financial-syf-pt-to-84-following-cautious-credit-outlook-c94ab231",
+      "orig_slug": "truist-lowers-synchrony-financial-syf-pt-to-84-following-cautious-credit-outlook-c94ab231"
     },
     {
-      "title": "JPMorgan Upgrades Autodesk (ADSK) on AI and Infrastructure Exposure",
-      "link": "https://finance.yahoo.com/news/jpmorgan-upgrades-autodesk-adsk-ai-120520104.html",
+      "title": "Cantor Fitzgerald Lowers Qualcomm (QCOM) PT to $160, Cites Conservative Guidanc, Looming Market Share Shifts",
+      "link": "https://finance.yahoo.com/news/cantor-fitzgerald-lowers-qualcomm-qcom-130959798.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-04T12:05:20Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/332f666c0101261c73f9259866b37471",
-      "slug": "jpmorgan-upgrades-autodesk-adsk-on-ai-and-infrastructure-exposure-b33ab05d",
-      "orig_slug": "jpmorgan-upgrades-autodesk-adsk-on-ai-and-infrastructure-exposure-b33ab05d"
+      "pubDate": "2026-02-04T13:09:59Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/6857607624d018154569190d8bf2f815",
+      "slug": "cantor-fitzgerald-lowers-qualcomm-qcom-pt-to-160-cites-conservative-guidanc-loom-e13f848c",
+      "orig_slug": "cantor-fitzgerald-lowers-qualcomm-qcom-pt-to-160-cites-conservative-guidanc-loom-e13f848c"
     },
     {
-      "title": "Why Bernstein Still Sees Value in Qualcomm (QCOM) Despite Smartphone Fears",
-      "link": "https://finance.yahoo.com/news/why-bernstein-still-sees-value-120051378.html",
+      "title": "Rothschild & Co. Redburn Downgrades PayPal (PYPL) to Sell Due to Erosion of Competitive Edge in Agentic Commerce",
+      "link": "https://finance.yahoo.com/news/rothschild-co-redburn-downgrades-paypal-130929779.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-04T12:00:51Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/a07353f0567b34cc6d43062bf7eff645",
-      "slug": "why-bernstein-still-sees-value-in-qualcomm-qcom-despite-smartphone-fears-448dd6c9",
-      "orig_slug": "why-bernstein-still-sees-value-in-qualcomm-qcom-despite-smartphone-fears-448dd6c9"
+      "pubDate": "2026-02-04T13:09:29Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/94ed6617e434fd6d403db5475ccca47b",
+      "slug": "rothschild-co-redburn-downgrades-paypal-pypl-to-sell-due-to-erosion-of-competiti-f06810ba",
+      "orig_slug": "rothschild-co-redburn-downgrades-paypal-pypl-to-sell-due-to-erosion-of-competiti-f06810ba"
     },
     {
-      "title": "RBC Reiterates Outperform on Marvell (MRVL) as AI Infrastructure Thesis Strengthens",
-      "link": "https://finance.yahoo.com/news/rbc-reiterates-outperform-marvell-mrvl-120003224.html",
+      "title": "Market Digest: BX, CHD, CLS, EAT, ISRG, AGNC, NXPI",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46053_MarketSummary_1770206549000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-04T12:00:03Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/67f9cd6f73fae86b88a971abe9c6654a",
-      "slug": "rbc-reiterates-outperform-on-marvell-mrvl-as-ai-infrastructure-thesis-strengthen-80260746",
-      "orig_slug": "rbc-reiterates-outperform-on-marvell-mrvl-as-ai-infrastructure-thesis-strengthen-80260746"
+      "pubDate": "2026-02-04T12:02:29Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "market-digest-bx-chd-cls-eat-isrg-agnc-nxpi-0f68516d",
+      "orig_slug": "market-digest-bx-chd-cls-eat-isrg-agnc-nxpi-0f68516d"
     },
     {
-      "title": "Why e.l.f. Beauty Stock Jumped 12% in January",
-      "link": "https://finance.yahoo.com/news/why-e-l-f-beauty-121316672.html",
+      "title": "Sierra Bancorp price target raised to $44 from $39 at DA Davidson",
+      "link": "https://finance.yahoo.com/news/sierra-bancorp-price-target-raised-134528889.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-04T12:13:16Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/6594b5686a83a5e5b83d43b5d2c00ee3",
-      "slug": "why-elf-beauty-stock-jumped-12-in-january-81534ff2",
-      "orig_slug": "why-elf-beauty-stock-jumped-12-in-january-81534ff2"
+      "pubDate": "2026-02-04T13:45:28Z",
+      "image": "https://s.yimg.com/os/en/tipranks_452/f0cc67058ce72a9bea6b2968d60986a2",
+      "slug": "sierra-bancorp-price-target-raised-to-44-from-39-at-da-davidson-fe54fd12",
+      "orig_slug": "sierra-bancorp-price-target-raised-to-44-from-39-at-da-davidson-fe54fd12"
     },
     {
-      "title": "Father earning $200K lives paycheck to paycheck thanks to $100K of debt. The Ramsey Show has a 'radical' solution",
-      "link": "https://finance.yahoo.com/news/father-earning-200k-lives-paycheck-120000872.html",
+      "title": "Do You Believe in the Upward Potential of Centerspace (CSR)?",
+      "link": "https://finance.yahoo.com/news/believe-upward-potential-centerspace-csr-130659458.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-04T12:00:00Z",
-      "image": "https://s.yimg.com/os/en/moneywise_327/b894d0e5f468ffe5e5987f25adfd61d9",
-      "slug": "father-earning-200k-lives-paycheck-to-paycheck-thanks-to-100k-of-debt-the-ramsey-ad4a09f2",
-      "orig_slug": "father-earning-200k-lives-paycheck-to-paycheck-thanks-to-100k-of-debt-the-ramsey-ad4a09f2"
+      "pubDate": "2026-02-04T13:06:59Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/6ebe79a8bd043b40288c0b3d40cbbb31",
+      "slug": "do-you-believe-in-the-upward-potential-of-centerspace-csr-0d1aa5b6",
+      "orig_slug": "do-you-believe-in-the-upward-potential-of-centerspace-csr-0d1aa5b6"
     },
     {
-      "title": "Uber forecasts profit below estimates as cheaper rides boost trips but hurt margins",
-      "link": "https://finance.yahoo.com/news/uber-forecasts-profit-below-estimates-115752814.html",
+      "title": "Boston Scientific shares slide on cautious 2026 revenue forecast",
+      "link": "https://finance.yahoo.com/news/boston-scientific-shares-slide-cautious-130211137.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-04T11:57:52Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/X0W5qctuNBdL_OWE71zzOg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/91054180-01c2-11f1-bd8f-7694ef7a5775",
-      "slug": "uber-forecasts-profit-below-estimates-as-cheaper-rides-boost-trips-but-hurt-marg-47772c09",
-      "orig_slug": "uber-forecasts-profit-below-estimates-as-cheaper-rides-boost-trips-but-hurt-marg-47772c09"
+      "pubDate": "2026-02-04T13:02:11Z",
+      "image": "https://s.yimg.com/os/en/reuters.com/a9e3302bc0a282ef426ef4e782fce9f7",
+      "slug": "boston-scientific-shares-slide-on-cautious-2026-revenue-forecast-aebb73b2",
+      "orig_slug": "boston-scientific-shares-slide-on-cautious-2026-revenue-forecast-aebb73b2"
     },
     {
-      "title": "Eli Lilly sees 2026 profit above estimates as demand for weight‑loss drugs soars",
-      "link": "https://finance.yahoo.com/news/eli-lilly-sees-2026-profit-115421218.html",
+      "title": "Sony Group Corporation (SONY) Declined Due to a One-Time, Non-Cash Charge",
+      "link": "https://finance.yahoo.com/news/sony-group-corporation-sony-declined-130114836.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-04T11:54:21Z",
-      "image": "https://s.yimg.com/os/en/reuters.com/0d4d489a12e01b6d93ea41e1e83e8ea2",
-      "slug": "eli-lilly-sees-2026-profit-above-estimates-as-demand-for-weightloss-drugs-soars-bf532de4",
-      "orig_slug": "eli-lilly-sees-2026-profit-above-estimates-as-demand-for-weightloss-drugs-soars-bf532de4"
+      "pubDate": "2026-02-04T13:01:14Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/e428a31e2dfc4f387a19b30a2ff26136",
+      "slug": "sony-group-corporation-sony-declined-due-to-a-one-time-non-cash-charge-d5d1f0f3",
+      "orig_slug": "sony-group-corporation-sony-declined-due-to-a-one-time-non-cash-charge-d5d1f0f3"
     },
     {
-      "title": "GSK eyes sharper, faster drug development as new CEO signals growth plan",
-      "link": "https://finance.yahoo.com/news/gsk-forecasts-slower-sales-growth-070315323.html",
+      "title": "Aristotle Capital Value Equity Strategy Sold Constellation Brands (STZ) Despite Steady Business Rationale",
+      "link": "https://finance.yahoo.com/news/aristotle-capital-value-equity-strategy-125909731.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-04T11:53:17Z",
-      "image": "https://s.yimg.com/os/en/reuters.com/4f3d0446374c863c709046d27b5f4d53",
-      "slug": "gsk-eyes-sharper-faster-drug-development-as-new-ceo-signals-growth-plan-cd7ba984",
-      "orig_slug": "gsk-eyes-sharper-faster-drug-development-as-new-ceo-signals-growth-plan-cd7ba984"
+      "pubDate": "2026-02-04T12:59:09Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/ae07ba584bccf25fa9140184a0700972",
+      "slug": "aristotle-capital-value-equity-strategy-sold-constellation-brands-stz-despite-st-1dba609e",
+      "orig_slug": "aristotle-capital-value-equity-strategy-sold-constellation-brands-stz-despite-st-1dba609e"
     },
     {
-      "title": "Synlait Milk shares curdle after profit warning",
-      "link": "https://finance.yahoo.com/news/synlait-milk-shares-curdle-profit-121135648.html",
+      "title": "Daily – Vickers Top Buyers & Sellers for 02/04/2026",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46052_TopBottomInsiderActivity_1770203580000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-04T12:11:35Z",
-      "image": "https://media.zenfs.com/en/just_food_692/9439188775e9b9a45b15aa7d0aa34be4",
-      "slug": "synlait-milk-shares-curdle-after-profit-warning-3208172e",
-      "orig_slug": "synlait-milk-shares-curdle-after-profit-warning-3208172e"
+      "pubDate": "2026-02-04T11:13:00Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "daily-vickers-top-buyers-sellers-for-02042026-f0b99731",
+      "orig_slug": "daily-vickers-top-buyers-sellers-for-02042026-f0b99731"
     },
     {
-      "title": "Metlen Sells 283-MW U.K. Solar Portfolio to Schroders Greencoat",
-      "link": "https://finance.yahoo.com/news/metlen-sells-283-mw-u-114000362.html",
+      "title": "Why Dutch Bros Stock Fell 11% in January",
+      "link": "https://finance.yahoo.com/news/why-dutch-bros-stock-fell-134453139.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-04T11:40:00Z",
-      "image": "https://s.yimg.com/os/en/oilprice.com/ad059ae34a1d3c5e4a54a5135e9ad059",
-      "slug": "metlen-sells-283-mw-uk-solar-portfolio-to-schroders-greencoat-8e5f560f",
-      "orig_slug": "metlen-sells-283-mw-uk-solar-portfolio-to-schroders-greencoat-8e5f560f"
+      "pubDate": "2026-02-04T13:44:53Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/cba0a74970b868410e395ece1980a72c",
+      "slug": "why-dutch-bros-stock-fell-11-in-january-8b90f948",
+      "orig_slug": "why-dutch-bros-stock-fell-11-in-january-8b90f948"
     },
     {
-      "title": "Morning Bid: AI scatters the tech herd",
-      "link": "https://finance.yahoo.com/news/morning-bid-ai-scatters-tech-113405579.html",
+      "title": "Why the AI driven software stock crash probably isn't over",
+      "link": "https://finance.yahoo.com/news/why-the-ai-driven-software-stock-crash-probably-isnt-over-125809330.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-04T11:34:05Z",
-      "image": "https://s.yimg.com/os/en/reuters.com/6d2ea8c84353a454992efbc88aaa0183",
-      "slug": "morning-bid-ai-scatters-the-tech-herd-2b002905",
-      "orig_slug": "morning-bid-ai-scatters-the-tech-herd-2b002905"
-    },
-    {
-      "title": "I’m 50 years old and my 401(k) plan is suggesting I buy annuities. Is this the right move?",
-      "link": "https://finance.yahoo.com/news/m-50-years-old-401-111500348.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-04T11:15:00Z",
-      "image": "https://media.zenfs.com/en/moneywise_327/9f879d62b2b0ce71c5ccb740203de3ca",
-      "slug": "im-50-years-old-and-my-401k-plan-is-suggesting-i-buy-annuities-is-this-the-right-f717fe73",
-      "orig_slug": "im-50-years-old-and-my-401k-plan-is-suggesting-i-buy-annuities-is-this-the-right-f717fe73"
-    },
-    {
-      "title": "Mortgage and refinance interest rates today, February 4, 2026: Annual rates are down 61 basis points",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-wednesday-february-4-2026-110050004.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-04T11:00:50Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/_ONsRuCiWmr69CrYuQPk7g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/58d84be0-fc1f-11ee-bffb-9ac8a2f8fca0",
-      "slug": "mortgage-and-refinance-interest-rates-today-february-4-2026-annual-rates-are-dow-90ed48f2",
-      "orig_slug": "mortgage-and-refinance-interest-rates-today-february-4-2026-annual-rates-are-dow-90ed48f2"
-    },
-    {
-      "title": "Forvis Mazars appoints partner for audit quality enablement and operations",
-      "link": "https://finance.yahoo.com/news/forvis-mazars-appoints-partner-audit-121104732.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-04T12:11:04Z",
-      "image": "https://media.zenfs.com/en/international_accounting_bulletin_542/a76e7904e7fc3037b2f8b7b44fc7e941",
-      "slug": "forvis-mazars-appoints-partner-for-audit-quality-enablement-and-operations-c69f8298",
-      "orig_slug": "forvis-mazars-appoints-partner-for-audit-quality-enablement-and-operations-c69f8298"
-    },
-    {
-      "title": "HELOC and home equity loan rates today, February 4, 2026: Introductory rates dip below 5%",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-wednesday-february-4-2025-110031655.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-04T11:00:31Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/1N13V9BzRI7dAUoW_qyesw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/92704b90-40d5-11f0-bbfd-0abdc0412cbb",
-      "slug": "heloc-and-home-equity-loan-rates-today-february-4-2026-introductory-rates-dip-be-c4ce3954",
-      "orig_slug": "heloc-and-home-equity-loan-rates-today-february-4-2026-introductory-rates-dip-be-c4ce3954"
-    },
-    {
-      "title": "The SpaceX mega merger boosts the Musk trade",
-      "link": "https://finance.yahoo.com/news/the-spacex-mega-merger-boosts-the-musk-trade-110026592.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-04T11:00:26Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/3sHbYdnHdkbH0URGqpkaGA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/f95136e0-0140-11f1-9ff5-b5c1eea5e871",
-      "slug": "the-spacex-mega-merger-boosts-the-musk-trade-1c40bab5",
-      "orig_slug": "the-spacex-mega-merger-boosts-the-musk-trade-1c40bab5"
-    },
-    {
-      "title": "Best money market account rates today, February 4, 2026 (secure up to 4.1% APY)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-wednesday-february-4-2026-110025718.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-04T11:00:25Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/tGbF17E.EE_0O9FmeFcx0A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/d21d1ad0-20a9-11f0-bbbf-20f4269af61e",
-      "slug": "best-money-market-account-rates-today-february-4-2026-secure-up-to-41-apy-f50aaaad",
-      "orig_slug": "best-money-market-account-rates-today-february-4-2026-secure-up-to-41-apy-f50aaaad"
-    },
-    {
-      "title": "Best high-yield savings interest rates today, February 4, 2026 (Earn up to 4% APY)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-wednesday-february-4-2026-110016750.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-04T11:00:16Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/8iDigyCbzSotCxTQ.gNS1Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/a41ff6a0-4eb5-11ef-b1fe-05a827b12f92",
-      "slug": "best-high-yield-savings-interest-rates-today-february-4-2026-earn-up-to-4-apy-1812353e",
-      "orig_slug": "best-high-yield-savings-interest-rates-today-february-4-2026-earn-up-to-4-apy-1812353e"
-    },
-    {
-      "title": "Columbia Sportswear FY earnings beat forecasts amid ongoing US challenges",
-      "link": "https://finance.yahoo.com/news/columbia-sportswear-fy-earnings-beat-121003541.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-04T12:10:03Z",
-      "image": "https://media.zenfs.com/en/just_style_482/55488dc42290edb62cfc7e2d99e73cd3",
-      "slug": "columbia-sportswear-fy-earnings-beat-forecasts-amid-ongoing-us-challenges-ca978d68",
-      "orig_slug": "columbia-sportswear-fy-earnings-beat-forecasts-amid-ongoing-us-challenges-ca978d68"
-    },
-    {
-      "title": "Best CD rates today, February 4, 2026 (Earn up to 4% APY)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-february-4-2026-110011607.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-04T11:00:11Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/j5EPBCvWMZaPFkgUd3W3lQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47af0d2-4f64-11ef-8ffb-deebdbfd96c8",
-      "slug": "best-cd-rates-today-february-4-2026-earn-up-to-4-apy-820caecf",
-      "orig_slug": "best-cd-rates-today-february-4-2026-earn-up-to-4-apy-820caecf"
-    },
-    {
-      "title": "Is Cars.com Inc. (CARS) One of the Best Used Car Stocks To Buy According to Hedge Funds?",
-      "link": "https://finance.yahoo.com/news/cars-com-inc-cars-one-104423674.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-04T10:44:23Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/101a27ad5a991d33283e64fc072a8ba6",
-      "slug": "is-carscom-inc-cars-one-of-the-best-used-car-stocks-to-buy-according-to-hedge-fu-b94f8a68",
-      "orig_slug": "is-carscom-inc-cars-one-of-the-best-used-car-stocks-to-buy-according-to-hedge-fu-b94f8a68"
-    },
-    {
-      "title": "Penske Automotive (PAG): Strengthening U.S. Scale with Strategic Acquisitions",
-      "link": "https://finance.yahoo.com/news/penske-automotive-pag-strengthening-u-104422555.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-04T10:44:22Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/9e82f57dea6d74de05fbebffa6bdc7e7",
-      "slug": "penske-automotive-pag-strengthening-us-scale-with-strategic-acquisitions-2f47eb4d",
-      "orig_slug": "penske-automotive-pag-strengthening-us-scale-with-strategic-acquisitions-2f47eb4d"
-    },
-    {
-      "title": "AutoNation, Inc. (AN) Draws Investor Attention Amid Strategic Growth and Analyst Optimism",
-      "link": "https://finance.yahoo.com/news/autonation-inc-draws-investor-attention-104419757.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-04T10:44:19Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/ba8a7dd1100776c7bb8f0e9478b7d2cd",
-      "slug": "autonation-inc-an-draws-investor-attention-amid-strategic-growth-and-analyst-opt-35405d70",
-      "orig_slug": "autonation-inc-an-draws-investor-attention-amid-strategic-growth-and-analyst-opt-35405d70"
-    },
-    {
-      "title": "Tax Planners: Costliest Mistakes the Middle-Class Makes on Their Taxes",
-      "link": "https://finance.yahoo.com/news/tax-planners-costliest-mistakes-middle-130018174.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-04T12:09:56Z",
-      "image": "https://media.zenfs.com/en/gobankingrates_644/40ae651aea9550a76250cdba44b6f70f",
-      "slug": "tax-planners-costliest-mistakes-the-middle-class-makes-on-their-taxes-1523452a",
-      "orig_slug": "tax-planners-costliest-mistakes-the-middle-class-makes-on-their-taxes-1523452a"
-    },
-    {
-      "title": "Lithia Motors, Inc. (LAD) Accelerates Growth with Canadian Acquisition",
-      "link": "https://finance.yahoo.com/news/lithia-motors-inc-lad-accelerates-104417214.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-04T10:44:17Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/e7d032dec87a61794b2fed84ffbb6ff6",
-      "slug": "lithia-motors-inc-lad-accelerates-growth-with-canadian-acquisition-47ae4004",
-      "orig_slug": "lithia-motors-inc-lad-accelerates-growth-with-canadian-acquisition-47ae4004"
-    },
-    {
-      "title": "Group 1 Automotive, Inc. (GPI) Delivers Record Year of Robust Revenue Growth",
-      "link": "https://finance.yahoo.com/news/group-1-automotive-inc-gpi-104420831.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-04T10:44:20Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/66ad30881412efd9b6283b79caa5cd1a",
-      "slug": "group-1-automotive-inc-gpi-delivers-record-year-of-robust-revenue-growth-59059bef",
-      "orig_slug": "group-1-automotive-inc-gpi-delivers-record-year-of-robust-revenue-growth-59059bef"
-    },
-    {
-      "title": "CarMax, Inc. (KMX) Turns to Pricing and Marketing Actions to Revitalize Sales",
-      "link": "https://finance.yahoo.com/news/carmax-inc-kmx-turns-pricing-104416036.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-04T10:44:16Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/3b124d77ee0cfe3dfae9d0f3f60eda9d",
-      "slug": "carmax-inc-kmx-turns-to-pricing-and-marketing-actions-to-revitalize-sales-b6ade671",
-      "orig_slug": "carmax-inc-kmx-turns-to-pricing-and-marketing-actions-to-revitalize-sales-b6ade671"
-    },
-    {
-      "title": "Mortgage and refinance interest rates today, February 3, 2026: Will rates stay under 6%?",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-february-3-2026-110020538.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-03T11:00:20Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/Y2tfJtD0oUt6xTTdKawkhA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/700e25a0-fb43-11ee-be6b-a40c5cf2631a",
-      "slug": "mortgage-and-refinance-interest-rates-today-february-3-2026-will-rates-stay-unde-ef494f24",
-      "orig_slug": "mortgage-and-refinance-interest-rates-today-february-3-2026-will-rates-stay-unde-ef494f24"
+      "pubDate": "2026-02-04T12:58:09Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/aJ0lOsX6g987ogDl.voOMA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/cd606e60-014b-11f1-9b7d-cf7fc07d3a05",
+      "slug": "why-the-ai-driven-software-stock-crash-probably-isnt-over-5b5661ea",
+      "orig_slug": "why-the-ai-driven-software-stock-crash-probably-isnt-over-5b5661ea"
     }
   ]
 }
