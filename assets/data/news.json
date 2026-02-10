@@ -1,14 +1,68 @@
 {
-  "updated": "2026-02-10T09:51:27Z",
+  "updated": "2026-02-10T10:45:43Z",
   "items": [
     {
-      "title": "2 Data Center REITs That Could Triple Your Money as AI Infrastructure Hits $1.4 Trillion",
-      "link": "https://finance.yahoo.com/news/2-data-center-reits-could-093400338.html",
+      "title": "Databricks nears $5bn equity raise at $134bn valuation",
+      "link": "https://finance.yahoo.com/news/databricks-nears-5bn-equity-raise-103203621.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T09:34:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/09dc9f59bea29674ee40da1490e520e4",
-      "slug": "2-data-center-reits-that-could-triple-your-money-as-ai-infrastructure-hits-14-tr-cacd9c9a",
-      "orig_slug": "2-data-center-reits-that-could-triple-your-money-as-ai-infrastructure-hits-14-tr-cacd9c9a"
+      "pubDate": "2026-02-10T10:32:03Z",
+      "image": "https://media.zenfs.com/en/verdict_626/188f3994596c00e8d1eca82aa5f5e8f4",
+      "slug": "databricks-nears-5bn-equity-raise-at-134bn-valuation-753f2c85",
+      "orig_slug": "databricks-nears-5bn-equity-raise-at-134bn-valuation-753f2c85"
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500 eye fresh records as rebound holds ahead of jobs report",
+      "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-eye-fresh-records-as-rebound-holds-ahead-of-jobs-report-235207480.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-09T23:52:07Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/QYO4vKJmylAwej0Za_TwTQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/8fd72c30-05bc-11f1-97fb-36dbca2648ac",
+      "slug": "stock-market-today-dow-sp-500-eye-fresh-records-as-rebound-holds-ahead-of-jobs-r-bc85a0bc",
+      "orig_slug": "stock-market-today-dow-sp-500-eye-fresh-records-as-rebound-holds-ahead-of-jobs-r-bc85a0bc"
+    },
+    {
+      "title": "WhatsApp's fight against $268 million Irish privacy fine sent back to lower tribunal",
+      "link": "https://finance.yahoo.com/news/eu-top-court-refers-whatsapps-085607288.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T10:19:26Z",
+      "image": "https://s.yimg.com/os/en/reuters.com/a3cea7ac6c4994d0599e2a57dc65f02d",
+      "slug": "whatsapps-fight-against-268-million-irish-privacy-fine-sent-back-to-lower-tribun-1e3f104d",
+      "orig_slug": "whatsapps-fight-against-268-million-irish-privacy-fine-sent-back-to-lower-tribun-1e3f104d"
+    },
+    {
+      "title": "Euro zone inflation to take hit from tariffs but rate cuts could offset, ECB economists find",
+      "link": "https://finance.yahoo.com/news/euro-zone-inflation-hit-tariffs-100552240.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T10:05:52Z",
+      "image": "https://s.yimg.com/os/en/reuters.com/ce248614f435cc5fa18b4cc661508a7b",
+      "slug": "euro-zone-inflation-to-take-hit-from-tariffs-but-rate-cuts-could-offset-ecb-econ-756c3f84",
+      "orig_slug": "euro-zone-inflation-to-take-hit-from-tariffs-but-rate-cuts-could-offset-ecb-econ-756c3f84"
+    },
+    {
+      "title": "Instant payment system Pix poised to capture half of Brazil's e-commerce market by 2028",
+      "link": "https://finance.yahoo.com/news/instant-payment-system-pix-poised-100506841.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T10:05:06Z",
+      "image": "https://s.yimg.com/os/en/reuters-finance.com/6b9e170cfb5204fccd655c80d438b3c3",
+      "slug": "instant-payment-system-pix-poised-to-capture-half-of-brazils-e-commerce-market-b-b8821799",
+      "orig_slug": "instant-payment-system-pix-poised-to-capture-half-of-brazils-e-commerce-market-b-b8821799"
+    },
+    {
+      "title": "Stratus Packaging acquires French label manufacturer Freppel Imprimeur",
+      "link": "https://finance.yahoo.com/news/stratus-packaging-acquires-french-label-102655424.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T10:26:55Z",
+      "image": "https://media.zenfs.com/en/packaging_gateway_559/371f5157a5e4c31d018b4cf94e231e34",
+      "slug": "stratus-packaging-acquires-french-label-manufacturer-freppel-imprimeur-44ef164f",
+      "orig_slug": "stratus-packaging-acquires-french-label-manufacturer-freppel-imprimeur-44ef164f"
+    },
+    {
+      "title": "Ford Q4 earnings preview: EV losses, F-150 pickup business crucial for investors",
+      "link": "https://finance.yahoo.com/news/ford-q4-earnings-preview-ev-losses-f-150-pickup-business-crucial-for-investors-193034322.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-09T19:30:34Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/Td5_YMpA37fV3l3hU4wyEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/e422b820-4aa3-11ef-bbbf-ab5fad5824f7",
+      "slug": "ford-q4-earnings-preview-ev-losses-f-150-pickup-business-crucial-for-investors-35942d68",
+      "orig_slug": "ford-q4-earnings-preview-ev-losses-f-150-pickup-business-crucial-for-investors-35942d68"
     },
     {
       "title": "French wine, spirits exports lose fizz for third year as trade tensions hit",
@@ -18,15 +72,6 @@
       "image": "https://s.yimg.com/os/en/reuters.com/89901e86209bd81b2abaca61b250db34",
       "slug": "french-wine-spirits-exports-lose-fizz-for-third-year-as-trade-tensions-hit-d4a1a85c",
       "orig_slug": "french-wine-spirits-exports-lose-fizz-for-third-year-as-trade-tensions-hit-d4a1a85c"
-    },
-    {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures steady near records as rebound holds ahead of jobs report",
-      "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-steady-near-records-as-rebound-holds-ahead-of-jobs-report-235207493.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-09T23:52:07Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/QYO4vKJmylAwej0Za_TwTQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/8fd72c30-05bc-11f1-97fb-36dbca2648ac",
-      "slug": "stock-market-today-dow-sp-500-nasdaq-futures-steady-near-records-as-rebound-hold-f0f4aa11",
-      "orig_slug": "stock-market-today-dow-sp-500-nasdaq-futures-steady-near-records-as-rebound-hold-f0f4aa11"
     },
     {
       "title": "SoftBank earnings set for OpenAI boost, with focus on future funding",
@@ -47,13 +92,13 @@
       "orig_slug": "is-lamar-advertising-company-lamr-one-of-goldman-sachs-top-reit-stock-picks-53f022fb"
     },
     {
-      "title": "German retailers urge Berlin to shield EU firms from unfair competition",
-      "link": "https://finance.yahoo.com/news/german-retailers-urge-berlin-shield-093222289.html",
+      "title": "This Is the AI and Quantum Computing Stock Billionaires Want to Own (and It's Not Nvidia)",
+      "link": "https://finance.yahoo.com/news/ai-quantum-computing-stock-billionaires-102600279.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T09:32:22Z",
-      "image": "https://s.yimg.com/os/en/retail_insight_network_724/dfcfaafd20228c7f50417c9cf65b6d23",
-      "slug": "german-retailers-urge-berlin-to-shield-eu-firms-from-unfair-competition-e398209b",
-      "orig_slug": "german-retailers-urge-berlin-to-shield-eu-firms-from-unfair-competition-e398209b"
+      "pubDate": "2026-02-10T10:26:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/87d0da7ad9a7c433a8a2d58c69ce2c88",
+      "slug": "this-is-the-ai-and-quantum-computing-stock-billionaires-want-to-own-and-its-not--db1a321d",
+      "orig_slug": "this-is-the-ai-and-quantum-computing-stock-billionaires-want-to-own-and-its-not--db1a321d"
     },
     {
       "title": "Regency Centers Corporation (REG) Highlights Resilient Retail Fundamentals and Long-Term Growth Strategy",
@@ -92,13 +137,13 @@
       "orig_slug": "ventas-inc-vtr-reports-strong-2025-growth-accelerates-senior-housing-investments-0405f7e5"
     },
     {
-      "title": "Here's When the Dow Jones Industrial Average Will Reach 100,000, Based on What History Has to Say",
-      "link": "https://finance.yahoo.com/news/heres-dow-jones-industrial-average-092600663.html",
+      "title": "XRP Panic Selling? Key On-Chain Metric Flips Bearish to Levels Last Seen in 2022",
+      "link": "https://finance.yahoo.com/news/xrp-panic-selling-key-chain-102441612.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T09:26:00Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/35f74d740ce61d905c908213923cae7b",
-      "slug": "heres-when-the-dow-jones-industrial-average-will-reach-100000-based-on-what-hist-d3f6ff1e",
-      "orig_slug": "heres-when-the-dow-jones-industrial-average-will-reach-100000-based-on-what-hist-d3f6ff1e"
+      "pubDate": "2026-02-10T10:24:41Z",
+      "image": "https://media.zenfs.com/en/ccn_928/d48a45c79ab8da4a865dc68a5f945586",
+      "slug": "xrp-panic-selling-key-on-chain-metric-flips-bearish-to-levels-last-seen-in-2022-3ab945bd",
+      "orig_slug": "xrp-panic-selling-key-on-chain-metric-flips-bearish-to-levels-last-seen-in-2022-3ab945bd"
     },
     {
       "title": "VICI Properties (VICI) Maintains Appeal Despite Analyst Downgrades",
@@ -110,15 +155,6 @@
       "orig_slug": "vici-properties-vici-maintains-appeal-despite-analyst-downgrades-e020e622"
     },
     {
-      "title": "Realty Income Corporation (O) Expands Global Reach with $1.7B GIC Partnership Amid Analyst Upgrades",
-      "link": "https://finance.yahoo.com/news/realty-income-corporation-o-expands-065924956.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T06:59:24Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/8d6c2ac2c9b098cecdc2b790b3f64836",
-      "slug": "realty-income-corporation-o-expands-global-reach-with-17b-gic-partnership-amid-a-e4d68fd5",
-      "orig_slug": "realty-income-corporation-o-expands-global-reach-with-17b-gic-partnership-amid-a-e4d68fd5"
-    },
-    {
       "title": "Simon Property Group, Inc. (SPG) Achieves Record Real Estate Funds from Operations and Approves Quarterly Dividend",
       "link": "https://finance.yahoo.com/news/simon-property-group-inc-spg-065923712.html",
       "source": "finance.yahoo.com",
@@ -128,22 +164,13 @@
       "orig_slug": "simon-property-group-inc-spg-achieves-record-real-estate-funds-from-operations-a-34bb9b4e"
     },
     {
-      "title": "Digital Realty Trust (DLR): Strong Growth Outlook, Strategic Expansion, and Positive Analyst Sentiment Fuel REIT Potential",
-      "link": "https://finance.yahoo.com/news/digital-realty-trust-dlr-strong-065921938.html",
+      "title": "Realty Income Corporation (O) Expands Global Reach with $1.7B GIC Partnership Amid Analyst Upgrades",
+      "link": "https://finance.yahoo.com/news/realty-income-corporation-o-expands-065924956.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T06:59:21Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/a9f22a39b3a7b68bbc17c33864b121d2",
-      "slug": "digital-realty-trust-dlr-strong-growth-outlook-strategic-expansion-and-positive--f40a1fe5",
-      "orig_slug": "digital-realty-trust-dlr-strong-growth-outlook-strategic-expansion-and-positive--f40a1fe5"
-    },
-    {
-      "title": "CEO Elon Musk Just Gave a Mouth-Watering Update on Tesla's Robotaxi Fleet. Should You Buy In or Be a Skeptic?",
-      "link": "https://finance.yahoo.com/news/ceo-elon-musk-just-gave-092500150.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T09:25:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/ce3fe60f30873054d1987e0c91484580",
-      "slug": "ceo-elon-musk-just-gave-a-mouth-watering-update-on-teslas-robotaxi-fleet-should--7e0042c0",
-      "orig_slug": "ceo-elon-musk-just-gave-a-mouth-watering-update-on-teslas-robotaxi-fleet-should--7e0042c0"
+      "pubDate": "2026-02-10T06:59:24Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/8d6c2ac2c9b098cecdc2b790b3f64836",
+      "slug": "realty-income-corporation-o-expands-global-reach-with-17b-gic-partnership-amid-a-e4d68fd5",
+      "orig_slug": "realty-income-corporation-o-expands-global-reach-with-17b-gic-partnership-amid-a-e4d68fd5"
     },
     {
       "title": "Equinix (EQIX): Positioned for Growth in the Evolving Data Center Market",
@@ -153,6 +180,24 @@
       "image": "https://s.yimg.com/os/en/insidermonkey.com/b5765a7cecf06a62e161f5b16148fd68",
       "slug": "equinix-eqix-positioned-for-growth-in-the-evolving-data-center-market-8db091fa",
       "orig_slug": "equinix-eqix-positioned-for-growth-in-the-evolving-data-center-market-8db091fa"
+    },
+    {
+      "title": "Brokerage and Advisory Accounts: Factors to Consider When Choosing an Account Type",
+      "link": "https://finance.yahoo.com/news/brokerage-advisory-accounts-factors-consider-102000981.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T10:20:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/3b29dd97d709b72a9f35210936546a91",
+      "slug": "brokerage-and-advisory-accounts-factors-to-consider-when-choosing-an-account-typ-bb19771d",
+      "orig_slug": "brokerage-and-advisory-accounts-factors-to-consider-when-choosing-an-account-typ-bb19771d"
+    },
+    {
+      "title": "Digital Realty Trust (DLR): Strong Growth Outlook, Strategic Expansion, and Positive Analyst Sentiment Fuel REIT Potential",
+      "link": "https://finance.yahoo.com/news/digital-realty-trust-dlr-strong-065921938.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T06:59:21Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/a9f22a39b3a7b68bbc17c33864b121d2",
+      "slug": "digital-realty-trust-dlr-strong-growth-outlook-strategic-expansion-and-positive--f40a1fe5",
+      "orig_slug": "digital-realty-trust-dlr-strong-growth-outlook-strategic-expansion-and-positive--f40a1fe5"
     },
     {
       "title": "American Tower Corporation (AMT) Faces Dish Wireless Lease Default, But Analysts Remain Cautiously Optimistic",
@@ -173,67 +218,22 @@
       "orig_slug": "prologis-pld-strengthening-competitive-edge-in-high-growth-industrial-markets-b451e2ee"
     },
     {
-      "title": "The U.S. LNG Boom Is Lowering Europe’s Energy Costs and Raising America’s",
-      "link": "https://finance.yahoo.com/news/u-lng-boom-lowering-europe-000000633.html",
+      "title": "HELOC and home equity loan rates Monday, February 9, 2026: Fund spring home upgrades now",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-monday-february-9-2026-110036552.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-09T00:00:00Z",
-      "image": "https://s.yimg.com/os/en/oilprice.com/b4fd9f82c333dc59197a84db72125f2d",
-      "slug": "the-us-lng-boom-is-lowering-europes-energy-costs-and-raising-americas-273ceb28",
-      "orig_slug": "the-us-lng-boom-is-lowering-europes-energy-costs-and-raising-americas-273ceb28"
+      "pubDate": "2026-02-09T11:00:36Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/_479AhxR01yKrenM2IfZSg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/006c3000-3feb-11f0-b84f-0d1aa528bfe7",
+      "slug": "heloc-and-home-equity-loan-rates-monday-february-9-2026-fund-spring-home-upgrade-429b6f89",
+      "orig_slug": "heloc-and-home-equity-loan-rates-monday-february-9-2026-fund-spring-home-upgrade-429b6f89"
     },
     {
-      "title": "Could Eli Lilly Turn Today's GLP‑1 Obesity Boom Into Multi‑Decade, Millionaire‑Maker Gains?",
-      "link": "https://finance.yahoo.com/news/could-eli-lilly-turn-todays-091000394.html",
+      "title": "2 Dividend Stocks That Are Off of Hot Starts to 2026",
+      "link": "https://finance.yahoo.com/news/2-dividend-stocks-off-hot-102000826.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T09:10:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/3575ec1d5e649814f22b2c433c57d1da",
-      "slug": "could-eli-lilly-turn-todays-glp1-obesity-boom-into-multidecade-millionairemaker--05ccda5f",
-      "orig_slug": "could-eli-lilly-turn-todays-glp1-obesity-boom-into-multidecade-millionairemaker--05ccda5f"
-    },
-    {
-      "title": "Best CD rates today, February 8, 2026 (lock in up to 4% APY)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-february-8-2026-110045989.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-08T11:00:45Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/9xZhsl9JDBre6CMmLno6Gg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47b17e0-4f64-11ef-afb3-0ed5867646a0",
-      "slug": "best-cd-rates-today-february-8-2026-lock-in-up-to-4-apy-13575082",
-      "orig_slug": "best-cd-rates-today-february-8-2026-lock-in-up-to-4-apy-13575082"
-    },
-    {
-      "title": "Best money market account rates today, February 8, 2026 (best account provides 4.1% APY)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-sunday-february-8-2026-110054347.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-08T11:00:54Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/koR_lnQjXxki7oireLjoxQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/6e3d4f60-1cdc-11f0-b66f-8aec820566bc",
-      "slug": "best-money-market-account-rates-today-february-8-2026-best-account-provides-41-a-5a0eec3d",
-      "orig_slug": "best-money-market-account-rates-today-february-8-2026-best-account-provides-41-a-5a0eec3d"
-    },
-    {
-      "title": "HELOC and home equity loan rates Sunday, February 8, 2026: Get a better-than-average rate",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-sunday-february-8-2026-110046697.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-08T11:00:46Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/DVKxTTZK1v_brFRCxJvfrg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/9858bdf0-3ff7-11f0-8dbd-c3dbfc02bc47",
-      "slug": "heloc-and-home-equity-loan-rates-sunday-february-8-2026-get-a-better-than-averag-411bb1db",
-      "orig_slug": "heloc-and-home-equity-loan-rates-sunday-february-8-2026-get-a-better-than-averag-411bb1db"
-    },
-    {
-      "title": "Best high-yield savings interest rates today, February 8, 2026 (Earn up to 4% APY)",
-      "link": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-sunday-february-8-2026-110041425.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-08T11:00:41Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/j3pIPh4Ou1ooyGj5oigsTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/a04144a0-4b7a-11ef-bffd-2479280852e3",
-      "slug": "best-high-yield-savings-interest-rates-today-february-8-2026-earn-up-to-4-apy-504d46ce",
-      "orig_slug": "best-high-yield-savings-interest-rates-today-february-8-2026-earn-up-to-4-apy-504d46ce"
-    },
-    {
-      "title": "Furlani Foods gets new private-equity owner",
-      "link": "https://finance.yahoo.com/news/furlani-foods-gets-private-equity-090738907.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T09:07:38Z",
-      "image": "https://media.zenfs.com/en/just_food_692/5aa08ae85c2f394b3fd3bc2c3f8b0197",
-      "slug": "furlani-foods-gets-new-private-equity-owner-d7468140",
-      "orig_slug": "furlani-foods-gets-new-private-equity-owner-d7468140"
+      "pubDate": "2026-02-10T10:20:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/cb2bb4e3ff2252f86d30e92124d8ce4c",
+      "slug": "2-dividend-stocks-that-are-off-of-hot-starts-to-2026-27c682e5",
+      "orig_slug": "2-dividend-stocks-that-are-off-of-hot-starts-to-2026-27c682e5"
     },
     {
       "title": "Best high-yield savings interest rates today, February 9, 2026 (Earn up to 4% APY)",
@@ -243,15 +243,6 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/1RCI97U8KV1L2ZurZW7kOA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/0a4cca40-4b7b-11ef-abf9-2f9f6d2c2f16",
       "slug": "best-high-yield-savings-interest-rates-today-february-9-2026-earn-up-to-4-apy-af66994f",
       "orig_slug": "best-high-yield-savings-interest-rates-today-february-9-2026-earn-up-to-4-apy-af66994f"
-    },
-    {
-      "title": "HELOC and home equity loan rates Monday, February 9, 2026: Fund spring home upgrades now",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-monday-february-9-2026-110036552.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-09T11:00:36Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/_479AhxR01yKrenM2IfZSg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/006c3000-3feb-11f0-b84f-0d1aa528bfe7",
-      "slug": "heloc-and-home-equity-loan-rates-monday-february-9-2026-fund-spring-home-upgrade-429b6f89",
-      "orig_slug": "heloc-and-home-equity-loan-rates-monday-february-9-2026-fund-spring-home-upgrade-429b6f89"
     },
     {
       "title": "Best money market account rates today, February 9, 2026 (Earn up to 4.1% APY)",
@@ -272,15 +263,6 @@
       "orig_slug": "mortgage-and-refinance-interest-rates-today-february-9-2026-low-rates-rely-on-ec-63f44f69"
     },
     {
-      "title": "Software Bear Market: 2 AI Stocks With 50% and 83% Upside to Buy Now, According to Wall Street",
-      "link": "https://finance.yahoo.com/news/software-bear-market-2-ai-090500981.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T09:05:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/052e7350c2452dce7315e2e618ac2a16",
-      "slug": "software-bear-market-2-ai-stocks-with-50-and-83-upside-to-buy-now-according-to-w-4cf82f49",
-      "orig_slug": "software-bear-market-2-ai-stocks-with-50-and-83-upside-to-buy-now-according-to-w-4cf82f49"
-    },
-    {
       "title": "Gold price today, Monday, February 9: Gold opens above $5,000",
       "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-monday-february-9-gold-opens-above-5000-122249349.html",
       "source": "finance.yahoo.com",
@@ -288,6 +270,15 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/cNzPMRXa7rFOh_Laz5mzow--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/536e06e0-b113-11f0-97fe-489e0315cec6",
       "slug": "gold-price-today-monday-february-9-gold-opens-above-5000-91790745",
       "orig_slug": "gold-price-today-monday-february-9-gold-opens-above-5000-91790745"
+    },
+    {
+      "title": "International Petroleum Q4 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/news/international-petroleum-q4-earnings-call-101726808.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T10:17:26Z",
+      "image": "https://s.yimg.com/os/en/marketbeat_955/bc35b5a20739613bc917b8dea052fb50",
+      "slug": "international-petroleum-q4-earnings-call-highlights-1610429f",
+      "orig_slug": "international-petroleum-q4-earnings-call-highlights-1610429f"
     },
     {
       "title": "How to avoid ATM fees",
@@ -308,6 +299,51 @@
       "orig_slug": "what-is-a-joint-bank-account-and-how-does-it-work-7731b8fa"
     },
     {
+      "title": "Best money market account rates today, February 8, 2026 (best account provides 4.1% APY)",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-sunday-february-8-2026-110054347.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-08T11:00:54Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/koR_lnQjXxki7oireLjoxQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/6e3d4f60-1cdc-11f0-b66f-8aec820566bc",
+      "slug": "best-money-market-account-rates-today-february-8-2026-best-account-provides-41-a-5a0eec3d",
+      "orig_slug": "best-money-market-account-rates-today-february-8-2026-best-account-provides-41-a-5a0eec3d"
+    },
+    {
+      "title": "HELOC and home equity loan rates Sunday, February 8, 2026: Get a better-than-average rate",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-sunday-february-8-2026-110046697.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-08T11:00:46Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/DVKxTTZK1v_brFRCxJvfrg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/9858bdf0-3ff7-11f0-8dbd-c3dbfc02bc47",
+      "slug": "heloc-and-home-equity-loan-rates-sunday-february-8-2026-get-a-better-than-averag-411bb1db",
+      "orig_slug": "heloc-and-home-equity-loan-rates-sunday-february-8-2026-get-a-better-than-averag-411bb1db"
+    },
+    {
+      "title": "Aimia Details Bozzetto Sale, Targets C$265M+ Proceeds for Debt Paydown and New Acquisitions",
+      "link": "https://finance.yahoo.com/news/aimia-details-bozzetto-sale-targets-101726255.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T10:17:26Z",
+      "image": "https://s.yimg.com/os/en/marketbeat_955/120cdb06c50f30d9c2ba6d37c5983491",
+      "slug": "aimia-details-bozzetto-sale-targets-c265m-proceeds-for-debt-paydown-and-new-acqu-25092fdd",
+      "orig_slug": "aimia-details-bozzetto-sale-targets-c265m-proceeds-for-debt-paydown-and-new-acqu-25092fdd"
+    },
+    {
+      "title": "Best CD rates today, February 8, 2026 (lock in up to 4% APY)",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-february-8-2026-110045989.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-08T11:00:45Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/9xZhsl9JDBre6CMmLno6Gg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47b17e0-4f64-11ef-afb3-0ed5867646a0",
+      "slug": "best-cd-rates-today-february-8-2026-lock-in-up-to-4-apy-13575082",
+      "orig_slug": "best-cd-rates-today-february-8-2026-lock-in-up-to-4-apy-13575082"
+    },
+    {
+      "title": "Best high-yield savings interest rates today, February 8, 2026 (Earn up to 4% APY)",
+      "link": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-sunday-february-8-2026-110041425.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-08T11:00:41Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/j3pIPh4Ou1ooyGj5oigsTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/a04144a0-4b7a-11ef-bffd-2479280852e3",
+      "slug": "best-high-yield-savings-interest-rates-today-february-8-2026-earn-up-to-4-apy-504d46ce",
+      "orig_slug": "best-high-yield-savings-interest-rates-today-february-8-2026-earn-up-to-4-apy-504d46ce"
+    },
+    {
       "title": "When will mortgage rates go down? Insights as rates remain stagnant.",
       "link": "https://finance.yahoo.com/personal-finance/mortgages/article/when-will-mortgage-rates-go-down-insights-as-rates-remain-stagnant-february-9-2026-190610542.html",
       "source": "finance.yahoo.com",
@@ -315,15 +351,6 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/UU4eEVaI8KzdTSlNRUf.bA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-03/1f42f290-ff5c-11ef-bfbf-7d26008535ed",
       "slug": "when-will-mortgage-rates-go-down-insights-as-rates-remain-stagnant-912df634",
       "orig_slug": "when-will-mortgage-rates-go-down-insights-as-rates-remain-stagnant-912df634"
-    },
-    {
-      "title": "Voya Financial Touts $775M 2025 Cash, $300M Buybacks as It Eyes More Growth in 2026 at UBS Conf",
-      "link": "https://finance.yahoo.com/news/voya-financial-touts-775m-2025-090424966.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T09:04:24Z",
-      "image": "https://s.yimg.com/os/en/marketbeat_955/399cb901fd99e06fb42bb4af34dfdc8a",
-      "slug": "voya-financial-touts-775m-2025-cash-300m-buybacks-as-it-eyes-more-growth-in-2026-87ac4aad",
-      "orig_slug": "voya-financial-touts-775m-2025-cash-300m-buybacks-as-it-eyes-more-growth-in-2026-87ac4aad"
     },
     {
       "title": "Best CD rates today, February 9, 2026 (Lock in up to 4.05% APY)",
@@ -335,6 +362,15 @@
       "orig_slug": "best-cd-rates-today-february-9-2026-lock-in-up-to-405-apy-85335410"
     },
     {
+      "title": "Uber to acquire Getir delivery business in Türkiye for $335m",
+      "link": "https://finance.yahoo.com/news/uber-acquire-getir-delivery-business-101419596.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T10:14:19Z",
+      "image": "https://media.zenfs.com/en/retail_insight_network_724/3d2fc41c0f4dcf3bd1cee052008979d8",
+      "slug": "uber-to-acquire-getir-delivery-business-in-trkiye-for-335m-f2a7df2a",
+      "orig_slug": "uber-to-acquire-getir-delivery-business-in-trkiye-for-335m-f2a7df2a"
+    },
+    {
       "title": "Did you win big betting on the Super Bowl? Here are the taxes you might owe.",
       "link": "https://finance.yahoo.com/personal-finance/taxes/article/did-you-win-big-betting-on-the-super-bowl-here-are-the-taxes-you-might-owe-185652249.html",
       "source": "finance.yahoo.com",
@@ -342,42 +378,6 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/tqVqqPABVPgqPnmJ6IND1w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/9df6f1f0-05cc-11f1-9f53-6ae4b74acd9c",
       "slug": "did-you-win-big-betting-on-the-super-bowl-here-are-the-taxes-you-might-owe-a6587aff",
       "orig_slug": "did-you-win-big-betting-on-the-super-bowl-here-are-the-taxes-you-might-owe-a6587aff"
-    },
-    {
-      "title": "7 surprising benefits of borrowing from a credit union",
-      "link": "https://finance.yahoo.com/personal-finance/personal-loans/article/credit-union-benefits-155120742.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-09T15:51:20Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/BQgj8KF8PVmW.74omYE_vA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/bac48140-03aa-11f1-bb9d-ed763ca1d255",
-      "slug": "7-surprising-benefits-of-borrowing-from-a-credit-union-161c32e3",
-      "orig_slug": "7-surprising-benefits-of-borrowing-from-a-credit-union-161c32e3"
-    },
-    {
-      "title": "These are all the companies pledging matching funds to Trump accounts",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/these-are-all-the-companies-pledging-matching-funds-to-trump-accounts-155809477.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-09T15:58:09Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/BdbfAG.yFGNvpethZnGojg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/aa7ef200-051e-11f1-9dfb-8e7ea050f990",
-      "slug": "these-are-all-the-companies-pledging-matching-funds-to-trump-accounts-b8d743cd",
-      "orig_slug": "these-are-all-the-companies-pledging-matching-funds-to-trump-accounts-b8d743cd"
-    },
-    {
-      "title": "BP Q4 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/news/bp-q4-earnings-call-highlights-090422299.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T09:04:22Z",
-      "image": "https://s.yimg.com/os/en/marketbeat_955/46e3e947303cb6bb51db2a272a00684d",
-      "slug": "bp-q4-earnings-call-highlights-30a19e94",
-      "orig_slug": "bp-q4-earnings-call-highlights-30a19e94"
-    },
-    {
-      "title": "Best car insurance for seniors 2026",
-      "link": "https://finance.yahoo.com/personal-finance/insurance/article/best-car-insurance-for-seniors-153952455.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-09T15:39:52Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/QVfP9.MpdU_wwc0LST4B0Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/7c497b50-05c6-11f1-8b7e-c34b6d776aae",
-      "slug": "best-car-insurance-for-seniors-2026-a6bbf967",
-      "orig_slug": "best-car-insurance-for-seniors-2026-a6bbf967"
     }
   ]
 }
