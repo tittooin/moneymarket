@@ -1,50 +1,428 @@
 {
-  "updated": "2026-02-10T12:49:28Z",
+  "updated": "2026-02-10T14:17:34Z",
   "items": [
     {
-      "title": "Kestra's Bluespring Buys $2.3B Massachusetts-Based RIA",
-      "link": "https://finance.yahoo.com/news/kestras-bluespring-buys-2-3b-123000158.html",
+      "title": "US labor costs growth cools in fourth quarter",
+      "link": "https://finance.yahoo.com/news/us-labor-costs-growth-cools-140847694.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T12:30:00Z",
-      "image": "https://s.yimg.com/os/en/wealth_management_474/867a1d09a55663616251747bc1d05ea6",
-      "slug": "kestras-bluespring-buys-23b-massachusetts-based-ria-78b23ba6",
-      "orig_slug": "kestras-bluespring-buys-23b-massachusetts-based-ria-78b23ba6"
+      "pubDate": "2026-02-10T14:08:47Z",
+      "image": "https://s.yimg.com/os/en/reuters.com/3b77902d802e60a85dc76531b412e3a1",
+      "slug": "us-labor-costs-growth-cools-in-fourth-quarter-7d62afbe",
+      "orig_slug": "us-labor-costs-growth-cools-in-fourth-quarter-7d62afbe"
     },
     {
-      "title": "Datadog Earnings Top Views With Investor Day Due. The Stock Is Jumping.",
-      "link": "https://www.investors.com/news/technology/datadog-stock-ddog-datadog-earnings-news-q42025/?src=A00220&yptr=yahoo",
+      "title": "AMD vs. Nvidia: Which AI Stock Will Outperform in 2026?",
+      "link": "https://finance.yahoo.com/news/amd-vs-nvidia-ai-stock-140500823.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T12:28:41Z",
+      "pubDate": "2026-02-10T14:05:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/f7626068a56ffdde9a79823ea5abb686",
+      "slug": "amd-vs-nvidia-which-ai-stock-will-outperform-in-2026-bb406204",
+      "orig_slug": "amd-vs-nvidia-which-ai-stock-will-outperform-in-2026-bb406204"
+    },
+    {
+      "title": "Chipotle CEO: Here's why we won't do a McDonald's-style dollar menu",
+      "link": "https://finance.yahoo.com/news/chipotle-ceo-heres-why-we-wont-do-a-mcdonalds-style-dollar-menu-140400526.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T14:04:00Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/T4FB0.Xz7fM7Q_Vw39kp5w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-09/bf573570-5404-11ee-8d3f-d4c34772475b",
+      "slug": "chipotle-ceo-heres-why-we-wont-do-a-mcdonalds-style-dollar-menu-e682a86a",
+      "orig_slug": "chipotle-ceo-heres-why-we-wont-do-a-mcdonalds-style-dollar-menu-e682a86a"
+    },
+    {
+      "title": "Stock market today: S&P 500, Nasdaq eye fresh rally as earnings roll in, Wall Street braces for data deluge",
+      "link": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-eye-fresh-rally-as-earnings-roll-in-wall-street-braces-for-data-deluge-235207729.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-09T23:52:07Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/QYO4vKJmylAwej0Za_TwTQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/8fd72c30-05bc-11f1-97fb-36dbca2648ac",
+      "slug": "stock-market-today-sp-500-nasdaq-eye-fresh-rally-as-earnings-roll-in-wall-street-291cf1c7",
+      "orig_slug": "stock-market-today-sp-500-nasdaq-eye-fresh-rally-as-earnings-roll-in-wall-street-291cf1c7"
+    },
+    {
+      "title": "What credit score do you need to rent an apartment​?",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/what-credit-score-is-needed-to-rent-an-apartment-140011349.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T14:00:11Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/DF3ZI6Dsi9T.waIpALjv6Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDQ-/https://s.yimg.com/os/creatr-uploaded-images/2023-05/04f35d50-fee4-11ed-9abe-1dc5371322bb",
+      "slug": "what-credit-score-do-you-need-to-rent-an-apartment-fcfe09cc",
+      "orig_slug": "what-credit-score-do-you-need-to-rent-an-apartment-fcfe09cc"
+    },
+    {
+      "title": "Daily Spotlight: Value Sectors",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46111_MarketOutlook_1770726867000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T12:34:27Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "daily-spotlight-value-sectors-e2107a7a",
+      "orig_slug": "daily-spotlight-value-sectors-e2107a7a"
+    },
+    {
+      "title": "Average Americans who want wheels can’t afford the car that goes with them. How to buy a vehicle as car sales slump",
+      "link": "https://finance.yahoo.com/news/average-americans-want-wheels-t-140000930.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T14:00:00Z",
+      "image": "https://s.yimg.com/os/en/moneywise_327/48b2fc5b5815efad42ebb853f32fadc0",
+      "slug": "average-americans-who-want-wheels-cant-afford-the-car-that-goes-with-them-how-to-d387f661",
+      "orig_slug": "average-americans-who-want-wheels-cant-afford-the-car-that-goes-with-them-how-to-d387f661"
+    },
+    {
+      "title": "U.S. Natural Gas Futures Steady in Early Trade",
+      "link": "https://www.wsj.com/articles/european-gas-prices-hold-below-35-euros-on-warmer-forecasts-c622649e?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T14:03:00Z",
       "image": "",
-      "slug": "datadog-earnings-top-views-with-investor-day-due-the-stock-is-jumping-ea47aa0d",
-      "orig_slug": "datadog-earnings-top-views-with-investor-day-due-the-stock-is-jumping-ea47aa0d"
+      "slug": "us-natural-gas-futures-steady-in-early-trade-88048b69",
+      "orig_slug": "us-natural-gas-futures-steady-in-early-trade-88048b69"
     },
     {
-      "title": "Valaris Ltd. (VAL) Skyrockets 34% on $5.8-Billion Merger",
-      "link": "https://finance.yahoo.com/news/valaris-ltd-val-skyrockets-34-122521616.html",
+      "title": "Earnings live: Spotify stock jumps on subscriber growth, CVS earnings beat, BP halts stock buybacks",
+      "link": "https://finance.yahoo.com/news/live/earnings-live-spotify-stock-jumps-on-subscriber-growth-cvs-earnings-beat-bp-halts-stock-buybacks-131558668.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T12:25:21Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/5e27f86ccf8aadb1a7902ad5682bd50f",
-      "slug": "valaris-ltd-val-skyrockets-34-on-58-billion-merger-0989ac56",
-      "orig_slug": "valaris-ltd-val-skyrockets-34-on-58-billion-merger-0989ac56"
+      "pubDate": "2026-02-10T13:15:58Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/12tnGZLpF2c6jMhACxWhYA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/801549f0-0682-11f1-9f71-c73e4da30821",
+      "slug": "earnings-live-spotify-stock-jumps-on-subscriber-growth-cvs-earnings-beat-bp-halt-9328c4b8",
+      "orig_slug": "earnings-live-spotify-stock-jumps-on-subscriber-growth-cvs-earnings-beat-bp-halt-9328c4b8"
     },
     {
-      "title": "Entegris Stock Rises After Chip-Gear Maker's Q4 Beat",
-      "link": "https://www.investors.com/news/technology/entegris-stock-entg-q4-2025-earnings/?src=A00220&yptr=yahoo",
+      "title": "Stock Market Today: Dow Dips On Surprise Retail Sales Data; Coca-Cola Sells Off On Earnings News (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-retail-sales-coca-cola-stock/?src=A00220&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T12:19:53Z",
+      "pubDate": "2026-02-10T13:46:32Z",
       "image": "",
-      "slug": "entegris-stock-rises-after-chip-gear-makers-q4-beat-890ec47c",
-      "orig_slug": "entegris-stock-rises-after-chip-gear-makers-q4-beat-890ec47c"
+      "slug": "stock-market-today-dow-dips-on-surprise-retail-sales-data-coca-cola-sells-off-on-1ea4a87b",
+      "orig_slug": "stock-market-today-dow-dips-on-surprise-retail-sales-data-coca-cola-sells-off-on-1ea4a87b"
     },
     {
-      "title": "New CBP vessel rule targets high-risk exports",
-      "link": "https://finance.yahoo.com/news/cbp-vessel-rule-targets-high-120000444.html",
+      "title": "Ace River Capital: Vox Royalty Corp. (VOXR) Delivered 160% Since Initial Purchase",
+      "link": "https://finance.yahoo.com/news/ace-river-capital-vox-royalty-134630198.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T12:00:00Z",
-      "image": "https://media.zenfs.com/en/freightwaves_373/c91b9381ed7dbf19b122b2668610248c",
-      "slug": "new-cbp-vessel-rule-targets-high-risk-exports-b7ff2fdc",
-      "orig_slug": "new-cbp-vessel-rule-targets-high-risk-exports-b7ff2fdc"
+      "pubDate": "2026-02-10T13:46:30Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/9ed9752ee55046383664d83131037f8c",
+      "slug": "ace-river-capital-vox-royalty-corp-voxr-delivered-160-since-initial-purchase-94bb1905",
+      "orig_slug": "ace-river-capital-vox-royalty-corp-voxr-delivered-160-since-initial-purchase-94bb1905"
+    },
+    {
+      "title": "Technical Assessment: Bullish in the Intermediate-Term",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46110_TechnicalAnalysis_1770726791000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T12:33:11Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "technical-assessment-bullish-in-the-intermediate-term-13fa7df5",
+      "orig_slug": "technical-assessment-bullish-in-the-intermediate-term-13fa7df5"
+    },
+    {
+      "title": "Retail sales unchanged in December from November, closing out year on a lackluster tone",
+      "link": "https://finance.yahoo.com/news/retail-sales-unchanged-december-november-134526267.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T13:45:26Z",
+      "image": "https://media.zenfs.com/en/ap_finance_articles_694/9185d66cf28ca07eb61934c519da43ad",
+      "slug": "retail-sales-unchanged-in-december-from-november-closing-out-year-on-a-lackluste-b1c39dc6",
+      "orig_slug": "retail-sales-unchanged-in-december-from-november-closing-out-year-on-a-lackluste-b1c39dc6"
+    },
+    {
+      "title": "I Want Real Estate Income Without Being a Landlord. What Are My Options?",
+      "link": "https://finance.yahoo.com/news/want-real-estate-income-without-140107677.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T14:01:07Z",
+      "image": "https://s.yimg.com/os/en/benzinga_79/58b9fa553e73ffc0238aeb3ea42c5678",
+      "slug": "i-want-real-estate-income-without-being-a-landlord-what-are-my-options-bbd8d21c",
+      "orig_slug": "i-want-real-estate-income-without-being-a-landlord-what-are-my-options-bbd8d21c"
+    },
+    {
+      "title": "Smithfield Foods (SFD) and Nathan’s Famous, Inc. Announce About Definitive Merger Agreement",
+      "link": "https://finance.yahoo.com/news/smithfield-foods-sfd-nathan-famous-134355298.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T13:43:55Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/f119f115d1f757e574b2de022ef0a520",
+      "slug": "smithfield-foods-sfd-and-nathans-famous-inc-announce-about-definitive-merger-agr-f56e2125",
+      "orig_slug": "smithfield-foods-sfd-and-nathans-famous-inc-announce-about-definitive-merger-agr-f56e2125"
+    },
+    {
+      "title": "BMO Capital Lowers PT on Primo Brands (PRMB) Stock",
+      "link": "https://finance.yahoo.com/news/bmo-capital-lowers-pt-primo-134353538.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T13:43:53Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/3578762beebb319f6c17eb75fedd66d6",
+      "slug": "bmo-capital-lowers-pt-on-primo-brands-prmb-stock-4f844c16",
+      "orig_slug": "bmo-capital-lowers-pt-on-primo-brands-prmb-stock-4f844c16"
+    },
+    {
+      "title": "The Marzetti Company (MZTI) Enters Into a Definitive Agreement to Acquire Bachan’s, Inc.",
+      "link": "https://finance.yahoo.com/news/marzetti-company-mzti-enters-definitive-134352603.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T13:43:52Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/9f2cabe579ad43e4c2eac2f1786848e5",
+      "slug": "the-marzetti-company-mzti-enters-into-a-definitive-agreement-to-acquire-bachans--afcb5592",
+      "orig_slug": "the-marzetti-company-mzti-enters-into-a-definitive-agreement-to-acquire-bachans--afcb5592"
+    },
+    {
+      "title": "Analyst Report: Cummins Inc.",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_3618_AnalystReport_1770725303000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T12:08:23Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-cummins-inc-1b910691",
+      "orig_slug": "analyst-report-cummins-inc-1b910691"
+    },
+    {
+      "title": "Piper Sandler Raises PT on Celsius Holdings (CELH) Stock",
+      "link": "https://finance.yahoo.com/news/piper-sandler-raises-pt-celsius-134350502.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T13:43:50Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/a28d2c5c0d3822b0f731835371e29dd3",
+      "slug": "piper-sandler-raises-pt-on-celsius-holdings-celh-stock-b0934c73",
+      "orig_slug": "piper-sandler-raises-pt-on-celsius-holdings-celh-stock-b0934c73"
+    },
+    {
+      "title": "Jaspreet Singh Says This Is How the Top 1% Manage Their Wealth",
+      "link": "https://finance.yahoo.com/news/jaspreet-singh-75-15-10-192108826.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T14:00:12Z",
+      "image": "https://media.zenfs.com/en/gobankingrates_644/439f40ca876817fb3f7a290cc0df00c5",
+      "slug": "jaspreet-singh-says-this-is-how-the-top-1-manage-their-wealth-09d4bd31",
+      "orig_slug": "jaspreet-singh-says-this-is-how-the-top-1-manage-their-wealth-09d4bd31"
+    },
+    {
+      "title": "e.l.f. Beauty (ELF) Announces Results for 3 and 9 Months ended December 31, 2025",
+      "link": "https://finance.yahoo.com/news/e-l-f-beauty-elf-134349903.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T13:43:49Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/6a0033d6542601f6c514c2be9e94e544",
+      "slug": "elf-beauty-elf-announces-results-for-3-and-9-months-ended-december-31-2025-494264e8",
+      "orig_slug": "elf-beauty-elf-announces-results-for-3-and-9-months-ended-december-31-2025-494264e8"
+    },
+    {
+      "title": "UBS Lowers PT on Performance Food Group (PFGC) Stock",
+      "link": "https://finance.yahoo.com/news/ubs-lowers-pt-performance-food-134347921.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T13:43:47Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/dc4a92dbabdc86ce2508a9572a71a9c7",
+      "slug": "ubs-lowers-pt-on-performance-food-group-pfgc-stock-08fb251f",
+      "orig_slug": "ubs-lowers-pt-on-performance-food-group-pfgc-stock-08fb251f"
+    },
+    {
+      "title": "UBS Reduces PT on McCormick & Company (MKC) Stock",
+      "link": "https://finance.yahoo.com/news/ubs-reduces-pt-mccormick-company-134346961.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T13:43:46Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/2df0f31ea9121a6a999ff9962a1e477d",
+      "slug": "ubs-reduces-pt-on-mccormick-company-mkc-stock-3d8de976",
+      "orig_slug": "ubs-reduces-pt-on-mccormick-company-mkc-stock-3d8de976"
+    },
+    {
+      "title": "Analyst Report: Ventas Inc",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_3678_AnalystReport_1770725303000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T12:08:23Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-ventas-inc-77ca7dda",
+      "orig_slug": "analyst-report-ventas-inc-77ca7dda"
+    },
+    {
+      "title": "UBS Lowers PT on BellRing Brands (BRBR) Stock, Maintains Neutral",
+      "link": "https://finance.yahoo.com/news/ubs-lowers-pt-bellring-brands-134344891.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T13:43:44Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/41c01537cf21f55f29898b9cd9141bdd",
+      "slug": "ubs-lowers-pt-on-bellring-brands-brbr-stock-maintains-neutral-ab10cccc",
+      "orig_slug": "ubs-lowers-pt-on-bellring-brands-brbr-stock-maintains-neutral-ab10cccc"
+    },
+    {
+      "title": "Dollar Could Fall Modestly as Fed Cuts Rates Further",
+      "link": "https://www.wsj.com/finance/currencies/yen-broadly-weakens-amid-mild-risk-appetite-e4d20e51?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T14:00:00Z",
+      "image": "",
+      "slug": "dollar-could-fall-modestly-as-fed-cuts-rates-further-83d4142a",
+      "orig_slug": "dollar-could-fall-modestly-as-fed-cuts-rates-further-83d4142a"
+    },
+    {
+      "title": "Barclays Lowers PT on Oddity Tech (ODD) Stock, Keeps Equal Weight Rating",
+      "link": "https://finance.yahoo.com/news/barclays-lowers-pt-oddity-tech-134343588.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T13:43:43Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/8a7b7e24924ae3f70325cdb815aaffa7",
+      "slug": "barclays-lowers-pt-on-oddity-tech-odd-stock-keeps-equal-weight-rating-9446c702",
+      "orig_slug": "barclays-lowers-pt-on-oddity-tech-odd-stock-keeps-equal-weight-rating-9446c702"
+    },
+    {
+      "title": "Is Natural Grocers by Vitamin Cottage (NGVC) One of the Best FMCG Stocks to Invest In According to Analysts?",
+      "link": "https://finance.yahoo.com/news/natural-grocers-vitamin-cottage-ngvc-134341244.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T13:43:41Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/c995c2f9843e047d646c2bcbca48221c",
+      "slug": "is-natural-grocers-by-vitamin-cottage-ngvc-one-of-the-best-fmcg-stocks-to-invest-a847e251",
+      "orig_slug": "is-natural-grocers-by-vitamin-cottage-ngvc-one-of-the-best-fmcg-stocks-to-invest-a847e251"
+    },
+    {
+      "title": "Duke Energy Beats 2025 EPS Guidance and Extends Growth Outlook Through 2030",
+      "link": "https://finance.yahoo.com/news/duke-energy-beats-2025-eps-134300586.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T13:43:00Z",
+      "image": "https://s.yimg.com/os/en/oilprice.com/dddd452dfd95071dc49ce93ef54a8788",
+      "slug": "duke-energy-beats-2025-eps-guidance-and-extends-growth-outlook-through-2030-12fab3b9",
+      "orig_slug": "duke-energy-beats-2025-eps-guidance-and-extends-growth-outlook-through-2030-12fab3b9"
+    },
+    {
+      "title": "Analyst Report: Northrop Grumman Corp.",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_3247_AnalystReport_1770725303000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T12:08:23Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-northrop-grumman-corp-2677612a",
+      "orig_slug": "analyst-report-northrop-grumman-corp-2677612a"
+    },
+    {
+      "title": "Will BranchOut Food (BOF) Be Able to Achieve Projected Sales of $30m in 2026?",
+      "link": "https://finance.yahoo.com/news/branchout-food-bof-able-achieve-134009090.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T13:40:09Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/b7caa8cfe3a89657b1130990b717256e",
+      "slug": "will-branchout-food-bof-be-able-to-achieve-projected-sales-of-30m-in-2026-20845661",
+      "orig_slug": "will-branchout-food-bof-be-able-to-achieve-projected-sales-of-30m-in-2026-20845661"
+    },
+    {
+      "title": "BDO USA appoints new national leaders for assurance and tax",
+      "link": "https://finance.yahoo.com/news/bdo-usa-appoints-national-leaders-135742258.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T13:57:42Z",
+      "image": "https://media.zenfs.com/en/international_accounting_bulletin_542/2ec3448f898af9cf023bbda69fa7c4ce",
+      "slug": "bdo-usa-appoints-new-national-leaders-for-assurance-and-tax-30589605",
+      "orig_slug": "bdo-usa-appoints-new-national-leaders-for-assurance-and-tax-30589605"
+    },
+    {
+      "title": "AI Stocks Turn Choppy As Investors Look For Safe Havens From Disruption",
+      "link": "https://www.investors.com/news/technology/ai-stocks-artificial-intelligence-stocks-2026-leaders-laggards-feb9/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T13:39:58Z",
+      "image": "",
+      "slug": "ai-stocks-turn-choppy-as-investors-look-for-safe-havens-from-disruption-51518ce8",
+      "orig_slug": "ai-stocks-turn-choppy-as-investors-look-for-safe-havens-from-disruption-51518ce8"
+    },
+    {
+      "title": "First look: Saia’s Q4 earnings",
+      "link": "https://finance.yahoo.com/news/first-look-saia-q4-earnings-133927802.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T13:39:27Z",
+      "image": "https://s.yimg.com/os/en/freightwaves_373/444bb76f7e059a006b15f94072670d08",
+      "slug": "first-look-saias-q4-earnings-15239c4f",
+      "orig_slug": "first-look-saias-q4-earnings-15239c4f"
+    },
+    {
+      "title": "Management’s Confidence Boosted Arch Capital Group Ltd. (ACGL)",
+      "link": "https://finance.yahoo.com/news/management-confidence-boosted-arch-capital-133511456.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T13:35:11Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/9078285a96d2a4dcb54cf8e234104095",
+      "slug": "managements-confidence-boosted-arch-capital-group-ltd-acgl-575bddc7",
+      "orig_slug": "managements-confidence-boosted-arch-capital-group-ltd-acgl-575bddc7"
+    },
+    {
+      "title": "Analyst Report: MSCI Inc",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_4456_AnalystReport_1770725303000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T12:08:23Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-msci-inc-d6cced16",
+      "orig_slug": "analyst-report-msci-inc-d6cced16"
+    },
+    {
+      "title": "Fair Isaac Corporation (FICO) Gained from Strong Results and Improved Guidance",
+      "link": "https://finance.yahoo.com/news/fair-isaac-corporation-fico-gained-133317949.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T13:33:17Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/b95f3205d28ddd1b77cc366addf8e213",
+      "slug": "fair-isaac-corporation-fico-gained-from-strong-results-and-improved-guidance-5fe73e5b",
+      "orig_slug": "fair-isaac-corporation-fico-gained-from-strong-results-and-improved-guidance-5fe73e5b"
+    },
+    {
+      "title": "Mortgage Rates Are Stuck Near 6% — Should You Buy, Refinance or Wait?",
+      "link": "https://finance.yahoo.com/news/mortgage-rates-stuck-near-6-135510679.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T13:55:10Z",
+      "image": "https://media.zenfs.com/en/gobankingrates_644/649b27236457a7f06ad6150d90cbda08",
+      "slug": "mortgage-rates-are-stuck-near-6-should-you-buy-refinance-or-wait-cd414403",
+      "orig_slug": "mortgage-rates-are-stuck-near-6-should-you-buy-refinance-or-wait-cd414403"
+    },
+    {
+      "title": "Mettler-Toledo International (MTD) Surged Due to Increased Optimism in Life Sciences Tools Companies",
+      "link": "https://finance.yahoo.com/news/mettler-toledo-international-mtd-surged-133119753.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T13:31:19Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/f92d38219a569c840b6c9a3af9e2b53b",
+      "slug": "mettler-toledo-international-mtd-surged-due-to-increased-optimism-in-life-scienc-5eeed1b3",
+      "orig_slug": "mettler-toledo-international-mtd-surged-due-to-increased-optimism-in-life-scienc-5eeed1b3"
+    },
+    {
+      "title": "Trade organization warns USMCA exit could jeopardize millions of US jobs",
+      "link": "https://finance.yahoo.com/news/trade-organization-warns-usmca-exit-133000699.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T13:30:00Z",
+      "image": "https://media.zenfs.com/en/freightwaves_373/b4803a0bf3cdc269952add0d463dcbb7",
+      "slug": "trade-organization-warns-usmca-exit-could-jeopardize-millions-of-us-jobs-232b6613",
+      "orig_slug": "trade-organization-warns-usmca-exit-could-jeopardize-millions-of-us-jobs-232b6613"
+    },
+    {
+      "title": "IT Datacom Segment Supported Amphenol Corporation’s (APH) Better-Than-Expected Earnings",
+      "link": "https://finance.yahoo.com/news/datacom-segment-supported-amphenol-corporation-132745884.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T13:27:45Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/b5072e273440c96749a20caa1d2e8bca",
+      "slug": "it-datacom-segment-supported-amphenol-corporations-aph-better-than-expected-earn-4c573a79",
+      "orig_slug": "it-datacom-segment-supported-amphenol-corporations-aph-better-than-expected-earn-4c573a79"
+    },
+    {
+      "title": "Analyst Report: Stanley Black & Decker Inc",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_3424_AnalystReport_1770725303000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T12:08:23Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-stanley-black-decker-inc-8d757b18",
+      "orig_slug": "analyst-report-stanley-black-decker-inc-8d757b18"
+    },
+    {
+      "title": "Here’s Why Veeva Systems (VEEV) Traded Down in Q4",
+      "link": "https://finance.yahoo.com/news/why-veeva-systems-veev-traded-132329352.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T13:23:29Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/8961c9dda6df83a71f5ffeb0864c37f6",
+      "slug": "heres-why-veeva-systems-veev-traded-down-in-q4-089aef30",
+      "orig_slug": "heres-why-veeva-systems-veev-traded-down-in-q4-089aef30"
+    },
+    {
+      "title": "BP Suspends Share Buyback Amid Overhaul",
+      "link": "https://www.wsj.com/business/earnings/bp-suspends-buyback-95f65de3?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T13:54:00Z",
+      "image": "",
+      "slug": "bp-suspends-share-buyback-amid-overhaul-d3a4bd44",
+      "orig_slug": "bp-suspends-share-buyback-amid-overhaul-d3a4bd44"
+    },
+    {
+      "title": "Google hit by European publishers' complaint to EU over its AI Overviews",
+      "link": "https://finance.yahoo.com/news/european-publishers-council-files-eu-132310022.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T13:23:10Z",
+      "image": "https://s.yimg.com/os/en/reuters-finance.com/e4d6a855b2c370efdff489de970c5644",
+      "slug": "google-hit-by-european-publishers-complaint-to-eu-over-its-ai-overviews-07918601",
+      "orig_slug": "google-hit-by-european-publishers-complaint-to-eu-over-its-ai-overviews-07918601"
+    },
+    {
+      "title": "Robinhood Earnings To Test Crypto Weakness, Prediction Markets Strength",
+      "link": "https://www.investors.com/news/robinhood-earnings-q4-2025-hood-stock-prediction-markets-crypto/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T13:21:25Z",
+      "image": "",
+      "slug": "robinhood-earnings-to-test-crypto-weakness-prediction-markets-strength-af2a8577",
+      "orig_slug": "robinhood-earnings-to-test-crypto-weakness-prediction-markets-strength-af2a8577"
+    },
+    {
+      "title": "Zimmer Biomet beats quarterly estimates on strong hips, knees device demand",
+      "link": "https://finance.yahoo.com/news/zimmer-biomet-beats-quarterly-estimates-131903935.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-10T13:19:03Z",
+      "image": "https://s.yimg.com/os/en/reuters.com/0b9fe4ec88af5237540985159f018d22",
+      "slug": "zimmer-biomet-beats-quarterly-estimates-on-strong-hips-knees-device-demand-c1684280",
+      "orig_slug": "zimmer-biomet-beats-quarterly-estimates-on-strong-hips-knees-device-demand-c1684280"
     },
     {
       "title": "Market Digest: CMI, NOC, SWK, VTR, MSCI, PTON",
@@ -56,355 +434,22 @@
       "orig_slug": "market-digest-cmi-noc-swk-vtr-msci-pton-aea72b68"
     },
     {
-      "title": "The Dow Just Outperformed the Nasdaq in January. History Says That Could Spell Trouble for Tech Investors",
-      "link": "https://finance.yahoo.com/news/dow-just-outperformed-nasdaq-january-122800167.html",
+      "title": "Rowan Street Capital’s New Addition: Tesla (TSLA)",
+      "link": "https://finance.yahoo.com/news/rowan-street-capital-addition-tesla-131750756.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T12:28:00Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/6036f259e0305c841437da8b6b530ec4",
-      "slug": "the-dow-just-outperformed-the-nasdaq-in-january-history-says-that-could-spell-tr-d48f685f",
-      "orig_slug": "the-dow-just-outperformed-the-nasdaq-in-january-history-says-that-could-spell-tr-d48f685f"
+      "pubDate": "2026-02-10T13:17:50Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/2f1bf47b64f185ad29af8e89f576d5c3",
+      "slug": "rowan-street-capitals-new-addition-tesla-tsla-fc19c398",
+      "orig_slug": "rowan-street-capitals-new-addition-tesla-tsla-fc19c398"
     },
     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq put rally on hold as Wall Street braces for start of data deluge",
-      "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-put-rally-on-hold-as-wall-street-braces-for-start-of-data-deluge-235207637.html",
+      "title": "Cleveland-Cliffs says 2025 problems either resolved or ‘clearly improving’",
+      "link": "https://finance.yahoo.com/news/cleveland-cliffs-says-2025-problems-135108506.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-09T23:52:07Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/QYO4vKJmylAwej0Za_TwTQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/8fd72c30-05bc-11f1-97fb-36dbca2648ac",
-      "slug": "stock-market-today-dow-sp-500-nasdaq-put-rally-on-hold-as-wall-street-braces-for-40f0a935",
-      "orig_slug": "stock-market-today-dow-sp-500-nasdaq-put-rally-on-hold-as-wall-street-braces-for-40f0a935"
-    },
-    {
-      "title": "Where is Revolve Group (RVLV) Headed?",
-      "link": "https://finance.yahoo.com/news/where-revolve-group-rvlv-headed-114604102.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T11:46:04Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/eea1be9b1efce7c1f840856a5e007c05",
-      "slug": "where-is-revolve-group-rvlv-headed-3de7c1da",
-      "orig_slug": "where-is-revolve-group-rvlv-headed-3de7c1da"
-    },
-    {
-      "title": "Is Wayfair Inc. (W) One of the Best E-Commerce Stocks to Buy Now?",
-      "link": "https://finance.yahoo.com/news/wayfair-inc-w-one-best-114601091.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T11:46:01Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/f71fa7f03fe83414bd569983ba2835e4",
-      "slug": "is-wayfair-inc-w-one-of-the-best-e-commerce-stocks-to-buy-now-7cbfdaa3",
-      "orig_slug": "is-wayfair-inc-w-one-of-the-best-e-commerce-stocks-to-buy-now-7cbfdaa3"
-    },
-    {
-      "title": "What Are Analysts Saying About Global-e Online Ltd. (GLBE)?",
-      "link": "https://finance.yahoo.com/news/analysts-saying-global-e-online-114603030.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T11:46:03Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/c90a94a787154b9262f07cee20cb9042",
-      "slug": "what-are-analysts-saying-about-global-e-online-ltd-glbe-15ca1ad7",
-      "orig_slug": "what-are-analysts-saying-about-global-e-online-ltd-glbe-15ca1ad7"
-    },
-    {
-      "title": "Valentine’s Day may be peak season for romance scammers, but the threat is year-round",
-      "link": "https://finance.yahoo.com/news/valentine-day-may-peak-season-122712555.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T12:27:12Z",
-      "image": "https://s.yimg.com/os/en/retail_banker_international_407/4db7bafb3426fdecb70f6c32526d6e4b",
-      "slug": "valentines-day-may-be-peak-season-for-romance-scammers-but-the-threat-is-year-ro-41f8fae7",
-      "orig_slug": "valentines-day-may-be-peak-season-for-romance-scammers-but-the-threat-is-year-ro-41f8fae7"
-    },
-    {
-      "title": "Where is JD.com (JD) Headed According to Analysts?",
-      "link": "https://finance.yahoo.com/news/where-jd-com-jd-headed-114203361.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T11:42:03Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/11672800d1aa4c2d3d6ec0e023f94406",
-      "slug": "where-is-jdcom-jd-headed-according-to-analysts-73476470",
-      "orig_slug": "where-is-jdcom-jd-headed-according-to-analysts-73476470"
-    },
-    {
-      "title": "Piper Sandler Maintains an Overweight Rating on Chewy Inc (CHWY) – Here’s Why",
-      "link": "https://finance.yahoo.com/news/piper-sandler-maintains-overweight-rating-114202837.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T11:42:02Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/c15a2fe179de3675146b1445d631a438",
-      "slug": "piper-sandler-maintains-an-overweight-rating-on-chewy-inc-chwy-heres-why-df91a420",
-      "orig_slug": "piper-sandler-maintains-an-overweight-rating-on-chewy-inc-chwy-heres-why-df91a420"
-    },
-    {
-      "title": "Here’s What Analysts Are Saying About Maplebear Inc. (CART)",
-      "link": "https://finance.yahoo.com/news/analysts-saying-maplebear-inc-cart-114200420.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T11:42:00Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/572eff25f62bb4543c0e05d4966360af",
-      "slug": "heres-what-analysts-are-saying-about-maplebear-inc-cart-7fe98f02",
-      "orig_slug": "heres-what-analysts-are-saying-about-maplebear-inc-cart-7fe98f02"
-    },
-    {
-      "title": "Here’s What Citi Thinks About PDD Holdings Inc. (PDD)",
-      "link": "https://finance.yahoo.com/news/citi-thinks-pdd-holdings-inc-114158839.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T11:41:58Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/39432c8f252ec1ff8c978657224a9958",
-      "slug": "heres-what-citi-thinks-about-pdd-holdings-inc-pdd-0d73b0fd",
-      "orig_slug": "heres-what-citi-thinks-about-pdd-holdings-inc-pdd-0d73b0fd"
-    },
-    {
-      "title": "Daily – Vickers Top Insider Picks for 02/10/2026",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_46106_InsiderActivity_1770721592000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T11:06:32Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-vickers-top-insider-picks-for-02102026-078fefca",
-      "orig_slug": "daily-vickers-top-insider-picks-for-02102026-078fefca"
-    },
-    {
-      "title": "UBS to add 50 wealth bankers in Hong Kong – report",
-      "link": "https://finance.yahoo.com/news/ubs-add-50-wealth-bankers-122448463.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T12:24:48Z",
-      "image": "https://media.zenfs.com/en/private_banker_international_938/00b35fc43855e04d8c8d9e13e9207fef",
-      "slug": "ubs-to-add-50-wealth-bankers-in-hong-kong-report-3f6a58bd",
-      "orig_slug": "ubs-to-add-50-wealth-bankers-in-hong-kong-report-3f6a58bd"
-    },
-    {
-      "title": "Bernstein Initiates Coverage of Coupang (CPNG) With an Underperform Rating",
-      "link": "https://finance.yahoo.com/news/bernstein-initiates-coverage-coupang-cpng-114157556.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T11:41:57Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/47e3f7a0b3fe3b7a8d24083d03a6cf3a",
-      "slug": "bernstein-initiates-coverage-of-coupang-cpng-with-an-underperform-rating-9282f35e",
-      "orig_slug": "bernstein-initiates-coverage-of-coupang-cpng-with-an-underperform-rating-9282f35e"
-    },
-    {
-      "title": "What Does the Street Say About DoorDash (DASH)?",
-      "link": "https://finance.yahoo.com/news/does-street-doordash-dash-114155858.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T11:41:55Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/9d29eeccc8d759d9dff0b6795a07d8d3",
-      "slug": "what-does-the-street-say-about-doordash-dash-fa8c6361",
-      "orig_slug": "what-does-the-street-say-about-doordash-dash-fa8c6361"
-    },
-    {
-      "title": "Why is Alibaba Group Holding Limited (BABA) One of the Best E-Commerce Stocks to Buy Now",
-      "link": "https://finance.yahoo.com/news/why-alibaba-group-holding-limited-114154055.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T11:41:54Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/090170be12ef840f77e8d544392228a0",
-      "slug": "why-is-alibaba-group-holding-limited-baba-one-of-the-best-e-commerce-stocks-to-b-51f0db42",
-      "orig_slug": "why-is-alibaba-group-holding-limited-baba-one-of-the-best-e-commerce-stocks-to-b-51f0db42"
-    },
-    {
-      "title": "DA Davidson Thinks Amazon.com (AMZN) is “Losing the Lead” – Here’s Why",
-      "link": "https://finance.yahoo.com/news/da-davidson-thinks-amazon-com-114152031.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T11:41:52Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/226ed9ed0936942adb97f3d56073e411",
-      "slug": "da-davidson-thinks-amazoncom-amzn-is-losing-the-lead-heres-why-ae745faf",
-      "orig_slug": "da-davidson-thinks-amazoncom-amzn-is-losing-the-lead-heres-why-ae745faf"
-    },
-    {
-      "title": "Daily – Vickers Top Buyers & Sellers for 02/10/2026",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_46107_TopBottomInsiderActivity_1770721592000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T11:06:32Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-vickers-top-buyers-sellers-for-02102026-73376e9d",
-      "orig_slug": "daily-vickers-top-buyers-sellers-for-02102026-73376e9d"
-    },
-    {
-      "title": "Stocks to Watch Tuesday: Coca-Cola, Onsemi, Spotify",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-10-2026/card/stocks-to-watch-tuesday-bp-onsemi-tsmc-eIVga3LDy4IZXYoKFYZV?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T12:20:49Z",
-      "image": "",
-      "slug": "stocks-to-watch-tuesday-coca-cola-onsemi-spotify-c4240c98",
-      "orig_slug": "stocks-to-watch-tuesday-coca-cola-onsemi-spotify-c4240c98"
-    },
-    {
-      "title": "Where is Genmab A/S (GMAB) Headed According to Wall Street?",
-      "link": "https://finance.yahoo.com/news/where-genmab-gmab-headed-according-114151220.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T11:41:51Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/92ad993b23d1981cda76510cabc277ab",
-      "slug": "where-is-genmab-as-gmab-headed-according-to-wall-street-4a202a1c",
-      "orig_slug": "where-is-genmab-as-gmab-headed-according-to-wall-street-4a202a1c"
-    },
-    {
-      "title": "Here’s What the Street Thinks About Elanco Animal Health Incorporated (ELAN)",
-      "link": "https://finance.yahoo.com/news/street-thinks-elanco-animal-health-114149730.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T11:41:49Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/cb79e6750912f0548caf94c31e77f938",
-      "slug": "heres-what-the-street-thinks-about-elanco-animal-health-incorporated-elan-fb2b6e67",
-      "orig_slug": "heres-what-the-street-thinks-about-elanco-animal-health-incorporated-elan-fb2b6e67"
-    },
-    {
-      "title": "Is Sanofi (SNY) One of the Best Healthcare Stocks Under $50 to Invest In?",
-      "link": "https://finance.yahoo.com/news/sanofi-sny-one-best-healthcare-114148041.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T11:41:48Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/4f7369a8cd76489e18c06afee0976ddc",
-      "slug": "is-sanofi-sny-one-of-the-best-healthcare-stocks-under-50-to-invest-in-96f7bf4e",
-      "orig_slug": "is-sanofi-sny-one-of-the-best-healthcare-stocks-under-50-to-invest-in-96f7bf4e"
-    },
-    {
-      "title": "UBS and Citi Are Bullish on Royalty Pharma Plc (RPRX) – Here’s Why",
-      "link": "https://finance.yahoo.com/news/ubs-citi-bullish-royalty-pharma-114146273.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T11:41:46Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/117a6ec6167a30d9b152e441b74eca5d",
-      "slug": "ubs-and-citi-are-bullish-on-royalty-pharma-plc-rprx-heres-why-6cbfcac5",
-      "orig_slug": "ubs-and-citi-are-bullish-on-royalty-pharma-plc-rprx-heres-why-6cbfcac5"
-    },
-    {
-      "title": "The White House Issues a Major Warning: Why Investors in These 2 S&P 500 Stocks Shouldn't Worry.",
-      "link": "https://finance.yahoo.com/news/white-house-issues-major-warning-122000114.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T12:20:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/21795992ad1e177b4781d2ca2c4f43d7",
-      "slug": "the-white-house-issues-a-major-warning-why-investors-in-these-2-sp-500-stocks-sh-1818bd3c",
-      "orig_slug": "the-white-house-issues-a-major-warning-why-investors-in-these-2-sp-500-stocks-sh-1818bd3c"
-    },
-    {
-      "title": "What Does the Street Think About Moderna, Inc. (MRNA)?",
-      "link": "https://finance.yahoo.com/news/does-street-think-moderna-inc-114145202.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T11:41:45Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/db8da8639da22058dd703222358d64b6",
-      "slug": "what-does-the-street-think-about-moderna-inc-mrna-971387fa",
-      "orig_slug": "what-does-the-street-think-about-moderna-inc-mrna-971387fa"
-    },
-    {
-      "title": "Where is Novo Nordisk A/S (NVO) Headed?",
-      "link": "https://finance.yahoo.com/news/where-novo-nordisk-nvo-headed-114143175.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T11:41:43Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/8ee01456c2860ad756980e44c064cbb6",
-      "slug": "where-is-novo-nordisk-as-nvo-headed-808bee14",
-      "orig_slug": "where-is-novo-nordisk-as-nvo-headed-808bee14"
-    },
-    {
-      "title": "TD Cowen Remains Bullish on Roivant Sciences Ltd. (ROIV) – Here’s Why",
-      "link": "https://finance.yahoo.com/news/td-cowen-remains-bullish-roivant-114142927.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T11:41:42Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/b80fc1ad183432d6f24eac451d97ad41",
-      "slug": "td-cowen-remains-bullish-on-roivant-sciences-ltd-roiv-heres-why-55313951",
-      "orig_slug": "td-cowen-remains-bullish-on-roivant-sciences-ltd-roiv-heres-why-55313951"
-    },
-    {
-      "title": "Where is Viatris Inc. (VTRS) Headed According to the Street?",
-      "link": "https://finance.yahoo.com/news/where-viatris-inc-vtrs-headed-114140254.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T11:41:40Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/74fb705bb9c3ce561b1e73c01a8c0ec6",
-      "slug": "where-is-viatris-inc-vtrs-headed-according-to-the-street-91d2e945",
-      "orig_slug": "where-is-viatris-inc-vtrs-headed-according-to-the-street-91d2e945"
-    },
-    {
-      "title": "Schroders and Apollo partner on wealth investment products in UK",
-      "link": "https://finance.yahoo.com/news/schroders-apollo-partner-wealth-investment-121722288.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T12:17:22Z",
-      "image": "https://media.zenfs.com/en/private_banker_international_938/9ffc770913e6ddcbec1fb88eca64f569",
-      "slug": "schroders-and-apollo-partner-on-wealth-investment-products-in-uk-e7b1af8d",
-      "orig_slug": "schroders-and-apollo-partner-on-wealth-investment-products-in-uk-e7b1af8d"
-    },
-    {
-      "title": "Here’s What Analysts Are Saying About Teva Pharmaceutical (TEVA) Post Earnings",
-      "link": "https://finance.yahoo.com/news/analysts-saying-teva-pharmaceutical-teva-114139672.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T11:41:39Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/bb716c69f25448eaab4b722db6d804cb",
-      "slug": "heres-what-analysts-are-saying-about-teva-pharmaceutical-teva-post-earnings-75615076",
-      "orig_slug": "heres-what-analysts-are-saying-about-teva-pharmaceutical-teva-post-earnings-75615076"
-    },
-    {
-      "title": "CrowdStrike (CRWD) Draws Analyst Support After Saudi Aramco Collaboration",
-      "link": "https://finance.yahoo.com/news/crowdstrike-crwd-draws-analyst-support-113752023.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T11:37:52Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/b3ccd7c7b0a348c4a16fe044416668a2",
-      "slug": "crowdstrike-crwd-draws-analyst-support-after-saudi-aramco-collaboration-232c1aa6",
-      "orig_slug": "crowdstrike-crwd-draws-analyst-support-after-saudi-aramco-collaboration-232c1aa6"
-    },
-    {
-      "title": "Datadog’s (DDOG) AI Positioning in Focus as RBC Maintains Outperform Rating",
-      "link": "https://finance.yahoo.com/news/datadog-ddog-ai-positioning-focus-113729171.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T11:37:29Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/7d01962c35d56e5d770d2ab0d313ba13",
-      "slug": "datadogs-ddog-ai-positioning-in-focus-as-rbc-maintains-outperform-rating-f34c4604",
-      "orig_slug": "datadogs-ddog-ai-positioning-in-focus-as-rbc-maintains-outperform-rating-f34c4604"
-    },
-    {
-      "title": "Tesla (TSLA) Remains a Battleground Stock as Analysts Weigh AI Optionality",
-      "link": "https://finance.yahoo.com/news/tesla-tsla-remains-battleground-stock-113711995.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T11:37:11Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/11c7ac85f26fcb755f9782d181485984",
-      "slug": "tesla-tsla-remains-a-battleground-stock-as-analysts-weigh-ai-optionality-f9a5a61f",
-      "orig_slug": "tesla-tsla-remains-a-battleground-stock-as-analysts-weigh-ai-optionality-f9a5a61f"
-    },
-    {
-      "title": "Barclays Has 'Levers' to Pull if Trump Administration Caps Credit-Card Rates",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-10-2026/card/barclays-has-levers-to-pull-if-trump-administration-caps-credit-card-rates-9itB1yp9wAJRR0xx8Vzl?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T12:16:29Z",
-      "image": "",
-      "slug": "barclays-has-levers-to-pull-if-trump-administration-caps-credit-card-rates-ee1be0f6",
-      "orig_slug": "barclays-has-levers-to-pull-if-trump-administration-caps-credit-card-rates-ee1be0f6"
-    },
-    {
-      "title": "Advanced Micro Devices (AMD)’s Datacenter Momentum Builds as Goldman Flags Operating Expense Pressure",
-      "link": "https://finance.yahoo.com/news/advanced-micro-devices-amd-datacenter-113701981.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T11:37:01Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/5d959ba60ef2acc25a19e5cd0a23aafc",
-      "slug": "advanced-micro-devices-amds-datacenter-momentum-builds-as-goldman-flags-operatin-644c6933",
-      "orig_slug": "advanced-micro-devices-amds-datacenter-momentum-builds-as-goldman-flags-operatin-644c6933"
-    },
-    {
-      "title": "Melius Downgrades Oracle (ORCL) to Hold as AI Monetization Faces Scrutiny",
-      "link": "https://finance.yahoo.com/news/melius-downgrades-oracle-orcl-hold-113653732.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T11:36:53Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/618220d636ce848a779843ef916a0817",
-      "slug": "melius-downgrades-oracle-orcl-to-hold-as-ai-monetization-faces-scrutiny-c8ebe971",
-      "orig_slug": "melius-downgrades-oracle-orcl-to-hold-as-ai-monetization-faces-scrutiny-c8ebe971"
-    },
-    {
-      "title": "Bank of America Stands by Nvidia (NVDA) With $275 Target as AI Leadership Holds",
-      "link": "https://finance.yahoo.com/news/bank-america-stands-nvidia-nvda-113644257.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T11:36:44Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/a9806e13e3b923bb3edb704c9b5e47a3",
-      "slug": "bank-of-america-stands-by-nvidia-nvda-with-275-target-as-ai-leadership-holds-788ae96a",
-      "orig_slug": "bank-of-america-stands-by-nvidia-nvda-with-275-target-as-ai-leadership-holds-788ae96a"
-    },
-    {
-      "title": "Melius Downgrades Microsoft (MSFT) to Hold, Flags AI Capex and Cash Flow Risks",
-      "link": "https://finance.yahoo.com/news/melius-downgrades-microsoft-msft-hold-113637408.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T11:36:37Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/bcb836688e9efa621c3fe27ded2b41ec",
-      "slug": "melius-downgrades-microsoft-msft-to-hold-flags-ai-capex-and-cash-flow-risks-4b509dce",
-      "orig_slug": "melius-downgrades-microsoft-msft-to-hold-flags-ai-capex-and-cash-flow-risks-4b509dce"
-    },
-    {
-      "title": "Coin Expert: What Beginners Should Know Before Buying in 2026",
-      "link": "https://finance.yahoo.com/news/coin-expert-beginners-know-buying-121211410.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T12:12:11Z",
-      "image": "https://media.zenfs.com/en/gobankingrates_644/17ea83da7309e5774cf24a0e0f171f97",
-      "slug": "coin-expert-what-beginners-should-know-before-buying-in-2026-e3b87de2",
-      "orig_slug": "coin-expert-what-beginners-should-know-before-buying-in-2026-e3b87de2"
-    },
-    {
-      "title": "Bank of America Says AWS Capex Returns Will Drive Amazon.com (AMZN) Shares",
-      "link": "https://finance.yahoo.com/news/bank-america-says-aws-capex-113614971.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T11:36:14Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/145d57e1f9087f4ed6866a1a76dd96f0",
-      "slug": "bank-of-america-says-aws-capex-returns-will-drive-amazoncom-amzn-shares-91d4fcc2",
-      "orig_slug": "bank-of-america-says-aws-capex-returns-will-drive-amazoncom-amzn-shares-91d4fcc2"
+      "pubDate": "2026-02-10T13:51:08Z",
+      "image": "https://s.yimg.com/os/en/tipranks_452/b348297860e75396419016b80a2ccff0",
+      "slug": "cleveland-cliffs-says-2025-problems-either-resolved-or-clearly-improving-2c7d08bf",
+      "orig_slug": "cleveland-cliffs-says-2025-problems-either-resolved-or-clearly-improving-2c7d08bf"
     }
   ]
 }
