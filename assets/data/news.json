@@ -1,14 +1,329 @@
 {
-  "updated": "2026-02-14T06:33:20Z",
+  "updated": "2026-02-14T07:28:46Z",
   "items": [
     {
-      "title": "Yelp (YELP) Q4 2025 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/news/yelp-yelp-q4-2025-earnings-233020816.html",
+      "title": "HIVE Digital to report Q3 results on Feb. 17",
+      "link": "https://finance.yahoo.com/news/hive-digital-report-q3-results-022900580.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-12T23:30:20Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
-      "slug": "yelp-yelp-q4-2025-earnings-call-transcript-185a6666",
-      "orig_slug": "yelp-yelp-q4-2025-earnings-call-transcript-185a6666"
+      "pubDate": "2026-02-13T02:29:00Z",
+      "image": "https://s.yimg.com/os/en/thestreet_881/f7618b6c30e71a2726536947ced01165",
+      "slug": "hive-digital-to-report-q3-results-on-feb-17-09b14844",
+      "orig_slug": "hive-digital-to-report-q3-results-on-feb-17-09b14844"
+    },
+    {
+      "title": "US, Taiwan finalise deal to cut tariffs, boost purchases of US goods",
+      "link": "https://finance.yahoo.com/news/us-taiwan-finalize-deal-cut-220651039.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-13T01:54:45Z",
+      "image": "https://s.yimg.com/os/en/reuters.com/15736b8df2dec0422f1ee38bce22f089",
+      "slug": "us-taiwan-finalise-deal-to-cut-tariffs-boost-purchases-of-us-goods-92d89dc4",
+      "orig_slug": "us-taiwan-finalise-deal-to-cut-tariffs-boost-purchases-of-us-goods-92d89dc4"
+    },
+    {
+      "title": "Wynn Resorts, Limited Q4 2025 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/news/wynn-resorts-limited-q4-2025-010855661.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-13T01:08:55Z",
+      "image": "https://s.yimg.com/os/en/moby_896/b8d673d6fd4efd19e6364801c6a63b5a",
+      "slug": "wynn-resorts-limited-q4-2025-earnings-call-summary-89330377",
+      "orig_slug": "wynn-resorts-limited-q4-2025-earnings-call-summary-89330377"
+    },
+    {
+      "title": "Trupanion, Inc. Q4 2025 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/news/trupanion-inc-q4-2025-earnings-010818421.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-13T01:08:18Z",
+      "image": "https://s.yimg.com/os/en/moby_896/03a9564865d520831668701f435c6c9a",
+      "slug": "trupanion-inc-q4-2025-earnings-call-summary-b02a5c6e",
+      "orig_slug": "trupanion-inc-q4-2025-earnings-call-summary-b02a5c6e"
+    },
+    {
+      "title": "Vanda Pharmaceuticals Inc. Q4 2025 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/news/vanda-pharmaceuticals-inc-q4-2025-010830388.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-13T01:08:30Z",
+      "image": "https://s.yimg.com/os/en/moby_896/00c815c046cf517b67401dd0080e3016",
+      "slug": "vanda-pharmaceuticals-inc-q4-2025-earnings-call-summary-300bc5f4",
+      "orig_slug": "vanda-pharmaceuticals-inc-q4-2025-earnings-call-summary-300bc5f4"
+    },
+    {
+      "title": "China Is Snapping Up Overseas Assets Again From Puma to Metals",
+      "link": "https://finance.yahoo.com/news/china-snapping-overseas-assets-again-023119972.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-13T02:31:19Z",
+      "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/4b78aef7c8d3c487498ed80fb762df0e",
+      "slug": "china-is-snapping-up-overseas-assets-again-from-puma-to-metals-60c740c5",
+      "orig_slug": "china-is-snapping-up-overseas-assets-again-from-puma-to-metals-60c740c5"
+    },
+    {
+      "title": "SPS Commerce, Inc. Q4 2025 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/news/sps-commerce-inc-q4-2025-010743811.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-13T01:07:43Z",
+      "image": "https://s.yimg.com/os/en/moby_896/dad47a83346a4c28ba9c03b9c7d1a4d3",
+      "slug": "sps-commerce-inc-q4-2025-earnings-call-summary-29efe1fe",
+      "orig_slug": "sps-commerce-inc-q4-2025-earnings-call-summary-29efe1fe"
+    },
+    {
+      "title": "Pinterest, Inc. Q4 2025 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/news/pinterest-inc-q4-2025-earnings-010704142.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-13T01:07:04Z",
+      "image": "https://s.yimg.com/os/en/moby_896/6194762196ae8ad88ab5cedc5ebbfd5a",
+      "slug": "pinterest-inc-q4-2025-earnings-call-summary-24d02897",
+      "orig_slug": "pinterest-inc-q4-2025-earnings-call-summary-24d02897"
+    },
+    {
+      "title": "Redwood Trust, Inc. Q4 2025 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/news/redwood-trust-inc-q4-2025-010707358.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-13T01:07:07Z",
+      "image": "https://s.yimg.com/os/en/moby_896/1809f476c4fee9e2e6413264540c91fc",
+      "slug": "redwood-trust-inc-q4-2025-earnings-call-summary-dd006366",
+      "orig_slug": "redwood-trust-inc-q4-2025-earnings-call-summary-dd006366"
+    },
+    {
+      "title": "Penske Automotive Group, Inc. Q4 2025 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/news/penske-automotive-group-inc-q4-010718918.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-13T01:07:18Z",
+      "image": "https://s.yimg.com/os/en/moby_896/c1bb92230e3cfa79e4a370e43dfa816a",
+      "slug": "penske-automotive-group-inc-q4-2025-earnings-call-summary-3355543f",
+      "orig_slug": "penske-automotive-group-inc-q4-2025-earnings-call-summary-3355543f"
+    },
+    {
+      "title": "Galaxy CEO Mike Novogratz Says Crypto's 'Age of Speculation' Is Ending, Sees Shift From Hype To Real-World Assets",
+      "link": "https://finance.yahoo.com/news/galaxy-ceo-mike-novogratz-says-023105668.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-13T02:31:05Z",
+      "image": "https://s.yimg.com/os/en/benzinga_79/4711338beeb78e4e407f90ca1a0a7d51",
+      "slug": "galaxy-ceo-mike-novogratz-says-cryptos-age-of-speculation-is-ending-sees-shift-f-1c1717ba",
+      "orig_slug": "galaxy-ceo-mike-novogratz-says-cryptos-age-of-speculation-is-ending-sees-shift-f-1c1717ba"
+    },
+    {
+      "title": "AVITA Medical, Inc. Q4 2025 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/news/avita-medical-inc-q4-2025-010649974.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-13T01:06:49Z",
+      "image": "https://s.yimg.com/os/en/moby_896/dc6aff9c13119899cc576fc93a03f981",
+      "slug": "avita-medical-inc-q4-2025-earnings-call-summary-2022fc0c",
+      "orig_slug": "avita-medical-inc-q4-2025-earnings-call-summary-2022fc0c"
+    },
+    {
+      "title": "PBF Energy Inc. Q4 2025 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/news/pbf-energy-inc-q4-2025-010629523.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-13T01:06:29Z",
+      "image": "https://s.yimg.com/os/en/moby_896/4fb886193025f7bbf907aab5f7c84329",
+      "slug": "pbf-energy-inc-q4-2025-earnings-call-summary-b2722086",
+      "orig_slug": "pbf-energy-inc-q4-2025-earnings-call-summary-b2722086"
+    },
+    {
+      "title": "Legacy Education Inc. Q2 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/news/legacy-education-inc-q2-2026-010536766.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-13T01:05:36Z",
+      "image": "https://s.yimg.com/os/en/moby_896/32aef0baa712863ce23d43599915eb7b",
+      "slug": "legacy-education-inc-q2-2026-earnings-call-summary-e6100fe9",
+      "orig_slug": "legacy-education-inc-q2-2026-earnings-call-summary-e6100fe9"
+    },
+    {
+      "title": "Leggett & Platt, Incorporated Q4 2025 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/news/leggett-platt-incorporated-q4-2025-010512026.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-13T01:05:12Z",
+      "image": "https://s.yimg.com/os/en/moby_896/3722b9599ba721eff5be05fc358f140f",
+      "slug": "leggett-platt-incorporated-q4-2025-earnings-call-summary-e3cdb355",
+      "orig_slug": "leggett-platt-incorporated-q4-2025-earnings-call-summary-e3cdb355"
+    },
+    {
+      "title": "Billionaire Goudet Stake in Treasury Wine Sparks Rally",
+      "link": "https://finance.yahoo.com/news/billionaire-goudet-stake-treasury-wine-024214822.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-13T02:42:14Z",
+      "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/991d548b3004715023014d25fbc192df",
+      "slug": "billionaire-goudet-stake-in-treasury-wine-sparks-rally-c4eaff75",
+      "orig_slug": "billionaire-goudet-stake-in-treasury-wine-sparks-rally-c4eaff75"
+    },
+    {
+      "title": "LiveOne, Inc. Q3 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/news/liveone-inc-q3-2026-earnings-010527775.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-13T01:05:27Z",
+      "image": "https://s.yimg.com/os/en/moby_896/a981b50d1ee946f0ae418837f7ffdb5e",
+      "slug": "liveone-inc-q3-2026-earnings-call-summary-fd68542c",
+      "orig_slug": "liveone-inc-q3-2026-earnings-call-summary-fd68542c"
+    },
+    {
+      "title": "McGraw Hill, Inc. Q3 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/news/mcgraw-hill-inc-q3-2026-010538860.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-13T01:05:38Z",
+      "image": "https://s.yimg.com/os/en/moby_896/eca1b7967be9a4ab92b5d4ab9d947753",
+      "slug": "mcgraw-hill-inc-q3-2026-earnings-call-summary-e95f6aa4",
+      "orig_slug": "mcgraw-hill-inc-q3-2026-earnings-call-summary-e95f6aa4"
+    },
+    {
+      "title": "Expedia Group, Inc. Q4 2025 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/news/expedia-group-inc-q4-2025-010350641.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-13T01:03:50Z",
+      "image": "https://s.yimg.com/os/en/moby_896/7c16fb7afa024fd8b300ac54af7c8600",
+      "slug": "expedia-group-inc-q4-2025-earnings-call-summary-61d00fcf",
+      "orig_slug": "expedia-group-inc-q4-2025-earnings-call-summary-61d00fcf"
+    },
+    {
+      "title": "CSP Inc. Q1 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/news/csp-inc-q1-2026-earnings-010328153.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-13T01:03:28Z",
+      "image": "https://s.yimg.com/os/en/moby_896/689fba172d696f73c9e04f411a853661",
+      "slug": "csp-inc-q1-2026-earnings-call-summary-dde1b338",
+      "orig_slug": "csp-inc-q1-2026-earnings-call-summary-dde1b338"
+    },
+    {
+      "title": "Chipotle's CEO Just Admitted the Company Is Staring at a $28 Billion Opportunity",
+      "link": "https://finance.yahoo.com/news/chipotles-ceo-just-admitted-company-022500532.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-13T02:25:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/9860e57bc1fdb8624eee589ee3cc2e3c",
+      "slug": "chipotles-ceo-just-admitted-the-company-is-staring-at-a-28-billion-opportunity-39e190be",
+      "orig_slug": "chipotles-ceo-just-admitted-the-company-is-staring-at-a-28-billion-opportunity-39e190be"
+    },
+    {
+      "title": "Forrester Research, Inc. Q4 2025 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/news/forrester-research-inc-q4-2025-010407217.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-13T01:04:07Z",
+      "image": "https://s.yimg.com/os/en/moby_896/f931ce48e515437a71edbae165973f47",
+      "slug": "forrester-research-inc-q4-2025-earnings-call-summary-7fe54a6d",
+      "orig_slug": "forrester-research-inc-q4-2025-earnings-call-summary-7fe54a6d"
+    },
+    {
+      "title": "Flux Power Holdings, Inc. Q2 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/news/flux-power-holdings-inc-q2-010406413.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-13T01:04:06Z",
+      "image": "https://s.yimg.com/os/en/moby_896/0407645988124ece2afa3441b4875163",
+      "slug": "flux-power-holdings-inc-q2-2026-earnings-call-summary-53ef29b9",
+      "orig_slug": "flux-power-holdings-inc-q2-2026-earnings-call-summary-53ef29b9"
+    },
+    {
+      "title": "Alliance Entertainment Holding Corporation Q2 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/news/alliance-entertainment-holding-corporation-q2-010233853.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-13T01:02:33Z",
+      "image": "https://s.yimg.com/os/en/moby_896/b546ea36d85c301d386b35201d2cb390",
+      "slug": "alliance-entertainment-holding-corporation-q2-2026-earnings-call-summary-0d234258",
+      "orig_slug": "alliance-entertainment-holding-corporation-q2-2026-earnings-call-summary-0d234258"
+    },
+    {
+      "title": "Commerce.com, Inc. Q4 2025 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/news/commerce-com-inc-q4-2025-010317651.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-13T01:03:17Z",
+      "image": "https://s.yimg.com/os/en/moby_896/81b3f080122ca02566cfd8e90eafafad",
+      "slug": "commercecom-inc-q4-2025-earnings-call-summary-18795107",
+      "orig_slug": "commercecom-inc-q4-2025-earnings-call-summary-18795107"
+    },
+    {
+      "title": "Why transport damage is still a packaging problem",
+      "link": "https://finance.yahoo.com/news/why-transport-damage-still-packaging-022129612.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-13T02:21:29Z",
+      "image": "https://s.yimg.com/os/en/packaging_gateway_559/228c6e7ae6e13c6358618a3f04d1baa0",
+      "slug": "why-transport-damage-is-still-a-packaging-problem-1ab35f15",
+      "orig_slug": "why-transport-damage-is-still-a-packaging-problem-1ab35f15"
+    },
+    {
+      "title": "Affiliated Managers Group, Inc. Q4 2025 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/news/affiliated-managers-group-inc-q4-010234950.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-13T01:02:34Z",
+      "image": "https://s.yimg.com/os/en/moby_896/e5236f59ccbde54bc81dafc5526bf103",
+      "slug": "affiliated-managers-group-inc-q4-2025-earnings-call-summary-98280857",
+      "orig_slug": "affiliated-managers-group-inc-q4-2025-earnings-call-summary-98280857"
+    },
+    {
+      "title": "Arteris, Inc. Q4 2025 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/news/arteris-inc-q4-2025-earnings-010302721.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-13T01:03:02Z",
+      "image": "https://s.yimg.com/os/en/moby_896/664c7375b68961fdbfcf8e12450cf546",
+      "slug": "arteris-inc-q4-2025-earnings-call-summary-46186652",
+      "orig_slug": "arteris-inc-q4-2025-earnings-call-summary-46186652"
+    },
+    {
+      "title": "Applied Materials, Inc. Q1 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/news/applied-materials-inc-q1-2026-010257666.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-13T01:02:57Z",
+      "image": "https://s.yimg.com/os/en/moby_896/2e79a2b6ed348a99205e1bb72b215871",
+      "slug": "applied-materials-inc-q1-2026-earnings-call-summary-092e65f4",
+      "orig_slug": "applied-materials-inc-q1-2026-earnings-call-summary-092e65f4"
+    },
+    {
+      "title": "Arista Networks, Inc. Q4 2025 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/news/arista-networks-inc-q4-2025-010307280.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-13T01:03:07Z",
+      "image": "https://s.yimg.com/os/en/moby_896/89cbd0b21bb0d6efb16f253791ce5a97",
+      "slug": "arista-networks-inc-q4-2025-earnings-call-summary-c3746294",
+      "orig_slug": "arista-networks-inc-q4-2025-earnings-call-summary-c3746294"
+    },
+    {
+      "title": "Got $5,000? 2 Tech Stocks to Buy and Hold for the Long Term",
+      "link": "https://finance.yahoo.com/news/got-5-000-2-tech-025000183.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-13T02:50:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/e1c578b0870dcf8b43442c47c102aa17",
+      "slug": "got-5000-2-tech-stocks-to-buy-and-hold-for-the-long-term-47eacb9b",
+      "orig_slug": "got-5000-2-tech-stocks-to-buy-and-hold-for-the-long-term-47eacb9b"
+    },
+    {
+      "title": "Belden Inc. Q4 2025 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/news/belden-inc-q4-2025-earnings-010250186.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-13T01:02:50Z",
+      "image": "https://s.yimg.com/os/en/moby_896/59b090c362259dd0d1fc4f9249f7ea1b",
+      "slug": "belden-inc-q4-2025-earnings-call-summary-4fa9a7fe",
+      "orig_slug": "belden-inc-q4-2025-earnings-call-summary-4fa9a7fe"
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq sink as tech gets hit as AI disruption fears grow; gold, bitcoin sink",
+      "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-sink-as-tech-gets-hit-as-ai-disruption-fears-grow-gold-bitcoin-sink-210353533.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-12T21:03:53Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/ZP5MTjHrQSajiTJoQReq7g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/af29bcc0-078c-11f1-b0f6-2f95b0cfedb7",
+      "slug": "stock-market-today-dow-sp-500-nasdaq-sink-as-tech-gets-hit-as-ai-disruption-fear-936839b9",
+      "orig_slug": "stock-market-today-dow-sp-500-nasdaq-sink-as-tech-gets-hit-as-ai-disruption-fear-936839b9"
+    },
+    {
+      "title": "What is the average interest rate for savings accounts?",
+      "link": "https://finance.yahoo.com/news/average-interest-rate-savings-accounts-203543195.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-13T00:30:08Z",
+      "image": "https://media.zenfs.com/en/bankrate_626/5b76b3d83343bbbd80a1636369c0fb38",
+      "slug": "what-is-the-average-interest-rate-for-savings-accounts-5ad4e9e1",
+      "orig_slug": "what-is-the-average-interest-rate-for-savings-accounts-5ad4e9e1"
+    },
+    {
+      "title": "1 High-Yield Dividend Stock to Buy Hand Over Fist in February 2026",
+      "link": "https://finance.yahoo.com/news/1-high-yield-dividend-stock-003001291.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-13T00:30:01Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/e1f9398d0bf04298f94f04101e8baddf",
+      "slug": "1-high-yield-dividend-stock-to-buy-hand-over-fist-in-february-2026-9fd88df5",
+      "orig_slug": "1-high-yield-dividend-stock-to-buy-hand-over-fist-in-february-2026-9fd88df5"
+    },
+    {
+      "title": "Meet the Former Karaoke Company That Sank Trucking Stocks",
+      "link": "https://www.wsj.com/business/logistics/meet-the-former-karaoke-company-that-sank-trucking-stocks-018ddde1?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-13T02:22:00Z",
+      "image": "",
+      "slug": "meet-the-former-karaoke-company-that-sank-trucking-stocks-125f8306",
+      "orig_slug": "meet-the-former-karaoke-company-that-sank-trucking-stocks-125f8306"
     },
     {
       "title": "Child tax credit: Everything you need to know for the 2025 tax year",
@@ -18,60 +333,6 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/qBFMlPbowHKaI9nuvheDjQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/22861ff0-b623-11ee-bcef-b7cf1ffbe465",
       "slug": "child-tax-credit-everything-you-need-to-know-for-the-2025-tax-year-b8b20238",
       "orig_slug": "child-tax-credit-everything-you-need-to-know-for-the-2025-tax-year-b8b20238"
-    },
-    {
-      "title": "Daily ETF Flows: VXUS Registers $1B of Inflows",
-      "link": "https://finance.yahoo.com/news/daily-etf-flows-vxus-registers-230004927.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-12T23:00:04Z",
-      "image": "https://s.yimg.com/os/en/indexuniverse.com/1d45f9488d95ad21b16acbe33a9dfed0",
-      "slug": "daily-etf-flows-vxus-registers-1b-of-inflows-5636fb74",
-      "orig_slug": "daily-etf-flows-vxus-registers-1b-of-inflows-5636fb74"
-    },
-    {
-      "title": "Apple fends off 4G wireless patent lawsuit at third trial",
-      "link": "https://finance.yahoo.com/news/apple-fends-off-4g-wireless-225738111.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-12T22:57:38Z",
-      "image": "https://s.yimg.com/os/en/reuters-finance.com/3b90a4bd6f48292c3f81184c076fa125",
-      "slug": "apple-fends-off-4g-wireless-patent-lawsuit-at-third-trial-9b90f60b",
-      "orig_slug": "apple-fends-off-4g-wireless-patent-lawsuit-at-third-trial-9b90f60b"
-    },
-    {
-      "title": "Anthropic hits a $380B valuation as it heightens competition with OpenAI",
-      "link": "https://finance.yahoo.com/news/anthropic-hits-380b-valuation-heightens-224521453.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-12T22:45:21Z",
-      "image": "https://media.zenfs.com/en/ap_finance_articles_694/7220d31ea82196cb2e0918a14184da3c",
-      "slug": "anthropic-hits-a-380b-valuation-as-it-heightens-competition-with-openai-53df4918",
-      "orig_slug": "anthropic-hits-a-380b-valuation-as-it-heightens-competition-with-openai-53df4918"
-    },
-    {
-      "title": "PDF Solutions Q4 2025 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/news/pdf-solutions-q4-2025-earnings-232801977.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-12T23:28:01Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
-      "slug": "pdf-solutions-q4-2025-earnings-call-transcript-ea40f74c",
-      "orig_slug": "pdf-solutions-q4-2025-earnings-call-transcript-ea40f74c"
-    },
-    {
-      "title": "The Next Semiconductor Winner Might Not Be Nvidia",
-      "link": "https://finance.yahoo.com/news/next-semiconductor-winner-might-not-222552283.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-12T22:25:52Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/271604d392d51f4fcc08544a6f5770cc",
-      "slug": "the-next-semiconductor-winner-might-not-be-nvidia-28eca195",
-      "orig_slug": "the-next-semiconductor-winner-might-not-be-nvidia-28eca195"
-    },
-    {
-      "title": "Expedia sees higher first-quarter margin, muted 2026",
-      "link": "https://finance.yahoo.com/news/expedia-forecasts-upbeat-2026-bookings-221343490.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-12T22:13:43Z",
-      "image": "https://s.yimg.com/os/en/reuters-finance.com/4dd957ed26d82bddfbbb49a144aa5880",
-      "slug": "expedia-sees-higher-first-quarter-margin-muted-2026-88df3d4a",
-      "orig_slug": "expedia-sees-higher-first-quarter-margin-muted-2026-88df3d4a"
     },
     {
       "title": "When will mortgage rates go down below 5%? Sub-6% loans are the best so far.",
@@ -92,33 +353,6 @@
       "orig_slug": "taxes-on-stocks-here-are-the-rules-and-rates-0b17f66a"
     },
     {
-      "title": "Pinterest (PINS) Q4 2025 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/news/pinterest-pins-q4-2025-earnings-232536307.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-12T23:25:36Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
-      "slug": "pinterest-pins-q4-2025-earnings-call-transcript-7e09070b",
-      "orig_slug": "pinterest-pins-q4-2025-earnings-call-transcript-7e09070b"
-    },
-    {
-      "title": "What to know about the new (higher) SALT deduction — and how to claim it",
-      "link": "https://finance.yahoo.com/personal-finance/taxes/article/salt-deduction-160737863.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-12T16:07:37Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/.mRU.dA8Ld4Nra0DBj5LIw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-10/97ad1b40-96eb-11ef-aaff-02114421f983",
-      "slug": "what-to-know-about-the-new-higher-salt-deduction-and-how-to-claim-it-6706bfb6",
-      "orig_slug": "what-to-know-about-the-new-higher-salt-deduction-and-how-to-claim-it-6706bfb6"
-    },
-    {
-      "title": "When will mortgage rates go down? With Fed rate cuts on hold, 3-year lows may be the bottom for now",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/when-will-mortgage-rates-go-down-3-year-lows-may-be-the-bottom-february-12-2026-190610346.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-04-22T19:06:10Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/UU4eEVaI8KzdTSlNRUf.bA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-03/1f42f290-ff5c-11ef-bfbf-7d26008535ed",
-      "slug": "when-will-mortgage-rates-go-down-with-fed-rate-cuts-on-hold-3-year-lows-may-be-t-2d2a09c6",
-      "orig_slug": "when-will-mortgage-rates-go-down-with-fed-rate-cuts-on-hold-3-year-lows-may-be-t-2d2a09c6"
-    },
-    {
       "title": "HELOC and home equity loan rates today, February 6, 2026: Intro rates as low as 1.99%",
       "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-friday-february-13-2026-110001058.html",
       "source": "finance.yahoo.com",
@@ -128,6 +362,15 @@
       "orig_slug": "heloc-and-home-equity-loan-rates-today-february-6-2026-intro-rates-as-low-as-199-5eddd64f"
     },
     {
+      "title": "Why cyber risk Is now a retail KPI",
+      "link": "https://finance.yahoo.com/news/why-cyber-risk-now-retail-021958728.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-13T02:19:58Z",
+      "image": "https://s.yimg.com/os/en/retail_insight_network_724/759eda338905f4edbc1e2510e6a9939b",
+      "slug": "why-cyber-risk-is-now-a-retail-kpi-f37cb252",
+      "orig_slug": "why-cyber-risk-is-now-a-retail-kpi-f37cb252"
+    },
+    {
       "title": "Best money market account rates today, February 13, 2026 (up to 4.01% APY return)",
       "link": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-friday-february-13-2026-110008349.html",
       "source": "finance.yahoo.com",
@@ -135,249 +378,6 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/___pOPSKzgB9WMqYppHlmg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/0ef34f60-1be6-11f0-a17f-e52542084249",
       "slug": "best-money-market-account-rates-today-february-13-2026-up-to-401-apy-return-4505246b",
       "orig_slug": "best-money-market-account-rates-today-february-13-2026-up-to-401-apy-return-4505246b"
-    },
-    {
-      "title": "American Well (AMWL) Q4 2025 Earnings Transcript",
-      "link": "https://finance.yahoo.com/news/american-well-amwl-q4-2025-233144056.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-12T23:31:44Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
-      "slug": "american-well-amwl-q4-2025-earnings-transcript-3c974483",
-      "orig_slug": "american-well-amwl-q4-2025-earnings-transcript-3c974483"
-    },
-    {
-      "title": "Best high-yield savings interest rates today, February 13, 2026 (up to 4% APY return)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-friday-february-13-2026-110028590.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-13T11:00:28Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/zkP71JMsVlcuMMr4TYwHfg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/822c7220-4eb6-11ef-afbf-4972cf7de987",
-      "slug": "best-high-yield-savings-interest-rates-today-february-13-2026-up-to-4-apy-return-fe1b727b",
-      "orig_slug": "best-high-yield-savings-interest-rates-today-february-13-2026-up-to-4-apy-return-fe1b727b"
-    },
-    {
-      "title": "Best CD rates today, February 13, 2026 (up to 4% APY return)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-february-13-2026-110041250.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-13T11:00:41Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/jh7QT_uSJ4u1MJbMoh5tSw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47b17e2-4f64-11ef-afbf-1041709cf169",
-      "slug": "best-cd-rates-today-february-13-2026-up-to-4-apy-return-386b54b7",
-      "orig_slug": "best-cd-rates-today-february-13-2026-up-to-4-apy-return-386b54b7"
-    },
-    {
-      "title": "Mortgage and refinance interest rates today, February 13, 2026: Low rates and new home discounts entice buyers",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-friday-february-13-2026-110051214.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-13T11:00:51Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/pkSpSwDGDZC8Ol_scXouEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/c36fbdb0-0289-11ef-be8f-4e0451f1fa09",
-      "slug": "mortgage-and-refinance-interest-rates-today-february-13-2026-low-rates-and-new-h-8eb4eede",
-      "orig_slug": "mortgage-and-refinance-interest-rates-today-february-13-2026-low-rates-and-new-h-8eb4eede"
-    },
-    {
-      "title": "More couples are ditching joint bank accounts, and experts see a benefit",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/more-couples-are-ditching-joint-bank-accounts-and-experts-see-a-benefit-192326210.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-10T19:23:26Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/DAgTfqOYIvbne4Hzh3P97g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/a1339b00-1b9b-11f0-9ffa-4d0d877e4f27",
-      "slug": "more-couples-are-ditching-joint-bank-accounts-and-experts-see-a-benefit-8e51b0d8",
-      "orig_slug": "more-couples-are-ditching-joint-bank-accounts-and-experts-see-a-benefit-8e51b0d8"
-    },
-    {
-      "title": "Nu Skin (NUS) Q4 2025 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/news/nu-skin-nus-q4-2025-232707417.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-12T23:27:07Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
-      "slug": "nu-skin-nus-q4-2025-earnings-call-transcript-11b37b1a",
-      "orig_slug": "nu-skin-nus-q4-2025-earnings-call-transcript-11b37b1a"
-    },
-    {
-      "title": "Mortgage rates dip back down to near 3-year lows",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-thursday-february-12-2026-110016941.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-12T11:00:16Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/LZyRAYdOMaFDtPYPe825ig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/dc148220-0830-11f1-b3ff-352eda253c98",
-      "slug": "mortgage-rates-dip-back-down-to-near-3-year-lows-e20f2a38",
-      "orig_slug": "mortgage-rates-dip-back-down-to-near-3-year-lows-e20f2a38"
-    },
-    {
-      "title": "How to apply for federal student loans: Compare the different types, loan limits, and more",
-      "link": "https://finance.yahoo.com/personal-finance/student-loans/article/how-to-apply-for-federal-student-loans-203505397.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2023-12-15T23:07:44Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/lAiK1LOAm0OPVaq4IuNzcg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-10/5a8f40c0-9ceb-11ef-9bc9-a794f3933720",
-      "slug": "how-to-apply-for-federal-student-loans-compare-the-different-types-loan-limits-a-7d223d6b",
-      "orig_slug": "how-to-apply-for-federal-student-loans-compare-the-different-types-loan-limits-a-7d223d6b"
-    },
-    {
-      "title": "Gold price today, Friday, February 13: Gold opens below $5,000",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-friday-february-13-gold-opens-below-5000-122249499.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-09T12:22:49Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/aWaWnIbi5BX_E1GSCU8txA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/3e495ec0-b0cf-11f0-9eff-b6d8878d384d",
-      "slug": "gold-price-today-friday-february-13-gold-opens-below-5000-cad824b5",
-      "orig_slug": "gold-price-today-friday-february-13-gold-opens-below-5000-cad824b5"
-    },
-    {
-      "title": "Where’s my tax refund? Here's how to check your refund status.",
-      "link": "https://finance.yahoo.com/personal-finance/taxes/article/wheres-my-tax-refund-heres-how-to-check-your-refund-status-223701458.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-01-28T22:37:01Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/blBv_bnBURrRnXKUY_TdoQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NjM-/https://s.yimg.com/os/creatr-images/2020-04/dde01370-7809-11ea-bdbe-a5672d1aca9e",
-      "slug": "wheres-my-tax-refund-heres-how-to-check-your-refund-status-59517488",
-      "orig_slug": "wheres-my-tax-refund-heres-how-to-check-your-refund-status-59517488"
-    },
-    {
-      "title": "Bio-Rad (BIO) Q4 2025 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/news/bio-rad-bio-q4-2025-232750206.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-12T23:27:50Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
-      "slug": "bio-rad-bio-q4-2025-earnings-call-transcript-e7a65b19",
-      "orig_slug": "bio-rad-bio-q4-2025-earnings-call-transcript-e7a65b19"
-    },
-    {
-      "title": "How does inflation affect mortgage rates? What to expect as January core CPI meets expectations",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/how-does-inflation-affect-mortgage-rates-what-to-expect-as-january-core-cpi-meets-expectations-173028149.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2024-09-06T17:30:28Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/LHw4757e178iRmhHEJ.p1w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-08/45ee15f0-6bd2-11ef-beee-bd329775215e",
-      "slug": "how-does-inflation-affect-mortgage-rates-what-to-expect-as-january-core-cpi-meet-82d7877c",
-      "orig_slug": "how-does-inflation-affect-mortgage-rates-what-to-expect-as-january-core-cpi-meet-82d7877c"
-    },
-    {
-      "title": "Personal loan deferment: How to temporarily pause your payments",
-      "link": "https://finance.yahoo.com/personal-finance/personal-loans/article/personal-loan-deferment-144540238.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-12T14:45:40Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/V7fD2QhPRoH0mik05ffc0Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/5bb9f710-079d-11f1-bff2-66989bffa13d",
-      "slug": "personal-loan-deferment-how-to-temporarily-pause-your-payments-6daba23a",
-      "orig_slug": "personal-loan-deferment-how-to-temporarily-pause-your-payments-6daba23a"
-    },
-    {
-      "title": "Rates are inching lower. When will mortgage rates finally go back down to 6%?",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/when-will-mortgage-rates-go-down-to-6-195022219.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-06-24T19:50:22Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/wfMjMNaCFt.DN9C1pOnKMw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/637404f0-f1b0-11ee-a7ff-1ba850cb7e1d",
-      "slug": "rates-are-inching-lower-when-will-mortgage-rates-finally-go-back-down-to-6-83f5c064",
-      "orig_slug": "rates-are-inching-lower-when-will-mortgage-rates-finally-go-back-down-to-6-83f5c064"
-    },
-    {
-      "title": "What is annual percentage yield (APY)?",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/what-is-apy-162151577.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2023-12-15T22:26:11Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/O2L1O08cCF5nh6MxQMctMw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/f2906720-0174-11f1-b27e-8698194b4c30",
-      "slug": "what-is-annual-percentage-yield-apy-de4163cb",
-      "orig_slug": "what-is-annual-percentage-yield-apy-de4163cb"
-    },
-    {
-      "title": "What happens when a stock splits in the Dow Jones Industrial Average?",
-      "link": "https://finance.yahoo.com/news/happens-stock-splits-dow-jones-233220969.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-12T23:32:20Z",
-      "image": "https://s.yimg.com/os/en/thestreet_881/97c1064485b39857e2c46daacaaa3d30",
-      "slug": "what-happens-when-a-stock-splits-in-the-dow-jones-industrial-average-207939ac",
-      "orig_slug": "what-happens-when-a-stock-splits-in-the-dow-jones-industrial-average-207939ac"
-    },
-    {
-      "title": "8 financial questions to ask your partner before considering marriage",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/financial-questions-to-ask-your-partner-before-marriage-140026149.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-12T14:00:26Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/5OtYfTI3qPGBiMiIR8M3Ww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/75ac86b0-fe38-11f0-bfef-f55be5874d00",
-      "slug": "8-financial-questions-to-ask-your-partner-before-considering-marriage-cb225022",
-      "orig_slug": "8-financial-questions-to-ask-your-partner-before-considering-marriage-cb225022"
-    },
-    {
-      "title": "Credit counseling vs. debt settlement: What to know to start your debt payoff",
-      "link": "https://finance.yahoo.com/personal-finance/personal-loans/article/credit-counseling-vs-debt-settlement-151706017.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-13T15:17:06Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/jUveHtMhCGhMWMomXRTqHg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2025-11/0752b535-f399-420b-91cc-f36f2f79bfce",
-      "slug": "credit-counseling-vs-debt-settlement-what-to-know-to-start-your-debt-payoff-c7af3898",
-      "orig_slug": "credit-counseling-vs-debt-settlement-what-to-know-to-start-your-debt-payoff-c7af3898"
-    },
-    {
-      "title": "Why is my tax refund taking so long?",
-      "link": "https://finance.yahoo.com/personal-finance/taxes/article/why-is-my-tax-refund-taking-so-long-221153877.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-04-11T22:11:53Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/LuJIhIjRpu1WtocZisGxJg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-02/53447610-ec27-11ef-9bff-9b4c9e448f38",
-      "slug": "why-is-my-tax-refund-taking-so-long-3f35b21e",
-      "orig_slug": "why-is-my-tax-refund-taking-so-long-3f35b21e"
-    },
-    {
-      "title": "Marginal vs. effective tax rate: What’s the difference?",
-      "link": "https://finance.yahoo.com/personal-finance/taxes/article/marginal-vs-effective-tax-rate-204204231.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2024-03-07T20:42:04Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/VlYD_73REUswmLujaED7fA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-10/89f8ded0-540d-11ed-b97a-4c0eb3074175",
-      "slug": "marginal-vs-effective-tax-rate-whats-the-difference-0dc7ea4e",
-      "orig_slug": "marginal-vs-effective-tax-rate-whats-the-difference-0dc7ea4e"
-    },
-    {
-      "title": "2 Top Overlooked EV Stocks to Buy in 2026",
-      "link": "https://finance.yahoo.com/news/2-top-overlooked-ev-stocks-232500362.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-12T23:25:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/d44da0f1bac948756d225902118f5d47",
-      "slug": "2-top-overlooked-ev-stocks-to-buy-in-2026-ca17fbcb",
-      "orig_slug": "2-top-overlooked-ev-stocks-to-buy-in-2026-ca17fbcb"
-    },
-    {
-      "title": "PNC Bank mortgage review 2026",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/review/pnc-bank-mortgage-review-232131493.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2024-03-26T23:21:31Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/N50BBCn8OrLB66NZ5ED5Ew--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTc-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/d39b5b10-ebc6-11ee-b2f9-4f121041778f",
-      "slug": "pnc-bank-mortgage-review-2026-fd3f8387",
-      "orig_slug": "pnc-bank-mortgage-review-2026-fd3f8387"
-    },
-    {
-      "title": "Best car insurance coverage 2026",
-      "link": "https://finance.yahoo.com/personal-finance/insurance/article/best-car-insurance-coverage-204743499.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-13T20:47:43Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/9LVtWe6GAWETsT40VNgdRA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODU-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/52d21960-0915-11f1-9f9f-200bd9e289f7",
-      "slug": "best-car-insurance-coverage-2026-bf60b41b",
-      "orig_slug": "best-car-insurance-coverage-2026-bf60b41b"
-    },
-    {
-      "title": "Best pet insurance discounts 2026",
-      "link": "https://finance.yahoo.com/personal-finance/insurance/article/best-pet-insurance-discounts-220802394.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-11T22:08:02Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/n40aLemw_bt9XHMZWI1ICA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04OTA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/5691a440-0766-11f1-bfdd-0a1522dd251f",
-      "slug": "best-pet-insurance-discounts-2026-b11ae9b0",
-      "orig_slug": "best-pet-insurance-discounts-2026-b11ae9b0"
-    },
-    {
-      "title": "AVITA Medical (RCEL) Q4 2025 Earnings Transcript",
-      "link": "https://finance.yahoo.com/news/avita-medical-rcel-q4-2025-232339210.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-12T23:23:39Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
-      "slug": "avita-medical-rcel-q4-2025-earnings-transcript-b25cef4a",
-      "orig_slug": "avita-medical-rcel-q4-2025-earnings-transcript-b25cef4a"
-    },
-    {
-      "title": "Reinhart Partners Doubles Down on Skyward Stock With $38.6 Million Buy, According to Recent SEC Filing",
-      "link": "https://finance.yahoo.com/news/reinhart-partners-doubles-down-skyward-232546448.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-12T23:25:46Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/c8fdbaad0052ddeb52dc04acadae8795",
-      "slug": "reinhart-partners-doubles-down-on-skyward-stock-with-386-million-buy-according-t-55e356f3",
-      "orig_slug": "reinhart-partners-doubles-down-on-skyward-stock-with-386-million-buy-according-t-55e356f3"
-    },
-    {
-      "title": "Amid disappointing earnings, Pinterest claims it sees more searches than ChatGPT",
-      "link": "https://finance.yahoo.com/news/amid-disappointing-earnings-pinterest-claims-232656891.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-12T23:26:56Z",
-      "image": "https://media.zenfs.com/en/techcrunch_finance_785/cd5b810346a5a5f9c7adfcad5e6b7f6f",
-      "slug": "amid-disappointing-earnings-pinterest-claims-it-sees-more-searches-than-chatgpt-93c30952",
-      "orig_slug": "amid-disappointing-earnings-pinterest-claims-it-sees-more-searches-than-chatgpt-93c30952"
     }
   ]
 }
