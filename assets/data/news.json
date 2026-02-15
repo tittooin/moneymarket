@@ -1,194 +1,14 @@
 {
-  "updated": "2026-02-15T07:32:31Z",
+  "updated": "2026-02-15T08:22:12Z",
   "items": [
     {
-      "title": "Westwood Holdings Group Q4 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/news/westwood-holdings-group-q4-earnings-231053033.html",
+      "title": "Ford CEO, Trump Officials Discussed China-US Carmaking JVs",
+      "link": "https://finance.yahoo.com/news/ford-ceo-trump-officials-discussed-224022105.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-13T23:10:53Z",
-      "image": "https://s.yimg.com/os/en/marketbeat_955/b9d70804e03fe9a4e09bcbfbf49b1fa1",
-      "slug": "westwood-holdings-group-q4-earnings-call-highlights-105d91c7",
-      "orig_slug": "westwood-holdings-group-q4-earnings-call-highlights-105d91c7"
-    },
-    {
-      "title": "Trump Could Reduce Steel And Aluminum Tariffs And These Stocks Are Responding",
-      "link": "https://www.investors.com/news/trump-steel-aluminum-tariffs-steel-stocks-respond/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-13T23:12:12Z",
-      "image": "",
-      "slug": "trump-could-reduce-steel-and-aluminum-tariffs-and-these-stocks-are-responding-27ff1ec2",
-      "orig_slug": "trump-could-reduce-steel-and-aluminum-tariffs-and-these-stocks-are-responding-27ff1ec2"
-    },
-    {
-      "title": "Warner Bros Discovery sees activist Sachem Head increase stake in Q4",
-      "link": "https://finance.yahoo.com/news/warner-bros-discovery-sees-activist-231241039.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-13T23:12:41Z",
-      "image": "https://s.yimg.com/os/en/reuters-finance.com/c2065ebe0bd032a21be9a418200e311f",
-      "slug": "warner-bros-discovery-sees-activist-sachem-head-increase-stake-in-q4-30227f87",
-      "orig_slug": "warner-bros-discovery-sees-activist-sachem-head-increase-stake-in-q4-30227f87"
-    },
-    {
-      "title": "Nvidia Partner Surges After Earnings Beat; Expects 'Momentum' To Continue In 2026",
-      "link": "https://www.investors.com/news/nvidia-partner-vertiv-earnings-momentum-continue-2026/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-13T23:08:01Z",
-      "image": "",
-      "slug": "nvidia-partner-surges-after-earnings-beat-expects-momentum-to-continue-in-2026-cbf45ce7",
-      "orig_slug": "nvidia-partner-surges-after-earnings-beat-expects-momentum-to-continue-in-2026-cbf45ce7"
-    },
-    {
-      "title": "Soybeans Close the Week with Weakness",
-      "link": "https://finance.yahoo.com/news/soybeans-close-week-weakness-231545008.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-13T23:15:45Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/fa7422837399be466c52b6a193877941",
-      "slug": "soybeans-close-the-week-with-weakness-c3a89638",
-      "orig_slug": "soybeans-close-the-week-with-weakness-c3a89638"
-    },
-    {
-      "title": "GM Stock Can Move Higher After a Strong Year, Says Analyst. Plus, Cloudflare, Vertiv, and More.",
-      "link": "https://www.barrons.com/articles/gm-stock-can-move-higher-after-a-strong-year-says-analyst-plus-cloudflare-vertiv-and-more-8e9c06f0?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-13T23:14:00Z",
-      "image": "",
-      "slug": "gm-stock-can-move-higher-after-a-strong-year-says-analyst-plus-cloudflare-vertiv-6638c720",
-      "orig_slug": "gm-stock-can-move-higher-after-a-strong-year-says-analyst-plus-cloudflare-vertiv-6638c720"
-    },
-    {
-      "title": "Corn Heads into the Long Weekend with Fractional Gains",
-      "link": "https://finance.yahoo.com/news/corn-heads-long-weekend-fractional-231545263.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-13T23:15:45Z",
-      "image": "https://s.yimg.com/os/en/barchart_com_477/950431373553badae2947831a65dbb8e",
-      "slug": "corn-heads-into-the-long-weekend-with-fractional-gains-d6255a70",
-      "orig_slug": "corn-heads-into-the-long-weekend-with-fractional-gains-d6255a70"
-    },
-    {
-      "title": "Cotton Slips Lower into the Long Weekend",
-      "link": "https://finance.yahoo.com/news/cotton-slips-lower-long-weekend-231545809.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-13T23:15:45Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/8a777302c923f4bdb68803b56fe59a3e",
-      "slug": "cotton-slips-lower-into-the-long-weekend-6b7c98a8",
-      "orig_slug": "cotton-slips-lower-into-the-long-weekend-6b7c98a8"
-    },
-    {
-      "title": "Cattle Close Mixed on Friday",
-      "link": "https://finance.yahoo.com/news/cattle-close-mixed-friday-231545496.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-13T23:15:45Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/2e9fe445852cefbb974f54acb20eee7d",
-      "slug": "cattle-close-mixed-on-friday-5775ef64",
-      "orig_slug": "cattle-close-mixed-on-friday-5775ef64"
-    },
-    {
-      "title": "Rivian Surges On Upgrades As Attention Turns To Its New Tesla Model Y Competitor",
-      "link": "https://www.investors.com/news/rivian-stock-upgrades-q4-earnings-attention-tesla-model-y-competitor/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-13T23:05:11Z",
-      "image": "",
-      "slug": "rivian-surges-on-upgrades-as-attention-turns-to-its-new-tesla-model-y-competitor-7023559e",
-      "orig_slug": "rivian-surges-on-upgrades-as-attention-turns-to-its-new-tesla-model-y-competitor-7023559e"
-    },
-    {
-      "title": "Los Angeles Sues American Industrial Partners Over Firetruck Rollup",
-      "link": "https://www.wsj.com/articles/los-angeles-sues-american-industrial-partners-over-firetruck-rollup-2c1cff54?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-13T23:14:00Z",
-      "image": "",
-      "slug": "los-angeles-sues-american-industrial-partners-over-firetruck-rollup-1f53084b",
-      "orig_slug": "los-angeles-sues-american-industrial-partners-over-firetruck-rollup-1f53084b"
-    },
-    {
-      "title": "Daily ETF Flows: VXUS Keeps Rolling",
-      "link": "https://finance.yahoo.com/news/daily-etf-flows-vxus-keeps-230005338.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-13T23:00:05Z",
-      "image": "https://s.yimg.com/os/en/indexuniverse.com/1d45f9488d95ad21b16acbe33a9dfed0",
-      "slug": "daily-etf-flows-vxus-keeps-rolling-6c04e410",
-      "orig_slug": "daily-etf-flows-vxus-keeps-rolling-6c04e410"
-    },
-    {
-      "title": "Exclusive-US refiner Valero to import up to 6.5 million barrels of Venezuelan crude in March, sources say",
-      "link": "https://finance.yahoo.com/news/exclusive-us-refiner-valero-import-234051624.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-13T23:40:51Z",
-      "image": "https://s.yimg.com/os/en/reuters.com/485f0d1642af7becee9cfb48ccc7e328",
-      "slug": "exclusive-us-refiner-valero-to-import-up-to-65-million-barrels-of-venezuelan-cru-fa920fdb",
-      "orig_slug": "exclusive-us-refiner-valero-to-import-up-to-65-million-barrels-of-venezuelan-cru-fa920fdb"
-    },
-    {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq gains fizzle to cap week of sharp losses as AI fears grow",
-      "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-gains-fizzle-to-cap-week-of-sharp-losses-as-ai-fears-grow-210219798.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-13T21:02:19Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/LchcxayaMVLXX93lDUrJeg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/40e6efd0-086d-11f1-9fff-3cafbee71fec",
-      "slug": "stock-market-today-dow-sp-500-nasdaq-gains-fizzle-to-cap-week-of-sharp-losses-as-4e8b7f3c",
-      "orig_slug": "stock-market-today-dow-sp-500-nasdaq-gains-fizzle-to-cap-week-of-sharp-losses-as-4e8b7f3c"
-    },
-    {
-      "title": "Walmart Stock Delivers Returns By Riding Change. This Investor Explains How.",
-      "link": "https://www.investors.com/news/walmart-stock-in-profit-zone-boosted-by-technology/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-13T22:28:22Z",
-      "image": "",
-      "slug": "walmart-stock-delivers-returns-by-riding-change-this-investor-explains-how-a9f1f7da",
-      "orig_slug": "walmart-stock-delivers-returns-by-riding-change-this-investor-explains-how-a9f1f7da"
-    },
-    {
-      "title": "BofA revamps Applied Materials stock price target after CEO message",
-      "link": "https://finance.yahoo.com/news/bofa-revamps-applied-materials-stock-230700596.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-13T23:07:00Z",
-      "image": "https://s.yimg.com/os/en/thestreet_881/1538366111790fd2f3f58053b593cfa2",
-      "slug": "bofa-revamps-applied-materials-stock-price-target-after-ceo-message-6adc472a",
-      "orig_slug": "bofa-revamps-applied-materials-stock-price-target-after-ceo-message-6adc472a"
-    },
-    {
-      "title": "3 Highest-yielding Dividend Aristocrats That'll Pay You For Generations",
-      "link": "https://finance.yahoo.com/news/3-highest-yielding-dividend-aristocrats-000002470.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-14T00:00:02Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/d3b0735997823ab2c69af690f505d319",
-      "slug": "3-highest-yielding-dividend-aristocrats-thatll-pay-you-for-generations-72317e00",
-      "orig_slug": "3-highest-yielding-dividend-aristocrats-thatll-pay-you-for-generations-72317e00"
-    },
-    {
-      "title": "Earnings live: Walmart, DoorDash, eBay set to headline week of Feb. 16",
-      "link": "https://finance.yahoo.com/news/live/earnings-live-walmart-doordash-ebay-set-to-headline-week-of-feb-16-131119172.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-12T13:11:19Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/Xh3CbGHVTHEeXfRqgWvOvg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/9c8aa090-0915-11f1-b7df-43043a1fe416",
-      "slug": "earnings-live-walmart-doordash-ebay-set-to-headline-week-of-feb-16-ea91c455",
-      "orig_slug": "earnings-live-walmart-doordash-ebay-set-to-headline-week-of-feb-16-ea91c455"
-    },
-    {
-      "title": "Paramount taps ex-Trump official as public policy VP amid Warner Bros bid",
-      "link": "https://finance.yahoo.com/news/paramount-taps-ex-trump-official-221159445.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-13T22:11:59Z",
-      "image": "https://s.yimg.com/os/en/reuters.com/27d8cfa976408b8bce968eb37b06393a",
-      "slug": "paramount-taps-ex-trump-official-as-public-policy-vp-amid-warner-bros-bid-c0048193",
-      "orig_slug": "paramount-taps-ex-trump-official-as-public-policy-vp-amid-warner-bros-bid-c0048193"
-    },
-    {
-      "title": "TL carrier Pamt posts Q4 loss",
-      "link": "https://finance.yahoo.com/news/tl-carrier-pamt-corp-posts-221105658.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-13T22:11:05Z",
-      "image": "https://media.zenfs.com/en/freightwaves_373/9610b1bdcc3c0e2639dd2923732bebc5",
-      "slug": "tl-carrier-pamt-posts-q4-loss-69411a32",
-      "orig_slug": "tl-carrier-pamt-posts-q4-loss-69411a32"
-    },
-    {
-      "title": "Why Instacart Stock Jumped Today",
-      "link": "https://finance.yahoo.com/news/why-instacart-stock-jumped-today-230606240.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-13T23:06:06Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/edaf8dc73c01f7f44daf1e7e43b10b77",
-      "slug": "why-instacart-stock-jumped-today-7da7dc68",
-      "orig_slug": "why-instacart-stock-jumped-today-7da7dc68"
+      "pubDate": "2026-02-14T02:55:57Z",
+      "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/a4f73c5e3dab67b5bf57229188d0724f",
+      "slug": "ford-ceo-trump-officials-discussed-china-us-carmaking-jvs-786179de",
+      "orig_slug": "ford-ceo-trump-officials-discussed-china-us-carmaking-jvs-786179de"
     },
     {
       "title": "Procore (PCOR) Climbs 9.3% on Stellar Earnings, Double-Digit Growth Outlook",
@@ -198,15 +18,6 @@
       "image": "https://s.yimg.com/os/en/insidermonkey.com/48cead1750a7edf7284f8bce71d1f82f",
       "slug": "procore-pcor-climbs-93-on-stellar-earnings-double-digit-growth-outlook-fbe1fe47",
       "orig_slug": "procore-pcor-climbs-93-on-stellar-earnings-double-digit-growth-outlook-fbe1fe47"
-    },
-    {
-      "title": "Stock Market Today: Dow Ends Choppy Session Higher, Nasdaq Slips; Travel Name Falls Again (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-cpi-inflation-report-draftkings-dkng/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-13T21:58:08Z",
-      "image": "",
-      "slug": "stock-market-today-dow-ends-choppy-session-higher-nasdaq-slips-travel-name-falls-31b6bcc4",
-      "orig_slug": "stock-market-today-dow-ends-choppy-session-higher-nasdaq-slips-travel-name-falls-31b6bcc4"
     },
     {
       "title": "H&R Block (HRB) Climbs 9.56% on Bargain-Hunting Ahead of Dividends",
@@ -227,24 +38,6 @@
       "orig_slug": "solaris-energy-sei-climbs-to-all-time-high-on-newly-bagged-deal-d0fdab1d"
     },
     {
-      "title": "Here’s What the Big Bank CEOs Got Paid in 2025",
-      "link": "https://www.wsj.com/finance/banking/heres-what-the-big-bank-ceos-got-paid-in-2025-ba0c4ceb?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-13T23:06:00Z",
-      "image": "",
-      "slug": "heres-what-the-big-bank-ceos-got-paid-in-2025-9d9f8254",
-      "orig_slug": "heres-what-the-big-bank-ceos-got-paid-in-2025-9d9f8254"
-    },
-    {
-      "title": "Experian launches savings account for its members",
-      "link": "https://finance.yahoo.com/news/experian-launches-savings-account-members-215324706.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-13T21:53:24Z",
-      "image": "https://media.zenfs.com/en/bankrate_626/f152fad09f5abe9078e366dff49e0da5",
-      "slug": "experian-launches-savings-account-for-its-members-e84704f5",
-      "orig_slug": "experian-launches-savings-account-for-its-members-e84704f5"
-    },
-    {
       "title": "Fermi (FRMI) Soars 11% as 11-GW Project Moves Forward",
       "link": "https://finance.yahoo.com/news/fermi-frmi-soars-11-11-040713341.html",
       "source": "finance.yahoo.com",
@@ -252,6 +45,15 @@
       "image": "https://s.yimg.com/os/en/insidermonkey.com/ba5b1ba630301ecaedd8c45c8515a4a1",
       "slug": "fermi-frmi-soars-11-as-11-gw-project-moves-forward-4ce5786f",
       "orig_slug": "fermi-frmi-soars-11-as-11-gw-project-moves-forward-4ce5786f"
+    },
+    {
+      "title": "3 Things Every Bitcoin Investor Needs to Know",
+      "link": "https://finance.yahoo.com/news/3-things-every-bitcoin-investor-030500063.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-14T03:05:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/2c4d19f1082dc91aaa6edac95f02b0f2",
+      "slug": "3-things-every-bitcoin-investor-needs-to-know-a98d4918",
+      "orig_slug": "3-things-every-bitcoin-investor-needs-to-know-a98d4918"
     },
     {
       "title": "Fastly (FSLY) Climbs to 2-Year High on Earnings Blowout, Double-Digit Growth Targets",
@@ -263,24 +65,6 @@
       "orig_slug": "fastly-fsly-climbs-to-2-year-high-on-earnings-blowout-double-digit-growth-target-42a968b9"
     },
     {
-      "title": "How A Value Play Like Costco Stock Became A Swing Trade",
-      "link": "https://www.investors.com/research/swing-trading/costco-stock-became-a-swing-trade/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-13T21:49:19Z",
-      "image": "",
-      "slug": "how-a-value-play-like-costco-stock-became-a-swing-trade-0f6ed374",
-      "orig_slug": "how-a-value-play-like-costco-stock-became-a-swing-trade-0f6ed374"
-    },
-    {
-      "title": "US inflation slows as retail sales post fourth monthly rise",
-      "link": "https://finance.yahoo.com/news/us-inflation-slows-retail-sales-231618385.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-13T23:16:18Z",
-      "image": "https://s.yimg.com/os/en/retail_insight_network_724/3960643496d657e71f099d2ac5d5ad5d",
-      "slug": "us-inflation-slows-as-retail-sales-post-fourth-monthly-rise-6229cd42",
-      "orig_slug": "us-inflation-slows-as-retail-sales-post-fourth-monthly-rise-6229cd42"
-    },
-    {
       "title": "ICON PLC (ICON) Soars 16% as Analyst Issues ‘Hold’, $93 PT Despite Accounting Concerns",
       "link": "https://finance.yahoo.com/news/icon-plc-icon-soars-16-042532995.html",
       "source": "finance.yahoo.com",
@@ -290,94 +74,310 @@
       "orig_slug": "icon-plc-icon-soars-16-as-analyst-issues-hold-93-pt-despite-accounting-concerns-73626239"
     },
     {
-      "title": "PNC Bank mortgage review 2026",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/review/pnc-bank-mortgage-review-232131493.html",
+      "title": "Coinbase Global (COIN) Climbs 16% as 7 Analysts Issue ‘Buy’ Reco",
+      "link": "https://finance.yahoo.com/news/coinbase-global-coin-climbs-16-043025524.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2024-03-26T23:21:31Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/N50BBCn8OrLB66NZ5ED5Ew--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTc-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/d39b5b10-ebc6-11ee-b2f9-4f121041778f",
-      "slug": "pnc-bank-mortgage-review-2026-fd3f8387",
-      "orig_slug": "pnc-bank-mortgage-review-2026-fd3f8387"
+      "pubDate": "2026-02-14T04:30:25Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/31fa832f5065049af550c1e31c6b1026",
+      "slug": "coinbase-global-coin-climbs-16-as-7-analysts-issue-buy-reco-0a928f30",
+      "orig_slug": "coinbase-global-coin-climbs-16-as-7-analysts-issue-buy-reco-0a928f30"
     },
     {
-      "title": "Best car insurance coverage 2026",
-      "link": "https://finance.yahoo.com/personal-finance/insurance/article/best-car-insurance-coverage-204743499.html",
+      "title": "Magna International (MGA) Soars to 4-Year High on Revenue Blowout, Buyback",
+      "link": "https://finance.yahoo.com/news/magna-international-mga-soars-4-043404623.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-13T20:47:43Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/9LVtWe6GAWETsT40VNgdRA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODU-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/52d21960-0915-11f1-9f9f-200bd9e289f7",
-      "slug": "best-car-insurance-coverage-2026-bf60b41b",
-      "orig_slug": "best-car-insurance-coverage-2026-bf60b41b"
+      "pubDate": "2026-02-14T04:34:04Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/cbc2b071863ad0fb5e632aace4f49804",
+      "slug": "magna-international-mga-soars-to-4-year-high-on-revenue-blowout-buyback-84770399",
+      "orig_slug": "magna-international-mga-soars-to-4-year-high-on-revenue-blowout-buyback-84770399"
     },
     {
-      "title": "HELOC and home equity loan rates Saturday, February 14, 2026: Clinging near 1-year lows",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-saturday-february-14-2026-110010169.html",
+      "title": "What Is One of the Best Tech Stocks to Own for the Next 10 Years?",
+      "link": "https://finance.yahoo.com/news/one-best-tech-stocks-own-022300597.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-14T11:00:10Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/DEYBT6nBXCugfeps8WOPog--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/dc14d470-3ff7-11f0-8ff7-510b29e3a941",
-      "slug": "heloc-and-home-equity-loan-rates-saturday-february-14-2026-clinging-near-1-year--ee147590",
-      "orig_slug": "heloc-and-home-equity-loan-rates-saturday-february-14-2026-clinging-near-1-year--ee147590"
+      "pubDate": "2026-02-14T02:23:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/659bad4979a69e2a8f697c70a389d4fe",
+      "slug": "what-is-one-of-the-best-tech-stocks-to-own-for-the-next-10-years-e83e425a",
+      "orig_slug": "what-is-one-of-the-best-tech-stocks-to-own-for-the-next-10-years-e83e425a"
     },
     {
-      "title": "Where Will Sandisk Stock Be in 3 Years?",
-      "link": "https://finance.yahoo.com/news/where-sandisk-stock-3-years-230500077.html",
+      "title": "Rivian Automotive (RIVN) Climbs 26.6% on PT Hike",
+      "link": "https://finance.yahoo.com/news/rivian-automotive-rivn-climbs-26-043806415.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-13T23:05:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/15d0c5d518927129fb8dc3fea3afb350",
-      "slug": "where-will-sandisk-stock-be-in-3-years-063a0d8f",
-      "orig_slug": "where-will-sandisk-stock-be-in-3-years-063a0d8f"
+      "pubDate": "2026-02-14T04:38:06Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/2c64b0a64df80adb57ffcebfcbc9cd4d",
+      "slug": "rivian-automotive-rivn-climbs-266-on-pt-hike-b5ee6a1d",
+      "orig_slug": "rivian-automotive-rivn-climbs-266-on-pt-hike-b5ee6a1d"
     },
     {
-      "title": "Best money market account rates today, February 14, 2026 (best account provides 4.01% APY)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-saturday-february-14-2026-110030120.html",
+      "title": "Tri Pointe Homes (TPH) Soars to All-Time High on $4.5-Billion Sumitomo Merger",
+      "link": "https://finance.yahoo.com/news/tri-pointe-homes-tph-soars-044053632.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-14T11:00:30Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/W0IqMRID_AsrQoqbpHUG1A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/678943f0-1cdb-11f0-bfb7-b3f563b0ea90",
-      "slug": "best-money-market-account-rates-today-february-14-2026-best-account-provides-401-624898b4",
-      "orig_slug": "best-money-market-account-rates-today-february-14-2026-best-account-provides-401-624898b4"
+      "pubDate": "2026-02-14T04:40:53Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/c06ee802f48593f141eeca675e9f99fd",
+      "slug": "tri-pointe-homes-tph-soars-to-all-time-high-on-45-billion-sumitomo-merger-74f73298",
+      "orig_slug": "tri-pointe-homes-tph-soars-to-all-time-high-on-45-billion-sumitomo-merger-74f73298"
     },
     {
-      "title": "Mortgage and refinance interest rates today, February 14, 2026: 5.85% is the lowest rate we've seen in years",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-saturday-february-14-2026-110047931.html",
+      "title": "Exclusive-US refiner Valero to import up to 6.5 million barrels of Venezuelan crude in March, sources say",
+      "link": "https://finance.yahoo.com/news/exclusive-us-refiner-valero-import-234051624.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-14T11:00:47Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/fK9okicBoD2VGZ7E4.6v7w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/86ef4c20-03dd-11ef-b7af-5ddf7b57fe6e",
-      "slug": "mortgage-and-refinance-interest-rates-today-february-14-2026-585-is-the-lowest-r-72df96b5",
-      "orig_slug": "mortgage-and-refinance-interest-rates-today-february-14-2026-585-is-the-lowest-r-72df96b5"
+      "pubDate": "2026-02-13T23:40:51Z",
+      "image": "https://s.yimg.com/os/en/reuters.com/485f0d1642af7becee9cfb48ccc7e328",
+      "slug": "exclusive-us-refiner-valero-to-import-up-to-65-million-barrels-of-venezuelan-cru-fa920fdb",
+      "orig_slug": "exclusive-us-refiner-valero-to-import-up-to-65-million-barrels-of-venezuelan-cru-fa920fdb"
     },
     {
-      "title": "Best CD rates today, February 14, 2026 (best account provides 4% APY)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-february-14-2026-110045248.html",
+      "title": "3 Highest-yielding Dividend Aristocrats That'll Pay You For Generations",
+      "link": "https://finance.yahoo.com/news/3-highest-yielding-dividend-aristocrats-000002470.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-14T11:00:45Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/ovrcHtWjuWeW708CWElIWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47af0d0-4f64-11ef-a7fe-afb55aa695d3",
-      "slug": "best-cd-rates-today-february-14-2026-best-account-provides-4-apy-27448eff",
-      "orig_slug": "best-cd-rates-today-february-14-2026-best-account-provides-4-apy-27448eff"
+      "pubDate": "2026-02-14T00:00:02Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/d3b0735997823ab2c69af690f505d319",
+      "slug": "3-highest-yielding-dividend-aristocrats-thatll-pay-you-for-generations-72317e00",
+      "orig_slug": "3-highest-yielding-dividend-aristocrats-thatll-pay-you-for-generations-72317e00"
     },
     {
-      "title": "Best high-yield savings interest rates today, February 14, 2026 (Earn up to 4% APY)",
-      "link": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-saturday-february-14-2026-110100465.html",
+      "title": "'XRP Is The North Star,' Says Ripple CEO After $4B In Acquisitions In 2025",
+      "link": "https://finance.yahoo.com/news/xrp-north-star-says-ripple-033145036.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-14T11:01:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/aRDcY28ieSeI9vEdf5zsPA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/ca22a990-4b79-11ef-bb75-05cc1913c137",
-      "slug": "best-high-yield-savings-interest-rates-today-february-14-2026-earn-up-to-4-apy-5e163e30",
-      "orig_slug": "best-high-yield-savings-interest-rates-today-february-14-2026-earn-up-to-4-apy-5e163e30"
+      "pubDate": "2026-02-14T03:31:45Z",
+      "image": "https://s.yimg.com/os/en/benzinga_79/12e991bc78af9e218957e0ec64786f04",
+      "slug": "xrp-is-the-north-star-says-ripple-ceo-after-4b-in-acquisitions-in-2025-e96a34a5",
+      "orig_slug": "xrp-is-the-north-star-says-ripple-ceo-after-4b-in-acquisitions-in-2025-e96a34a5"
     },
     {
-      "title": "Renaissance Loads Up on Netflix, Lam Research, ServiceNow — Smart Money Signals Shift",
-      "link": "https://finance.yahoo.com/news/renaissance-loads-netflix-lam-research-230112432.html",
+      "title": "Corn Heads into the Long Weekend with Fractional Gains",
+      "link": "https://finance.yahoo.com/news/corn-heads-long-weekend-fractional-231545263.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-13T23:01:12Z",
-      "image": "https://s.yimg.com/os/en/Benzinga/6daeed12f81b7aae6ff6362057712494",
-      "slug": "renaissance-loads-up-on-netflix-lam-research-servicenow-smart-money-signals-shif-20c5a847",
-      "orig_slug": "renaissance-loads-up-on-netflix-lam-research-servicenow-smart-money-signals-shif-20c5a847"
+      "pubDate": "2026-02-13T23:15:45Z",
+      "image": "https://s.yimg.com/os/en/barchart_com_477/950431373553badae2947831a65dbb8e",
+      "slug": "corn-heads-into-the-long-weekend-with-fractional-gains-d6255a70",
+      "orig_slug": "corn-heads-into-the-long-weekend-with-fractional-gains-d6255a70"
     },
     {
-      "title": "Marginal vs. effective tax rate: What’s the difference?",
-      "link": "https://finance.yahoo.com/personal-finance/taxes/article/marginal-vs-effective-tax-rate-204204231.html",
+      "title": "Soybeans Close the Week with Weakness",
+      "link": "https://finance.yahoo.com/news/soybeans-close-week-weakness-231545008.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2024-03-07T20:42:04Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/VlYD_73REUswmLujaED7fA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-10/89f8ded0-540d-11ed-b97a-4c0eb3074175",
-      "slug": "marginal-vs-effective-tax-rate-whats-the-difference-0dc7ea4e",
-      "orig_slug": "marginal-vs-effective-tax-rate-whats-the-difference-0dc7ea4e"
+      "pubDate": "2026-02-13T23:15:45Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/fa7422837399be466c52b6a193877941",
+      "slug": "soybeans-close-the-week-with-weakness-c3a89638",
+      "orig_slug": "soybeans-close-the-week-with-weakness-c3a89638"
+    },
+    {
+      "title": "Cotton Slips Lower into the Long Weekend",
+      "link": "https://finance.yahoo.com/news/cotton-slips-lower-long-weekend-231545809.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-13T23:15:45Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/8a777302c923f4bdb68803b56fe59a3e",
+      "slug": "cotton-slips-lower-into-the-long-weekend-6b7c98a8",
+      "orig_slug": "cotton-slips-lower-into-the-long-weekend-6b7c98a8"
+    },
+    {
+      "title": "Cattle Close Mixed on Friday",
+      "link": "https://finance.yahoo.com/news/cattle-close-mixed-friday-231545496.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-13T23:15:45Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/2e9fe445852cefbb974f54acb20eee7d",
+      "slug": "cattle-close-mixed-on-friday-5775ef64",
+      "orig_slug": "cattle-close-mixed-on-friday-5775ef64"
+    },
+    {
+      "title": "Stellantis Has Stalled. The Stock Can Kick Into High Gear Again.",
+      "link": "https://www.barrons.com/articles/stellantis-stock-can-rise-again-buy-the-dip-345029ff?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-14T03:46:00Z",
+      "image": "",
+      "slug": "stellantis-has-stalled-the-stock-can-kick-into-high-gear-again-2ecd5fa2",
+      "orig_slug": "stellantis-has-stalled-the-stock-can-kick-into-high-gear-again-2ecd5fa2"
+    },
+    {
+      "title": "Warner Bros Discovery sees activist Sachem Head increase stake in Q4",
+      "link": "https://finance.yahoo.com/news/warner-bros-discovery-sees-activist-231241039.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-13T23:12:41Z",
+      "image": "https://s.yimg.com/os/en/reuters-finance.com/c2065ebe0bd032a21be9a418200e311f",
+      "slug": "warner-bros-discovery-sees-activist-sachem-head-increase-stake-in-q4-30227f87",
+      "orig_slug": "warner-bros-discovery-sees-activist-sachem-head-increase-stake-in-q4-30227f87"
+    },
+    {
+      "title": "Trump Could Reduce Steel And Aluminum Tariffs And These Stocks Are Responding",
+      "link": "https://www.investors.com/news/trump-steel-aluminum-tariffs-steel-stocks-respond/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-13T23:12:12Z",
+      "image": "",
+      "slug": "trump-could-reduce-steel-and-aluminum-tariffs-and-these-stocks-are-responding-27ff1ec2",
+      "orig_slug": "trump-could-reduce-steel-and-aluminum-tariffs-and-these-stocks-are-responding-27ff1ec2"
+    },
+    {
+      "title": "Nvidia Partner Surges After Earnings Beat; Expects 'Momentum' To Continue In 2026",
+      "link": "https://www.investors.com/news/nvidia-partner-vertiv-earnings-momentum-continue-2026/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-13T23:08:01Z",
+      "image": "",
+      "slug": "nvidia-partner-surges-after-earnings-beat-expects-momentum-to-continue-in-2026-cbf45ce7",
+      "orig_slug": "nvidia-partner-surges-after-earnings-beat-expects-momentum-to-continue-in-2026-cbf45ce7"
+    },
+    {
+      "title": "Rivian Surges On Upgrades As Attention Turns To Its New Tesla Model Y Competitor",
+      "link": "https://www.investors.com/news/rivian-stock-upgrades-q4-earnings-attention-tesla-model-y-competitor/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-13T23:05:11Z",
+      "image": "",
+      "slug": "rivian-surges-on-upgrades-as-attention-turns-to-its-new-tesla-model-y-competitor-7023559e",
+      "orig_slug": "rivian-surges-on-upgrades-as-attention-turns-to-its-new-tesla-model-y-competitor-7023559e"
+    },
+    {
+      "title": "Goldman Sachs resets PCE inflation target after CPI bombshell",
+      "link": "https://finance.yahoo.com/news/goldman-sachs-resets-pce-inflation-020300777.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-14T02:03:00Z",
+      "image": "https://s.yimg.com/os/en/thestreet_881/d9961fe25bcf2c8d8f38326bb961ec0a",
+      "slug": "goldman-sachs-resets-pce-inflation-target-after-cpi-bombshell-603d7e7d",
+      "orig_slug": "goldman-sachs-resets-pce-inflation-target-after-cpi-bombshell-603d7e7d"
+    },
+    {
+      "title": "Unity Software (U) PT Lowered to $37 by Citizens Following Mixed Q4 Results",
+      "link": "https://finance.yahoo.com/news/unity-software-u-pt-lowered-061914720.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-14T06:19:14Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/df2eab7c755989943819671f9a765ad7",
+      "slug": "unity-software-u-pt-lowered-to-37-by-citizens-following-mixed-q4-results-9474d6bb",
+      "orig_slug": "unity-software-u-pt-lowered-to-37-by-citizens-following-mixed-q4-results-9474d6bb"
+    },
+    {
+      "title": "AppLovin (APP) PT Lowered to $686 by UBS Following Strong Q4 2025 Performance, Axon 2.0 Results",
+      "link": "https://finance.yahoo.com/news/applovin-app-pt-lowered-686-061925608.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-14T06:19:25Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/25057720e13ffcfeddfe5ee3eaf6e0df",
+      "slug": "applovin-app-pt-lowered-to-686-by-ubs-following-strong-q4-2025-performance-axon--3b5cfc2a",
+      "orig_slug": "applovin-app-pt-lowered-to-686-by-ubs-following-strong-q4-2025-performance-axon--3b5cfc2a"
+    },
+    {
+      "title": "Flutter Entertainment (FLUT) PT Lowered to $300 by UBS Due to US Online Sports Betting Slowdown",
+      "link": "https://finance.yahoo.com/news/flutter-entertainment-flut-pt-lowered-062001550.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-14T06:20:01Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/a10d5d2d604b000781def8b72c3ad50b",
+      "slug": "flutter-entertainment-flut-pt-lowered-to-300-by-ubs-due-to-us-online-sports-bett-372a0e61",
+      "orig_slug": "flutter-entertainment-flut-pt-lowered-to-300-by-ubs-due-to-us-online-sports-bett-372a0e61"
+    },
+    {
+      "title": "Robinhood Markets (HOOD) PT Lowered to $124 by Barclays Following Q4 Revenue Miss",
+      "link": "https://finance.yahoo.com/news/robinhood-markets-hood-pt-lowered-061942484.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-14T06:19:42Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/d23f75d8315ff07df3ea43051cc16381",
+      "slug": "robinhood-markets-hood-pt-lowered-to-124-by-barclays-following-q4-revenue-miss-33ea6acc",
+      "orig_slug": "robinhood-markets-hood-pt-lowered-to-124-by-barclays-following-q4-revenue-miss-33ea6acc"
+    },
+    {
+      "title": "America Fell Out of Love With the Sedan. Detroit Wants to Bring It Back.",
+      "link": "https://www.wsj.com/business/autos/sedans-cars-trucks-detroit-afb034ee?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-14T02:00:00Z",
+      "image": "",
+      "slug": "america-fell-out-of-love-with-the-sedan-detroit-wants-to-bring-it-back-d5224b3d",
+      "orig_slug": "america-fell-out-of-love-with-the-sedan-detroit-wants-to-bring-it-back-d5224b3d"
+    },
+    {
+      "title": "Is Alnylam Pharmaceuticals (ALNY) One of the Best Upside Stocks to Invest In Right Now?",
+      "link": "https://finance.yahoo.com/news/alnylam-pharmaceuticals-alny-one-best-062100160.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-14T06:21:00Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/8bbc73de753c96f3d142f499a1cf53ed",
+      "slug": "is-alnylam-pharmaceuticals-alny-one-of-the-best-upside-stocks-to-invest-in-right-273f2aa8",
+      "orig_slug": "is-alnylam-pharmaceuticals-alny-one-of-the-best-upside-stocks-to-invest-in-right-273f2aa8"
+    },
+    {
+      "title": "DoorDash (DASH) PT Raised to $245 from $241 by UBS",
+      "link": "https://finance.yahoo.com/news/doordash-dash-pt-raised-245-062050437.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-14T06:20:50Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/9f62ef73309045926437d054cd5f2c21",
+      "slug": "doordash-dash-pt-raised-to-245-from-241-by-ubs-788a5551",
+      "orig_slug": "doordash-dash-pt-raised-to-245-from-241-by-ubs-788a5551"
+    },
+    {
+      "title": "Coupang (CPNG) Maintained at Buy With $24 PT",
+      "link": "https://finance.yahoo.com/news/coupang-cpng-maintained-buy-24-061951281.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-14T06:19:51Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/2da4ca6dfaf658306360a751ab4fab68",
+      "slug": "coupang-cpng-maintained-at-buy-with-24-pt-1cf07eff",
+      "orig_slug": "coupang-cpng-maintained-at-buy-with-24-pt-1cf07eff"
+    },
+    {
+      "title": "Lyft (LYFT) Maintained at Underperform by BofA With $17 PT Following After-Hours Decline",
+      "link": "https://finance.yahoo.com/news/lyft-lyft-maintained-underperform-bofa-062416937.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-14T06:24:16Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/2adac86bdbbc9185f4add49b61eeb641",
+      "slug": "lyft-lyft-maintained-at-underperform-by-bofa-with-17-pt-following-after-hours-de-a01ffbda",
+      "orig_slug": "lyft-lyft-maintained-at-underperform-by-bofa-with-17-pt-following-after-hours-de-a01ffbda"
+    },
+    {
+      "title": "China Deploys a ‘National Team’ of Investors to Keep AI Stock Boom in Check",
+      "link": "https://www.wsj.com/finance/stocks/china-deploys-a-national-team-of-investors-to-keep-ai-stock-boom-in-check-c3d9534a?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-14T04:00:00Z",
+      "image": "",
+      "slug": "china-deploys-a-national-team-of-investors-to-keep-ai-stock-boom-in-check-7f1ce3b3",
+      "orig_slug": "china-deploys-a-national-team-of-investors-to-keep-ai-stock-boom-in-check-7f1ce3b3"
+    },
+    {
+      "title": "Reddit (RDDT) PT Lowered to $245 by Citi Citing Market Volatility",
+      "link": "https://finance.yahoo.com/news/reddit-rddt-pt-lowered-245-062031896.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-14T06:20:31Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/0abf6fb98d1c949929c2fa3dc80854ab",
+      "slug": "reddit-rddt-pt-lowered-to-245-by-citi-citing-market-volatility-9a01fd9b",
+      "orig_slug": "reddit-rddt-pt-lowered-to-245-by-citi-citing-market-volatility-9a01fd9b"
+    },
+    {
+      "title": "Molina Healthcare (MOH) PT Lowered to $124 by Goldman Sachs Following Q4 Earnings Miss",
+      "link": "https://finance.yahoo.com/news/molina-healthcare-moh-pt-lowered-062427960.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-14T06:24:27Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/8229f77a1a0dd84e2a3cd42b17f3b128",
+      "slug": "molina-healthcare-moh-pt-lowered-to-124-by-goldman-sachs-following-q4-earnings-m-2758b6cb",
+      "orig_slug": "molina-healthcare-moh-pt-lowered-to-124-by-goldman-sachs-following-q4-earnings-m-2758b6cb"
+    },
+    {
+      "title": "Caesars Entertainment (CZR): JPMorgan Highlights Digital Segment for Earnings Potential Amid Gaming Sector Negativity",
+      "link": "https://finance.yahoo.com/news/caesars-entertainment-czr-jpmorgan-highlights-061934953.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-14T06:19:34Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/ab521673afc7a86b3dae0d3072f2ea62",
+      "slug": "caesars-entertainment-czr-jpmorgan-highlights-digital-segment-for-earnings-poten-b0cb67fd",
+      "orig_slug": "caesars-entertainment-czr-jpmorgan-highlights-digital-segment-for-earnings-poten-b0cb67fd"
+    },
+    {
+      "title": "KBR Inc. (KBR) Outlook Adjusted by Citi Highlighting Growth Potential in Data Center Expenditure",
+      "link": "https://finance.yahoo.com/news/kbr-inc-kbr-outlook-adjusted-062323326.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-14T06:23:23Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/e329d11e0abd22cf18047ece2f9be925",
+      "slug": "kbr-inc-kbr-outlook-adjusted-by-citi-highlighting-growth-potential-in-data-cente-b3c516a8",
+      "orig_slug": "kbr-inc-kbr-outlook-adjusted-by-citi-highlighting-growth-potential-in-data-cente-b3c516a8"
+    },
+    {
+      "title": "Should You Buy Alibaba Stock Before Feb. 19?",
+      "link": "https://finance.yahoo.com/news/buy-alibaba-stock-feb-19-015300690.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-14T01:53:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/fbfe8a4b3cd771b44da0ada5ff8d43d9",
+      "slug": "should-you-buy-alibaba-stock-before-feb-19-3ebde5c7",
+      "orig_slug": "should-you-buy-alibaba-stock-before-feb-19-3ebde5c7"
+    },
+    {
+      "title": "Coinbase Global (COIN ) PT Lowered to $350 by H.C. Wainwright Ahead of Q4 Earnings",
+      "link": "https://finance.yahoo.com/news/coinbase-global-coin-pt-lowered-062040236.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-14T06:20:40Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/8e5459615a85ebcb5921ad24a36fcd62",
+      "slug": "coinbase-global-coin-pt-lowered-to-350-by-hc-wainwright-ahead-of-q4-earnings-7da9db8b",
+      "orig_slug": "coinbase-global-coin-pt-lowered-to-350-by-hc-wainwright-ahead-of-q4-earnings-7da9db8b"
     }
   ]
 }
