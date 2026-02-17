@@ -1,14 +1,221 @@
 {
-  "updated": "2026-02-17T11:33:51Z",
+  "updated": "2026-02-17T12:38:47Z",
   "items": [
     {
-      "title": "Nvidia Earnings on Feb. 25: What History Tells Us About Nvidia Stock's Post-Earnings-Release Moves",
-      "link": "https://finance.yahoo.com/news/nvidia-earnings-feb-25-history-112000921.html",
+      "title": "ISO20022 migration: a new frontier of opportunity",
+      "link": "https://finance.yahoo.com/news/iso20022-migration-frontier-opportunity-122541696.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-17T11:20:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/48cae46c3e857604c9ae9d8b34113c82",
-      "slug": "nvidia-earnings-on-feb-25-what-history-tells-us-about-nvidia-stocks-post-earning-6cb56e0e",
-      "orig_slug": "nvidia-earnings-on-feb-25-what-history-tells-us-about-nvidia-stocks-post-earning-6cb56e0e"
+      "pubDate": "2026-02-17T12:25:41Z",
+      "image": "https://media.zenfs.com/en/electronic_payments_938/34e275ae8a3c30735f4ddd24d0a24288",
+      "slug": "iso20022-migration-a-new-frontier-of-opportunity-6ca66db4",
+      "orig_slug": "iso20022-migration-a-new-frontier-of-opportunity-6ca66db4"
+    },
+    {
+      "title": "Gold price today, Tuesday, February 17: Gold opens below $5,000 again",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-february-17-gold-opens-below-5000-again-122251833.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-17T12:22:51Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/g8m8e.vWJVmbJN8Vcygm5Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/95b97660-b113-11f0-b3d3-57670e048682",
+      "slug": "gold-price-today-tuesday-february-17-gold-opens-below-5000-again-e335ad2d",
+      "orig_slug": "gold-price-today-tuesday-february-17-gold-opens-below-5000-again-e335ad2d"
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall ahead of shortened week with AI disruption fears in focus",
+      "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-fall-ahead-of-shortened-week-with-ai-disruption-fears-in-focus-235251983.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-16T23:52:51Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/fc4HdO6Axmv9_LXpFTsvQw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/ed69f560-0b8b-11f1-aede-284faff09102",
+      "slug": "stock-market-today-dow-sp-500-nasdaq-futures-fall-ahead-of-shortened-week-with-a-e46544c8",
+      "orig_slug": "stock-market-today-dow-sp-500-nasdaq-futures-fall-ahead-of-shortened-week-with-a-e46544c8"
+    },
+    {
+      "title": "BTIG Stays Positive on Palo Alto Networks (PANW) as Channel Checks Improve",
+      "link": "https://finance.yahoo.com/news/btig-stays-positive-palo-alto-120846258.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-17T12:08:46Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/1a17b21a3a7bb7079debc871311dfb86",
+      "slug": "btig-stays-positive-on-palo-alto-networks-panw-as-channel-checks-improve-d926f831",
+      "orig_slug": "btig-stays-positive-on-palo-alto-networks-panw-as-channel-checks-improve-d926f831"
+    },
+    {
+      "title": "Rivian (RIVN) Gains Momentum as R2 Launch Stays on Track",
+      "link": "https://finance.yahoo.com/news/rivian-rivn-gains-momentum-r2-120756430.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-17T12:07:56Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/2c64b0a64df80adb57ffcebfcbc9cd4d",
+      "slug": "rivian-rivn-gains-momentum-as-r2-launch-stays-on-track-3f76222e",
+      "orig_slug": "rivian-rivn-gains-momentum-as-r2-launch-stays-on-track-3f76222e"
+    },
+    {
+      "title": "Twilio (TWLO) Gains Momentum as AI and Voice Demand Accelerate",
+      "link": "https://finance.yahoo.com/news/twilio-twlo-gains-momentum-ai-120701049.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-17T12:07:01Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/64b3f46a09a761fa3f57d154601065b8",
+      "slug": "twilio-twlo-gains-momentum-as-ai-and-voice-demand-accelerate-13657efe",
+      "orig_slug": "twilio-twlo-gains-momentum-as-ai-and-voice-demand-accelerate-13657efe"
+    },
+    {
+      "title": "NordVPN Partners With CrowdStrike (CRWD) to Boost Consumer Threat Protection",
+      "link": "https://finance.yahoo.com/news/nordvpn-partners-crowdstrike-crwd-boost-120622264.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-17T12:06:22Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/540c7bfffc9cf078fe323e1d9683599d",
+      "slug": "nordvpn-partners-with-crowdstrike-crwd-to-boost-consumer-threat-protection-da19af08",
+      "orig_slug": "nordvpn-partners-with-crowdstrike-crwd-to-boost-consumer-threat-protection-da19af08"
+    },
+    {
+      "title": "Intel (INTC) Faces ‘Show-Me’ Reset as DA Davidson Initiates Neutral Rating",
+      "link": "https://finance.yahoo.com/news/intel-intc-faces-show-reset-120548783.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-17T12:05:48Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/4d84e1ceef7dec0edd2897ecd4928863",
+      "slug": "intel-intc-faces-show-me-reset-as-da-davidson-initiates-neutral-rating-90137389",
+      "orig_slug": "intel-intc-faces-show-me-reset-as-da-davidson-initiates-neutral-rating-90137389"
+    },
+    {
+      "title": "Warner Bros rejects Paramount's revised offer, but gives studio a week to negotiate better deal",
+      "link": "https://finance.yahoo.com/news/warner-bros-rejects-paramounts-revised-120235731.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-17T12:02:35Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/Nms2zsbEl.u1PDvys5VBQw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/436fb580-0bfa-11f1-bdf5-e74eb3c29555",
+      "slug": "warner-bros-rejects-paramounts-revised-offer-but-gives-studio-a-week-to-negotiat-055af862",
+      "orig_slug": "warner-bros-rejects-paramounts-revised-offer-but-gives-studio-a-week-to-negotiat-055af862"
+    },
+    {
+      "title": "Where Will Nvidia Be in 1 Year?",
+      "link": "https://finance.yahoo.com/news/where-nvidia-1-122000321.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-17T12:20:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/1e126df67a16f9a943a41a0c6d8da37f",
+      "slug": "where-will-nvidia-be-in-1-year-2fe07529",
+      "orig_slug": "where-will-nvidia-be-in-1-year-2fe07529"
+    },
+    {
+      "title": "Applied Materials (AMAT) Seen Winning Whether WFE Growth Is Market- or Share-Driven",
+      "link": "https://finance.yahoo.com/news/applied-materials-amat-seen-winning-120135930.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-17T12:01:35Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/dcf08a9dbb7c3de961dd78d32a01adf8",
+      "slug": "applied-materials-amat-seen-winning-whether-wfe-growth-is-market--or-share-drive-86eb56bc",
+      "orig_slug": "applied-materials-amat-seen-winning-whether-wfe-growth-is-market--or-share-drive-86eb56bc"
+    },
+    {
+      "title": "WA mom dishes out $1,100/month in car payments — and 20% of Americans are in the same boat. How to afford the new normal",
+      "link": "https://finance.yahoo.com/news/wa-mom-dishes-1-100-120000817.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-17T12:00:00Z",
+      "image": "https://media.zenfs.com/en/moneywise_327/0149e0519b850ffff3bb3c23f2a226c2",
+      "slug": "wa-mom-dishes-out-1100month-in-car-payments-and-20-of-americans-are-in-the-same--6f63e0cd",
+      "orig_slug": "wa-mom-dishes-out-1100month-in-car-payments-and-20-of-americans-are-in-the-same--6f63e0cd"
+    },
+    {
+      "title": "Triumph Financial’s ‘white label’ FaaS offering looks to grow factoring footprint",
+      "link": "https://finance.yahoo.com/news/triumph-financial-white-label-faas-120000177.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-17T12:00:00Z",
+      "image": "https://s.yimg.com/os/en/freightwaves_373/1f2eafd3bc14870e32210f493b435f9d",
+      "slug": "triumph-financials-white-label-faas-offering-looks-to-grow-factoring-footprint-cfe3abd3",
+      "orig_slug": "triumph-financials-white-label-faas-offering-looks-to-grow-factoring-footprint-cfe3abd3"
+    },
+    {
+      "title": "Is Advanced Micro Devices (AMD)’s AI Catch-Up Strategy Enough? Analysts Remain Cautious",
+      "link": "https://finance.yahoo.com/news/advanced-micro-devices-amd-ai-115952491.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-17T11:59:52Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/c21fbacb6c2f871b98f480a40a563913",
+      "slug": "is-advanced-micro-devices-amds-ai-catch-up-strategy-enough-analysts-remain-cauti-c71f6d01",
+      "orig_slug": "is-advanced-micro-devices-amds-ai-catch-up-strategy-enough-analysts-remain-cauti-c71f6d01"
+    },
+    {
+      "title": "NAPA Owner Genuine Parts Plans to Split Into Two Companies",
+      "link": "https://www.wsj.com/business/deals/genuine-parts-plans-to-split-into-two-companies-45156614?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-17T12:17:00Z",
+      "image": "",
+      "slug": "napa-owner-genuine-parts-plans-to-split-into-two-companies-2a717a0f",
+      "orig_slug": "napa-owner-genuine-parts-plans-to-split-into-two-companies-2a717a0f"
+    },
+    {
+      "title": "Tesla’s (TSLA) Growth Outlook Hinges on AI, Not Just EV Sales",
+      "link": "https://finance.yahoo.com/news/tesla-tsla-growth-outlook-hinges-115857340.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-17T11:58:57Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/a6bcf37a67ba918a4a4ac11abfc4c2d5",
+      "slug": "teslas-tsla-growth-outlook-hinges-on-ai-not-just-ev-sales-14ab1d56",
+      "orig_slug": "teslas-tsla-growth-outlook-hinges-on-ai-not-just-ev-sales-14ab1d56"
+    },
+    {
+      "title": "Broadcom’s (AVGO) AI Role Acknowledged, But Valuation Concerns Remain",
+      "link": "https://finance.yahoo.com/news/broadcom-avgo-ai-role-acknowledged-115725887.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-17T11:57:25Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/faddaf2f17f7d4089e4ea027acd784e1",
+      "slug": "broadcoms-avgo-ai-role-acknowledged-but-valuation-concerns-remain-1c2ebddd",
+      "orig_slug": "broadcoms-avgo-ai-role-acknowledged-but-valuation-concerns-remain-1c2ebddd"
+    },
+    {
+      "title": "Morning Bid: Sleepy 'uber-bulls'",
+      "link": "https://finance.yahoo.com/news/morning-bid-sleepy-uber-bulls-115714522.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-17T11:57:14Z",
+      "image": "https://s.yimg.com/os/en/reuters.com/87255d161d0853a4656c2548f571c4e7",
+      "slug": "morning-bid-sleepy-uber-bulls-3b8893af",
+      "orig_slug": "morning-bid-sleepy-uber-bulls-3b8893af"
+    },
+    {
+      "title": "Earnings live: Walmart, DoorDash, eBay set to headline week of Feb. 16",
+      "link": "https://finance.yahoo.com/news/live/earnings-live-walmart-doordash-ebay-set-to-headline-week-of-feb-16-131119172.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-12T13:11:19Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/Xh3CbGHVTHEeXfRqgWvOvg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/9c8aa090-0915-11f1-b7df-43043a1fe416",
+      "slug": "earnings-live-walmart-doordash-ebay-set-to-headline-week-of-feb-16-ea91c455",
+      "orig_slug": "earnings-live-walmart-doordash-ebay-set-to-headline-week-of-feb-16-ea91c455"
+    },
+    {
+      "title": "Stocks to Watch Tuesday: Warner, Danaher, Masimo, Medtronic",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-17-2026/card/stocks-to-watch-tuesday-norwegian-hyatt-zim-medtronic-WBm8PCTsBJQn5JTCCcst?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-17T12:17:00Z",
+      "image": "",
+      "slug": "stocks-to-watch-tuesday-warner-danaher-masimo-medtronic-f1487638",
+      "orig_slug": "stocks-to-watch-tuesday-warner-danaher-masimo-medtronic-f1487638"
+    },
+    {
+      "title": "Medtronic beats quarterly profit estimates on robust demand for heart devices",
+      "link": "https://finance.yahoo.com/news/medtronic-beats-quarterly-profit-estimates-114842436.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-17T11:54:38Z",
+      "image": "https://s.yimg.com/os/en/reuters.com/565da88c01e9b4706df3897a66ffd57b",
+      "slug": "medtronic-beats-quarterly-profit-estimates-on-robust-demand-for-heart-devices-6b3b5409",
+      "orig_slug": "medtronic-beats-quarterly-profit-estimates-on-robust-demand-for-heart-devices-6b3b5409"
+    },
+    {
+      "title": "Alphabet’s (GOOGL) Waymo Momentum Strengthens as Analysts Reaffirm Bullish View",
+      "link": "https://finance.yahoo.com/news/alphabet-googl-waymo-momentum-strengthens-115357204.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-17T11:53:57Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/c063cb24366da53443f0b1c3f4b218cc",
+      "slug": "alphabets-googl-waymo-momentum-strengthens-as-analysts-reaffirm-bullish-view-5df62cce",
+      "orig_slug": "alphabets-googl-waymo-momentum-strengthens-as-analysts-reaffirm-bullish-view-5df62cce"
+    },
+    {
+      "title": "Qualcomm says UK lawsuit over smartphone chip royalties will be withdrawn",
+      "link": "https://finance.yahoo.com/news/qualcomm-says-uk-lawsuit-over-114723633.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-17T11:47:23Z",
+      "image": "https://s.yimg.com/os/en/reuters-finance.com/cd14e3092ae2d905c121839727449eee",
+      "slug": "qualcomm-says-uk-lawsuit-over-smartphone-chip-royalties-will-be-withdrawn-16eaa3ed",
+      "orig_slug": "qualcomm-says-uk-lawsuit-over-smartphone-chip-royalties-will-be-withdrawn-16eaa3ed"
+    },
+    {
+      "title": "Warner Reopens Talks With Paramount After Sweetened Offer",
+      "link": "https://www.wsj.com/business/media/warner-reopens-talks-with-paramount-after-sweetened-offer-3dbf191b?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-17T12:14:00Z",
+      "image": "",
+      "slug": "warner-reopens-talks-with-paramount-after-sweetened-offer-38fe4d79",
+      "orig_slug": "warner-reopens-talks-with-paramount-after-sweetened-offer-38fe4d79"
     },
     {
       "title": "Warsh may want a smaller Fed balance sheet, but that's hard to achieve",
@@ -47,13 +254,13 @@
       "orig_slug": "workday-inc-wday-eyes-ai-growth-amid-ceo-change-b4550cf6"
     },
     {
-      "title": "Better Growth Stock: Nu Holdings vs. SoFi Technologies",
-      "link": "https://finance.yahoo.com/news/better-growth-stock-nu-holdings-112000548.html",
+      "title": "Ireland’s Goods Exports to U.S. Rose by 52% in 2025",
+      "link": "https://www.wsj.com/economy/trade/irelands-goods-exports-to-u-s-rose-by-52-in-2025-74d2f51a?siteid=yhoof2&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-17T11:20:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/d73057a3eb8d28a0bbdd66e0389e4042",
-      "slug": "better-growth-stock-nu-holdings-vs-sofi-technologies-0ee66d8c",
-      "orig_slug": "better-growth-stock-nu-holdings-vs-sofi-technologies-0ee66d8c"
+      "pubDate": "2026-02-17T12:13:00Z",
+      "image": "",
+      "slug": "irelands-goods-exports-to-us-rose-by-52-in-2025-196711d9",
+      "orig_slug": "irelands-goods-exports-to-us-rose-by-52-in-2025-196711d9"
     },
     {
       "title": "Coinbase Global Inc (COIN): Revenue Diversification Efforts Applauded",
@@ -92,13 +299,13 @@
       "orig_slug": "adobe-inc-adbes-upside-potential-tested-by-lawsuits-and-strategy-shifts-d1240f01"
     },
     {
-      "title": "Teijin and Aska Pharmaceutical to co-develop gynaecological drugs",
-      "link": "https://finance.yahoo.com/news/teijin-aska-pharmaceutical-co-develop-111742479.html",
+      "title": "EFG teams up with Capital Group to expand investment solutions",
+      "link": "https://finance.yahoo.com/news/efg-teams-capital-group-expand-121230298.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-17T11:17:42Z",
-      "image": "https://media.zenfs.com/en/pharmaceutical_technology_376/af6888b469b9b29d63e452629eba0e6e",
-      "slug": "teijin-and-aska-pharmaceutical-to-co-develop-gynaecological-drugs-a3bcd319",
-      "orig_slug": "teijin-and-aska-pharmaceutical-to-co-develop-gynaecological-drugs-a3bcd319"
+      "pubDate": "2026-02-17T12:12:30Z",
+      "image": "https://media.zenfs.com/en/private_banker_international_938/c0433d5d47030de0449792d00f5ef9d2",
+      "slug": "efg-teams-up-with-capital-group-to-expand-investment-solutions-a8a1fb87",
+      "orig_slug": "efg-teams-up-with-capital-group-to-expand-investment-solutions-a8a1fb87"
     },
     {
       "title": "ServiceNow Inc (NOW) Sees Subscription Sales Accelerating in 2026",
@@ -128,24 +335,6 @@
       "orig_slug": "oracle-corp-orcls-upside-potential-federal-wins-and-market-confidence-8ff13545"
     },
     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall ahead of shortened week with AI disruption fears in focus",
-      "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-fall-ahead-of-shortened-week-with-ai-disruption-fears-in-focus-235251983.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-16T23:52:51Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/fc4HdO6Axmv9_LXpFTsvQw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/ed69f560-0b8b-11f1-aede-284faff09102",
-      "slug": "stock-market-today-dow-sp-500-nasdaq-futures-fall-ahead-of-shortened-week-with-a-e46544c8",
-      "orig_slug": "stock-market-today-dow-sp-500-nasdaq-futures-fall-ahead-of-shortened-week-with-a-e46544c8"
-    },
-    {
-      "title": "OptiBiotix shares rise after company says it will not sell SkinBioTherapeutics stake",
-      "link": "https://finance.yahoo.com/news/optibiotix-shares-rise-company-says-111507786.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-17T11:15:07Z",
-      "image": "https://media.zenfs.com/en/proactive_us_504/4335b292df6c094509e284cc5e0fba87",
-      "slug": "optibiotix-shares-rise-after-company-says-it-will-not-sell-skinbiotherapeutics-s-e65b7d67",
-      "orig_slug": "optibiotix-shares-rise-after-company-says-it-will-not-sell-skinbiotherapeutics-s-e65b7d67"
-    },
-    {
       "title": "Mortgage and refinance interest rates today, February 17, 2026: Resisting volatility while moving lower",
       "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-february-17-2026-110049286.html",
       "source": "finance.yahoo.com",
@@ -153,6 +342,15 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/Y2tfJtD0oUt6xTTdKawkhA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/700e25a0-fb43-11ee-be6b-a40c5cf2631a",
       "slug": "mortgage-and-refinance-interest-rates-today-february-17-2026-resisting-volatilit-d32c73ee",
       "orig_slug": "mortgage-and-refinance-interest-rates-today-february-17-2026-resisting-volatilit-d32c73ee"
+    },
+    {
+      "title": "A Top New Concern for Fund Managers: Companies Are 'Overinvesting'",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-17-2026/card/a-top-new-concern-for-fund-managers-companies-are-overinvesting--Av3PR3hg47NYfbh1dyVd?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-17T12:05:22Z",
+      "image": "",
+      "slug": "a-top-new-concern-for-fund-managers-companies-are-overinvesting-f05d8f8f",
+      "orig_slug": "a-top-new-concern-for-fund-managers-companies-are-overinvesting-f05d8f8f"
     },
     {
       "title": "Best money market account rates today, February 17, 2026 (Earn up to 4.01% APY)",
@@ -182,15 +380,6 @@
       "orig_slug": "best-high-yield-savings-interest-rates-today-february-17-2026-earn-up-to-4-apy-64ccd0f1"
     },
     {
-      "title": "Antofagasta H2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/news/antofagasta-h2-earnings-call-highlights-111112706.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-17T11:11:12Z",
-      "image": "https://s.yimg.com/os/en/marketbeat_955/8d748cc1cfed0af2b028de295cb5e6e4",
-      "slug": "antofagasta-h2-earnings-call-highlights-2aeabd03",
-      "orig_slug": "antofagasta-h2-earnings-call-highlights-2aeabd03"
-    },
-    {
       "title": "Best CD rates today, February 17, 2026: Lock in up to 4% APY today",
       "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-february-17-2026-110003267.html",
       "source": "finance.yahoo.com",
@@ -200,220 +389,13 @@
       "orig_slug": "best-cd-rates-today-february-17-2026-lock-in-up-to-4-apy-today-5732837a"
     },
     {
-      "title": "Apple To Hold Product Event On March 4. Cheaper iPhone Seen But No AI Siri",
-      "link": "https://www.investors.com/news/technology/apple-product-event-march-4-cheaper-iphone-no-ai-siri/?src=A00220&yptr=yahoo",
+      "title": "3 Risks Duolingo Investors Should Watch in 2026",
+      "link": "https://finance.yahoo.com/news/3-risks-duolingo-investors-watch-120500751.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-17T10:52:21Z",
-      "image": "",
-      "slug": "apple-to-hold-product-event-on-march-4-cheaper-iphone-seen-but-no-ai-siri-f6f51ac6",
-      "orig_slug": "apple-to-hold-product-event-on-march-4-cheaper-iphone-seen-but-no-ai-siri-f6f51ac6"
-    },
-    {
-      "title": "Morgan Stanley Reduces PT on Twilio Inc. (TWLO) Stock",
-      "link": "https://finance.yahoo.com/news/morgan-stanley-reduces-pt-twilio-105047690.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-17T10:50:47Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/353fc597235e86108d56667e34744f84",
-      "slug": "morgan-stanley-reduces-pt-on-twilio-inc-twlo-stock-e60814a7",
-      "orig_slug": "morgan-stanley-reduces-pt-on-twilio-inc-twlo-stock-e60814a7"
-    },
-    {
-      "title": "Bright Horizons Family Solutions Inc. (BFAM) Reports Fourth-Quarter Revenue of $734 Million, Ahead of Consensus",
-      "link": "https://finance.yahoo.com/news/bright-horizons-family-solutions-inc-103523056.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-17T10:35:23Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/5a115476bbeb8e5ca2469b38383963d4",
-      "slug": "bright-horizons-family-solutions-inc-bfam-reports-fourth-quarter-revenue-of-734--3adb9592",
-      "orig_slug": "bright-horizons-family-solutions-inc-bfam-reports-fourth-quarter-revenue-of-734--3adb9592"
-    },
-    {
-      "title": "Intercontinental Hotels Group H2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/news/intercontinental-hotels-group-h2-earnings-111113856.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-17T11:11:13Z",
-      "image": "https://s.yimg.com/os/en/marketbeat_955/0ebf3f2a3892f31d76f3c6aeb8f139d7",
-      "slug": "intercontinental-hotels-group-h2-earnings-call-highlights-a9779640",
-      "orig_slug": "intercontinental-hotels-group-h2-earnings-call-highlights-a9779640"
-    },
-    {
-      "title": "Birkenstock Holding plc (BIRK) Reports First-Quarter Revenue of EUR 401.9 Million, Up from EUR 361.72 Million",
-      "link": "https://finance.yahoo.com/news/birkenstock-holding-plc-birk-reports-103422260.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-17T10:34:22Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/23335e3221b58a37d8d20e6c9b0e2111",
-      "slug": "birkenstock-holding-plc-birk-reports-first-quarter-revenue-of-eur-4019-million-u-65f3c938",
-      "orig_slug": "birkenstock-holding-plc-birk-reports-first-quarter-revenue-of-eur-4019-million-u-65f3c938"
-    },
-    {
-      "title": "Dutch Bros Inc. (BROS) Reports Fourth-Quarter Revenue of $443.6 million, Above Consensus",
-      "link": "https://finance.yahoo.com/news/dutch-bros-inc-bros-reports-103257321.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-17T10:32:57Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/81c4858600bcbdd6209ad6df91118ceb",
-      "slug": "dutch-bros-inc-bros-reports-fourth-quarter-revenue-of-4436-million-above-consens-036436dd",
-      "orig_slug": "dutch-bros-inc-bros-reports-fourth-quarter-revenue-of-4436-million-above-consens-036436dd"
-    },
-    {
-      "title": "BMO Capital Lowers its Price Target on McGraw Hill, Inc. (MH) to $19 and Maintains an Outperform Rating",
-      "link": "https://finance.yahoo.com/news/bmo-capital-lowers-price-target-103046235.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-17T10:30:46Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/634636b8b0601454d5201ee6d951d457",
-      "slug": "bmo-capital-lowers-its-price-target-on-mcgraw-hill-inc-mh-to-19-and-maintains-an-0c905e6e",
-      "orig_slug": "bmo-capital-lowers-its-price-target-on-mcgraw-hill-inc-mh-to-19-and-maintains-an-0c905e6e"
-    },
-    {
-      "title": "Goldman Sachs Lowers its Price Target on H&R Block, Inc. (HRB) to $32 and Maintains a Sell Rating",
-      "link": "https://finance.yahoo.com/news/goldman-sachs-lowers-price-target-102833491.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-17T10:28:33Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/f1d11d7be29af82e06b69fbab143b929",
-      "slug": "goldman-sachs-lowers-its-price-target-on-hr-block-inc-hrb-to-32-and-maintains-a--46d09180",
-      "orig_slug": "goldman-sachs-lowers-its-price-target-on-hr-block-inc-hrb-to-32-and-maintains-a--46d09180"
-    },
-    {
-      "title": "Kerry Group Q4 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/news/kerry-group-q4-earnings-call-111112655.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-17T11:11:12Z",
-      "image": "https://s.yimg.com/os/en/marketbeat_955/5d62f146a6c73552d8e2098727d8055b",
-      "slug": "kerry-group-q4-earnings-call-highlights-3ef5dcab",
-      "orig_slug": "kerry-group-q4-earnings-call-highlights-3ef5dcab"
-    },
-    {
-      "title": "BofA Lowers its Price Target on Etsy, Inc. (ETSY) to $63 and Maintains a Neutral Rating",
-      "link": "https://finance.yahoo.com/news/bofa-lowers-price-target-etsy-102726963.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-17T10:27:26Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/383d305f6aa633ef2fff4130172104ed",
-      "slug": "bofa-lowers-its-price-target-on-etsy-inc-etsy-to-63-and-maintains-a-neutral-rati-34b1c624",
-      "orig_slug": "bofa-lowers-its-price-target-on-etsy-inc-etsy-to-63-and-maintains-a-neutral-rati-34b1c624"
-    },
-    {
-      "title": "Stephens Upgrades Boot Barn Holdings, Inc. (BOOT) to Overweight from Equal Weight and Raises its Price Target to $237",
-      "link": "https://finance.yahoo.com/news/stephens-upgrades-boot-barn-holdings-102548677.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-17T10:25:48Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/ca94054e3dc404aec81dc99493bab27d",
-      "slug": "stephens-upgrades-boot-barn-holdings-inc-boot-to-overweight-from-equal-weight-an-73544050",
-      "orig_slug": "stephens-upgrades-boot-barn-holdings-inc-boot-to-overweight-from-equal-weight-an-73544050"
-    },
-    {
-      "title": "Jefferies Initiates Coverage of Kontoor Brands, Inc. (KTB) with a Hold Rating and a $65 Price Target",
-      "link": "https://finance.yahoo.com/news/jefferies-initiates-coverage-kontoor-brands-102426006.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-17T10:24:26Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/6ad49126983c27c1ddf1ef9e6613dc6c",
-      "slug": "jefferies-initiates-coverage-of-kontoor-brands-inc-ktb-with-a-hold-rating-and-a--322e0560",
-      "orig_slug": "jefferies-initiates-coverage-of-kontoor-brands-inc-ktb-with-a-hold-rating-and-a--322e0560"
-    },
-    {
-      "title": "Jefferies Initiates Coverage of Levi Strauss & Co. (LEVI) with a Buy Rating and a $25 Price Target",
-      "link": "https://finance.yahoo.com/news/jefferies-initiates-coverage-levi-strauss-102225514.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-17T10:22:25Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/8c6559b34ccf00b64e480744c24c3c1d",
-      "slug": "jefferies-initiates-coverage-of-levi-strauss-co-levi-with-a-buy-rating-and-a-25--253840aa",
-      "orig_slug": "jefferies-initiates-coverage-of-levi-strauss-co-levi-with-a-buy-rating-and-a-25--253840aa"
-    },
-    {
-      "title": "J.P. Morgan Research Says: 'Broken Logic' Is Driving This Software Stock Sell-Off",
-      "link": "https://finance.yahoo.com/news/j-p-morgan-research-says-110500776.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-17T11:05:00Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/653efe7c6b5af00adf68d4d3544dc945",
-      "slug": "jp-morgan-research-says-broken-logic-is-driving-this-software-stock-sell-off-b5e1510f",
-      "orig_slug": "jp-morgan-research-says-broken-logic-is-driving-this-software-stock-sell-off-b5e1510f"
-    },
-    {
-      "title": "DA Davidson Lowers its Price Target on Harley-Davidson, Inc. (HOG) to $25 and Maintains a Buy Rating",
-      "link": "https://finance.yahoo.com/news/da-davidson-lowers-price-target-102016493.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-17T10:20:16Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/a067225fc42621a73913351a1ac6c422",
-      "slug": "da-davidson-lowers-its-price-target-on-harley-davidson-inc-hog-to-25-and-maintai-ecedbc22",
-      "orig_slug": "da-davidson-lowers-its-price-target-on-harley-davidson-inc-hog-to-25-and-maintai-ecedbc22"
-    },
-    {
-      "title": "TD Cowen Lowers its Price Target on Capri Holdings Limited (CPRI) to $26 and Maintains a Buy Rating",
-      "link": "https://finance.yahoo.com/news/td-cowen-lowers-price-target-101916008.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-17T10:19:16Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/75cc222af28b6a0beb75283907a341c2",
-      "slug": "td-cowen-lowers-its-price-target-on-capri-holdings-limited-cpri-to-26-and-mainta-7e20e72e",
-      "orig_slug": "td-cowen-lowers-its-price-target-on-capri-holdings-limited-cpri-to-26-and-mainta-7e20e72e"
-    },
-    {
-      "title": "RBC Capital Lowers its Price Target on Coty Inc. (COTY) to $8 and Maintains an Outperform Rating",
-      "link": "https://finance.yahoo.com/news/rbc-capital-lowers-price-target-101621932.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-17T10:16:21Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/e8b86f192c16d133b1d02e6809546347",
-      "slug": "rbc-capital-lowers-its-price-target-on-coty-inc-coty-to-8-and-maintains-an-outpe-d6032257",
-      "orig_slug": "rbc-capital-lowers-its-price-target-on-coty-inc-coty-to-8-and-maintains-an-outpe-d6032257"
-    },
-    {
-      "title": "Canaccord Lowers its Price Target on Pagaya Technologies Ltd. (PGY) to $32 and Maintains a Buy Rating",
-      "link": "https://finance.yahoo.com/news/canaccord-lowers-price-target-pagaya-101527924.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-17T10:15:27Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/8e5e038f7f296af0208575c31fb5b80c",
-      "slug": "canaccord-lowers-its-price-target-on-pagaya-technologies-ltd-pgy-to-32-and-maint-474d8a4d",
-      "orig_slug": "canaccord-lowers-its-price-target-on-pagaya-technologies-ltd-pgy-to-32-and-maint-474d8a4d"
-    },
-    {
-      "title": "Goldman Sachs Names 3 ‘Strong Buy’ Energy Stocks with Room to Run",
-      "link": "https://finance.yahoo.com/news/goldman-sachs-names-3-strong-110343722.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-17T11:03:43Z",
-      "image": "https://s.yimg.com/os/en/tipranks_452/304fe5cb4414c2033efdcdc4b4d5fc0f",
-      "slug": "goldman-sachs-names-3-strong-buy-energy-stocks-with-room-to-run-c259fab3",
-      "orig_slug": "goldman-sachs-names-3-strong-buy-energy-stocks-with-room-to-run-c259fab3"
-    },
-    {
-      "title": "Wedbush Lowers its Price Target on FuboTV Inc. (FUBO) to $3.50 and Maintains an Outperform Rating",
-      "link": "https://finance.yahoo.com/news/wedbush-lowers-price-target-fubotv-101308890.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-17T10:13:08Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/79ceba902e443a53bebbbc8c5d42a4b3",
-      "slug": "wedbush-lowers-its-price-target-on-fubotv-inc-fubo-to-350-and-maintains-an-outpe-ecfdede2",
-      "orig_slug": "wedbush-lowers-its-price-target-on-fubotv-inc-fubo-to-350-and-maintains-an-outpe-ecfdede2"
-    },
-    {
-      "title": "Piper Sandler Lowers its Price Target on Asana, Inc. (ASAN) to $14 and Maintains an Overweight Rating",
-      "link": "https://finance.yahoo.com/news/piper-sandler-lowers-price-target-101214553.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-17T10:12:14Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/bd09d972efd3de77c1bfb105a5dc74c2",
-      "slug": "piper-sandler-lowers-its-price-target-on-asana-inc-asan-to-14-and-maintains-an-o-525cdeff",
-      "orig_slug": "piper-sandler-lowers-its-price-target-on-asana-inc-asan-to-14-and-maintains-an-o-525cdeff"
-    },
-    {
-      "title": "Genius Sports Limited (GENI) Announces a Partnership with WPP Media",
-      "link": "https://finance.yahoo.com/news/genius-sports-limited-geni-announces-101121318.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-17T10:11:21Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/59bf32651741c0a43481e126d2c78084",
-      "slug": "genius-sports-limited-geni-announces-a-partnership-with-wpp-media-5642467b",
-      "orig_slug": "genius-sports-limited-geni-announces-a-partnership-with-wpp-media-5642467b"
-    },
-    {
-      "title": "Scotiabank Lowers its Price Target on Rapid7, Inc. (RPD) to $9 and Maintains a Sector Perform Rating",
-      "link": "https://finance.yahoo.com/news/scotiabank-lowers-price-target-rapid7-100700362.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-17T10:07:00Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/9a7f65ff2bc6117b393cc440f5600768",
-      "slug": "scotiabank-lowers-its-price-target-on-rapid7-inc-rpd-to-9-and-maintains-a-sector-20b08bc2",
-      "orig_slug": "scotiabank-lowers-its-price-target-on-rapid7-inc-rpd-to-9-and-maintains-a-sector-20b08bc2"
-    },
-    {
-      "title": "Dan Ives Calls AI-Driven Software Selloff 'Most Disconnected Trade,' Says Salesforce And ServiceNow Are Historic Buys",
-      "link": "https://finance.yahoo.com/news/dan-ives-calls-ai-driven-110106705.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-17T11:01:06Z",
-      "image": "https://s.yimg.com/os/en/Benzinga/1d0d209322535f191c469fe3a1c797e0",
-      "slug": "dan-ives-calls-ai-driven-software-selloff-most-disconnected-trade-says-salesforc-d867586d",
-      "orig_slug": "dan-ives-calls-ai-driven-software-selloff-most-disconnected-trade-says-salesforc-d867586d"
+      "pubDate": "2026-02-17T12:05:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/e4cf8800ed1c9649f7f5c4903af2913f",
+      "slug": "3-risks-duolingo-investors-should-watch-in-2026-e85c604b",
+      "orig_slug": "3-risks-duolingo-investors-should-watch-in-2026-e85c604b"
     }
   ]
 }
