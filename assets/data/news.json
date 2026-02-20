@@ -1,14 +1,167 @@
 {
-  "updated": "2026-02-20T15:31:18Z",
+  "updated": "2026-02-20T16:26:56Z",
   "items": [
     {
-      "title": "Metallus (MTUS) Q4 2025 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/news/metallus-mtus-q4-2025-earnings-152118905.html",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq rise after Supreme Court strikes down Trump tariffs",
+      "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-after-supreme-court-strikes-down-trump-tariffs-000113270.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-20T15:21:18Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
-      "slug": "metallus-mtus-q4-2025-earnings-call-transcript-7d8a8d49",
-      "orig_slug": "metallus-mtus-q4-2025-earnings-call-transcript-7d8a8d49"
+      "pubDate": "2026-02-20T15:36:53Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/nLnVCvSRnpl4y5S5qjxy_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/b7f2d6f0-0dab-11f1-bdb4-785de290f65d",
+      "slug": "stock-market-today-dow-sp-500-nasdaq-rise-after-supreme-court-strikes-down-trump-5d5a93b4",
+      "orig_slug": "stock-market-today-dow-sp-500-nasdaq-rise-after-supreme-court-strikes-down-trump-5d5a93b4"
+    },
+    {
+      "title": "Here's Why Markets Aren't That Excited About the Tariff Decision",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-us-gdp-report-02-20-26/card/here-s-why-markets-aren-t-that-excited-about-the-tariff-decision-ySTarXyG6TUCdA4EhPXA?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-20T16:07:00Z",
+      "image": "",
+      "slug": "heres-why-markets-arent-that-excited-about-the-tariff-decision-0de40498",
+      "orig_slug": "heres-why-markets-arent-that-excited-about-the-tariff-decision-0de40498"
+    },
+    {
+      "title": "Lucid Group, Inc. (LCID) Names Neil Marsons as SVP, Supply Chain",
+      "link": "https://finance.yahoo.com/news/lucid-group-inc-lcid-names-160545618.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-20T16:05:45Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/3a9f1db102f1282df54717952e2afea1",
+      "slug": "lucid-group-inc-lcid-names-neil-marsons-as-svp-supply-chain-0b51f516",
+      "orig_slug": "lucid-group-inc-lcid-names-neil-marsons-as-svp-supply-chain-0b51f516"
+    },
+    {
+      "title": "EVgo, Inc. (EVGO) Aims to Build at least 150 Fast Charging Stalls a Year Through 2035",
+      "link": "https://finance.yahoo.com/news/evgo-inc-evgo-aims-build-160536076.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-20T16:05:36Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/d3a1c658c3031e1c05403ebfc9d4569a",
+      "slug": "evgo-inc-evgo-aims-to-build-at-least-150-fast-charging-stalls-a-year-through-203-4615caae",
+      "orig_slug": "evgo-inc-evgo-aims-to-build-at-least-150-fast-charging-stalls-a-year-through-203-4615caae"
+    },
+    {
+      "title": "JPMorgan cut Li Auto Inc. (LI) to Underweight from Neutral",
+      "link": "https://finance.yahoo.com/news/jpmorgan-cut-li-auto-inc-160528367.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-20T16:05:28Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/fb43af963cece0fd2d21d2a4a0898ff8",
+      "slug": "jpmorgan-cut-li-auto-inc-li-to-underweight-from-neutral-04486341",
+      "orig_slug": "jpmorgan-cut-li-auto-inc-li-to-underweight-from-neutral-04486341"
+    },
+    {
+      "title": "BofA is Bullish on Blue Bird Corporation (BLBD)",
+      "link": "https://finance.yahoo.com/news/bofa-bullish-blue-bird-corporation-160520497.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-20T16:05:20Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/87b2d265670d3f36fc787b9c7a9e5a58",
+      "slug": "bofa-is-bullish-on-blue-bird-corporation-blbd-31cdc8b3",
+      "orig_slug": "bofa-is-bullish-on-blue-bird-corporation-blbd-31cdc8b3"
+    },
+    {
+      "title": "Citi is Bullish on XPeng Inc. (XPEV)",
+      "link": "https://finance.yahoo.com/news/citi-bullish-xpeng-inc-xpev-160510231.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-20T16:05:10Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/016e7fb9b869bc4221b88f997b616b72",
+      "slug": "citi-is-bullish-on-xpeng-inc-xpev-65f6467f",
+      "orig_slug": "citi-is-bullish-on-xpeng-inc-xpev-65f6467f"
+    },
+    {
+      "title": "JPMorgan Retains an Overweight Rating on NIO Inc. (NIO)",
+      "link": "https://finance.yahoo.com/news/jpmorgan-retains-overweight-rating-nio-160502170.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-20T16:05:02Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/1dc0bf3a4e860bf2643e0940a02dd830",
+      "slug": "jpmorgan-retains-an-overweight-rating-on-nio-inc-nio-69a7f47b",
+      "orig_slug": "jpmorgan-retains-an-overweight-rating-on-nio-inc-nio-69a7f47b"
+    },
+    {
+      "title": "Got $5,000? Here's the Ultimate Pick-and-Shovel Pet Stock (Spoiler: It's Not Chewy)",
+      "link": "https://finance.yahoo.com/news/got-5-000-heres-ultimate-160500120.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-20T16:05:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/8be2d20b20996e73959b239d10bdba67",
+      "slug": "got-5000-heres-the-ultimate-pick-and-shovel-pet-stock-spoiler-its-not-chewy-8d557bea",
+      "orig_slug": "got-5000-heres-the-ultimate-pick-and-shovel-pet-stock-spoiler-its-not-chewy-8d557bea"
+    },
+    {
+      "title": "Baird Maintains an Outperform Rating on Rivian Automotive, Inc. (RIVN)",
+      "link": "https://finance.yahoo.com/news/baird-maintains-outperform-rating-rivian-160454460.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-20T16:04:54Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/2c64b0a64df80adb57ffcebfcbc9cd4d",
+      "slug": "baird-maintains-an-outperform-rating-on-rivian-automotive-inc-rivn-31f84e24",
+      "orig_slug": "baird-maintains-an-outperform-rating-on-rivian-automotive-inc-rivn-31f84e24"
+    },
+    {
+      "title": "Benchmark Keeps a Buy Rating on General Motors Company (GM)",
+      "link": "https://finance.yahoo.com/news/benchmark-keeps-buy-rating-general-160446218.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-20T16:04:46Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/d845a7049a723cc14606252cb67f0c1d",
+      "slug": "benchmark-keeps-a-buy-rating-on-general-motors-company-gm-448ee990",
+      "orig_slug": "benchmark-keeps-a-buy-rating-on-general-motors-company-gm-448ee990"
+    },
+    {
+      "title": "Freedom Capital Raises Stellantis N.V. (STLA) to Buy from Hold",
+      "link": "https://finance.yahoo.com/news/freedom-capital-raises-stellantis-n-160438202.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-20T16:04:38Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/eee1c450dc5affe5dbbb3b5678bc1083",
+      "slug": "freedom-capital-raises-stellantis-nv-stla-to-buy-from-hold-41174911",
+      "orig_slug": "freedom-capital-raises-stellantis-nv-stla-to-buy-from-hold-41174911"
+    },
+    {
+      "title": "Tigress Financial Initiates Coverage of Tesla, Inc. (TSLA)",
+      "link": "https://finance.yahoo.com/news/tigress-financial-initiates-coverage-tesla-160434093.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-20T16:04:34Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/72eda7f3c62f60edefa26778ee6e8a88",
+      "slug": "tigress-financial-initiates-coverage-of-tesla-inc-tsla-848ef3c5",
+      "orig_slug": "tigress-financial-initiates-coverage-of-tesla-inc-tsla-848ef3c5"
+    },
+    {
+      "title": "Nvidia Stock, After Big Meta Chip News, Sets Up Ahead Of Quarterly Earnings Report",
+      "link": "https://www.investors.com/research/earnings-preview/nvidia-stock-meta-ai-chip-news-nvda-earnings-report/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-20T16:00:54Z",
+      "image": "",
+      "slug": "nvidia-stock-after-big-meta-chip-news-sets-up-ahead-of-quarterly-earnings-report-567bcb48",
+      "orig_slug": "nvidia-stock-after-big-meta-chip-news-sets-up-ahead-of-quarterly-earnings-report-567bcb48"
+    },
+    {
+      "title": "'Bitcoin Has Failed'—Crypto Influencer Questions Entire BTC Thesis After 12 Years",
+      "link": "https://finance.yahoo.com/news/bitcoin-failed-crypto-influencer-questions-160029339.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-20T16:00:29Z",
+      "image": "https://s.yimg.com/os/en/benzinga_79/0e4ea797d952210c0e72e7963d6baaba",
+      "slug": "bitcoin-has-failedcrypto-influencer-questions-entire-btc-thesis-after-12-years-93f7b3a3",
+      "orig_slug": "bitcoin-has-failedcrypto-influencer-questions-entire-btc-thesis-after-12-years-93f7b3a3"
+    },
+    {
+      "title": "AppLovin Stock Rallies After Rough Start To Year. Here's Why.",
+      "link": "https://www.investors.com/news/technology/applovin-stock-app-news-social-media/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-20T15:44:53Z",
+      "image": "",
+      "slug": "applovin-stock-rallies-after-rough-start-to-year-heres-why-a5b593bb",
+      "orig_slug": "applovin-stock-rallies-after-rough-start-to-year-heres-why-a5b593bb"
+    },
+    {
+      "title": "GE Aerospace Flies Into Buy Range With Its 'AI Wingmate' In Tow",
+      "link": "https://www.investors.com/research/ibd-stock-analysis/ge-aerospace-stock-readies-takeoff-ai-wingmate-investing-markets/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-20T15:30:17Z",
+      "image": "",
+      "slug": "ge-aerospace-flies-into-buy-range-with-its-ai-wingmate-in-tow-d9148df6",
+      "orig_slug": "ge-aerospace-flies-into-buy-range-with-its-ai-wingmate-in-tow-d9148df6"
+    },
+    {
+      "title": "Stock Market Today: Dow Turns Higher As Supreme Court Nixes Trump Tariffs (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-tariff-decision/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-20T15:30:03Z",
+      "image": "",
+      "slug": "stock-market-today-dow-turns-higher-as-supreme-court-nixes-trump-tariffs-live-co-f4e56282",
+      "orig_slug": "stock-market-today-dow-turns-higher-as-supreme-court-nixes-trump-tariffs-live-co-f4e56282"
     },
     {
       "title": "Averitt announces expansion plans to terminal network",
@@ -20,13 +173,13 @@
       "orig_slug": "averitt-announces-expansion-plans-to-terminal-network-2497fcd3"
     },
     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq rise after Supreme Court strikes down Trump tariffs",
-      "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-after-supreme-court-strikes-down-trump-tariffs-000113270.html",
+      "title": "NORMA Group Names Supervisory Board Chair Interim CEO as Transformation Pace Sparks Split",
+      "link": "https://finance.yahoo.com/news/norma-group-names-supervisory-board-160008584.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-20T00:01:13Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/nLnVCvSRnpl4y5S5qjxy_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/b7f2d6f0-0dab-11f1-bdb4-785de290f65d",
-      "slug": "stock-market-today-dow-sp-500-nasdaq-rise-after-supreme-court-strikes-down-trump-5d5a93b4",
-      "orig_slug": "stock-market-today-dow-sp-500-nasdaq-rise-after-supreme-court-strikes-down-trump-5d5a93b4"
+      "pubDate": "2026-02-20T16:00:08Z",
+      "image": "https://s.yimg.com/os/en/marketbeat_955/e661979d93a6f4f1bab7337bfad8118b",
+      "slug": "norma-group-names-supervisory-board-chair-interim-ceo-as-transformation-pace-spa-cd289d45",
+      "orig_slug": "norma-group-names-supervisory-board-chair-interim-ceo-as-transformation-pace-spa-cd289d45"
     },
     {
       "title": "Analysis-From 'buy America' to 'bye America', Wall Street exodus gathers pace",
@@ -47,15 +200,6 @@
       "orig_slug": "cathie-wood-sells-more-draftkings-goldman-cuts-robinhood-target-due-to-these-met-5c2fdf17"
     },
     {
-      "title": "8 US Locations Where Saving for a Down Payment Could Take Over 20 Years",
-      "link": "https://finance.yahoo.com/news/8-us-locations-where-saving-151705749.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-20T15:17:05Z",
-      "image": "https://media.zenfs.com/en/gobankingrates_644/4b1395ba6440f29e95a025041c745ba5",
-      "slug": "8-us-locations-where-saving-for-a-down-payment-could-take-over-20-years-18e73a3a",
-      "orig_slug": "8-us-locations-where-saving-for-a-down-payment-could-take-over-20-years-18e73a3a"
-    },
-    {
       "title": "I’m 63 with $850K saved for retirement, but I can’t stop checking my balance. How can I fix my financial anxiety?",
       "link": "https://finance.yahoo.com/news/m-63-850k-saved-retirement-150100340.html",
       "source": "finance.yahoo.com",
@@ -63,15 +207,6 @@
       "image": "https://s.yimg.com/os/en/moneywise_ecomm_711/10d39dd65e64d81b55be98e3d27421c2",
       "slug": "im-63-with-850k-saved-for-retirement-but-i-cant-stop-checking-my-balance-how-can-f016cdeb",
       "orig_slug": "im-63-with-850k-saved-for-retirement-but-i-cant-stop-checking-my-balance-how-can-f016cdeb"
-    },
-    {
-      "title": "Stock Market Today: Dow Falls On Inflation Data, Weak GDP; Trump Tariff Ruling May Be Up Next (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-tariff-decision/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-20T14:48:16Z",
-      "image": "",
-      "slug": "stock-market-today-dow-falls-on-inflation-data-weak-gdp-trump-tariff-ruling-may--f4e56282",
-      "orig_slug": "stock-market-today-dow-falls-on-inflation-data-weak-gdp-trump-tariff-ruling-may--f4e56282"
     },
     {
       "title": "Earnings live: Opendoor surges on home sales upswing, Live Nation pops as more fans head to shows",
@@ -83,6 +218,15 @@
       "orig_slug": "earnings-live-opendoor-surges-on-home-sales-upswing-live-nation-pops-as-more-fan-95060f45"
     },
     {
+      "title": "DNOW Q4 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/news/dnow-q4-earnings-call-highlights-160007121.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-20T16:00:07Z",
+      "image": "https://s.yimg.com/os/en/marketbeat_955/3b928ef8ab5e7dfea5c07c4a01a5a470",
+      "slug": "dnow-q4-earnings-call-highlights-547b2447",
+      "orig_slug": "dnow-q4-earnings-call-highlights-547b2447"
+    },
+    {
       "title": "Trump And Iran Put Oil Prices Near Six-Month Highs But This Energy Industry Was Already Rallying",
       "link": "https://www.investors.com/news/trump-iran-oil-prices-stock-market-halliburton-slb-already-rallying/?src=A00220&yptr=yahoo",
       "source": "finance.yahoo.com",
@@ -92,103 +236,13 @@
       "orig_slug": "trump-and-iran-put-oil-prices-near-six-month-highs-but-this-energy-industry-was--77029ab7"
     },
     {
-      "title": "Netherlands Bans Polymarket Over ‘Illegal Gambling Services’",
-      "link": "https://finance.yahoo.com/news/netherlands-bans-polymarket-over-illegal-151459208.html",
+      "title": "US judge upholds $243 million verdict against Tesla over fatal Autopilot crash",
+      "link": "https://finance.yahoo.com/news/us-judge-upholds-243-million-143608340.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-20T15:14:59Z",
-      "image": "https://media.zenfs.com/en/decrypt_157/c1281c5948f3ff40c88380fdd0499b9d",
-      "slug": "netherlands-bans-polymarket-over-illegal-gambling-services-ed09f964",
-      "orig_slug": "netherlands-bans-polymarket-over-illegal-gambling-services-ed09f964"
-    },
-    {
-      "title": "Fed's Key Inflation Rate Hot; GDP Growth Tumbles (Live Coverage)",
-      "link": "https://www.investors.com/news/economy/federal-reserve-core-pce-inflation-rate-q4-gdp/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-20T14:31:42Z",
-      "image": "",
-      "slug": "feds-key-inflation-rate-hot-gdp-growth-tumbles-live-coverage-a98f0926",
-      "orig_slug": "feds-key-inflation-rate-hot-gdp-growth-tumbles-live-coverage-a98f0926"
-    },
-    {
-      "title": "West Pharmaceutical Services (WST) is Returning to Sustainable Volume Growth",
-      "link": "https://finance.yahoo.com/news/west-pharmaceutical-services-wst-returning-143007202.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-20T14:30:07Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/3da65c788695754bfdb5c982fc3e065c",
-      "slug": "west-pharmaceutical-services-wst-is-returning-to-sustainable-volume-growth-efe3b289",
-      "orig_slug": "west-pharmaceutical-services-wst-is-returning-to-sustainable-volume-growth-efe3b289"
-    },
-    {
-      "title": "Here’s Why Bentley Systems (BSY) Traded Lower in Q4",
-      "link": "https://finance.yahoo.com/news/why-bentley-systems-bsy-traded-142502279.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-20T14:25:02Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/ddf219b2ec4e4083414b82614005e3c4",
-      "slug": "heres-why-bentley-systems-bsy-traded-lower-in-q4-15ac26d3",
-      "orig_slug": "heres-why-bentley-systems-bsy-traded-lower-in-q4-15ac26d3"
-    },
-    {
-      "title": "What Makes Rollins (ROL) Conestoga Capital Advisors’ Core Holding",
-      "link": "https://finance.yahoo.com/news/makes-rollins-rol-conestoga-capital-142236355.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-20T14:22:36Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/37d3423c3e3f03de5cab52d76faf3061",
-      "slug": "what-makes-rollins-rol-conestoga-capital-advisors-core-holding-bea35853",
-      "orig_slug": "what-makes-rollins-rol-conestoga-capital-advisors-core-holding-bea35853"
-    },
-    {
-      "title": "Why Hycroft Mining Stock Was Up Close to 20% This Week",
-      "link": "https://finance.yahoo.com/news/why-hycroft-mining-stock-close-151412620.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-20T15:14:12Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/a84fff53be4b905739f8ede9e88b49a2",
-      "slug": "why-hycroft-mining-stock-was-up-close-to-20-this-week-7ea61b29",
-      "orig_slug": "why-hycroft-mining-stock-was-up-close-to-20-this-week-7ea61b29"
-    },
-    {
-      "title": "Veeva Systems (VEEV) Fell Due to a Broader Sector Rotation",
-      "link": "https://finance.yahoo.com/news/veeva-systems-veev-fell-due-141629624.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-20T14:16:29Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/8961c9dda6df83a71f5ffeb0864c37f6",
-      "slug": "veeva-systems-veev-fell-due-to-a-broader-sector-rotation-535ad3f1",
-      "orig_slug": "veeva-systems-veev-fell-due-to-a-broader-sector-rotation-535ad3f1"
-    },
-    {
-      "title": "Here’s Why IDEXX Laboratories (IDXX) Shares are Re-Rating to Historical Average",
-      "link": "https://finance.yahoo.com/news/why-idexx-laboratories-idxx-shares-141433107.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-20T14:14:33Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/2cd8148157cf1b7ad501c38998155fc7",
-      "slug": "heres-why-idexx-laboratories-idxx-shares-are-re-rating-to-historical-average-4c6d860e",
-      "orig_slug": "heres-why-idexx-laboratories-idxx-shares-are-re-rating-to-historical-average-4c6d860e"
-    },
-    {
-      "title": "Aggressive Capital Deployment in Its Homes.com Platform Pressured CoStar Group (CSGP) in Q4",
-      "link": "https://finance.yahoo.com/news/aggressive-capital-deployment-homes-com-141251236.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-20T14:12:51Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/017174cc5c9e8720a5075e82fe7b59ea",
-      "slug": "aggressive-capital-deployment-in-its-homescom-platform-pressured-costar-group-cs-0ba33740",
-      "orig_slug": "aggressive-capital-deployment-in-its-homescom-platform-pressured-costar-group-cs-0ba33740"
-    },
-    {
-      "title": "Bowman Consulting Group Ltd. (BWMN) Missed Consensus Estimates, Despite an Earnings Beat",
-      "link": "https://finance.yahoo.com/news/bowman-consulting-group-ltd-bwmn-140435847.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-20T14:04:35Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/05d086dfbf3760d80397f7de2c0f153f",
-      "slug": "bowman-consulting-group-ltd-bwmn-missed-consensus-estimates-despite-an-earnings--a9fa181e",
-      "orig_slug": "bowman-consulting-group-ltd-bwmn-missed-consensus-estimates-despite-an-earnings--a9fa181e"
-    },
-    {
-      "title": "Inflation Picked Up in December, Paving the Way for a Pause at the Fed",
-      "link": "https://www.barrons.com/articles/pce-inflation-what-expect-32789cb8?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-20T15:14:00Z",
-      "image": "",
-      "slug": "inflation-picked-up-in-december-paving-the-way-for-a-pause-at-the-fed-2717dda0",
-      "orig_slug": "inflation-picked-up-in-december-paving-the-way-for-a-pause-at-the-fed-2717dda0"
+      "pubDate": "2026-02-20T14:36:08Z",
+      "image": "https://s.yimg.com/os/en/reuters-finance.com/59a013049734c4064ae9ff489f99033d",
+      "slug": "us-judge-upholds-243-million-verdict-against-tesla-over-fatal-autopilot-crash-815c4fb3",
+      "orig_slug": "us-judge-upholds-243-million-verdict-against-tesla-over-fatal-autopilot-crash-815c4fb3"
     },
     {
       "title": "Are online banks safe? Here's what you need to know.",
@@ -200,184 +254,130 @@
       "orig_slug": "are-online-banks-safe-heres-what-you-need-to-know-fe5db0f1"
     },
     {
-      "title": "$2B Powerball winner splurges 76M on mansions — but experts call it a ‘financial burden.’ Better ways to invest instead",
-      "link": "https://finance.yahoo.com/news/2b-powerball-winner-splurges-76m-140000256.html",
+      "title": "Best high-yield savings interest rates today, February 19, 2026 (top account pays 4% APY)",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-thursday-february-19-2026-110014805.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-20T14:00:00Z",
-      "image": "https://s.yimg.com/os/en/moneywise_ecomm_711/534565999ebcccbe124750ead5e0c66c",
-      "slug": "2b-powerball-winner-splurges-76m-on-mansions-but-experts-call-it-a-financial-bur-3a6524f9",
-      "orig_slug": "2b-powerball-winner-splurges-76m-on-mansions-but-experts-call-it-a-financial-bur-3a6524f9"
+      "pubDate": "2026-02-19T11:00:14Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/j.Q7K.PM0AVOB0rxpGj2YA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/0b8d03a0-4eb6-11ef-bffd-16e2b437d0c3",
+      "slug": "best-high-yield-savings-interest-rates-today-february-19-2026-top-account-pays-4-c5406ed2",
+      "orig_slug": "best-high-yield-savings-interest-rates-today-february-19-2026-top-account-pays-4-c5406ed2"
     },
     {
-      "title": "Mail thieves nabbing credit cards and checks daily despite USPS security efforts. How to protect your mail and finances",
-      "link": "https://finance.yahoo.com/news/mail-thieves-nabbing-credit-cards-140000305.html",
+      "title": "CTO Realty Growth Q4 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/news/cto-realty-growth-q4-earnings-160007461.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-20T14:00:00Z",
-      "image": "https://s.yimg.com/os/en/moneywise_327/90833e2df3c34265234bca8c3b93fee6",
-      "slug": "mail-thieves-nabbing-credit-cards-and-checks-daily-despite-usps-security-efforts-1a542927",
-      "orig_slug": "mail-thieves-nabbing-credit-cards-and-checks-daily-despite-usps-security-efforts-1a542927"
+      "pubDate": "2026-02-20T16:00:07Z",
+      "image": "https://s.yimg.com/os/en/marketbeat_955/a5bc843f1b762323e2ebb581a4cb1ad5",
+      "slug": "cto-realty-growth-q4-earnings-call-highlights-66d8841b",
+      "orig_slug": "cto-realty-growth-q4-earnings-call-highlights-66d8841b"
     },
     {
-      "title": "US PCE inflation heats up in December",
-      "link": "https://finance.yahoo.com/news/us-pce-inflation-heats-december-134652023.html",
+      "title": "Best money market account rates today, February 19, 2026 (earn up to 4.01% APY)",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-thursday-february-19-2026-110011361.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-20T13:50:23Z",
-      "image": "https://s.yimg.com/os/en/reuters.com/56466d905dfaebe6121760142a62f974",
-      "slug": "us-pce-inflation-heats-up-in-december-7cd1ddc7",
-      "orig_slug": "us-pce-inflation-heats-up-in-december-7cd1ddc7"
+      "pubDate": "2026-02-19T11:00:11Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/ZtU3O8e27vm2THzYgLOq4w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/1aac32e0-1b28-11f0-bfbf-e6f1fb0fa991",
+      "slug": "best-money-market-account-rates-today-february-19-2026-earn-up-to-401-apy-b579fc9c",
+      "orig_slug": "best-money-market-account-rates-today-february-19-2026-earn-up-to-401-apy-b579fc9c"
     },
     {
-      "title": "CTO Realty (CTO) Q4 2025 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/news/cto-realty-cto-q4-2025-151342153.html",
+      "title": "Best CD rates today, February 19, 2026 (lock in up to 4% APY)",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-february-19-2026-lock-in-up-to-4-apy-110048568.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-20T15:13:42Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
-      "slug": "cto-realty-cto-q4-2025-earnings-call-transcript-f88ff922",
-      "orig_slug": "cto-realty-cto-q4-2025-earnings-call-transcript-f88ff922"
+      "pubDate": "2026-02-19T11:00:48Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/ZUb6Vxjvr9QTQlhugSpWpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47af0d1-4f64-11ef-94fa-3befcbf0f2e3",
+      "slug": "best-cd-rates-today-february-19-2026-lock-in-up-to-4-apy-2879eebe",
+      "orig_slug": "best-cd-rates-today-february-19-2026-lock-in-up-to-4-apy-2879eebe"
     },
     {
-      "title": "London Stock Exchange to host first transaction under new private share platform",
-      "link": "https://finance.yahoo.com/news/london-stock-exchange-launches-first-134439776.html",
+      "title": "Gold price today, Friday, February 20: Gold moves above $5,000 again on geopolitical tensions",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-friday-february-20-gold-moves-above-5000-again-on-geopolitical-tensions-122251139.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-20T13:44:39Z",
-      "image": "https://s.yimg.com/os/en/reuters-finance.com/93a4932a929b983ecc88944b3fcd0de4",
-      "slug": "london-stock-exchange-to-host-first-transaction-under-new-private-share-platform-ff23d62a",
-      "orig_slug": "london-stock-exchange-to-host-first-transaction-under-new-private-share-platform-ff23d62a"
+      "pubDate": "2026-02-17T12:22:51Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/aWaWnIbi5BX_E1GSCU8txA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/3e495ec0-b0cf-11f0-9eff-b6d8878d384d",
+      "slug": "gold-price-today-friday-february-20-gold-moves-above-5000-again-on-geopolitical--ad28daf3",
+      "orig_slug": "gold-price-today-friday-february-20-gold-moves-above-5000-again-on-geopolitical--ad28daf3"
     },
     {
-      "title": "Oddity Tech Ltd. (ODD) Achieved More Than 20% Operating Margins with Rapid Growth",
-      "link": "https://finance.yahoo.com/news/oddity-tech-ltd-odd-achieved-133328661.html",
+      "title": "Mortgage rates drop to lowest level in nearly 4 years",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-drop-to-lowest-level-in-nearly-4-years-110045487.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-20T13:33:28Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/7c7ca651eb5bdee4d0ba14273cf3b215",
-      "slug": "oddity-tech-ltd-odd-achieved-more-than-20-operating-margins-with-rapid-growth-a1c52b64",
-      "orig_slug": "oddity-tech-ltd-odd-achieved-more-than-20-operating-margins-with-rapid-growth-a1c52b64"
+      "pubDate": "2026-02-19T11:00:45Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/xZC0w6_IfBBiWnDXXuDBaQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTY-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/a5f3afc0-e66d-11f0-b3bd-7367ec3d6d0a",
+      "slug": "mortgage-rates-drop-to-lowest-level-in-nearly-4-years-66b62170",
+      "orig_slug": "mortgage-rates-drop-to-lowest-level-in-nearly-4-years-66b62170"
     },
     {
-      "title": "Telix Pharmaceuticals Limited Q4 2025 Earnings Call Summary",
-      "link": "https://finance.yahoo.com/news/telix-pharmaceuticals-limited-q4-2025-133217620.html",
+      "title": "Chemours Q4 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/news/chemours-q4-earnings-call-highlights-160007111.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-20T13:32:17Z",
-      "image": "https://s.yimg.com/os/en/moby_896/d18b66eecb66d2f2621bdfad6b0e6c28",
-      "slug": "telix-pharmaceuticals-limited-q4-2025-earnings-call-summary-62f64388",
-      "orig_slug": "telix-pharmaceuticals-limited-q4-2025-earnings-call-summary-62f64388"
+      "pubDate": "2026-02-20T16:00:07Z",
+      "image": "https://s.yimg.com/os/en/marketbeat_955/e90b11098423f19c607f5fe7bf05c691",
+      "slug": "chemours-q4-earnings-call-highlights-f1269b0c",
+      "orig_slug": "chemours-q4-earnings-call-highlights-f1269b0c"
     },
     {
-      "title": "Should You Hold i3 Verticals (IIIV)?",
-      "link": "https://finance.yahoo.com/news/hold-i3-verticals-iiiv-133034901.html",
+      "title": "How much income is needed to afford a $500,000 mortgage (including the down payment)?",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/income-needed-for-500k-mortgage-and-down-payment-162215694.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-20T13:30:34Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/76008fb2de7a1dfc139bfa124ca2ecdd",
-      "slug": "should-you-hold-i3-verticals-iiiv-f692b621",
-      "orig_slug": "should-you-hold-i3-verticals-iiiv-f692b621"
+      "pubDate": "2026-01-14T16:22:15Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/krvhhRrLln.WmrvyjoAk.g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-05/bb937f60-f0eb-11ed-adfc-e17dee1e35a7",
+      "slug": "how-much-income-is-needed-to-afford-a-500000-mortgage-including-the-down-payment-17dd98f6",
+      "orig_slug": "how-much-income-is-needed-to-afford-a-500000-mortgage-including-the-down-payment-17dd98f6"
     },
     {
-      "title": "Western Union (WU) Q4 2025 Earnings Transcript",
-      "link": "https://finance.yahoo.com/news/western-union-wu-q4-2025-151225141.html",
+      "title": "Where to keep your home equity loan money until you need it",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/where-to-keep-home-equity-loan-money-174656973.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-20T15:12:25Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
-      "slug": "western-union-wu-q4-2025-earnings-transcript-a978a24a",
-      "orig_slug": "western-union-wu-q4-2025-earnings-transcript-a978a24a"
+      "pubDate": "2026-02-19T17:46:56Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/HOGB0qKnAyhd_keyypBguA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/4024ea70-03ae-11f1-9dfb-0db5c4148262",
+      "slug": "where-to-keep-your-home-equity-loan-money-until-you-need-it-79adf546",
+      "orig_slug": "where-to-keep-your-home-equity-loan-money-until-you-need-it-79adf546"
     },
     {
-      "title": "Rimini Street, Inc. Q4 2025 Earnings Call Summary",
-      "link": "https://finance.yahoo.com/news/rimini-street-inc-q4-2025-133000399.html",
+      "title": "Best usage-based car insurance 2026",
+      "link": "https://finance.yahoo.com/personal-finance/insurance/article/best-usage-based-car-insurance-175307901.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-20T13:30:00Z",
-      "image": "https://s.yimg.com/os/en/moby_896/c0117232e9fdb6b79857626a83f74dbf",
-      "slug": "rimini-street-inc-q4-2025-earnings-call-summary-694ac8f8",
-      "orig_slug": "rimini-street-inc-q4-2025-earnings-call-summary-694ac8f8"
+      "pubDate": "2026-02-19T17:53:07Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/10NSd8v9S.gAX.Sh5y5VUw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/bc7ed540-0d8b-11f1-9d7f-b79d1ff62529",
+      "slug": "best-usage-based-car-insurance-2026-578d3769",
+      "orig_slug": "best-usage-based-car-insurance-2026-578d3769"
     },
     {
-      "title": "Tandem Diabetes Care, Inc. Q4 2025 Earnings Call Summary",
-      "link": "https://finance.yahoo.com/news/tandem-diabetes-care-inc-q4-133000942.html",
+      "title": "How much is a $700,000 mortgage monthly payment?",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/how-much-is-700000-mortgage-monthly-payment-140033277.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-20T13:30:00Z",
-      "image": "https://s.yimg.com/os/en/moby_896/67385f9a50f34699ad363df9541e3336",
-      "slug": "tandem-diabetes-care-inc-q4-2025-earnings-call-summary-3d081877",
-      "orig_slug": "tandem-diabetes-care-inc-q4-2025-earnings-call-summary-3d081877"
+      "pubDate": "2026-01-07T14:00:33Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/S0vhCOOA.kMPzPdd2OATTw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/88ba7080-e0f3-11f0-b3e8-d4c6885dc8df",
+      "slug": "how-much-is-a-700000-mortgage-monthly-payment-b446b12e",
+      "orig_slug": "how-much-is-a-700000-mortgage-monthly-payment-b446b12e"
     },
     {
-      "title": "Savers Value Village, Inc. Q4 2025 Earnings Call Summary",
-      "link": "https://finance.yahoo.com/news/savers-value-village-inc-q4-133000632.html",
+      "title": "Barings Bdc Q4 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/news/barings-bdc-q4-earnings-call-160007185.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-20T13:30:00Z",
-      "image": "https://s.yimg.com/os/en/moby_896/50855bb6a88f92f881032bad4449190e",
-      "slug": "savers-value-village-inc-q4-2025-earnings-call-summary-823f3647",
-      "orig_slug": "savers-value-village-inc-q4-2025-earnings-call-summary-823f3647"
+      "pubDate": "2026-02-20T16:00:07Z",
+      "image": "https://s.yimg.com/os/en/marketbeat_955/3867b2b67eac5dbbd45a789ff4669391",
+      "slug": "barings-bdc-q4-earnings-call-highlights-93f9591e",
+      "orig_slug": "barings-bdc-q4-earnings-call-highlights-93f9591e"
     },
     {
-      "title": "WillScot Holdings Corporation Q4 2025 Earnings Call Summary",
-      "link": "https://finance.yahoo.com/news/willscot-holdings-corporation-q4-2025-133000460.html",
+      "title": "6 important security features to look for in a bank",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/banking-security-213314043.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-20T13:30:00Z",
-      "image": "https://s.yimg.com/os/en/moby_896/a24282d472bc5002c6728bb0492e826f",
-      "slug": "willscot-holdings-corporation-q4-2025-earnings-call-summary-7b76e553",
-      "orig_slug": "willscot-holdings-corporation-q4-2025-earnings-call-summary-7b76e553"
+      "pubDate": "2024-03-21T21:33:14Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/tFYR.qYdymwh6koP_25lhA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/fb531110-e7c6-11ee-bd75-fcd3e6a6a944",
+      "slug": "6-important-security-features-to-look-for-in-a-bank-d3c26c6f",
+      "orig_slug": "6-important-security-features-to-look-for-in-a-bank-d3c26c6f"
     },
     {
-      "title": "Wayfair returns to operating profit as 2025 revenue rises",
-      "link": "https://finance.yahoo.com/news/wayfair-returns-operating-profit-2025-151022009.html",
+      "title": "HELOC and home equity loan rates today, February 20, 2026: Lowest rates since late 2022",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-friday-february-20-2026-110035737.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-20T15:10:22Z",
-      "image": "https://media.zenfs.com/en/retail_insight_network_724/a52490bd94fe044d65ed7006aaaaae5f",
-      "slug": "wayfair-returns-to-operating-profit-as-2025-revenue-rises-37bdb942",
-      "orig_slug": "wayfair-returns-to-operating-profit-as-2025-revenue-rises-37bdb942"
-    },
-    {
-      "title": "Weave Communications, Inc. Q4 2025 Earnings Call Summary",
-      "link": "https://finance.yahoo.com/news/weave-communications-inc-q4-2025-133000767.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-20T13:30:00Z",
-      "image": "https://s.yimg.com/os/en/moby_896/9ed303d92f79b67b24eb78856d21101d",
-      "slug": "weave-communications-inc-q4-2025-earnings-call-summary-5ef99a3c",
-      "orig_slug": "weave-communications-inc-q4-2025-earnings-call-summary-5ef99a3c"
-    },
-    {
-      "title": "Inseego Corp. Q4 2025 Earnings Call Summary",
-      "link": "https://finance.yahoo.com/news/inseego-corp-q4-2025-earnings-133000457.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-20T13:30:00Z",
-      "image": "https://s.yimg.com/os/en/moby_896/95598bde28159ed22430b449e29a5055",
-      "slug": "inseego-corp-q4-2025-earnings-call-summary-bca1912c",
-      "orig_slug": "inseego-corp-q4-2025-earnings-call-summary-bca1912c"
-    },
-    {
-      "title": "indie Semiconductor, Inc. Q4 2025 Earnings Call Summary",
-      "link": "https://finance.yahoo.com/news/indie-semiconductor-inc-q4-2025-133000658.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-20T13:30:00Z",
-      "image": "https://s.yimg.com/os/en/moby_896/2966a31113564a34a586e9e27a306c06",
-      "slug": "indie-semiconductor-inc-q4-2025-earnings-call-summary-98692453",
-      "orig_slug": "indie-semiconductor-inc-q4-2025-earnings-call-summary-98692453"
-    },
-    {
-      "title": "Harmonic Inc. Q4 2025 Earnings Call Summary",
-      "link": "https://finance.yahoo.com/news/harmonic-inc-q4-2025-earnings-133000485.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-20T13:30:00Z",
-      "image": "https://s.yimg.com/os/en/moby_896/c26d9022909f8ddf13d2b4254b8a8157",
-      "slug": "harmonic-inc-q4-2025-earnings-call-summary-16ad789c",
-      "orig_slug": "harmonic-inc-q4-2025-earnings-call-summary-16ad789c"
-    },
-    {
-      "title": "Here’s What Every Retiree Needs To Know About TrumpRX",
-      "link": "https://finance.yahoo.com/news/every-retiree-needs-know-trumprx-151006447.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-20T15:10:06Z",
-      "image": "https://media.zenfs.com/en/gobankingrates_644/81704fd60bc597b7ab1bd4eaf4571995",
-      "slug": "heres-what-every-retiree-needs-to-know-about-trumprx-2919273d",
-      "orig_slug": "heres-what-every-retiree-needs-to-know-about-trumprx-2919273d"
-    },
-    {
-      "title": "Ardelyx, Inc. Q4 2025 Earnings Call Summary",
-      "link": "https://finance.yahoo.com/news/ardelyx-inc-q4-2025-earnings-133000132.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-20T13:30:00Z",
-      "image": "https://s.yimg.com/os/en/moby_896/c3710b8990a9474bd8fa6236394510ee",
-      "slug": "ardelyx-inc-q4-2025-earnings-call-summary-f2ffae63",
-      "orig_slug": "ardelyx-inc-q4-2025-earnings-call-summary-f2ffae63"
+      "pubDate": "2026-02-20T11:00:35Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/.s_eK2TthYlP26Fzb3LEMQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/eb4e4990-4262-11f0-b61f-fecabc8eb879",
+      "slug": "heloc-and-home-equity-loan-rates-today-february-20-2026-lowest-rates-since-late--6ade027d",
+      "orig_slug": "heloc-and-home-equity-loan-rates-today-february-20-2026-lowest-rates-since-late--6ade027d"
     }
   ]
 }
