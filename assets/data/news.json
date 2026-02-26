@@ -1,338 +1,41 @@
 {
-  "updated": "2026-02-26T22:23:38Z",
+  "updated": "2026-02-26T23:22:15Z",
   "items": [
     {
-      "title": "Global Trade Is Holding Up, Says HSBC Chief",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-25-2026/card/trade-is-holding-up-says-hsbc-chief-4QOIvFkgn2K7bHj5r9k8?siteid=yhoof2&yptr=yahoo",
+      "title": "Loop Capital Upgrades Qualcomm (QCOM) to Buy, Sees Stock Nearing Turning Point",
+      "link": "https://finance.yahoo.com/news/loop-capital-upgrades-qualcomm-qcom-154640634.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-25T14:44:39Z",
-      "image": "",
-      "slug": "global-trade-is-holding-up-says-hsbc-chief-2657bd23",
-      "orig_slug": "global-trade-is-holding-up-says-hsbc-chief-2657bd23"
+      "pubDate": "2026-02-25T15:46:40Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/d444fce460f8346168e0a6e22d29c70d",
+      "slug": "loop-capital-upgrades-qualcomm-qcom-to-buy-sees-stock-nearing-turning-point-7466caed",
+      "orig_slug": "loop-capital-upgrades-qualcomm-qcom-to-buy-sees-stock-nearing-turning-point-7466caed"
     },
     {
-      "title": "BMO’s quarterly earnings suggest truck credit might be improving",
-      "link": "https://finance.yahoo.com/news/bmo-quarterly-earnings-suggest-truck-143707159.html",
+      "title": "Corporations await more OBBBA tax guidance",
+      "link": "https://finance.yahoo.com/news/corporations-await-more-obbba-tax-154600184.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-25T14:37:07Z",
-      "image": "https://media.zenfs.com/en/freightwaves_373/9ea31bcfeae24116ddae768e850ebc97",
-      "slug": "bmos-quarterly-earnings-suggest-truck-credit-might-be-improving-da2c4d15",
-      "orig_slug": "bmos-quarterly-earnings-suggest-truck-credit-might-be-improving-da2c4d15"
+      "pubDate": "2026-02-25T15:46:00Z",
+      "image": "https://media.zenfs.com/en/cfo_dive_422/768bd55842f746eaaa48a0e77ea1d722",
+      "slug": "corporations-await-more-obbba-tax-guidance-44fddc9d",
+      "orig_slug": "corporations-await-more-obbba-tax-guidance-44fddc9d"
     },
     {
-      "title": "Adobe Stock: Is ADBE Underperforming the Technology Sector?",
-      "link": "https://finance.yahoo.com/news/adobe-stock-adbe-underperforming-technology-143046063.html",
+      "title": "JPMorgan Raises McDonald’s (MCD) Valuation, Calls Stock Attractive on Pullbacks",
+      "link": "https://finance.yahoo.com/news/jpmorgan-raises-mcdonald-mcd-valuation-154852947.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-25T14:30:46Z",
-      "image": "https://s.yimg.com/os/en/barchart_com_477/ff52376497dc664ed9ea59291cef9e38",
-      "slug": "adobe-stock-is-adbe-underperforming-the-technology-sector-8cd61fbc",
-      "orig_slug": "adobe-stock-is-adbe-underperforming-the-technology-sector-8cd61fbc"
+      "pubDate": "2026-02-25T15:48:52Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/ea04d1b9fea9733e7543bf50152e2f65",
+      "slug": "jpmorgan-raises-mcdonalds-mcd-valuation-calls-stock-attractive-on-pullbacks-e81eadaf",
+      "orig_slug": "jpmorgan-raises-mcdonalds-mcd-valuation-calls-stock-attractive-on-pullbacks-e81eadaf"
     },
     {
-      "title": "Oracle Stock Upgraded To Buy As Analyst Sees Upside Following Sell Off",
-      "link": "https://www.investors.com/news/technology/oracle-stock-upgrade-buy-oppenheimer/?src=A00220&yptr=yahoo",
+      "title": "Accenture (ACN) Targets Infrastructure Growth in Latin America with Verum Acquisition",
+      "link": "https://finance.yahoo.com/news/accenture-acn-targets-infrastructure-growth-154229088.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-25T14:50:37Z",
-      "image": "",
-      "slug": "oracle-stock-upgraded-to-buy-as-analyst-sees-upside-following-sell-off-6498f882",
-      "orig_slug": "oracle-stock-upgraded-to-buy-as-analyst-sees-upside-following-sell-off-6498f882"
-    },
-    {
-      "title": "Is Applied Materials Stock Outperforming the S&P 500?",
-      "link": "https://finance.yahoo.com/news/applied-materials-stock-outperforming-p-141810278.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-25T14:18:10Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/cb3d53551a814d5fdb581b924e22f23d",
-      "slug": "is-applied-materials-stock-outperforming-the-sp-500-53113b4b",
-      "orig_slug": "is-applied-materials-stock-outperforming-the-sp-500-53113b4b"
-    },
-    {
-      "title": "Analyst Report: EBay Inc.",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_2916_AnalystReport_1772131501000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-26T18:45:01Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "analyst-report-ebay-inc-860ca619",
-      "orig_slug": "analyst-report-ebay-inc-860ca619"
-    },
-    {
-      "title": "Tempus AI Posts 83% Revenue Growth Yet Stumbles on Full Year Profitability Target",
-      "link": "https://finance.yahoo.com/news/tempus-ai-posts-83-revenue-144427172.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-25T14:44:27Z",
-      "image": "https://media.zenfs.com/en/24_7_wall_st__718/bf4e6585a6b4064f64aabae3383c391b",
-      "slug": "tempus-ai-posts-83-revenue-growth-yet-stumbles-on-full-year-profitability-target-d70354a2",
-      "orig_slug": "tempus-ai-posts-83-revenue-growth-yet-stumbles-on-full-year-profitability-target-d70354a2"
-    },
-    {
-      "title": "Is T-Mobile US Stock Underperforming the Dow?",
-      "link": "https://finance.yahoo.com/news/t-mobile-us-stock-underperforming-141534281.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-25T14:15:34Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/06dd779049a4ff1160eae65a34b1bceb",
-      "slug": "is-t-mobile-us-stock-underperforming-the-dow-cea8a5f6",
-      "orig_slug": "is-t-mobile-us-stock-underperforming-the-dow-cea8a5f6"
-    },
-    {
-      "title": "How Is Goldman Sachs' Stock Performance Compared to Other Capital Markets Stocks?",
-      "link": "https://finance.yahoo.com/news/goldman-sachs-stock-performance-compared-141530165.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-25T14:15:30Z",
-      "image": "https://s.yimg.com/os/en/barchart_com_477/94fd06a5b887399adae387f908a1d953",
-      "slug": "how-is-goldman-sachs-stock-performance-compared-to-other-capital-markets-stocks-93541a17",
-      "orig_slug": "how-is-goldman-sachs-stock-performance-compared-to-other-capital-markets-stocks-93541a17"
-    },
-    {
-      "title": "How Is American Express' Stock Performance Compared to Other Digital Payments Stocks?",
-      "link": "https://finance.yahoo.com/news/american-express-stock-performance-compared-141439843.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-25T14:14:39Z",
-      "image": "https://s.yimg.com/os/en/barchart_com_477/6630f9f62c87155b4a6a7189f0d4070f",
-      "slug": "how-is-american-express-stock-performance-compared-to-other-digital-payments-sto-d0d61a73",
-      "orig_slug": "how-is-american-express-stock-performance-compared-to-other-digital-payments-sto-d0d61a73"
-    },
-    {
-      "title": "Coffee Prices Are Falling. How Much Lower Can They Go?",
-      "link": "https://finance.yahoo.com/news/coffee-prices-falling-much-lower-145332655.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-25T14:53:32Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/d94820f8718ec179dae40fc540770086",
-      "slug": "coffee-prices-are-falling-how-much-lower-can-they-go-e08c72f5",
-      "orig_slug": "coffee-prices-are-falling-how-much-lower-can-they-go-e08c72f5"
-    },
-    {
-      "title": "Analyst Report: DTE Energy Co.",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_2908_AnalystReport_1772131501000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-26T18:45:01Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "analyst-report-dte-energy-co-850f9ab7",
-      "orig_slug": "analyst-report-dte-energy-co-850f9ab7"
-    },
-    {
-      "title": "Forget Tilray: This Steady Income Stock Beats Wild Cannabis Swings Every Time",
-      "link": "https://finance.yahoo.com/news/forget-tilray-steady-income-stock-144000069.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-25T14:40:00Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/d030fedc7bb43d5b645776e747a4a6e5",
-      "slug": "forget-tilray-this-steady-income-stock-beats-wild-cannabis-swings-every-time-7332de06",
-      "orig_slug": "forget-tilray-this-steady-income-stock-beats-wild-cannabis-swings-every-time-7332de06"
-    },
-    {
-      "title": "TJX Cos forecasts muted annual sales and profit as consumers pull back spending",
-      "link": "https://finance.yahoo.com/news/tjx-cos-forecasts-muted-annual-141116941.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-25T14:11:16Z",
-      "image": "https://s.yimg.com/os/en/reuters.com/7b66067bf14d8139917d69c3fadca3bc",
-      "slug": "tjx-cos-forecasts-muted-annual-sales-and-profit-as-consumers-pull-back-spending-ae85b6ed",
-      "orig_slug": "tjx-cos-forecasts-muted-annual-sales-and-profit-as-consumers-pull-back-spending-ae85b6ed"
-    },
-    {
-      "title": "Is Abbott Laboratories Stock Underperforming the Nasdaq?",
-      "link": "https://finance.yahoo.com/news/abbott-laboratories-stock-underperforming-nasdaq-141115085.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-25T14:11:15Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/c45c7663791f2fe119b3401a74163bde",
-      "slug": "is-abbott-laboratories-stock-underperforming-the-nasdaq-2a3a975e",
-      "orig_slug": "is-abbott-laboratories-stock-underperforming-the-nasdaq-2a3a975e"
-    },
-    {
-      "title": "3 Highest Rated Dividend Kings for Generations of Income",
-      "link": "https://finance.yahoo.com/news/3-highest-rated-dividend-kings-145400209.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-25T14:54:00Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/e691bd04b06eca3bf74d1febc845d791",
-      "slug": "3-highest-rated-dividend-kings-for-generations-of-income-cff0a3b0",
-      "orig_slug": "3-highest-rated-dividend-kings-for-generations-of-income-cff0a3b0"
-    },
-    {
-      "title": "Is Intuitive Surgical Stock Underperforming the Dow?",
-      "link": "https://finance.yahoo.com/news/intuitive-surgical-stock-underperforming-dow-140921401.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-25T14:09:21Z",
-      "image": "https://s.yimg.com/os/en/barchart_com_477/a2ec0d090a20d795d7ec350588ebde37",
-      "slug": "is-intuitive-surgical-stock-underperforming-the-dow-36332f79",
-      "orig_slug": "is-intuitive-surgical-stock-underperforming-the-dow-36332f79"
-    },
-    {
-      "title": "Market Update: BSX, CHH, DTE, EBAY, HD, W",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_46278_MarketUpdate_1772131501000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-26T18:45:01Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "market-update-bsx-chh-dte-ebay-hd-w-1375cbb4",
-      "orig_slug": "market-update-bsx-chh-dte-ebay-hd-w-1375cbb4"
-    },
-    {
-      "title": "Why this investor says you can make good money off software stocks — if you trade them like telephone directories",
-      "link": "https://finance.yahoo.com/news/why-investor-says-good-money-143900369.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-25T14:39:00Z",
-      "image": "https://media.zenfs.com/en/marketwatch_hosted_869/7bd66b0ada903daac2bebaa1ea3740a0",
-      "slug": "why-this-investor-says-you-can-make-good-money-off-software-stocks-if-you-trade--59712239",
-      "orig_slug": "why-this-investor-says-you-can-make-good-money-off-software-stocks-if-you-trade--59712239"
-    },
-    {
-      "title": "Lessor ATSG quits Airbus A321 cargo conversion joint venture",
-      "link": "https://finance.yahoo.com/news/lessor-atsg-quits-airbus-a321-140918336.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-25T14:09:18Z",
-      "image": "https://media.zenfs.com/en/freightwaves_373/ad55737e4155e9dfef13d16a425bf9c8",
-      "slug": "lessor-atsg-quits-airbus-a321-cargo-conversion-joint-venture-dc0b685f",
-      "orig_slug": "lessor-atsg-quits-airbus-a321-cargo-conversion-joint-venture-dc0b685f"
-    },
-    {
-      "title": "Aristotle Growth Equity Fund: Snowflake (SNOW) Stands Out as a Leading Data Cloud Platform",
-      "link": "https://finance.yahoo.com/news/aristotle-growth-equity-fund-snowflake-140652743.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-25T14:06:52Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/a3bdb4b754fd53d76e6bb927d6f8c31d",
-      "slug": "aristotle-growth-equity-fund-snowflake-snow-stands-out-as-a-leading-data-cloud-p-b6e2b9f5",
-      "orig_slug": "aristotle-growth-equity-fund-snowflake-snow-stands-out-as-a-leading-data-cloud-p-b6e2b9f5"
-    },
-    {
-      "title": "Is Texas Instruments Stock Underperforming the Dow?",
-      "link": "https://finance.yahoo.com/news/texas-instruments-stock-underperforming-dow-140503259.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-25T14:05:03Z",
-      "image": "https://s.yimg.com/os/en/barchart_com_477/7b5f19dbd70a37b1552f8450473075ca",
-      "slug": "is-texas-instruments-stock-underperforming-the-dow-c684ea04",
-      "orig_slug": "is-texas-instruments-stock-underperforming-the-dow-c684ea04"
-    },
-    {
-      "title": "I’m 50 years old with $400K in savings, but I’ve heard the magic number for retirement is $1.26 million. Will I be okay?",
-      "link": "https://finance.yahoo.com/news/m-50-years-old-400k-140300317.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-25T14:03:00Z",
-      "image": "https://s.yimg.com/os/en/moneywise_ecomm_711/cd97388348e4753b509349c1db7dbc0c",
-      "slug": "im-50-years-old-with-400k-in-savings-but-ive-heard-the-magic-number-for-retireme-7bda1529",
-      "orig_slug": "im-50-years-old-with-400k-in-savings-but-ive-heard-the-magic-number-for-retireme-7bda1529"
-    },
-    {
-      "title": "UFP Tech (UFPT) Q4 2025 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/news/ufp-tech-ufpt-q4-2025-144113302.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-25T14:41:13Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
-      "slug": "ufp-tech-ufpt-q4-2025-earnings-call-transcript-b34a78b3",
-      "orig_slug": "ufp-tech-ufpt-q4-2025-earnings-call-transcript-b34a78b3"
-    },
-    {
-      "title": "Should You Be Confident in Lamb Weston Holdings’ (LW) Attractive Long-Term Growth?",
-      "link": "https://finance.yahoo.com/news/confident-lamb-weston-holdings-lw-140122298.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-25T14:01:22Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/9de7e1525e55e4924a9f7da4a8f9b15c",
-      "slug": "should-you-be-confident-in-lamb-weston-holdings-lw-attractive-long-term-growth-ba936396",
-      "orig_slug": "should-you-be-confident-in-lamb-weston-holdings-lw-attractive-long-term-growth-ba936396"
-    },
-    {
-      "title": "Is Wells Fargo Stock Underperforming the Nasdaq?",
-      "link": "https://finance.yahoo.com/news/wells-fargo-stock-underperforming-nasdaq-140212708.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-25T14:02:12Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/590dec773b4eda696c460e2773fcc968",
-      "slug": "is-wells-fargo-stock-underperforming-the-nasdaq-3a067b7a",
-      "orig_slug": "is-wells-fargo-stock-underperforming-the-nasdaq-3a067b7a"
-    },
-    {
-      "title": "Shoemaker Steven Madden withholds profit forecast on tariff uncertainty",
-      "link": "https://finance.yahoo.com/news/shoemaker-steven-madden-withholds-profit-143331423.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-25T14:58:49Z",
-      "image": "https://s.yimg.com/os/en/reuters.com/dcdf429459ef0f4e092af522e55fbfaa",
-      "slug": "shoemaker-steven-madden-withholds-profit-forecast-on-tariff-uncertainty-6bdbeb3e",
-      "orig_slug": "shoemaker-steven-madden-withholds-profit-forecast-on-tariff-uncertainty-6bdbeb3e"
-    },
-    {
-      "title": "Verizon Communications Stock: Is VZ Outperforming the Communication Services Sector?",
-      "link": "https://finance.yahoo.com/news/verizon-communications-stock-vz-outperforming-135926661.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-25T13:59:26Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/08d2f9555dc57074fddbd779111e378f",
-      "slug": "verizon-communications-stock-is-vz-outperforming-the-communication-services-sect-7f5336f2",
-      "orig_slug": "verizon-communications-stock-is-vz-outperforming-the-communication-services-sect-7f5336f2"
-    },
-    {
-      "title": "Stocks Are Rising. Nvidia Earnings Are in Focus.",
-      "link": "https://www.barrons.com/livecoverage/stock-market-news-today-022526/card/stocks-are-rising-nvidia-earnings-are-in-focus--AC8lq770EBDKq1b8AYm2?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-25T14:36:09Z",
-      "image": "",
-      "slug": "stocks-are-rising-nvidia-earnings-are-in-focus-71bcfb2d",
-      "orig_slug": "stocks-are-rising-nvidia-earnings-are-in-focus-71bcfb2d"
-    },
-    {
-      "title": "Solid Results Lifted AerCap Holdings (AER) in Q4",
-      "link": "https://finance.yahoo.com/news/solid-results-lifted-aercap-holdings-140005950.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-25T14:00:05Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/dce52630cac74768eb308691c443cff3",
-      "slug": "solid-results-lifted-aercap-holdings-aer-in-q4-c4ebf639",
-      "orig_slug": "solid-results-lifted-aercap-holdings-aer-in-q4-c4ebf639"
-    },
-    {
-      "title": "FAIR plan gave 97-year-old just $38K for CA fire damage — son paid $300K to fix. Why ‘bare’ insurance is a risky option",
-      "link": "https://finance.yahoo.com/news/fair-plan-gave-97-old-140000010.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-25T14:00:00Z",
-      "image": "https://s.yimg.com/os/en/moneywise_327/6492e2c130ec62730026038db797ec39",
-      "slug": "fair-plan-gave-97-year-old-just-38k-for-ca-fire-damage-son-paid-300k-to-fix-why--4aa07657",
-      "orig_slug": "fair-plan-gave-97-year-old-just-38k-for-ca-fire-damage-son-paid-300k-to-fix-why--4aa07657"
-    },
-    {
-      "title": "The U.S. Just Took a Giant Step in The Rare Earth Race With China",
-      "link": "https://finance.yahoo.com/news/u-just-took-giant-step-145900935.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-25T14:59:00Z",
-      "image": "https://s.yimg.com/os/en/oilprice.com/84ebbbbc567f932fb1f2a01c07e2267a",
-      "slug": "the-us-just-took-a-giant-step-in-the-rare-earth-race-with-china-1564aa54",
-      "orig_slug": "the-us-just-took-a-giant-step-in-the-rare-earth-race-with-china-1564aa54"
-    },
-    {
-      "title": "Dollar Tree (DLTR) Rallied Following the Divestiture of Its Family Dollar Business",
-      "link": "https://finance.yahoo.com/news/dollar-tree-dltr-rallied-following-135703959.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-25T13:57:03Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/fc6cb119269420e6e199e044286469c5",
-      "slug": "dollar-tree-dltr-rallied-following-the-divestiture-of-its-family-dollar-business-00c3cbf3",
-      "orig_slug": "dollar-tree-dltr-rallied-following-the-divestiture-of-its-family-dollar-business-00c3cbf3"
-    },
-    {
-      "title": "Got $10,000? I Think DexCom Stock Could Be a Quiet Winner of the GLP‑1 Wars",
-      "link": "https://finance.yahoo.com/news/got-10-000-think-dexcom-143500280.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-25T14:35:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/0e58e6025af04fe6db7e0ad3384d16be",
-      "slug": "got-10000-i-think-dexcom-stock-could-be-a-quiet-winner-of-the-glp1-wars-f74ceedc",
-      "orig_slug": "got-10000-i-think-dexcom-stock-could-be-a-quiet-winner-of-the-glp1-wars-f74ceedc"
-    },
-    {
-      "title": "MercadoLibre Stock Falls After Q4 Results. Why A Revenue Beat Wasn't Enough To Revive Rally.",
-      "link": "https://www.investors.com/news/technology/mercadolibre-stock-meli-q4-2025-earnings/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-25T13:52:04Z",
-      "image": "",
-      "slug": "mercadolibre-stock-falls-after-q4-results-why-a-revenue-beat-wasnt-enough-to-rev-68c32639",
-      "orig_slug": "mercadolibre-stock-falls-after-q4-results-why-a-revenue-beat-wasnt-enough-to-rev-68c32639"
-    },
-    {
-      "title": "Is Linde plc Stock Underperforming the S&P 500?",
-      "link": "https://finance.yahoo.com/news/linde-plc-stock-underperforming-p-135028793.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-25T13:50:28Z",
-      "image": "https://s.yimg.com/os/en/barchart_com_477/c0f27b5420e50f0e9aa9c8f56798ae3f",
-      "slug": "is-linde-plc-stock-underperforming-the-sp-500-74e2acca",
-      "orig_slug": "is-linde-plc-stock-underperforming-the-sp-500-74e2acca"
-    },
-    {
-      "title": "Stocks Push Higher as AI-Infrastructure Companies and Chipmakers Rally",
-      "link": "https://finance.yahoo.com/news/stocks-push-higher-ai-infrastructure-150354452.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-25T15:03:54Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/553713714e08964d7b30695b362ebe11",
-      "slug": "stocks-push-higher-as-ai-infrastructure-companies-and-chipmakers-rally-f26ba9b9",
-      "orig_slug": "stocks-push-higher-as-ai-infrastructure-companies-and-chipmakers-rally-f26ba9b9"
+      "pubDate": "2026-02-25T15:42:29Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/6a6c801ef2980509270218d45c953c39",
+      "slug": "accenture-acn-targets-infrastructure-growth-in-latin-america-with-verum-acquisit-c275bb0b",
+      "orig_slug": "accenture-acn-targets-infrastructure-growth-in-latin-america-with-verum-acquisit-c275bb0b"
     },
     {
       "title": "Student loan defaults are rising. What borrowers should know before it's too late.",
@@ -344,22 +47,328 @@
       "orig_slug": "student-loan-defaults-are-rising-what-borrowers-should-know-before-its-too-late-8c7c50a2"
     },
     {
-      "title": "I’m a Financial Expert: Here’s the One Thing People Get Wrong About Tax Refunds",
-      "link": "https://finance.yahoo.com/news/m-financial-expert-one-thing-143404597.html",
+      "title": "The Argus High-Yield Model Portfolio",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46280_ThematicPortfolio_1772136498000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-25T14:34:04Z",
-      "image": "https://media.zenfs.com/en/gobankingrates_644/2928caed309b21016a577d88adc03ea4",
-      "slug": "im-a-financial-expert-heres-the-one-thing-people-get-wrong-about-tax-refunds-7f3f8f61",
-      "orig_slug": "im-a-financial-expert-heres-the-one-thing-people-get-wrong-about-tax-refunds-7f3f8f61"
+      "pubDate": "2026-02-26T20:08:18Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "the-argus-high-yield-model-portfolio-fd1434eb",
+      "orig_slug": "the-argus-high-yield-model-portfolio-fd1434eb"
     },
     {
-      "title": "Expert tips for lowering your monthly housing costs — including utilities, taxes, and insurance",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/how-to-lower-monthly-housing-costs-utilities-taxes-insurance-130024879.html",
+      "title": "This Dividend Stock Yields More Than 10%",
+      "link": "https://finance.yahoo.com/news/dividend-stock-yields-more-10-155003798.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-25T13:00:24Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/ZYpcioRMDKZgC3Mki23RFQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-12/20d05300-bbf5-11ef-bf8f-7b80c2ae1206",
-      "slug": "expert-tips-for-lowering-your-monthly-housing-costs-including-utilities-taxes-an-695272a5",
-      "orig_slug": "expert-tips-for-lowering-your-monthly-housing-costs-including-utilities-taxes-an-695272a5"
+      "pubDate": "2026-02-25T15:50:03Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/509023aecba52a4b6f4cb6cc61e4a34e",
+      "slug": "this-dividend-stock-yields-more-than-10-4d7c8a1a",
+      "orig_slug": "this-dividend-stock-yields-more-than-10-4d7c8a1a"
+    },
+    {
+      "title": "This $6M Maine Village Includes 1840s-Era House Formerly Occupied By A Sea Captain",
+      "link": "https://finance.yahoo.com/news/6m-maine-village-includes-1840s-154521282.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-25T15:45:21Z",
+      "image": "https://s.yimg.com/os/en/benzinga_79/00f34de7f34ec8b91186df6ad1d74061",
+      "slug": "this-6m-maine-village-includes-1840s-era-house-formerly-occupied-by-a-sea-captai-8cd9cecf",
+      "orig_slug": "this-6m-maine-village-includes-1840s-era-house-formerly-occupied-by-a-sea-captai-8cd9cecf"
+    },
+    {
+      "title": "Wells Fargo Increases Exxon Mobil (XOM) Price Forecast, Maintains Bullish View",
+      "link": "https://finance.yahoo.com/news/wells-fargo-increases-exxon-mobil-155036857.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-25T15:50:36Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/7233ebe68f9534bc1e350b5cdbfbfb77",
+      "slug": "wells-fargo-increases-exxon-mobil-xom-price-forecast-maintains-bullish-view-a3bb5a33",
+      "orig_slug": "wells-fargo-increases-exxon-mobil-xom-price-forecast-maintains-bullish-view-a3bb5a33"
+    },
+    {
+      "title": "IonQ Just Won a Golden Dome Contract. Should You Buy the Quantum Computing Stock Now?",
+      "link": "https://finance.yahoo.com/news/ionq-just-won-golden-dome-154158940.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-25T15:41:58Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/7032b4c5a23a07918367021394cd04db",
+      "slug": "ionq-just-won-a-golden-dome-contract-should-you-buy-the-quantum-computing-stock--e42871fa",
+      "orig_slug": "ionq-just-won-a-golden-dome-contract-should-you-buy-the-quantum-computing-stock--e42871fa"
+    },
+    {
+      "title": "Comcast (CMCSA) Faces Downgrade from BNP Paribas as Fiber Headwinds Grow",
+      "link": "https://finance.yahoo.com/news/comcast-cmcsa-faces-downgrade-bnp-154016725.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-25T15:40:16Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/ca4aa97d27919cdcf19e258081f94386",
+      "slug": "comcast-cmcsa-faces-downgrade-from-bnp-paribas-as-fiber-headwinds-grow-7cdb5e65",
+      "orig_slug": "comcast-cmcsa-faces-downgrade-from-bnp-paribas-as-fiber-headwinds-grow-7cdb5e65"
+    },
+    {
+      "title": "Analyst Report: EBay Inc.",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_2916_AnalystReport_1772131501000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-26T18:45:01Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-ebay-inc-860ca619",
+      "orig_slug": "analyst-report-ebay-inc-860ca619"
+    },
+    {
+      "title": "Cantor Fitzgerald Lifts Texas Instruments (TXN) Target, Sees Balanced Earnings Outlook",
+      "link": "https://finance.yahoo.com/news/cantor-fitzgerald-lifts-texas-instruments-153750213.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-25T15:37:50Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/be3393f134c2a187ca00a2f11da1c8b1",
+      "slug": "cantor-fitzgerald-lifts-texas-instruments-txn-target-sees-balanced-earnings-outl-9c813e5d",
+      "orig_slug": "cantor-fitzgerald-lifts-texas-instruments-txn-target-sees-balanced-earnings-outl-9c813e5d"
+    },
+    {
+      "title": "Lowe’s Says Homeowners Remain Reluctant to Remodel",
+      "link": "https://www.wsj.com/business/retail/lowes-sales-rise-on-pro-builder-business-growth-ef54506c?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-25T15:48:00Z",
+      "image": "",
+      "slug": "lowes-says-homeowners-remain-reluctant-to-remodel-dea71473",
+      "orig_slug": "lowes-says-homeowners-remain-reluctant-to-remodel-dea71473"
+    },
+    {
+      "title": "SoundHound AI Stock Breaks Above 20-Day Moving Average. Should You Chase SOUN Here?",
+      "link": "https://finance.yahoo.com/news/soundhound-ai-stock-breaks-above-153625317.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-25T15:36:25Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/be8c4d13703dc3f0025a6fd7df2a71bc",
+      "slug": "soundhound-ai-stock-breaks-above-20-day-moving-average-should-you-chase-soun-her-9985e68e",
+      "orig_slug": "soundhound-ai-stock-breaks-above-20-day-moving-average-should-you-chase-soun-her-9985e68e"
+    },
+    {
+      "title": "JPMorgan (JPM) Sees Investment Banking Holding Up Amid Market Uncertainty",
+      "link": "https://finance.yahoo.com/news/jpmorgan-jpm-sees-investment-banking-155314694.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-25T15:53:14Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/44f165e28c33f56ef0f1d3520099dc7e",
+      "slug": "jpmorgan-jpm-sees-investment-banking-holding-up-amid-market-uncertainty-24f4e6c5",
+      "orig_slug": "jpmorgan-jpm-sees-investment-banking-holding-up-amid-market-uncertainty-24f4e6c5"
+    },
+    {
+      "title": "RBC Capital Raises Lowe’s (LOW) Price Outlook after Strong January Trends",
+      "link": "https://finance.yahoo.com/news/rbc-capital-raises-lowe-low-153436360.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-25T15:34:36Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/ccd573a90b9a6c6bf733a71e94306718",
+      "slug": "rbc-capital-raises-lowes-low-price-outlook-after-strong-january-trends-dd0d6478",
+      "orig_slug": "rbc-capital-raises-lowes-low-price-outlook-after-strong-january-trends-dd0d6478"
+    },
+    {
+      "title": "Market Update: BSX, CHH, DTE, EBAY, HD, W",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46278_MarketUpdate_1772131501000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-26T18:45:01Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "market-update-bsx-chh-dte-ebay-hd-w-1375cbb4",
+      "orig_slug": "market-update-bsx-chh-dte-ebay-hd-w-1375cbb4"
+    },
+    {
+      "title": "Is Philip Morris Stock Outperforming the Nasdaq?",
+      "link": "https://finance.yahoo.com/news/philip-morris-stock-outperforming-nasdaq-153353243.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-25T15:33:53Z",
+      "image": "https://s.yimg.com/os/en/barchart_com_477/b15a8f8150beab803fc8767bf847fd04",
+      "slug": "is-philip-morris-stock-outperforming-the-nasdaq-2ca36de8",
+      "orig_slug": "is-philip-morris-stock-outperforming-the-nasdaq-2ca36de8"
+    },
+    {
+      "title": "Stripe May Be Looking to Buy PayPal. What It Means for the Stock.",
+      "link": "https://www.barrons.com/articles/paypal-stock-price-takeover-target-stripe-abf2a96f?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-25T15:48:00Z",
+      "image": "",
+      "slug": "stripe-may-be-looking-to-buy-paypal-what-it-means-for-the-stock-bf23279e",
+      "orig_slug": "stripe-may-be-looking-to-buy-paypal-what-it-means-for-the-stock-bf23279e"
+    },
+    {
+      "title": "Eli Lilly (LLY) Seen Resilient as BofA Downplays Novo Nordisk GLP-1 Price Impact",
+      "link": "https://finance.yahoo.com/news/eli-lilly-lly-seen-resilient-155533053.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-25T15:55:33Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/860932d32d923713fdffa5b1d444d8a3",
+      "slug": "eli-lilly-lly-seen-resilient-as-bofa-downplays-novo-nordisk-glp-1-price-impact-958efbf9",
+      "orig_slug": "eli-lilly-lly-seen-resilient-as-bofa-downplays-novo-nordisk-glp-1-price-impact-958efbf9"
+    },
+    {
+      "title": "Goldman Sachs Lifts Honeywell (HON) Price Target Following Re-Segmentation Update",
+      "link": "https://finance.yahoo.com/news/goldman-sachs-lifts-honeywell-hon-153225978.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-25T15:32:25Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/122bf82d8a60e4e2034afdddbd9c36d5",
+      "slug": "goldman-sachs-lifts-honeywell-hon-price-target-following-re-segmentation-update-1d08e932",
+      "orig_slug": "goldman-sachs-lifts-honeywell-hon-price-target-following-re-segmentation-update-1d08e932"
+    },
+    {
+      "title": "‘The Collapse of Everything AI’ Could Hinge on Nvidia’s Earnings. What Wall Street Expects from NVDA Stock.",
+      "link": "https://finance.yahoo.com/news/collapse-everything-ai-could-hinge-155600019.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-25T15:56:00Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/337ef2aa4ebd8d00907733852db3f778",
+      "slug": "the-collapse-of-everything-ai-could-hinge-on-nvidias-earnings-what-wall-street-e-c0558f3c",
+      "orig_slug": "the-collapse-of-everything-ai-could-hinge-on-nvidias-earnings-what-wall-street-e-c0558f3c"
+    },
+    {
+      "title": "Analyst Report: DTE Energy Co.",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_2908_AnalystReport_1772131501000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-26T18:45:01Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-dte-energy-co-850f9ab7",
+      "orig_slug": "analyst-report-dte-energy-co-850f9ab7"
+    },
+    {
+      "title": "Parker-Hannifin (PH) Gets Price Target Boost to $1,038 from Morgan Stanley",
+      "link": "https://finance.yahoo.com/news/parker-hannifin-ph-gets-price-153107529.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-25T15:31:07Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/cc88fe4a0a16614c80d5e42ac175454e",
+      "slug": "parker-hannifin-ph-gets-price-target-boost-to-1038-from-morgan-stanley-37d23a13",
+      "orig_slug": "parker-hannifin-ph-gets-price-target-boost-to-1038-from-morgan-stanley-37d23a13"
+    },
+    {
+      "title": "Fermi Inc. Common Stock call volume above normal and directionally bullish",
+      "link": "https://finance.yahoo.com/news/fermi-inc-common-stock-call-154513540.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-25T15:45:13Z",
+      "image": "https://s.yimg.com/os/en/tipranks_452/751ad5f2bba1d7793476cab1457b13e5",
+      "slug": "fermi-inc-common-stock-call-volume-above-normal-and-directionally-bullish-39818066",
+      "orig_slug": "fermi-inc-common-stock-call-volume-above-normal-and-directionally-bullish-39818066"
+    },
+    {
+      "title": "Dollar Slips on Yuan Strength and US Trade Uncertainty",
+      "link": "https://finance.yahoo.com/news/dollar-slips-yuan-strength-us-153103527.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-25T15:31:03Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/f7d9bd356c5cee655f8b7dcd5d426bb2",
+      "slug": "dollar-slips-on-yuan-strength-and-us-trade-uncertainty-e66dd767",
+      "orig_slug": "dollar-slips-on-yuan-strength-and-us-trade-uncertainty-e66dd767"
+    },
+    {
+      "title": "Barclays Boosts McKesson (MCK) Price Target, Says Shares Likely to Stay in Favor",
+      "link": "https://finance.yahoo.com/news/barclays-boosts-mckesson-mck-price-153001604.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-25T15:30:01Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/07a69a45dfb32a787ef2e58f45539bbb",
+      "slug": "barclays-boosts-mckesson-mck-price-target-says-shares-likely-to-stay-in-favor-44db2cba",
+      "orig_slug": "barclays-boosts-mckesson-mck-price-target-says-shares-likely-to-stay-in-favor-44db2cba"
+    },
+    {
+      "title": "Is Morgan Stanley Stock Outperforming the S&P 500?",
+      "link": "https://finance.yahoo.com/news/morgan-stanley-stock-outperforming-p-153028161.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-25T15:30:28Z",
+      "image": "https://s.yimg.com/os/en/barchart_com_477/3a967ff4addf24150c8ee20a38739625",
+      "slug": "is-morgan-stanley-stock-outperforming-the-sp-500-4678931a",
+      "orig_slug": "is-morgan-stanley-stock-outperforming-the-sp-500-4678931a"
+    },
+    {
+      "title": "Energea Launches Latin America Solar Portfolio With $100-Million Investment",
+      "link": "https://finance.yahoo.com/news/energea-launches-latin-america-solar-155719092.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-25T15:57:19Z",
+      "image": "https://s.yimg.com/os/en/power_magazine_984/9afa8c7842ccb40cf56437667d6b20d5",
+      "slug": "energea-launches-latin-america-solar-portfolio-with-100-million-investment-1f25656c",
+      "orig_slug": "energea-launches-latin-america-solar-portfolio-with-100-million-investment-1f25656c"
+    },
+    {
+      "title": "For Europe's oil ang gas firms geopolitics is in the driving seat - analyst",
+      "link": "https://finance.yahoo.com/news/europes-oil-ang-gas-firms-154900151.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-25T15:49:00Z",
+      "image": "https://media.zenfs.com/en/proactive_us_504/fe3f2f3430232bad0cad8863b6fd0731",
+      "slug": "for-europes-oil-ang-gas-firms-geopolitics-is-in-the-driving-seat---analyst-66558bb4",
+      "orig_slug": "for-europes-oil-ang-gas-firms-geopolitics-is-in-the-driving-seat---analyst-66558bb4"
+    },
+    {
+      "title": "TD Cowen Adjusts Broadcom (AVGO) Valuation, Highlights Long-Term AI Tailwinds",
+      "link": "https://finance.yahoo.com/news/td-cowen-adjusts-broadcom-avgo-155805770.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-25T15:58:05Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/04caa8cac5e9f4a148679077496305c9",
+      "slug": "td-cowen-adjusts-broadcom-avgo-valuation-highlights-long-term-ai-tailwinds-f88ab234",
+      "orig_slug": "td-cowen-adjusts-broadcom-avgo-valuation-highlights-long-term-ai-tailwinds-f88ab234"
+    },
+    {
+      "title": "Citi Raises Enbridge (ENB) Valuation after Reviewing Fourth-Quarter Performance",
+      "link": "https://finance.yahoo.com/news/citi-raises-enbridge-enb-valuation-152814233.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-25T15:28:14Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/832dcbf71489c1999587b44f83085969",
+      "slug": "citi-raises-enbridge-enb-valuation-after-reviewing-fourth-quarter-performance-ac07bd2c",
+      "orig_slug": "citi-raises-enbridge-enb-valuation-after-reviewing-fourth-quarter-performance-ac07bd2c"
+    },
+    {
+      "title": "How Is Thermo Fisher Scientific’s Stock Performance Compared to Other Medical Devices Stocks?",
+      "link": "https://finance.yahoo.com/news/thermo-fisher-scientific-stock-performance-152526727.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-25T15:25:26Z",
+      "image": "https://s.yimg.com/os/en/barchart_com_477/dbc26c5ca4d5dba262171061b8656e35",
+      "slug": "how-is-thermo-fisher-scientifics-stock-performance-compared-to-other-medical-dev-b09b9393",
+      "orig_slug": "how-is-thermo-fisher-scientifics-stock-performance-compared-to-other-medical-dev-b09b9393"
+    },
+    {
+      "title": "David Tepper Tells Whirlpool to Take Care of Its Own Dirty Laundry",
+      "link": "https://finance.yahoo.com/news/david-tepper-tells-whirlpool-care-152416927.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-25T15:24:16Z",
+      "image": "https://s.yimg.com/os/en/moby_896/0b9bbc19dea969226cb3980e3af31ea1",
+      "slug": "david-tepper-tells-whirlpool-to-take-care-of-its-own-dirty-laundry-92f1e5af",
+      "orig_slug": "david-tepper-tells-whirlpool-to-take-care-of-its-own-dirty-laundry-92f1e5af"
+    },
+    {
+      "title": "Ritholtz Wealth Management Files for First ETF",
+      "link": "https://finance.yahoo.com/news/ritholtz-wealth-management-files-first-154400699.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-25T15:44:00Z",
+      "image": "https://s.yimg.com/os/en/wealth_management_474/e242585f18c5f9821648373ab430c373",
+      "slug": "ritholtz-wealth-management-files-for-first-etf-8ed18c79",
+      "orig_slug": "ritholtz-wealth-management-files-for-first-etf-8ed18c79"
+    },
+    {
+      "title": "Nvidia Hits Buy Trigger With Earnings Due, Tech Show Ahead. Is Nvidia A Buy Now?",
+      "link": "https://www.investors.com/research/nvidia-earnings-nvda-stock-february-2026/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-25T16:02:45Z",
+      "image": "",
+      "slug": "nvidia-hits-buy-trigger-with-earnings-due-tech-show-ahead-is-nvidia-a-buy-now-737a6296",
+      "orig_slug": "nvidia-hits-buy-trigger-with-earnings-due-tech-show-ahead-is-nvidia-a-buy-now-737a6296"
+    },
+    {
+      "title": "Alight (ALIT) Faces Sharp Price Target Cut from BofA on Weak Q1 Forecast",
+      "link": "https://finance.yahoo.com/news/alight-alit-faces-sharp-price-160522468.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-25T16:05:22Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/a8ba76827d6ac52cc8d6c3f02ee33494",
+      "slug": "alight-alit-faces-sharp-price-target-cut-from-bofa-on-weak-q1-forecast-ae81fffa",
+      "orig_slug": "alight-alit-faces-sharp-price-target-cut-from-bofa-on-weak-q1-forecast-ae81fffa"
+    },
+    {
+      "title": "As Intel Partners with SambaNova, Should You Buy, Sell, or Hold INTC Stock?",
+      "link": "https://finance.yahoo.com/news/intel-partners-sambanova-buy-sell-160643754.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-25T16:06:43Z",
+      "image": "https://s.yimg.com/os/en/barchart_com_477/296aa26cf8632bccf12902b2274fa108",
+      "slug": "as-intel-partners-with-sambanova-should-you-buy-sell-or-hold-intc-stock-a41319a8",
+      "orig_slug": "as-intel-partners-with-sambanova-should-you-buy-sell-or-hold-intc-stock-a41319a8"
+    },
+    {
+      "title": "Stocks Climb Ahead of Nvidia’s Earnings Results",
+      "link": "https://finance.yahoo.com/news/stocks-climb-ahead-nvidia-earnings-160730938.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-25T16:07:30Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/950613f8b5c04241060fc26b99c65abf",
+      "slug": "stocks-climb-ahead-of-nvidias-earnings-results-d177aeb8",
+      "orig_slug": "stocks-climb-ahead-of-nvidias-earnings-results-d177aeb8"
+    },
+    {
+      "title": "Ritholz Wealth Management Files for First ETF",
+      "link": "https://finance.yahoo.com/news/ritholz-wealth-management-files-first-154400378.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-25T15:44:00Z",
+      "image": "https://s.yimg.com/os/en/wealth_management_474/e242585f18c5f9821648373ab430c373",
+      "slug": "ritholz-wealth-management-files-for-first-etf-6352dadb",
+      "orig_slug": "ritholz-wealth-management-files-for-first-etf-6352dadb"
     },
     {
       "title": "How billionaires get away with paying less income tax",
@@ -380,6 +389,15 @@
       "orig_slug": "how-to-claim-the-student-loan-interest-deduction-rules-and-income-limits-5680713d"
     },
     {
+      "title": "Expert tips for lowering your monthly housing costs — including utilities, taxes, and insurance",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/how-to-lower-monthly-housing-costs-utilities-taxes-insurance-130024879.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-25T13:00:24Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/ZYpcioRMDKZgC3Mki23RFQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-12/20d05300-bbf5-11ef-bf8f-7b80c2ae1206",
+      "slug": "expert-tips-for-lowering-your-monthly-housing-costs-including-utilities-taxes-an-695272a5",
+      "orig_slug": "expert-tips-for-lowering-your-monthly-housing-costs-including-utilities-taxes-an-695272a5"
+    },
+    {
       "title": "No tax on overtime: How the new deduction works",
       "link": "https://finance.yahoo.com/personal-finance/taxes/article/no-tax-on-overtime-184850223.html",
       "source": "finance.yahoo.com",
@@ -389,22 +407,13 @@
       "orig_slug": "no-tax-on-overtime-how-the-new-deduction-works-4e6630be"
     },
     {
-      "title": "Hormel Foods taps first CTO to drive enterprise IT, data strategy",
-      "link": "https://finance.yahoo.com/news/hormel-foods-taps-first-cto-143210515.html",
+      "title": "The Most Misunderstood Vanguard ETF",
+      "link": "https://finance.yahoo.com/news/most-misunderstood-vanguard-etf-155000751.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-25T14:32:10Z",
-      "image": "https://media.zenfs.com/en/cio_dive_389/3848be99035584ea3b0ab0df9f5967c8",
-      "slug": "hormel-foods-taps-first-cto-to-drive-enterprise-it-data-strategy-045c7270",
-      "orig_slug": "hormel-foods-taps-first-cto-to-drive-enterprise-it-data-strategy-045c7270"
-    },
-    {
-      "title": "Bilt Cards 2.0 review: Are they better than the original — and can you still earn points on rent?",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/review/bilt-credit-card-review-002855220.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-01-15T21:30:02Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/tWymHmbVB8vOdWjDZVQMAw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MzM-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/24d0b7e0-f24c-11f0-8afe-aac97f1f3bb2",
-      "slug": "bilt-cards-20-review-are-they-better-than-the-original-and-can-you-still-earn-po-932f5eaf",
-      "orig_slug": "bilt-cards-20-review-are-they-better-than-the-original-and-can-you-still-earn-po-932f5eaf"
+      "pubDate": "2026-02-25T15:50:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/bc74717e35ab4ede671b167cd051f082",
+      "slug": "the-most-misunderstood-vanguard-etf-4bb699e6",
+      "orig_slug": "the-most-misunderstood-vanguard-etf-4bb699e6"
     }
   ]
 }
