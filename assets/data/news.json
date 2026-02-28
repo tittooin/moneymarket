@@ -1,14 +1,338 @@
 {
-  "updated": "2026-02-28T14:14:34Z",
+  "updated": "2026-02-28T15:13:52Z",
   "items": [
     {
-      "title": "Elastic price target lowered to $85 from $100 at Oppenheimer",
-      "link": "https://finance.yahoo.com/news/elastic-price-target-lowered-85-140200164.html",
+      "title": "Medtronic: The Only Medical Device Stock I'd Consider a Lifetime Hold",
+      "link": "https://finance.yahoo.com/news/medtronic-only-medical-device-stock-145000521.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-28T14:02:00Z",
-      "image": "https://s.yimg.com/os/en/tipranks_452/740f5b35098ee61dacb714fa2bfeccc8",
-      "slug": "elastic-price-target-lowered-to-85-from-100-at-oppenheimer-d758a6c7",
-      "orig_slug": "elastic-price-target-lowered-to-85-from-100-at-oppenheimer-d758a6c7"
+      "pubDate": "2026-02-28T14:50:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/993f29f79847a61a2d056a94213e7edb",
+      "slug": "medtronic-the-only-medical-device-stock-id-consider-a-lifetime-hold-763baee6",
+      "orig_slug": "medtronic-the-only-medical-device-stock-id-consider-a-lifetime-hold-763baee6"
+    },
+    {
+      "title": "Cloudflare, Inc. (NET): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/cloudflare-inc-net-bull-case-144053625.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-28T14:40:53Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/619fa1bb05f655fa14fd182d5d637c40",
+      "slug": "cloudflare-inc-net-a-bull-case-theory-a4895e5e",
+      "orig_slug": "cloudflare-inc-net-a-bull-case-theory-a4895e5e"
+    },
+    {
+      "title": "Sunstone Hotel Investors, Inc. (SHO): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/sunstone-hotel-investors-inc-sho-144038711.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-28T14:40:38Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/aade3ca7cad19404b3e96f21c87b030e",
+      "slug": "sunstone-hotel-investors-inc-sho-a-bull-case-theory-512f6f21",
+      "orig_slug": "sunstone-hotel-investors-inc-sho-a-bull-case-theory-512f6f21"
+    },
+    {
+      "title": "Charter Communications, Inc. (CHTR): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/charter-communications-inc-chtr-bull-144024773.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-28T14:40:24Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/27a6cfde1f8ecf557c787a4170fbc1ab",
+      "slug": "charter-communications-inc-chtr-a-bull-case-theory-739a2636",
+      "orig_slug": "charter-communications-inc-chtr-a-bull-case-theory-739a2636"
+    },
+    {
+      "title": "Equinix, Inc. (EQIX): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/equinix-inc-eqix-bull-case-144010573.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-28T14:40:10Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/7803fb171ea510b0bf8517c30578aafd",
+      "slug": "equinix-inc-eqix-a-bull-case-theory-91a9664d",
+      "orig_slug": "equinix-inc-eqix-a-bull-case-theory-91a9664d"
+    },
+    {
+      "title": "On Holding AG (ONON): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/holding-ag-onon-bull-case-143956497.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-28T14:39:56Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/ecf86d5690e610a22752d4b9e6be3086",
+      "slug": "on-holding-ag-onon-a-bull-case-theory-a0ab5a37",
+      "orig_slug": "on-holding-ag-onon-a-bull-case-theory-a0ab5a37"
+    },
+    {
+      "title": "Penske Automotive Group, Inc. (PAG): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/penske-automotive-group-inc-pag-143941042.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-28T14:39:41Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/cf71f4904b82e8d94f2aaf665eae7a1c",
+      "slug": "penske-automotive-group-inc-pag-a-bull-case-theory-532f4c67",
+      "orig_slug": "penske-automotive-group-inc-pag-a-bull-case-theory-532f4c67"
+    },
+    {
+      "title": "Rubrik, Inc. (RBRK): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/rubrik-inc-rbrk-bull-case-143918027.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-28T14:39:18Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/ea35b0e6ecbd2fd7acf5d2a3e06b5ef6",
+      "slug": "rubrik-inc-rbrk-a-bull-case-theory-020789ca",
+      "orig_slug": "rubrik-inc-rbrk-a-bull-case-theory-020789ca"
+    },
+    {
+      "title": "KBR Q4 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/news/kbr-q4-earnings-call-highlights-143809247.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-28T14:38:09Z",
+      "image": "https://s.yimg.com/os/en/marketbeat_955/2f769aef2037c7cdf2427405ba47f6c6",
+      "slug": "kbr-q4-earnings-call-highlights-a83b82ff",
+      "orig_slug": "kbr-q4-earnings-call-highlights-a83b82ff"
+    },
+    {
+      "title": "Sonoco Products Company (SON): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/sonoco-products-company-son-bull-143742739.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-28T14:37:42Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/ab701b9f9e8a9f55dac23d4a4cd6e388",
+      "slug": "sonoco-products-company-son-a-bull-case-theory-dfe5c897",
+      "orig_slug": "sonoco-products-company-son-a-bull-case-theory-dfe5c897"
+    },
+    {
+      "title": "Vale S.A. (VALE): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/vale-vale-bull-case-theory-143649819.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-28T14:36:49Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/69a5e9309c5f37c3aa322d18dd37f6dc",
+      "slug": "vale-sa-vale-a-bull-case-theory-dcb1e153",
+      "orig_slug": "vale-sa-vale-a-bull-case-theory-dcb1e153"
+    },
+    {
+      "title": "SentinelOne, Inc. (S): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/sentinelone-inc-bull-case-theory-143528168.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-28T14:35:28Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/73e372ed9452b9d82196b7771aa4ecc5",
+      "slug": "sentinelone-inc-s-a-bull-case-theory-b79ed87c",
+      "orig_slug": "sentinelone-inc-s-a-bull-case-theory-b79ed87c"
+    },
+    {
+      "title": "Toast, Inc. (TOST): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/toast-inc-tost-bull-case-143404562.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-28T14:34:04Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/ddb2a390c35ac6bf222b53dafa7e7b97",
+      "slug": "toast-inc-tost-a-bull-case-theory-e14e517b",
+      "orig_slug": "toast-inc-tost-a-bull-case-theory-e14e517b"
+    },
+    {
+      "title": "Ibotta Q4 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/news/ibotta-q4-earnings-call-highlights-143806101.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-28T14:38:06Z",
+      "image": "https://s.yimg.com/os/en/marketbeat_955/b4d1e316c9054471d582405cd55a277b",
+      "slug": "ibotta-q4-earnings-call-highlights-dd84b1a7",
+      "orig_slug": "ibotta-q4-earnings-call-highlights-dd84b1a7"
+    },
+    {
+      "title": "Grupo Aeroportuario del Sureste, S. A. B. de C. V. (ASR): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/grupo-aeroportuario-del-sureste-b-143349796.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-28T14:33:49Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/c1d83badce626b42d3839f52d4badf03",
+      "slug": "grupo-aeroportuario-del-sureste-s-a-b-de-c-v-asr-a-bull-case-theory-f014d5c7",
+      "orig_slug": "grupo-aeroportuario-del-sureste-s-a-b-de-c-v-asr-a-bull-case-theory-f014d5c7"
+    },
+    {
+      "title": "BigBear.ai Holdings, Inc. (BBAI): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/bigbear-ai-holdings-inc-bbai-143309852.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-28T14:33:09Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/c4ededf810c38bb0029990bd191caf28",
+      "slug": "bigbearai-holdings-inc-bbai-a-bull-case-theory-c176cddc",
+      "orig_slug": "bigbearai-holdings-inc-bbai-a-bull-case-theory-c176cddc"
+    },
+    {
+      "title": "CareTrust REIT, Inc. (CTRE): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/caretrust-reit-inc-ctre-bull-143249896.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-28T14:32:49Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/f633c2376ff09a7755eb49c1a03e8393",
+      "slug": "caretrust-reit-inc-ctre-a-bull-case-theory-f9eed555",
+      "orig_slug": "caretrust-reit-inc-ctre-a-bull-case-theory-f9eed555"
+    },
+    {
+      "title": "DLocal Limited (DLO): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/dlocal-limited-dlo-bull-case-143235074.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-28T14:32:35Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/30e61c746b3b99ca294ee2e9af010957",
+      "slug": "dlocal-limited-dlo-a-bull-case-theory-f3101911",
+      "orig_slug": "dlocal-limited-dlo-a-bull-case-theory-f3101911"
+    },
+    {
+      "title": "St. Joe Q4 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/news/st-joe-q4-earnings-call-143808940.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-28T14:38:08Z",
+      "image": "https://s.yimg.com/os/en/marketbeat_955/3b798864f5e4f8cb5953c01b3f26566b",
+      "slug": "st-joe-q4-earnings-call-highlights-78f6e654",
+      "orig_slug": "st-joe-q4-earnings-call-highlights-78f6e654"
+    },
+    {
+      "title": "Golar LNG Limited (GLNG): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/golar-lng-limited-glng-bull-143218935.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-28T14:32:18Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/1d785fa4c24a4edb9761e30250e3f932",
+      "slug": "golar-lng-limited-glng-a-bull-case-theory-07845a71",
+      "orig_slug": "golar-lng-limited-glng-a-bull-case-theory-07845a71"
+    },
+    {
+      "title": "Harrow, Inc. (HROW): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/harrow-inc-hrow-bull-case-143203539.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-28T14:32:03Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/2b6a2aa059f7c2a99630a25258ac96ec",
+      "slug": "harrow-inc-hrow-a-bull-case-theory-0bdd39dd",
+      "orig_slug": "harrow-inc-hrow-a-bull-case-theory-0bdd39dd"
+    },
+    {
+      "title": "Ocular Therapeutix, Inc. (OCUL): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/ocular-therapeutix-inc-ocul-bull-143148068.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-28T14:31:48Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/b1a9e66dab84eebbfa0939d7893eb228",
+      "slug": "ocular-therapeutix-inc-ocul-a-bull-case-theory-cd95d6e4",
+      "orig_slug": "ocular-therapeutix-inc-ocul-a-bull-case-theory-cd95d6e4"
+    },
+    {
+      "title": "Planet Labs PBC (PL): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/planet-labs-pbc-pl-bull-143127486.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-28T14:31:27Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/0bffb0c10b10bf05afadf91253a1c6ff",
+      "slug": "planet-labs-pbc-pl-a-bull-case-theory-5cb4df37",
+      "orig_slug": "planet-labs-pbc-pl-a-bull-case-theory-5cb4df37"
+    },
+    {
+      "title": "Installed Building Products Q4 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/news/installed-building-products-q4-earnings-143805175.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-28T14:38:05Z",
+      "image": "https://s.yimg.com/os/en/marketbeat_955/fbafa867ef65b7c8535fdeb1de5c2008",
+      "slug": "installed-building-products-q4-earnings-call-highlights-730b184c",
+      "orig_slug": "installed-building-products-q4-earnings-call-highlights-730b184c"
+    },
+    {
+      "title": "Fluor Corporation (FLR): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/fluor-corporation-flr-bull-case-141554190.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-28T14:15:54Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/fd21a78527e8711f0e3b4e17e6d4fdd9",
+      "slug": "fluor-corporation-flr-a-bull-case-theory-2d4a3df7",
+      "orig_slug": "fluor-corporation-flr-a-bull-case-theory-2d4a3df7"
+    },
+    {
+      "title": "Genpact Limited (G): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/genpact-limited-g-bull-case-141526686.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-28T14:15:26Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/c4ededf810c38bb0029990bd191caf28",
+      "slug": "genpact-limited-g-a-bull-case-theory-fc001fd4",
+      "orig_slug": "genpact-limited-g-a-bull-case-theory-fc001fd4"
+    },
+    {
+      "title": "GameStop Corp. (GME): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/gamestop-corp-gme-bull-case-141505414.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-28T14:15:05Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/ab521673afc7a86b3dae0d3072f2ea62",
+      "slug": "gamestop-corp-gme-a-bull-case-theory-67838d0b",
+      "orig_slug": "gamestop-corp-gme-a-bull-case-theory-67838d0b"
+    },
+    {
+      "title": "Strategy Inc (MSTR): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/strategy-inc-mstr-bull-case-141448236.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-28T14:14:48Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/4b7be8fe0a120236d3734d7c9001628f",
+      "slug": "strategy-inc-mstr-a-bull-case-theory-b265f4cd",
+      "orig_slug": "strategy-inc-mstr-a-bull-case-theory-b265f4cd"
+    },
+    {
+      "title": "Joby Aviation Q4 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/news/joby-aviation-q4-earnings-call-143808031.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-28T14:38:08Z",
+      "image": "https://s.yimg.com/os/en/marketbeat_955/d2c21020e41fefb5f85a3cd2be25903e",
+      "slug": "joby-aviation-q4-earnings-call-highlights-1ceb8ff5",
+      "orig_slug": "joby-aviation-q4-earnings-call-highlights-1ceb8ff5"
+    },
+    {
+      "title": "DXC Technology Company (DXC): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/dxc-technology-company-dxc-bull-141335982.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-28T14:13:35Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/bcfd08ceaf78019bf49b4ecc55f49fd2",
+      "slug": "dxc-technology-company-dxc-a-bull-case-theory-909733e3",
+      "orig_slug": "dxc-technology-company-dxc-a-bull-case-theory-909733e3"
+    },
+    {
+      "title": "Tradeweb Markets Inc. (TW): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/tradeweb-markets-inc-tw-bull-141319476.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-28T14:13:19Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/3f526a8d102fe38aee1d8fd0d4edf85f",
+      "slug": "tradeweb-markets-inc-tw-a-bull-case-theory-a6c135ef",
+      "orig_slug": "tradeweb-markets-inc-tw-a-bull-case-theory-a6c135ef"
+    },
+    {
+      "title": "Cboe Global Markets, Inc. (CBOE): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/cboe-global-markets-inc-cboe-141255434.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-28T14:12:55Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/be626e66fddb62d50727d8dc0679af7d",
+      "slug": "cboe-global-markets-inc-cboe-a-bull-case-theory-f66d5c20",
+      "orig_slug": "cboe-global-markets-inc-cboe-a-bull-case-theory-f66d5c20"
+    },
+    {
+      "title": "Braskem S.A. (BAK): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/braskem-bak-bull-case-theory-141236953.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-28T14:12:36Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/1d4e877d48dbb9cf20511d6c602bb9a2",
+      "slug": "braskem-sa-bak-a-bull-case-theory-a80bc3c0",
+      "orig_slug": "braskem-sa-bak-a-bull-case-theory-a80bc3c0"
+    },
+    {
+      "title": "International Seaways Q4 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/news/international-seaways-q4-earnings-call-143807008.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-28T14:38:07Z",
+      "image": "https://s.yimg.com/os/en/marketbeat_955/fa76b1dab620c5a4359eec634c199d08",
+      "slug": "international-seaways-q4-earnings-call-highlights-e709f833",
+      "orig_slug": "international-seaways-q4-earnings-call-highlights-e709f833"
+    },
+    {
+      "title": "Under Armour, Inc. (UAA): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/under-armour-inc-uaa-bull-141216160.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-28T14:12:16Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/90a05425a3093a2a0fcdeba381da051f",
+      "slug": "under-armour-inc-uaa-a-bull-case-theory-61bc3137",
+      "orig_slug": "under-armour-inc-uaa-a-bull-case-theory-61bc3137"
+    },
+    {
+      "title": "Simpson Manufacturing Co., Inc. (SSD): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/simpson-manufacturing-co-inc-ssd-141155301.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-28T14:11:55Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/84194a1a491217d20702259e39154bb3",
+      "slug": "simpson-manufacturing-co-inc-ssd-a-bull-case-theory-7715e11b",
+      "orig_slug": "simpson-manufacturing-co-inc-ssd-a-bull-case-theory-7715e11b"
+    },
+    {
+      "title": "Trump, Israel Launch 'Massive' Attacks On Iran; How Will Dow Jones Futures React?",
+      "link": "https://www.investors.com/market-trend/stock-market-today/trump-us-israel-massive-attacks-iran-dow-jones-futures-oil-prices/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-28T14:04:30Z",
+      "image": "",
+      "slug": "trump-israel-launch-massive-attacks-on-iran-how-will-dow-jones-futures-react-e9d25014",
+      "orig_slug": "trump-israel-launch-massive-attacks-on-iran-how-will-dow-jones-futures-react-e9d25014"
     },
     {
       "title": "The Dow hit 50,000 but you can’t afford groceries. How to protect your money through this ‘vibecession’",
@@ -18,6 +342,15 @@
       "image": "https://s.yimg.com/os/en/moneywise_327/c76b85a657ee599de50065d671643e5e",
       "slug": "the-dow-hit-50000-but-you-cant-afford-groceries-how-to-protect-your-money-throug-d0e1844e",
       "orig_slug": "the-dow-hit-50000-but-you-cant-afford-groceries-how-to-protect-your-money-throug-d0e1844e"
+    },
+    {
+      "title": "IonQ Q4 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/news/ionq-q4-earnings-call-highlights-143807226.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-28T14:38:07Z",
+      "image": "https://s.yimg.com/os/en/marketbeat_955/d5f7cda96b5b95c0ebf11d5798162e6d",
+      "slug": "ionq-q4-earnings-call-highlights-5aa039da",
+      "orig_slug": "ionq-q4-earnings-call-highlights-5aa039da"
     },
     {
       "title": "Grupo Aeroportuario del Centro Norte, S.A.B. de C.V. (OMAB): A Bull Case Theory",
@@ -45,339 +378,6 @@
       "image": "https://s.yimg.com/os/en/insidermonkey.com/15f3588c490ebe61c410c45a1e685440",
       "slug": "uniti-group-inc-unit-a-bull-case-theory-6e1cf3e5",
       "orig_slug": "uniti-group-inc-unit-a-bull-case-theory-6e1cf3e5"
-    },
-    {
-      "title": "AvePoint price target lowered to $16 from $17 at TD Cowen",
-      "link": "https://finance.yahoo.com/news/avepoint-price-target-lowered-16-140143325.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-28T14:01:43Z",
-      "image": "https://s.yimg.com/os/en/tipranks_452/710df62e424d42149987b3ecdc72677e",
-      "slug": "avepoint-price-target-lowered-to-16-from-17-at-td-cowen-e2023e8f",
-      "orig_slug": "avepoint-price-target-lowered-to-16-from-17-at-td-cowen-e2023e8f"
-    },
-    {
-      "title": "BJ’s Wholesale Club Holdings, Inc. (BJ): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/bj-wholesale-club-holdings-inc-135402758.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-28T13:54:02Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/abcd1af517c0156c0433d26fd0b454e3",
-      "slug": "bjs-wholesale-club-holdings-inc-bj-a-bull-case-theory-5544cc06",
-      "orig_slug": "bjs-wholesale-club-holdings-inc-bj-a-bull-case-theory-5544cc06"
-    },
-    {
-      "title": "CME Group Inc. (CME): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/cme-group-inc-cme-bull-135345507.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-28T13:53:45Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/f1f36c041e46c35f8a6c68c3c9354810",
-      "slug": "cme-group-inc-cme-a-bull-case-theory-2cc32b5e",
-      "orig_slug": "cme-group-inc-cme-a-bull-case-theory-2cc32b5e"
-    },
-    {
-      "title": "Canadian Pacific Kansas City Limited (CP): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/canadian-pacific-kansas-city-limited-135317728.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-28T13:53:17Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/5076d7088e6f7316f925274f96bed0ed",
-      "slug": "canadian-pacific-kansas-city-limited-cp-a-bull-case-theory-76e98aea",
-      "orig_slug": "canadian-pacific-kansas-city-limited-cp-a-bull-case-theory-76e98aea"
-    },
-    {
-      "title": "Intercontinental Exchange, Inc. (ICE): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/intercontinental-exchange-inc-ice-bull-135251747.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-28T13:52:51Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/f6bf3124b410dd1b584e46f3b099411e",
-      "slug": "intercontinental-exchange-inc-ice-a-bull-case-theory-71776b6b",
-      "orig_slug": "intercontinental-exchange-inc-ice-a-bull-case-theory-71776b6b"
-    },
-    {
-      "title": "Gildan Activewear price target raised to $80 from $77 at TD Securities",
-      "link": "https://finance.yahoo.com/news/gildan-activewear-price-target-raised-140106123.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-28T14:01:06Z",
-      "image": "https://s.yimg.com/os/en/tipranks_452/1b9131ec06b99e804b295e9096b61833",
-      "slug": "gildan-activewear-price-target-raised-to-80-from-77-at-td-securities-17cca819",
-      "orig_slug": "gildan-activewear-price-target-raised-to-80-from-77-at-td-securities-17cca819"
-    },
-    {
-      "title": "The Kraft Heinz Company (KHC): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/kraft-heinz-company-khc-bull-135138256.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-28T13:51:38Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/2462a3070ec732e56d0c0cde39d991e6",
-      "slug": "the-kraft-heinz-company-khc-a-bull-case-theory-7a8645b1",
-      "orig_slug": "the-kraft-heinz-company-khc-a-bull-case-theory-7a8645b1"
-    },
-    {
-      "title": "Kratos Defense & Security Solutions, Inc. (KTOS): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/kratos-defense-security-solutions-inc-135102003.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-28T13:51:02Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/6f356eba6e2068dc4e95798a4eeef4b4",
-      "slug": "kratos-defense-security-solutions-inc-ktos-a-bull-case-theory-73417b39",
-      "orig_slug": "kratos-defense-security-solutions-inc-ktos-a-bull-case-theory-73417b39"
-    },
-    {
-      "title": "Trump, Israel Launch 'Massive' Attacks On Iran; How Will Dow Jones Futures React?",
-      "link": "https://www.investors.com/market-trend/stock-market-today/trump-us-israel-massive-attacks-iran-dow-jones-futures-oil-prices/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-28T13:50:55Z",
-      "image": "",
-      "slug": "trump-israel-launch-massive-attacks-on-iran-how-will-dow-jones-futures-react-e9d25014",
-      "orig_slug": "trump-israel-launch-massive-attacks-on-iran-how-will-dow-jones-futures-react-e9d25014"
-    },
-    {
-      "title": "Olin Corporation (OLN): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/olin-corporation-oln-bull-case-134929003.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-28T13:49:29Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/36f5a73964c07f5011a4f8f7ae8c7bf6",
-      "slug": "olin-corporation-oln-a-bull-case-theory-f835f63a",
-      "orig_slug": "olin-corporation-oln-a-bull-case-theory-f835f63a"
-    },
-    {
-      "title": "Zscaler price target lowered to $280 from $345 at Oppenheimer",
-      "link": "https://finance.yahoo.com/news/zscaler-price-target-lowered-280-140030816.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-28T14:00:30Z",
-      "image": "https://s.yimg.com/os/en/tipranks_452/3db48cd1b3c8e86b7b1e47a404e1b6d3",
-      "slug": "zscaler-price-target-lowered-to-280-from-345-at-oppenheimer-d8c96c7c",
-      "orig_slug": "zscaler-price-target-lowered-to-280-from-345-at-oppenheimer-d8c96c7c"
-    },
-    {
-      "title": "Sasol Limited (SSL): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/sasol-limited-ssl-bull-case-134848446.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-28T13:48:48Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/08c80b75b40e7a62ec70a36e317917f9",
-      "slug": "sasol-limited-ssl-a-bull-case-theory-2b1965be",
-      "orig_slug": "sasol-limited-ssl-a-bull-case-theory-2b1965be"
-    },
-    {
-      "title": "APA Corporation (APA): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/apa-corporation-apa-bull-case-134832686.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-28T13:48:32Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/a6abaea95483f551fccf78a879c4cba7",
-      "slug": "apa-corporation-apa-a-bull-case-theory-87916442",
-      "orig_slug": "apa-corporation-apa-a-bull-case-theory-87916442"
-    },
-    {
-      "title": "V2X, Inc. (VVX): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/v2x-inc-vvx-bull-case-134809746.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-28T13:48:09Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/888bed64755a1cb278388af833c5b054",
-      "slug": "v2x-inc-vvx-a-bull-case-theory-a66f6d46",
-      "orig_slug": "v2x-inc-vvx-a-bull-case-theory-a66f6d46"
-    },
-    {
-      "title": "Astera Labs, Inc. (ALAB): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/astera-labs-inc-alab-bull-134752818.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-28T13:47:52Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/86ea0ee89a463aa48d3f5d7deb8abef4",
-      "slug": "astera-labs-inc-alab-a-bull-case-theory-a385e75c",
-      "orig_slug": "astera-labs-inc-alab-a-bull-case-theory-a385e75c"
-    },
-    {
-      "title": "PubMatic upgraded to Buy from Hold at Lake Street",
-      "link": "https://finance.yahoo.com/news/pubmatic-upgraded-buy-hold-lake-140014230.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-28T14:00:14Z",
-      "image": "https://s.yimg.com/os/en/tipranks_452/1650c7d73b979a1f4dbbe9a8a16f9726",
-      "slug": "pubmatic-upgraded-to-buy-from-hold-at-lake-street-8868bff5",
-      "orig_slug": "pubmatic-upgraded-to-buy-from-hold-at-lake-street-8868bff5"
-    },
-    {
-      "title": "Ameriprise Financial, Inc. (AMP): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/ameriprise-financial-inc-amp-bull-134729105.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-28T13:47:29Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/6e4bfc4124ce883ac1cb5b29b4639de1",
-      "slug": "ameriprise-financial-inc-amp-a-bull-case-theory-3b651d87",
-      "orig_slug": "ameriprise-financial-inc-amp-a-bull-case-theory-3b651d87"
-    },
-    {
-      "title": "Coinbase Global, Inc. (COIN): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/coinbase-global-inc-coin-bull-134712997.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-28T13:47:12Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/5480dad247eb01552c3f0b88cce92cf3",
-      "slug": "coinbase-global-inc-coin-a-bull-case-theory-fb669fa3",
-      "orig_slug": "coinbase-global-inc-coin-a-bull-case-theory-fb669fa3"
-    },
-    {
-      "title": "Cadence Design Systems, Inc. (CDNS): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/cadence-design-systems-inc-cdns-134648953.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-28T13:46:48Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/081052dea0b96d7969c2bf3a6f15aefc",
-      "slug": "cadence-design-systems-inc-cdns-a-bull-case-theory-b6ada04f",
-      "orig_slug": "cadence-design-systems-inc-cdns-a-bull-case-theory-b6ada04f"
-    },
-    {
-      "title": "Extra Space Storage Inc. (EXR): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/extra-space-storage-inc-exr-134632380.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-28T13:46:32Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/11c12c1f19a3383607625987da22de71",
-      "slug": "extra-space-storage-inc-exr-a-bull-case-theory-6dc5b294",
-      "orig_slug": "extra-space-storage-inc-exr-a-bull-case-theory-6dc5b294"
-    },
-    {
-      "title": "Butterfly Network price target raised to $6 from $4.50 at TD Cowen",
-      "link": "https://finance.yahoo.com/news/butterfly-network-price-target-raised-135943734.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-28T13:59:43Z",
-      "image": "https://s.yimg.com/os/en/tipranks_452/e1839507ce9d5542b9a5313ac8d70b9e",
-      "slug": "butterfly-network-price-target-raised-to-6-from-450-at-td-cowen-8377f96a",
-      "orig_slug": "butterfly-network-price-target-raised-to-6-from-450-at-td-cowen-8377f96a"
-    },
-    {
-      "title": "GE Aerospace (GE): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/ge-aerospace-ge-bull-case-134610873.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-28T13:46:10Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/b51d4083c48c068654f8ae5eac5e8ac2",
-      "slug": "ge-aerospace-ge-a-bull-case-theory-53fa4f92",
-      "orig_slug": "ge-aerospace-ge-a-bull-case-theory-53fa4f92"
-    },
-    {
-      "title": "Bitmine Immersion Technologies, Inc. (BMNR): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/bitmine-immersion-technologies-inc-bmnr-133023847.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-28T13:30:23Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/c5e077b1003ff3386af5fe4df3d3b858",
-      "slug": "bitmine-immersion-technologies-inc-bmnr-a-bull-case-theory-789885ff",
-      "orig_slug": "bitmine-immersion-technologies-inc-bmnr-a-bull-case-theory-789885ff"
-    },
-    {
-      "title": "Core Scientific, Inc. (CORZ): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/core-scientific-inc-corz-bull-133009776.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-28T13:30:09Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/bd9bd9a5e61b5ca16a28dc79f1600cc4",
-      "slug": "core-scientific-inc-corz-a-bull-case-theory-86f7d672",
-      "orig_slug": "core-scientific-inc-corz-a-bull-case-theory-86f7d672"
-    },
-    {
-      "title": "Woman fears it's 'overkill' for mom to pay $600K/year for life insurance. Why Ramsey Show hosts say it may be 'worth it'",
-      "link": "https://finance.yahoo.com/news/woman-fears-overkill-mom-pay-133000491.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-28T13:30:00Z",
-      "image": "https://s.yimg.com/os/en/moneywise_327/512a583ea46173ea3cce9bddf6997f1e",
-      "slug": "woman-fears-its-overkill-for-mom-to-pay-600kyear-for-life-insurance-why-ramsey-s-06b33899",
-      "orig_slug": "woman-fears-its-overkill-for-mom-to-pay-600kyear-for-life-insurance-why-ramsey-s-06b33899"
-    },
-    {
-      "title": "Cable One price target lowered to $142 from $260 at TD Cowen",
-      "link": "https://finance.yahoo.com/news/cable-one-price-target-lowered-135928018.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-28T13:59:28Z",
-      "image": "https://s.yimg.com/os/en/tipranks_452/d524a3ac9891a5b3f09a1e06f897f8d9",
-      "slug": "cable-one-price-target-lowered-to-142-from-260-at-td-cowen-2706fe3e",
-      "orig_slug": "cable-one-price-target-lowered-to-142-from-260-at-td-cowen-2706fe3e"
-    },
-    {
-      "title": "Jefferson Capital, Inc. (JCAP): A Bear Case Theory",
-      "link": "https://finance.yahoo.com/news/jefferson-capital-inc-jcap-bear-132950781.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-28T13:29:50Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/e7fec942b0f56013742736dcf3c7d716",
-      "slug": "jefferson-capital-inc-jcap-a-bear-case-theory-76ae0723",
-      "orig_slug": "jefferson-capital-inc-jcap-a-bear-case-theory-76ae0723"
-    },
-    {
-      "title": "MGM Resorts International (MGM): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/mgm-resorts-international-mgm-bull-132935790.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-28T13:29:35Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/b0f8f041eba0015c909c06faa209b4b1",
-      "slug": "mgm-resorts-international-mgm-a-bull-case-theory-ced79f18",
-      "orig_slug": "mgm-resorts-international-mgm-a-bull-case-theory-ced79f18"
-    },
-    {
-      "title": "National Health Investors, Inc. (NHI): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/national-health-investors-inc-nhi-132921083.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-28T13:29:21Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/b5b4f16e9e657b95d4707fcb0c95ca7f",
-      "slug": "national-health-investors-inc-nhi-a-bull-case-theory-3df30db1",
-      "orig_slug": "national-health-investors-inc-nhi-a-bull-case-theory-3df30db1"
-    },
-    {
-      "title": "Oddity Tech Ltd. (ODD): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/oddity-tech-ltd-odd-bull-132906759.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-28T13:29:06Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/b4813d9878f18786d086730221041844",
-      "slug": "oddity-tech-ltd-odd-a-bull-case-theory-da2daff5",
-      "orig_slug": "oddity-tech-ltd-odd-a-bull-case-theory-da2daff5"
-    },
-    {
-      "title": "Intuit price target lowered to $558 from $696 at Oppenheimer",
-      "link": "https://finance.yahoo.com/news/intuit-price-target-lowered-558-135911628.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-28T13:59:11Z",
-      "image": "https://s.yimg.com/os/en/tipranks_452/ca21f54ab07090a885e2648800c5e113",
-      "slug": "intuit-price-target-lowered-to-558-from-696-at-oppenheimer-b371ee23",
-      "orig_slug": "intuit-price-target-lowered-to-558-from-696-at-oppenheimer-b371ee23"
-    },
-    {
-      "title": "Synaptics Incorporated (SYNA): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/synaptics-incorporated-syna-bull-case-132842890.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-28T13:28:42Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/71d3cd3790919e093554c3d88b84343e",
-      "slug": "synaptics-incorporated-syna-a-bull-case-theory-1558434f",
-      "orig_slug": "synaptics-incorporated-syna-a-bull-case-theory-1558434f"
-    },
-    {
-      "title": "Globant S.A. (GLOB): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/globant-glob-bull-case-theory-132716300.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-28T13:27:16Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/1a2953f42a95b21d98da96ec09ac9a29",
-      "slug": "globant-sa-glob-a-bull-case-theory-fde61066",
-      "orig_slug": "globant-sa-glob-a-bull-case-theory-fde61066"
-    },
-    {
-      "title": "Ichor Holdings, Ltd. (ICHR): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/ichor-holdings-ltd-ichr-bull-132700254.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-28T13:27:00Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/7a225bf73f282bb0341b522ca7bd778d",
-      "slug": "ichor-holdings-ltd-ichr-a-bull-case-theory-1eb3a359",
-      "orig_slug": "ichor-holdings-ltd-ichr-a-bull-case-theory-1eb3a359"
-    },
-    {
-      "title": "Innoviva, Inc. (INVA): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/innoviva-inc-inva-bull-case-132644780.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-28T13:26:44Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/50fcfe5f27cce38e6b2cffa8789d4c5a",
-      "slug": "innoviva-inc-inva-a-bull-case-theory-b6ba8df0",
-      "orig_slug": "innoviva-inc-inva-a-bull-case-theory-b6ba8df0"
-    },
-    {
-      "title": "JFB Construction showcases multi-drone capabilities in the Desert 2026",
-      "link": "https://finance.yahoo.com/news/jfb-construction-showcases-multi-drone-135853762.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-28T13:58:53Z",
-      "image": "https://s.yimg.com/os/en/tipranks_452/1573765eec094d1aeeb5a0918f61d6ad",
-      "slug": "jfb-construction-showcases-multi-drone-capabilities-in-the-desert-2026-cd8fae9d",
-      "orig_slug": "jfb-construction-showcases-multi-drone-capabilities-in-the-desert-2026-cd8fae9d"
-    },
-    {
-      "title": "LeMaitre Vascular, Inc. (LMAT): A Bull Case Theory",
-      "link": "https://finance.yahoo.com/news/lemaitre-vascular-inc-lmat-bull-132628615.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-28T13:26:28Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/504c9d1063e7754917ea5ebe9cb731e5",
-      "slug": "lemaitre-vascular-inc-lmat-a-bull-case-theory-d367bcc1",
-      "orig_slug": "lemaitre-vascular-inc-lmat-a-bull-case-theory-d367bcc1"
     }
   ]
 }
