@@ -1,365 +1,257 @@
 {
-  "updated": "2026-03-01T04:14:34Z",
+  "updated": "2026-03-01T05:44:59Z",
   "items": [
     {
-      "title": "From Bottleneck to Breakthrough: Why Procurement Is the Utility Industry’s Critical Capacity Builder",
-      "link": "https://finance.yahoo.com/news/bottleneck-breakthrough-why-procurement-utility-204540526.html",
+      "title": "Why Rigetti Computing Stock Slumped on Friday",
+      "link": "https://finance.yahoo.com/news/why-rigetti-computing-stock-slumped-215758658.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T20:45:40Z",
-      "image": "https://media.zenfs.com/en/power_magazine_984/b82bd26cd7d8d2f7a6408757806429c6",
-      "slug": "from-bottleneck-to-breakthrough-why-procurement-is-the-utility-industrys-critica-d8685b51",
-      "orig_slug": "from-bottleneck-to-breakthrough-why-procurement-is-the-utility-industrys-critica-d8685b51"
+      "pubDate": "2026-02-27T21:57:58Z",
+      "image": "https://s.yimg.com/os/en/motleyfool.com/dd3a4050dc3075a3dc17d267c5b643fe",
+      "slug": "why-rigetti-computing-stock-slumped-on-friday-207b8197",
+      "orig_slug": "why-rigetti-computing-stock-slumped-on-friday-207b8197"
     },
     {
-      "title": "Sphera Dumps 15,000 Check Point Software Shares Worth $3.1 Million",
-      "link": "https://finance.yahoo.com/news/sphera-dumps-15-000-check-204556148.html",
+      "title": "Volvo Trucks begins serial production of redesigned VNR at Virginia plant",
+      "link": "https://finance.yahoo.com/news/volvo-trucks-begins-serial-production-215508565.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T20:45:56Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/0c3987c68c537109d8c296d8c5bba4aa",
-      "slug": "sphera-dumps-15000-check-point-software-shares-worth-31-million-4bb37ec3",
-      "orig_slug": "sphera-dumps-15000-check-point-software-shares-worth-31-million-4bb37ec3"
+      "pubDate": "2026-02-27T21:55:08Z",
+      "image": "https://media.zenfs.com/en/freightwaves_373/92814da776fde84d5c46c3e4cf0f2a60",
+      "slug": "volvo-trucks-begins-serial-production-of-redesigned-vnr-at-virginia-plant-58eab409",
+      "orig_slug": "volvo-trucks-begins-serial-production-of-redesigned-vnr-at-virginia-plant-58eab409"
     },
     {
-      "title": "Synopsys To Reveal Ansys Synergies At Conference",
-      "link": "https://www.investors.com/news/technology/synopsys-stock-snps-catalyst-converge-conference/?src=A00220&yptr=yahoo",
+      "title": "Matador Resources (MTDR) Reports Record Production and 9% Proved Reserve Growth for 2025",
+      "link": "https://finance.yahoo.com/news/matador-resources-mtdr-reports-record-214952302.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T20:38:23Z",
+      "pubDate": "2026-02-27T21:49:52Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/1c60d7c9c3382e66fa521fff4722f762",
+      "slug": "matador-resources-mtdr-reports-record-production-and-9-proved-reserve-growth-for-39ef0c83",
+      "orig_slug": "matador-resources-mtdr-reports-record-production-and-9-proved-reserve-growth-for-39ef0c83"
+    },
+    {
+      "title": "Ovintiv (OVV) Completes Portfolio Transformation and Announces Strategic Debt Reduction Plan",
+      "link": "https://finance.yahoo.com/news/ovintiv-ovv-completes-portfolio-transformation-214930754.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-27T21:49:30Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/f6294ef0f079be4482e7e89615807ec4",
+      "slug": "ovintiv-ovv-completes-portfolio-transformation-and-announces-strategic-debt-redu-4214f51d",
+      "orig_slug": "ovintiv-ovv-completes-portfolio-transformation-and-announces-strategic-debt-redu-4214f51d"
+    },
+    {
+      "title": "Sunoco (SUN ) Reports 36% Annual EBITDA Growth Driven by Strategic Parkland Integration",
+      "link": "https://finance.yahoo.com/news/sunoco-sun-reports-36-annual-214936549.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-27T21:49:36Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/739a48aadfc0a1e30c6eafb3a70347cc",
+      "slug": "sunoco-sun-reports-36-annual-ebitda-growth-driven-by-strategic-parkland-integrat-3b4ba37e",
+      "orig_slug": "sunoco-sun-reports-36-annual-ebitda-growth-driven-by-strategic-parkland-integrat-3b4ba37e"
+    },
+    {
+      "title": "Range Resources (RRC) Achieves Record Operational Efficiency, $650M in 2025 Free Cash Flow",
+      "link": "https://finance.yahoo.com/news/range-resources-rrc-achieves-record-214944738.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-27T21:49:44Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/99df4bfdc9b5bf883742f17530182cd0",
+      "slug": "range-resources-rrc-achieves-record-operational-efficiency-650m-in-2025-free-cas-b09a5be5",
+      "orig_slug": "range-resources-rrc-achieves-record-operational-efficiency-650m-in-2025-free-cas-b09a5be5"
+    },
+    {
+      "title": "FMCSA spotlights trucking’s multi-million dollar insurance gap",
+      "link": "https://finance.yahoo.com/news/fmcsa-spotlights-trucking-multi-million-220802506.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-27T22:08:02Z",
+      "image": "https://media.zenfs.com/en/freightwaves_373/787c10a4be0622c772f21ec3636b84c8",
+      "slug": "fmcsa-spotlights-truckings-multi-million-dollar-insurance-gap-500cabe3",
+      "orig_slug": "fmcsa-spotlights-truckings-multi-million-dollar-insurance-gap-500cabe3"
+    },
+    {
+      "title": "Western Midstream (WES) Reports $2.48B Adjusted EBITDA Driven by Robust Basin Throughput",
+      "link": "https://finance.yahoo.com/news/western-midstream-wes-reports-2-214846687.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-27T21:48:46Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/dc25ded9e302ce45b4cb887a0ad32765",
+      "slug": "western-midstream-wes-reports-248b-adjusted-ebitda-driven-by-robust-basin-throug-b4af18d6",
+      "orig_slug": "western-midstream-wes-reports-248b-adjusted-ebitda-driven-by-robust-basin-throug-b4af18d6"
+    },
+    {
+      "title": "Halliburton (HAL), Pertamina Sign Strategic MOU to Advance Indonesian Unconventional Energy",
+      "link": "https://finance.yahoo.com/news/halliburton-hal-pertamina-sign-strategic-214810823.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-27T21:48:10Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/a6abaea95483f551fccf78a879c4cba7",
+      "slug": "halliburton-hal-pertamina-sign-strategic-mou-to-advance-indonesian-unconventiona-d28354a3",
+      "orig_slug": "halliburton-hal-pertamina-sign-strategic-mou-to-advance-indonesian-unconventiona-d28354a3"
+    },
+    {
+      "title": "Southwest Airlines, ZoomInfo, Bitdeer, and More Stocks See Activist Action",
+      "link": "https://www.barrons.com/articles/southwest-airlines-zoominfo-bitdeer-and-more-stocks-see-activist-action-f22a8d13?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-27T22:00:00Z",
       "image": "",
-      "slug": "synopsys-to-reveal-ansys-synergies-at-conference-d7927042",
-      "orig_slug": "synopsys-to-reveal-ansys-synergies-at-conference-d7927042"
+      "slug": "southwest-airlines-zoominfo-bitdeer-and-more-stocks-see-activist-action-d0a41ff8",
+      "orig_slug": "southwest-airlines-zoominfo-bitdeer-and-more-stocks-see-activist-action-d0a41ff8"
     },
     {
-      "title": "On The Road To A Breakout: Sector Leader Paves AI-Enabled Path",
-      "link": "https://www.investors.com/research/ibd-stock-analysis/road-stock-construction-partners-paves-ai-assisted-path-to-breakout/?src=A00220&yptr=yahoo",
+      "title": "Tenaris (TS) Achieves $2B in Free Cash Flow Despite Geopolitical and Tariff Headwinds",
+      "link": "https://finance.yahoo.com/news/tenaris-ts-achieves-2b-free-214826074.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T21:00:17Z",
-      "image": "",
-      "slug": "on-the-road-to-a-breakout-sector-leader-paves-ai-enabled-path-59d83a47",
-      "orig_slug": "on-the-road-to-a-breakout-sector-leader-paves-ai-enabled-path-59d83a47"
+      "pubDate": "2026-02-27T21:48:26Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/85238ceedf5189c5b7a60a9656458ac6",
+      "slug": "tenaris-ts-achieves-2b-in-free-cash-flow-despite-geopolitical-and-tariff-headwin-d20b3a26",
+      "orig_slug": "tenaris-ts-achieves-2b-in-free-cash-flow-despite-geopolitical-and-tariff-headwin-d20b3a26"
     },
     {
-      "title": "DJT Eyes Truth Social Spinoff as Trumps Lean into Fusion Fantasy",
-      "link": "https://finance.yahoo.com/news/djt-eyes-truth-social-spinoff-203228520.html",
+      "title": "Cheniere Energy Partners (CQP) Reports $10.8B in 2025 Revenue and Record Q4 Net Income",
+      "link": "https://finance.yahoo.com/news/cheniere-energy-partners-cqp-reports-214818842.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T20:32:28Z",
-      "image": "https://s.yimg.com/os/en/moby_896/d59ba3b46da8840e2beb550b6e01a6ed",
-      "slug": "djt-eyes-truth-social-spinoff-as-trumps-lean-into-fusion-fantasy-b6c0ff85",
-      "orig_slug": "djt-eyes-truth-social-spinoff-as-trumps-lean-into-fusion-fantasy-b6c0ff85"
+      "pubDate": "2026-02-27T21:48:18Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/0a709792ff7b8f78914b7c74caa406ac",
+      "slug": "cheniere-energy-partners-cqp-reports-108b-in-2025-revenue-and-record-q4-net-inco-6cebbecf",
+      "orig_slug": "cheniere-energy-partners-cqp-reports-108b-in-2025-revenue-and-record-q4-net-inco-6cebbecf"
     },
     {
-      "title": "GE Stock Jets To A New High. A Natural Gas Name Joins It.",
-      "link": "https://www.investors.com/stock-lists/new-highs/ge-stock-aerospace-natural-gas-mcdonalds-mcd-energy-ato/?src=A00220&yptr=yahoo",
+      "title": "EOG Resources (EOG) Achieves $4.7B Free Cash Flow and Returns 100% to Shareholders",
+      "link": "https://finance.yahoo.com/news/eog-resources-eog-achieves-4-214732777.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T20:32:18Z",
-      "image": "",
-      "slug": "ge-stock-jets-to-a-new-high-a-natural-gas-name-joins-it-84298c0d",
-      "orig_slug": "ge-stock-jets-to-a-new-high-a-natural-gas-name-joins-it-84298c0d"
+      "pubDate": "2026-02-27T21:47:32Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/d38ad46384f14adc22975d5dc9a4635c",
+      "slug": "eog-resources-eog-achieves-47b-free-cash-flow-and-returns-100-to-shareholders-135e6230",
+      "orig_slug": "eog-resources-eog-achieves-47b-free-cash-flow-and-returns-100-to-shareholders-135e6230"
     },
     {
-      "title": "Treasury Yields Fall Ahead of Jobs Week, Fed Month",
-      "link": "https://www.wsj.com/finance/jgbs-rise-tracking-gains-in-u-s-treasurys-1359df71?siteid=yhoof2&yptr=yahoo",
+      "title": "Earnings live: Block mass layoffs earn Wall Street's approval, Duolingo shares plunge",
+      "link": "https://finance.yahoo.com/news/live/earnings-live-block-mass-layoffs-earn-wall-streets-approval-duolingo-shares-plunge-214740021.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T20:53:00Z",
-      "image": "",
-      "slug": "treasury-yields-fall-ahead-of-jobs-week-fed-month-552003de",
-      "orig_slug": "treasury-yields-fall-ahead-of-jobs-week-fed-month-552003de"
+      "pubDate": "2026-02-27T21:47:40Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/Q8HTFkkSzJvGSOyTFmMVKg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2021-08/e9a7d4d0-f347-11eb-81ef-0815aa9d257f",
+      "slug": "earnings-live-block-mass-layoffs-earn-wall-streets-approval-duolingo-shares-plun-ec09678b",
+      "orig_slug": "earnings-live-block-mass-layoffs-earn-wall-streets-approval-duolingo-shares-plun-ec09678b"
     },
     {
-      "title": "Dollar Slips as T-Note Yields Fall",
-      "link": "https://finance.yahoo.com/news/dollar-slips-t-note-yields-203119687.html",
+      "title": "Banking Giant Barclays Mulls Crypto Payments Push: Bloomberg",
+      "link": "https://finance.yahoo.com/news/banking-giant-barclays-mulls-crypto-215408313.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T20:31:19Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/23377ff3d8976e5204c5ede618c2a9da",
-      "slug": "dollar-slips-as-t-note-yields-fall-fce7f885",
-      "orig_slug": "dollar-slips-as-t-note-yields-fall-fce7f885"
+      "pubDate": "2026-02-27T21:54:08Z",
+      "image": "https://media.zenfs.com/en/decrypt_157/a7b88fb7ce620a5b0d3a7034c7d1ffb8",
+      "slug": "banking-giant-barclays-mulls-crypto-payments-push-bloomberg-1294af0f",
+      "orig_slug": "banking-giant-barclays-mulls-crypto-payments-push-bloomberg-1294af0f"
     },
     {
-      "title": "Amazon.com (AMZN) Data Center Push Continues with $12B Investment in Louisiana",
-      "link": "https://finance.yahoo.com/news/amazon-com-amzn-data-center-210432131.html",
+      "title": "Diamondback Energy (FANG) Reports $5.9B in Free Cash Flow and Strong 2025 Production",
+      "link": "https://finance.yahoo.com/news/diamondback-energy-fang-reports-5-214739101.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T21:04:32Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/200db36b3627d8c0741a12874b6a7da4",
-      "slug": "amazoncom-amzn-data-center-push-continues-with-12b-investment-in-louisiana-7d67ce6b",
-      "orig_slug": "amazoncom-amzn-data-center-push-continues-with-12b-investment-in-louisiana-7d67ce6b"
+      "pubDate": "2026-02-27T21:47:39Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/8899dcacbcaf080a31ccd8e28098d188",
+      "slug": "diamondback-energy-fang-reports-59b-in-free-cash-flow-and-strong-2025-production-f10df584",
+      "orig_slug": "diamondback-energy-fang-reports-59b-in-free-cash-flow-and-strong-2025-production-f10df584"
     },
     {
-      "title": "Analyst Optimistic on Terns (TERN) Citing Possible $4.8B Market for Upcoming Leukemia Drug",
-      "link": "https://finance.yahoo.com/news/analyst-optimistic-terns-tern-citing-210442423.html",
+      "title": "Shell (SHEL), METLEN Sign Strategic MOU for Five-Year European LNG Supply Cooperation",
+      "link": "https://finance.yahoo.com/news/shell-shel-metlen-sign-strategic-214721935.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T21:04:42Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/bb9ca170cc8e3586c6f2ee2f8fc70960",
-      "slug": "analyst-optimistic-on-terns-tern-citing-possible-48b-market-for-upcoming-leukemi-d6fa5020",
-      "orig_slug": "analyst-optimistic-on-terns-tern-citing-possible-48b-market-for-upcoming-leukemi-d6fa5020"
+      "pubDate": "2026-02-27T21:47:21Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/3ca277dbb9e5c3136b212b53f2b7325b",
+      "slug": "shell-shel-metlen-sign-strategic-mou-for-five-year-european-lng-supply-cooperati-fe93d1bf",
+      "orig_slug": "shell-shel-metlen-sign-strategic-mou-for-five-year-european-lng-supply-cooperati-fe93d1bf"
     },
     {
-      "title": "Rocket (RKT) AI Push Continues With  Redfin ChatGPT App Launch",
-      "link": "https://finance.yahoo.com/news/rocket-rkt-ai-push-continues-210456342.html",
+      "title": "Stocks Settle Lower as Bank Shares Tumble and Tech Stocks Fall",
+      "link": "https://finance.yahoo.com/news/stocks-settle-lower-bank-shares-214049430.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T21:04:56Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/7989699eaf1009419af281301694455f",
-      "slug": "rocket-rkt-ai-push-continues-with-redfin-chatgpt-app-launch-5edb95f8",
-      "orig_slug": "rocket-rkt-ai-push-continues-with-redfin-chatgpt-app-launch-5edb95f8"
+      "pubDate": "2026-02-27T21:40:49Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/4325b337bc9a3e4bc79fd8b591af63df",
+      "slug": "stocks-settle-lower-as-bank-shares-tumble-and-tech-stocks-fall-5dc4f820",
+      "orig_slug": "stocks-settle-lower-as-bank-shares-tumble-and-tech-stocks-fall-5dc4f820"
     },
     {
-      "title": "Private markets in 401(k)s face major liquidity challenges: Morningstar",
-      "link": "https://finance.yahoo.com/news/private-markets-401-k-face-205310395.html",
+      "title": "Intercontinental Exchange (ICE) Reports Strong 2025 Growth with $9.9B in Revenue",
+      "link": "https://finance.yahoo.com/news/intercontinental-exchange-ice-reports-strong-222259431.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T20:53:10Z",
-      "image": "https://s.yimg.com/os/en/financial_planning_664/125e1baa2ee4530f4ba26d13795093ea",
-      "slug": "private-markets-in-401ks-face-major-liquidity-challenges-morningstar-f7a9aee4",
-      "orig_slug": "private-markets-in-401ks-face-major-liquidity-challenges-morningstar-f7a9aee4"
+      "pubDate": "2026-02-27T22:22:59Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/09a395146cbda62407b920981f67822b",
+      "slug": "intercontinental-exchange-ice-reports-strong-2025-growth-with-99b-in-revenue-407c5f73",
+      "orig_slug": "intercontinental-exchange-ice-reports-strong-2025-growth-with-99b-in-revenue-407c5f73"
     },
     {
-      "title": "Alphabet (GOOGL) Secures Power Deals with AES, Xcel for Data Centers",
-      "link": "https://finance.yahoo.com/news/alphabet-googl-secures-power-deals-210448694.html",
+      "title": "dYdX CEO says institutions are now major force in crypto derivatives",
+      "link": "https://finance.yahoo.com/news/dydx-ceo-says-institutions-now-220231162.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T21:04:48Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/c063cb24366da53443f0b1c3f4b218cc",
-      "slug": "alphabet-googl-secures-power-deals-with-aes-xcel-for-data-centers-d0f5017e",
-      "orig_slug": "alphabet-googl-secures-power-deals-with-aes-xcel-for-data-centers-d0f5017e"
+      "pubDate": "2026-02-27T22:02:31Z",
+      "image": "https://s.yimg.com/os/en/thestreet_881/507b96a2b333fa85469df22f8033fbfa",
+      "slug": "dydx-ceo-says-institutions-are-now-major-force-in-crypto-derivatives-2b671674",
+      "orig_slug": "dydx-ceo-says-institutions-are-now-major-force-in-crypto-derivatives-2b671674"
     },
     {
-      "title": "Exact Sciences (EXAS) Merger with Abbott Moving Forward After Shareholder Approval",
-      "link": "https://finance.yahoo.com/news/exact-sciences-exas-merger-abbott-210510471.html",
+      "title": "CME Group (CME) Achieves Record 2025 Results with $6.5B in Revenue",
+      "link": "https://finance.yahoo.com/news/cme-group-cme-achieves-record-222308531.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T21:05:10Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/6ef0bf87046db37e9d36787329f3c828",
-      "slug": "exact-sciences-exas-merger-with-abbott-moving-forward-after-shareholder-approval-f69500cb",
-      "orig_slug": "exact-sciences-exas-merger-with-abbott-moving-forward-after-shareholder-approval-f69500cb"
+      "pubDate": "2026-02-27T22:23:08Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/fb7e447f770c52cf08aad114e71e8628",
+      "slug": "cme-group-cme-achieves-record-2025-results-with-65b-in-revenue-763468c1",
+      "orig_slug": "cme-group-cme-achieves-record-2025-results-with-65b-in-revenue-763468c1"
     },
     {
-      "title": "Piper Sandler Cautious About Lululemon (LULU) CEO Search",
-      "link": "https://finance.yahoo.com/news/piper-sandler-cautious-lululemon-lulu-210504861.html",
+      "title": "EverQuote (EVER) Reports 38% Revenue Surge in 2025 Driven by Auto Insurance Growth",
+      "link": "https://finance.yahoo.com/news/everquote-ever-reports-38-revenue-222315791.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T21:05:04Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/37d7d5d30359105c0b0d060610e24e5e",
-      "slug": "piper-sandler-cautious-about-lululemon-lulu-ceo-search-0c625845",
-      "orig_slug": "piper-sandler-cautious-about-lululemon-lulu-ceo-search-0c625845"
+      "pubDate": "2026-02-27T22:23:15Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/749102d42248251e1f57e3bccd69276d",
+      "slug": "everquote-ever-reports-38-revenue-surge-in-2025-driven-by-auto-insurance-growth-aedfd8ac",
+      "orig_slug": "everquote-ever-reports-38-revenue-surge-in-2025-driven-by-auto-insurance-growth-aedfd8ac"
     },
     {
-      "title": "Micron (MU) to Spend $200B on New Factories as Memory Chip Demand Explodes",
-      "link": "https://finance.yahoo.com/news/micron-mu-spend-200b-factories-210524311.html",
+      "title": "Hippo Holdings (HIPO) Achieves 2025 Financial Turnaround with $58M Net Income",
+      "link": "https://finance.yahoo.com/news/hippo-holdings-hipo-achieves-2025-222323668.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T21:05:24Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/ee550600198f898f2c9832c8d76743ea",
-      "slug": "micron-mu-to-spend-200b-on-new-factories-as-memory-chip-demand-explodes-9610cb97",
-      "orig_slug": "micron-mu-to-spend-200b-on-new-factories-as-memory-chip-demand-explodes-9610cb97"
+      "pubDate": "2026-02-27T22:23:23Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/d265396c2ba1543e5563b3ccac07ca42",
+      "slug": "hippo-holdings-hipo-achieves-2025-financial-turnaround-with-58m-net-income-0022565b",
+      "orig_slug": "hippo-holdings-hipo-achieves-2025-financial-turnaround-with-58m-net-income-0022565b"
     },
     {
-      "title": "Jobs Data, Earnings From Broadcom and Target: What to Watch Next Week",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-27-2026/card/jobs-data-earnings-from-broadcom-and-target-what-to-watch-next-week-dfXcvWg5MeC8syzOG3yE?siteid=yhoof2&yptr=yahoo",
+      "title": "Trupanion (TRUP) Surpasses $1B in Subscription Revenue and Returns to Profitability in 2025",
+      "link": "https://finance.yahoo.com/news/trupanion-trup-surpasses-1b-subscription-222347265.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T20:45:15Z",
-      "image": "",
-      "slug": "jobs-data-earnings-from-broadcom-and-target-what-to-watch-next-week-1451b748",
-      "orig_slug": "jobs-data-earnings-from-broadcom-and-target-what-to-watch-next-week-1451b748"
+      "pubDate": "2026-02-27T22:23:47Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/111a51a7ea944bf9de0299ccb1e2b11a",
+      "slug": "trupanion-trup-surpasses-1b-in-subscription-revenue-and-returns-to-profitability-9eaa7f50",
+      "orig_slug": "trupanion-trup-surpasses-1b-in-subscription-revenue-and-returns-to-profitability-9eaa7f50"
     },
     {
-      "title": "Coherent (COHR) Gets Higher Price Target from Morgan Stanley on Bullish Optical Markets Forecast",
-      "link": "https://finance.yahoo.com/news/coherent-cohr-gets-higher-price-210532654.html",
+      "title": "Red Wave Investments Supercharges Treasury Bill Holdings by 44%",
+      "link": "https://finance.yahoo.com/news/red-wave-investments-supercharges-treasury-215233634.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T21:05:32Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/25ffa206e008e727f47f84fe6774ee3e",
-      "slug": "coherent-cohr-gets-higher-price-target-from-morgan-stanley-on-bullish-optical-ma-af9b9bb0",
-      "orig_slug": "coherent-cohr-gets-higher-price-target-from-morgan-stanley-on-bullish-optical-ma-af9b9bb0"
-    },
-    {
-      "title": "Avidity (RNA) Moves Date for Shareholder Vote on Novartis Merger",
-      "link": "https://finance.yahoo.com/news/avidity-rna-moves-date-shareholder-210540291.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T21:05:40Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/c1b4afed3f897f4dae45d1e68a2d2bd8",
-      "slug": "avidity-rna-moves-date-for-shareholder-vote-on-novartis-merger-6a331f1f",
-      "orig_slug": "avidity-rna-moves-date-for-shareholder-vote-on-novartis-merger-6a331f1f"
-    },
-    {
-      "title": "Citi, Stifel Bullish on Olema (OLMA) Despite COO Departure",
-      "link": "https://finance.yahoo.com/news/citi-stifel-bullish-olema-olma-210555494.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T21:05:55Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/bb9eeca959da429f530467dc58c79488",
-      "slug": "citi-stifel-bullish-on-olema-olma-despite-coo-departure-520b1b32",
-      "orig_slug": "citi-stifel-bullish-on-olema-olma-despite-coo-departure-520b1b32"
-    },
-    {
-      "title": "Wolfe Research Bearish on Circle Internet Group (CRCL) on Lower EBITDA Expectations",
-      "link": "https://finance.yahoo.com/news/wolfe-research-bearish-circle-internet-210547200.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T21:05:47Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/2bdd55ec54df14d40136d76ae913c777",
-      "slug": "wolfe-research-bearish-on-circle-internet-group-crcl-on-lower-ebitda-expectation-1ac140ff",
-      "orig_slug": "wolfe-research-bearish-on-circle-internet-group-crcl-on-lower-ebitda-expectation-1ac140ff"
-    },
-    {
-      "title": "Best Month in a Year for Treasuries",
-      "link": "https://finance.yahoo.com/video/best-month-treasuries-204130740.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T20:41:30Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/NBspe6S_SpDqXKUX0QBP4w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/36b42768-b2ef-43d1-9f6a-3da0dcdf8055/main/1280x720/1m24s880ms/match/image.jpg",
-      "slug": "best-month-in-a-year-for-treasuries-c35891ec",
-      "orig_slug": "best-month-in-a-year-for-treasuries-c35891ec"
-    },
-    {
-      "title": "NVIDIA (NVDA) Grows Revenue by 65% in Fiscal 2026, Expects $78B for Next Quarter",
-      "link": "https://finance.yahoo.com/news/nvidia-nvda-grows-revenue-65-210604882.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T21:06:04Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/094ee83d0d34849418ab9a78e4d78acc",
-      "slug": "nvidia-nvda-grows-revenue-by-65-in-fiscal-2026-expects-78b-for-next-quarter-53a6d586",
-      "orig_slug": "nvidia-nvda-grows-revenue-by-65-in-fiscal-2026-expects-78b-for-next-quarter-53a6d586"
-    },
-    {
-      "title": "Apple to Purchase 100M Chips from Taiwan Semiconductor Manufacturing (TSM) Arizona Facility",
-      "link": "https://finance.yahoo.com/news/apple-purchase-100m-chips-taiwan-210611210.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T21:06:11Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/6857607624d018154569190d8bf2f815",
-      "slug": "apple-to-purchase-100m-chips-from-taiwan-semiconductor-manufacturing-tsm-arizona-84d9f048",
-      "orig_slug": "apple-to-purchase-100m-chips-from-taiwan-semiconductor-manufacturing-tsm-arizona-84d9f048"
-    },
-    {
-      "title": "Morgan Stanley Views Lumentum (LITE) Positively on Optical Markets Growth Potential",
-      "link": "https://finance.yahoo.com/news/morgan-stanley-views-lumentum-lite-210618806.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T21:06:18Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/28b2397591208335050d1d047964f641",
-      "slug": "morgan-stanley-views-lumentum-lite-positively-on-optical-markets-growth-potentia-2d209b1c",
-      "orig_slug": "morgan-stanley-views-lumentum-lite-positively-on-optical-markets-growth-potentia-2d209b1c"
-    },
-    {
-      "title": "Analyst Bullish on Cogent (COGT) Amid Expected Drug Approval",
-      "link": "https://finance.yahoo.com/news/analyst-bullish-cogent-cogt-amid-210627625.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T21:06:27Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/2c03cacdaaf460b87138b16134905a36",
-      "slug": "analyst-bullish-on-cogent-cogt-amid-expected-drug-approval-67798a35",
-      "orig_slug": "analyst-bullish-on-cogent-cogt-amid-expected-drug-approval-67798a35"
-    },
-    {
-      "title": "Bastion Bets on Government Spending with $8 Million New Stake in Parsons",
-      "link": "https://finance.yahoo.com/news/bastion-bets-government-spending-8-205723652.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T20:57:23Z",
+      "pubDate": "2026-02-27T21:52:33Z",
       "image": "https://s.yimg.com/os/en/motleyfool.com/55916c6de45811c79dd776522bf246b8",
-      "slug": "bastion-bets-on-government-spending-with-8-million-new-stake-in-parsons-b84a3efa",
-      "orig_slug": "bastion-bets-on-government-spending-with-8-million-new-stake-in-parsons-b84a3efa"
+      "slug": "red-wave-investments-supercharges-treasury-bill-holdings-by-44-efd75ba3",
+      "orig_slug": "red-wave-investments-supercharges-treasury-bill-holdings-by-44-efd75ba3"
     },
     {
-      "title": "Merck Stock, Up 18% In 2026, Ticks Another Box. Is It Now A Buy?",
-      "link": "https://www.investors.com/news/technology/merck-stock-keytruda-ovarian-cancer-overall-survival/?src=A00220&yptr=yahoo",
+      "title": "Root Inc. (ROOT) Delivers Record 2025 Results with 29% Revenue Growth and $40M Net Income",
+      "link": "https://finance.yahoo.com/news/root-inc-root-delivers-record-222332627.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T21:07:16Z",
+      "pubDate": "2026-02-27T22:23:32Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/25d2a09fa0d8e63a70d089a1c4bd801a",
+      "slug": "root-inc-root-delivers-record-2025-results-with-29-revenue-growth-and-40m-net-in-6887b7ac",
+      "orig_slug": "root-inc-root-delivers-record-2025-results-with-29-revenue-growth-and-40m-net-in-6887b7ac"
+    },
+    {
+      "title": "Marqeta (MQ) Achieves Record $383B TPV in 2025 Driven by Strong European Expansion",
+      "link": "https://finance.yahoo.com/news/marqeta-mq-achieves-record-383b-222403547.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-27T22:24:03Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/e53a9a9e3a98188dc00f3c921a0ba425",
+      "slug": "marqeta-mq-achieves-record-383b-tpv-in-2025-driven-by-strong-european-expansion-ef9e636b",
+      "orig_slug": "marqeta-mq-achieves-record-383b-tpv-in-2025-driven-by-strong-european-expansion-ef9e636b"
+    },
+    {
+      "title": "Stock Market Today: Dow Sinks On Hot Inflation; Nvidia Plunges On OpenAI Deal (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-nvidia-partner-coreweave-crwv/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-27T21:34:13Z",
       "image": "",
-      "slug": "merck-stock-up-18-in-2026-ticks-another-box-is-it-now-a-buy-8e462282",
-      "orig_slug": "merck-stock-up-18-in-2026-ticks-another-box-is-it-now-a-buy-8e462282"
-    },
-    {
-      "title": "Average auto loan interest rates by credit score in 2026",
-      "link": "https://finance.yahoo.com/news/average-car-loan-interest-rates-212521067.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T20:24:31Z",
-      "image": "https://media.zenfs.com/en/bankrate_626/815064319fdeb325366f47743b4cc6a6",
-      "slug": "average-auto-loan-interest-rates-by-credit-score-in-2026-39468ba4",
-      "orig_slug": "average-auto-loan-interest-rates-by-credit-score-in-2026-39468ba4"
-    },
-    {
-      "title": "Nat-Gas Prices Push Higher on Geopolitical Risks",
-      "link": "https://finance.yahoo.com/news/nat-gas-prices-push-higher-201958178.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T20:19:58Z",
-      "image": "https://s.yimg.com/os/en/barchart_com_477/5e0adffca0f8f32cd070dd5cfd86e383",
-      "slug": "nat-gas-prices-push-higher-on-geopolitical-risks-db9cf9a6",
-      "orig_slug": "nat-gas-prices-push-higher-on-geopolitical-risks-db9cf9a6"
-    },
-    {
-      "title": "MARA Surges On Data Center Partnership, AI Plans. Crypto Plays Report.",
-      "link": "https://www.investors.com/news/bitcoin-price-bitcoin-etf-flows-american-bitcoin-earnings-trump-abtc-mara-terawulf-figure/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T21:14:45Z",
-      "image": "",
-      "slug": "mara-surges-on-data-center-partnership-ai-plans-crypto-plays-report-0d938b4a",
-      "orig_slug": "mara-surges-on-data-center-partnership-ai-plans-crypto-plays-report-0d938b4a"
-    },
-    {
-      "title": "The Dow Is on Fire This Year. What Ignited the Gains.",
-      "link": "https://www.barrons.com/articles/dow-jones-nasdaq-caterpillar-honeywell-e23534fa?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T20:58:00Z",
-      "image": "",
-      "slug": "the-dow-is-on-fire-this-year-what-ignited-the-gains-ef5b0b44",
-      "orig_slug": "the-dow-is-on-fire-this-year-what-ignited-the-gains-ef5b0b44"
-    },
-    {
-      "title": "Kratos Defense Extends Tumble On $1.2 Billion Fundraising Plans",
-      "link": "https://www.investors.com/news/kratos-defense-stock-offering-1-2-billion-ktos-stock-drones/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T21:17:44Z",
-      "image": "",
-      "slug": "kratos-defense-extends-tumble-on-12-billion-fundraising-plans-45420193",
-      "orig_slug": "kratos-defense-extends-tumble-on-12-billion-fundraising-plans-45420193"
-    },
-    {
-      "title": "Matson Q4 ocean profit stable",
-      "link": "https://finance.yahoo.com/news/matson-q4-ocean-profit-stable-201446342.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T20:14:46Z",
-      "image": "https://s.yimg.com/os/en/freightwaves_373/4b8ffd30fd8a10da68000f2c852d2fb5",
-      "slug": "matson-q4-ocean-profit-stable-36d5a606",
-      "orig_slug": "matson-q4-ocean-profit-stable-36d5a606"
-    },
-    {
-      "title": "Mortgage rate forecast: March 2026",
-      "link": "https://finance.yahoo.com/news/mortgage-rate-forecast-november-2023-140556792.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T21:19:41Z",
-      "image": "https://media.zenfs.com/en/bankrate_626/8c1f972ac9c0161ad902dc560dd5394e",
-      "slug": "mortgage-rate-forecast-march-2026-07976ef2",
-      "orig_slug": "mortgage-rate-forecast-march-2026-07976ef2"
-    },
-    {
-      "title": "Netflix Wins By Losing Warner Bros. Deal, Analysts Say",
-      "link": "https://www.investors.com/news/technology/netflix-stock-wins-by-losing-warner-bros-deal/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T21:20:53Z",
-      "image": "",
-      "slug": "netflix-wins-by-losing-warner-bros-deal-analysts-say-4e914ff5",
-      "orig_slug": "netflix-wins-by-losing-warner-bros-deal-analysts-say-4e914ff5"
-    },
-    {
-      "title": "Goldman Sachs has stark message for investors in AI stocks",
-      "link": "https://finance.yahoo.com/news/goldman-sachs-stark-message-investors-203700678.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T20:37:00Z",
-      "image": "https://s.yimg.com/os/en/thestreet_881/6361a3ed28239491b9e0b61fad5976c1",
-      "slug": "goldman-sachs-has-stark-message-for-investors-in-ai-stocks-9621735a",
-      "orig_slug": "goldman-sachs-has-stark-message-for-investors-in-ai-stocks-9621735a"
-    },
-    {
-      "title": "Dell Stock Soars As AI Data Center Business Fuels Growth",
-      "link": "https://www.investors.com/news/technology/dell-stock-ai-data-center-business-fuels-growth/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T21:24:22Z",
-      "image": "",
-      "slug": "dell-stock-soars-as-ai-data-center-business-fuels-growth-be42806c",
-      "orig_slug": "dell-stock-soars-as-ai-data-center-business-fuels-growth-be42806c"
-    },
-    {
-      "title": "IPO Stock Of The Week: Pacs Group Plunges Through Key Level After Earnings Weakness",
-      "link": "https://www.investors.com/stock-lists/ipo-analysis/pacs-stock/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T20:05:09Z",
-      "image": "",
-      "slug": "ipo-stock-of-the-week-pacs-group-plunges-through-key-level-after-earnings-weakne-9e868209",
-      "orig_slug": "ipo-stock-of-the-week-pacs-group-plunges-through-key-level-after-earnings-weakne-9e868209"
-    },
-    {
-      "title": "These Stocks Lead Dow Jones In February. Hint: It's Not AI Companies.",
-      "link": "https://www.investors.com/news/dow-jones-stocks-led-february-not-ai-companies/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T21:30:39Z",
-      "image": "",
-      "slug": "these-stocks-lead-dow-jones-in-february-hint-its-not-ai-companies-f13b9382",
-      "orig_slug": "these-stocks-lead-dow-jones-in-february-hint-its-not-ai-companies-f13b9382"
+      "slug": "stock-market-today-dow-sinks-on-hot-inflation-nvidia-plunges-on-openai-deal-live-f5ed5c1b",
+      "orig_slug": "stock-market-today-dow-sinks-on-hot-inflation-nvidia-plunges-on-openai-deal-live-f5ed5c1b"
     },
     {
       "title": "Steer Clear of Dividend ETFs: Why Dividend Stocks Are Better Bought Individually",
@@ -371,13 +263,112 @@
       "orig_slug": "steer-clear-of-dividend-etfs-why-dividend-stocks-are-better-bought-individually-9683fb0d"
     },
     {
-      "title": "Old Mission Capital Boosts iShares MSCI China ETF Allocation During China’s Market Reset",
-      "link": "https://finance.yahoo.com/news/old-mission-capital-boosts-ishares-203610487.html",
+      "title": "Paramount Is Officially Buying Warner Bros. Why the Stock Soared.",
+      "link": "https://www.barrons.com/articles/paramount-stock-price-warner-deal-netflix-9f4dd95d?siteid=yhoof2&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T20:36:10Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/4fca09be06e91fc5e2cb8f5a231f5022",
-      "slug": "old-mission-capital-boosts-ishares-msci-china-etf-allocation-during-chinas-marke-e8e9e775",
-      "orig_slug": "old-mission-capital-boosts-ishares-msci-china-etf-allocation-during-chinas-marke-e8e9e775"
+      "pubDate": "2026-02-27T22:04:00Z",
+      "image": "",
+      "slug": "paramount-is-officially-buying-warner-bros-why-the-stock-soared-95ffadf4",
+      "orig_slug": "paramount-is-officially-buying-warner-bros-why-the-stock-soared-95ffadf4"
+    },
+    {
+      "title": "These Stocks Lead Dow Jones In February. Hint: It's Not AI Companies.",
+      "link": "https://www.investors.com/news/dow-jones-stocks-led-february-not-ai-companies/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-27T21:30:39Z",
+      "image": "",
+      "slug": "these-stocks-lead-dow-jones-in-february-hint-its-not-ai-companies-f13b9382",
+      "orig_slug": "these-stocks-lead-dow-jones-in-february-hint-its-not-ai-companies-f13b9382"
+    },
+    {
+      "title": "Lemonade (LMND) Reports Record Gross Profit and 53% Revenue Growth in Q4 2025",
+      "link": "https://finance.yahoo.com/news/lemonade-lmnd-reports-record-gross-223027437.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-27T22:30:27Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/455d1ef1d9d33f1d6bc94d34a89b9b20",
+      "slug": "lemonade-lmnd-reports-record-gross-profit-and-53-revenue-growth-in-q4-2025-0d437b97",
+      "orig_slug": "lemonade-lmnd-reports-record-gross-profit-and-53-revenue-growth-in-q4-2025-0d437b97"
+    },
+    {
+      "title": "MarketAxess (MKTX) Appoints William Quan as CTO to Drive Platform Innovation",
+      "link": "https://finance.yahoo.com/news/marketaxess-mktx-appoints-william-quan-223045825.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-27T22:30:45Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/e2ba6de6454304fc7896895c5897ae45",
+      "slug": "marketaxess-mktx-appoints-william-quan-as-cto-to-drive-platform-innovation-4917e96d",
+      "orig_slug": "marketaxess-mktx-appoints-william-quan-as-cto-to-drive-platform-innovation-4917e96d"
+    },
+    {
+      "title": "Virtu Financial (VIRT) Reports Highest Quarterly Net Income Since 2021 with Strong Q4 2025 Results",
+      "link": "https://finance.yahoo.com/news/virtu-financial-virt-reports-highest-223036057.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-27T22:30:36Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/88e16b049a7686f80041539eeb59e3e2",
+      "slug": "virtu-financial-virt-reports-highest-quarterly-net-income-since-2021-with-strong-2453415b",
+      "orig_slug": "virtu-financial-virt-reports-highest-quarterly-net-income-since-2021-with-strong-2453415b"
+    },
+    {
+      "title": "Is Chevron Stock Going to $200?",
+      "link": "https://finance.yahoo.com/news/chevron-stock-going-200-220500116.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-27T22:05:00Z",
+      "image": "https://s.yimg.com/os/en/motleyfool.com/aec3f186f36cfebf8637ea53bc1c507f",
+      "slug": "is-chevron-stock-going-to-200-2768c00a",
+      "orig_slug": "is-chevron-stock-going-to-200-2768c00a"
+    },
+    {
+      "title": "Nasdaq (NDAQ) Launches New Private Capital Indexes to Standardize Benchmarking for Private Markets",
+      "link": "https://finance.yahoo.com/news/nasdaq-ndaq-launches-private-capital-223053211.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-27T22:30:53Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/194b4c78f86cb87917076954e8d91bc7",
+      "slug": "nasdaq-ndaq-launches-new-private-capital-indexes-to-standardize-benchmarking-for-beab3a4f",
+      "orig_slug": "nasdaq-ndaq-launches-new-private-capital-indexes-to-standardize-benchmarking-for-beab3a4f"
+    },
+    {
+      "title": "Why Google Stock Is Still An Undisputed IPO Benchmark To Learn From",
+      "link": "https://www.investors.com/news/why-google-stock-is-still-an-undisputed-ipo-benchmark-to-learn-from/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-27T22:33:37Z",
+      "image": "",
+      "slug": "why-google-stock-is-still-an-undisputed-ipo-benchmark-to-learn-from-022ba639",
+      "orig_slug": "why-google-stock-is-still-an-undisputed-ipo-benchmark-to-learn-from-022ba639"
+    },
+    {
+      "title": "Dell Stock Soars As AI Data Center Business Fuels Growth",
+      "link": "https://www.investors.com/news/technology/dell-stock-ai-data-center-business-fuels-growth/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-27T21:24:22Z",
+      "image": "",
+      "slug": "dell-stock-soars-as-ai-data-center-business-fuels-growth-be42806c",
+      "orig_slug": "dell-stock-soars-as-ai-data-center-business-fuels-growth-be42806c"
+    },
+    {
+      "title": "Netflix Wins By Losing Warner Bros. Deal, Analysts Say",
+      "link": "https://www.investors.com/news/technology/netflix-stock-wins-by-losing-warner-bros-deal/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-27T21:20:53Z",
+      "image": "",
+      "slug": "netflix-wins-by-losing-warner-bros-deal-analysts-say-4e914ff5",
+      "orig_slug": "netflix-wins-by-losing-warner-bros-deal-analysts-say-4e914ff5"
+    },
+    {
+      "title": "Why Sunrun Crashed Today",
+      "link": "https://finance.yahoo.com/news/why-sunrun-crashed-today-220542860.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-27T22:05:42Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/8499d74173220e73f246622ccbc00f36",
+      "slug": "why-sunrun-crashed-today-94869065",
+      "orig_slug": "why-sunrun-crashed-today-94869065"
+    },
+    {
+      "title": "Mortgage rate forecast: March 2026",
+      "link": "https://finance.yahoo.com/news/mortgage-rate-forecast-november-2023-140556792.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-02-27T21:19:41Z",
+      "image": "https://media.zenfs.com/en/bankrate_626/8c1f972ac9c0161ad902dc560dd5394e",
+      "slug": "mortgage-rate-forecast-march-2026-07976ef2",
+      "orig_slug": "mortgage-rate-forecast-march-2026-07976ef2"
     }
   ]
 }
