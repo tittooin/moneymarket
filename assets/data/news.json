@@ -1,6 +1,87 @@
 {
-  "updated": "2026-03-03T13:53:36Z",
+  "updated": "2026-03-03T14:38:12Z",
   "items": [
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures plunge as fresh strikes intensify Iran conflict",
+      "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-plunge-as-fresh-strikes-intensify-iran-conflict-235309696.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-02T23:53:09Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/Jxj6IGvppXnrXHChkQvl.Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/807c6bb0-1692-11f1-bbf5-9919495d137c",
+      "slug": "stock-market-today-dow-sp-500-nasdaq-futures-plunge-as-fresh-strikes-intensify-i-c47a4aef",
+      "orig_slug": "stock-market-today-dow-sp-500-nasdaq-futures-plunge-as-fresh-strikes-intensify-i-c47a4aef"
+    },
+    {
+      "title": "Pinterest Stock Jumps 8% as Activist Elliott Takes $1 Billion Stake",
+      "link": "https://www.barrons.com/articles/pinterest-stock-activist-elliott-takes-stake-99ab1a9f?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-03T14:20:00Z",
+      "image": "",
+      "slug": "pinterest-stock-jumps-8-as-activist-elliott-takes-1-billion-stake-c32ce2fd",
+      "orig_slug": "pinterest-stock-jumps-8-as-activist-elliott-takes-1-billion-stake-c32ce2fd"
+    },
+    {
+      "title": "March 2026 housing market forecast: Key factors impacting home buyers and sellers this month",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/march-2026-housing-market-forecast-140000305.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-03T14:00:00Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/IzPQZ2aKDcWsSl9kjnNhdA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-07/f8a1e740-5db1-11f0-bef7-144e86933ffa",
+      "slug": "march-2026-housing-market-forecast-key-factors-impacting-home-buyers-and-sellers-7925eb39",
+      "orig_slug": "march-2026-housing-market-forecast-key-factors-impacting-home-buyers-and-sellers-7925eb39"
+    },
+    {
+      "title": "Why MongoDB Stock Is Tumbling Despite A Q4 Earnings Beat",
+      "link": "https://www.investors.com/news/technology/mongodb-stock-mdb-earnings-january2026/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-03T13:58:06Z",
+      "image": "",
+      "slug": "why-mongodb-stock-is-tumbling-despite-a-q4-earnings-beat-e850a38c",
+      "orig_slug": "why-mongodb-stock-is-tumbling-despite-a-q4-earnings-beat-e850a38c"
+    },
+    {
+      "title": "Thoma Bravo to acquire WWEX Group, combine with Auctane",
+      "link": "https://finance.yahoo.com/news/thoma-bravo-acquire-wwex-group-135557877.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-03T13:55:57Z",
+      "image": "https://media.zenfs.com/en/freightwaves_373/d7d46e60b7e05781ed094a7c43405084",
+      "slug": "thoma-bravo-to-acquire-wwex-group-combine-with-auctane-13f9de82",
+      "orig_slug": "thoma-bravo-to-acquire-wwex-group-combine-with-auctane-13f9de82"
+    },
+    {
+      "title": "Stock Market Today: Dow Dives 800 Points On U.S.-Iran Fears; Credo, MongoDB Fall On Results (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-conflict/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-03T13:52:08Z",
+      "image": "",
+      "slug": "stock-market-today-dow-dives-800-points-on-us-iran-fears-credo-mongodb-fall-on-r-e8d28ec5",
+      "orig_slug": "stock-market-today-dow-dives-800-points-on-us-iran-fears-credo-mongodb-fall-on-r-e8d28ec5"
+    },
+    {
+      "title": "Strata Critical Medical (SRTA) Earnings Call",
+      "link": "https://finance.yahoo.com/news/strata-critical-medical-srta-earnings-141905215.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-03T14:19:05Z",
+      "image": "https://s.yimg.com/os/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
+      "slug": "strata-critical-medical-srta-earnings-call-1b925c54",
+      "orig_slug": "strata-critical-medical-srta-earnings-call-1b925c54"
+    },
+    {
+      "title": "Average price for a gallon of gas rises 11 cents overnight to about $3.11 in US, AAA says",
+      "link": "https://finance.yahoo.com/news/average-price-gallon-gas-rises-135037000.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-03T13:50:37Z",
+      "image": "https://media.zenfs.com/en/ap_finance_articles_694/de278c9e3ededc2c64a1e87be90f4f4c",
+      "slug": "average-price-for-a-gallon-of-gas-rises-11-cents-overnight-to-about-311-in-us-aa-ccbef4a7",
+      "orig_slug": "average-price-for-a-gallon-of-gas-rises-11-cents-overnight-to-about-311-in-us-aa-ccbef4a7"
+    },
+    {
+      "title": "Viking Bucks Cruise Decline. U.S. Names These Destinations Unsafe.",
+      "link": "https://www.investors.com/news/viking-cruises-earnings-vik-stock-travel-warning-middle-east/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-03T13:43:46Z",
+      "image": "",
+      "slug": "viking-bucks-cruise-decline-us-names-these-destinations-unsafe-162511e8",
+      "orig_slug": "viking-bucks-cruise-decline-us-names-these-destinations-unsafe-162511e8"
+    },
     {
       "title": "Earnings live: Best Buy stock jumps despite softer holiday demand, Target stock rises",
       "link": "https://finance.yahoo.com/news/live/earnings-live-best-buy-stock-jumps-despite-softer-holiday-demand-target-stock-rises-122451670.html",
@@ -9,15 +90,6 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/3D4NukAXSvynyc9pWWFOEg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/f16a6480-16fb-11f1-b5fb-f73252b7ef26",
       "slug": "earnings-live-best-buy-stock-jumps-despite-softer-holiday-demand-target-stock-ri-38642eb8",
       "orig_slug": "earnings-live-best-buy-stock-jumps-despite-softer-holiday-demand-target-stock-ri-38642eb8"
-    },
-    {
-      "title": "Air Freight Shockwave: US-Iran War Grounds Flights Across Middle East",
-      "link": "https://finance.yahoo.com/news/air-freight-shockwave-us-iran-133646259.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-03T13:36:46Z",
-      "image": "https://media.zenfs.com/en/sourcing_journal_735/bdc472f0b190b5096d5247a748468250",
-      "slug": "air-freight-shockwave-us-iran-war-grounds-flights-across-middle-east-29203df9",
-      "orig_slug": "air-freight-shockwave-us-iran-war-grounds-flights-across-middle-east-29203df9"
     },
     {
       "title": "Gold has been on a run all year. Here's how to avoid a tax hit.",
@@ -56,24 +128,6 @@
       "orig_slug": "if-youre-feeling-behind-financially-money-dysmorphia-may-be-distorting-how-you-s-b1c67fc9"
     },
     {
-      "title": "Is Vertiv Stock a Buy Right Now?",
-      "link": "https://finance.yahoo.com/news/vertiv-stock-buy-now-133500397.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-03T13:35:00Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/8da3f0f9c73f254324dc5b3e4e8697ba",
-      "slug": "is-vertiv-stock-a-buy-right-now-f519a23d",
-      "orig_slug": "is-vertiv-stock-a-buy-right-now-f519a23d"
-    },
-    {
-      "title": "Stock Market Today: Dow Dives 700 Points On U.S.-Iran Fears; Credo, MongoDB Fall On Results (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-conflict/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-03T13:08:38Z",
-      "image": "",
-      "slug": "stock-market-today-dow-dives-700-points-on-us-iran-fears-credo-mongodb-fall-on-r-e8d28ec5",
-      "orig_slug": "stock-market-today-dow-dives-700-points-on-us-iran-fears-credo-mongodb-fall-on-r-e8d28ec5"
-    },
-    {
       "title": "Natural Gas Stock's Relative Strength Line Flares Up",
       "link": "https://www.investors.com/research/natural-gas/?src=A00220&yptr=yahoo",
       "source": "finance.yahoo.com",
@@ -81,6 +135,15 @@
       "image": "",
       "slug": "natural-gas-stocks-relative-strength-line-flares-up-50a773f2",
       "orig_slug": "natural-gas-stocks-relative-strength-line-flares-up-50a773f2"
+    },
+    {
+      "title": "Ramit Sethi Says Private Equity Isn't Why Housing Is So Expensive. He Blames Neighbors And Parents For Voting Against New Housing Developments",
+      "link": "https://finance.yahoo.com/news/ramit-sethi-says-private-equity-141545437.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-03T14:15:45Z",
+      "image": "https://s.yimg.com/os/en/Benzinga/7bb0a533d15c5cd8dcf20769f20fb581",
+      "slug": "ramit-sethi-says-private-equity-isnt-why-housing-is-so-expensive-he-blames-neigh-8bf4601d",
+      "orig_slug": "ramit-sethi-says-private-equity-isnt-why-housing-is-so-expensive-he-blames-neigh-8bf4601d"
     },
     {
       "title": "Alabama family-owned carrier files for Chapter 11 bankruptcy",
@@ -101,24 +164,6 @@
       "orig_slug": "norway-wealth-fund-makes-first-investment-in-us-renewable-energy-assets-a0b502c0"
     },
     {
-      "title": "Anthony Scaramucci Says He's 'Worried About The Market' And It Is Not Because Of The Vibes: 'When America Starts Losing Its Reputation...'",
-      "link": "https://finance.yahoo.com/news/anthony-scaramucci-says-hes-worried-133031922.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-03T13:30:31Z",
-      "image": "https://s.yimg.com/os/en/Benzinga/b2cdb0060c0fd41f4d687b29a4f3cf3d",
-      "slug": "anthony-scaramucci-says-hes-worried-about-the-market-and-it-is-not-because-of-th-53ea88aa",
-      "orig_slug": "anthony-scaramucci-says-hes-worried-about-the-market-and-it-is-not-because-of-th-53ea88aa"
-    },
-    {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures plunge as fresh strikes intensify Iran conflict",
-      "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-plunge-as-fresh-strikes-intensify-iran-conflict-235309696.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-02T23:53:09Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/Jxj6IGvppXnrXHChkQvl.Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/807c6bb0-1692-11f1-bbf5-9919495d137c",
-      "slug": "stock-market-today-dow-sp-500-nasdaq-futures-plunge-as-fresh-strikes-intensify-i-c47a4aef",
-      "orig_slug": "stock-market-today-dow-sp-500-nasdaq-futures-plunge-as-fresh-strikes-intensify-i-c47a4aef"
-    },
-    {
       "title": "What an extended war with Iran could mean for gas prices",
       "link": "https://finance.yahoo.com/personal-finance/banking/article/what-an-extended-war-with-iran-could-mean-for-gas-prices-225053494.html",
       "source": "finance.yahoo.com",
@@ -128,42 +173,6 @@
       "orig_slug": "what-an-extended-war-with-iran-could-mean-for-gas-prices-93160274"
     },
     {
-      "title": "Google searches for ‘can’t sell house’ at all-time high — expert warns of housing crash ‘worse than 2008.’ Do this now",
-      "link": "https://finance.yahoo.com/news/google-searches-t-sell-house-121500746.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-03T12:15:00Z",
-      "image": "https://s.yimg.com/os/en/moneywise_ecomm_711/23ee6ff600bc073dc28dc7a9db39af55",
-      "slug": "google-searches-for-cant-sell-house-at-all-time-high-expert-warns-of-housing-cra-7eff9f88",
-      "orig_slug": "google-searches-for-cant-sell-house-at-all-time-high-expert-warns-of-housing-cra-7eff9f88"
-    },
-    {
-      "title": "Versant reports smaller-than-expected revenue decline, unveils $1 billion buyback plan",
-      "link": "https://finance.yahoo.com/news/versants-annual-revenue-falls-5-121052002.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-03T12:10:52Z",
-      "image": "https://s.yimg.com/os/en/reuters-finance.com/7cb9ca0a616723c8e91852b5bc77d90b",
-      "slug": "versant-reports-smaller-than-expected-revenue-decline-unveils-1-billion-buyback--01416ba7",
-      "orig_slug": "versant-reports-smaller-than-expected-revenue-decline-unveils-1-billion-buyback--01416ba7"
-    },
-    {
-      "title": "3 Things Every Disney Investor Needs to Know",
-      "link": "https://finance.yahoo.com/news/3-things-every-disney-investor-133000939.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-03T13:30:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/776195dfbb83d040f58a8e0fb8f2b6ac",
-      "slug": "3-things-every-disney-investor-needs-to-know-13845843",
-      "orig_slug": "3-things-every-disney-investor-needs-to-know-13845843"
-    },
-    {
-      "title": "Global energy costs soar as Iran crisis disrupts shipping, oil and gas production",
-      "link": "https://finance.yahoo.com/news/global-energy-costs-soar-iran-115408677.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-03T12:04:59Z",
-      "image": "https://s.yimg.com/os/en/reuters.com/8e92fe7546042f78ac6611dda0c5b542",
-      "slug": "global-energy-costs-soar-as-iran-crisis-disrupts-shipping-oil-and-gas-production-dd544245",
-      "orig_slug": "global-energy-costs-soar-as-iran-crisis-disrupts-shipping-oil-and-gas-production-dd544245"
-    },
-    {
       "title": "Gold price today, Tuesday, March 3: Gold price steadies with a stronger U.S. dollar in play",
       "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-march-3-gold-price-steadies-with-a-stronger-us-dollar-in-play-120215139.html",
       "source": "finance.yahoo.com",
@@ -171,6 +180,15 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/g8m8e.vWJVmbJN8Vcygm5Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/95b97660-b113-11f0-b3d3-57670e048682",
       "slug": "gold-price-today-tuesday-march-3-gold-price-steadies-with-a-stronger-us-dollar-i-3393868f",
       "orig_slug": "gold-price-today-tuesday-march-3-gold-price-steadies-with-a-stronger-us-dollar-i-3393868f"
+    },
+    {
+      "title": "I Asked ChatGPT Which Retiree Expenses Will Rise Most in 2026: Here’s What It Said",
+      "link": "https://finance.yahoo.com/news/asked-chatgpt-retiree-expenses-rise-141204833.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-03T14:12:04Z",
+      "image": "https://media.zenfs.com/en/gobankingrates_644/cfa9a99a113a7e4157a1a83fef50c803",
+      "slug": "i-asked-chatgpt-which-retiree-expenses-will-rise-most-in-2026-heres-what-it-said-a67271e5",
+      "orig_slug": "i-asked-chatgpt-which-retiree-expenses-will-rise-most-in-2026-heres-what-it-said-a67271e5"
     },
     {
       "title": "Best money market account rates today, March 3, 2026 (Earn up to 4.01% APY)",
@@ -191,15 +209,6 @@
       "orig_slug": "best-cd-rates-today-march-3-2026-lock-in-up-to-4-apy-today-51f78e03"
     },
     {
-      "title": "Nasdaq futures plunge as market takes Iran war more seriously",
-      "link": "https://finance.yahoo.com/news/nasdaq-futures-plunge-market-takes-122500404.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-03T13:27:00Z",
-      "image": "https://media.zenfs.com/en/proactive_us_504/4aa2bb450827e9cc1e7375d91fef059e",
-      "slug": "nasdaq-futures-plunge-as-market-takes-iran-war-more-seriously-a45af1fc",
-      "orig_slug": "nasdaq-futures-plunge-as-market-takes-iran-war-more-seriously-a45af1fc"
-    },
-    {
       "title": "Best high-yield savings interest rates today, March 3, 2026 (Earn up to 4% APY)",
       "link": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-tuesday-march-3-2026-110039145.html",
       "source": "finance.yahoo.com",
@@ -218,6 +227,15 @@
       "orig_slug": "heloc-and-home-equity-loan-rates-today-march-3-2026-holding-at-three-year-lows-22c07683"
     },
     {
+      "title": "Northrop Grumman Stock Gains, General Dynamics Dips as Market Gets Selective on Defense",
+      "link": "https://www.barrons.com/articles/northrop-stock-price-defense-general-dynamics-82187c5e?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-03T14:09:00Z",
+      "image": "",
+      "slug": "northrop-grumman-stock-gains-general-dynamics-dips-as-market-gets-selective-on-d-74d3c318",
+      "orig_slug": "northrop-grumman-stock-gains-general-dynamics-dips-as-market-gets-selective-on-d-74d3c318"
+    },
+    {
       "title": "Mortgage and refinance interest rates today, March 3, 2026: Resisting the bond market; now 5.80%",
       "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-march-3-2026-110005822.html",
       "source": "finance.yahoo.com",
@@ -225,96 +243,6 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/Y2tfJtD0oUt6xTTdKawkhA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/700e25a0-fb43-11ee-be6b-a40c5cf2631a",
       "slug": "mortgage-and-refinance-interest-rates-today-march-3-2026-resisting-the-bond-mark-e10914dd",
       "orig_slug": "mortgage-and-refinance-interest-rates-today-march-3-2026-resisting-the-bond-mark-e10914dd"
-    },
-    {
-      "title": "Expires this weekend: Chase reboots its 'mortgage rate sale' on purchases and refinances",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/chase-mortgage-rate-sale-purchases-and-refinances-140015474.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-23T14:00:15Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/O_2_g5dBnU0BjpzxEadp8g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/fe357590-f894-11f0-b733-bac5ce7ce8f8",
-      "slug": "expires-this-weekend-chase-reboots-its-mortgage-rate-sale-on-purchases-and-refin-6bd577e1",
-      "orig_slug": "expires-this-weekend-chase-reboots-its-mortgage-rate-sale-on-purchases-and-refin-6bd577e1"
-    },
-    {
-      "title": "Is It Time to Buy Celsius Stock as Alani Nu Reinvigorates Growth?",
-      "link": "https://finance.yahoo.com/news/time-buy-celsius-stock-alani-132500766.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-03T13:25:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/df3c095bb69da261d1c90d703c50fa56",
-      "slug": "is-it-time-to-buy-celsius-stock-as-alani-nu-reinvigorates-growth-97adcf6f",
-      "orig_slug": "is-it-time-to-buy-celsius-stock-as-alani-nu-reinvigorates-growth-97adcf6f"
-    },
-    {
-      "title": "Best CD rates today, March 2, 2026 (Lock in up to 4% APY)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-march-2-2026-110052365.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-02T11:00:52Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/YNb1M9UxogCoxhCtpOUusg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47b17e1-4f64-11ef-bcf5-d7c22925c744",
-      "slug": "best-cd-rates-today-march-2-2026-lock-in-up-to-4-apy-697be18b",
-      "orig_slug": "best-cd-rates-today-march-2-2026-lock-in-up-to-4-apy-697be18b"
-    },
-    {
-      "title": "Best high-yield savings interest rates today, March 2, 2026 (Earn up to 4% APY)",
-      "link": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-monday-march-2-2026-110026831.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-02T11:00:26Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/1RCI97U8KV1L2ZurZW7kOA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/0a4cca40-4b7b-11ef-abf9-2f9f6d2c2f16",
-      "slug": "best-high-yield-savings-interest-rates-today-march-2-2026-earn-up-to-4-apy-084cb650",
-      "orig_slug": "best-high-yield-savings-interest-rates-today-march-2-2026-earn-up-to-4-apy-084cb650"
-    },
-    {
-      "title": "Best money market account rates today, March 2, 2026 (Earn up to 4.01% APY)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-monday-march-2-2026-110002767.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-02T11:00:02Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/5ht5auNXT0hvD._VUvpMQg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/16611790-1cdc-11f0-b7df-12959cc17bf8",
-      "slug": "best-money-market-account-rates-today-march-2-2026-earn-up-to-401-apy-0fb8157c",
-      "orig_slug": "best-money-market-account-rates-today-march-2-2026-earn-up-to-401-apy-0fb8157c"
-    },
-    {
-      "title": "HELOC and home equity loan rates Monday, March 2, 2026: How rates vary for HELOCs and HELs",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-monday-march-2-2026-110015765.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-02T11:00:15Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/_479AhxR01yKrenM2IfZSg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/006c3000-3feb-11f0-b84f-0d1aa528bfe7",
-      "slug": "heloc-and-home-equity-loan-rates-monday-march-2-2026-how-rates-vary-for-helocs-a-b5c3d8aa",
-      "orig_slug": "heloc-and-home-equity-loan-rates-monday-march-2-2026-how-rates-vary-for-helocs-a-b5c3d8aa"
-    },
-    {
-      "title": "IGSB vs. VGSH: Which Short-Term Bond ETF Should You Choose?",
-      "link": "https://finance.yahoo.com/news/igsb-vs-vgsh-short-term-132444090.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-03T13:24:44Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/6f52deea8a794bf82cf0ccf23f51f4c2",
-      "slug": "igsb-vs-vgsh-which-short-term-bond-etf-should-you-choose-cb6783d4",
-      "orig_slug": "igsb-vs-vgsh-which-short-term-bond-etf-should-you-choose-cb6783d4"
-    },
-    {
-      "title": "Want a bigger tax refund? 4 money moves to make before April 15.",
-      "link": "https://finance.yahoo.com/personal-finance/taxes/article/money-moves-to-make-before-april-15-bigger-tax-refund-140054736.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-02T14:00:54Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/aZ9eyue6.ZKpqfoiZdAtLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-07/696a7770-0460-11ed-8df9-79eb8e0c9cba",
-      "slug": "want-a-bigger-tax-refund-4-money-moves-to-make-before-april-15-be7d4903",
-      "orig_slug": "want-a-bigger-tax-refund-4-money-moves-to-make-before-april-15-be7d4903"
-    },
-    {
-      "title": "How much gold would $1 million buy at different points in history?",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/how-much-gold-would-1-million-buy-at-different-points-in-history-140032360.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-02T14:00:32Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/PFmejydOsFb_VRNt9iPnqQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/83ed06d0-ffe8-11f0-addf-27a417cd727d",
-      "slug": "how-much-gold-would-1-million-buy-at-different-points-in-history-fd4c6bc1",
-      "orig_slug": "how-much-gold-would-1-million-buy-at-different-points-in-history-fd4c6bc1"
-    },
-    {
-      "title": "4 ways the One Big Beautiful Bill Act could lower your taxes",
-      "link": "https://finance.yahoo.com/personal-finance/taxes/article/4-ways-the-one-big-beautiful-bill-act-could-lower-your-taxes-130013262.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-02T13:00:13Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/78ihJIKKTm1ti_M53oqcvA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-07/820d9250-593d-11f0-9ffc-579ad355083c",
-      "slug": "4-ways-the-one-big-beautiful-bill-act-could-lower-your-taxes-d80c0473",
-      "orig_slug": "4-ways-the-one-big-beautiful-bill-act-could-lower-your-taxes-d80c0473"
     },
     {
       "title": "Travel insurance: What it covers, costs, and how to choose the right policy",
@@ -326,13 +254,40 @@
       "orig_slug": "travel-insurance-what-it-covers-costs-and-how-to-choose-the-right-policy-81b74b68"
     },
     {
-      "title": "Chinese automakers strengthen their presence in Southeast Asia",
-      "link": "https://finance.yahoo.com/news/chinese-automakers-strengthen-presence-southeast-132424097.html",
+      "title": "4 ways the One Big Beautiful Bill Act could lower your taxes",
+      "link": "https://finance.yahoo.com/personal-finance/taxes/article/4-ways-the-one-big-beautiful-bill-act-could-lower-your-taxes-130013262.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-03T13:24:24Z",
-      "image": "https://s.yimg.com/os/en/just_auto_187/ee1a2572afebab51b4479537f7d6356d",
-      "slug": "chinese-automakers-strengthen-their-presence-in-southeast-asia-a504b31f",
-      "orig_slug": "chinese-automakers-strengthen-their-presence-in-southeast-asia-a504b31f"
+      "pubDate": "2026-03-02T13:00:13Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/78ihJIKKTm1ti_M53oqcvA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-07/820d9250-593d-11f0-9ffc-579ad355083c",
+      "slug": "4-ways-the-one-big-beautiful-bill-act-could-lower-your-taxes-d80c0473",
+      "orig_slug": "4-ways-the-one-big-beautiful-bill-act-could-lower-your-taxes-d80c0473"
+    },
+    {
+      "title": "Want a bigger tax refund? 4 money moves to make before April 15.",
+      "link": "https://finance.yahoo.com/personal-finance/taxes/article/money-moves-to-make-before-april-15-bigger-tax-refund-140054736.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-02T14:00:54Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/aZ9eyue6.ZKpqfoiZdAtLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-07/696a7770-0460-11ed-8df9-79eb8e0c9cba",
+      "slug": "want-a-bigger-tax-refund-4-money-moves-to-make-before-april-15-be7d4903",
+      "orig_slug": "want-a-bigger-tax-refund-4-money-moves-to-make-before-april-15-be7d4903"
+    },
+    {
+      "title": "Should You Buy Serve Robotics Before March 11?",
+      "link": "https://finance.yahoo.com/news/buy-serve-robotics-march-11-140800860.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-03T14:08:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/8d8440060d2f309e3600c25ca32e98a5",
+      "slug": "should-you-buy-serve-robotics-before-march-11-a0632d12",
+      "orig_slug": "should-you-buy-serve-robotics-before-march-11-a0632d12"
+    },
+    {
+      "title": "How much gold would $1 million buy at different points in history?",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/how-much-gold-would-1-million-buy-at-different-points-in-history-140032360.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-02T14:00:32Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/PFmejydOsFb_VRNt9iPnqQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/83ed06d0-ffe8-11f0-addf-27a417cd727d",
+      "slug": "how-much-gold-would-1-million-buy-at-different-points-in-history-fd4c6bc1",
+      "orig_slug": "how-much-gold-would-1-million-buy-at-different-points-in-history-fd4c6bc1"
     },
     {
       "title": "Best airline credit cards for March 2026",
@@ -362,6 +317,15 @@
       "orig_slug": "best-bank-of-america-credit-cards-for-march-2026-cash-back-travel-0-apr-and-more-37a0ee35"
     },
     {
+      "title": "You're Overexposed to Wall Street. Use Their Promo to Rebalance Without Writing a New Check.",
+      "link": "https://finance.yahoo.com/news/youre-overexposed-wall-street-promo-140024771.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-03T14:00:24Z",
+      "image": "https://s.yimg.com/os/en/benzinga_79/420a51336e44ad63418c72a646f1543b",
+      "slug": "youre-overexposed-to-wall-street-use-their-promo-to-rebalance-without-writing-a--c4132b40",
+      "orig_slug": "youre-overexposed-to-wall-street-use-their-promo-to-rebalance-without-writing-a--c4132b40"
+    },
+    {
       "title": "Best business credit cards for March 2026: Save money and score great benefits for your small business",
       "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-business-credit-cards-181831412.html",
       "source": "finance.yahoo.com",
@@ -371,13 +335,40 @@
       "orig_slug": "best-business-credit-cards-for-march-2026-save-money-and-score-great-benefits-fo-e52b2e3d"
     },
     {
-      "title": "Rhythm Pharmaceuticals price target lowered to $110 from $125 at H.C. Wainwright",
-      "link": "https://finance.yahoo.com/news/rhythm-pharmaceuticals-price-target-lowered-132405014.html",
+      "title": "Best Citi credit cards for March 2026",
+      "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-citi-credit-cards-195110694.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-03T13:24:05Z",
-      "image": "https://s.yimg.com/os/en/tipranks_452/4228d494699edc69b7f529ca87ad9ce2",
-      "slug": "rhythm-pharmaceuticals-price-target-lowered-to-110-from-125-at-hc-wainwright-5ba6d272",
-      "orig_slug": "rhythm-pharmaceuticals-price-target-lowered-to-110-from-125-at-hc-wainwright-5ba6d272"
+      "pubDate": "2026-01-28T19:51:10Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/f.5vl1fAzgYLqreNxJWKkQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/d083a8d0-efaf-11f0-b1bf-245f747e1a92",
+      "slug": "best-citi-credit-cards-for-march-2026-64f23707",
+      "orig_slug": "best-citi-credit-cards-for-march-2026-64f23707"
+    },
+    {
+      "title": "Best Capital One credit cards for March 2026",
+      "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-capital-one-credit-cards-203558254.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-09-16T20:35:58Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/D4YSDmP.2dwHNC3uu6_hng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-07/7c682d20-68a5-11f0-bf7f-eacbcf7af38c",
+      "slug": "best-capital-one-credit-cards-for-march-2026-03f92cd0",
+      "orig_slug": "best-capital-one-credit-cards-for-march-2026-03f92cd0"
+    },
+    {
+      "title": "Best Chase credit cards for March 2026",
+      "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-chase-credit-card-173042163.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2024-09-27T15:10:53Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/xsP1E3UWdJwRcqvw9VDRZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/becb3450-1860-11ef-bffe-7bae94af26d0",
+      "slug": "best-chase-credit-cards-for-march-2026-26fcc092",
+      "orig_slug": "best-chase-credit-cards-for-march-2026-26fcc092"
+    },
+    {
+      "title": "US Treasuries Extend Fall as Traders Slash Fed Rate-Cut Bets",
+      "link": "https://finance.yahoo.com/news/us-treasuries-extend-fall-iran-100502957.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-03T14:00:14Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/VWpDQmVZwHEC40PWF5rgUQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NjM-/https://s.yimg.com/os/creatr-uploaded-images/2021-03/14180110-8f82-11eb-b19f-b04758d2bba0",
+      "slug": "us-treasuries-extend-fall-as-traders-slash-fed-rate-cut-bets-af4ca342",
+      "orig_slug": "us-treasuries-extend-fall-as-traders-slash-fed-rate-cut-bets-af4ca342"
     }
   ]
 }
