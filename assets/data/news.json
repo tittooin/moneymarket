@@ -1,338 +1,122 @@
 {
-  "updated": "2026-03-17T22:24:38Z",
+  "updated": "2026-03-17T23:23:58Z",
   "items": [
     {
-      "title": "New York Manufacturing Activity Contracts in March",
-      "link": "https://www.wsj.com/economy/central-banking/new-york-manufacturing-activity-contracts-in-march-80fd7747?siteid=yhoof2&yptr=yahoo",
+      "title": "Waste Management grants ex-CFO $1M cash bonus",
+      "link": "https://finance.yahoo.com/news/waste-management-grants-ex-cfo-151145636.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-16T14:10:00Z",
+      "pubDate": "2026-03-16T15:11:45Z",
+      "image": "https://media.zenfs.com/en/cfo_dive_422/006204198f7408a0f41effa800ba8796",
+      "slug": "waste-management-grants-ex-cfo-1m-cash-bonus-d620152b",
+      "orig_slug": "waste-management-grants-ex-cfo-1m-cash-bonus-d620152b"
+    },
+    {
+      "title": "Is eBay Stock Outperforming the S&P 500?",
+      "link": "https://finance.yahoo.com/news/ebay-stock-outperforming-p-500-151035449.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-16T15:10:35Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/e95fb8e3de8d3d2cf5807e044810693b",
+      "slug": "is-ebay-stock-outperforming-the-sp-500-c851f55f",
+      "orig_slug": "is-ebay-stock-outperforming-the-sp-500-c851f55f"
+    },
+    {
+      "title": "How Is AvalonBay's Stock Performance Compared to Other Real Estate Stocks?",
+      "link": "https://finance.yahoo.com/news/avalonbays-stock-performance-compared-other-150559007.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-16T15:05:59Z",
+      "image": "https://s.yimg.com/os/en/barchart_com_477/d1563ab40360b1b7eb064caf9a02d858",
+      "slug": "how-is-avalonbays-stock-performance-compared-to-other-real-estate-stocks-25946837",
+      "orig_slug": "how-is-avalonbays-stock-performance-compared-to-other-real-estate-stocks-25946837"
+    },
+    {
+      "title": "Palantir and GE Aerospace Are Working Together on Military Aircraft. Is PLTR or GE Stock a Better Buy Here?",
+      "link": "https://finance.yahoo.com/news/palantir-ge-aerospace-working-together-151556497.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-16T15:15:56Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/f7a39666a72d7450007db1d482d63fa1",
+      "slug": "palantir-and-ge-aerospace-are-working-together-on-military-aircraft-is-pltr-or-g-9776a74d",
+      "orig_slug": "palantir-and-ge-aerospace-are-working-together-on-military-aircraft-is-pltr-or-g-9776a74d"
+    },
+    {
+      "title": "Clear Street Upgrades USDC issuer Circle To Buy",
+      "link": "https://finance.yahoo.com/news/clear-street-upgrades-usdc-issuer-151600793.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-16T15:16:00Z",
+      "image": "https://s.yimg.com/os/en/cryptoprowl_304/1a51d9936e082effa1af903d105d96b9",
+      "slug": "clear-street-upgrades-usdc-issuer-circle-to-buy-1f6e7003",
+      "orig_slug": "clear-street-upgrades-usdc-issuer-circle-to-buy-1f6e7003"
+    },
+    {
+      "title": "Construction’s latest jobs data shows slow start to 2026",
+      "link": "https://finance.yahoo.com/news/construction-job-openings-were-slow-151105073.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-16T15:11:05Z",
+      "image": "https://media.zenfs.com/en/construction_dive_964/aed1e0ea14219b970cac2b6171f0b2ad",
+      "slug": "constructions-latest-jobs-data-shows-slow-start-to-2026-4eaeec23",
+      "orig_slug": "constructions-latest-jobs-data-shows-slow-start-to-2026-4eaeec23"
+    },
+    {
+      "title": "Tax refunds are bigger this year. Why that’s not better for taxpayers.",
+      "link": "https://finance.yahoo.com/personal-finance/taxes/article/tax-refunds-are-bigger-this-year-why-thats-not-better-for-taxpayers-165828869.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-12T16:58:28Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/LuJIhIjRpu1WtocZisGxJg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-02/53447610-ec27-11ef-9bff-9b4c9e448f38",
+      "slug": "tax-refunds-are-bigger-this-year-why-thats-not-better-for-taxpayers-09286084",
+      "orig_slug": "tax-refunds-are-bigger-this-year-why-thats-not-better-for-taxpayers-09286084"
+    },
+    {
+      "title": "Is Datadog Stock Outperforming the Dow?",
+      "link": "https://finance.yahoo.com/news/datadog-stock-outperforming-dow-150324001.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-16T15:03:24Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/83e80e5e52a52b8a6e584bb2edd6a950",
+      "slug": "is-datadog-stock-outperforming-the-dow-99c743ae",
+      "orig_slug": "is-datadog-stock-outperforming-the-dow-99c743ae"
+    },
+    {
+      "title": "Is Willis Towers Watson Stock Underperforming the Nasdaq?",
+      "link": "https://finance.yahoo.com/news/willis-towers-watson-stock-underperforming-151911351.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-16T15:19:11Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/c10b62f7af543baa1b56e50a6434df96",
+      "slug": "is-willis-towers-watson-stock-underperforming-the-nasdaq-ef0c9785",
+      "orig_slug": "is-willis-towers-watson-stock-underperforming-the-nasdaq-ef0c9785"
+    },
+    {
+      "title": "Banks launch sale of EA buyout's $5.75 billion cross-border loan",
+      "link": "https://finance.yahoo.com/news/banks-launch-sale-ea-buyouts-145920199.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-16T14:59:20Z",
+      "image": "https://s.yimg.com/os/en/reuters-finance.com/9ee12f65befb90f70af65021354fda69",
+      "slug": "banks-launch-sale-of-ea-buyouts-575-billion-cross-border-loan-60279349",
+      "orig_slug": "banks-launch-sale-of-ea-buyouts-575-billion-cross-border-loan-60279349"
+    },
+    {
+      "title": "3 ETFs That Thrive When the Fed Does Absolutely Nothing",
+      "link": "https://finance.yahoo.com/news/3-etfs-thrive-fed-does-151236270.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-16T15:12:36Z",
+      "image": "https://media.zenfs.com/en/24_7_wall_st__718/6586c810414a0873cf67f1eadb2d1500",
+      "slug": "3-etfs-that-thrive-when-the-fed-does-absolutely-nothing-cf207685",
+      "orig_slug": "3-etfs-that-thrive-when-the-fed-does-absolutely-nothing-cf207685"
+    },
+    {
+      "title": "Tesla Rival BYD Sees 100,000 Vehicle Demand From Latin America. Stock Jumps.",
+      "link": "https://www.investors.com/news/tesla-rival-byd-brazil-ev-electric-vehicles-elon-musk-china/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-16T15:21:21Z",
       "image": "",
-      "slug": "new-york-manufacturing-activity-contracts-in-march-33a0b524",
-      "orig_slug": "new-york-manufacturing-activity-contracts-in-march-33a0b524"
+      "slug": "tesla-rival-byd-sees-100000-vehicle-demand-from-latin-america-stock-jumps-751c140c",
+      "orig_slug": "tesla-rival-byd-sees-100000-vehicle-demand-from-latin-america-stock-jumps-751c140c"
     },
     {
-      "title": "Is Live Nation Entertainment Stock Outperforming the Dow?",
-      "link": "https://finance.yahoo.com/news/live-nation-entertainment-stock-outperforming-141143662.html",
+      "title": "International returns surge as e-commerce merchants face rising logistics hurdles",
+      "link": "https://finance.yahoo.com/news/international-returns-surge-e-commerce-150000716.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-16T14:11:43Z",
-      "image": "https://s.yimg.com/os/en/barchart_com_477/a15415fada028c108fb5c6a2b4a61f01",
-      "slug": "is-live-nation-entertainment-stock-outperforming-the-dow-4c1ead21",
-      "orig_slug": "is-live-nation-entertainment-stock-outperforming-the-dow-4c1ead21"
-    },
-    {
-      "title": "Stocks Rebound as Crude Oil Prices Move Lower",
-      "link": "https://finance.yahoo.com/news/stocks-rebound-crude-oil-prices-141305932.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-16T14:13:05Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/d328f7db7fa019e809cef3d7281ab08b",
-      "slug": "stocks-rebound-as-crude-oil-prices-move-lower-e6fd1f56",
-      "orig_slug": "stocks-rebound-as-crude-oil-prices-move-lower-e6fd1f56"
-    },
-    {
-      "title": "Encyclopedia Britannica sues OpenAI over AI training",
-      "link": "https://finance.yahoo.com/news/encyclopedia-britannica-sues-openai-over-141324436.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-16T14:13:24Z",
-      "image": "https://s.yimg.com/os/en/reuters-finance.com/6f27c39b109044e4004980a062e81a7b",
-      "slug": "encyclopedia-britannica-sues-openai-over-ai-training-018a2f09",
-      "orig_slug": "encyclopedia-britannica-sues-openai-over-ai-training-018a2f09"
-    },
-    {
-      "title": "Alphabet (GOOG) is Gaining from Double Tailwinds",
-      "link": "https://finance.yahoo.com/news/alphabet-goog-gaining-double-tailwinds-140647471.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-16T14:06:47Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/6409e61fe6e177c1ebb9125c47486f11",
-      "slug": "alphabet-goog-is-gaining-from-double-tailwinds-973bc2f4",
-      "orig_slug": "alphabet-goog-is-gaining-from-double-tailwinds-973bc2f4"
-    },
-    {
-      "title": "Grail CEO Bob Ragusa to retire",
-      "link": "https://finance.yahoo.com/news/grail-ceo-bob-ragusa-retire-141000179.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-16T14:10:00Z",
-      "image": "https://media.zenfs.com/en/medtech_dive_335/7d2b76e90f54f8d73d460ed2d4d7e397",
-      "slug": "grail-ceo-bob-ragusa-to-retire-d63700f8",
-      "orig_slug": "grail-ceo-bob-ragusa-to-retire-d63700f8"
-    },
-    {
-      "title": "Emerald Growth Equity Strategy Reinitiated Its Position in Fortinet (FTNT) in Q4",
-      "link": "https://finance.yahoo.com/news/emerald-growth-equity-strategy-reinitiated-141529852.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-16T14:15:29Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/814142085bf4c98de71c0efe588187ac",
-      "slug": "emerald-growth-equity-strategy-reinitiated-its-position-in-fortinet-ftnt-in-q4-4f246fa9",
-      "orig_slug": "emerald-growth-equity-strategy-reinitiated-its-position-in-fortinet-ftnt-in-q4-4f246fa9"
-    },
-    {
-      "title": "US home builder sentiment edges up in March -NAHB",
-      "link": "https://finance.yahoo.com/news/us-home-builder-sentiment-edges-140202940.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-16T14:02:02Z",
-      "image": "https://s.yimg.com/os/en/reuters.com/ee73c5137c8ff2a570a919ab04604158",
-      "slug": "us-home-builder-sentiment-edges-up-in-march--nahb-2d020e64",
-      "orig_slug": "us-home-builder-sentiment-edges-up-in-march--nahb-2d020e64"
-    },
-    {
-      "title": "Crypto Wealth Platform Abra To Go Public Via SPAC Deal",
-      "link": "https://finance.yahoo.com/news/crypto-wealth-platform-abra-public-141900016.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-16T14:19:00Z",
-      "image": "https://s.yimg.com/os/en/cryptoprowl_304/cc53b87ca8e9519512b49e5d7dc327e0",
-      "slug": "crypto-wealth-platform-abra-to-go-public-via-spac-deal-2413e71d",
-      "orig_slug": "crypto-wealth-platform-abra-to-go-public-via-spac-deal-2413e71d"
-    },
-    {
-      "title": "Emerald Growth Equity Strategy Sold Revvity (RVTY) in Q4",
-      "link": "https://finance.yahoo.com/news/emerald-growth-equity-strategy-sold-135838515.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-16T13:58:38Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/d514a2e3256e6c7645c9f56d1a0f4b6d",
-      "slug": "emerald-growth-equity-strategy-sold-revvity-rvty-in-q4-1a1d0c4a",
-      "orig_slug": "emerald-growth-equity-strategy-sold-revvity-rvty-in-q4-1a1d0c4a"
-    },
-    {
-      "title": "Billionaire Uber co-founder Travis Kalanick admits strategically moving to Texas before California wealth tax",
-      "link": "https://finance.yahoo.com/news/billionaire-uber-co-founder-travis-140950895.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-16T14:09:50Z",
-      "image": "https://media.zenfs.com/en/fox_business_text_367/e3454b8172e4de8cd2dc9ce674c6b658",
-      "slug": "billionaire-uber-co-founder-travis-kalanick-admits-strategically-moving-to-texas-e4056455",
-      "orig_slug": "billionaire-uber-co-founder-travis-kalanick-admits-strategically-moving-to-texas-e4056455"
-    },
-    {
-      "title": "A $10.5 billion deal would create a self-storage giant in the U.S.",
-      "link": "https://finance.yahoo.com/news/10-5-billion-deal-create-135518523.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-16T13:55:18Z",
-      "image": "https://media.zenfs.com/en/ap_finance_articles_694/ad94b457ca742c18cb38dfa611b5108d",
-      "slug": "a-105-billion-deal-would-create-a-self-storage-giant-in-the-us-9a6b2813",
-      "orig_slug": "a-105-billion-deal-would-create-a-self-storage-giant-in-the-us-9a6b2813"
-    },
-    {
-      "title": "Mayville Engineering (MEC) Gained from Its Accu-Fab Acquisition",
-      "link": "https://finance.yahoo.com/news/mayville-engineering-mec-gained-accu-134922347.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-16T13:49:22Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/d08021099209d0051c76b3ab152e7f86",
-      "slug": "mayville-engineering-mec-gained-from-its-accu-fab-acquisition-b46f2d73",
-      "orig_slug": "mayville-engineering-mec-gained-from-its-accu-fab-acquisition-b46f2d73"
-    },
-    {
-      "title": "Tom Lee’s BitMine Buys Another 60,000 Ethereum Despite Volatility",
-      "link": "https://finance.yahoo.com/news/tom-lee-bitmine-buys-another-134900226.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-16T13:49:00Z",
-      "image": "https://s.yimg.com/os/en/cryptoprowl_304/f34cc26bcce388b1fde474eda15f2f8f",
-      "slug": "tom-lees-bitmine-buys-another-60000-ethereum-despite-volatility-af1e9539",
-      "orig_slug": "tom-lees-bitmine-buys-another-60000-ethereum-despite-volatility-af1e9539"
-    },
-    {
-      "title": "Is Iron Mountain Stock Outperforming the S&P 500?",
-      "link": "https://finance.yahoo.com/news/iron-mountain-stock-outperforming-p-134719703.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-16T13:47:19Z",
-      "image": "https://s.yimg.com/os/en/barchart_com_477/d605dfa1755b74d5167c50b22477ce8c",
-      "slug": "is-iron-mountain-stock-outperforming-the-sp-500-203e3044",
-      "orig_slug": "is-iron-mountain-stock-outperforming-the-sp-500-203e3044"
-    },
-    {
-      "title": "Bitcoin Hits Highest Price in Over a Month",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-16-2026/card/bitcoin-hits-highest-price-in-over-a-month-zR7RPcj5A0kB0iXX4IdU?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-16T14:09:18Z",
-      "image": "",
-      "slug": "bitcoin-hits-highest-price-in-over-a-month-6dd63189",
-      "orig_slug": "bitcoin-hits-highest-price-in-over-a-month-6dd63189"
-    },
-    {
-      "title": "OpenAI courts private equity to join enterprise AI venture",
-      "link": "https://finance.yahoo.com/news/exclusive-openai-courts-private-equity-132509339.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-16T13:25:09Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/wAtzgicjVbxoEprzLV1Fxg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/7246eea0-2144-11f1-886d-1587d5b23e7c",
-      "slug": "openai-courts-private-equity-to-join-enterprise-ai-venture-6f60705e",
-      "orig_slug": "openai-courts-private-equity-to-join-enterprise-ai-venture-6f60705e"
-    },
-    {
-      "title": "Is Church & Dwight Stock Outperforming the S&P 500?",
-      "link": "https://finance.yahoo.com/news/church-dwight-stock-outperforming-p-134522507.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-16T13:45:22Z",
-      "image": "https://s.yimg.com/os/en/barchart_com_477/260c3977494d4ea0dd5758e521974e41",
-      "slug": "is-church-dwight-stock-outperforming-the-sp-500-99b679c2",
-      "orig_slug": "is-church-dwight-stock-outperforming-the-sp-500-99b679c2"
-    },
-    {
-      "title": "Oil prices hold over $100 as Middle East conflict rages on: 'A high-stakes stalemate'",
-      "link": "https://finance.yahoo.com/news/oil-prices-hold-over-100-as-middle-east-conflict-rages-on-a-high-stakes-stalemate-143537218.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-16T14:35:37Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/tDmEOSrTSM63LRACbE9IbQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/c69f68f0-1fba-11f1-b6ab-9ff478e10f3d",
-      "slug": "oil-prices-hold-over-100-as-middle-east-conflict-rages-on-a-high-stakes-stalemat-931f5fd1",
-      "orig_slug": "oil-prices-hold-over-100-as-middle-east-conflict-rages-on-a-high-stakes-stalemat-931f5fd1"
-    },
-    {
-      "title": "What Makes Donnelley Financial Solutions (DFIN) an Attractive Investment Choice?",
-      "link": "https://finance.yahoo.com/news/makes-donnelley-financial-solutions-dfin-133024928.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-16T13:30:24Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/064c3fff07d4e638e7d40f15b24cd4a6",
-      "slug": "what-makes-donnelley-financial-solutions-dfin-an-attractive-investment-choice-46834f61",
-      "orig_slug": "what-makes-donnelley-financial-solutions-dfin-an-attractive-investment-choice-46834f61"
-    },
-    {
-      "title": "Daily – Vickers Top Buyers & Sellers for 03/17/2026",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_46451_TopBottomInsiderActivity_1773747091000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-17T11:31:31Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-vickers-top-buyers-sellers-for-03172026-95a9d000",
-      "orig_slug": "daily-vickers-top-buyers-sellers-for-03172026-95a9d000"
-    },
-    {
-      "title": "Stocks Are Gaining. The Market Is Still Following Moves in Oil.",
-      "link": "https://www.barrons.com/livecoverage/stock-market-news-today-031626/card/stocks-are-gaining-the-market-is-still-following-moves-in-oil--sDi62PM2dR5zWh85T4GT?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-16T14:13:13Z",
-      "image": "",
-      "slug": "stocks-are-gaining-the-market-is-still-following-moves-in-oil-1f3ee27b",
-      "orig_slug": "stocks-are-gaining-the-market-is-still-following-moves-in-oil-1f3ee27b"
-    },
-    {
-      "title": "RAM Smid Composite Trimmed Its Position in Lakeland Industries (LAKE) Ahead of Its FY3Q26 Report",
-      "link": "https://finance.yahoo.com/news/ram-smid-composite-trimmed-position-132809998.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-16T13:28:09Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/4e0b70b77c64bfa417406a408d96d86e",
-      "slug": "ram-smid-composite-trimmed-its-position-in-lakeland-industries-lake-ahead-of-its-18262c0d",
-      "orig_slug": "ram-smid-composite-trimmed-its-position-in-lakeland-industries-lake-ahead-of-its-18262c0d"
-    },
-    {
-      "title": "AI Stocks: Nvidia GTC News Could Jolt Broadcom, Dell, CoreWeave, Arista, Lumentum",
-      "link": "https://www.investors.com/news/technology/ai-stocks-artificial-intelligence-stocks-nvidia-gtc-3162026/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-16T14:40:14Z",
-      "image": "",
-      "slug": "ai-stocks-nvidia-gtc-news-could-jolt-broadcom-dell-coreweave-arista-lumentum-8cd3a5d6",
-      "orig_slug": "ai-stocks-nvidia-gtc-news-could-jolt-broadcom-dell-coreweave-arista-lumentum-8cd3a5d6"
-    },
-    {
-      "title": "Is Chipotle Mexican Grill a Buy or Sell? These 2 Billionaire Investors Can't Seem to Agree",
-      "link": "https://finance.yahoo.com/news/chipotle-mexican-grill-buy-sell-144304931.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-16T14:43:04Z",
-      "image": "https://s.yimg.com/os/en/barchart_com_477/b7da239e5ba9a11dfea76e834f18176d",
-      "slug": "is-chipotle-mexican-grill-a-buy-or-sell-these-2-billionaire-investors-cant-seem--52bc79ef",
-      "orig_slug": "is-chipotle-mexican-grill-a-buy-or-sell-these-2-billionaire-investors-cant-seem--52bc79ef"
-    },
-    {
-      "title": "Artisan Value Fund’s Views on PayPal Holdings (PYPL)",
-      "link": "https://finance.yahoo.com/news/artisan-value-fund-views-paypal-132231772.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-16T13:22:31Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/92259aa0f902f921a19718f744687ac7",
-      "slug": "artisan-value-funds-views-on-paypal-holdings-pypl-6b495bd5",
-      "orig_slug": "artisan-value-funds-views-on-paypal-holdings-pypl-6b495bd5"
-    },
-    {
-      "title": "Daily – Vickers Top Insider Picks for 03/17/2026",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_46450_InsiderActivity_1773747091000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-17T11:31:31Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-vickers-top-insider-picks-for-03172026-782190f8",
-      "orig_slug": "daily-vickers-top-insider-picks-for-03172026-782190f8"
-    },
-    {
-      "title": "Nvidia Stock Gains",
-      "link": "https://www.barrons.com/livecoverage/nvidia-gtc-event-ai-chips-stock-price-news/card/nvidia-stock-gains-WPRzLolKiFce8j3LEiPL?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-16T14:14:49Z",
-      "image": "",
-      "slug": "nvidia-stock-gains-75973077",
-      "orig_slug": "nvidia-stock-gains-75973077"
-    },
-    {
-      "title": "Dollar Retreats as Stocks Rebound and Bond Yields Fall",
-      "link": "https://finance.yahoo.com/news/dollar-retreats-stocks-rebound-bond-144532207.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-16T14:45:32Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/e45537fa0954bccea6b645c41b80d7a7",
-      "slug": "dollar-retreats-as-stocks-rebound-and-bond-yields-fall-829507d6",
-      "orig_slug": "dollar-retreats-as-stocks-rebound-and-bond-yields-fall-829507d6"
-    },
-    {
-      "title": "A Mix of Cyclical and Structural Demand Headwinds Hurt Diageo (DEO)",
-      "link": "https://finance.yahoo.com/news/mix-cyclical-structural-demand-headwinds-132011218.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-16T13:20:11Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/92038dca656a91c09d4cce42c23d7704",
-      "slug": "a-mix-of-cyclical-and-structural-demand-headwinds-hurt-diageo-deo-9e7683aa",
-      "orig_slug": "a-mix-of-cyclical-and-structural-demand-headwinds-hurt-diageo-deo-9e7683aa"
-    },
-    {
-      "title": "Here’s What Allows Union Pacific (UNP) to Sustain High Margins During Challenges",
-      "link": "https://finance.yahoo.com/news/allows-union-pacific-unp-sustain-131633018.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-16T13:16:33Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/cccd364c1537c8c12bdec8b34f6790e3",
-      "slug": "heres-what-allows-union-pacific-unp-to-sustain-high-margins-during-challenges-73023c68",
-      "orig_slug": "heres-what-allows-union-pacific-unp-to-sustain-high-margins-during-challenges-73023c68"
-    },
-    {
-      "title": "Orange Juice Prices Are Headed Higher. 1 Trade to Make Now.",
-      "link": "https://finance.yahoo.com/news/orange-juice-prices-headed-higher-144905299.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-16T14:49:05Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/22049fbb7b5a11a427c4d3db9998b3af",
-      "slug": "orange-juice-prices-are-headed-higher-1-trade-to-make-now-a1e51892",
-      "orig_slug": "orange-juice-prices-are-headed-higher-1-trade-to-make-now-a1e51892"
-    },
-    {
-      "title": "Daily Spotlight: Argus Adjusts Sector Ratings",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_46448_MarketOutlook_1773746565000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-17T11:22:45Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-spotlight-argus-adjusts-sector-ratings-3afd7715",
-      "orig_slug": "daily-spotlight-argus-adjusts-sector-ratings-3afd7715"
-    },
-    {
-      "title": "Advanced Micro Devices Has Sold Off. Here's Why the Bull Case Isn't Broken.",
-      "link": "https://finance.yahoo.com/news/advanced-micro-devices-sold-off-141500779.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-16T14:15:00Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/00c7284ddf0523aa845e0d37a78a803f",
-      "slug": "advanced-micro-devices-has-sold-off-heres-why-the-bull-case-isnt-broken-507cc1a6",
-      "orig_slug": "advanced-micro-devices-has-sold-off-heres-why-the-bull-case-isnt-broken-507cc1a6"
-    },
-    {
-      "title": "Is Ball Corporation Stock Underperforming the Nasdaq?",
-      "link": "https://finance.yahoo.com/news/ball-corporation-stock-underperforming-nasdaq-131328236.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-16T13:13:28Z",
-      "image": "https://s.yimg.com/os/en/barchart_com_477/d2bb102c8afced4ab4420b6f1170073a",
-      "slug": "is-ball-corporation-stock-underperforming-the-nasdaq-02bf77f0",
-      "orig_slug": "is-ball-corporation-stock-underperforming-the-nasdaq-02bf77f0"
-    },
-    {
-      "title": "Oil futures explained: Can regular investors really trade them?",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/oil-futures-explained-can-regular-investors-really-trade-them-141230299.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-12T14:12:30Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/zUgItyL4NZWb8hM9Bpd5xg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-03/4812b12c-6676-4fc4-9867-6d2cd736f105",
-      "slug": "oil-futures-explained-can-regular-investors-really-trade-them-7833a5a5",
-      "orig_slug": "oil-futures-explained-can-regular-investors-really-trade-them-7833a5a5"
-    },
-    {
-      "title": "Tax refund delays hit a handful of states. Is yours one of them?",
-      "link": "https://finance.yahoo.com/personal-finance/taxes/article/tax-refund-delays-hit-a-handful-of-states-is-yours-one-of-them-205225491.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-05T20:52:25Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/aZ9eyue6.ZKpqfoiZdAtLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-07/696a7770-0460-11ed-8df9-79eb8e0c9cba",
-      "slug": "tax-refund-delays-hit-a-handful-of-states-is-yours-one-of-them-e2c9a974",
-      "orig_slug": "tax-refund-delays-hit-a-handful-of-states-is-yours-one-of-them-e2c9a974"
+      "pubDate": "2026-03-16T15:00:00Z",
+      "image": "https://media.zenfs.com/en/freightwaves_373/211c1c94a73afd3c2a68c51cd1e41943",
+      "slug": "international-returns-surge-as-e-commerce-merchants-face-rising-logistics-hurdle-3bfc8bc6",
+      "orig_slug": "international-returns-surge-as-e-commerce-merchants-face-rising-logistics-hurdle-3bfc8bc6"
     },
     {
       "title": "SAVE plan officially ends. Here's what happens to your student loans now.",
@@ -344,6 +128,222 @@
       "orig_slug": "save-plan-officially-ends-heres-what-happens-to-your-student-loans-now-513b7282"
     },
     {
+      "title": "This Analyst Says Oracle Is Still in the Early Innings of Its AI Success Story. Should You Buy ORCL Stock Here?",
+      "link": "https://finance.yahoo.com/news/analyst-says-oracle-still-early-145843079.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-16T14:58:43Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/e6270eaced21baa42d87300c42cfa807",
+      "slug": "this-analyst-says-oracle-is-still-in-the-early-innings-of-its-ai-success-story-s-81ee33f2",
+      "orig_slug": "this-analyst-says-oracle-is-still-in-the-early-innings-of-its-ai-success-story-s-81ee33f2"
+    },
+    {
+      "title": "Two Words Explain Why Your ‘Retirement Number’ Is Probably Wrong",
+      "link": "https://finance.yahoo.com/news/two-words-explain-why-retirement-151139392.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-16T15:11:39Z",
+      "image": "https://media.zenfs.com/en/24_7_wall_st__718/a14e8a901cf705219b59ed35accb6fda",
+      "slug": "two-words-explain-why-your-retirement-number-is-probably-wrong-588ccadd",
+      "orig_slug": "two-words-explain-why-your-retirement-number-is-probably-wrong-588ccadd"
+    },
+    {
+      "title": "Oil Prices Slide As Iran Opts For 'Porous' Strait Of Hormuz",
+      "link": "https://www.investors.com/news/oil-prices-slide-as-iran-opts-for-porous-strait-of-hormuz/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-16T15:24:55Z",
+      "image": "",
+      "slug": "oil-prices-slide-as-iran-opts-for-porous-strait-of-hormuz-b1a09fe8",
+      "orig_slug": "oil-prices-slide-as-iran-opts-for-porous-strait-of-hormuz-b1a09fe8"
+    },
+    {
+      "title": "Strategy Acquires 22,337 Bitcoin For $1.57 Billion",
+      "link": "https://finance.yahoo.com/news/strategy-acquires-22-337-bitcoin-145700272.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-16T14:57:00Z",
+      "image": "https://s.yimg.com/os/en/cryptoprowl_304/946c3927d76ef2caf41f5841eced9575",
+      "slug": "strategy-acquires-22337-bitcoin-for-157-billion-279a47a8",
+      "orig_slug": "strategy-acquires-22337-bitcoin-for-157-billion-279a47a8"
+    },
+    {
+      "title": "Micron’s Q2 Earnings Ahead: Is MU Stock Still a Buy After the Big Rally?",
+      "link": "https://finance.yahoo.com/news/micron-q2-earnings-ahead-mu-152804365.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-16T15:28:04Z",
+      "image": "https://s.yimg.com/os/en/barchart_com_477/7ad70eb4f0fe0219527f3dcac4789db7",
+      "slug": "microns-q2-earnings-ahead-is-mu-stock-still-a-buy-after-the-big-rally-2c1695f1",
+      "orig_slug": "microns-q2-earnings-ahead-is-mu-stock-still-a-buy-after-the-big-rally-2c1695f1"
+    },
+    {
+      "title": "Bitdeer’s Bitcoin Mining Production Rose 541% In February",
+      "link": "https://finance.yahoo.com/news/bitdeer-bitcoin-mining-production-rose-145400366.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-16T14:54:00Z",
+      "image": "https://s.yimg.com/os/en/cryptoprowl_304/713f04aa19e840b48a2ffb59ece408c4",
+      "slug": "bitdeers-bitcoin-mining-production-rose-541-in-february-0e85cc8b",
+      "orig_slug": "bitdeers-bitcoin-mining-production-rose-541-in-february-0e85cc8b"
+    },
+    {
+      "title": "Daily – Vickers Top Buyers & Sellers for 03/17/2026",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46451_TopBottomInsiderActivity_1773747091000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-17T11:31:31Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "daily-vickers-top-buyers-sellers-for-03172026-95a9d000",
+      "orig_slug": "daily-vickers-top-buyers-sellers-for-03172026-95a9d000"
+    },
+    {
+      "title": "Why PayPal’s Rally Faded—And What Could Restart It",
+      "link": "https://finance.yahoo.com/news/why-paypal-rally-faded-could-151100172.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-16T15:11:00Z",
+      "image": "https://s.yimg.com/os/en/marketbeat_955/b78c69c26edc613f7bd28fa74b90d83d",
+      "slug": "why-paypals-rally-fadedand-what-could-restart-it-ecbc7d85",
+      "orig_slug": "why-paypals-rally-fadedand-what-could-restart-it-ecbc7d85"
+    },
+    {
+      "title": "Tax refund delays hit a handful of states. Is yours one of them?",
+      "link": "https://finance.yahoo.com/personal-finance/taxes/article/tax-refund-delays-hit-a-handful-of-states-is-yours-one-of-them-205225491.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-05T20:52:25Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/aZ9eyue6.ZKpqfoiZdAtLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-07/696a7770-0460-11ed-8df9-79eb8e0c9cba",
+      "slug": "tax-refund-delays-hit-a-handful-of-states-is-yours-one-of-them-e2c9a974",
+      "orig_slug": "tax-refund-delays-hit-a-handful-of-states-is-yours-one-of-them-e2c9a974"
+    },
+    {
+      "title": "Stocks Rally as Crude Oil and Bond Yields Fall",
+      "link": "https://finance.yahoo.com/news/stocks-rally-crude-oil-bond-153039497.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-16T15:30:39Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/9702f20631207874aa69ec4c7402dbba",
+      "slug": "stocks-rally-as-crude-oil-and-bond-yields-fall-059de7ef",
+      "orig_slug": "stocks-rally-as-crude-oil-and-bond-yields-fall-059de7ef"
+    },
+    {
+      "title": "Oil futures explained: Can regular investors really trade them?",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/oil-futures-explained-can-regular-investors-really-trade-them-141230299.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-12T14:12:30Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/zUgItyL4NZWb8hM9Bpd5xg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-03/4812b12c-6676-4fc4-9867-6d2cd736f105",
+      "slug": "oil-futures-explained-can-regular-investors-really-trade-them-7833a5a5",
+      "orig_slug": "oil-futures-explained-can-regular-investors-really-trade-them-7833a5a5"
+    },
+    {
+      "title": "Orange Juice Prices Are Headed Higher. 1 Trade to Make Now.",
+      "link": "https://finance.yahoo.com/news/orange-juice-prices-headed-higher-144905299.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-16T14:49:05Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/22049fbb7b5a11a427c4d3db9998b3af",
+      "slug": "orange-juice-prices-are-headed-higher-1-trade-to-make-now-a1e51892",
+      "orig_slug": "orange-juice-prices-are-headed-higher-1-trade-to-make-now-a1e51892"
+    },
+    {
+      "title": "Daily – Vickers Top Insider Picks for 03/17/2026",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46450_InsiderActivity_1773747091000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-17T11:31:31Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "daily-vickers-top-insider-picks-for-03172026-782190f8",
+      "orig_slug": "daily-vickers-top-insider-picks-for-03172026-782190f8"
+    },
+    {
+      "title": "Small-Cap Growth ETFs: SLYG Boasts Higher Yield, While VBK Has Lower Fees",
+      "link": "https://finance.yahoo.com/news/small-cap-growth-etfs-slyg-150953738.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-16T15:09:53Z",
+      "image": "https://s.yimg.com/os/en/motleyfool.com/6f52deea8a794bf82cf0ccf23f51f4c2",
+      "slug": "small-cap-growth-etfs-slyg-boasts-higher-yield-while-vbk-has-lower-fees-ddc408eb",
+      "orig_slug": "small-cap-growth-etfs-slyg-boasts-higher-yield-while-vbk-has-lower-fees-ddc408eb"
+    },
+    {
+      "title": "Meta Stock Rises. Wall Street Sees Layoffs Report As 'Broader Shift' In AI Narrative.",
+      "link": "https://www.investors.com/news/technology/meta-stock-ai-layoffs-narrative/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-16T15:34:21Z",
+      "image": "",
+      "slug": "meta-stock-rises-wall-street-sees-layoffs-report-as-broader-shift-in-ai-narrativ-4f3c8286",
+      "orig_slug": "meta-stock-rises-wall-street-sees-layoffs-report-as-broader-shift-in-ai-narrativ-4f3c8286"
+    },
+    {
+      "title": "Dollar Retreats as Stocks Rebound and Bond Yields Fall",
+      "link": "https://finance.yahoo.com/news/dollar-retreats-stocks-rebound-bond-144532207.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-16T14:45:32Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/e45537fa0954bccea6b645c41b80d7a7",
+      "slug": "dollar-retreats-as-stocks-rebound-and-bond-yields-fall-829507d6",
+      "orig_slug": "dollar-retreats-as-stocks-rebound-and-bond-yields-fall-829507d6"
+    },
+    {
+      "title": "Block Stock Just Crashed Below Its 50-Day Moving Average. Should You Buy the Dip?",
+      "link": "https://finance.yahoo.com/news/block-stock-just-crashed-below-153753439.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-16T15:37:53Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/20340a3d4d029377a8536eae83baf4c5",
+      "slug": "block-stock-just-crashed-below-its-50-day-moving-average-should-you-buy-the-dip-f7270441",
+      "orig_slug": "block-stock-just-crashed-below-its-50-day-moving-average-should-you-buy-the-dip-f7270441"
+    },
+    {
+      "title": "Is Chipotle Mexican Grill a Buy or Sell? These 2 Billionaire Investors Can't Seem to Agree",
+      "link": "https://finance.yahoo.com/news/chipotle-mexican-grill-buy-sell-144304931.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-16T14:43:04Z",
+      "image": "https://s.yimg.com/os/en/barchart_com_477/b7da239e5ba9a11dfea76e834f18176d",
+      "slug": "is-chipotle-mexican-grill-a-buy-or-sell-these-2-billionaire-investors-cant-seem--52bc79ef",
+      "orig_slug": "is-chipotle-mexican-grill-a-buy-or-sell-these-2-billionaire-investors-cant-seem--52bc79ef"
+    },
+    {
+      "title": "Daily Spotlight: Argus Adjusts Sector Ratings",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46448_MarketOutlook_1773746565000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-17T11:22:45Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "daily-spotlight-argus-adjusts-sector-ratings-3afd7715",
+      "orig_slug": "daily-spotlight-argus-adjusts-sector-ratings-3afd7715"
+    },
+    {
+      "title": "Despite fears of drivers losing their jobs to robotaxis, Waymo’s boss says the company will still need humans to fill technician and operator roles",
+      "link": "https://finance.yahoo.com/news/waymo-co-ceo-insists-robotaxis-151358963.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-16T15:13:58Z",
+      "image": "https://media.zenfs.com/en/fortune_175/836b8f7492ddedc398c58c4d0772f345",
+      "slug": "despite-fears-of-drivers-losing-their-jobs-to-robotaxis-waymos-boss-says-the-com-1bf6dda1",
+      "orig_slug": "despite-fears-of-drivers-losing-their-jobs-to-robotaxis-waymos-boss-says-the-com-1bf6dda1"
+    },
+    {
+      "title": "Take-Two Interactive Stock: Is TTWO Underperforming the Communication Sector?",
+      "link": "https://finance.yahoo.com/news/two-interactive-stock-ttwo-underperforming-154212075.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-16T15:42:12Z",
+      "image": "https://s.yimg.com/os/en/barchart_com_477/6225d2a9d5a96037971980bf38e1b600",
+      "slug": "take-two-interactive-stock-is-ttwo-underperforming-the-communication-sector-a4b2ad04",
+      "orig_slug": "take-two-interactive-stock-is-ttwo-underperforming-the-communication-sector-a4b2ad04"
+    },
+    {
+      "title": "AI Stocks: Nvidia GTC News Could Jolt Broadcom, Dell, CoreWeave, Arista, Lumentum",
+      "link": "https://www.investors.com/news/technology/ai-stocks-artificial-intelligence-stocks-nvidia-gtc-3162026/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-16T14:40:14Z",
+      "image": "",
+      "slug": "ai-stocks-nvidia-gtc-news-could-jolt-broadcom-dell-coreweave-arista-lumentum-8cd3a5d6",
+      "orig_slug": "ai-stocks-nvidia-gtc-news-could-jolt-broadcom-dell-coreweave-arista-lumentum-8cd3a5d6"
+    },
+    {
+      "title": "Are you making this Roth conversion mistake? Here’s the BETR solution you should know about — and how to implement it",
+      "link": "https://finance.yahoo.com/news/making-roth-conversion-mistake-betr-154500960.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-16T15:45:00Z",
+      "image": "https://s.yimg.com/os/en/moneywise_ecomm_711/3f78529af9b19f03394db439e04d71e9",
+      "slug": "are-you-making-this-roth-conversion-mistake-heres-the-betr-solution-you-should-k-4962f511",
+      "orig_slug": "are-you-making-this-roth-conversion-mistake-heres-the-betr-solution-you-should-k-4962f511"
+    },
+    {
+      "title": "Nebius Stock Pops On Expanded Meta Deal. Cloud Firm Reaffirms Guidance.",
+      "link": "https://www.investors.com/news/technology/nebius-stock-pops-meta-expanded-ai-cloud-computing-agreement/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-16T15:46:37Z",
+      "image": "",
+      "slug": "nebius-stock-pops-on-expanded-meta-deal-cloud-firm-reaffirms-guidance-32ec5623",
+      "orig_slug": "nebius-stock-pops-on-expanded-meta-deal-cloud-firm-reaffirms-guidance-32ec5623"
+    },
+    {
       "title": "Technical Assessment: Bullish in the Intermediate-Term",
       "link": "https://finance.yahoo.com/research/reports/ARGUS_46447_TechnicalAnalysis_1773745622000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "source": "finance.yahoo.com",
@@ -353,22 +353,22 @@
       "orig_slug": "technical-assessment-bullish-in-the-intermediate-term-da9b07fa"
     },
     {
-      "title": "Restaurant group Itacho Sushi shuts operations in Singapore",
-      "link": "https://finance.yahoo.com/news/restaurant-group-itacho-sushi-shuts-141538651.html",
+      "title": "Munitions Metal Tungsten Eclipses Gold, Copper in 557% Rally",
+      "link": "https://finance.yahoo.com/news/munitions-metal-tungsten-eclipses-gold-151421402.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-16T14:15:38Z",
-      "image": "https://media.zenfs.com/en/verdict_food_service_772/d4cf9e241e0cd3cf1ad1f2f666b5214e",
-      "slug": "restaurant-group-itacho-sushi-shuts-operations-in-singapore-ee4e7293",
-      "orig_slug": "restaurant-group-itacho-sushi-shuts-operations-in-singapore-ee4e7293"
+      "pubDate": "2026-03-16T15:14:21Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/vZJm1Im94.wUs8ZU27Bu1A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/ac430650-2150-11f1-bdbd-a30361886d5c",
+      "slug": "munitions-metal-tungsten-eclipses-gold-copper-in-557-rally-aa40487a",
+      "orig_slug": "munitions-metal-tungsten-eclipses-gold-copper-in-557-rally-aa40487a"
     },
     {
-      "title": "Tax refunds are bigger this year. Why that’s not better for taxpayers.",
-      "link": "https://finance.yahoo.com/personal-finance/taxes/article/tax-refunds-are-bigger-this-year-why-thats-not-better-for-taxpayers-165828869.html",
+      "title": "Oil prices hold over $100 as Middle East conflict rages on: 'A high-stakes stalemate'",
+      "link": "https://finance.yahoo.com/news/oil-prices-hold-over-100-as-middle-east-conflict-rages-on-a-high-stakes-stalemate-143537218.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-12T16:58:28Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/LuJIhIjRpu1WtocZisGxJg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-02/53447610-ec27-11ef-9bff-9b4c9e448f38",
-      "slug": "tax-refunds-are-bigger-this-year-why-thats-not-better-for-taxpayers-09286084",
-      "orig_slug": "tax-refunds-are-bigger-this-year-why-thats-not-better-for-taxpayers-09286084"
+      "pubDate": "2026-03-16T14:35:37Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/tDmEOSrTSM63LRACbE9IbQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/c69f68f0-1fba-11f1-b6ab-9ff478e10f3d",
+      "slug": "oil-prices-hold-over-100-as-middle-east-conflict-rages-on-a-high-stakes-stalemat-931f5fd1",
+      "orig_slug": "oil-prices-hold-over-100-as-middle-east-conflict-rages-on-a-high-stakes-stalemat-931f5fd1"
     },
     {
       "title": "How to invest in cryptocurrency: A beginner's guide",
@@ -398,31 +398,31 @@
       "orig_slug": "tax-day-2026-is-coming-up-everything-you-need-to-know-to-file-on-time-92f6ccdc"
     },
     {
-      "title": "Analyst Report: MarketAxess Holdings Inc",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_3197_AnalystReport_1773745353000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "title": "Analyst Report: Kimco Realty Corp",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_3120_AnalystReport_1773745353000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "source": "finance.yahoo.com",
       "pubDate": "2026-03-17T11:02:33Z",
       "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "analyst-report-marketaxess-holdings-inc-0ab3da81",
-      "orig_slug": "analyst-report-marketaxess-holdings-inc-0ab3da81"
+      "slug": "analyst-report-kimco-realty-corp-52d93332",
+      "orig_slug": "analyst-report-kimco-realty-corp-52d93332"
     },
     {
-      "title": "Crypto Funds See $1B Inflows Despite Global Tensions — Bitcoin and Ethereum Lead the Charge",
-      "link": "https://finance.yahoo.com/news/crypto-funds-see-1b-inflows-140407459.html",
+      "title": "AI Agents Don’t Buy Seats, and That’s Workday’s $133 Stock Problem",
+      "link": "https://finance.yahoo.com/news/ai-agents-don-t-buy-150606605.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-16T14:04:07Z",
-      "image": "https://media.zenfs.com/en/ccn_928/290609c20d3876ac5d41f470a2a1cbdb",
-      "slug": "crypto-funds-see-1b-inflows-despite-global-tensions-bitcoin-and-ethereum-lead-th-82ef6e52",
-      "orig_slug": "crypto-funds-see-1b-inflows-despite-global-tensions-bitcoin-and-ethereum-lead-th-82ef6e52"
+      "pubDate": "2026-03-16T15:06:06Z",
+      "image": "https://media.zenfs.com/en/24_7_wall_st__718/2cd6fec1a38dcf1d9b788a9fe57544de",
+      "slug": "ai-agents-dont-buy-seats-and-thats-workdays-133-stock-problem-4002e6ee",
+      "orig_slug": "ai-agents-dont-buy-seats-and-thats-workdays-133-stock-problem-4002e6ee"
     },
     {
-      "title": "When is the Fed's next meeting? See the full schedule for 2026.",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/when-is-the-next-fed-meeting-full-schedule-150709698.html",
+      "title": "Tax refunds jump 10% to almost $3,700. Best ways to use that extra cash.",
+      "link": "https://finance.yahoo.com/personal-finance/taxes/article/tax-refunds-jump-10-to-almost-3700-best-ways-to-use-that-extra-cash-200949583.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2024-06-06T15:07:09Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/aApgzZDxv33njJiYAWSuRg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/5f009a60-f8a6-11f0-bf7f-8dd061102402",
-      "slug": "when-is-the-feds-next-meeting-see-the-full-schedule-for-2026-a0e9a044",
-      "orig_slug": "when-is-the-feds-next-meeting-see-the-full-schedule-for-2026-a0e9a044"
+      "pubDate": "2026-03-13T20:09:49Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/mqBrQBvs0luVcMY774UjiQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTc-/https://s.yimg.com/os/creatr-images/2020-04/f4485d90-7f3c-11ea-b65a-d8c4d0d15c6d",
+      "slug": "tax-refunds-jump-10-to-almost-3700-best-ways-to-use-that-extra-cash-be46c913",
+      "orig_slug": "tax-refunds-jump-10-to-almost-3700-best-ways-to-use-that-extra-cash-be46c913"
     }
   ]
 }
