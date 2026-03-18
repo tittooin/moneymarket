@@ -1,23 +1,383 @@
 {
-  "updated": "2026-03-18T11:38:58Z",
+  "updated": "2026-03-18T12:45:39Z",
   "items": [
     {
-      "title": "Windar Renovables to develop new wind turbine facility in Poland",
-      "link": "https://finance.yahoo.com/news/windar-renovables-develop-wind-turbine-113111731.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-18T11:31:11Z",
-      "image": "https://media.zenfs.com/en/power_technology_866/6a1fd962e39563da5225e68485e663d5",
-      "slug": "windar-renovables-to-develop-new-wind-turbine-facility-in-poland-7bb814df",
-      "orig_slug": "windar-renovables-to-develop-new-wind-turbine-facility-in-poland-7bb814df"
-    },
-    {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise with Fed decision on deck",
-      "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-with-fed-decision-on-deck-225450963.html",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise as oil tops $104 again with Fed decision on deck",
+      "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-oil-tops-104-again-with-fed-decision-on-deck-225450151.html",
       "source": "finance.yahoo.com",
       "pubDate": "2026-03-17T22:54:50Z",
       "image": "https://s.yimg.com/ny/api/res/1.2/nwxl5OJ_G4Br6.8R.02qyQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/1f7160b0-2253-11f1-9b57-5d42ee5206d0",
-      "slug": "stock-market-today-dow-sp-500-nasdaq-futures-rise-with-fed-decision-on-deck-4197122a",
-      "orig_slug": "stock-market-today-dow-sp-500-nasdaq-futures-rise-with-fed-decision-on-deck-4197122a"
+      "slug": "stock-market-today-dow-sp-500-nasdaq-futures-rise-as-oil-tops-104-again-with-fed-b1203364",
+      "orig_slug": "stock-market-today-dow-sp-500-nasdaq-futures-rise-as-oil-tops-104-again-with-fed-b1203364"
+    },
+    {
+      "title": "Bitcoin ETFs Hit 6 Straight Days Of Inflows: Why Is BTC Going Up Again?",
+      "link": "https://finance.yahoo.com/news/bitcoin-etfs-hit-6-straight-123106993.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T12:31:06Z",
+      "image": "https://s.yimg.com/os/en/benzinga_79/fa3536ae8f73781bfd8c61f06eae307a",
+      "slug": "bitcoin-etfs-hit-6-straight-days-of-inflows-why-is-btc-going-up-again-68398f2a",
+      "orig_slug": "bitcoin-etfs-hit-6-straight-days-of-inflows-why-is-btc-going-up-again-68398f2a"
+    },
+    {
+      "title": "If the Iran war has you rattled and worried about your investments, Dave Ramsey offers blunt advice: stick to your plan",
+      "link": "https://finance.yahoo.com/news/iran-war-rattled-worried-investments-123000793.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T12:30:00Z",
+      "image": "https://media.zenfs.com/en/moneywise_327/d3bff6c51e8abf3441c99cd53e92a7a2",
+      "slug": "if-the-iran-war-has-you-rattled-and-worried-about-your-investments-dave-ramsey-o-00b464ff",
+      "orig_slug": "if-the-iran-war-has-you-rattled-and-worried-about-your-investments-dave-ramsey-o-00b464ff"
+    },
+    {
+      "title": "MercadoLibre (MELI) Slid Following a Decline in Operating Margin",
+      "link": "https://finance.yahoo.com/news/mercadolibre-meli-slid-following-decline-122747216.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T12:27:47Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/e2ff2306320743bebbdc8073c032b4e9",
+      "slug": "mercadolibre-meli-slid-following-a-decline-in-operating-margin-068b15b3",
+      "orig_slug": "mercadolibre-meli-slid-following-a-decline-in-operating-margin-068b15b3"
+    },
+    {
+      "title": "Bit Digital Inc. (BTBT) Positioned to Capitalize on Digital Treasury Model",
+      "link": "https://finance.yahoo.com/news/bit-digital-inc-btbt-positioned-122730653.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T12:27:30Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/8151f2304f048e9a6806946c38a9e7e8",
+      "slug": "bit-digital-inc-btbt-positioned-to-capitalize-on-digital-treasury-model-df2c6fce",
+      "orig_slug": "bit-digital-inc-btbt-positioned-to-capitalize-on-digital-treasury-model-df2c6fce"
+    },
+    {
+      "title": "Daily Spotlight: Bond Spreads Widen along with Mideast Conflict",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46463_MarketOutlook_1773833527000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T11:32:07Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "daily-spotlight-bond-spreads-widen-along-with-mideast-conflict-4c49eead",
+      "orig_slug": "daily-spotlight-bond-spreads-widen-along-with-mideast-conflict-4c49eead"
+    },
+    {
+      "title": "Fed Meeting: Doves Should Prevail Despite Iran War Inflation Risk (Live Coverage)",
+      "link": "https://www.investors.com/news/federal-reserve-meeting-march-inflation-unemployment-iran-war-oil-prices-sp-500/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T12:27:20Z",
+      "image": "",
+      "slug": "fed-meeting-doves-should-prevail-despite-iran-war-inflation-risk-live-coverage-0745efd6",
+      "orig_slug": "fed-meeting-doves-should-prevail-despite-iran-war-inflation-risk-live-coverage-0745efd6"
+    },
+    {
+      "title": "HIVE Digital Technologies Ltd. (HIVE) Partners with AMC Robotics to Advance AI Robotics",
+      "link": "https://finance.yahoo.com/news/hive-digital-technologies-ltd-hive-122649392.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T12:26:49Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/c573cd26a667655c992d74f893004c40",
+      "slug": "hive-digital-technologies-ltd-hive-partners-with-amc-robotics-to-advance-ai-robo-742ce5d5",
+      "orig_slug": "hive-digital-technologies-ltd-hive-partners-with-amc-robotics-to-advance-ai-robo-742ce5d5"
+    },
+    {
+      "title": "3 Consumer Staples Stocks That Can Withstand AI Disruption",
+      "link": "https://finance.yahoo.com/news/3-consumer-staples-stocks-withstand-122500682.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T12:25:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/876d2249586756b40319f7f336f80597",
+      "slug": "3-consumer-staples-stocks-that-can-withstand-ai-disruption-3308cf38",
+      "orig_slug": "3-consumer-staples-stocks-that-can-withstand-ai-disruption-3308cf38"
+    },
+    {
+      "title": "Kevin O’Leary: Retire on $500K and never work again. Is this strategy a financial miracle or a dangerous gamble?",
+      "link": "https://finance.yahoo.com/news/kevin-o-leary-retire-500k-121100202.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T12:11:00Z",
+      "image": "https://media.zenfs.com/en/moneywise_ecomm_711/7636f1e440859d79716fe1626c12b210",
+      "slug": "kevin-oleary-retire-on-500k-and-never-work-again-is-this-strategy-a-financial-mi-42bfe26e",
+      "orig_slug": "kevin-oleary-retire-on-500k-and-never-work-again-is-this-strategy-a-financial-mi-42bfe26e"
+    },
+    {
+      "title": "Stock Market Today: Dow Rises Ahead Of Fed, Powell Press Briefing; Inflation Report Up Next (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-decision-powell-inflation-data/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T12:08:01Z",
+      "image": "",
+      "slug": "stock-market-today-dow-rises-ahead-of-fed-powell-press-briefing-inflation-report-a2f9d039",
+      "orig_slug": "stock-market-today-dow-rises-ahead-of-fed-powell-press-briefing-inflation-report-a2f9d039"
+    },
+    {
+      "title": "Technical Assessment: Bullish in the Intermediate-Term",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46462_TechnicalAnalysis_1773832707000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T11:18:27Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "technical-assessment-bullish-in-the-intermediate-term-e80fa55f",
+      "orig_slug": "technical-assessment-bullish-in-the-intermediate-term-e80fa55f"
+    },
+    {
+      "title": "Dow Jones Futures Rise, Oil Prices Fall, Nvidia Up On China News; Fed, Micron Earnings Loom",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-rise-fed-decision-micron-earnings/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T12:07:45Z",
+      "image": "",
+      "slug": "dow-jones-futures-rise-oil-prices-fall-nvidia-up-on-china-news-fed-micron-earnin-512a84ab",
+      "orig_slug": "dow-jones-futures-rise-oil-prices-fall-nvidia-up-on-china-news-fed-micron-earnin-512a84ab"
+    },
+    {
+      "title": "Here’s Why Alibaba Group (BABA) is on the Contributors List of Polen International Growth",
+      "link": "https://finance.yahoo.com/news/why-alibaba-group-baba-contributors-120708361.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T12:07:08Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/2ecb0becb2dac43b6c02e70d6d2b18a3",
+      "slug": "heres-why-alibaba-group-baba-is-on-the-contributors-list-of-polen-international--35bf6ad7",
+      "orig_slug": "heres-why-alibaba-group-baba-is-on-the-contributors-list-of-polen-international--35bf6ad7"
+    },
+    {
+      "title": "Navigating the valley of death: a how-to from an investor’s perspective",
+      "link": "https://finance.yahoo.com/news/navigating-valley-death-investor-perspective-122435590.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T12:24:35Z",
+      "image": "https://media.zenfs.com/en/pharmaceutical_technology_376/7e23630e06ea0fbb9c9443ce6671bf97",
+      "slug": "navigating-the-valley-of-death-a-how-to-from-an-investors-perspective-27f0b986",
+      "orig_slug": "navigating-the-valley-of-death-a-how-to-from-an-investors-perspective-27f0b986"
+    },
+    {
+      "title": "ASML Holding N.V. (ASML) is Benefiting from Investors’ Optimism Around AI",
+      "link": "https://finance.yahoo.com/news/asml-holding-n-v-asml-120537074.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T12:05:37Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/b0465e3c0bac23604601fe5e903d7ec7",
+      "slug": "asml-holding-nv-asml-is-benefiting-from-investors-optimism-around-ai-848e4f54",
+      "orig_slug": "asml-holding-nv-asml-is-benefiting-from-investors-optimism-around-ai-848e4f54"
+    },
+    {
+      "title": "Nutanix (NTNX) Fell Following a Cut in its 2026 Revenue and Earnings Forecast",
+      "link": "https://finance.yahoo.com/news/nutanix-ntnx-fell-following-cut-115912998.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T11:59:12Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/8861df409336f388dde2cf840852e0cd",
+      "slug": "nutanix-ntnx-fell-following-a-cut-in-its-2026-revenue-and-earnings-forecast-f701cd14",
+      "orig_slug": "nutanix-ntnx-fell-following-a-cut-in-its-2026-revenue-and-earnings-forecast-f701cd14"
+    },
+    {
+      "title": "Analyst Report: NVIDIA Corp",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_3656_AnalystReport_1773831468000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T10:57:48Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-nvidia-corp-c5d73206",
+      "orig_slug": "analyst-report-nvidia-corp-c5d73206"
+    },
+    {
+      "title": "Here’s Why Rocket Lab Corp (RKLB) Became a Detractor to Polen 5Perspectives Small-Mid Growth Strategy’s Relative Performance",
+      "link": "https://finance.yahoo.com/news/why-rocket-lab-corp-rklb-115547409.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T11:55:47Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/0c56cb48868a3402b378403de05a2286",
+      "slug": "heres-why-rocket-lab-corp-rklb-became-a-detractor-to-polen-5perspectives-small-m-679e1818",
+      "orig_slug": "heres-why-rocket-lab-corp-rklb-became-a-detractor-to-polen-5perspectives-small-m-679e1818"
+    },
+    {
+      "title": "Alibaba Stock Rallies After AI Price Hikes. Earnings Are Due Soon.",
+      "link": "https://www.investors.com/news/technology/alibaba-stock-ai-price-hikes-earnings/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T11:55:37Z",
+      "image": "",
+      "slug": "alibaba-stock-rallies-after-ai-price-hikes-earnings-are-due-soon-c25947d9",
+      "orig_slug": "alibaba-stock-rallies-after-ai-price-hikes-earnings-are-due-soon-c25947d9"
+    },
+    {
+      "title": "Gemini Space Station Is Struggling Since Its IPO. The Stock Is Downgraded to Sell.",
+      "link": "https://www.barrons.com/articles/gemini-space-station-stock-downgrade-sell-310f7867?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T12:22:00Z",
+      "image": "",
+      "slug": "gemini-space-station-is-struggling-since-its-ipo-the-stock-is-downgraded-to-sell-e258df1b",
+      "orig_slug": "gemini-space-station-is-struggling-since-its-ipo-the-stock-is-downgraded-to-sell-e258df1b"
+    },
+    {
+      "title": "First Solar (FSLR) Gained From Its CdTe Technology and “One Big Beautiful Bill”",
+      "link": "https://finance.yahoo.com/news/first-solar-fslr-gained-cdte-115335462.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T11:53:35Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/ff5d494325e88e84414202918ae948fc",
+      "slug": "first-solar-fslr-gained-from-its-cdte-technology-and-one-big-beautiful-bill-1af662c2",
+      "orig_slug": "first-solar-fslr-gained-from-its-cdte-technology-and-one-big-beautiful-bill-1af662c2"
+    },
+    {
+      "title": "What Makes Sandisk Corporation (SNDK) a Strong Performer in Q4?",
+      "link": "https://finance.yahoo.com/news/makes-sandisk-corporation-sndk-strong-115256049.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T11:52:56Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/d93ca54a0a7b095c48b17bea6cc50e9a",
+      "slug": "what-makes-sandisk-corporation-sndk-a-strong-performer-in-q4-02aec8af",
+      "orig_slug": "what-makes-sandisk-corporation-sndk-a-strong-performer-in-q4-02aec8af"
+    },
+    {
+      "title": "Daily – Vickers Top Insider Picks for 03/18/2026",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46459_InsiderActivity_1773830652000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T10:44:12Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "daily-vickers-top-insider-picks-for-03182026-e983ca8f",
+      "orig_slug": "daily-vickers-top-insider-picks-for-03182026-e983ca8f"
+    },
+    {
+      "title": "Nu Holdings (NU) Announces the Appointment of Kim Farrell as Global Marketing Director",
+      "link": "https://finance.yahoo.com/news/nu-holdings-nu-announces-appointment-114626634.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T11:46:26Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/3e6737a09ed1e20ab44c649751392f5b",
+      "slug": "nu-holdings-nu-announces-the-appointment-of-kim-farrell-as-global-marketing-dire-7d5bb5cd",
+      "orig_slug": "nu-holdings-nu-announces-the-appointment-of-kim-farrell-as-global-marketing-dire-7d5bb5cd"
+    },
+    {
+      "title": "Keefe Bruyette Upgrades Rocket Companies (RKT) From Market Perform to Outperform, Raises the PT",
+      "link": "https://finance.yahoo.com/news/keefe-bruyette-upgrades-rocket-companies-114512791.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T11:45:12Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/70ed52c86559b9f585c7378b2ddce7fd",
+      "slug": "keefe-bruyette-upgrades-rocket-companies-rkt-from-market-perform-to-outperform-r-dd7f8810",
+      "orig_slug": "keefe-bruyette-upgrades-rocket-companies-rkt-from-market-perform-to-outperform-r-dd7f8810"
+    },
+    {
+      "title": "2 High-Yield Dividend ETFs I Would Buy Right Now and Why",
+      "link": "https://finance.yahoo.com/news/2-high-yield-dividend-etfs-122000812.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T12:20:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/be754b090f4b46b5fc4fddef8c8879d0",
+      "slug": "2-high-yield-dividend-etfs-i-would-buy-right-now-and-why-eaa73da7",
+      "orig_slug": "2-high-yield-dividend-etfs-i-would-buy-right-now-and-why-eaa73da7"
+    },
+    {
+      "title": "Truist Lowers PT on Fifth Third Bancorp (FITB), Keeps a Buy Rating",
+      "link": "https://finance.yahoo.com/news/truist-lowers-pt-fifth-third-114413190.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T11:44:13Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/256dd7e00b8795fc1235f1f7b3be1691",
+      "slug": "truist-lowers-pt-on-fifth-third-bancorp-fitb-keeps-a-buy-rating-0495b638",
+      "orig_slug": "truist-lowers-pt-on-fifth-third-bancorp-fitb-keeps-a-buy-rating-0495b638"
+    },
+    {
+      "title": "JD.com (JD) and BYD Enters a Strategic Partnership",
+      "link": "https://finance.yahoo.com/news/jd-com-jd-byd-enters-114328249.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T11:43:28Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/11672800d1aa4c2d3d6ec0e023f94406",
+      "slug": "jdcom-jd-and-byd-enters-a-strategic-partnership-3e36db3d",
+      "orig_slug": "jdcom-jd-and-byd-enters-a-strategic-partnership-3e36db3d"
+    },
+    {
+      "title": "Daily – Vickers Top Buyers & Sellers for 03/18/2026",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46460_TopBottomInsiderActivity_1773830652000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T10:44:12Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "daily-vickers-top-buyers-sellers-for-03182026-3a73287b",
+      "orig_slug": "daily-vickers-top-buyers-sellers-for-03182026-3a73287b"
+    },
+    {
+      "title": "Morgan Stanley Maintains a Buy on Block (XYZ)",
+      "link": "https://finance.yahoo.com/news/morgan-stanley-maintains-buy-block-114231761.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T11:42:31Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/32151c7d5c2ab282b7c947125adb959e",
+      "slug": "morgan-stanley-maintains-a-buy-on-block-xyz-decffba9",
+      "orig_slug": "morgan-stanley-maintains-a-buy-on-block-xyz-decffba9"
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq rise for second day in a row with Fed decision on deck",
+      "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-for-second-day-in-a-row-with-fed-decision-on-deck-200307065.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-17T20:03:07Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/TgfH786e8nYnxHcn3.Cf.w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/8e037230-218a-11f1-bb3f-09c568c40419",
+      "slug": "stock-market-today-dow-sp-500-nasdaq-rise-for-second-day-in-a-row-with-fed-decis-8d2a9ad6",
+      "orig_slug": "stock-market-today-dow-sp-500-nasdaq-rise-for-second-day-in-a-row-with-fed-decis-8d2a9ad6"
+    },
+    {
+      "title": "FTSE 100 Live: Stocks drop as oil price hardens, Unilever warned off food split",
+      "link": "https://finance.yahoo.com/news/ftse-100-live-stocks-called-071700937.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T12:20:00Z",
+      "image": "https://media.zenfs.com/en/proactive_us_504/9e6040d605e97930ae370f6c4454e8db",
+      "slug": "ftse-100-live-stocks-drop-as-oil-price-hardens-unilever-warned-off-food-split-1fc29a2d",
+      "orig_slug": "ftse-100-live-stocks-drop-as-oil-price-hardens-unilever-warned-off-food-split-1fc29a2d"
+    },
+    {
+      "title": "Huntington Bancshares (HBAN) Presents at RBC 2026 Conference, Here’s What You Should Know",
+      "link": "https://finance.yahoo.com/news/huntington-bancshares-hban-presents-rbc-114133630.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T11:41:33Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/f84b2d263172133b0f6b9aff2d96da99",
+      "slug": "huntington-bancshares-hban-presents-at-rbc-2026-conference-heres-what-you-should-9d77b09d",
+      "orig_slug": "huntington-bancshares-hban-presents-at-rbc-2026-conference-heres-what-you-should-9d77b09d"
+    },
+    {
+      "title": "EU Inc proposal seeks to rival US in innovation by easing startup creation",
+      "link": "https://finance.yahoo.com/news/eu-inc-proposal-seeks-rival-114123547.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T11:41:23Z",
+      "image": "https://s.yimg.com/os/en/reuters-finance.com/77b7571c57fe1217cdd3a8573231031e",
+      "slug": "eu-inc-proposal-seeks-to-rival-us-in-innovation-by-easing-startup-creation-267391fe",
+      "orig_slug": "eu-inc-proposal-seeks-to-rival-us-in-innovation-by-easing-startup-creation-267391fe"
+    },
+    {
+      "title": "Market Digest: COR, APD, NVDA, DUOL",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46457_MarketSummary_1773830568000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T10:42:48Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "market-digest-cor-apd-nvda-duol-aa8eb33a",
+      "orig_slug": "market-digest-cor-apd-nvda-duol-aa8eb33a"
+    },
+    {
+      "title": "Goldman Sachs Lowers PT on Flutter Entertainment (FLUT)",
+      "link": "https://finance.yahoo.com/news/goldman-sachs-lowers-pt-flutter-114056886.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T11:40:56Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/bef69cfdc591ddb6c1cbd5b19b376826",
+      "slug": "goldman-sachs-lowers-pt-on-flutter-entertainment-flut-18dcc6cf",
+      "orig_slug": "goldman-sachs-lowers-pt-on-flutter-entertainment-flut-18dcc6cf"
+    },
+    {
+      "title": "Stellantis (STLA) Considering Partnerships With Chinese Automakers",
+      "link": "https://finance.yahoo.com/news/stellantis-stla-considering-partnerships-chinese-114017714.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T11:40:17Z",
+      "image": "",
+      "slug": "stellantis-stla-considering-partnerships-with-chinese-automakers-b6bfa822",
+      "orig_slug": "stellantis-stla-considering-partnerships-with-chinese-automakers-b6bfa822"
+    },
+    {
+      "title": "I Asked a CPA Which Receipts Actually Matter — and Which Ones Don’t",
+      "link": "https://finance.yahoo.com/news/asked-cpa-receipts-actually-matter-121904777.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T12:19:04Z",
+      "image": "https://media.zenfs.com/en/gobankingrates_644/2f3dda92a644f24459ac04689c194504",
+      "slug": "i-asked-a-cpa-which-receipts-actually-matter-and-which-ones-dont-2cddb3d6",
+      "orig_slug": "i-asked-a-cpa-which-receipts-actually-matter-and-which-ones-dont-2cddb3d6"
+    },
+    {
+      "title": "BioMarin Pharmaceutical (BMRN) Reports Positive Results From Ongoing Trials of VOXZOGO",
+      "link": "https://finance.yahoo.com/news/biomarin-pharmaceutical-bmrn-reports-positive-113934308.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T11:39:34Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/1fbba2dc0e7772b46aa04252cd70ae43",
+      "slug": "biomarin-pharmaceutical-bmrn-reports-positive-results-from-ongoing-trials-of-vox-af5cdb97",
+      "orig_slug": "biomarin-pharmaceutical-bmrn-reports-positive-results-from-ongoing-trials-of-vox-af5cdb97"
+    },
+    {
+      "title": "Fed meeting live updates: Federal Reserve expected to hold rates steady, offer updated outlook amid Iran war",
+      "link": "https://finance.yahoo.com/news/live/fed-meeting-live-updates-federal-reserve-expected-to-hold-rates-steady-offer-updated-outlook-amid-iran-war-125458502.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T11:33:39Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/9vuzWe0tFzeXwdVlOszpwg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-02/a910cb85-a92d-4c02-9e27-60a3bae4353e",
+      "slug": "fed-meeting-live-updates-federal-reserve-expected-to-hold-rates-steady-offer-upd-d8f78430",
+      "orig_slug": "fed-meeting-live-updates-federal-reserve-expected-to-hold-rates-steady-offer-upd-d8f78430"
+    },
+    {
+      "title": "AI-First Public Safety Firm Tests Breakout In Troubled Market",
+      "link": "https://www.investors.com/research/breakout-stocks-technical-analysis/motorola-solutions-msi-stock-breakout/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T11:28:46Z",
+      "image": "",
+      "slug": "ai-first-public-safety-firm-tests-breakout-in-troubled-market-6849b6f0",
+      "orig_slug": "ai-first-public-safety-firm-tests-breakout-in-troubled-market-6849b6f0"
     },
     {
       "title": "The US economy is booming on paper, but everyday Americans feel squeezed. Why one expert says we’re in a boomcession",
@@ -29,31 +389,22 @@
       "orig_slug": "the-us-economy-is-booming-on-paper-but-everyday-americans-feel-squeezed-why-one--6918df4b"
     },
     {
-      "title": "Macy's post strong sales from the holiday quarter and sees encouraging signs from revamped stores",
+      "title": "Starbucks Stock Gets Downgraded. Why the Good Times Can’t Continue.",
+      "link": "https://www.barrons.com/articles/starbucks-stock-price-downgrade-labor-costs-34665eb1?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T12:18:00Z",
+      "image": "",
+      "slug": "starbucks-stock-gets-downgraded-why-the-good-times-cant-continue-d241030f",
+      "orig_slug": "starbucks-stock-gets-downgraded-why-the-good-times-cant-continue-d241030f"
+    },
+    {
+      "title": "Macy's posts strong sales from the holiday quarter and sees encouraging signs from revamped stores",
       "link": "https://finance.yahoo.com/news/macys-post-strong-sales-holiday-110621865.html",
       "source": "finance.yahoo.com",
       "pubDate": "2026-03-18T11:06:21Z",
       "image": "https://media.zenfs.com/en/ap_finance_articles_694/ae9ff3f7a76f5fa299955ad34fbbdd7a",
-      "slug": "macys-post-strong-sales-from-the-holiday-quarter-and-sees-encouraging-signs-from-a922c89c",
-      "orig_slug": "macys-post-strong-sales-from-the-holiday-quarter-and-sees-encouraging-signs-from-a922c89c"
-    },
-    {
-      "title": "Here’s Why Piper Sandler Increased Crescent Energy’s (CRGY) Price Target To $16",
-      "link": "https://finance.yahoo.com/news/why-piper-sandler-increased-crescent-110328052.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-18T11:03:28Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/ed2cbc18f7ee1cffb2187d2e45782718",
-      "slug": "heres-why-piper-sandler-increased-crescent-energys-crgy-price-target-to-16-48959911",
-      "orig_slug": "heres-why-piper-sandler-increased-crescent-energys-crgy-price-target-to-16-48959911"
-    },
-    {
-      "title": "BMO to add over 145 branches in California and Arizona",
-      "link": "https://finance.yahoo.com/news/bmo-add-over-145-branches-112551139.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-18T11:25:51Z",
-      "image": "https://media.zenfs.com/en/retail_banker_international_407/01a8f2a47492b91ed1dd39bea6153235",
-      "slug": "bmo-to-add-over-145-branches-in-california-and-arizona-6ad6d3b7",
-      "orig_slug": "bmo-to-add-over-145-branches-in-california-and-arizona-6ad6d3b7"
+      "slug": "macys-posts-strong-sales-from-the-holiday-quarter-and-sees-encouraging-signs-fro-a922c89c",
+      "orig_slug": "macys-posts-strong-sales-from-the-holiday-quarter-and-sees-encouraging-signs-fro-a922c89c"
     },
     {
       "title": "HSBC Raises Its Price Target on YPF Sociedad Anonima (YPF) As Analyst Turn Bullish On The Stock",
@@ -74,328 +425,13 @@
       "orig_slug": "a-month-after-energy-transfer-et-earnings-analysts-continue-upward-price-target--46ac7b3e"
     },
     {
-      "title": "Here’s Why Goldman Sachs Just Turned Bullish On Antero Resources (AR)",
-      "link": "https://finance.yahoo.com/news/why-goldman-sachs-just-turned-110323400.html",
+      "title": "Here’s Why Piper Sandler Increased Crescent Energy’s (CRGY) Price Target To $16",
+      "link": "https://finance.yahoo.com/news/why-piper-sandler-increased-crescent-110328052.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-18T11:03:23Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/87dcb5f91856b88c83fc72220e1c38d7",
-      "slug": "heres-why-goldman-sachs-just-turned-bullish-on-antero-resources-ar-43e830b8",
-      "orig_slug": "heres-why-goldman-sachs-just-turned-bullish-on-antero-resources-ar-43e830b8"
-    },
-    {
-      "title": "Here’s What A Change In Ownership Structure Means For TORM Plc (TRMD) Stock",
-      "link": "https://finance.yahoo.com/news/change-ownership-structure-means-torm-110320938.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-18T11:03:20Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/452f21ba80fe148c42ea7593ba7958c4",
-      "slug": "heres-what-a-change-in-ownership-structure-means-for-torm-plc-trmd-stock-edbc7d43",
-      "orig_slug": "heres-what-a-change-in-ownership-structure-means-for-torm-plc-trmd-stock-edbc7d43"
-    },
-    {
-      "title": "Piper Sandler Raises Expand Energy (EXE) Price Target To $138",
-      "link": "https://finance.yahoo.com/news/piper-sandler-raises-expand-energy-110319238.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-18T11:03:19Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/219dbef61a2a4ef72386ef6d297e6e0b",
-      "slug": "piper-sandler-raises-expand-energy-exe-price-target-to-138-5943cf64",
-      "orig_slug": "piper-sandler-raises-expand-energy-exe-price-target-to-138-5943cf64"
-    },
-    {
-      "title": "KeyBanc Just Reiterated Its Hold Rating On Mach Natural Resources (MNR) Stock",
-      "link": "https://finance.yahoo.com/news/keybanc-just-reiterated-hold-rating-110317039.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-18T11:03:17Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/864585eccd6055bc222f7666b3c99efb",
-      "slug": "keybanc-just-reiterated-its-hold-rating-on-mach-natural-resources-mnr-stock-2e13bc4b",
-      "orig_slug": "keybanc-just-reiterated-its-hold-rating-on-mach-natural-resources-mnr-stock-2e13bc4b"
-    },
-    {
-      "title": "Should you hold a gold IRA? Here’s what you need to know — and how to get the most out of this precious metal in 2026",
-      "link": "https://finance.yahoo.com/news/hold-gold-ira-know-most-110000260.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-18T11:00:00Z",
-      "image": "https://s.yimg.com/os/en/moneywise_ecomm_711/78bde78ae65b1fc9f3dce89f11355731",
-      "slug": "should-you-hold-a-gold-ira-heres-what-you-need-to-know-and-how-to-get-the-most-o-805ee336",
-      "orig_slug": "should-you-hold-a-gold-ira-heres-what-you-need-to-know-and-how-to-get-the-most-o-805ee336"
-    },
-    {
-      "title": "Rail outlook up on firmer economic factors: AAR",
-      "link": "https://finance.yahoo.com/news/rail-outlook-firmer-economic-factors-110000097.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-18T11:00:00Z",
-      "image": "https://s.yimg.com/os/en/freightwaves_373/0cb3274b1c580e22040dbb7943d9c552",
-      "slug": "rail-outlook-up-on-firmer-economic-factors-aar-d4b6ae77",
-      "orig_slug": "rail-outlook-up-on-firmer-economic-factors-aar-d4b6ae77"
-    },
-    {
-      "title": "Where Will Ripple (XRP) Be in 10 Years? (Hint: A $1 Trillion Valuation Is Possible If This Happens).",
-      "link": "https://finance.yahoo.com/news/where-ripple-xrp-10-years-112000129.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-18T11:20:00Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/6e3c59d219b8f71c82e1b53bf62c8c38",
-      "slug": "where-will-ripple-xrp-be-in-10-years-hint-a-1-trillion-valuation-is-possible-if--f72b28c3",
-      "orig_slug": "where-will-ripple-xrp-be-in-10-years-hint-a-1-trillion-valuation-is-possible-if--f72b28c3"
-    },
-    {
-      "title": "One in 5 people ignore a valuable tax credit that's potentially worth thousands. How to boost your tax refund in 2026",
-      "link": "https://finance.yahoo.com/news/one-5-people-ignore-valuable-110000189.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-18T11:00:00Z",
-      "image": "https://media.zenfs.com/en/moneywise_327/b0da37e3df9cc3d714e33f2f2ea21946",
-      "slug": "one-in-5-people-ignore-a-valuable-tax-credit-thats-potentially-worth-thousands-h-5af27829",
-      "orig_slug": "one-in-5-people-ignore-a-valuable-tax-credit-thats-potentially-worth-thousands-h-5af27829"
-    },
-    {
-      "title": "Gold price today, Wednesday, March 18: Gold remains steady ahead of Fed press conference",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-march-18-gold-remains-steady-ahead-of-fed-press-conference-110052646.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-16T11:00:52Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/Wtq6ytkBhm315HCB_uzJgg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/wednesday.png",
-      "slug": "gold-price-today-wednesday-march-18-gold-remains-steady-ahead-of-fed-press-confe-267c90b7",
-      "orig_slug": "gold-price-today-wednesday-march-18-gold-remains-steady-ahead-of-fed-press-confe-267c90b7"
-    },
-    {
-      "title": "Leon Cooperman warns markets are 'too expensive' as war raises questions about investing rules and stagflation fears",
-      "link": "https://finance.yahoo.com/news/leon-cooperman-warns-markets-too-105700170.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-18T10:57:00Z",
-      "image": "https://media.zenfs.com/en/moneywise_ecomm_711/8d14686c3e765e0372a2ff6937d9df17",
-      "slug": "leon-cooperman-warns-markets-are-too-expensive-as-war-raises-questions-about-inv-bc9250c7",
-      "orig_slug": "leon-cooperman-warns-markets-are-too-expensive-as-war-raises-questions-about-inv-bc9250c7"
-    },
-    {
-      "title": "Dow Jones Futures Rise, Oil Prices Fall, Nvidia Up On China News; Fed Decision, Micron Earnings Loom",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-rise-fed-decision-micron-earnings/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-18T10:54:39Z",
-      "image": "",
-      "slug": "dow-jones-futures-rise-oil-prices-fall-nvidia-up-on-china-news-fed-decision-micr-512a84ab",
-      "orig_slug": "dow-jones-futures-rise-oil-prices-fall-nvidia-up-on-china-news-fed-decision-micr-512a84ab"
-    },
-    {
-      "title": "20 Years on Wall Street Taught Me: Big Dividend Healthcare Stocks Never Go Out of Style",
-      "link": "https://finance.yahoo.com/news/20-years-wall-street-taught-111959934.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-18T11:19:59Z",
-      "image": "https://media.zenfs.com/en/24_7_wall_st__718/d9a17914962bc1845088084117dd525a",
-      "slug": "20-years-on-wall-street-taught-me-big-dividend-healthcare-stocks-never-go-out-of-eec4d99f",
-      "orig_slug": "20-years-on-wall-street-taught-me-big-dividend-healthcare-stocks-never-go-out-of-eec4d99f"
-    },
-    {
-      "title": "Morning Bid: Fed plot unfolds",
-      "link": "https://finance.yahoo.com/news/morning-bid-fed-plot-unfolds-104900009.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-18T10:49:00Z",
-      "image": "https://s.yimg.com/os/en/reuters.com/05a1f9773663c27272b5cbdab8a254f0",
-      "slug": "morning-bid-fed-plot-unfolds-4d35ce62",
-      "orig_slug": "morning-bid-fed-plot-unfolds-4d35ce62"
-    },
-    {
-      "title": "US drivers face long-term pain at pump, analysts say; Trump bets they are wrong",
-      "link": "https://finance.yahoo.com/news/us-drivers-face-long-term-100301925.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-18T10:27:24Z",
-      "image": "https://s.yimg.com/os/en/reuters.com/662efb20eb30a2473897e91e2cad5e6e",
-      "slug": "us-drivers-face-long-term-pain-at-pump-analysts-say-trump-bets-they-are-wrong-b4e57134",
-      "orig_slug": "us-drivers-face-long-term-pain-at-pump-analysts-say-trump-bets-they-are-wrong-b4e57134"
-    },
-    {
-      "title": "Best money market account rates today, March 18, 2026 (secure up to 4.01% APY)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-wednesday-march-18-2026-100041568.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-18T10:00:41Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/tGbF17E.EE_0O9FmeFcx0A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/d21d1ad0-20a9-11f0-bbbf-20f4269af61e",
-      "slug": "best-money-market-account-rates-today-march-18-2026-secure-up-to-401-apy-5ea510f6",
-      "orig_slug": "best-money-market-account-rates-today-march-18-2026-secure-up-to-401-apy-5ea510f6"
-    },
-    {
-      "title": "Best CD rates today, March 18, 2026 (Earn up to 4.1% APY)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-march-18-2026-100036940.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-18T10:00:36Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/j5EPBCvWMZaPFkgUd3W3lQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47af0d2-4f64-11ef-8ffb-deebdbfd96c8",
-      "slug": "best-cd-rates-today-march-18-2026-earn-up-to-41-apy-bac8a3ca",
-      "orig_slug": "best-cd-rates-today-march-18-2026-earn-up-to-41-apy-bac8a3ca"
-    },
-    {
-      "title": "The ETF Delivering Global Dividends and 15% Gains That Retirees Are Overlooking",
-      "link": "https://finance.yahoo.com/news/etf-delivering-global-dividends-15-111524146.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-18T11:15:24Z",
-      "image": "https://media.zenfs.com/en/24_7_wall_st__718/782a2df4452cc0501dbe643ff7d6c064",
-      "slug": "the-etf-delivering-global-dividends-and-15-gains-that-retirees-are-overlooking-1e25a711",
-      "orig_slug": "the-etf-delivering-global-dividends-and-15-gains-that-retirees-are-overlooking-1e25a711"
-    },
-    {
-      "title": "Best high-yield savings interest rates today, March 18, 2026 (Earn up to 4% APY)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-wednesday-march-18-2026-100018851.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-18T10:00:18Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/8iDigyCbzSotCxTQ.gNS1Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/a41ff6a0-4eb5-11ef-b1fe-05a827b12f92",
-      "slug": "best-high-yield-savings-interest-rates-today-march-18-2026-earn-up-to-4-apy-128487a6",
-      "orig_slug": "best-high-yield-savings-interest-rates-today-march-18-2026-earn-up-to-4-apy-128487a6"
-    },
-    {
-      "title": "Morning Brief: Awaiting the Fed's take on a fraught moment",
-      "link": "https://finance.yahoo.com/news/morning-brief-awaiting-the-feds-take-on-a-fraught-moment-100013832.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-18T10:00:13Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/rN5hAjNMoOg.ympENvlYVA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/00e3b2b0-1e52-11f1-9d3f-f713d6c57bd0",
-      "slug": "morning-brief-awaiting-the-feds-take-on-a-fraught-moment-83711666",
-      "orig_slug": "morning-brief-awaiting-the-feds-take-on-a-fraught-moment-83711666"
-    },
-    {
-      "title": "Mortgage and refinance interest rates today, March 18, 2026: Lower by a little",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-wednesday-march-18-2026-100000705.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-18T10:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/_ONsRuCiWmr69CrYuQPk7g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/58d84be0-fc1f-11ee-bffb-9ac8a2f8fca0",
-      "slug": "mortgage-and-refinance-interest-rates-today-march-18-2026-lower-by-a-little-2f5a54b5",
-      "orig_slug": "mortgage-and-refinance-interest-rates-today-march-18-2026-lower-by-a-little-2f5a54b5"
-    },
-    {
-      "title": "FL woman says 1 payment on estranged husband's Spectrum bill led to $884 headache. How to avoid costly billing errors",
-      "link": "https://finance.yahoo.com/news/fl-woman-says-1-payment-100000850.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-18T10:00:00Z",
-      "image": "https://media.zenfs.com/en/moneywise_327/fecdfab7a9c0aaee162c880266899729",
-      "slug": "fl-woman-says-1-payment-on-estranged-husbands-spectrum-bill-led-to-884-headache--2508c9c3",
-      "orig_slug": "fl-woman-says-1-payment-on-estranged-husbands-spectrum-bill-led-to-884-headache--2508c9c3"
-    },
-    {
-      "title": "Daily – Vickers Top Buyers & Sellers for 03/17/2026",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_46451_TopBottomInsiderActivity_1773747091000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-17T11:31:31Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-vickers-top-buyers-sellers-for-03172026-95a9d000",
-      "orig_slug": "daily-vickers-top-buyers-sellers-for-03172026-95a9d000"
-    },
-    {
-      "title": "Wolfe Research: Nvidia’s $1T Orders Guidance Is a Floor, Not a Ceiling",
-      "link": "https://finance.yahoo.com/news/wolfe-research-nvidia-1t-orders-111125907.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-18T11:11:25Z",
-      "image": "https://media.zenfs.com/en/24_7_wall_st__718/89bebc02b2a221c8404191478869840c",
-      "slug": "wolfe-research-nvidias-1t-orders-guidance-is-a-floor-not-a-ceiling-7181f640",
-      "orig_slug": "wolfe-research-nvidias-1t-orders-guidance-is-a-floor-not-a-ceiling-7181f640"
-    },
-    {
-      "title": "HELOC and home equity loan rates today, March 18, 2026: With the Fed on hold, rates are too",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-wednesday-march-18-2025-100000875.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-18T10:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/1N13V9BzRI7dAUoW_qyesw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/92704b90-40d5-11f0-bbfd-0abdc0412cbb",
-      "slug": "heloc-and-home-equity-loan-rates-today-march-18-2026-with-the-fed-on-hold-rates--451f5041",
-      "orig_slug": "heloc-and-home-equity-loan-rates-today-march-18-2026-with-the-fed-on-hold-rates--451f5041"
-    },
-    {
-      "title": "Fed meeting live updates: Federal Reserve expected to hold rates steady, offer updated outlook amid Iran war",
-      "link": "https://finance.yahoo.com/news/live/fed-meeting-live-updates-federal-reserve-expected-to-hold-rates-steady-offer-updated-outlook-amid-iran-war-125458502.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-17T12:54:58Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/9vuzWe0tFzeXwdVlOszpwg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-02/a910cb85-a92d-4c02-9e27-60a3bae4353e",
-      "slug": "fed-meeting-live-updates-federal-reserve-expected-to-hold-rates-steady-offer-upd-d8f78430",
-      "orig_slug": "fed-meeting-live-updates-federal-reserve-expected-to-hold-rates-steady-offer-upd-d8f78430"
-    },
-    {
-      "title": "Dow Jones Futures: Stock Market Rallies As Oil Prices Tumble; Micron, Nvidia Are Key Movers",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-micron-nvidia/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-17T01:52:51Z",
-      "image": "",
-      "slug": "dow-jones-futures-stock-market-rallies-as-oil-prices-tumble-micron-nvidia-are-ke-5371cc09",
-      "orig_slug": "dow-jones-futures-stock-market-rallies-as-oil-prices-tumble-micron-nvidia-are-ke-5371cc09"
-    },
-    {
-      "title": "Petrobras Moves to Buy Petronas Stake in Campos Basin Offshore Fields",
-      "link": "https://finance.yahoo.com/news/petrobras-moves-buy-petronas-stake-020000671.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-17T02:00:00Z",
-      "image": "https://s.yimg.com/os/en/oilprice.com/48ef4b29b0809276f50cb89f55d2a743",
-      "slug": "petrobras-moves-to-buy-petronas-stake-in-campos-basin-offshore-fields-17df10ff",
-      "orig_slug": "petrobras-moves-to-buy-petronas-stake-in-campos-basin-offshore-fields-17df10ff"
-    },
-    {
-      "title": "Daily – Vickers Top Insider Picks for 03/17/2026",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_46450_InsiderActivity_1773747091000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-17T11:31:31Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-vickers-top-insider-picks-for-03172026-782190f8",
-      "orig_slug": "daily-vickers-top-insider-picks-for-03172026-782190f8"
-    },
-    {
-      "title": "Rubi raises $7.5m in new funding to scale CO2 materials platform",
-      "link": "https://finance.yahoo.com/news/rubi-raises-7-5m-funding-110738177.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-18T11:07:38Z",
-      "image": "https://media.zenfs.com/en/just_style_482/307b361ced032afa271224850463a224",
-      "slug": "rubi-raises-75m-in-new-funding-to-scale-co2-materials-platform-2cdaf2c8",
-      "orig_slug": "rubi-raises-75m-in-new-funding-to-scale-co2-materials-platform-2cdaf2c8"
-    },
-    {
-      "title": "What is a jumbo CD, and how does it work?",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/jumbo-cd-191600563.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2024-05-03T19:16:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/s7iZHUnoAJdQYChLTNVOQA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-images/2020-06/a7e9a6c0-b45c-11ea-bd7f-5ee0b9f2bcb1",
-      "slug": "what-is-a-jumbo-cd-and-how-does-it-work-a6ae19f8",
-      "orig_slug": "what-is-a-jumbo-cd-and-how-does-it-work-a6ae19f8"
-    },
-    {
-      "title": "Best gold IRA companies for 2026: Low fees, trusted names, and expert picks",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/best-gold-ira-companies-211112839.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-16T21:11:12Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/2g.tPBjsnebQe79f3fPF8g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/7b747880-f435-11f0-bb2d-b8546ebf65a0",
-      "slug": "best-gold-ira-companies-for-2026-low-fees-trusted-names-and-expert-picks-921841b0",
-      "orig_slug": "best-gold-ira-companies-for-2026-low-fees-trusted-names-and-expert-picks-921841b0"
-    },
-    {
-      "title": "Multi-year guaranteed annuity (MYGA) vs. CD: Where should you park cash for a guaranteed return?",
-      "link": "https://finance.yahoo.com/personal-finance/banking/comparison/multi-year-guaranteed-annuity-myga-vs-cd-210029359.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-16T21:00:29Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/mtggOYp5VZRNV5XnGj.OpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-03/1f678745-6313-4d13-8259-588c1df5db99",
-      "slug": "multi-year-guaranteed-annuity-myga-vs-cd-where-should-you-park-cash-for-a-guaran-6b5730a9",
-      "orig_slug": "multi-year-guaranteed-annuity-myga-vs-cd-where-should-you-park-cash-for-a-guaran-6b5730a9"
-    },
-    {
-      "title": "Best exotic pet insurance: How it works",
-      "link": "https://finance.yahoo.com/personal-finance/insurance/article/exotic-pet-insurance-171019111.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-07-14T17:10:19Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/QiAL9UUKLmzOb9fSwp_28Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://s.yimg.com/os/creatr-uploaded-images/2025-07/bb212ee0-60d5-11f0-b536-01cca762b49c",
-      "slug": "best-exotic-pet-insurance-how-it-works-5374e03d",
-      "orig_slug": "best-exotic-pet-insurance-how-it-works-5374e03d"
-    },
-    {
-      "title": "Daily Spotlight: Argus Adjusts Sector Ratings",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_46448_MarketOutlook_1773746565000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-17T11:22:45Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-spotlight-argus-adjusts-sector-ratings-3afd7715",
-      "orig_slug": "daily-spotlight-argus-adjusts-sector-ratings-3afd7715"
-    },
-    {
-      "title": "FTSE 100 Live: Stocks open higher as oil price softens, miners and airlines rebound",
-      "link": "https://finance.yahoo.com/news/ftse-100-live-stocks-called-071700937.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-18T11:05:00Z",
-      "image": "https://media.zenfs.com/en/proactive_us_504/9e6040d605e97930ae370f6c4454e8db",
-      "slug": "ftse-100-live-stocks-open-higher-as-oil-price-softens-miners-and-airlines-reboun-1fc29a2d",
-      "orig_slug": "ftse-100-live-stocks-open-higher-as-oil-price-softens-miners-and-airlines-reboun-1fc29a2d"
-    },
-    {
-      "title": "Tax refunds jump 10% to almost $3,700. Best ways to use that extra cash.",
-      "link": "https://finance.yahoo.com/personal-finance/taxes/article/tax-refunds-jump-10-to-almost-3700-best-ways-to-use-that-extra-cash-200949583.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-13T20:09:49Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/mqBrQBvs0luVcMY774UjiQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTc-/https://s.yimg.com/os/creatr-images/2020-04/f4485d90-7f3c-11ea-b65a-d8c4d0d15c6d",
-      "slug": "tax-refunds-jump-10-to-almost-3700-best-ways-to-use-that-extra-cash-be46c913",
-      "orig_slug": "tax-refunds-jump-10-to-almost-3700-best-ways-to-use-that-extra-cash-be46c913"
+      "pubDate": "2026-03-18T11:03:28Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/ed2cbc18f7ee1cffb2187d2e45782718",
+      "slug": "heres-why-piper-sandler-increased-crescent-energys-crgy-price-target-to-16-48959911",
+      "orig_slug": "heres-why-piper-sandler-increased-crescent-energys-crgy-price-target-to-16-48959911"
     }
   ]
 }
