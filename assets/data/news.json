@@ -1,302 +1,419 @@
 {
-  "updated": "2026-03-22T23:19:07Z",
+  "updated": "2026-03-23T01:16:40Z",
   "items": [
     {
-      "title": "Dow Jones Futures, Oil Prices Shrug Off Trump Threatens To 'Obliterate' Iran's Power Plants",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-yields-trump-iran-war-winding-down/?src=A00220&yptr=yahoo",
+      "title": "If You'd Invested $1,000 in Costco Stock 10 Years Ago, Here's How Much You'd Have Today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/youd-invested-1-000-costco-141300942.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T23:06:19Z",
+      "pubDate": "2026-03-21T14:13:00Z",
+      "image": "https://s.yimg.com/os/en/motleyfool.com/3a4f0f9b58eb99f3985020912d9ff7e8",
+      "slug": "if-youd-invested-1000-in-costco-stock-10-years-ago-heres-how-much-youd-have-toda-59148eca",
+      "orig_slug": "if-youd-invested-1000-in-costco-stock-10-years-ago-heres-how-much-youd-have-toda-59148eca"
+    },
+    {
+      "title": "2 Top Defense Stocks to Buy Now as the Military Works to Reopen the Strait of Hormuz",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-top-defense-stocks-buy-140002529.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-21T14:00:02Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/2e36ab936e2d92d591b2e51cc8769cdb",
+      "slug": "2-top-defense-stocks-to-buy-now-as-the-military-works-to-reopen-the-strait-of-ho-1a56f5da",
+      "orig_slug": "2-top-defense-stocks-to-buy-now-as-the-military-works-to-reopen-the-strait-of-ho-1a56f5da"
+    },
+    {
+      "title": "Is Chevron (CVX) The Best Stock to Benefit From Oil Price Surge Amid Iran War?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/chevron-cvx-best-stock-benefit-132440515.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-21T13:24:40Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/98832922609d70975ed47956d4b0af19",
+      "slug": "is-chevron-cvx-the-best-stock-to-benefit-from-oil-price-surge-amid-iran-war-3eb63166",
+      "orig_slug": "is-chevron-cvx-the-best-stock-to-benefit-from-oil-price-surge-amid-iran-war-3eb63166"
+    },
+    {
+      "title": "Is Coca Cola (KO) The Best Forever Dividend Growth Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-ko-best-forever-132148478.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-21T13:21:48Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/ebb694abe184757c9b434d29badfa573",
+      "slug": "is-coca-cola-ko-the-best-forever-dividend-growth-stock-to-buy-now-92ebf3d1",
+      "orig_slug": "is-coca-cola-ko-the-best-forever-dividend-growth-stock-to-buy-now-92ebf3d1"
+    },
+    {
+      "title": "Rising insurance costs push Fannie, Freddie to adjust mortgage rules",
+      "link": "https://finance.yahoo.com/news/rising-insurance-costs-push-fannie-freddie-to-adjust-mortgage-rules-185704504.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-18T18:57:04Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/JDJc7rcPbuCcSErqeE30Rw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/7a960850-22f9-11f1-ae7f-b89de8fba258",
+      "slug": "rising-insurance-costs-push-fannie-freddie-to-adjust-mortgage-rules-dfbd3c00",
+      "orig_slug": "rising-insurance-costs-push-fannie-freddie-to-adjust-mortgage-rules-dfbd3c00"
+    },
+    {
+      "title": "Strategy Now Holds $54 Billion in Bitcoin—These Are Its Biggest Buys",
+      "link": "https://finance.yahoo.com/news/strategy-now-holds-63-billion-202322517.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-21T14:07:52Z",
+      "image": "https://media.zenfs.com/en/decrypt_157/fd8a9d6a80ab0cb36bea4e78fac6a1b2",
+      "slug": "strategy-now-holds-54-billion-in-bitcointhese-are-its-biggest-buys-7cb6b373",
+      "orig_slug": "strategy-now-holds-54-billion-in-bitcointhese-are-its-biggest-buys-7cb6b373"
+    },
+    {
+      "title": "Is CSX Corporation (CSX) One of the Best Railroad Stocks to Buy According to Analysts?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/csx-corporation-csx-one-best-130230463.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-21T13:02:30Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/1ff356112c6c5ee6c2b1bf7321cc230a",
+      "slug": "is-csx-corporation-csx-one-of-the-best-railroad-stocks-to-buy-according-to-analy-3d581eda",
+      "orig_slug": "is-csx-corporation-csx-one-of-the-best-railroad-stocks-to-buy-according-to-analy-3d581eda"
+    },
+    {
+      "title": "The Greenbrier Companies (GBX) Secures $300M Railcar ABS Financing to Grow Leasing Business",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/greenbrier-companies-gbx-secures-300m-130125501.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-21T13:01:25Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/69861fde843bbae4cc14ff39e48fca61",
+      "slug": "the-greenbrier-companies-gbx-secures-300m-railcar-abs-financing-to-grow-leasing--422e6722",
+      "orig_slug": "the-greenbrier-companies-gbx-secures-300m-railcar-abs-financing-to-grow-leasing--422e6722"
+    },
+    {
+      "title": "When it comes to getting a pay raise, you'll probably have to ask for it",
+      "link": "https://finance.yahoo.com/news/when-it-comes-to-getting-a-pay-raise-youll-probably-have-to-ask-for-it-100049022.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-17T10:00:49Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/joEP.XHqxCj1lYFI.o0S7w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/8e732a20-216d-11f1-b3c8-40fec4900fe0",
+      "slug": "when-it-comes-to-getting-a-pay-raise-youll-probably-have-to-ask-for-it-159dd140",
+      "orig_slug": "when-it-comes-to-getting-a-pay-raise-youll-probably-have-to-ask-for-it-159dd140"
+    },
+    {
+      "title": "Ras Laffan Attack Shatters Illusion of Global Gas Abundance",
+      "link": "https://finance.yahoo.com/sectors/energy/articles/ras-laffan-attack-shatters-illusion-150100229.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-21T15:01:00Z",
+      "image": "https://s.yimg.com/os/en/oilprice.com/6365ee2ce1d9228b88887634b2c5bf47",
+      "slug": "ras-laffan-attack-shatters-illusion-of-global-gas-abundance-3d3c1544",
+      "orig_slug": "ras-laffan-attack-shatters-illusion-of-global-gas-abundance-3d3c1544"
+    },
+    {
+      "title": "Here’s How Ondas Can Repeat Last Year’s 281% Gain in 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ondas-repeat-last-281-gain-140726085.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-21T14:07:26Z",
+      "image": "https://media.zenfs.com/en/24_7_wall_st__718/3f3d0a274ee1582d8149862313d8f271",
+      "slug": "heres-how-ondas-can-repeat-last-years-281-gain-in-2026-5c75a84f",
+      "orig_slug": "heres-how-ondas-can-repeat-last-years-281-gain-in-2026-5c75a84f"
+    },
+    {
+      "title": "The fallout from oil's surge is spreading as forecasts for crude keep rising",
+      "link": "https://finance.yahoo.com/news/the-fallout-from-oils-surge-is-spreading-as-forecasts-for-crude-keep-rising-150447796.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-21T15:04:47Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/XIZ0A9JAkXSZsb.PxBhBZQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/00a03630-2496-11f1-afa7-b90a263efc6f",
+      "slug": "the-fallout-from-oils-surge-is-spreading-as-forecasts-for-crude-keep-rising-f065f994",
+      "orig_slug": "the-fallout-from-oils-surge-is-spreading-as-forecasts-for-crude-keep-rising-f065f994"
+    },
+    {
+      "title": "Is Kraft Heinz (KHC) The Best Stock to Buy On The Dip?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kraft-heinz-khc-best-stock-151151571.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-21T15:11:51Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/cb25b91638a7f533621d8ddd60e922f8",
+      "slug": "is-kraft-heinz-khc-the-best-stock-to-buy-on-the-dip-e3e84e9b",
+      "orig_slug": "is-kraft-heinz-khc-the-best-stock-to-buy-on-the-dip-e3e84e9b"
+    },
+    {
+      "title": "Is Occidental Petroleum (OXY) The Best Energy Stock to Buy Now?",
+      "link": "https://finance.yahoo.com/sectors/energy/articles/occidental-petroleum-oxy-best-energy-152150255.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-21T15:21:50Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/e8eefbb9c2c6b172174a54edfe10dc31",
+      "slug": "is-occidental-petroleum-oxy-the-best-energy-stock-to-buy-now-a488845c",
+      "orig_slug": "is-occidental-petroleum-oxy-the-best-energy-stock-to-buy-now-a488845c"
+    },
+    {
+      "title": "Property Brothers Drew and Jonathan Scott on the biggest mistake homebuyers are still making",
+      "link": "https://finance.yahoo.com/news/property-brothers-drew-and-jonathan-scott-on-the-biggest-mistake-homebuyers-are-still-making-180030467.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-17T18:00:30Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/MQ1srNWxg5jBRCaHrgxnmA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/cb0cd400-2211-11f1-af7f-c2e83c147026",
+      "slug": "property-brothers-drew-and-jonathan-scott-on-the-biggest-mistake-homebuyers-are--1a39d168",
+      "orig_slug": "property-brothers-drew-and-jonathan-scott-on-the-biggest-mistake-homebuyers-are--1a39d168"
+    },
+    {
+      "title": "Oportun Financial Highlights 2025 Profit Gains, Details 2026 Credit and Funding Plan at Sidoti Conference",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oportun-financial-highlights-2025-profit-140431823.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-21T14:04:31Z",
+      "image": "https://s.yimg.com/os/en/marketbeat_955/d9ecf3ab644470b19cacdf460a367c47",
+      "slug": "oportun-financial-highlights-2025-profit-gains-details-2026-credit-and-funding-p-f0c6297e",
+      "orig_slug": "oportun-financial-highlights-2025-profit-gains-details-2026-credit-and-funding-p-f0c6297e"
+    },
+    {
+      "title": "Elon Musk Is Still a ‘Huge Admirer’ of Jensen Huang and Plans to Keep Buying Nvidia Chips. Does That Make NVDA Stock a Buy on the Dip?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-still-huge-admirer-160002872.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-21T16:00:02Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/edd29daae0e8a51bd699481d40d3f403",
+      "slug": "elon-musk-is-still-a-huge-admirer-of-jensen-huang-and-plans-to-keep-buying-nvidi-d1ed0682",
+      "orig_slug": "elon-musk-is-still-a-huge-admirer-of-jensen-huang-and-plans-to-keep-buying-nvidi-d1ed0682"
+    },
+    {
+      "title": "Stock Market Week Ahead: The Restructuring Of Global Oil",
+      "link": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-the-restructuring-of-global-oil/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-21T16:02:05Z",
       "image": "",
-      "slug": "dow-jones-futures-oil-prices-shrug-off-trump-threatens-to-obliterate-irans-power-c1ca7d98",
-      "orig_slug": "dow-jones-futures-oil-prices-shrug-off-trump-threatens-to-obliterate-irans-power-c1ca7d98"
+      "slug": "stock-market-week-ahead-the-restructuring-of-global-oil-b4fc031e",
+      "orig_slug": "stock-market-week-ahead-the-restructuring-of-global-oil-b4fc031e"
     },
     {
-      "title": "Varex Imaging Says Demand Steady Despite Geopolitics; Tariff Relief to Lift Margins, India Ramp Ahead",
-      "link": "https://finance.yahoo.com/sectors/healthcare/articles/varex-imaging-says-demand-steady-230206767.html",
+      "title": "Vistra (VST) Up Slightly After Jim Cramer Warned Against Getting Too Greedy",
+      "link": "https://finance.yahoo.com/sectors/energy/articles/vistra-vst-slightly-jim-cramer-163028873.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T23:02:06Z",
-      "image": "https://s.yimg.com/os/en/marketbeat_955/b27dbe06eec769af95d14b37362ab89a",
-      "slug": "varex-imaging-says-demand-steady-despite-geopolitics-tariff-relief-to-lift-margi-362e14f3",
-      "orig_slug": "varex-imaging-says-demand-steady-despite-geopolitics-tariff-relief-to-lift-margi-362e14f3"
+      "pubDate": "2026-03-21T16:30:28Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/cfe6afc282663ca2a3b2660279411aa4",
+      "slug": "vistra-vst-up-slightly-after-jim-cramer-warned-against-getting-too-greedy-b9605f9f",
+      "orig_slug": "vistra-vst-up-slightly-after-jim-cramer-warned-against-getting-too-greedy-b9605f9f"
     },
     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as four week down spiral continues, Trump threatens Iran",
-      "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-fall-as-four-week-down-spiral-continues-trump-threatens-iran-230122831.html",
+      "title": "Nano Nuclear’s (NNE) Shares Down A Year After Jim Cramer Advised Selling the Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nano-nuclear-nne-shares-down-163029009.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T23:01:22Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/5QeLiNClpksktxWxtko6XQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/34d298f0-2642-11f1-bfbc-e5efeb131aaf",
-      "slug": "stock-market-today-dow-sp-500-nasdaq-futures-fall-as-four-week-down-spiral-conti-016a4231",
-      "orig_slug": "stock-market-today-dow-sp-500-nasdaq-futures-fall-as-four-week-down-spiral-conti-016a4231"
+      "pubDate": "2026-03-21T16:30:29Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/fa299f1b6163624ef04d7e20683171da",
+      "slug": "nano-nuclears-nne-shares-down-a-year-after-jim-cramer-advised-selling-the-stock-c9de80e3",
+      "orig_slug": "nano-nuclears-nne-shares-down-a-year-after-jim-cramer-advised-selling-the-stock-c9de80e3"
     },
     {
-      "title": "Peter Thiel is betting big on a $2B AI cow collar startup powered by cowgorithms — and investors are fighting to get in",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/peter-thiel-betting-big-2b-222000722.html",
+      "title": "Kratos vs. Rocket Lab: Which Under-the-Radar Defense Stock Will Make You Richer?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kratos-vs-rocket-lab-under-140500988.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T22:20:00Z",
-      "image": "https://media.zenfs.com/en/moneywise_327/bc7a98785868ed8437a14e3f42de89ad",
-      "slug": "peter-thiel-is-betting-big-on-a-2b-ai-cow-collar-startup-powered-by-cowgorithms--42c03d61",
-      "orig_slug": "peter-thiel-is-betting-big-on-a-2b-ai-cow-collar-startup-powered-by-cowgorithms--42c03d61"
+      "pubDate": "2026-03-21T14:05:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/fa70c6c01e855d333f81e8e76d8c25df",
+      "slug": "kratos-vs-rocket-lab-which-under-the-radar-defense-stock-will-make-you-richer-61a5c089",
+      "orig_slug": "kratos-vs-rocket-lab-which-under-the-radar-defense-stock-will-make-you-richer-61a5c089"
     },
     {
-      "title": "Is Citigroup Inc. (C) One of the Best Forever Stocks to Buy Now?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/citigroup-inc-c-one-best-165325265.html",
+      "title": "Energy Fuels (UUUU) Stock Up Slightly After Jim Cramer Said He Wouldn’t Go Against It",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/energy-fuels-uuuu-stock-slightly-163026176.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T20:09:25Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/019ddb7f64036b28e83c37fd0ff9adfb",
-      "slug": "is-citigroup-inc-c-one-of-the-best-forever-stocks-to-buy-now-36543a2c",
-      "orig_slug": "is-citigroup-inc-c-one-of-the-best-forever-stocks-to-buy-now-36543a2c"
+      "pubDate": "2026-03-21T16:30:26Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/883bc53bf157c1e98869643fa12bcb54",
+      "slug": "energy-fuels-uuuu-stock-up-slightly-after-jim-cramer-said-he-wouldnt-go-against--9c289f03",
+      "orig_slug": "energy-fuels-uuuu-stock-up-slightly-after-jim-cramer-said-he-wouldnt-go-against--9c289f03"
     },
     {
-      "title": "Palantir Technologies Inc. (PLTR) Partners with Keel Holdings on US Navy’s ShipOS initiative",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-inc-pltr-partners-165323662.html",
+      "title": "NexGen Energy’s (NXE) Shares Up After Jim Cramer Said You Can Let It Run",
+      "link": "https://finance.yahoo.com/sectors/energy/articles/nexgen-energy-nxe-shares-jim-163023490.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T20:07:23Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/7d2691eb9795991132d8d2bef548fb51",
-      "slug": "palantir-technologies-inc-pltr-partners-with-keel-holdings-on-us-navys-shipos-in-19a812f7",
-      "orig_slug": "palantir-technologies-inc-pltr-partners-with-keel-holdings-on-us-navys-shipos-in-19a812f7"
+      "pubDate": "2026-03-21T16:30:23Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/972af32675d3a1ae4eb6b898b085c85d",
+      "slug": "nexgen-energys-nxe-shares-up-after-jim-cramer-said-you-can-let-it-run-9b5a4502",
+      "orig_slug": "nexgen-energys-nxe-shares-up-after-jim-cramer-said-you-can-let-it-run-9b5a4502"
     },
     {
-      "title": "History Says Right Now Is the Turning Point for Nvidia's Stock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/history-says-now-turning-point-225300949.html",
+      "title": "Centrus (LEU) Shares Up After Jim Cramer Called It A Horst",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/centrus-leu-shares-jim-cramer-163021897.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T22:53:00Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/762e2a9d71f28e8bb087e9b283ec21a0",
-      "slug": "history-says-right-now-is-the-turning-point-for-nvidias-stock-db6505ef",
-      "orig_slug": "history-says-right-now-is-the-turning-point-for-nvidias-stock-db6505ef"
+      "pubDate": "2026-03-21T16:30:21Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/d15dc635f39de06a1171244e776f9cf9",
+      "slug": "centrus-leu-shares-up-after-jim-cramer-called-it-a-horst-8026305e",
+      "orig_slug": "centrus-leu-shares-up-after-jim-cramer-called-it-a-horst-8026305e"
     },
     {
-      "title": "The Boeing Company (BA) Eyes Strong Recovery as Backlog Surges and Margins Stabilize",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-company-ba-eyes-strong-165322334.html",
+      "title": "Constellation Energy (CEG) Stock Higher After Jim Cramer Warned About Excess Optimism",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-ceg-stock-higher-163024293.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T20:06:22Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/88fc4f44a4ed380e905b391bfb4fe138",
-      "slug": "the-boeing-company-ba-eyes-strong-recovery-as-backlog-surges-and-margins-stabili-0d301029",
-      "orig_slug": "the-boeing-company-ba-eyes-strong-recovery-as-backlog-surges-and-margins-stabili-0d301029"
+      "pubDate": "2026-03-21T16:30:24Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/7014214c35079e96b0b9f341a651b614",
+      "slug": "constellation-energy-ceg-stock-higher-after-jim-cramer-warned-about-excess-optim-f0525d9a",
+      "orig_slug": "constellation-energy-ceg-stock-higher-after-jim-cramer-warned-about-excess-optim-f0525d9a"
     },
     {
-      "title": "Is Lam Research Corporation (LRCX) Eyeing Besi Industries Merger Amid IBM Pact for Logic Scaling",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lam-research-corporation-lrcx-eyeing-165320856.html",
+      "title": "Hedge Fund Sees 31% Gain From Oil-Stock Bet Before Prices Surged",
+      "link": "https://finance.yahoo.com/sectors/energy/articles/hedge-fund-sees-31-gain-140000745.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T20:04:20Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/412ebc9b5d36ab364a74d65fc31a7e54",
-      "slug": "is-lam-research-corporation-lrcx-eyeing-besi-industries-merger-amid-ibm-pact-for-84b6d5ef",
-      "orig_slug": "is-lam-research-corporation-lrcx-eyeing-besi-industries-merger-amid-ibm-pact-for-84b6d5ef"
+      "pubDate": "2026-03-21T14:00:00Z",
+      "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/cc64d4b18ad00d97ac3ff14317216582",
+      "slug": "hedge-fund-sees-31-gain-from-oil-stock-bet-before-prices-surged-a6cc4cc1",
+      "orig_slug": "hedge-fund-sees-31-gain-from-oil-stock-bet-before-prices-surged-a6cc4cc1"
     },
     {
-      "title": "Uber Technologies (UBER) Turns to Autonomous Vehicle Partnerships to Accelerate Growth",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/uber-technologies-inc-uber-turns-165319729.html",
+      "title": "NuScale Power’s (SMR) Shares Down After Jim Cramer Said It’d Be Years Before Anything Meaningful Came Out",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-smr-shares-down-163031170.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T20:04:19Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/3f0b9c492be823120fa61b99bf03060b",
-      "slug": "uber-technologies-uber-turns-to-autonomous-vehicle-partnerships-to-accelerate-gr-6a6ec0f0",
-      "orig_slug": "uber-technologies-uber-turns-to-autonomous-vehicle-partnerships-to-accelerate-gr-6a6ec0f0"
+      "pubDate": "2026-03-21T16:30:31Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/ed3858947a366cd73b927221aa4d1ab6",
+      "slug": "nuscale-powers-smr-shares-down-after-jim-cramer-said-itd-be-years-before-anythin-7d0b36f8",
+      "orig_slug": "nuscale-powers-smr-shares-down-after-jim-cramer-said-itd-be-years-before-anythin-7d0b36f8"
     },
     {
-      "title": "Invested Assets Growth Bolsters UBS Group AG (UBS) Net Profit",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/invested-assets-growth-bolsters-ubs-165317109.html",
+      "title": "Jim Cramer on Intuitive Surgical: “It’s Just Gotten Too Expensive Per Share”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-intuitive-surgical-just-163130795.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T20:03:17Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/5dd0a8a4d90f449a9daa3a06a8366edb",
-      "slug": "invested-assets-growth-bolsters-ubs-group-ag-ubs-net-profit-5fdb63e5",
-      "orig_slug": "invested-assets-growth-bolsters-ubs-group-ag-ubs-net-profit-5fdb63e5"
+      "pubDate": "2026-03-21T16:31:30Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/e7ce02738b547dc513a8196cdef40274",
+      "slug": "jim-cramer-on-intuitive-surgical-its-just-gotten-too-expensive-per-share-4757a15f",
+      "orig_slug": "jim-cramer-on-intuitive-surgical-its-just-gotten-too-expensive-per-share-4757a15f"
     },
     {
-      "title": "The Market's Fear Gauge Just Spiked to 24. History Says This Is What Happens Next for Artificial Intelligence (AI) Stocks.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/markets-fear-gauge-just-spiked-225000270.html",
+      "title": "Jim Cramer Calls Dollar Tree’s Earnings “Solid” But “Somewhat Disappointing Guidance”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-dollar-tree-163129300.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T22:50:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/cafe8921e504361109d53257f656f288",
-      "slug": "the-markets-fear-gauge-just-spiked-to-24-history-says-this-is-what-happens-next--9166ccf9",
-      "orig_slug": "the-markets-fear-gauge-just-spiked-to-24-history-says-this-is-what-happens-next--9166ccf9"
+      "pubDate": "2026-03-21T16:31:29Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/3d514494e70559fab2160c9e252902be",
+      "slug": "jim-cramer-calls-dollar-trees-earnings-solid-but-somewhat-disappointing-guidance-596897eb",
+      "orig_slug": "jim-cramer-calls-dollar-trees-earnings-solid-but-somewhat-disappointing-guidance-596897eb"
     },
     {
-      "title": "Eli Lilly and Company (LLY) Expands Zepbound Access as Pricing Reforms Boost Long-Term Growth Outlook",
-      "link": "https://finance.yahoo.com/sectors/healthcare/articles/eli-lilly-company-lly-expands-165316533.html",
+      "title": "Jim Cramer on Carnival Corporation: “That’s an Inexpensive Stock”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-carnival-corporation-inexpensive-163124164.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T20:00:16Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/4297bceadd7b3662bc208031885247f5",
-      "slug": "eli-lilly-and-company-lly-expands-zepbound-access-as-pricing-reforms-boost-long--20e87db2",
-      "orig_slug": "eli-lilly-and-company-lly-expands-zepbound-access-as-pricing-reforms-boost-long--20e87db2"
+      "pubDate": "2026-03-21T16:31:24Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/36e4ed53d9c383d8a795017c8e45032e",
+      "slug": "jim-cramer-on-carnival-corporation-thats-an-inexpensive-stock-4502955b",
+      "orig_slug": "jim-cramer-on-carnival-corporation-thats-an-inexpensive-stock-4502955b"
     },
     {
-      "title": "Marvell Technology (MRVL) Unveils Advanced Switch for AI Data Center Scale-Up Infrastructure",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/marvell-technology-inc-mrvl-unveils-165314179.html",
+      "title": "Popular crypto exchange slams 225-year-old Wall Street 'dinosaur'",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/popular-crypto-exchange-slams-225-140000040.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T19:59:14Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/c474ce6849973d472e01df44b4c5dcf3",
-      "slug": "marvell-technology-mrvl-unveils-advanced-switch-for-ai-data-center-scale-up-infr-ae11b98f",
-      "orig_slug": "marvell-technology-mrvl-unveils-advanced-switch-for-ai-data-center-scale-up-infr-ae11b98f"
+      "pubDate": "2026-03-21T14:00:00Z",
+      "image": "https://s.yimg.com/os/en/thestreet_881/dbc97809ac74eb3975ef0b93ca965dae",
+      "slug": "popular-crypto-exchange-slams-225-year-old-wall-street-dinosaur-dd82eb9b",
+      "orig_slug": "popular-crypto-exchange-slams-225-year-old-wall-street-dinosaur-dd82eb9b"
     },
     {
-      "title": "Arista Networks (ANET) Targets AI Networking Boom with Expanding Market Opportunity and Strong Growth Outlook",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/arista-networks-anet-targets-ai-165313250.html",
+      "title": "Jim Cramer Highlights Skyworks Solutions’ High Yield But Says “I Don’t Own Tech for Yield”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-skyworks-solutions-163137274.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T19:56:13Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/e53a9a9e3a98188dc00f3c921a0ba425",
-      "slug": "arista-networks-anet-targets-ai-networking-boom-with-expanding-market-opportunit-e8057232",
-      "orig_slug": "arista-networks-anet-targets-ai-networking-boom-with-expanding-market-opportunit-e8057232"
+      "pubDate": "2026-03-21T16:31:37Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/92264ef32b70332cc4ea9283d978e1a6",
+      "slug": "jim-cramer-highlights-skyworks-solutions-high-yield-but-says-i-dont-own-tech-for-8d365f8a",
+      "orig_slug": "jim-cramer-highlights-skyworks-solutions-high-yield-but-says-i-dont-own-tech-for-8d365f8a"
     },
     {
-      "title": "Stagwell Taps AppLovin Corporation (APP) Mobile Advertising Platform",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stagwell-taps-applovin-corporation-app-165311165.html",
+      "title": "Jim Cramer on Reddit: “I Think It’s an Incredibly Valuable Property”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-reddit-think-incredibly-163126732.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T19:55:11Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/d8be3582d002ac839c69e787d29296a0",
-      "slug": "stagwell-taps-applovin-corporation-app-mobile-advertising-platform-a8c0edef",
-      "orig_slug": "stagwell-taps-applovin-corporation-app-mobile-advertising-platform-a8c0edef"
+      "pubDate": "2026-03-21T16:31:26Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/f0af17fbad2cffbf10431e616670da6d",
+      "slug": "jim-cramer-on-reddit-i-think-its-an-incredibly-valuable-property-1a11ecc1",
+      "orig_slug": "jim-cramer-on-reddit-i-think-its-an-incredibly-valuable-property-1a11ecc1"
     },
     {
-      "title": "US Stock Futures Pare Drop as Crude Turns Lower: Markets Wrap",
-      "link": "https://finance.yahoo.com/news/traders-brace-turbulent-open-war-193000196.html",
+      "title": "Jim Cramer on Booking Holdings: “It’s Glenn Fogel, and He’s Going to Snap Right Back Here”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-booking-holdings-glenn-163132739.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T22:35:35Z",
-      "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/1df492a971aed788480b5fd667057f70",
-      "slug": "us-stock-futures-pare-drop-as-crude-turns-lower-markets-wrap-1a75a481",
-      "orig_slug": "us-stock-futures-pare-drop-as-crude-turns-lower-markets-wrap-1a75a481"
+      "pubDate": "2026-03-21T16:31:32Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/04816330227784e99fa139754a436e25",
+      "slug": "jim-cramer-on-booking-holdings-its-glenn-fogel-and-hes-going-to-snap-right-back--120ff8c9",
+      "orig_slug": "jim-cramer-on-booking-holdings-its-glenn-fogel-and-hes-going-to-snap-right-back--120ff8c9"
     },
     {
-      "title": "Advanced Micro Devices Inc. (AMD) Deepens Ties with Samsung on Memory Chip Supplies and Foundry",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/advanced-micro-devices-inc-amd-165310096.html",
+      "title": "Jim Cramer on Johnson & Johnson: “It’s a Textbook Slowdown Stock”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-johnson-johnson-textbook-163122570.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T19:53:10Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/c21fbacb6c2f871b98f480a40a563913",
-      "slug": "advanced-micro-devices-inc-amd-deepens-ties-with-samsung-on-memory-chip-supplies-b8c94c59",
-      "orig_slug": "advanced-micro-devices-inc-amd-deepens-ties-with-samsung-on-memory-chip-supplies-b8c94c59"
+      "pubDate": "2026-03-21T16:31:22Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/753cb9cb32336de8f86289f7a7c7b36e",
+      "slug": "jim-cramer-on-johnson-johnson-its-a-textbook-slowdown-stock-5e126077",
+      "orig_slug": "jim-cramer-on-johnson-johnson-its-a-textbook-slowdown-stock-5e126077"
     },
     {
-      "title": "Broadcom Inc. (AVGO) Positioned for Robust Growth in 200T AI Era",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/broadcom-inc-avgo-positioned-robust-165308236.html",
+      "title": "Morrisons eyes sale of food making arm as Iran inflation threat grows",
+      "link": "https://finance.yahoo.com/economy/policy/articles/morrisons-eyes-sale-food-making-140000572.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T19:53:08Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/c39fbae5690d4b5dbaa666dd79ac741a",
-      "slug": "broadcom-inc-avgo-positioned-for-robust-growth-in-200t-ai-era-8b1386a2",
-      "orig_slug": "broadcom-inc-avgo-positioned-for-robust-growth-in-200t-ai-era-8b1386a2"
+      "pubDate": "2026-03-21T14:00:00Z",
+      "image": "https://media.zenfs.com/en/the_telegraph_258/2d1e5f6dea3db5d664a03ac860b2af9f",
+      "slug": "morrisons-eyes-sale-of-food-making-arm-as-iran-inflation-threat-grows-bc3e6522",
+      "orig_slug": "morrisons-eyes-sale-of-food-making-arm-as-iran-inflation-threat-grows-bc3e6522"
     },
     {
-      "title": "MercadoLibre Inc. (MELI) Positioned for E-commerce Growth Despite Downgrade on Competition Concerns",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mercadolibre-inc-meli-positioned-e-165307096.html",
+      "title": "Jim Cramer on Five Below: “I Think It’s Got More Room to Run”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-five-below-think-163127997.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T19:49:07Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/f2c6dfe850cca4054d06f398ba0d1939",
-      "slug": "mercadolibre-inc-meli-positioned-for-e-commerce-growth-despite-downgrade-on-comp-e7098df3",
-      "orig_slug": "mercadolibre-inc-meli-positioned-for-e-commerce-growth-despite-downgrade-on-comp-e7098df3"
+      "pubDate": "2026-03-21T16:31:27Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/f6497930c7732eef3c7d79847d97e1aa",
+      "slug": "jim-cramer-on-five-below-i-think-its-got-more-room-to-run-b075bfe2",
+      "orig_slug": "jim-cramer-on-five-below-i-think-its-got-more-room-to-run-b075bfe2"
     },
     {
-      "title": "Nvidia Corp (NVDA) Sets Sights on Chinese Customers After H200 License Approval",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-corp-nvda-sets-sights-165211298.html",
+      "title": "Jim Cramer on Stellantis: “I Just Can’t Recommend It”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-stellantis-just-t-163138724.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T19:46:11Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/094ee83d0d34849418ab9a78e4d78acc",
-      "slug": "nvidia-corp-nvda-sets-sights-on-chinese-customers-after-h200-license-approval-25d7a7e1",
-      "orig_slug": "nvidia-corp-nvda-sets-sights-on-chinese-customers-after-h200-license-approval-25d7a7e1"
+      "pubDate": "2026-03-21T16:31:38Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/73acd6e6f2d15e36077ca1762a705103",
+      "slug": "jim-cramer-on-stellantis-i-just-cant-recommend-it-18e3fb01",
+      "orig_slug": "jim-cramer-on-stellantis-i-just-cant-recommend-it-18e3fb01"
     },
     {
-      "title": "What I'm Watching With Western Union To See If They Beat The Market",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/im-watching-western-union-see-223500858.html",
+      "title": "Jim Cramer on Signet Jewelers: “We’ll Be Buying Not as a Special Situation, Which Is What It’s Been, But as a Great Retailer”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-signet-jewelers-ll-163134095.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T22:35:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/1724b9865de9972471a27eeac6ea9a34",
-      "slug": "what-im-watching-with-western-union-to-see-if-they-beat-the-market-d6588a7f",
-      "orig_slug": "what-im-watching-with-western-union-to-see-if-they-beat-the-market-d6588a7f"
+      "pubDate": "2026-03-21T16:31:34Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/d33bdc283f11c51e1edf5a2884041b55",
+      "slug": "jim-cramer-on-signet-jewelers-well-be-buying-not-as-a-special-situation-which-is-177c37b4",
+      "orig_slug": "jim-cramer-on-signet-jewelers-well-be-buying-not-as-a-special-situation-which-is-177c37b4"
     },
     {
-      "title": "'The energy tax': Analysts weigh impact of surging gasoline prices on inflation, consumers",
-      "link": "https://finance.yahoo.com/news/the-energy-tax-analysts-weigh-impact-of-surging-gasoline-prices-on-inflation-consumers-143027350.html",
+      "title": "Jim Cramer on ImmunityBio: “That Stock Is Part of the Magical Thinking Era”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-immunitybio-stock-part-163135319.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T14:30:27Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/MAZciC0OUSH5ZpoA7t.NWA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/14235230-24ac-11f1-bfe7-d71c447997ee",
-      "slug": "the-energy-tax-analysts-weigh-impact-of-surging-gasoline-prices-on-inflation-con-c774b489",
-      "orig_slug": "the-energy-tax-analysts-weigh-impact-of-surging-gasoline-prices-on-inflation-con-c774b489"
+      "pubDate": "2026-03-21T16:31:35Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/293138d34069d99e680c827f55215206",
+      "slug": "jim-cramer-on-immunitybio-that-stock-is-part-of-the-magical-thinking-era-50c25ac2",
+      "orig_slug": "jim-cramer-on-immunitybio-that-stock-is-part-of-the-magical-thinking-era-50c25ac2"
     },
     {
-      "title": "Living in one of these 5 states could put you on a crash course with higher car insurance premiums",
-      "link": "https://finance.yahoo.com/economy/policy/articles/living-one-5-states-could-170000465.html",
+      "title": "Surprise! America Has Chosen Its Favorite Fast-Food Restaurant -- and It's Not Wendy's or Burger King!",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/surprise-america-chosen-favorite-fast-135600393.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T17:00:00Z",
-      "image": "https://s.yimg.com/os/en/moneywise_327/4c9589f4ab75e4625f26e67f0b062210",
-      "slug": "living-in-one-of-these-5-states-could-put-you-on-a-crash-course-with-higher-car--b856a41e",
-      "orig_slug": "living-in-one-of-these-5-states-could-put-you-on-a-crash-course-with-higher-car--b856a41e"
+      "pubDate": "2026-03-21T13:56:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/e73a2f6e9b95c1341faf2fc16cb6a26e",
+      "slug": "surprise-america-has-chosen-its-favorite-fast-food-restaurant----and-its-not-wen-e1e8d4eb",
+      "orig_slug": "surprise-america-has-chosen-its-favorite-fast-food-restaurant----and-its-not-wen-e1e8d4eb"
     },
     {
-      "title": "People don’t know how prices will behave in the near term. Especially right now.",
-      "link": "https://finance.yahoo.com/news/people-dont-know-how-prices-will-behave-in-the-near-term-especially-right-now-165314720.html",
+      "title": "Jim Cramer on GE Vernova: “It’s Just Got the Best Book of Business”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-ge-vernova-just-163140483.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T16:53:14Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/SNxi0hnWLDZCYYrabITi5g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NDM-/https://d29szjachogqwa.cloudfront.net/images/2026-03/b8fb3ac6-a730-4ada-ba40-5c2fc0a487de",
-      "slug": "people-dont-know-how-prices-will-behave-in-the-near-term-especially-right-now-6f061959",
-      "orig_slug": "people-dont-know-how-prices-will-behave-in-the-near-term-especially-right-now-6f061959"
+      "pubDate": "2026-03-21T16:31:40Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/753cb9cb32336de8f86289f7a7c7b36e",
+      "slug": "jim-cramer-on-ge-vernova-its-just-got-the-best-book-of-business-0a242078",
+      "orig_slug": "jim-cramer-on-ge-vernova-its-just-got-the-best-book-of-business-0a242078"
     },
     {
-      "title": "3 weeks of war, possible rate hikes, and AI's 'show me' phase: What to watch this week",
-      "link": "https://finance.yahoo.com/news/3-weeks-of-war-possible-rate-hikes-and-ais-show-me-phase-what-to-watch-this-week-113740150.html",
+      "title": "Jim Cramer Says “We Didn’t Catch Dell for the Charitable Trust”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-didn-t-163141512.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T11:37:40Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/InzarXoD.hb2i.fqmonoUA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/0acb72b0-2305-11f1-bfb1-45e43b5fb2e6",
-      "slug": "3-weeks-of-war-possible-rate-hikes-and-ais-show-me-phase-what-to-watch-this-week-af4563c9",
-      "orig_slug": "3-weeks-of-war-possible-rate-hikes-and-ais-show-me-phase-what-to-watch-this-week-af4563c9"
+      "pubDate": "2026-03-21T16:31:41Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/896fe714ab4458a81e2b3feb719665ee",
+      "slug": "jim-cramer-says-we-didnt-catch-dell-for-the-charitable-trust-7e96a996",
+      "orig_slug": "jim-cramer-says-we-didnt-catch-dell-for-the-charitable-trust-7e96a996"
     },
     {
-      "title": "Mortgage Rates Hit Three-Month High as Iran War Rattles Spring Housing Market",
-      "link": "https://finance.yahoo.com/economy/policy/articles/mortgage-rates-hit-three-month-223108772.html",
+      "title": "Nadella paid $650M to recruit his AI chief. After 2 years he's quietly pushing him aside — these brutal numbers are why",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nadella-paid-650m-recruit-ai-170000361.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T22:31:08Z",
-      "image": "https://s.yimg.com/os/en/benzinga_79/6be018fd838553bd67d6fd5c8804252f",
-      "slug": "mortgage-rates-hit-three-month-high-as-iran-war-rattles-spring-housing-market-cbf1b5d2",
-      "orig_slug": "mortgage-rates-hit-three-month-high-as-iran-war-rattles-spring-housing-market-cbf1b5d2"
+      "pubDate": "2026-03-21T17:00:00Z",
+      "image": "https://media.zenfs.com/en/moneywise_327/df1baff28586a9bf905d7ec84fba806b",
+      "slug": "nadella-paid-650m-to-recruit-his-ai-chief-after-2-years-hes-quietly-pushing-him--173a9a4b",
+      "orig_slug": "nadella-paid-650m-to-recruit-his-ai-chief-after-2-years-hes-quietly-pushing-him--173a9a4b"
     },
     {
-      "title": "HELOC and home equity loan rates Sunday, March 22, 2026: Steady following second Fed rate pause",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-sunday-march-22-2026-100000460.html",
+      "title": "Pentagon Taps Palantir Maven Battlefield System For Wider Military Use",
+      "link": "https://www.investors.com/news/technology/palantir-stock-pltr-pentagon-letter-maven-battlefield-system/?src=A00220&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T10:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/DVKxTTZK1v_brFRCxJvfrg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/9858bdf0-3ff7-11f0-8dbd-c3dbfc02bc47",
-      "slug": "heloc-and-home-equity-loan-rates-sunday-march-22-2026-steady-following-second-fe-f7b78df6",
-      "orig_slug": "heloc-and-home-equity-loan-rates-sunday-march-22-2026-steady-following-second-fe-f7b78df6"
-    },
-    {
-      "title": "Mortgage and refinance interest rates today, March 22, 2026: Highest since September",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-sunday-march-22-2026-100000411.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T10:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/I199q7waIrtuQGBJaPIm2w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/6f016ae0-03e6-11ef-97ff-13785de87be3",
-      "slug": "mortgage-and-refinance-interest-rates-today-march-22-2026-highest-since-septembe-b4734c92",
-      "orig_slug": "mortgage-and-refinance-interest-rates-today-march-22-2026-highest-since-septembe-b4734c92"
-    },
-    {
-      "title": "Best money market account rates today, March 22, 2026 (best account provides 4.01% APY)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-sunday-march-22-2026-100032306.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T10:00:32Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/koR_lnQjXxki7oireLjoxQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/6e3d4f60-1cdc-11f0-b66f-8aec820566bc",
-      "slug": "best-money-market-account-rates-today-march-22-2026-best-account-provides-401-ap-ac72d0bb",
-      "orig_slug": "best-money-market-account-rates-today-march-22-2026-best-account-provides-401-ap-ac72d0bb"
-    },
-    {
-      "title": "Best high-yield savings interest rates today, March 22, 2026 (Earn up to 4% APY)",
-      "link": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-sunday-march-22-2026-100031246.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T10:00:31Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/j3pIPh4Ou1ooyGj5oigsTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/a04144a0-4b7a-11ef-bffd-2479280852e3",
-      "slug": "best-high-yield-savings-interest-rates-today-march-22-2026-earn-up-to-4-apy-268d8a35",
-      "orig_slug": "best-high-yield-savings-interest-rates-today-march-22-2026-earn-up-to-4-apy-268d8a35"
-    },
-    {
-      "title": "Stock Futures Are Falling, Oil Rising as Iran Tensions Grow",
-      "link": "https://www.barrons.com/articles/stock-futures-oil-gold-trading-920fd0a4?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T22:15:00Z",
+      "pubDate": "2026-03-21T17:06:21Z",
       "image": "",
-      "slug": "stock-futures-are-falling-oil-rising-as-iran-tensions-grow-76629a68",
-      "orig_slug": "stock-futures-are-falling-oil-rising-as-iran-tensions-grow-76629a68"
+      "slug": "pentagon-taps-palantir-maven-battlefield-system-for-wider-military-use-e4fd14cb",
+      "orig_slug": "pentagon-taps-palantir-maven-battlefield-system-for-wider-military-use-e4fd14cb"
     },
     {
-      "title": "Best CD rates today, March 22, 2026 (lock in up to 4.15% APY)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-march-22-2026-100056389.html",
+      "title": "Deutsche Bank’s $30 Billion Private Credit Bet Has Shares Down 26% This Year",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-30-billion-private-142841517.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T10:00:56Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/9xZhsl9JDBre6CMmLno6Gg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47b17e0-4f64-11ef-afb3-0ed5867646a0",
-      "slug": "best-cd-rates-today-march-22-2026-lock-in-up-to-415-apy-0371d1ab",
-      "orig_slug": "best-cd-rates-today-march-22-2026-lock-in-up-to-415-apy-0371d1ab"
+      "pubDate": "2026-03-21T14:28:41Z",
+      "image": "https://media.zenfs.com/en/24_7_wall_st__718/af6f2383187e6be190c118fa30d761c8",
+      "slug": "deutsche-banks-30-billion-private-credit-bet-has-shares-down-26-this-year-65ae852f",
+      "orig_slug": "deutsche-banks-30-billion-private-credit-bet-has-shares-down-26-this-year-65ae852f"
     },
     {
       "title": "Best CD rates today, March 21, 2026 (best account provides 4.15% APY)",
@@ -326,24 +443,6 @@
       "orig_slug": "best-money-market-account-rates-today-march-21-2026-best-account-provides-401-ap-d31e162d"
     },
     {
-      "title": "Stock Market Crash: The Best Cryptocurrencies to Buy Right Now",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/stock-market-crash-best-cryptocurrencies-220900138.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T22:09:00Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/bcf21e3725ec1b6171cd9cc72fe9d193",
-      "slug": "stock-market-crash-the-best-cryptocurrencies-to-buy-right-now-b2571873",
-      "orig_slug": "stock-market-crash-the-best-cryptocurrencies-to-buy-right-now-b2571873"
-    },
-    {
-      "title": "Mortgage and refinance interest rates today, March 21, 2026: Jumping to a six-month high",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-saturday-march-21-2026-100000860.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-21T10:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/fK9okicBoD2VGZ7E4.6v7w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/86ef4c20-03dd-11ef-b7af-5ddf7b57fe6e",
-      "slug": "mortgage-and-refinance-interest-rates-today-march-21-2026-jumping-to-a-six-month-dce0704c",
-      "orig_slug": "mortgage-and-refinance-interest-rates-today-march-21-2026-jumping-to-a-six-month-dce0704c"
-    },
-    {
       "title": "HELOC and home equity loan rates Saturday, March 21, 2026: The second mortgage equity solution",
       "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-saturday-march-21-2026-100000265.html",
       "source": "finance.yahoo.com",
@@ -351,105 +450,6 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/DEYBT6nBXCugfeps8WOPog--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/dc14d470-3ff7-11f0-8ff7-510b29e3a941",
       "slug": "heloc-and-home-equity-loan-rates-saturday-march-21-2026-the-second-mortgage-equi-16e08196",
       "orig_slug": "heloc-and-home-equity-loan-rates-saturday-march-21-2026-the-second-mortgage-equi-16e08196"
-    },
-    {
-      "title": "Activist Elliott Builds Big Stake in Chip-Design Software Maker Synopsys",
-      "link": "https://www.wsj.com/business/deals/activist-elliott-builds-big-stake-in-chip-design-software-maker-synopsys-4bf88127?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T22:06:00Z",
-      "image": "",
-      "slug": "activist-elliott-builds-big-stake-in-chip-design-software-maker-synopsys-061dfe8f",
-      "orig_slug": "activist-elliott-builds-big-stake-in-chip-design-software-maker-synopsys-061dfe8f"
-    },
-    {
-      "title": "How Many Fed Rate Cuts Can We Now Expect in 2026?",
-      "link": "https://finance.yahoo.com/economy/policy/articles/many-fed-rate-cuts-now-220500797.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T22:05:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/5a933105318803513a6e0d905c90462d",
-      "slug": "how-many-fed-rate-cuts-can-we-now-expect-in-2026-5a832b05",
-      "orig_slug": "how-many-fed-rate-cuts-can-we-now-expect-in-2026-5a832b05"
-    },
-    {
-      "title": "3M Goes Big On Fire Safety With $1.95 Billion Deal",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3m-goes-big-fire-safety-220221975.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T22:02:21Z",
-      "image": "https://s.yimg.com/os/en/Benzinga/6df4dc793dcb654bc65243b1e865a1bc",
-      "slug": "3m-goes-big-on-fire-safety-with-195-billion-deal-1e539881",
-      "orig_slug": "3m-goes-big-on-fire-safety-with-195-billion-deal-1e539881"
-    },
-    {
-      "title": "Varex Imaging Conference: CFO Highlights Tariff Pass-Through, India Factories, Cargo Systems & Photon Counting",
-      "link": "https://finance.yahoo.com/economy/policy/articles/varex-imaging-conference-cfo-highlights-220156990.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T22:01:56Z",
-      "image": "https://s.yimg.com/os/en/marketbeat_955/b27dbe06eec769af95d14b37362ab89a",
-      "slug": "varex-imaging-conference-cfo-highlights-tariff-pass-through-india-factories-carg-d20a6b5a",
-      "orig_slug": "varex-imaging-conference-cfo-highlights-tariff-pass-through-india-factories-carg-d20a6b5a"
-    },
-    {
-      "title": "Elon Musk's Terafab bet: what it means for Tesla investors",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-terafab-bet-means-220145218.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T22:01:45Z",
-      "image": "https://s.yimg.com/os/en/thestreet_881/1faa654a1aea7b79677a69c4fec5140b",
-      "slug": "elon-musks-terafab-bet-what-it-means-for-tesla-investors-05d30fad",
-      "orig_slug": "elon-musks-terafab-bet-what-it-means-for-tesla-investors-05d30fad"
-    },
-    {
-      "title": "Alibaba Headcount Falls After Sun Art Exit In 2025 (UPDATED)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/alibaba-headcount-falls-sun-art-215200388.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T21:52:00Z",
-      "image": "https://s.yimg.com/os/en/Benzinga/9adbdcb41ea0e261b4116204d238c504",
-      "slug": "alibaba-headcount-falls-after-sun-art-exit-in-2025-updated-350f8a8e",
-      "orig_slug": "alibaba-headcount-falls-after-sun-art-exit-in-2025-updated-350f8a8e"
-    },
-    {
-      "title": "Oil Is Above $100 a Barrel for the First Time Since 2022. Here's Why Artificial Intelligence (AI) Investors Should Care.",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/oil-above-100-barrel-first-213500928.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T21:35:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/5cff9560d1e84c2888eb10b5f4a58c9a",
-      "slug": "oil-is-above-100-a-barrel-for-the-first-time-since-2022-heres-why-artificial-int-13efaa06",
-      "orig_slug": "oil-is-above-100-a-barrel-for-the-first-time-since-2022-heres-why-artificial-int-13efaa06"
-    },
-    {
-      "title": "Taiwan Semiconductor Controls 72% of the Global Chip Market, and the Stock Could Surge in 2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-controls-72-global-212500987.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T21:25:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/471b60d8342b3eb8d1504e307632fdcb",
-      "slug": "taiwan-semiconductor-controls-72-of-the-global-chip-market-and-the-stock-could-s-830447aa",
-      "orig_slug": "taiwan-semiconductor-controls-72-of-the-global-chip-market-and-the-stock-could-s-830447aa"
-    },
-    {
-      "title": "Beyond Meat (BYND) Q4 Earnings on Deck: Options Market Prices in a Massive 32% Earnings Explosion",
-      "link": "https://finance.yahoo.com/markets/options/articles/beyond-meat-bynd-q4-earnings-211500678.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T21:15:00Z",
-      "image": "https://s.yimg.com/os/en/tipranks_452/342ee5cd8bd7fdd15597233fe16938a0",
-      "slug": "beyond-meat-bynd-q4-earnings-on-deck-options-market-prices-in-a-massive-32-earni-fb675801",
-      "orig_slug": "beyond-meat-bynd-q4-earnings-on-deck-options-market-prices-in-a-massive-32-earni-fb675801"
-    },
-    {
-      "title": "Viemed Healthcare Highlights Growth, Diversification and 2026 Guidance at Investor Conference",
-      "link": "https://finance.yahoo.com/sectors/healthcare/articles/viemed-healthcare-highlights-growth-diversification-210252334.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T21:02:52Z",
-      "image": "https://s.yimg.com/os/en/marketbeat_955/c1bd1330f2b70565808780b2238a53c7",
-      "slug": "viemed-healthcare-highlights-growth-diversification-and-2026-guidance-at-investo-c1bb78ee",
-      "orig_slug": "viemed-healthcare-highlights-growth-diversification-and-2026-guidance-at-investo-c1bb78ee"
-    },
-    {
-      "title": "Why I'm Buying ServiceNow Stock While Everyone Else Is Panicking About AI Disruption",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-im-buying-servicenow-stock-205000586.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T20:50:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/39b33f95801be0c987ce92f32f6abe60",
-      "slug": "why-im-buying-servicenow-stock-while-everyone-else-is-panicking-about-ai-disrupt-13ccdc47",
-      "orig_slug": "why-im-buying-servicenow-stock-while-everyone-else-is-panicking-about-ai-disrupt-13ccdc47"
     }
   ]
 }
