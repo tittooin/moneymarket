@@ -1,347 +1,32 @@
 {
-  "updated": "2026-03-24T19:48:05Z",
+  "updated": "2026-03-24T20:33:05Z",
   "items": [
     {
-      "title": "How to Win the Loser’s Game",
-      "link": "https://www.wsj.com/finance/stocks/how-to-win-the-losers-game-2af1b4ce?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-23T10:27:00Z",
-      "image": "",
-      "slug": "how-to-win-the-losers-game-107788a2",
-      "orig_slug": "how-to-win-the-losers-game-107788a2"
-    },
-    {
-      "title": "Stock Index Futures Rally as Oil Prices Tumble on U.S.-Iran Talks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-index-futures-rally-oil-103146953.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-23T10:31:46Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/754d1add9645fb46c7ad31fc4fa63ccc",
-      "slug": "stock-index-futures-rally-as-oil-prices-tumble-on-us-iran-talks-c2a017c1",
-      "orig_slug": "stock-index-futures-rally-as-oil-prices-tumble-on-us-iran-talks-c2a017c1"
-    },
-    {
-      "title": "Morning Bid: Ticking time bomb",
-      "link": "https://finance.yahoo.com/markets/articles/morning-bid-ticking-time-bomb-104105514.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-23T10:41:05Z",
-      "image": "https://s.yimg.com/os/en/reuters.ca/ddbedc5a89ba1a379ebdae1e5697b1d7",
-      "slug": "morning-bid-ticking-time-bomb-3ea7dc36",
-      "orig_slug": "morning-bid-ticking-time-bomb-3ea7dc36"
-    },
-    {
-      "title": "3 weeks of war, possible rate hikes, and AI's 'show me' phase: What to watch this week",
-      "link": "https://finance.yahoo.com/news/3-weeks-of-war-possible-rate-hikes-and-ais-show-me-phase-what-to-watch-this-week-113740150.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-22T11:37:40Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/InzarXoD.hb2i.fqmonoUA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/0acb72b0-2305-11f1-bfb1-45e43b5fb2e6",
-      "slug": "3-weeks-of-war-possible-rate-hikes-and-ais-show-me-phase-what-to-watch-this-week-af4563c9",
-      "orig_slug": "3-weeks-of-war-possible-rate-hikes-and-ais-show-me-phase-what-to-watch-this-week-af4563c9"
-    },
-    {
-      "title": "A High-Probability Iron Condor Trade on Apple Stock with 22% Return Potential",
-      "link": "https://finance.yahoo.com/markets/options/articles/high-probability-iron-condor-trade-110002246.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-23T11:00:02Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/ec47b3204c99e0fe27ccaa128b7ff165",
-      "slug": "a-high-probability-iron-condor-trade-on-apple-stock-with-22-return-potential-59773e8f",
-      "orig_slug": "a-high-probability-iron-condor-trade-on-apple-stock-with-22-return-potential-59773e8f"
-    },
-    {
-      "title": "Daily Spotlight: War Roils Oil Price Outlook",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_46523_MarketOutlook_1774352547000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-24T11:42:27Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-spotlight-war-roils-oil-price-outlook-d424d04f",
-      "orig_slug": "daily-spotlight-war-roils-oil-price-outlook-d424d04f"
-    },
-    {
-      "title": "MicroStrategy’s $22 Billion Plan to Accumulate 1 Million Bitcoin",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/microstrategy-22-billion-plan-accumulate-102836137.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-23T10:28:36Z",
-      "image": "https://s.yimg.com/os/en/cryptonews_us_711/bc7544c62f49db3697949df54a6e7a8f",
-      "slug": "microstrategys-22-billion-plan-to-accumulate-1-million-bitcoin-97ebcc42",
-      "orig_slug": "microstrategys-22-billion-plan-to-accumulate-1-million-bitcoin-97ebcc42"
-    },
-    {
-      "title": "These 3 mundane habits can quietly trigger the retirement of your dreams — start doing them today",
-      "link": "https://finance.yahoo.com/markets/articles/3-mundane-habits-quietly-trigger-110000570.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-23T11:00:00Z",
-      "image": "https://media.zenfs.com/en/moneywise_327/4bec6997a937d3319710d6e46b372e2b",
-      "slug": "these-3-mundane-habits-can-quietly-trigger-the-retirement-of-your-dreams-start-d-149c4410",
-      "orig_slug": "these-3-mundane-habits-can-quietly-trigger-the-retirement-of-your-dreams-start-d-149c4410"
-    },
-    {
-      "title": "Broad-Based Growth Drivers Lifted ATI (ATI) in Q4",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/broad-based-growth-drivers-lifted-110107803.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-23T11:01:07Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/d27785678c6193e61d9d09114d548813",
-      "slug": "broad-based-growth-drivers-lifted-ati-ati-in-q4-21f67f14",
-      "orig_slug": "broad-based-growth-drivers-lifted-ati-ati-in-q4-21f67f14"
-    },
-    {
-      "title": "A Large Cybersecurity Breach Hurt Coupang (CPNG) in Q4",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/large-cybersecurity-breach-hurt-coupang-110252076.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-23T11:02:52Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/10a74368f8ee05d065aef48fa9cb8683",
-      "slug": "a-large-cybersecurity-breach-hurt-coupang-cpng-in-q4-9dd0a266",
-      "orig_slug": "a-large-cybersecurity-breach-hurt-coupang-cpng-in-q4-9dd0a266"
-    },
-    {
-      "title": "United Rentals (URI) Slid on Weaker Construction Markets",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/united-rentals-slid-weaker-construction-110441132.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-23T11:04:41Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/a931f3a979187e89783ab93589536755",
-      "slug": "united-rentals-uri-slid-on-weaker-construction-markets-19b68ca8",
-      "orig_slug": "united-rentals-uri-slid-on-weaker-construction-markets-19b68ca8"
-    },
-    {
-      "title": "Analyst Report: Bath & Body Works Inc",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_3158_AnalystReport_1774350993000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-24T11:16:33Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "analyst-report-bath-body-works-inc-17e7d38a",
-      "orig_slug": "analyst-report-bath-body-works-inc-17e7d38a"
-    },
-    {
-      "title": "Balavant launches Sentric Specialty programme manager for niche risks",
-      "link": "https://finance.yahoo.com/sectors/healthcare/articles/balavant-launches-sentric-specialty-programme-103016120.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-23T10:30:16Z",
-      "image": "https://media.zenfs.com/en/life_insurance_international_186/c2de2e3046f45b3d897af562beda8fa1",
-      "slug": "balavant-launches-sentric-specialty-programme-manager-for-niche-risks-bd1534d0",
-      "orig_slug": "balavant-launches-sentric-specialty-programme-manager-for-niche-risks-bd1534d0"
-    },
-    {
-      "title": "The Mosaic Company (MOS) Traded Down Due to Softer Fertilizer Demand",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mosaic-company-mos-traded-down-110623097.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-23T11:06:23Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/adc6f89426dbb0481ab73b1026499dbf",
-      "slug": "the-mosaic-company-mos-traded-down-due-to-softer-fertilizer-demand-e2768276",
-      "orig_slug": "the-mosaic-company-mos-traded-down-due-to-softer-fertilizer-demand-e2768276"
-    },
-    {
-      "title": "Elevated Financing Concerns Hurt CoreWeave (CRWV) in Q4",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/elevated-financing-concerns-hurt-coreweave-110912423.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-23T11:09:12Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/1e6679133c22399d436d54da87ceaa50",
-      "slug": "elevated-financing-concerns-hurt-coreweave-crwv-in-q4-2423d90b",
-      "orig_slug": "elevated-financing-concerns-hurt-coreweave-crwv-in-q4-2423d90b"
-    },
-    {
       "title": "Dollar scarcity in Venezuela forces small firms to raise prices, turn to crypto",
-      "link": "https://finance.yahoo.com/economy/policy/articles/dollar-scarcity-venezuela-forces-small-111044956.html",
+      "link": "https://finance.yahoo.com/news/dollar-scarcity-venezuela-forces-small-111044988.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-23T11:10:44Z",
-      "image": "https://s.yimg.com/os/en/reuters-finance.com/5879e8ae177909eab586d4961b8bd184",
-      "slug": "dollar-scarcity-in-venezuela-forces-small-firms-to-raise-prices-turn-to-crypto-d9a04d08",
-      "orig_slug": "dollar-scarcity-in-venezuela-forces-small-firms-to-raise-prices-turn-to-crypto-d9a04d08"
+      "pubDate": "2026-03-23T11:35:42Z",
+      "image": "https://s.yimg.com/os/en/reuters.com/cde276fad96fb71655486e69175aa599",
+      "slug": "dollar-scarcity-in-venezuela-forces-small-firms-to-raise-prices-turn-to-crypto-fdcf566a",
+      "orig_slug": "dollar-scarcity-in-venezuela-forces-small-firms-to-raise-prices-turn-to-crypto-fdcf566a"
     },
     {
-      "title": "Do You Believe in the Growth Prospects of Encompass Health (EHC)?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/believe-growth-prospects-encompass-health-111106383.html",
+      "title": "Monolithic Power (MPWR) Gained as Its Blackwell Platform Fared Stronger",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/monolithic-power-mpwr-gained-blackwell-114858707.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-23T11:11:06Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/83bce35854c52181b01ce671647f14e1",
-      "slug": "do-you-believe-in-the-growth-prospects-of-encompass-health-ehc-445f0169",
-      "orig_slug": "do-you-believe-in-the-growth-prospects-of-encompass-health-ehc-445f0169"
+      "pubDate": "2026-03-23T11:48:58Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/c7de04bf4bec00fccf9a26e9c116c71e",
+      "slug": "monolithic-power-mpwr-gained-as-its-blackwell-platform-fared-stronger-6623d9f9",
+      "orig_slug": "monolithic-power-mpwr-gained-as-its-blackwell-platform-fared-stronger-6623d9f9"
     },
     {
-      "title": "Market Digest: BBWI, ES",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_46520_MarketSummary_1774350093000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "title": "Victory Capital Rejects Reports of Client Pushback in Bid for Janus Henderson",
+      "link": "https://www.wsj.com/business/victory-capital-rejects-reports-of-client-pushback-in-bid-for-janus-henderson-58513312?siteid=yhoof2&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-24T11:01:33Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "market-digest-bbwi-es-56b5d980",
-      "orig_slug": "market-digest-bbwi-es-56b5d980"
-    },
-    {
-      "title": "How Trump Accidentally Killed the Resurrected Chevy Bolt Before It Even Got Rolling",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/trump-accidentally-killed-resurrected-chevy-103500125.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-23T10:35:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/8abfc9f99b3a55568eea8ed07171919f",
-      "slug": "how-trump-accidentally-killed-the-resurrected-chevy-bolt-before-it-even-got-roll-70055a2b",
-      "orig_slug": "how-trump-accidentally-killed-the-resurrected-chevy-bolt-before-it-even-got-roll-70055a2b"
-    },
-    {
-      "title": "Best high-yield savings interest rates today, March 23, 2026 (Earn up to 4% APY)",
-      "link": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-monday-march-23-2026-100043794.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-23T10:00:43Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/1RCI97U8KV1L2ZurZW7kOA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/0a4cca40-4b7b-11ef-abf9-2f9f6d2c2f16",
-      "slug": "best-high-yield-savings-interest-rates-today-march-23-2026-earn-up-to-4-apy-26cfedcb",
-      "orig_slug": "best-high-yield-savings-interest-rates-today-march-23-2026-earn-up-to-4-apy-26cfedcb"
-    },
-    {
-      "title": "Exclusive-OpenAI sweetens private equity pitch amid enterprise turf war with Anthropic, sources say",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/exclusive-openai-sweetens-private-equity-100049163.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-23T10:00:49Z",
-      "image": "https://s.yimg.com/os/en/reuters-finance.com/b9cdc1eafff603eec2b5d3941ac9f01b",
-      "slug": "exclusive-openai-sweetens-private-equity-pitch-amid-enterprise-turf-war-with-ant-170a6b67",
-      "orig_slug": "exclusive-openai-sweetens-private-equity-pitch-amid-enterprise-turf-war-with-ant-170a6b67"
-    },
-    {
-      "title": "Best CD rates today, March 23, 2026 (Lock in up to 4.15% APY)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-march-23-2026-100028338.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-23T10:00:28Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/YNb1M9UxogCoxhCtpOUusg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47b17e1-4f64-11ef-bcf5-d7c22925c744",
-      "slug": "best-cd-rates-today-march-23-2026-lock-in-up-to-415-apy-98328cd9",
-      "orig_slug": "best-cd-rates-today-march-23-2026-lock-in-up-to-415-apy-98328cd9"
-    },
-    {
-      "title": "HELOC and home equity loan rates Monday, March 23, 2026: Do you want a fixed or adjustable-rate?",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-monday-march-23-2026-100000632.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-23T10:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/_479AhxR01yKrenM2IfZSg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/006c3000-3feb-11f0-b84f-0d1aa528bfe7",
-      "slug": "heloc-and-home-equity-loan-rates-monday-march-23-2026-do-you-want-a-fixed-or-adj-5b9a5961",
-      "orig_slug": "heloc-and-home-equity-loan-rates-monday-march-23-2026-do-you-want-a-fixed-or-adj-5b9a5961"
-    },
-    {
-      "title": "Daily – Vickers Top Insider Picks for 03/24/2026",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_46518_InsiderActivity_1774347431000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-24T10:17:11Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-vickers-top-insider-picks-for-03242026-ee6c3b57",
-      "orig_slug": "daily-vickers-top-insider-picks-for-03242026-ee6c3b57"
-    },
-    {
-      "title": "Wall Street Fear Index Spikes on Iran War Fears",
-      "link": "https://www.barrons.com/livecoverage/stock-market-news-today-032326/card/wall-street-fear-index-spikes-on-iran-war-fears-0u5ePfWohZlBHh8TKD8V?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-23T10:35:01Z",
+      "pubDate": "2026-03-23T11:46:00Z",
       "image": "",
-      "slug": "wall-street-fear-index-spikes-on-iran-war-fears-ed838bee",
-      "orig_slug": "wall-street-fear-index-spikes-on-iran-war-fears-ed838bee"
-    },
-    {
-      "title": "C.H. Robinson Stock: Is CHRW Outperforming the Industrial Sector?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/c-h-robinson-stock-chrw-111721631.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-23T11:17:21Z",
-      "image": "https://s.yimg.com/os/en/barchart_com_477/8d3667e942405ca8699e5742445de2aa",
-      "slug": "ch-robinson-stock-is-chrw-outperforming-the-industrial-sector-c13a82e0",
-      "orig_slug": "ch-robinson-stock-is-chrw-outperforming-the-industrial-sector-c13a82e0"
-    },
-    {
-      "title": "Best money market account rates today, March 23, 2026 (Earn up to 4.01% APY)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-monday-march-23-2026-100013520.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-23T10:00:13Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/5ht5auNXT0hvD._VUvpMQg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/16611790-1cdc-11f0-b7df-12959cc17bf8",
-      "slug": "best-money-market-account-rates-today-march-23-2026-earn-up-to-401-apy-b37dd543",
-      "orig_slug": "best-money-market-account-rates-today-march-23-2026-earn-up-to-401-apy-b37dd543"
-    },
-    {
-      "title": "Ciena Corporation (CIEN) Surged on Strong Demand from Cloud Providers",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ciena-corporation-cien-surged-strong-111855094.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-23T11:18:55Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/aa67aab8f5f51a6a23b453dff7157e00",
-      "slug": "ciena-corporation-cien-surged-on-strong-demand-from-cloud-providers-87b3e10b",
-      "orig_slug": "ciena-corporation-cien-surged-on-strong-demand-from-cloud-providers-87b3e10b"
-    },
-    {
-      "title": "What's the Connection Between the US War on Iran, Fuel, Fertilizer, and Food Prices? (Part 1)",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/whats-connection-between-us-war-095340788.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-23T09:53:40Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/73655e966a7a1be880d877b63f3bd381",
-      "slug": "whats-the-connection-between-the-us-war-on-iran-fuel-fertilizer-and-food-prices--3e5be544",
-      "orig_slug": "whats-the-connection-between-the-us-war-on-iran-fuel-fertilizer-and-food-prices--3e5be544"
-    },
-    {
-      "title": "Daily – Vickers Top Buyers & Sellers for 03/24/2026",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_46519_TopBottomInsiderActivity_1774347431000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-24T10:17:11Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-vickers-top-buyers-sellers-for-03242026-0bfca39c",
-      "orig_slug": "daily-vickers-top-buyers-sellers-for-03242026-0bfca39c"
-    },
-    {
-      "title": "Going to the club: How groceries are boosting club retailers’ sales",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/going-club-groceries-boosting-club-103700729.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-23T10:37:00Z",
-      "image": "https://media.zenfs.com/en/grocery_dive_266/6aca190524e6d734dcdfd1f89165116b",
-      "slug": "going-to-the-club-how-groceries-are-boosting-club-retailers-sales-fb22910f",
-      "orig_slug": "going-to-the-club-how-groceries-are-boosting-club-retailers-sales-fb22910f"
-    },
-    {
-      "title": "Clearwater Analytics (CWAN) Surged Following a Buyout Offer",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/clearwater-analytics-cwan-surged-following-112253140.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-23T11:22:53Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/31c9faa6fbf09ea903a78b037c9d4558",
-      "slug": "clearwater-analytics-cwan-surged-following-a-buyout-offer-fcf2a675",
-      "orig_slug": "clearwater-analytics-cwan-surged-following-a-buyout-offer-fcf2a675"
-    },
-    {
-      "title": "Here’s How PayPal Holdings (PYPL) Compounds the Value Over the Long Term",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/paypal-pypl-compounds-value-over-112942719.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-23T11:29:42Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/92259aa0f902f921a19718f744687ac7",
-      "slug": "heres-how-paypal-holdings-pypl-compounds-the-value-over-the-long-term-20074b7b",
-      "orig_slug": "heres-how-paypal-holdings-pypl-compounds-the-value-over-the-long-term-20074b7b"
-    },
-    {
-      "title": "Here’s how much Americans at every income level have saved in their 401(k)s. Compare your total to see how you stack up",
-      "link": "https://finance.yahoo.com/markets/options/articles/much-americans-every-income-level-113000424.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-23T11:30:00Z",
-      "image": "https://media.zenfs.com/en/moneywise_327/2bac67328cc1bed01278ba74dc162627",
-      "slug": "heres-how-much-americans-at-every-income-level-have-saved-in-their-401ks-compare-362f5f67",
-      "orig_slug": "heres-how-much-americans-at-every-income-level-have-saved-in-their-401ks-compare-362f5f67"
-    },
-    {
-      "title": "Saudi Arabia Slashes Oil Supply to Asia as War Chokes Export Route",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/saudi-arabia-slashes-oil-supply-113000508.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-23T11:30:00Z",
-      "image": "https://s.yimg.com/os/en/oilprice.com/82225a76ac7f4052098689d04a5dd127",
-      "slug": "saudi-arabia-slashes-oil-supply-to-asia-as-war-chokes-export-route-535a9df6",
-      "orig_slug": "saudi-arabia-slashes-oil-supply-to-asia-as-war-chokes-export-route-535a9df6"
-    },
-    {
-      "title": "Prediction: This Unstoppable Growth Stock Will Be Worth $2 Trillion in the Next 7 Years",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-unstoppable-growth-stock-worth-104200739.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-23T10:42:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/6a4e06b45a883420857272a0f06b4dc3",
-      "slug": "prediction-this-unstoppable-growth-stock-will-be-worth-2-trillion-in-the-next-7--930a14d3",
-      "orig_slug": "prediction-this-unstoppable-growth-stock-will-be-worth-2-trillion-in-the-next-7--930a14d3"
-    },
-    {
-      "title": "Robotaxis Could Create a ‘Powerful Flywheel’ for Tesla. Does That Make TSLA Stock a Buy Here?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/robotaxis-could-create-powerful-flywheel-113002266.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-23T11:30:02Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/c9768b724915bd5726850b8bf3f4cf93",
-      "slug": "robotaxis-could-create-a-powerful-flywheel-for-tesla-does-that-make-tsla-stock-a-3d5292c0",
-      "orig_slug": "robotaxis-could-create-a-powerful-flywheel-for-tesla-does-that-make-tsla-stock-a-3d5292c0"
-    },
-    {
-      "title": "Shift4 Payments’ (FOUR) Revenue Per Share Increased by 122% Over the Past Three Years",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/shift4-payments-four-revenue-per-113221016.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-23T11:32:21Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/3cb5551320e59b183208801d001f70e9",
-      "slug": "shift4-payments-four-revenue-per-share-increased-by-122-over-the-past-three-year-a401ad58",
-      "orig_slug": "shift4-payments-four-revenue-per-share-increased-by-122-over-the-past-three-year-a401ad58"
+      "slug": "victory-capital-rejects-reports-of-client-pushback-in-bid-for-janus-henderson-17210bae",
+      "orig_slug": "victory-capital-rejects-reports-of-client-pushback-in-bid-for-janus-henderson-17210bae"
     },
     {
       "title": "Marram Investment Management’s Views on Paymentus (PAY)",
@@ -353,6 +38,375 @@
       "orig_slug": "marram-investment-managements-views-on-paymentus-pay-ff501559"
     },
     {
+      "title": "Cheniere Energy (LNG) Shares Traded Lower in Q4",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cheniere-energy-lng-shares-traded-115107444.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-23T11:51:07Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/a9bff6acd115c1e995dd6f1dded7235b",
+      "slug": "cheniere-energy-lng-shares-traded-lower-in-q4-55300a07",
+      "orig_slug": "cheniere-energy-lng-shares-traded-lower-in-q4-55300a07"
+    },
+    {
+      "title": "Daily Spotlight: War Roils Oil Price Outlook",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46523_MarketOutlook_1774352547000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-24T11:42:27Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "daily-spotlight-war-roils-oil-price-outlook-d424d04f",
+      "orig_slug": "daily-spotlight-war-roils-oil-price-outlook-d424d04f"
+    },
+    {
+      "title": "HubSpot (HUBS) Fell on Investors’ Concerns",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hubspot-hubs-fell-investors-concerns-115255685.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-23T11:52:55Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/8dead4822353b54ea74ae5df011d4d36",
+      "slug": "hubspot-hubs-fell-on-investors-concerns-2616d662",
+      "orig_slug": "hubspot-hubs-fell-on-investors-concerns-2616d662"
+    },
+    {
+      "title": "Shift4 Payments’ (FOUR) Revenue Per Share Increased by 122% Over the Past Three Years",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/shift4-payments-four-revenue-per-113221016.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-23T11:32:21Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/3cb5551320e59b183208801d001f70e9",
+      "slug": "shift4-payments-four-revenue-per-share-increased-by-122-over-the-past-three-year-a401ad58",
+      "orig_slug": "shift4-payments-four-revenue-per-share-increased-by-122-over-the-past-three-year-a401ad58"
+    },
+    {
+      "title": "7 Key Things Retirees Who Never Stress About Money Do Differently Each Month",
+      "link": "https://finance.yahoo.com/markets/articles/7-key-things-retirees-never-114216933.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-23T11:42:16Z",
+      "image": "https://media.zenfs.com/en/gobankingrates_644/54be1e8ebed9e72c3d862f9261d1d75d",
+      "slug": "7-key-things-retirees-who-never-stress-about-money-do-differently-each-month-ecd2df15",
+      "orig_slug": "7-key-things-retirees-who-never-stress-about-money-do-differently-each-month-ecd2df15"
+    },
+    {
+      "title": "Here’s How PayPal Holdings (PYPL) Compounds the Value Over the Long Term",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/paypal-pypl-compounds-value-over-112942719.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-23T11:29:42Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/92259aa0f902f921a19718f744687ac7",
+      "slug": "heres-how-paypal-holdings-pypl-compounds-the-value-over-the-long-term-20074b7b",
+      "orig_slug": "heres-how-paypal-holdings-pypl-compounds-the-value-over-the-long-term-20074b7b"
+    },
+    {
+      "title": "Robotaxis Could Create a ‘Powerful Flywheel’ for Tesla. Does That Make TSLA Stock a Buy Here?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/robotaxis-could-create-powerful-flywheel-113002266.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-23T11:30:02Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/c9768b724915bd5726850b8bf3f4cf93",
+      "slug": "robotaxis-could-create-a-powerful-flywheel-for-tesla-does-that-make-tsla-stock-a-3d5292c0",
+      "orig_slug": "robotaxis-could-create-a-powerful-flywheel-for-tesla-does-that-make-tsla-stock-a-3d5292c0"
+    },
+    {
+      "title": "Analyst Report: Bath & Body Works Inc",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_3158_AnalystReport_1774350993000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-24T11:16:33Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-bath-body-works-inc-17e7d38a",
+      "orig_slug": "analyst-report-bath-body-works-inc-17e7d38a"
+    },
+    {
+      "title": "Here’s Why The Trade Desk (TTD) Traded at a Lower Multiple in 2025",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-trade-desk-ttd-traded-115535382.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-23T11:55:35Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/3d61f0c7d41e0274507c6fcc02699923",
+      "slug": "heres-why-the-trade-desk-ttd-traded-at-a-lower-multiple-in-2025-67fec223",
+      "orig_slug": "heres-why-the-trade-desk-ttd-traded-at-a-lower-multiple-in-2025-67fec223"
+    },
+    {
+      "title": "Here’s how much Americans at every income level have saved in their 401(k)s. Compare your total to see how you stack up",
+      "link": "https://finance.yahoo.com/markets/options/articles/much-americans-every-income-level-113000424.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-23T11:30:00Z",
+      "image": "https://media.zenfs.com/en/moneywise_327/2bac67328cc1bed01278ba74dc162627",
+      "slug": "heres-how-much-americans-at-every-income-level-have-saved-in-their-401ks-compare-362f5f67",
+      "orig_slug": "heres-how-much-americans-at-every-income-level-have-saved-in-their-401ks-compare-362f5f67"
+    },
+    {
+      "title": "Kotak Mahindra nears deal to buy Deutsche Bank’s India retail unit – report",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kotak-mahindra-nears-deal-buy-114500236.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-23T11:45:00Z",
+      "image": "https://media.zenfs.com/en/retail_banker_international_407/911ef0766759cc2253df354b4df2907f",
+      "slug": "kotak-mahindra-nears-deal-to-buy-deutsche-banks-india-retail-unit-report-eb3a3a8a",
+      "orig_slug": "kotak-mahindra-nears-deal-to-buy-deutsche-banks-india-retail-unit-report-eb3a3a8a"
+    },
+    {
+      "title": "Saudi Arabia Slashes Oil Supply to Asia as War Chokes Export Route",
+      "link": "https://finance.yahoo.com/sectors/energy/articles/saudi-arabia-slashes-oil-supply-113000508.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-23T11:30:00Z",
+      "image": "https://s.yimg.com/os/en/oilprice.com/82225a76ac7f4052098689d04a5dd127",
+      "slug": "saudi-arabia-slashes-oil-supply-to-asia-as-war-chokes-export-route-535a9df6",
+      "orig_slug": "saudi-arabia-slashes-oil-supply-to-asia-as-war-chokes-export-route-535a9df6"
+    },
+    {
+      "title": "BlackRock's Fink warns AI boom could widen wealth divide without broader participation",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/blackrock-ceo-fink-backs-staying-115903674.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-23T11:59:03Z",
+      "image": "https://s.yimg.com/os/en/reuters-finance.com/b04bb88505122cdcd109d5d70abc2338",
+      "slug": "blackrocks-fink-warns-ai-boom-could-widen-wealth-divide-without-broader-particip-70e22afb",
+      "orig_slug": "blackrocks-fink-warns-ai-boom-could-widen-wealth-divide-without-broader-particip-70e22afb"
+    },
+    {
+      "title": "Market Digest: BBWI, ES",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46520_MarketSummary_1774350093000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-24T11:01:33Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "market-digest-bbwi-es-56b5d980",
+      "orig_slug": "market-digest-bbwi-es-56b5d980"
+    },
+    {
+      "title": "AI Stocks To Watch: Cybersecurity's RSA On Tap, 'Death Cross' In The Making?",
+      "link": "https://www.investors.com/news/technology/ai-stocks-artificial-intelligence-stocks-death-cross-3232026/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-23T11:55:28Z",
+      "image": "",
+      "slug": "ai-stocks-to-watch-cybersecuritys-rsa-on-tap-death-cross-in-the-making-a2ef92ed",
+      "orig_slug": "ai-stocks-to-watch-cybersecuritys-rsa-on-tap-death-cross-in-the-making-a2ef92ed"
+    },
+    {
+      "title": "Clearwater Analytics (CWAN) Surged Following a Buyout Offer",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/clearwater-analytics-cwan-surged-following-112253140.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-23T11:22:53Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/31c9faa6fbf09ea903a78b037c9d4558",
+      "slug": "clearwater-analytics-cwan-surged-following-a-buyout-offer-fcf2a675",
+      "orig_slug": "clearwater-analytics-cwan-surged-following-a-buyout-offer-fcf2a675"
+    },
+    {
+      "title": "Interest Rate Cut Hopes Are Over: Buy These Safe 5% High Yield Kings Now",
+      "link": "https://finance.yahoo.com/economy/policy/articles/interest-rate-cut-hopes-over-114233503.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-23T11:42:33Z",
+      "image": "https://media.zenfs.com/en/24_7_wall_st__718/d981dd810eaeb413015369ebbce09ae6",
+      "slug": "interest-rate-cut-hopes-are-over-buy-these-safe-5-high-yield-kings-now-63ec29ff",
+      "orig_slug": "interest-rate-cut-hopes-are-over-buy-these-safe-5-high-yield-kings-now-63ec29ff"
+    },
+    {
+      "title": "C.H. Robinson Stock: Is CHRW Outperforming the Industrial Sector?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/c-h-robinson-stock-chrw-111721631.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-23T11:17:21Z",
+      "image": "https://s.yimg.com/os/en/barchart_com_477/8d3667e942405ca8699e5742445de2aa",
+      "slug": "ch-robinson-stock-is-chrw-outperforming-the-industrial-sector-c13a82e0",
+      "orig_slug": "ch-robinson-stock-is-chrw-outperforming-the-industrial-sector-c13a82e0"
+    },
+    {
+      "title": "Ciena Corporation (CIEN) Surged on Strong Demand from Cloud Providers",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ciena-corporation-cien-surged-strong-111855094.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-23T11:18:55Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/aa67aab8f5f51a6a23b453dff7157e00",
+      "slug": "ciena-corporation-cien-surged-on-strong-demand-from-cloud-providers-87b3e10b",
+      "orig_slug": "ciena-corporation-cien-surged-on-strong-demand-from-cloud-providers-87b3e10b"
+    },
+    {
+      "title": "Daily – Vickers Top Insider Picks for 03/24/2026",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46518_InsiderActivity_1774347431000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-24T10:17:11Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "daily-vickers-top-insider-picks-for-03242026-ee6c3b57",
+      "orig_slug": "daily-vickers-top-insider-picks-for-03242026-ee6c3b57"
+    },
+    {
+      "title": "Do You Believe in the Growth Prospects of Encompass Health (EHC)?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/believe-growth-prospects-encompass-health-111106383.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-23T11:11:06Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/83bce35854c52181b01ce671647f14e1",
+      "slug": "do-you-believe-in-the-growth-prospects-of-encompass-health-ehc-445f0169",
+      "orig_slug": "do-you-believe-in-the-growth-prospects-of-encompass-health-ehc-445f0169"
+    },
+    {
+      "title": "Elevated Financing Concerns Hurt CoreWeave (CRWV) in Q4",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/elevated-financing-concerns-hurt-coreweave-110912423.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-23T11:09:12Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/1e6679133c22399d436d54da87ceaa50",
+      "slug": "elevated-financing-concerns-hurt-coreweave-crwv-in-q4-2423d90b",
+      "orig_slug": "elevated-financing-concerns-hurt-coreweave-crwv-in-q4-2423d90b"
+    },
+    {
+      "title": "Starling Bank unveils AI-powered banking assistant",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/starling-bank-unveils-ai-powered-113929132.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-23T11:39:29Z",
+      "image": "https://media.zenfs.com/en/retail_banker_international_407/28a55ecb78770cedd313bc2a134c1844",
+      "slug": "starling-bank-unveils-ai-powered-banking-assistant-bbd805a1",
+      "orig_slug": "starling-bank-unveils-ai-powered-banking-assistant-bbd805a1"
+    },
+    {
+      "title": "The Mosaic Company (MOS) Traded Down Due to Softer Fertilizer Demand",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mosaic-company-mos-traded-down-110623097.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-23T11:06:23Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/adc6f89426dbb0481ab73b1026499dbf",
+      "slug": "the-mosaic-company-mos-traded-down-due-to-softer-fertilizer-demand-e2768276",
+      "orig_slug": "the-mosaic-company-mos-traded-down-due-to-softer-fertilizer-demand-e2768276"
+    },
+    {
+      "title": "United Rentals (URI) Slid on Weaker Construction Markets",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/united-rentals-slid-weaker-construction-110441132.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-23T11:04:41Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/a931f3a979187e89783ab93589536755",
+      "slug": "united-rentals-uri-slid-on-weaker-construction-markets-19b68ca8",
+      "orig_slug": "united-rentals-uri-slid-on-weaker-construction-markets-19b68ca8"
+    },
+    {
+      "title": "Daily – Vickers Top Buyers & Sellers for 03/24/2026",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46519_TopBottomInsiderActivity_1774347431000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-24T10:17:11Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "daily-vickers-top-buyers-sellers-for-03242026-0bfca39c",
+      "orig_slug": "daily-vickers-top-buyers-sellers-for-03242026-0bfca39c"
+    },
+    {
+      "title": "A Large Cybersecurity Breach Hurt Coupang (CPNG) in Q4",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/large-cybersecurity-breach-hurt-coupang-110252076.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-23T11:02:52Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/10a74368f8ee05d065aef48fa9cb8683",
+      "slug": "a-large-cybersecurity-breach-hurt-coupang-cpng-in-q4-9dd0a266",
+      "orig_slug": "a-large-cybersecurity-breach-hurt-coupang-cpng-in-q4-9dd0a266"
+    },
+    {
+      "title": "Broad-Based Growth Drivers Lifted ATI (ATI) in Q4",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/broad-based-growth-drivers-lifted-110107803.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-23T11:01:07Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/d27785678c6193e61d9d09114d548813",
+      "slug": "broad-based-growth-drivers-lifted-ati-ati-in-q4-21f67f14",
+      "orig_slug": "broad-based-growth-drivers-lifted-ati-ati-in-q4-21f67f14"
+    },
+    {
+      "title": "Canvaloop raises $1.4m, eyes tenfold increase in textile production",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/canvaloop-raises-1-4m-eyes-115517289.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-23T11:55:17Z",
+      "image": "https://media.zenfs.com/en/just_style_482/2166c072c9c1bea8253b9bd94e07fe12",
+      "slug": "canvaloop-raises-14m-eyes-tenfold-increase-in-textile-production-4b03586e",
+      "orig_slug": "canvaloop-raises-14m-eyes-tenfold-increase-in-textile-production-4b03586e"
+    },
+    {
+      "title": "These 3 mundane habits can quietly trigger the retirement of your dreams — start doing them today",
+      "link": "https://finance.yahoo.com/markets/articles/3-mundane-habits-quietly-trigger-110000570.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-23T11:00:00Z",
+      "image": "https://media.zenfs.com/en/moneywise_327/4bec6997a937d3319710d6e46b372e2b",
+      "slug": "these-3-mundane-habits-can-quietly-trigger-the-retirement-of-your-dreams-start-d-149c4410",
+      "orig_slug": "these-3-mundane-habits-can-quietly-trigger-the-retirement-of-your-dreams-start-d-149c4410"
+    },
+    {
+      "title": "A High-Probability Iron Condor Trade on Apple Stock with 22% Return Potential",
+      "link": "https://finance.yahoo.com/markets/options/articles/high-probability-iron-condor-trade-110002246.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-23T11:00:02Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/ec47b3204c99e0fe27ccaa128b7ff165",
+      "slug": "a-high-probability-iron-condor-trade-on-apple-stock-with-22-return-potential-59773e8f",
+      "orig_slug": "a-high-probability-iron-condor-trade-on-apple-stock-with-22-return-potential-59773e8f"
+    },
+    {
+      "title": "Ross Stores’ (ROST) Comparable Sales Grew 7% in Q4",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ross-stores-rost-comparable-sales-120717591.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-23T12:07:17Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/eb44f33c28ebcbf5bde92fee5b3643da",
+      "slug": "ross-stores-rost-comparable-sales-grew-7-in-q4-5330985b",
+      "orig_slug": "ross-stores-rost-comparable-sales-grew-7-in-q4-5330985b"
+    },
+    {
+      "title": "3 weeks of war, possible rate hikes, and AI's 'show me' phase: What to watch this week",
+      "link": "https://finance.yahoo.com/news/3-weeks-of-war-possible-rate-hikes-and-ais-show-me-phase-what-to-watch-this-week-113740150.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-22T11:37:40Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/InzarXoD.hb2i.fqmonoUA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/0acb72b0-2305-11f1-bfb1-45e43b5fb2e6",
+      "slug": "3-weeks-of-war-possible-rate-hikes-and-ais-show-me-phase-what-to-watch-this-week-af4563c9",
+      "orig_slug": "3-weeks-of-war-possible-rate-hikes-and-ais-show-me-phase-what-to-watch-this-week-af4563c9"
+    },
+    {
+      "title": "Adobe’s CFO is using AI to answer 300,000 emails, cut contract review in half — and make sure finance never slows the company down",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/adobe-cfo-using-ai-answer-113708999.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-23T11:37:08Z",
+      "image": "https://media.zenfs.com/en/fortune_175/663ce8b6a9e12d8ef42ef68f7f80bbfb",
+      "slug": "adobes-cfo-is-using-ai-to-answer-300000-emails-cut-contract-review-in-half-and-m-8250a54e",
+      "orig_slug": "adobes-cfo-is-using-ai-to-answer-300000-emails-cut-contract-review-in-half-and-m-8250a54e"
+    },
+    {
+      "title": "Here’s Why Bruker’s (BRKR) Positive Momentum Returned in Q4",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-bruker-brkr-positive-momentum-121122366.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-23T12:11:22Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/e651569768e0c9372679e667925a8581",
+      "slug": "heres-why-brukers-brkr-positive-momentum-returned-in-q4-2cdb462d",
+      "orig_slug": "heres-why-brukers-brkr-positive-momentum-returned-in-q4-2cdb462d"
+    },
+    {
+      "title": "Roblox’s (RBLX) Growth Began to Moderate in Q4",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/roblox-rblx-growth-began-moderate-121447246.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-23T12:14:47Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/83c11f730bf382660bec748c969058b9",
+      "slug": "robloxs-rblx-growth-began-to-moderate-in-q4-902a44b3",
+      "orig_slug": "robloxs-rblx-growth-began-to-moderate-in-q4-902a44b3"
+    },
+    {
+      "title": "Best high-yield savings interest rates today, March 23, 2026 (Earn up to 4% APY)",
+      "link": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-monday-march-23-2026-100043794.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-23T10:00:43Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/1RCI97U8KV1L2ZurZW7kOA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/0a4cca40-4b7b-11ef-abf9-2f9f6d2c2f16",
+      "slug": "best-high-yield-savings-interest-rates-today-march-23-2026-earn-up-to-4-apy-26cfedcb",
+      "orig_slug": "best-high-yield-savings-interest-rates-today-march-23-2026-earn-up-to-4-apy-26cfedcb"
+    },
+    {
+      "title": "Best CD rates today, March 23, 2026 (Lock in up to 4.15% APY)",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-march-23-2026-100028338.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-23T10:00:28Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/YNb1M9UxogCoxhCtpOUusg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47b17e1-4f64-11ef-bcf5-d7c22925c744",
+      "slug": "best-cd-rates-today-march-23-2026-lock-in-up-to-415-apy-98328cd9",
+      "orig_slug": "best-cd-rates-today-march-23-2026-lock-in-up-to-415-apy-98328cd9"
+    },
+    {
+      "title": "5 Things to Know Before the Stock Market Opens",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-things-know-stock-market-113903235.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-23T11:39:03Z",
+      "image": "https://media.zenfs.com/en/investopedia_245/08f0fdbd40878b47a7882d5ed3ff5364",
+      "slug": "5-things-to-know-before-the-stock-market-opens-77fbdaa0",
+      "orig_slug": "5-things-to-know-before-the-stock-market-opens-77fbdaa0"
+    },
+    {
+      "title": "Best money market account rates today, March 23, 2026 (Earn up to 4.01% APY)",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-monday-march-23-2026-100013520.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-23T10:00:13Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/5ht5auNXT0hvD._VUvpMQg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/16611790-1cdc-11f0-b7df-12959cc17bf8",
+      "slug": "best-money-market-account-rates-today-march-23-2026-earn-up-to-401-apy-b37dd543",
+      "orig_slug": "best-money-market-account-rates-today-march-23-2026-earn-up-to-401-apy-b37dd543"
+    },
+    {
+      "title": "HELOC and home equity loan rates Monday, March 23, 2026: Do you want a fixed or adjustable-rate?",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-monday-march-23-2026-100000632.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-23T10:00:00Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/_479AhxR01yKrenM2IfZSg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/006c3000-3feb-11f0-b84f-0d1aa528bfe7",
+      "slug": "heloc-and-home-equity-loan-rates-monday-march-23-2026-do-you-want-a-fixed-or-adj-5b9a5961",
+      "orig_slug": "heloc-and-home-equity-loan-rates-monday-march-23-2026-do-you-want-a-fixed-or-adj-5b9a5961"
+    },
+    {
       "title": "What would happen if all of the world's gold were sold tomorrow?",
       "link": "https://finance.yahoo.com/personal-finance/investing/article/what-would-happen-if-all-of-the-worlds-gold-were-sold-tomorrow-195737847.html",
       "source": "finance.yahoo.com",
@@ -362,15 +416,6 @@
       "orig_slug": "what-would-happen-if-all-of-the-worlds-gold-were-sold-tomorrow-d5b2164f"
     },
     {
-      "title": "Stryker confirms cyberattack is contained and restoration underway",
-      "link": "https://finance.yahoo.com/sectors/healthcare/articles/stryker-confirms-cyberattack-contained-restoration-104347717.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-23T10:43:47Z",
-      "image": "https://media.zenfs.com/en/cybersecurity_dive_871/0547bcf1c4d92ba0f150246684839c53",
-      "slug": "stryker-confirms-cyberattack-is-contained-and-restoration-underway-6f68ade3",
-      "orig_slug": "stryker-confirms-cyberattack-is-contained-and-restoration-underway-6f68ade3"
-    },
-    {
       "title": "Flight chaos grows as TSA lines stretch for hours. What to know about trip cancellation insurance.",
       "link": "https://finance.yahoo.com/personal-finance/insurance/article/flight-chaos-grows-as-tsa-lines-stretch-for-hours-what-to-know-about-trip-cancellation-insurance-143909492.html",
       "source": "finance.yahoo.com",
@@ -378,51 +423,6 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/l7AFirV1HOChDtaX_z3ggA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-03/749ad92c-eba4-44bd-b47d-56d13a4f08a5",
       "slug": "flight-chaos-grows-as-tsa-lines-stretch-for-hours-what-to-know-about-trip-cancel-64a478ab",
       "orig_slug": "flight-chaos-grows-as-tsa-lines-stretch-for-hours-what-to-know-about-trip-cancel-64a478ab"
-    },
-    {
-      "title": "Tax refunds are up from a year ago. Will that help the burn of higher gas prices?",
-      "link": "https://finance.yahoo.com/personal-finance/taxes/article/tax-refunds-are-up-from-a-year-ago-will-that-help-the-burn-of-higher-gas-prices-152806737.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-23T15:28:06Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/1QGVsiqQu8TpiqMKP_Qwvg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-01/eb970ab0-90dd-11ed-be7a-c5a18b4010c2",
-      "slug": "tax-refunds-are-up-from-a-year-ago-will-that-help-the-burn-of-higher-gas-prices-37c05368",
-      "orig_slug": "tax-refunds-are-up-from-a-year-ago-will-that-help-the-burn-of-higher-gas-prices-37c05368"
-    },
-    {
-      "title": "What if I can’t pay my taxes? 5 ways to tackle your bill.",
-      "link": "https://finance.yahoo.com/personal-finance/taxes/article/what-if-i-cant-pay-my-taxes-215416984.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2024-02-08T21:54:16Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/YjjtY6q80csygR8F4lnMpw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-02/279eb6e0-f462-11ef-a3bf-6d04f94c3603",
-      "slug": "what-if-i-cant-pay-my-taxes-5-ways-to-tackle-your-bill-90022425",
-      "orig_slug": "what-if-i-cant-pay-my-taxes-5-ways-to-tackle-your-bill-90022425"
-    },
-    {
-      "title": "Mortgage lenders with the best rates this week, March 23, 2026: Sub-6% rates gone for now",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-lenders-with-the-best-rates-this-week-march-23-2026-170834739.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-11-03T17:08:34Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/D9k6dB1Yf1hfKesmqZI_hA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/e1d9cd60-0c3a-11f1-bdff-87ef2d5000ac",
-      "slug": "mortgage-lenders-with-the-best-rates-this-week-march-23-2026-sub-6-rates-gone-fo-1b331f9b",
-      "orig_slug": "mortgage-lenders-with-the-best-rates-this-week-march-23-2026-sub-6-rates-gone-fo-1b331f9b"
-    },
-    {
-      "title": "Switzerland Private Banking Dynasty Is Tearing Itself Apart Over Crypto",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/switzerland-private-banking-dynasty-tearing-104437907.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-23T10:44:37Z",
-      "image": "https://s.yimg.com/os/en/cryptonews_us_711/6ca34d8d7a95fe592e8bfd5f65750bd6",
-      "slug": "switzerland-private-banking-dynasty-is-tearing-itself-apart-over-crypto-7256f486",
-      "orig_slug": "switzerland-private-banking-dynasty-is-tearing-itself-apart-over-crypto-7256f486"
-    },
-    {
-      "title": "Your money-saving checklist for spring 2026",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/spring-savings-checklist-155118663.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-03-21T15:51:18Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/2DN8SsX7HLId3hFAtLBCcg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-images/2019-11/e121ba20-ff19-11e9-bfaf-a6a4c1444720",
-      "slug": "your-money-saving-checklist-for-spring-2026-72af20fc",
-      "orig_slug": "your-money-saving-checklist-for-spring-2026-72af20fc"
     }
   ]
 }
