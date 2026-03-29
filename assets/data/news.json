@@ -1,248 +1,14 @@
 {
-  "updated": "2026-03-29T09:29:03Z",
+  "updated": "2026-03-29T10:23:57Z",
   "items": [
     {
-      "title": "Unity Software (U) Soars 13.6% on Higher Revenue Outlook",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/unity-software-u-soars-13-043433039.html",
+      "title": "Oil prices threaten to blow up a $3tn market",
+      "link": "https://finance.yahoo.com/sectors/energy/articles/oil-prices-threaten-blow-3tn-080000133.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-28T04:34:33Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/bff6c2a751353882ea54232ea3110e56",
-      "slug": "unity-software-u-soars-136-on-higher-revenue-outlook-652a5ad4",
-      "orig_slug": "unity-software-u-soars-136-on-higher-revenue-outlook-652a5ad4"
-    },
-    {
-      "title": "ADMA Biologics (ADMA) Soars 11.6% as Firm Denies Short Seller Allegations",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/adma-biologics-adma-soars-11-042733181.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-28T04:27:33Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/decddfbc18ce81b133b0c85b5d14a938",
-      "slug": "adma-biologics-adma-soars-116-as-firm-denies-short-seller-allegations-8d72344a",
-      "orig_slug": "adma-biologics-adma-soars-116-as-firm-denies-short-seller-allegations-8d72344a"
-    },
-    {
-      "title": "Entergy (ETR) Rallies 6.8% on Meta Deal",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/entergy-etr-rallies-6-8-041828890.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-28T04:18:28Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/eca7d0b981865f286c80f4a266d72a37",
-      "slug": "entergy-etr-rallies-68-on-meta-deal-0d65497f",
-      "orig_slug": "entergy-etr-rallies-68-on-meta-deal-0d65497f"
-    },
-    {
-      "title": "3 Technology Stocks That Belong in Every Long-Term Portfolio",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-technology-stocks-belong-every-042000060.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-28T04:20:00Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/e7e0e656027553fcd1e86e206241a906",
-      "slug": "3-technology-stocks-that-belong-in-every-long-term-portfolio-cdd2a68c",
-      "orig_slug": "3-technology-stocks-that-belong-in-every-long-term-portfolio-cdd2a68c"
-    },
-    {
-      "title": "First Majestic (AG) Climbs 7% on Silver Rush",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/first-majestic-ag-climbs-7-042141683.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-28T04:21:41Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/3d9d6fdf036c5526a942e2aed7198788",
-      "slug": "first-majestic-ag-climbs-7-on-silver-rush-d3666348",
-      "orig_slug": "first-majestic-ag-climbs-7-on-silver-rush-d3666348"
-    },
-    {
-      "title": "Coeur Mining (CDE) Jumps 5.9% on Precious Metals Surge",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/coeur-mining-cde-jumps-5-041516747.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-28T04:15:16Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/529f81f6eff056f4fbdd64cf87e24c72",
-      "slug": "coeur-mining-cde-jumps-59-on-precious-metals-surge-e7b30f82",
-      "orig_slug": "coeur-mining-cde-jumps-59-on-precious-metals-surge-e7b30f82"
-    },
-    {
-      "title": "Brown-Forman (BF-B) Climbs 5.6% on JPMorgan Upgrade",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/brown-forman-bf-b-climbs-041208727.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-28T04:12:08Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/14b51f8014a4cb7d4c1b995746255130",
-      "slug": "brown-forman-bf-b-climbs-56-on-jpmorgan-upgrade-56e4a6d0",
-      "orig_slug": "brown-forman-bf-b-climbs-56-on-jpmorgan-upgrade-56e4a6d0"
-    },
-    {
-      "title": "Campbell’s (CPB) Rallies 5% Ahead of Dividends",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/campbell-cpb-rallies-5-ahead-041000833.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-28T04:10:00Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/57d3d205799693e98d47dd843c69d789",
-      "slug": "campbells-cpb-rallies-5-ahead-of-dividends-145d3e20",
-      "orig_slug": "campbells-cpb-rallies-5-ahead-of-dividends-145d3e20"
-    },
-    {
-      "title": "IAMGOLD (IAG) Shines 4.9% Brighter on Gold Surge",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/iamgold-iag-shines-4-9-040811813.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-28T04:08:11Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/529f81f6eff056f4fbdd64cf87e24c72",
-      "slug": "iamgold-iag-shines-49-brighter-on-gold-surge-03f3e3b6",
-      "orig_slug": "iamgold-iag-shines-49-brighter-on-gold-surge-03f3e3b6"
-    },
-    {
-      "title": "Equinox (EQX) Climbs 4.57% on Gold, Silver Surge",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/equinox-eqx-climbs-4-57-040115899.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-28T04:01:15Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/199711220f44c5f89cfad24a0bdca817",
-      "slug": "equinox-eqx-climbs-457-on-gold-silver-surge-4c368e3d",
-      "orig_slug": "equinox-eqx-climbs-457-on-gold-silver-surge-4c368e3d"
-    },
-    {
-      "title": "Manulife Financial Reaffirms 18% Core ROE Goal for 2027, Sees U.S. Mortality Normalizing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/manulife-financial-reaffirms-18-core-061352059.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-28T06:13:52Z",
-      "image": "https://s.yimg.com/os/en/marketbeat_955/fc8c391a09de78b39795be69e9fd8adf",
-      "slug": "manulife-financial-reaffirms-18-core-roe-goal-for-2027-sees-us-mortality-normali-93c42093",
-      "orig_slug": "manulife-financial-reaffirms-18-core-roe-goal-for-2027-sees-us-mortality-normali-93c42093"
-    },
-    {
-      "title": "Hecla Mining (HL) Jumps 4.3% on Silver, Gold Rush",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/hecla-mining-hl-jumps-4-035819884.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-28T03:58:19Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/29a676bb1fe3aac43ab1929372021fba",
-      "slug": "hecla-mining-hl-jumps-43-on-silver-gold-rush-45ca79ab",
-      "orig_slug": "hecla-mining-hl-jumps-43-on-silver-gold-rush-45ca79ab"
-    },
-    {
-      "title": "Redburn Lowers ServiceNow (NOW) Price Target to $215",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/redburn-lowers-servicenow-now-price-071743674.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-28T07:17:43Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/5775cb349015718d263df9d11bfbbfa0",
-      "slug": "redburn-lowers-servicenow-now-price-target-to-215-bd512197",
-      "orig_slug": "redburn-lowers-servicenow-now-price-target-to-215-bd512197"
-    },
-    {
-      "title": "Zoom Communications (ZM) Announces Agentic AI Platform Expansion",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/zoom-communications-zm-announces-agentic-071752031.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-28T07:17:52Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/88f714e0d82d5882b482a369ccff488b",
-      "slug": "zoom-communications-zm-announces-agentic-ai-platform-expansion-b01cb58c",
-      "orig_slug": "zoom-communications-zm-announces-agentic-ai-platform-expansion-b01cb58c"
-    },
-    {
-      "title": "Mizuho Lowers Progressive (PGR) Price Target to $223",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mizuho-lowers-progressive-pgr-price-071745339.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-28T07:17:45Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/784ffd8b2624818ce52f65fed1531704",
-      "slug": "mizuho-lowers-progressive-pgr-price-target-to-223-41d21095",
-      "orig_slug": "mizuho-lowers-progressive-pgr-price-target-to-223-41d21095"
-    },
-    {
-      "title": "Ford's \"Most Radical Change\" Was Supposed to Reduce Costs. What if It Does the Opposite?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/fords-most-radical-change-supposed-062500383.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-28T06:25:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/6bf31c4cd03b1f52c679de9c4dda5f7f",
-      "slug": "fords-most-radical-change-was-supposed-to-reduce-costs-what-if-it-does-the-oppos-759146b0",
-      "orig_slug": "fords-most-radical-change-was-supposed-to-reduce-costs-what-if-it-does-the-oppos-759146b0"
-    },
-    {
-      "title": "Cboe Global (Nasdaq:Cboe) Introduces a New Prediction Markets Framework",
-      "link": "https://finance.yahoo.com/markets/options/articles/cboe-global-nasdaq-cboe-introduces-071757432.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-28T07:17:57Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/74ba29653bd955130d1d0d9c25a3e6b2",
-      "slug": "cboe-global-nasdaqcboe-introduces-a-new-prediction-markets-framework-e0c91678",
-      "orig_slug": "cboe-global-nasdaqcboe-introduces-a-new-prediction-markets-framework-e0c91678"
-    },
-    {
-      "title": "Morgan Stanley Raises East West Bancorp (EWBC) Price Target to $141",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-raises-east-west-071805681.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-28T07:18:05Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/6696853deb7ced0bce3cd8eabbefc5c0",
-      "slug": "morgan-stanley-raises-east-west-bancorp-ewbc-price-target-to-141-79b5eaf2",
-      "orig_slug": "morgan-stanley-raises-east-west-bancorp-ewbc-price-target-to-141-79b5eaf2"
-    },
-    {
-      "title": "Mizuho Lowers Allstate (ALL) Price Target to $265",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mizuho-lowers-allstate-price-target-071753109.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-28T07:17:53Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/0ca0989b6f8fea7e8b35cdd974f0b4a3",
-      "slug": "mizuho-lowers-allstate-all-price-target-to-265-a4249cf1",
-      "orig_slug": "mizuho-lowers-allstate-all-price-target-to-265-a4249cf1"
-    },
-    {
-      "title": "Jack Henry (JKHY) Financial Crimes Defender™ Added to ICBA’s Preferred Service Provider Program",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jack-henry-jkhy-financial-crimes-071803439.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-28T07:18:03Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/58bd07e9cf01a7bf828fb62504628876",
-      "slug": "jack-henry-jkhy-financial-crimes-defender-added-to-icbas-preferred-service-provi-0b15104c",
-      "orig_slug": "jack-henry-jkhy-financial-crimes-defender-added-to-icbas-preferred-service-provi-0b15104c"
-    },
-    {
-      "title": "Is a Reverse Stock Split Coming for Beyond Meat?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/reverse-stock-split-coming-beyond-055000244.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-28T05:50:00Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/1c9e04342547d1f8af31555d5b111733",
-      "slug": "is-a-reverse-stock-split-coming-for-beyond-meat-425dc1d5",
-      "orig_slug": "is-a-reverse-stock-split-coming-for-beyond-meat-425dc1d5"
-    },
-    {
-      "title": "Total Wireless Launch New Device Protection Plan Developed in Partnership With Assurant (AIZ)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/total-wireless-launch-device-protection-071807376.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-28T07:18:07Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/9ed621d2dd7c38b6f276434151397445",
-      "slug": "total-wireless-launch-new-device-protection-plan-developed-in-partnership-with-a-704da479",
-      "orig_slug": "total-wireless-launch-new-device-protection-plan-developed-in-partnership-with-a-704da479"
-    },
-    {
-      "title": "Texas Capital Initiates Globe Life (GL) With Buy Rating and $170 Price Target",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/texas-capital-initiates-globe-life-071802873.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-28T07:18:02Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/3a0ca6c618f30c09519126fdeb252352",
-      "slug": "texas-capital-initiates-globe-life-gl-with-buy-rating-and-170-price-target-e7ad4f91",
-      "orig_slug": "texas-capital-initiates-globe-life-gl-with-buy-rating-and-170-price-target-e7ad4f91"
-    },
-    {
-      "title": "Fastenal (FAST) Plans New Georgia Distribution Center",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/fastenal-fast-plans-georgia-distribution-071755112.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-28T07:17:55Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/95e351d892a31483132e5a6986b21100",
-      "slug": "fastenal-fast-plans-new-georgia-distribution-center-0100c332",
-      "orig_slug": "fastenal-fast-plans-new-georgia-distribution-center-0100c332"
-    },
-    {
-      "title": "Cantor Fitzgerald Raises United Therapeutics (UTHR) Price Target to $625",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cantor-fitzgerald-raises-united-therapeutics-071747866.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-28T07:17:47Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/626d3c5ab0bde0a1c34c7c58cf29267c",
-      "slug": "cantor-fitzgerald-raises-united-therapeutics-uthr-price-target-to-625-dd4b07a9",
-      "orig_slug": "cantor-fitzgerald-raises-united-therapeutics-uthr-price-target-to-625-dd4b07a9"
-    },
-    {
-      "title": "VCX Fund Crashes over 30% — 3 Risks Every Investor Should Know",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/vcx-fund-crashes-over-30-055026369.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-28T05:50:26Z",
-      "image": "https://s.yimg.com/os/en/tipranks_452/5d710157ae161507009b3751e41d4644",
-      "slug": "vcx-fund-crashes-over-30-3-risks-every-investor-should-know-5440b62e",
-      "orig_slug": "vcx-fund-crashes-over-30-3-risks-every-investor-should-know-5440b62e"
-    },
-    {
-      "title": "F5 (FFIV) Partners With Skyfire To Enable Secure Agentic Commerce",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/f5-ffiv-partners-skyfire-enable-071758665.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-28T07:17:58Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/6aa9bd5bb90541205e0319e5ac28657b",
-      "slug": "f5-ffiv-partners-with-skyfire-to-enable-secure-agentic-commerce-e54c7b20",
-      "orig_slug": "f5-ffiv-partners-with-skyfire-to-enable-secure-agentic-commerce-e54c7b20"
+      "pubDate": "2026-03-28T08:00:00Z",
+      "image": "https://media.zenfs.com/en/the_telegraph_258/c50e5171b32650b2010ead704c8262a5",
+      "slug": "oil-prices-threaten-to-blow-up-a-3tn-market-566afc17",
+      "orig_slug": "oil-prices-threaten-to-blow-up-a-3tn-market-566afc17"
     },
     {
       "title": "Wells Fargo Lowers Monster Beverage (MNST) Price Target to $90",
@@ -254,15 +20,6 @@
       "orig_slug": "wells-fargo-lowers-monster-beverage-mnst-price-target-to-90-612ac83b"
     },
     {
-      "title": "Wells Fargo Raises Vertex Pharmaceuticals (VRTX) Price Target to $550",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-raises-vertex-pharmaceuticals-071748618.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-28T07:17:48Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/1072f698caaab685c17bd7da04c05995",
-      "slug": "wells-fargo-raises-vertex-pharmaceuticals-vrtx-price-target-to-550-a3ef21a1",
-      "orig_slug": "wells-fargo-raises-vertex-pharmaceuticals-vrtx-price-target-to-550-a3ef21a1"
-    },
-    {
       "title": "RBC Capital Lowers Exelixis (EXEL) Price Target to $43",
       "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-capital-lowers-exelixis-exel-071800844.html",
       "source": "finance.yahoo.com",
@@ -272,13 +29,148 @@
       "orig_slug": "rbc-capital-lowers-exelixis-exel-price-target-to-43-405f3266"
     },
     {
-      "title": "There Are 10 Trillion-Dollar Stocks On the Market. This Is the Only One That's Up This Year",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/10-trillion-dollar-stocks-market-065000657.html",
+      "title": "Wells Fargo Raises Vertex Pharmaceuticals (VRTX) Price Target to $550",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-raises-vertex-pharmaceuticals-071748618.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-28T06:50:00Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/93eb5aaa7a2c3b48531cc1f9ff3a8837",
-      "slug": "there-are-10-trillion-dollar-stocks-on-the-market-this-is-the-only-one-thats-up--3424cec6",
-      "orig_slug": "there-are-10-trillion-dollar-stocks-on-the-market-this-is-the-only-one-thats-up--3424cec6"
+      "pubDate": "2026-03-28T07:17:48Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/1072f698caaab685c17bd7da04c05995",
+      "slug": "wells-fargo-raises-vertex-pharmaceuticals-vrtx-price-target-to-550-a3ef21a1",
+      "orig_slug": "wells-fargo-raises-vertex-pharmaceuticals-vrtx-price-target-to-550-a3ef21a1"
+    },
+    {
+      "title": "Cboe Global (Nasdaq:Cboe) Introduces a New Prediction Markets Framework",
+      "link": "https://finance.yahoo.com/markets/options/articles/cboe-global-nasdaq-cboe-introduces-071757432.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-28T07:17:57Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/74ba29653bd955130d1d0d9c25a3e6b2",
+      "slug": "cboe-global-nasdaqcboe-introduces-a-new-prediction-markets-framework-e0c91678",
+      "orig_slug": "cboe-global-nasdaqcboe-introduces-a-new-prediction-markets-framework-e0c91678"
+    },
+    {
+      "title": "It Was a Busy Week for Videogames. Keep An Eye on These Stocks.",
+      "link": "https://www.barrons.com/articles/videogames-stocks-nintendo-sony-microsoft-a477aaa9?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-28T08:00:00Z",
+      "image": "",
+      "slug": "it-was-a-busy-week-for-videogames-keep-an-eye-on-these-stocks-50a13d6f",
+      "orig_slug": "it-was-a-busy-week-for-videogames-keep-an-eye-on-these-stocks-50a13d6f"
+    },
+    {
+      "title": "Total Wireless Launch New Device Protection Plan Developed in Partnership With Assurant (AIZ)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/total-wireless-launch-device-protection-071807376.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-28T07:18:07Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/9ed621d2dd7c38b6f276434151397445",
+      "slug": "total-wireless-launch-new-device-protection-plan-developed-in-partnership-with-a-704da479",
+      "orig_slug": "total-wireless-launch-new-device-protection-plan-developed-in-partnership-with-a-704da479"
+    },
+    {
+      "title": "Morgan Stanley Raises East West Bancorp (EWBC) Price Target to $141",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-raises-east-west-071805681.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-28T07:18:05Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/6696853deb7ced0bce3cd8eabbefc5c0",
+      "slug": "morgan-stanley-raises-east-west-bancorp-ewbc-price-target-to-141-79b5eaf2",
+      "orig_slug": "morgan-stanley-raises-east-west-bancorp-ewbc-price-target-to-141-79b5eaf2"
+    },
+    {
+      "title": "Cantor Fitzgerald Raises United Therapeutics (UTHR) Price Target to $625",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cantor-fitzgerald-raises-united-therapeutics-071747866.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-28T07:17:47Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/626d3c5ab0bde0a1c34c7c58cf29267c",
+      "slug": "cantor-fitzgerald-raises-united-therapeutics-uthr-price-target-to-625-dd4b07a9",
+      "orig_slug": "cantor-fitzgerald-raises-united-therapeutics-uthr-price-target-to-625-dd4b07a9"
+    },
+    {
+      "title": "Mizuho Lowers Allstate (ALL) Price Target to $265",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mizuho-lowers-allstate-price-target-071753109.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-28T07:17:53Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/0ca0989b6f8fea7e8b35cdd974f0b4a3",
+      "slug": "mizuho-lowers-allstate-all-price-target-to-265-a4249cf1",
+      "orig_slug": "mizuho-lowers-allstate-all-price-target-to-265-a4249cf1"
+    },
+    {
+      "title": "Prediction: The Trump Bull Market Is About to End -- but These Stocks Will Rise Anyway",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-trump-bull-market-end-080500406.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-28T08:05:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/1303293358bcf15eabe5b61d9011e4c9",
+      "slug": "prediction-the-trump-bull-market-is-about-to-end----but-these-stocks-will-rise-a-d605cc85",
+      "orig_slug": "prediction-the-trump-bull-market-is-about-to-end----but-these-stocks-will-rise-a-d605cc85"
+    },
+    {
+      "title": "Zoom Communications (ZM) Announces Agentic AI Platform Expansion",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/zoom-communications-zm-announces-agentic-071752031.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-28T07:17:52Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/88f714e0d82d5882b482a369ccff488b",
+      "slug": "zoom-communications-zm-announces-agentic-ai-platform-expansion-b01cb58c",
+      "orig_slug": "zoom-communications-zm-announces-agentic-ai-platform-expansion-b01cb58c"
+    },
+    {
+      "title": "F5 (FFIV) Partners With Skyfire To Enable Secure Agentic Commerce",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/f5-ffiv-partners-skyfire-enable-071758665.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-28T07:17:58Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/6aa9bd5bb90541205e0319e5ac28657b",
+      "slug": "f5-ffiv-partners-with-skyfire-to-enable-secure-agentic-commerce-e54c7b20",
+      "orig_slug": "f5-ffiv-partners-with-skyfire-to-enable-secure-agentic-commerce-e54c7b20"
+    },
+    {
+      "title": "Fastenal (FAST) Plans New Georgia Distribution Center",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fastenal-fast-plans-georgia-distribution-071755112.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-28T07:17:55Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/95e351d892a31483132e5a6986b21100",
+      "slug": "fastenal-fast-plans-new-georgia-distribution-center-0100c332",
+      "orig_slug": "fastenal-fast-plans-new-georgia-distribution-center-0100c332"
+    },
+    {
+      "title": "Redburn Lowers ServiceNow (NOW) Price Target to $215",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/redburn-lowers-servicenow-now-price-071743674.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-28T07:17:43Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/5775cb349015718d263df9d11bfbbfa0",
+      "slug": "redburn-lowers-servicenow-now-price-target-to-215-bd512197",
+      "orig_slug": "redburn-lowers-servicenow-now-price-target-to-215-bd512197"
+    },
+    {
+      "title": "The Nasdaq Just Hit Correction Territory. History Says the Stock Market Will Do This Next (Hint: It May Shock You).",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-just-hit-correction-territory-080800487.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-28T08:08:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/5b0c47156576b03066a57b3bf90680a5",
+      "slug": "the-nasdaq-just-hit-correction-territory-history-says-the-stock-market-will-do-t-0b5c9c69",
+      "orig_slug": "the-nasdaq-just-hit-correction-territory-history-says-the-stock-market-will-do-t-0b5c9c69"
+    },
+    {
+      "title": "Jack Henry (JKHY) Financial Crimes Defender™ Added to ICBA’s Preferred Service Provider Program",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jack-henry-jkhy-financial-crimes-071803439.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-28T07:18:03Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/58bd07e9cf01a7bf828fb62504628876",
+      "slug": "jack-henry-jkhy-financial-crimes-defender-added-to-icbas-preferred-service-provi-0b15104c",
+      "orig_slug": "jack-henry-jkhy-financial-crimes-defender-added-to-icbas-preferred-service-provi-0b15104c"
+    },
+    {
+      "title": "Mizuho Lowers Progressive (PGR) Price Target to $223",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mizuho-lowers-progressive-pgr-price-071745339.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-28T07:17:45Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/784ffd8b2624818ce52f65fed1531704",
+      "slug": "mizuho-lowers-progressive-pgr-price-target-to-223-41d21095",
+      "orig_slug": "mizuho-lowers-progressive-pgr-price-target-to-223-41d21095"
+    },
+    {
+      "title": "Texas Capital Initiates Globe Life (GL) With Buy Rating and $170 Price Target",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/texas-capital-initiates-globe-life-071802873.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-28T07:18:02Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/3a0ca6c618f30c09519126fdeb252352",
+      "slug": "texas-capital-initiates-globe-life-gl-with-buy-rating-and-170-price-target-e7ad4f91",
+      "orig_slug": "texas-capital-initiates-globe-life-gl-with-buy-rating-and-170-price-target-e7ad4f91"
     },
     {
       "title": "This Trump account hack could turn small savings into a tax-free fortune — here’s how it works and who can benefit",
@@ -290,6 +182,15 @@
       "orig_slug": "this-trump-account-hack-could-turn-small-savings-into-a-tax-free-fortune-heres-h-70f458a1"
     },
     {
+      "title": "Murphy Oil Details Vietnam PSC Mechanics, Cost Recovery and Entitlement Production in Offshore Webinar",
+      "link": "https://finance.yahoo.com/sectors/energy/articles/murphy-oil-details-vietnam-psc-081559064.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-28T08:15:59Z",
+      "image": "https://s.yimg.com/os/en/marketbeat_955/6f319aafaa159c4c4cbf3b76791f7222",
+      "slug": "murphy-oil-details-vietnam-psc-mechanics-cost-recovery-and-entitlement-productio-a177d574",
+      "orig_slug": "murphy-oil-details-vietnam-psc-mechanics-cost-recovery-and-entitlement-productio-a177d574"
+    },
+    {
       "title": "Mortgage and refinance interest rates today, March 28, 2026: Rates reach 6-month high",
       "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-saturday-march-28-2026-100000155.html",
       "source": "finance.yahoo.com",
@@ -297,15 +198,6 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/fK9okicBoD2VGZ7E4.6v7w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/86ef4c20-03dd-11ef-b7af-5ddf7b57fe6e",
       "slug": "mortgage-and-refinance-interest-rates-today-march-28-2026-rates-reach-6-month-hi-59f02b5c",
       "orig_slug": "mortgage-and-refinance-interest-rates-today-march-28-2026-rates-reach-6-month-hi-59f02b5c"
-    },
-    {
-      "title": "Best CD rates today, March 28, 2026 (best account provides 4.15% APY)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/copy-best-cd-rates-today-saturday-march-28-2026-100000522.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-28T10:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/ovrcHtWjuWeW708CWElIWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47af0d0-4f64-11ef-a7fe-afb55aa695d3",
-      "slug": "best-cd-rates-today-march-28-2026-best-account-provides-415-apy-05df4bfd",
-      "orig_slug": "best-cd-rates-today-march-28-2026-best-account-provides-415-apy-05df4bfd"
     },
     {
       "title": "Best high-yield savings interest rates today, March 28, 2026 (Earn up to 4% APY)",
@@ -317,13 +209,13 @@
       "orig_slug": "best-high-yield-savings-interest-rates-today-march-28-2026-earn-up-to-4-apy-e780537f"
     },
     {
-      "title": "IXICO boss on 'tech bio' deal that creates solution for clinical trials - ICYMI",
-      "link": "https://finance.yahoo.com/sectors/healthcare/articles/ixico-boss-tech-bio-deal-070006265.html",
+      "title": "Best CD rates today, March 28, 2026 (best account provides 4.15% APY)",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/copy-best-cd-rates-today-saturday-march-28-2026-100000522.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-28T07:00:06Z",
-      "image": "https://media.zenfs.com/en/proactive_us_504/9d3eb9d284eb3569f3e9de2e7d51f318",
-      "slug": "ixico-boss-on-tech-bio-deal-that-creates-solution-for-clinical-trials---icymi-0333f2ad",
-      "orig_slug": "ixico-boss-on-tech-bio-deal-that-creates-solution-for-clinical-trials---icymi-0333f2ad"
+      "pubDate": "2026-03-28T10:00:00Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/ovrcHtWjuWeW708CWElIWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47af0d0-4f64-11ef-a7fe-afb55aa695d3",
+      "slug": "best-cd-rates-today-march-28-2026-best-account-provides-415-apy-05df4bfd",
+      "orig_slug": "best-cd-rates-today-march-28-2026-best-account-provides-415-apy-05df4bfd"
     },
     {
       "title": "HELOC and home equity loan rates Saturday, March 28, 2026: Rates hold above 7%",
@@ -333,6 +225,15 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/DEYBT6nBXCugfeps8WOPog--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/dc14d470-3ff7-11f0-8ff7-510b29e3a941",
       "slug": "heloc-and-home-equity-loan-rates-saturday-march-28-2026-rates-hold-above-7-55c192b3",
       "orig_slug": "heloc-and-home-equity-loan-rates-saturday-march-28-2026-rates-hold-above-7-55c192b3"
+    },
+    {
+      "title": "What's the Better Buy to Save for Retirement: Bitcoin vs. Gold",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/whats-better-buy-save-retirement-082000152.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-28T08:20:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/c1041008b1da74beec1ea79505a6a9f6",
+      "slug": "whats-the-better-buy-to-save-for-retirement-bitcoin-vs-gold-c2ce80d9",
+      "orig_slug": "whats-the-better-buy-to-save-for-retirement-bitcoin-vs-gold-c2ce80d9"
     },
     {
       "title": "Best money market account rates today, March 28, 2026 (best account provides 4.01% APY)",
@@ -353,103 +254,202 @@
       "orig_slug": "americas-retirement-system-just-got-a-middling-review-from-a-global-study-these--5c1f78db"
     },
     {
-      "title": "Best same-day emergency loans for April 2026: Get fast funding after approval",
-      "link": "https://finance.yahoo.com/personal-finance/personal-loans/article/best-same-day-emergency-loans-220714166.html",
+      "title": "Warren Buffett said he'd buy this one US asset if World War III ever broke out — and warned against holding cash",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-said-hed-buy-101500240.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-27T22:07:14Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/gEOxlzopNPFZeZLx8inPjQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-03/dc16b352-78b7-4eda-9f70-f56797e730d7",
-      "slug": "best-same-day-emergency-loans-for-april-2026-get-fast-funding-after-approval-f106a4a2",
-      "orig_slug": "best-same-day-emergency-loans-for-april-2026-get-fast-funding-after-approval-f106a4a2"
+      "pubDate": "2026-03-28T10:15:00Z",
+      "image": "https://media.zenfs.com/en/moneywise_ecomm_711/43218f54a45ae74e7e51c2727939c336",
+      "slug": "warren-buffett-said-hed-buy-this-one-us-asset-if-world-war-iii-ever-broke-out-an-cbc67542",
+      "orig_slug": "warren-buffett-said-hed-buy-this-one-us-asset-if-world-war-iii-ever-broke-out-an-cbc67542"
     },
     {
-      "title": "Is Schwab U.S. Dividend Equity ETF Becoming a Crowded Trade That Smart Investors Should Avoid?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/schwab-u-dividend-equity-etf-033500193.html",
+      "title": "Upland Software (UPLD) Guides for Revenue Decline but Margin Expansion and Strong Cash Flow Support Outlook",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/upland-software-upld-guides-revenue-101631431.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-28T03:35:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/a2cb92b619a0cba07401e771561040f2",
-      "slug": "is-schwab-us-dividend-equity-etf-becoming-a-crowded-trade-that-smart-investors-s-91ba171c",
-      "orig_slug": "is-schwab-us-dividend-equity-etf-becoming-a-crowded-trade-that-smart-investors-s-91ba171c"
+      "pubDate": "2026-03-28T10:16:31Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/332f666c0101261c73f9259866b37471",
+      "slug": "upland-software-upld-guides-for-revenue-decline-but-margin-expansion-and-strong--b2950d87",
+      "orig_slug": "upland-software-upld-guides-for-revenue-decline-but-margin-expansion-and-strong--b2950d87"
     },
     {
-      "title": "SAVE plan officially ends. Here's what happens to your student loans now.",
-      "link": "https://finance.yahoo.com/personal-finance/student-loans/article/save-plan-officially-ends-heres-what-happens-to-your-student-loans-now-164707646.html",
+      "title": "Look Beyond Skyrocketing Gas Prices! If a Stock Market Crash Takes Shape Under President Donald Trump, the Fed Is Likely to Be the Catalyst.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/look-beyond-skyrocketing-gas-prices-082600831.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-11T16:47:07Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/818wYee2rTecog3d43XNBg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/af9f6dc0-d60f-11f0-abff-76060f790fbf",
-      "slug": "save-plan-officially-ends-heres-what-happens-to-your-student-loans-now-8218591c",
-      "orig_slug": "save-plan-officially-ends-heres-what-happens-to-your-student-loans-now-8218591c"
+      "pubDate": "2026-03-28T08:26:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/d2ad54b580edccf1ddeb4813955f0c42",
+      "slug": "look-beyond-skyrocketing-gas-prices-if-a-stock-market-crash-takes-shape-under-pr-93e7a48d",
+      "orig_slug": "look-beyond-skyrocketing-gas-prices-if-a-stock-market-crash-takes-shape-under-pr-93e7a48d"
     },
     {
-      "title": "America First Credit Union review (2026): Market-leading CD rates for those who qualify for membership",
-      "link": "https://finance.yahoo.com/personal-finance/banking/review/america-first-credit-union-review-204737529.html",
+      "title": "Paysafe Limited (PSFE) Sees Mixed Q4 Results as Digital Wallet Strength Offsets Weak SMB Segment",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/paysafe-limited-psfe-sees-mixed-101638241.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2024-07-18T20:47:37Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/33RCc9a8yQIiu66JpQefqA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/b78f1b00-453f-11ef-bdba-98521738a99e",
-      "slug": "america-first-credit-union-review-2026-market-leading-cd-rates-for-those-who-qua-3c9b0327",
-      "orig_slug": "america-first-credit-union-review-2026-market-leading-cd-rates-for-those-who-qua-3c9b0327"
+      "pubDate": "2026-03-28T10:16:38Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/d3cb47c3cc497f6289f65db34249f62a",
+      "slug": "paysafe-limited-psfe-sees-mixed-q4-results-as-digital-wallet-strength-offsets-we-60d36c2a",
+      "orig_slug": "paysafe-limited-psfe-sees-mixed-q4-results-as-digital-wallet-strength-offsets-we-60d36c2a"
     },
     {
-      "title": "Electric car prices may be easing, but EV insurance costs remain high",
-      "link": "https://finance.yahoo.com/personal-finance/insurance/article/ev-insurance-153443980.html",
+      "title": "Urgent.ly (ULY) Agrees to $5.50 Per Share Acquisition by Agero After Strong Q4 and Margin Expansion",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/urgent-ly-uly-agrees-5-101645666.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2023-12-15T19:14:17Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/PU7cimvADlNxu18jaUYxhg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://s.yimg.com/os/creatr-uploaded-images/2021-05/3c8672f0-c1f3-11eb-bf98-aaa93bc65442",
-      "slug": "electric-car-prices-may-be-easing-but-ev-insurance-costs-remain-high-2ef97372",
-      "orig_slug": "electric-car-prices-may-be-easing-but-ev-insurance-costs-remain-high-2ef97372"
+      "pubDate": "2026-03-28T10:16:45Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/c2083f17d51dd0c1a5870a92d6fa9be2",
+      "slug": "urgently-uly-agrees-to-550-per-share-acquisition-by-agero-after-strong-q4-and-ma-b58c7b02",
+      "orig_slug": "urgently-uly-agrees-to-550-per-share-acquisition-by-agero-after-strong-q4-and-ma-b58c7b02"
     },
     {
-      "title": "7 common banking scams (and how to avoid becoming a victim)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/banking-scams-195238572.html",
+      "title": "PicS (PICS) Delivers 85% Revenue Growth and IPO Transformation Despite Earnings Miss and Fintech Pressure",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pics-pics-delivers-85-revenue-101655660.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2024-05-06T19:52:38Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/necLE9wjDhCVN.AMzBa8Hg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-11/55569130-69e4-11ed-afbe-92c6c7a47540",
-      "slug": "7-common-banking-scams-and-how-to-avoid-becoming-a-victim-800a92ba",
-      "orig_slug": "7-common-banking-scams-and-how-to-avoid-becoming-a-victim-800a92ba"
+      "pubDate": "2026-03-28T10:16:55Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/92705283c1aa7d92ad71fbd054c21b1e",
+      "slug": "pics-pics-delivers-85-revenue-growth-and-ipo-transformation-despite-earnings-mis-db662092",
+      "orig_slug": "pics-pics-delivers-85-revenue-growth-and-ipo-transformation-despite-earnings-mis-db662092"
     },
     {
-      "title": "When Will SpaceX Complete Its IPO? Here's When Prediction Market Thinks Elon Musk's Company Will Go Public",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-complete-ipo-heres-prediction-033122315.html",
+      "title": "Sprout Social (SPT) Beats Q4 Expectations but Weak Guidance and Slowing Growth Weigh on Outlook",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sprout-social-spt-beats-q4-101703494.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-28T03:31:22Z",
-      "image": "https://s.yimg.com/os/en/Benzinga/db189140ff461c8b6fc875ce4ce9abc6",
-      "slug": "when-will-spacex-complete-its-ipo-heres-when-prediction-market-thinks-elon-musks-f96bea8f",
-      "orig_slug": "when-will-spacex-complete-its-ipo-heres-when-prediction-market-thinks-elon-musks-f96bea8f"
+      "pubDate": "2026-03-28T10:17:03Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/4d5ac6bf83e7432df79b4964bfaaa02c",
+      "slug": "sprout-social-spt-beats-q4-expectations-but-weak-guidance-and-slowing-growth-wei-09ca0fea",
+      "orig_slug": "sprout-social-spt-beats-q4-expectations-but-weak-guidance-and-slowing-growth-wei-09ca0fea"
     },
     {
-      "title": "Guide to selling and buying a house at the same time",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/selling-and-buying-a-house-at-the-same-time-184933881.html",
+      "title": "VOO vs. VOOG: Which Vanguard ETF Has More Upside in 2026?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/voo-vs-voog-vanguard-etf-083109303.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-27T18:49:33Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/YOuMIB8_3L2N2ZEVwKZe6A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/5375ae40-4255-11f0-aedc-053395f865c1",
-      "slug": "guide-to-selling-and-buying-a-house-at-the-same-time-9456383f",
-      "orig_slug": "guide-to-selling-and-buying-a-house-at-the-same-time-9456383f"
+      "pubDate": "2026-03-28T08:31:09Z",
+      "image": "https://s.yimg.com/os/en/tipranks_452/da94af1924a8949cf33d13875d932f11",
+      "slug": "voo-vs-voog-which-vanguard-etf-has-more-upside-in-2026-2bb970d6",
+      "orig_slug": "voo-vs-voog-which-vanguard-etf-has-more-upside-in-2026-2bb970d6"
     },
     {
-      "title": "How to invest in cryptocurrency: A beginner's guide",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/how-to-invest-in-cryptocurrency-for-beginners-155910593.html",
+      "title": "AudioEye (AEYE) Gains from DOJ Accessibility Mandate Tailwinds Despite Price Target Cuts on Mixed Guidance",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/audioeye-aeye-gains-doj-accessibility-101718340.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-16T15:59:10Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/KlY_XjDDLkgsR2rE3p6ayg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-03/f7429e14-2e4f-4115-a0fb-f14e9c9bf80a",
-      "slug": "how-to-invest-in-cryptocurrency-a-beginners-guide-4c8d5388",
-      "orig_slug": "how-to-invest-in-cryptocurrency-a-beginners-guide-4c8d5388"
+      "pubDate": "2026-03-28T10:17:18Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/d25ee3a1967b0b8a47186e4151f23199",
+      "slug": "audioeye-aeye-gains-from-doj-accessibility-mandate-tailwinds-despite-price-targe-c8486e78",
+      "orig_slug": "audioeye-aeye-gains-from-doj-accessibility-mandate-tailwinds-despite-price-targe-c8486e78"
     },
     {
-      "title": "Can you buy crypto with a credit card? See the pros and cons.",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/buy-crypto-with-credit-card-223323104.html",
+      "title": "PagerDuty (PD) Faces Churn Headwinds and Soft Demand Despite Q4 Beat, Seen as Turnaround Opportunity",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pagerduty-pd-faces-churn-headwinds-101712636.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-03-13T22:33:23Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/CaDasI0_ViZ8a5I13Cp2FA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-03/0b525c2a-d6b6-4046-b67c-e5566f23bd78",
-      "slug": "can-you-buy-crypto-with-a-credit-card-see-the-pros-and-cons-5471788f",
-      "orig_slug": "can-you-buy-crypto-with-a-credit-card-see-the-pros-and-cons-5471788f"
+      "pubDate": "2026-03-28T10:17:12Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/1d7c11bdab2669c8b62bca17aa8ebd44",
+      "slug": "pagerduty-pd-faces-churn-headwinds-and-soft-demand-despite-q4-beat-seen-as-turna-d19a4c62",
+      "orig_slug": "pagerduty-pd-faces-churn-headwinds-and-soft-demand-despite-q4-beat-seen-as-turna-d19a4c62"
     },
     {
-      "title": "Want to buy a house with crypto? Here's what to expect.",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/can-you-buy-a-house-with-cryptocurrency-163607140.html",
+      "title": "Asure Software (ASUR) Delivers Strong Q4 Revenue Growth and Raised Price Target as HCM Platform Gains Traction",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/asure-software-asur-delivers-strong-101735112.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-08-05T16:36:07Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/hR00oGfm5nUVmfZb2r2jmA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/ea6019f0-717e-11f0-bee7-d83bbd082373",
-      "slug": "want-to-buy-a-house-with-crypto-heres-what-to-expect-9cb1e9a7",
-      "orig_slug": "want-to-buy-a-house-with-crypto-heres-what-to-expect-9cb1e9a7"
+      "pubDate": "2026-03-28T10:17:35Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/8a4e7856e2996053c8f2db7eca28fab3",
+      "slug": "asure-software-asur-delivers-strong-q4-revenue-growth-and-raised-price-target-as-c27fafaf",
+      "orig_slug": "asure-software-asur-delivers-strong-q4-revenue-growth-and-raised-price-target-as-c27fafaf"
+    },
+    {
+      "title": "Accenture (ACN) Sees Record Bookings and AI Investment Momentum Despite Price Target Cuts",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/accenture-acn-sees-record-bookings-101742797.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-28T10:17:42Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/e13eafb879d337f843e648dbb91ec2ea",
+      "slug": "accenture-acn-sees-record-bookings-and-ai-investment-momentum-despite-price-targ-2ca1752b",
+      "orig_slug": "accenture-acn-sees-record-bookings-and-ai-investment-momentum-despite-price-targ-2ca1752b"
+    },
+    {
+      "title": "The First Blockbuster Stock Split of 2026 Is Just Days Away. The Stock Skyrocketed 30,490% in 25 Years and Has More Upside Ahead, According to Wall Street",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/first-blockbuster-stock-split-2026-072200140.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-28T07:22:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/41f6fdfce4d446c365cda2725414aaf8",
+      "slug": "the-first-blockbuster-stock-split-of-2026-is-just-days-away-the-stock-skyrockete-03bdcf16",
+      "orig_slug": "the-first-blockbuster-stock-split-of-2026-is-just-days-away-the-stock-skyrockete-03bdcf16"
+    },
+    {
+      "title": "BlackLine, Inc. (BL) Expands Board, Boosts Buyback to $500M as AI Growth Accelerates",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/blackline-inc-bl-expands-board-101751697.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-28T10:17:51Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/f403467a3583480b84fd4d733b37e9e7",
+      "slug": "blackline-inc-bl-expands-board-boosts-buyback-to-500m-as-ai-growth-accelerates-dfea092b",
+      "orig_slug": "blackline-inc-bl-expands-board-boosts-buyback-to-500m-as-ai-growth-accelerates-dfea092b"
+    },
+    {
+      "title": "Unity Software (U) Soars 13.6% on Higher Revenue Outlook",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/unity-software-u-soars-13-043433039.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-28T04:34:33Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/bff6c2a751353882ea54232ea3110e56",
+      "slug": "unity-software-u-soars-136-on-higher-revenue-outlook-652a5ad4",
+      "orig_slug": "unity-software-u-soars-136-on-higher-revenue-outlook-652a5ad4"
+    },
+    {
+      "title": "ADMA Biologics (ADMA) Soars 11.6% as Firm Denies Short Seller Allegations",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/adma-biologics-adma-soars-11-042733181.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-28T04:27:33Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/decddfbc18ce81b133b0c85b5d14a938",
+      "slug": "adma-biologics-adma-soars-116-as-firm-denies-short-seller-allegations-8d72344a",
+      "orig_slug": "adma-biologics-adma-soars-116-as-firm-denies-short-seller-allegations-8d72344a"
+    },
+    {
+      "title": "First Majestic (AG) Climbs 7% on Silver Rush",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/first-majestic-ag-climbs-7-042141683.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-28T04:21:41Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/3d9d6fdf036c5526a942e2aed7198788",
+      "slug": "first-majestic-ag-climbs-7-on-silver-rush-d3666348",
+      "orig_slug": "first-majestic-ag-climbs-7-on-silver-rush-d3666348"
+    },
+    {
+      "title": "Merck & Co. Touts $6.7B Terns Deal, Highlights TERN-701 “Best-in-Class” CML Potential",
+      "link": "https://finance.yahoo.com/sectors/healthcare/articles/merck-co-touts-6-7b-072043349.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-28T07:20:43Z",
+      "image": "https://s.yimg.com/os/en/marketbeat_955/e23c38395a2f6cd099d4d7f775327c97",
+      "slug": "merck-co-touts-67b-terns-deal-highlights-tern-701-best-in-class-cml-potential-966ed993",
+      "orig_slug": "merck-co-touts-67b-terns-deal-highlights-tern-701-best-in-class-cml-potential-966ed993"
+    },
+    {
+      "title": "After a Florida woman's house fire, her insurer declared it a total loss — here's who decides if it gets rebuilt",
+      "link": "https://finance.yahoo.com/economy/policy/articles/florida-womans-house-fire-her-103000862.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-28T10:30:00Z",
+      "image": "https://media.zenfs.com/en/moneywise_327/eba6bf88e2d36e0eb962b23365152c1b",
+      "slug": "after-a-florida-womans-house-fire-her-insurer-declared-it-a-total-loss-heres-who-22ffdee3",
+      "orig_slug": "after-a-florida-womans-house-fire-her-insurer-declared-it-a-total-loss-heres-who-22ffdee3"
+    },
+    {
+      "title": "Entergy (ETR) Rallies 6.8% on Meta Deal",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/entergy-etr-rallies-6-8-041828890.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-28T04:18:28Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/eca7d0b981865f286c80f4a266d72a37",
+      "slug": "entergy-etr-rallies-68-on-meta-deal-0d65497f",
+      "orig_slug": "entergy-etr-rallies-68-on-meta-deal-0d65497f"
+    },
+    {
+      "title": "Coeur Mining (CDE) Jumps 5.9% on Precious Metals Surge",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/coeur-mining-cde-jumps-5-041516747.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-28T04:15:16Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/529f81f6eff056f4fbdd64cf87e24c72",
+      "slug": "coeur-mining-cde-jumps-59-on-precious-metals-surge-e7b30f82",
+      "orig_slug": "coeur-mining-cde-jumps-59-on-precious-metals-surge-e7b30f82"
+    },
+    {
+      "title": "Brown-Forman (BF-B) Climbs 5.6% on JPMorgan Upgrade",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/brown-forman-bf-b-climbs-041208727.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-28T04:12:08Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/14b51f8014a4cb7d4c1b995746255130",
+      "slug": "brown-forman-bf-b-climbs-56-on-jpmorgan-upgrade-56e4a6d0",
+      "orig_slug": "brown-forman-bf-b-climbs-56-on-jpmorgan-upgrade-56e4a6d0"
     }
   ]
 }
