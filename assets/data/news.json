@@ -1,14 +1,14 @@
 {
-  "updated": "2026-03-30T23:27:49Z",
+  "updated": "2026-03-31T01:21:22Z",
   "items": [
     {
-      "title": "Got $5,000? 2 Stocks the Fed's Rate Decision Just Made More Attractive",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/got-5-000-2-stocks-145400308.html",
+      "title": "The S&P 500 Has Completed This Rare Feat 4 Times in 76 Years, and History Couldn't Be Clearer About What Comes Next for Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-completed-rare-feat-132600616.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-29T14:54:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/0fb06ab90db2390fac3f8167dd565484",
-      "slug": "got-5000-2-stocks-the-feds-rate-decision-just-made-more-attractive-9b60f220",
-      "orig_slug": "got-5000-2-stocks-the-feds-rate-decision-just-made-more-attractive-9b60f220"
+      "pubDate": "2026-03-29T13:26:00Z",
+      "image": "https://s.yimg.com/os/en/motleyfool.com/210ffe6e1bf22aa90dad35e6309a0d06",
+      "slug": "the-sp-500-has-completed-this-rare-feat-4-times-in-76-years-and-history-couldnt--8cefffb0",
+      "orig_slug": "the-sp-500-has-completed-this-rare-feat-4-times-in-76-years-and-history-couldnt--8cefffb0"
     },
     {
       "title": "As Meta Doubles Down on Data Center Investment, AMD and American Tower Could Be the Top Stocks to Buy",
@@ -29,6 +29,15 @@
       "orig_slug": "occidental-petroleum-stock-may-be-at-a-peak---time-to-sell-oxy-covered-calls-fcc56a3b"
     },
     {
+      "title": "Which banks are open on Sunday?",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/banks-open-on-sunday-170650488.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2024-05-09T17:06:50Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/I.736RgXSczu1HCl7O.x4g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/25c8f340-0e25-11ef-bfcd-1c605b524236",
+      "slug": "which-banks-are-open-on-sunday-8b90cd92",
+      "orig_slug": "which-banks-are-open-on-sunday-8b90cd92"
+    },
+    {
       "title": "Philippines declares Iran war poses 'imminent danger' — now it must lean on coal. Does the US face the same shockwave?",
       "link": "https://finance.yahoo.com/sectors/energy/articles/philippines-declares-iran-war-poses-164500501.html",
       "source": "finance.yahoo.com",
@@ -36,6 +45,15 @@
       "image": "https://media.zenfs.com/en/moneywise_327/2294c02eaaee8e0964ad5f2bb9772d07",
       "slug": "philippines-declares-iran-war-poses-imminent-danger-now-it-must-lean-on-coal-doe-99161bbf",
       "orig_slug": "philippines-declares-iran-war-poses-imminent-danger-now-it-must-lean-on-coal-doe-99161bbf"
+    },
+    {
+      "title": "AI agents are already driving 10% of revenue for some brands. Is yours invisible to them?",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/ai-agents-already-driving-10-133000562.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-29T13:30:00Z",
+      "image": "https://s.yimg.com/os/en/fortune_175/a416016349b7133dd308309f4377d0ab",
+      "slug": "ai-agents-are-already-driving-10-of-revenue-for-some-brands-is-yours-invisible-t-09bd6b41",
+      "orig_slug": "ai-agents-are-already-driving-10-of-revenue-for-some-brands-is-yours-invisible-t-09bd6b41"
     },
     {
       "title": "Iran, Oil Prices and Other Key Things to Watch this Week",
@@ -47,24 +65,6 @@
       "orig_slug": "iran-oil-prices-and-other-key-things-to-watch-this-week-563a9831"
     },
     {
-      "title": "Weekly Stock List",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_46581_StockPicks_1774870280000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-30T11:31:20Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "weekly-stock-list-df46c3d9",
-      "orig_slug": "weekly-stock-list-df46c3d9"
-    },
-    {
-      "title": "Netflix Hikes Prices For All Plans As Content Spending Surges",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-hikes-prices-plans-content-150111163.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-29T15:01:11Z",
-      "image": "https://s.yimg.com/os/en/Benzinga/f253eb746516aff16675036998126124",
-      "slug": "netflix-hikes-prices-for-all-plans-as-content-spending-surges-8f8251c5",
-      "orig_slug": "netflix-hikes-prices-for-all-plans-as-content-spending-surges-8f8251c5"
-    },
-    {
       "title": "The Market Isn’t Broken. Your Framework Is.",
       "link": "https://finance.yahoo.com/markets/stocks/articles/market-isn-t-broken-framework-170016064.html",
       "source": "finance.yahoo.com",
@@ -72,168 +72,6 @@
       "image": "https://media.zenfs.com/en/barchart_com_477/a3ae6f6216044cbe1a54acf90a9a3157",
       "slug": "the-market-isnt-broken-your-framework-is-0ea62271",
       "orig_slug": "the-market-isnt-broken-your-framework-is-0ea62271"
-    },
-    {
-      "title": "Should You Buy the Dip in Western Digital Stock as Google Launches TurboQuant?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/buy-dip-western-digital-stock-130002246.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-29T13:00:02Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/72969cd8320775c6cf8814d5d2c8f685",
-      "slug": "should-you-buy-the-dip-in-western-digital-stock-as-google-launches-turboquant-4b28fea6",
-      "orig_slug": "should-you-buy-the-dip-in-western-digital-stock-as-google-launches-turboquant-4b28fea6"
-    },
-    {
-      "title": "Netskope (NTSK) Still Seen As “Strong Buy” By Wall Street Analysts",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/netskope-ntsk-still-seen-strong-173749088.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-29T17:37:49Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/d653eb35ca56fb085471502a418a1a7e",
-      "slug": "netskope-ntsk-still-seen-as-strong-buy-by-wall-street-analysts-b03c6178",
-      "orig_slug": "netskope-ntsk-still-seen-as-strong-buy-by-wall-street-analysts-b03c6178"
-    },
-    {
-      "title": "NIQ Global Intelligence (NIQ) Launches Packaging Strategic Planner Global (SPG) Solution to Streamline Packaging Tracking Process",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/niq-global-intelligence-niq-launches-173751360.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-29T17:37:51Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/e1f1b7bd12df4a45308fd098bf3262db",
-      "slug": "niq-global-intelligence-niq-launches-packaging-strategic-planner-global-spg-solu-6b621c92",
-      "orig_slug": "niq-global-intelligence-niq-launches-packaging-strategic-planner-global-spg-solu-6b621c92"
-    },
-    {
-      "title": "Technical Assessment: Bullish in the Intermediate-Term",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_46576_TechnicalAnalysis_1774868974000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-30T11:09:34Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "technical-assessment-bullish-in-the-intermediate-term-d1776ac2",
-      "orig_slug": "technical-assessment-bullish-in-the-intermediate-term-d1776ac2"
-    },
-    {
-      "title": "I Asked ChatGPT Which Budgeting Mistakes Cost People the Most — Here’s What It Said",
-      "link": "https://finance.yahoo.com/markets/articles/asked-chatgpt-budgeting-mistakes-cost-150405562.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-29T15:04:05Z",
-      "image": "https://media.zenfs.com/en/gobankingrates_644/dc829673e459b279c6d1b716a511c8f0",
-      "slug": "i-asked-chatgpt-which-budgeting-mistakes-cost-people-the-most-heres-what-it-said-46c0d708",
-      "orig_slug": "i-asked-chatgpt-which-budgeting-mistakes-cost-people-the-most-heres-what-it-said-46c0d708"
-    },
-    {
-      "title": "Parsons (PSN) Announces Expansion of Its iNET Smart Mobility Platform",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/parsons-psn-announces-expansion-inet-173757014.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-29T17:37:57Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/cae7b6a3e27f2b28987d943d159ba927",
-      "slug": "parsons-psn-announces-expansion-of-its-inet-smart-mobility-platform-80a15011",
-      "orig_slug": "parsons-psn-announces-expansion-of-its-inet-smart-mobility-platform-80a15011"
-    },
-    {
-      "title": "Goldman Sachs Raises PT on Navan (NAVN) to $23, Reiterates “Buy” Rating Following Strong Q4 Results",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-raises-pt-navan-173754476.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-29T17:37:54Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/41e5185a9affa5e50ba822e5f7682b39",
-      "slug": "goldman-sachs-raises-pt-on-navan-navn-to-23-reiterates-buy-rating-following-stro-177ad7e4",
-      "orig_slug": "goldman-sachs-raises-pt-on-navan-navn-to-23-reiterates-buy-rating-following-stro-177ad7e4"
-    },
-    {
-      "title": "Analysts Remain Bullish on Pattern Group (PTRN) Following Recent Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/analysts-remain-bullish-pattern-group-173753066.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-29T17:37:53Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/3e50843fb1789c55c318ebdc6c26005a",
-      "slug": "analysts-remain-bullish-on-pattern-group-ptrn-following-recent-earnings-call-cd295984",
-      "orig_slug": "analysts-remain-bullish-on-pattern-group-ptrn-following-recent-earnings-call-cd295984"
-    },
-    {
-      "title": "Strong Analyst Sentiment on NICE (NICE) Amid AI Push Acceleration",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/strong-analyst-sentiment-nice-nice-173759502.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-29T17:37:59Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/540c7bfffc9cf078fe323e1d9683599d",
-      "slug": "strong-analyst-sentiment-on-nice-nice-amid-ai-push-acceleration-ca6ad691",
-      "orig_slug": "strong-analyst-sentiment-on-nice-nice-amid-ai-push-acceleration-ca6ad691"
-    },
-    {
-      "title": "Market Digest: ZBH",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_46574_MarketSummary_1774868041000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-30T10:54:01Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "market-digest-zbh-d23d3e67",
-      "orig_slug": "market-digest-zbh-d23d3e67"
-    },
-    {
-      "title": "Visa vs. Mastercard: One Is Built for a Recession. Here's Which One to Own.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/visa-vs-mastercard-one-built-150500775.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-29T15:05:00Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/d0562a5db8070f817f303dd2f355ba92",
-      "slug": "visa-vs-mastercard-one-is-built-for-a-recession-heres-which-one-to-own-6a07e17c",
-      "orig_slug": "visa-vs-mastercard-one-is-built-for-a-recession-heres-which-one-to-own-6a07e17c"
-    },
-    {
-      "title": "Analysts Remain Bullish on SailPoint. (SAIL) Amid Strong Q4 and Full-Year Results",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/analysts-remain-bullish-sailpoint-sail-173756699.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-29T17:37:56Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/af094c0e0abcaf66627bbba6e132051f",
-      "slug": "analysts-remain-bullish-on-sailpoint-sail-amid-strong-q4-and-full-year-results-ea304514",
-      "orig_slug": "analysts-remain-bullish-on-sailpoint-sail-amid-strong-q4-and-full-year-results-ea304514"
-    },
-    {
-      "title": "A bold 2011 market call is echoed in 2026",
-      "link": "https://finance.yahoo.com/news/a-bold-2011-market-call-is-echoed-in-2026-180220110.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-29T18:02:20Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/JC2foPYc3yZRO2Dk3K5BGg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/bd7ccbf0-2b95-11f1-bdff-0d5ef207c05e",
-      "slug": "a-bold-2011-market-call-is-echoed-in-2026-b1669e9f",
-      "orig_slug": "a-bold-2011-market-call-is-echoed-in-2026-b1669e9f"
-    },
-    {
-      "title": "How the Fed has — and hasn't — responded to previous oil price shocks",
-      "link": "https://finance.yahoo.com/news/how-the-fed-has--and-hasnt--responded-to-previous-oil-price-shocks-090035039.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-24T09:00:35Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/xwQbfWdo5e02u50JF6HFkA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/afcab0c0-2461-11f1-a77f-d072934c7306",
-      "slug": "how-the-fed-has-and-hasnt-responded-to-previous-oil-price-shocks-e42b5db2",
-      "orig_slug": "how-the-fed-has-and-hasnt-responded-to-previous-oil-price-shocks-e42b5db2"
-    },
-    {
-      "title": "Which banks are open on Sunday?",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/banks-open-on-sunday-170650488.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2024-05-09T17:06:50Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/I.736RgXSczu1HCl7O.x4g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/25c8f340-0e25-11ef-bfcd-1c605b524236",
-      "slug": "which-banks-are-open-on-sunday-8b90cd92",
-      "orig_slug": "which-banks-are-open-on-sunday-8b90cd92"
-    },
-    {
-      "title": "Daily – Vickers Top Insider Picks for 03/30/2026",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_46572_InsiderActivity_1774866334000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-30T10:25:34Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-vickers-top-insider-picks-for-03302026-94163970",
-      "orig_slug": "daily-vickers-top-insider-picks-for-03302026-94163970"
-    },
-    {
-      "title": "Russell 2000 Stocks: Too Early or Finally Interesting?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/russell-2000-stocks-too-early-150600027.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-29T15:06:00Z",
-      "image": "https://s.yimg.com/os/en/marketbeat_955/022bca67df4e7e9cfc00898219833e71",
-      "slug": "russell-2000-stocks-too-early-or-finally-interesting-bd50afe9",
-      "orig_slug": "russell-2000-stocks-too-early-or-finally-interesting-bd50afe9"
-    },
-    {
-      "title": "Best CD rates today, March 29, 2026 (lock in up to 4.15% APY)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/copy-best-cd-rates-today-sunday-march-29-2026-100000730.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-29T10:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/9xZhsl9JDBre6CMmLno6Gg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47b17e0-4f64-11ef-afb3-0ed5867646a0",
-      "slug": "best-cd-rates-today-march-29-2026-lock-in-up-to-415-apy-18d75a87",
-      "orig_slug": "best-cd-rates-today-march-29-2026-lock-in-up-to-415-apy-18d75a87"
     },
     {
       "title": "Best money market account rates today, March 29, 2026 (best account provides 4.01% APY)",
@@ -254,6 +92,24 @@
       "orig_slug": "best-high-yield-savings-interest-rates-today-march-29-2026-earn-up-to-4-apy-f6f90a91"
     },
     {
+      "title": "Cathie Wood Going Cold On Big Tech? Ark Sells Nvidia, AMD, Meta And Google Stock — AI Darlings Get The Dump",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-going-cold-big-133122912.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-29T13:31:22Z",
+      "image": "https://s.yimg.com/os/en/Benzinga/bdbdb34e7774f32f733dc5d95f69fd4f",
+      "slug": "cathie-wood-going-cold-on-big-tech-ark-sells-nvidia-amd-meta-and-google-stock-ai-383480c0",
+      "orig_slug": "cathie-wood-going-cold-on-big-tech-ark-sells-nvidia-amd-meta-and-google-stock-ai-383480c0"
+    },
+    {
+      "title": "Best CD rates today, March 29, 2026 (lock in up to 4.15% APY)",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/copy-best-cd-rates-today-sunday-march-29-2026-100000730.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-29T10:00:00Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/9xZhsl9JDBre6CMmLno6Gg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47b17e0-4f64-11ef-afb3-0ed5867646a0",
+      "slug": "best-cd-rates-today-march-29-2026-lock-in-up-to-415-apy-18d75a87",
+      "orig_slug": "best-cd-rates-today-march-29-2026-lock-in-up-to-415-apy-18d75a87"
+    },
+    {
       "title": "Mortgage and refinance interest rates today, March 29, 2026: 30-year rate increases 10 bps since Friday",
       "link": "https://finance.yahoo.com/personal-finance/mortgages/article/copy-mortgage-refinance-interest-rates-today-sunday-march-22-2026-100000398.html",
       "source": "finance.yahoo.com",
@@ -261,24 +117,6 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/I199q7waIrtuQGBJaPIm2w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/6f016ae0-03e6-11ef-97ff-13785de87be3",
       "slug": "mortgage-and-refinance-interest-rates-today-march-29-2026-30-year-rate-increases-84fca1f1",
       "orig_slug": "mortgage-and-refinance-interest-rates-today-march-29-2026-30-year-rate-increases-84fca1f1"
-    },
-    {
-      "title": "Daily – Vickers Top Buyers & Sellers for 03/30/2026",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_46573_TopBottomInsiderActivity_1774866334000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-30T10:25:34Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-vickers-top-buyers-sellers-for-03302026-7041597e",
-      "orig_slug": "daily-vickers-top-buyers-sellers-for-03302026-7041597e"
-    },
-    {
-      "title": "Goldman Sachs draws 3 major conclusions from oil supply shocks",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/goldman-sachs-draws-3-major-150700610.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-29T15:07:00Z",
-      "image": "https://s.yimg.com/os/en/thestreet_881/5296e6dd3718e00e2c5fd5eba8503ef6",
-      "slug": "goldman-sachs-draws-3-major-conclusions-from-oil-supply-shocks-a1b4a4a4",
-      "orig_slug": "goldman-sachs-draws-3-major-conclusions-from-oil-supply-shocks-a1b4a4a4"
     },
     {
       "title": "HELOC and home equity loan rates Sunday, March 29, 2026: Little movement in rates this week",
@@ -290,6 +128,258 @@
       "orig_slug": "heloc-and-home-equity-loan-rates-sunday-march-29-2026-little-movement-in-rates-t-a1c859dd"
     },
     {
+      "title": "NIQ Global Intelligence (NIQ) Launches Packaging Strategic Planner Global (SPG) Solution to Streamline Packaging Tracking Process",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/niq-global-intelligence-niq-launches-173751360.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-29T17:37:51Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/e1f1b7bd12df4a45308fd098bf3262db",
+      "slug": "niq-global-intelligence-niq-launches-packaging-strategic-planner-global-spg-solu-6b621c92",
+      "orig_slug": "niq-global-intelligence-niq-launches-packaging-strategic-planner-global-spg-solu-6b621c92"
+    },
+    {
+      "title": "Weekly Stock List",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46581_StockPicks_1774870280000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-30T11:31:20Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "weekly-stock-list-df46c3d9",
+      "orig_slug": "weekly-stock-list-df46c3d9"
+    },
+    {
+      "title": "The Iran Conflict Is Sending Oil Prices Soaring -- These 3 Energy Stocks Are Built to Profit",
+      "link": "https://finance.yahoo.com/sectors/energy/articles/iran-conflict-sending-oil-prices-133400107.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-29T13:34:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/8f4fd46e8197afc9b4e9891b181ee64c",
+      "slug": "the-iran-conflict-is-sending-oil-prices-soaring----these-3-energy-stocks-are-bui-a13c2704",
+      "orig_slug": "the-iran-conflict-is-sending-oil-prices-soaring----these-3-energy-stocks-are-bui-a13c2704"
+    },
+    {
+      "title": "Netskope (NTSK) Still Seen As “Strong Buy” By Wall Street Analysts",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/netskope-ntsk-still-seen-strong-173749088.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-29T17:37:49Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/d653eb35ca56fb085471502a418a1a7e",
+      "slug": "netskope-ntsk-still-seen-as-strong-buy-by-wall-street-analysts-b03c6178",
+      "orig_slug": "netskope-ntsk-still-seen-as-strong-buy-by-wall-street-analysts-b03c6178"
+    },
+    {
+      "title": "Analysts Remain Bullish on Pattern Group (PTRN) Following Recent Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/analysts-remain-bullish-pattern-group-173753066.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-29T17:37:53Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/3e50843fb1789c55c318ebdc6c26005a",
+      "slug": "analysts-remain-bullish-on-pattern-group-ptrn-following-recent-earnings-call-cd295984",
+      "orig_slug": "analysts-remain-bullish-on-pattern-group-ptrn-following-recent-earnings-call-cd295984"
+    },
+    {
+      "title": "Goldman Sachs Raises PT on Navan (NAVN) to $23, Reiterates “Buy” Rating Following Strong Q4 Results",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-raises-pt-navan-173754476.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-29T17:37:54Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/41e5185a9affa5e50ba822e5f7682b39",
+      "slug": "goldman-sachs-raises-pt-on-navan-navn-to-23-reiterates-buy-rating-following-stro-177ad7e4",
+      "orig_slug": "goldman-sachs-raises-pt-on-navan-navn-to-23-reiterates-buy-rating-following-stro-177ad7e4"
+    },
+    {
+      "title": "Analysts Remain Bullish on SailPoint. (SAIL) Amid Strong Q4 and Full-Year Results",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/analysts-remain-bullish-sailpoint-sail-173756699.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-29T17:37:56Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/af094c0e0abcaf66627bbba6e132051f",
+      "slug": "analysts-remain-bullish-on-sailpoint-sail-amid-strong-q4-and-full-year-results-ea304514",
+      "orig_slug": "analysts-remain-bullish-on-sailpoint-sail-amid-strong-q4-and-full-year-results-ea304514"
+    },
+    {
+      "title": "Technical Assessment: Bullish in the Intermediate-Term",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46576_TechnicalAnalysis_1774868974000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-30T11:09:34Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "technical-assessment-bullish-in-the-intermediate-term-d1776ac2",
+      "orig_slug": "technical-assessment-bullish-in-the-intermediate-term-d1776ac2"
+    },
+    {
+      "title": "Disney Is Down 25%, but the Worst Might Not Be Over",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/disney-down-25-worst-might-131719269.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-29T13:17:19Z",
+      "image": "https://media.zenfs.com/en/24_7_wall_st__718/4cef6ca5b4b2ae56f3e218793d1d069a",
+      "slug": "disney-is-down-25-but-the-worst-might-not-be-over-b4fc9524",
+      "orig_slug": "disney-is-down-25-but-the-worst-might-not-be-over-b4fc9524"
+    },
+    {
+      "title": "Parsons (PSN) Announces Expansion of Its iNET Smart Mobility Platform",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/parsons-psn-announces-expansion-inet-173757014.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-29T17:37:57Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/cae7b6a3e27f2b28987d943d159ba927",
+      "slug": "parsons-psn-announces-expansion-of-its-inet-smart-mobility-platform-80a15011",
+      "orig_slug": "parsons-psn-announces-expansion-of-its-inet-smart-mobility-platform-80a15011"
+    },
+    {
+      "title": "Strong Analyst Sentiment on NICE (NICE) Amid AI Push Acceleration",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/strong-analyst-sentiment-nice-nice-173759502.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-29T17:37:59Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/540c7bfffc9cf078fe323e1d9683599d",
+      "slug": "strong-analyst-sentiment-on-nice-nice-amid-ai-push-acceleration-ca6ad691",
+      "orig_slug": "strong-analyst-sentiment-on-nice-nice-amid-ai-push-acceleration-ca6ad691"
+    },
+    {
+      "title": "A bold 2011 market call is echoed in 2026",
+      "link": "https://finance.yahoo.com/news/a-bold-2011-market-call-is-echoed-in-2026-180220110.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-29T18:02:20Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/JC2foPYc3yZRO2Dk3K5BGg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/bd7ccbf0-2b95-11f1-bdff-0d5ef207c05e",
+      "slug": "a-bold-2011-market-call-is-echoed-in-2026-b1669e9f",
+      "orig_slug": "a-bold-2011-market-call-is-echoed-in-2026-b1669e9f"
+    },
+    {
+      "title": "8 reasons to tap your home for cash: Expenses you can use home equity for",
+      "link": "https://finance.yahoo.com/markets/options/articles/7-reasons-home-equity-193400988.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-29T19:15:18Z",
+      "image": "https://media.zenfs.com/en/bankrate_626/365c93a6c78957794784a2ae2927f377",
+      "slug": "8-reasons-to-tap-your-home-for-cash-expenses-you-can-use-home-equity-for-008cf1c8",
+      "orig_slug": "8-reasons-to-tap-your-home-for-cash-expenses-you-can-use-home-equity-for-008cf1c8"
+    },
+    {
+      "title": "Market Digest: ZBH",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46574_MarketSummary_1774868041000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-30T10:54:01Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "market-digest-zbh-d23d3e67",
+      "orig_slug": "market-digest-zbh-d23d3e67"
+    },
+    {
+      "title": "You Won't Believe the Return You Would Have Made if You Bought Uber Stock 3 Years Ago",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wont-believe-return-made-bought-131500501.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-29T13:15:00Z",
+      "image": "https://s.yimg.com/os/en/motleyfool.com/3fc0c3849a7f9ca3a7aa6e3556d648a8",
+      "slug": "you-wont-believe-the-return-you-would-have-made-if-you-bought-uber-stock-3-years-62ddcb65",
+      "orig_slug": "you-wont-believe-the-return-you-would-have-made-if-you-bought-uber-stock-3-years-62ddcb65"
+    },
+    {
+      "title": "Jim Cramer on NVIDIA: “To Me, You’re Only Being Given a Chance to Buy a High-Quality Stock at a Lower Price Than You Normally Expect”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-nvidia-only-being-194121085.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-29T19:41:21Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/853b5432b039878bfa3f7e94bd98f8ec",
+      "slug": "jim-cramer-on-nvidia-to-me-youre-only-being-given-a-chance-to-buy-a-high-quality-592e2282",
+      "orig_slug": "jim-cramer-on-nvidia-to-me-youre-only-being-given-a-chance-to-buy-a-high-quality-592e2282"
+    },
+    {
+      "title": "Can I use my car as collateral for a loan?",
+      "link": "https://finance.yahoo.com/markets/options/articles/car-collateral-loan-160951029.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-29T19:46:01Z",
+      "image": "https://media.zenfs.com/en/bankrate_626/3bc2668da2c9e29f8e0107bf1e4682a4",
+      "slug": "can-i-use-my-car-as-collateral-for-a-loan-5b25603c",
+      "orig_slug": "can-i-use-my-car-as-collateral-for-a-loan-5b25603c"
+    },
+    {
+      "title": "Pan American Silver Corp. (PAAS) Plans $1.9B Investment to Enable The Largest Silver Mine",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/pan-american-silver-corp-paas-194722007.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-29T19:47:22Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/dd7df08088608d7fe5a82b85f15d2b86",
+      "slug": "pan-american-silver-corp-paas-plans-19b-investment-to-enable-the-largest-silver--972e3920",
+      "orig_slug": "pan-american-silver-corp-paas-plans-19b-investment-to-enable-the-largest-silver--972e3920"
+    },
+    {
+      "title": "Halozyme Therapeutics (HALO) Appoints Interim CFO Amid Growth Plans",
+      "link": "https://finance.yahoo.com/sectors/healthcare/articles/halozyme-therapeutics-halo-appoints-interim-194815553.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-29T19:48:15Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/8577738f84a3c852cf540caf7ca4aba5",
+      "slug": "halozyme-therapeutics-halo-appoints-interim-cfo-amid-growth-plans-88f5a47a",
+      "orig_slug": "halozyme-therapeutics-halo-appoints-interim-cfo-amid-growth-plans-88f5a47a"
+    },
+    {
+      "title": "Daily – Vickers Top Insider Picks for 03/30/2026",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46572_InsiderActivity_1774866334000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-30T10:25:34Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "daily-vickers-top-insider-picks-for-03302026-94163970",
+      "orig_slug": "daily-vickers-top-insider-picks-for-03302026-94163970"
+    },
+    {
+      "title": "This Vanguard Fund Is One of the Best Dividend ETFs of the Past Decade",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/vanguard-fund-one-best-dividend-134000984.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-29T13:40:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/2ffe4a5ff927fca1d29adbd537f9afdd",
+      "slug": "this-vanguard-fund-is-one-of-the-best-dividend-etfs-of-the-past-decade-de9deae7",
+      "orig_slug": "this-vanguard-fund-is-one-of-the-best-dividend-etfs-of-the-past-decade-de9deae7"
+    },
+    {
+      "title": "Super Micro Computer Inc. (SMCI) Reputation and Operations on the Line: Barclays Warns",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-inc-smci-195042695.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-29T19:50:42Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/95ba8249d586608dd6a9db523d1cd6e0",
+      "slug": "super-micro-computer-inc-smci-reputation-and-operations-on-the-line-barclays-war-b2c3b564",
+      "orig_slug": "super-micro-computer-inc-smci-reputation-and-operations-on-the-line-barclays-war-b2c3b564"
+    },
+    {
+      "title": "Erste Group Warns Gold Sell-Off Could Rattle Agnico Eagle Mines Limited (AEM) Margins",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/erste-group-warns-gold-sell-195154641.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-29T19:51:54Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/230304ffd3d7bca232a53fe7114e4d8e",
+      "slug": "erste-group-warns-gold-sell-off-could-rattle-agnico-eagle-mines-limited-aem-marg-27cb6729",
+      "orig_slug": "erste-group-warns-gold-sell-off-could-rattle-agnico-eagle-mines-limited-aem-marg-27cb6729"
+    },
+    {
+      "title": "Apollo Global Management (APO) Acquiring Nippon Sheet Amid Soaring Architectural Glass Demand",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apollo-global-management-apo-acquiring-195313919.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-29T19:53:13Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/bc92ba329c2c7d2d5e1218f268f14aa1",
+      "slug": "apollo-global-management-apo-acquiring-nippon-sheet-amid-soaring-architectural-g-3d68fd80",
+      "orig_slug": "apollo-global-management-apo-acquiring-nippon-sheet-amid-soaring-architectural-g-3d68fd80"
+    },
+    {
+      "title": "Amentum Holdings (AMTM) Poised for Growth Amid AI Disruption Insulation",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amentum-holdings-amtm-poised-growth-195422741.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-29T19:54:22Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/78f20c7c90343901cf8f10b23e482a57",
+      "slug": "amentum-holdings-amtm-poised-for-growth-amid-ai-disruption-insulation-f86b2a55",
+      "orig_slug": "amentum-holdings-amtm-poised-for-growth-amid-ai-disruption-insulation-f86b2a55"
+    },
+    {
+      "title": "Daily – Vickers Top Buyers & Sellers for 03/30/2026",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46573_TopBottomInsiderActivity_1774866334000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-30T10:25:34Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "daily-vickers-top-buyers-sellers-for-03302026-7041597e",
+      "orig_slug": "daily-vickers-top-buyers-sellers-for-03302026-7041597e"
+    },
+    {
+      "title": "Filing 2025 Taxes? Here’s How Gemini Can Help",
+      "link": "https://finance.yahoo.com/markets/options/articles/filing-2025-taxes-gemini-help-131204380.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-29T13:12:04Z",
+      "image": "https://media.zenfs.com/en/gobankingrates_644/15adde9dfcb0f8f008d29dbcaec8b942",
+      "slug": "filing-2025-taxes-heres-how-gemini-can-help-f3d311b2",
+      "orig_slug": "filing-2025-taxes-heres-how-gemini-can-help-f3d311b2"
+    },
+    {
+      "title": "Axos Financial, Inc. (AX) Branchless Structure Strengthens Cost Advantage and Earnings Growth",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/axos-financial-inc-ax-branchless-195603641.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-03-29T19:56:03Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/f68a610c3a0935d2e21b6aa736792986",
+      "slug": "axos-financial-inc-ax-branchless-structure-strengthens-cost-advantage-and-earnin-97107129",
+      "orig_slug": "axos-financial-inc-ax-branchless-structure-strengthens-cost-advantage-and-earnin-97107129"
+    },
+    {
       "title": "Best high-yield savings interest rates today, March 30, 2026 (Earn up to 4% APY)",
       "link": "https://finance.yahoo.com/personal-finance/banking/article/copy-best-high-yield-savings-interest-rates-today-monday-march-30-2026-100000029.html",
       "source": "finance.yahoo.com",
@@ -297,15 +387,6 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/1RCI97U8KV1L2ZurZW7kOA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/0a4cca40-4b7b-11ef-abf9-2f9f6d2c2f16",
       "slug": "best-high-yield-savings-interest-rates-today-march-30-2026-earn-up-to-4-apy-a7ac8c1c",
       "orig_slug": "best-high-yield-savings-interest-rates-today-march-30-2026-earn-up-to-4-apy-a7ac8c1c"
-    },
-    {
-      "title": "Best CD rates today, March 30, 2026 (Lock in up to 4.15% APY)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/copy-best-cd-rates-today-monday-march-30-2026-100000258.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-30T10:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/YNb1M9UxogCoxhCtpOUusg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47b17e1-4f64-11ef-bcf5-d7c22925c744",
-      "slug": "best-cd-rates-today-march-30-2026-lock-in-up-to-415-apy-3399b428",
-      "orig_slug": "best-cd-rates-today-march-30-2026-lock-in-up-to-415-apy-3399b428"
     },
     {
       "title": "Best money market account rates today, March 30, 2026 (Earn up to 4.01% APY)",
@@ -317,24 +398,6 @@
       "orig_slug": "best-money-market-account-rates-today-march-30-2026-earn-up-to-401-apy-4eff20c3"
     },
     {
-      "title": "Will the U.S. Enter a Recession in 2026? Here's What the Data Suggests.",
-      "link": "https://finance.yahoo.com/economy/articles/u-enter-recession-2026-heres-145000541.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-29T14:50:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/afc199d63615d14325d41c416276a2d7",
-      "slug": "will-the-us-enter-a-recession-in-2026-heres-what-the-data-suggests-9db12212",
-      "orig_slug": "will-the-us-enter-a-recession-in-2026-heres-what-the-data-suggests-9db12212"
-    },
-    {
-      "title": "HELOC and home equity loan rates Monday, March 30, 2026: How to tap home equity for a low-interest loan",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-monday-march-30-2026-100000389.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-30T10:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/_479AhxR01yKrenM2IfZSg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/006c3000-3feb-11f0-b84f-0d1aa528bfe7",
-      "slug": "heloc-and-home-equity-loan-rates-monday-march-30-2026-how-to-tap-home-equity-for-a6348057",
-      "orig_slug": "heloc-and-home-equity-loan-rates-monday-march-30-2026-how-to-tap-home-equity-for-a6348057"
-    },
-    {
       "title": "Mortgage and refinance rates today, March 30, 2026: 30-year fixed now just under 6.5%",
       "link": "https://finance.yahoo.com/personal-finance/mortgages/article/copy-mortgage-refinance-rates-today-monday-march-30-2026-100000304.html",
       "source": "finance.yahoo.com",
@@ -344,112 +407,31 @@
       "orig_slug": "mortgage-and-refinance-rates-today-march-30-2026-30-year-fixed-now-just-under-65-bbf5c430"
     },
     {
-      "title": "Gold price today, Monday, March 30: Gold holds strong, opening above $4,500",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-monday-march-30-gold-holds-strong-opening-above-4500-111116970.html",
+      "title": "Better Space Stock: Rocket Lab vs. Redwire",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/better-space-stock-rocket-lab-135000922.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-30T11:11:16Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/n75hOPA8Rb.BxrD3WLh7Fg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/monday.png",
-      "slug": "gold-price-today-monday-march-30-gold-holds-strong-opening-above-4500-2428c631",
-      "orig_slug": "gold-price-today-monday-march-30-gold-holds-strong-opening-above-4500-2428c631"
+      "pubDate": "2026-03-29T13:50:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/53be2d6f9a411024105c417f72670c0e",
+      "slug": "better-space-stock-rocket-lab-vs-redwire-22ff3925",
+      "orig_slug": "better-space-stock-rocket-lab-vs-redwire-22ff3925"
     },
     {
-      "title": "How to invest in silver: A beginner's guide",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/how-to-invest-in-silver-for-beginners-120000199.html",
+      "title": "Best CD rates today, March 30, 2026 (Lock in up to 4.15% APY)",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/copy-best-cd-rates-today-monday-march-30-2026-100000258.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-30T12:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/RiQ0CdX8qqWfGrBC5RZk7w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://d29szjachogqwa.cloudfront.net/images/2026-03/650d1e00-2292-46c6-9cd9-1cdd7421d07d",
-      "slug": "how-to-invest-in-silver-a-beginners-guide-b4b88b9a",
-      "orig_slug": "how-to-invest-in-silver-a-beginners-guide-b4b88b9a"
+      "pubDate": "2026-03-30T10:00:00Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/YNb1M9UxogCoxhCtpOUusg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47b17e1-4f64-11ef-bcf5-d7c22925c744",
+      "slug": "best-cd-rates-today-march-30-2026-lock-in-up-to-415-apy-3399b428",
+      "orig_slug": "best-cd-rates-today-march-30-2026-lock-in-up-to-415-apy-3399b428"
     },
     {
-      "title": "The Iran war turned Mag 7 stocks into dip-buying bait. But no one is jumping in yet even though Wall Street expects U.S. tech to outperform",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/iran-war-turned-mag-7-150950715.html",
+      "title": "HELOC and home equity loan rates Monday, March 30, 2026: How to tap home equity for a low-interest loan",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-monday-march-30-2026-100000389.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-03-29T15:09:50Z",
-      "image": "https://media.zenfs.com/en/fortune_175/5e3b44c111ff6055827077bf2ec1a2c7",
-      "slug": "the-iran-war-turned-mag-7-stocks-into-dip-buying-bait-but-no-one-is-jumping-in-y-1021aa55",
-      "orig_slug": "the-iran-war-turned-mag-7-stocks-into-dip-buying-bait-but-no-one-is-jumping-in-y-1021aa55"
-    },
-    {
-      "title": "Bitcoin and ethereum price today, Monday, March 30, 2026: Values moving up after lower weekend prices",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-monday-march-30-2026-values-moving-up-after-lower-weekend-prices-120045377.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-30T12:00:45Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/.ug8YuBYJAGW7ZyYOKfjtQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-10/4bed60f0-80c7-11ef-bfff-6d81d3f1b1eb",
-      "slug": "bitcoin-and-ethereum-price-today-monday-march-30-2026-values-moving-up-after-low-e7c12944",
-      "orig_slug": "bitcoin-and-ethereum-price-today-monday-march-30-2026-values-moving-up-after-low-e7c12944"
-    },
-    {
-      "title": "Selling crypto? What to know before you cash out.",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/how-to-sell-crypto-130000431.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-30T13:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/hjL7KTa9evfSC09fakFjnQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-12/44182520-bd6e-11ef-a1fa-06461da34835",
-      "slug": "selling-crypto-what-to-know-before-you-cash-out-12c61ff9",
-      "orig_slug": "selling-crypto-what-to-know-before-you-cash-out-12c61ff9"
-    },
-    {
-      "title": "7 things to know about Schwab's new brokerage account for teenagers",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/7-things-to-know-about-schwabs-new-brokerage-account-for-teenagers-142336241.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-30T14:23:36Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/hAUDelo884g5QSan42T5uQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-03/07364a89-1ee9-4f8c-9b77-cf296f6ec736",
-      "slug": "7-things-to-know-about-schwabs-new-brokerage-account-for-teenagers-ea897d3f",
-      "orig_slug": "7-things-to-know-about-schwabs-new-brokerage-account-for-teenagers-ea897d3f"
-    },
-    {
-      "title": "Mortgage lenders with the best rates this week, March 30, 2026: 6.122% APR is the lowest",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-lenders-with-the-best-rates-this-week-march-30-2026-170834936.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-11-03T17:08:34Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/D9k6dB1Yf1hfKesmqZI_hA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/e1d9cd60-0c3a-11f1-bdff-87ef2d5000ac",
-      "slug": "mortgage-lenders-with-the-best-rates-this-week-march-30-2026-6122-apr-is-the-low-04be857a",
-      "orig_slug": "mortgage-lenders-with-the-best-rates-this-week-march-30-2026-6122-apr-is-the-low-04be857a"
-    },
-    {
-      "title": "Delony Tells Houston Caller With Secret-Account Husband: ‘The Marriage Y’all Had Is Over’",
-      "link": "https://finance.yahoo.com/economy/policy/articles/delony-tells-houston-caller-secret-144517625.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-29T14:45:17Z",
-      "image": "https://media.zenfs.com/en/24_7_wall_st__718/ddd122f61af153f9695c40140dc13600",
-      "slug": "delony-tells-houston-caller-with-secret-account-husband-the-marriage-yall-had-is-1fc90c5d",
-      "orig_slug": "delony-tells-houston-caller-with-secret-account-husband-the-marriage-yall-had-is-1fc90c5d"
-    },
-    {
-      "title": "What is a gold IRA? A beginner's guide.",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/what-is-a-gold-ira-163508790.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-30T16:35:08Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/FUwYTK66dZPx0Xa8gCTHfQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-08/18b04860-63f8-11ef-bfd3-c84d2e989645",
-      "slug": "what-is-a-gold-ira-a-beginners-guide-f10e6290",
-      "orig_slug": "what-is-a-gold-ira-a-beginners-guide-f10e6290"
-    },
-    {
-      "title": "Gold IRA vs. traditional IRA: What's the difference?",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-ira-vs-traditional-ira-whats-the-difference-211000312.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-30T21:10:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/E4qMIBnxeBIrXlEF1V5J6A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/fbbd9fa0-dee9-11f0-b7a7-c08ab3268ca3",
-      "slug": "gold-ira-vs-traditional-ira-whats-the-difference-1e5e6de9",
-      "orig_slug": "gold-ira-vs-traditional-ira-whats-the-difference-1e5e6de9"
-    },
-    {
-      "title": "The best credit cards for Airbnb rentals in April 2026: Earn points and cash back for your stay",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-card-for-airbnb-rentals-183212147.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-04-14T18:32:12Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/0liQ50SQ7UAzRbE2RmYwmQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-03/8ffac920-0508-11f0-abd6-d3fc909b3aea",
-      "slug": "the-best-credit-cards-for-airbnb-rentals-in-april-2026-earn-points-and-cash-back-7d42f7b7",
-      "orig_slug": "the-best-credit-cards-for-airbnb-rentals-in-april-2026-earn-points-and-cash-back-7d42f7b7"
-    },
-    {
-      "title": "The best credit cards for April: See our picks for the top cash-back, rewards, travel cards, and more",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-card-202825345.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2024-09-12T20:09:33Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/HSt8edXQ0G3Bp081lsgO8A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/f0069ff0-ea73-11f0-9dff-19921665d97d",
-      "slug": "the-best-credit-cards-for-april-see-our-picks-for-the-top-cash-back-rewards-trav-7dfbba06",
-      "orig_slug": "the-best-credit-cards-for-april-see-our-picks-for-the-top-cash-back-rewards-trav-7dfbba06"
+      "pubDate": "2026-03-30T10:00:00Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/_479AhxR01yKrenM2IfZSg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/006c3000-3feb-11f0-b84f-0d1aa528bfe7",
+      "slug": "heloc-and-home-equity-loan-rates-monday-march-30-2026-how-to-tap-home-equity-for-a6348057",
+      "orig_slug": "heloc-and-home-equity-loan-rates-monday-march-30-2026-how-to-tap-home-equity-for-a6348057"
     }
   ]
 }
