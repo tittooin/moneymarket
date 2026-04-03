@@ -1,194 +1,14 @@
 {
-  "updated": "2026-04-03T19:33:33Z",
+  "updated": "2026-04-03T20:26:00Z",
   "items": [
     {
-      "title": "Reject Talen-Energy Capital power plant deal, PJM market monitor tells FERC",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/reject-talen-energy-capital-power-093618488.html",
+      "title": "Stablecoins roll on as rules evolve",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/stablecoins-roll-rules-evolve-103200904.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-02T09:36:18Z",
-      "image": "https://media.zenfs.com/en/utility_dive_591/caaa44da846dee4f28d2eb5751c8b40d",
-      "slug": "reject-talen-energy-capital-power-plant-deal-pjm-market-monitor-tells-ferc-f60c2b7f",
-      "orig_slug": "reject-talen-energy-capital-power-plant-deal-pjm-market-monitor-tells-ferc-f60c2b7f"
-    },
-    {
-      "title": "‘This is just ridiculous’: An unpaid 5-cent bill ended one woman’s health plan",
-      "link": "https://finance.yahoo.com/sectors/healthcare/articles/just-ridiculous-unpaid-5-cent-093000953.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-02T09:30:00Z",
-      "image": "https://media.zenfs.com/en/moneywise_327/7850cbb3c4d673ba67581ce5b3f93505",
-      "slug": "this-is-just-ridiculous-an-unpaid-5-cent-bill-ended-one-womans-health-plan-5cdc2bba",
-      "orig_slug": "this-is-just-ridiculous-an-unpaid-5-cent-bill-ended-one-womans-health-plan-5cdc2bba"
-    },
-    {
-      "title": "Bill Ackman says some high-quality stocks are ‘stupidly cheap’ — and the discount could offer 10x returns",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-says-high-quality-093000907.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-02T09:30:00Z",
-      "image": "https://media.zenfs.com/en/moneywise_327/13eed2a5d8afc8c63e5ee38c80c2992c",
-      "slug": "bill-ackman-says-some-high-quality-stocks-are-stupidly-cheap-and-the-discount-co-6b4339be",
-      "orig_slug": "bill-ackman-says-some-high-quality-stocks-are-stupidly-cheap-and-the-discount-co-6b4339be"
-    },
-    {
-      "title": "Morning Brief: Labor market data vs. anecdotes",
-      "link": "https://finance.yahoo.com/news/morning-brief-labor-market-data-vs-anecdotes-100039393.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-02T10:00:39Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/gGMhd68WFUJSFmQJW91LOw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODM-/https://s.yimg.com/os/creatr-uploaded-images/2025-05/39068650-380b-11f0-8777-42e382e77bbd",
-      "slug": "morning-brief-labor-market-data-vs-anecdotes-901ab853",
-      "orig_slug": "morning-brief-labor-market-data-vs-anecdotes-901ab853"
-    },
-    {
-      "title": "5 Defense Stocks Rebuilding the Military Supply Chain From the Ground Up",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/5-defense-stocks-rebuilding-military-100000298.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-02T10:00:00Z",
-      "image": "https://s.yimg.com/os/en/oilprice.com/5c388b50535b82c04118b0e4bfe8c29c",
-      "slug": "5-defense-stocks-rebuilding-the-military-supply-chain-from-the-ground-up-8bd85c57",
-      "orig_slug": "5-defense-stocks-rebuilding-the-military-supply-chain-from-the-ground-up-8bd85c57"
-    },
-    {
-      "title": "Eni signs $579m EIB loan for Sannazzaro biorefinery in Italy",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/eni-signs-579m-eib-loan-094328583.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-02T09:43:28Z",
-      "image": "https://media.zenfs.com/en/offshore_technology_431/d93c0ff0d9f1f0a2e88015c0739a41ba",
-      "slug": "eni-signs-579m-eib-loan-for-sannazzaro-biorefinery-in-italy-03856a0c",
-      "orig_slug": "eni-signs-579m-eib-loan-for-sannazzaro-biorefinery-in-italy-03856a0c"
-    },
-    {
-      "title": "Kevin O’Leary claims this skill is the most valuable on the market, saying he pays $250,000 for it — 5X more than before",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/kevin-o-leary-claims-skill-100000278.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-02T10:00:00Z",
-      "image": "https://media.zenfs.com/en/moneywise_327/2bb6ab5981d96d8fe21dc92e6b0e8367",
-      "slug": "kevin-oleary-claims-this-skill-is-the-most-valuable-on-the-market-saying-he-pays-7c893239",
-      "orig_slug": "kevin-oleary-claims-this-skill-is-the-most-valuable-on-the-market-saying-he-pays-7c893239"
-    },
-    {
-      "title": "Tariff-struck companies exploring loans backed by refund claims​",
-      "link": "https://finance.yahoo.com/economy/policy/articles/tariff-struck-companies-exploring-loans-100227788.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-02T10:02:27Z",
-      "image": "https://s.yimg.com/os/en/reuters.com/c58aaa165df17ae20242b65077e57815",
-      "slug": "tariff-struck-companies-exploring-loans-backed-by-refund-claims-8d35c29a",
-      "orig_slug": "tariff-struck-companies-exploring-loans-backed-by-refund-claims-8d35c29a"
-    },
-    {
-      "title": "Centene's Q1 2026 Earnings: What to Expect",
-      "link": "https://finance.yahoo.com/sectors/healthcare/articles/centenes-q1-2026-earnings-expect-100403784.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-02T10:04:03Z",
-      "image": "https://s.yimg.com/os/en/barchart_com_477/78de98fd9328b0bc82e55e52b2889272",
-      "slug": "centenes-q1-2026-earnings-what-to-expect-3a2e8adc",
-      "orig_slug": "centenes-q1-2026-earnings-what-to-expect-3a2e8adc"
-    },
-    {
-      "title": "What You Need to Know Ahead of Domino's Pizza's Earnings Release",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/know-ahead-dominos-pizzas-earnings-100751581.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-02T10:07:51Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/9c1b13bc4bdc79d0e42f49368caabf8a",
-      "slug": "what-you-need-to-know-ahead-of-dominos-pizzas-earnings-release-a57951d6",
-      "orig_slug": "what-you-need-to-know-ahead-of-dominos-pizzas-earnings-release-a57951d6"
-    },
-    {
-      "title": "Daily – Vickers Top Buyers & Sellers for 04/03/2026",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_46628_TopBottomInsiderActivity_1775214079000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-03T11:01:19Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-vickers-top-buyers-sellers-for-04032026-9e812b14",
-      "orig_slug": "daily-vickers-top-buyers-sellers-for-04032026-9e812b14"
-    },
-    {
-      "title": "Helium Disruption Spells Opportunity for Some Suppliers of the Gas",
-      "link": "https://www.wsj.com/finance/helium-disruption-spells-opportunity-for-some-suppliers-of-the-gas-d96f1abe?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-02T09:30:00Z",
-      "image": "",
-      "slug": "helium-disruption-spells-opportunity-for-some-suppliers-of-the-gas-26f36e65",
-      "orig_slug": "helium-disruption-spells-opportunity-for-some-suppliers-of-the-gas-26f36e65"
-    },
-    {
-      "title": "Here are the 6 levels of wealth for retirement-age Americans — are you at the top or bottom of the pyramida",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/6-levels-wealth-retirement-age-101300583.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-02T10:13:00Z",
-      "image": "https://media.zenfs.com/en/moneywise_ecomm_711/aadebcf464321e1cf4ac2b8f3a67bc8f",
-      "slug": "here-are-the-6-levels-of-wealth-for-retirement-age-americans-are-you-at-the-top--91818ad7",
-      "orig_slug": "here-are-the-6-levels-of-wealth-for-retirement-age-americans-are-you-at-the-top--91818ad7"
-    },
-    {
-      "title": "Here's What to Expect From Aon's Next Earnings Report",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/heres-expect-aons-next-earnings-101247828.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-02T10:12:47Z",
-      "image": "https://s.yimg.com/os/en/barchart_com_477/9c1b4ca908c681c983311a3b49a638f0",
-      "slug": "heres-what-to-expect-from-aons-next-earnings-report-44577b09",
-      "orig_slug": "heres-what-to-expect-from-aons-next-earnings-report-44577b09"
-    },
-    {
-      "title": "States are stockpiling gold to hedge against a debt crisis — here’s how much you should actually hold in your portfolio",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/states-stockpiling-gold-hedge-against-090000300.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-02T09:00:00Z",
-      "image": "https://media.zenfs.com/en/moneywise_327/75e03811bd1085477037643c51996f33",
-      "slug": "states-are-stockpiling-gold-to-hedge-against-a-debt-crisis-heres-how-much-you-sh-1040ea6d",
-      "orig_slug": "states-are-stockpiling-gold-to-hedge-against-a-debt-crisis-heres-how-much-you-sh-1040ea6d"
-    },
-    {
-      "title": "How Proposed Roth IRA Rollover Changes Could Reshape Retirement Planning",
-      "link": "https://finance.yahoo.com/economy/policy/articles/proposed-roth-ira-rollover-legislation-130000101.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-02T09:00:00Z",
-      "image": "https://s.yimg.com/os/en/smartasset_475/0acf0946c8a8e83dca71269d84f3835c",
-      "slug": "how-proposed-roth-ira-rollover-changes-could-reshape-retirement-planning-67dbef5d",
-      "orig_slug": "how-proposed-roth-ira-rollover-changes-could-reshape-retirement-planning-67dbef5d"
-    },
-    {
-      "title": "Daily – Vickers Top Insider Picks for 04/03/2026",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_46627_InsiderActivity_1775214079000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-03T11:01:19Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-vickers-top-insider-picks-for-04032026-c4aaee8a",
-      "orig_slug": "daily-vickers-top-insider-picks-for-04032026-c4aaee8a"
-    },
-    {
-      "title": "Conagra (CAG) Q3 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/conagra-cag-q3-2026-earnings-094255221.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-02T09:42:55Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
-      "slug": "conagra-cag-q3-2026-earnings-call-transcript-d8772851",
-      "orig_slug": "conagra-cag-q3-2026-earnings-call-transcript-d8772851"
-    },
-    {
-      "title": "Phillips 66's Q1 2026 Earnings: What to Expect",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/phillips-66s-q1-2026-earnings-101509545.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-02T10:15:09Z",
-      "image": "https://s.yimg.com/os/en/barchart_com_477/0dacf47931a056f6a156724fb9cf6042",
-      "slug": "phillips-66s-q1-2026-earnings-what-to-expect-b8aaf7a8",
-      "orig_slug": "phillips-66s-q1-2026-earnings-what-to-expect-b8aaf7a8"
-    },
-    {
-      "title": "Here's What to Expect From LyondellBasell's Next Earnings Report",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/heres-expect-lyondellbasells-next-earnings-101736683.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-02T10:17:36Z",
-      "image": "https://s.yimg.com/os/en/barchart_com_477/1546ea5c24e6263c83de91649230041e",
-      "slug": "heres-what-to-expect-from-lyondellbasells-next-earnings-report-277ce42e",
-      "orig_slug": "heres-what-to-expect-from-lyondellbasells-next-earnings-report-277ce42e"
-    },
-    {
-      "title": "Why sky-high oil prices haven't shaken Wall Street's confidence in Delta stock",
-      "link": "https://finance.yahoo.com/news/why-sky-high-oil-prices-havent-shaken-wall-streets-confidence-in-delta-stock-183930241.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-01T18:39:30Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/8X8_blltlTWw.ZeFobLSaA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://s.yimg.com/os/creatr-uploaded-images/2026-04/3a10fd40-2df7-11f1-9dac-255abe5be98d",
-      "slug": "why-sky-high-oil-prices-havent-shaken-wall-streets-confidence-in-delta-stock-d269cfbe",
-      "orig_slug": "why-sky-high-oil-prices-havent-shaken-wall-streets-confidence-in-delta-stock-d269cfbe"
+      "pubDate": "2026-04-02T10:32:00Z",
+      "image": "https://media.zenfs.com/en/payments_dive_978/7e1eddb335128a62dc21c4c2a957edb6",
+      "slug": "stablecoins-roll-on-as-rules-evolve-ed389b9e",
+      "orig_slug": "stablecoins-roll-on-as-rules-evolve-ed389b9e"
     },
     {
       "title": "Stocks Tumble Before the Open as Oil Prices Jump After Trump’s Iran Address",
@@ -200,15 +20,6 @@
       "orig_slug": "stocks-tumble-before-the-open-as-oil-prices-jump-after-trumps-iran-address-1cbf449b"
     },
     {
-      "title": "Intel agrees $14.2bn buyback of chip fab JV stake in Ireland",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-agrees-14-2bn-buyback-092832634.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-02T09:28:32Z",
-      "image": "https://media.zenfs.com/en/verdict_626/37381e81ed15f71ca08ae504e58736a0",
-      "slug": "intel-agrees-142bn-buyback-of-chip-fab-jv-stake-in-ireland-15c9555f",
-      "orig_slug": "intel-agrees-142bn-buyback-of-chip-fab-jv-stake-in-ireland-15c9555f"
-    },
-    {
       "title": "Morning Bid: No Easter truce",
       "link": "https://finance.yahoo.com/economy/articles/morning-bid-no-easter-truce-105235815.html",
       "source": "finance.yahoo.com",
@@ -216,6 +27,15 @@
       "image": "https://s.yimg.com/os/en/reuters.com/173eadd81bdb5ac791bfba61896f00cf",
       "slug": "morning-bid-no-easter-truce-41f97e25",
       "orig_slug": "morning-bid-no-easter-truce-41f97e25"
+    },
+    {
+      "title": "Exclusive-Russian oil output cuts are unavoidable as drone attacks shrink exports, sources say",
+      "link": "https://finance.yahoo.com/news/exclusive-russian-oil-output-cuts-105322351.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-02T10:58:11Z",
+      "image": "https://s.yimg.com/os/en/reuters.com/5964703ec43baeb127bb0bb57663412d",
+      "slug": "exclusive-russian-oil-output-cuts-are-unavoidable-as-drone-attacks-shrink-export-9bdb674a",
+      "orig_slug": "exclusive-russian-oil-output-cuts-are-unavoidable-as-drone-attacks-shrink-export-9bdb674a"
     },
     {
       "title": "Gold price today, Thursday, April 2: Gold loses ground after Trump speech",
@@ -227,6 +47,213 @@
       "orig_slug": "gold-price-today-thursday-april-2-gold-loses-ground-after-trump-speech-5ce1ca85"
     },
     {
+      "title": "How much money will we need in retirement? Americans' answer keeps growing.",
+      "link": "https://finance.yahoo.com/news/how-much-money-will-we-need-in-retirement-americans-answer-keeps-growing-110046631.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-02T11:00:46Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/wRDhN2ZRLDO0jz2pEaMhOg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-04/fda4fa60-2e13-11f1-b7e7-1de79a78924b",
+      "slug": "how-much-money-will-we-need-in-retirement-americans-answer-keeps-growing-f016779c",
+      "orig_slug": "how-much-money-will-we-need-in-retirement-americans-answer-keeps-growing-f016779c"
+    },
+    {
+      "title": "Peter Schiff claims a house is a ‘money pit’ and renting is a ‘better option’ for many Americans. Is he right?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/peter-schiff-claims-house-money-110000328.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-02T11:00:00Z",
+      "image": "https://media.zenfs.com/en/moneywise_ecomm_711/849f6ef7a4078d3958675cc79bd3d9f1",
+      "slug": "peter-schiff-claims-a-house-is-a-money-pit-and-renting-is-a-better-option-for-ma-6bf67edd",
+      "orig_slug": "peter-schiff-claims-a-house-is-a-money-pit-and-renting-is-a-better-option-for-ma-6bf67edd"
+    },
+    {
+      "title": "Trade Netflix Stock with This Iron Condor Strategy to See a 23% Return in Just 3 Weeks",
+      "link": "https://finance.yahoo.com/news/trade-netflix-stock-iron-condor-110002266.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-02T11:00:02Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/766b3ae2d4a103bd1f14aa39e80a3179",
+      "slug": "trade-netflix-stock-with-this-iron-condor-strategy-to-see-a-23-return-in-just-3--0e16ccc0",
+      "orig_slug": "trade-netflix-stock-with-this-iron-condor-strategy-to-see-a-23-return-in-just-3--0e16ccc0"
+    },
+    {
+      "title": "‘As scrappy as it gets’: Restaurant owner turned $5K in gambling winnings into a $20M restaurant empire",
+      "link": "https://finance.yahoo.com/sectors/healthcare/articles/scrappy-gets-restaurant-owner-turned-111500192.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-02T11:15:00Z",
+      "image": "https://media.zenfs.com/en/moneywise_327/a5b6dc908527ff90b4706f39fb6c0da8",
+      "slug": "as-scrappy-as-it-gets-restaurant-owner-turned-5k-in-gambling-winnings-into-a-20m-1b902b7d",
+      "orig_slug": "as-scrappy-as-it-gets-restaurant-owner-turned-5k-in-gambling-winnings-into-a-20m-1b902b7d"
+    },
+    {
+      "title": "Daily – Vickers Top Buyers & Sellers for 04/03/2026",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46628_TopBottomInsiderActivity_1775214079000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-03T11:01:19Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "daily-vickers-top-buyers-sellers-for-04032026-9e812b14",
+      "orig_slug": "daily-vickers-top-buyers-sellers-for-04032026-9e812b14"
+    },
+    {
+      "title": "This Healthcare Stock Barely Flinches During Market Sell-Offs",
+      "link": "https://finance.yahoo.com/sectors/healthcare/articles/healthcare-stock-barely-flinches-during-103400920.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-02T10:34:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/df8e0b881e09f3fea1bf67caff301c99",
+      "slug": "this-healthcare-stock-barely-flinches-during-market-sell-offs-fd82125c",
+      "orig_slug": "this-healthcare-stock-barely-flinches-during-market-sell-offs-fd82125c"
+    },
+    {
+      "title": "Brown & Brown Earnings Preview: What to Expect",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/brown-brown-earnings-preview-expect-113117939.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-02T11:31:17Z",
+      "image": "https://s.yimg.com/os/en/barchart_com_477/34eb84840f4ca3bf761da95ffe6e6f7b",
+      "slug": "brown-brown-earnings-preview-what-to-expect-101979c1",
+      "orig_slug": "brown-brown-earnings-preview-what-to-expect-101979c1"
+    },
+    {
+      "title": "Microsoft just had its worst quarter on Wall Street in nearly two decades — the steepest fall since the Great Recession",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-just-had-worst-quarter-113000733.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-02T11:30:00Z",
+      "image": "https://media.zenfs.com/en/moneywise_327/2e70768b83b7d9ca019e2c65ecf14a47",
+      "slug": "microsoft-just-had-its-worst-quarter-on-wall-street-in-nearly-two-decades-the-st-6499ef32",
+      "orig_slug": "microsoft-just-had-its-worst-quarter-on-wall-street-in-nearly-two-decades-the-st-6499ef32"
+    },
+    {
+      "title": "Jerome Powell gives surprisingly great news to US investors — it’s a wealth surge you could miss. How to make most of it",
+      "link": "https://finance.yahoo.com/economy/policy/articles/jerome-powell-gives-surprisingly-great-113000268.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-02T11:30:00Z",
+      "image": "https://media.zenfs.com/en/moneywise_ecomm_711/b0552953f12e658516e5d69d6a36ef07",
+      "slug": "jerome-powell-gives-surprisingly-great-news-to-us-investors-its-a-wealth-surge-y-86d72fcf",
+      "orig_slug": "jerome-powell-gives-surprisingly-great-news-to-us-investors-its-a-wealth-surge-y-86d72fcf"
+    },
+    {
+      "title": "Broadcom Inc. (AVGO): Billionaire Ray Dalio Continues to Be Bullish",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-inc-avgo-billionaire-ray-112204271.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-02T11:22:04Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/32993d792d17faf38c705e2e089f7b22",
+      "slug": "broadcom-inc-avgo-billionaire-ray-dalio-continues-to-be-bullish-b0cfc0b7",
+      "orig_slug": "broadcom-inc-avgo-billionaire-ray-dalio-continues-to-be-bullish-b0cfc0b7"
+    },
+    {
+      "title": "Daily – Vickers Top Insider Picks for 04/03/2026",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46627_InsiderActivity_1775214079000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-03T11:01:19Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "daily-vickers-top-insider-picks-for-04032026-c4aaee8a",
+      "orig_slug": "daily-vickers-top-insider-picks-for-04032026-c4aaee8a"
+    },
+    {
+      "title": "How Top Executives Structure Their 401(k) to Pay Zero Taxes in Retirement",
+      "link": "https://finance.yahoo.com/markets/options/articles/top-executives-structure-401-k-103027940.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-02T10:30:27Z",
+      "image": "https://media.zenfs.com/en/24_7_wall_st__718/b6b5a38ef94c5172eb53e5f6e30e58bd",
+      "slug": "how-top-executives-structure-their-401k-to-pay-zero-taxes-in-retirement-f86d15d8",
+      "orig_slug": "how-top-executives-structure-their-401k-to-pay-zero-taxes-in-retirement-f86d15d8"
+    },
+    {
+      "title": "3 Stocks to Buy That Are Benefitting from Trump's Big Business Tax Breaks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-buy-benefitting-trumps-113002795.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-02T11:30:02Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/0b69210f76981dbf6b27c9425e7b6d6c",
+      "slug": "3-stocks-to-buy-that-are-benefitting-from-trumps-big-business-tax-breaks-1d108b29",
+      "orig_slug": "3-stocks-to-buy-that-are-benefitting-from-trumps-big-business-tax-breaks-1d108b29"
+    },
+    {
+      "title": "China expands digital yuan programme with 12 new bank operators",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/china-expands-digital-yuan-programme-114527106.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-02T11:45:27Z",
+      "image": "https://s.yimg.com/os/en/reuters-finance.com/2d692286b82d543ed0f2afea45e996f6",
+      "slug": "china-expands-digital-yuan-programme-with-12-new-bank-operators-f515836a",
+      "orig_slug": "china-expands-digital-yuan-programme-with-12-new-bank-operators-f515836a"
+    },
+    {
+      "title": "Bitcoin Whale Is Wall Street's No. 1 Crush And No. 1 Stock Issuer. Coincidence?",
+      "link": "https://www.investors.com/news/mstr-stock-bitcoin-whale-strategy-wall-street-price-targets-stock-issuance/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-02T11:47:22Z",
+      "image": "",
+      "slug": "bitcoin-whale-is-wall-streets-no-1-crush-and-no-1-stock-issuer-coincidence-05f8c58a",
+      "orig_slug": "bitcoin-whale-is-wall-streets-no-1-crush-and-no-1-stock-issuer-coincidence-05f8c58a"
+    },
+    {
+      "title": "Oil prices have ripped higher, yet investors keep making this mistake with energy stocks",
+      "link": "https://finance.yahoo.com/news/oil-prices-have-ripped-higher-yet-investors-keep-making-this-mistake-with-energy-stocks-115015019.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-02T11:50:15Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/ldLoWiUmO7M66QP48fqbWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-04/c5346aa0-2e89-11f1-b7e7-1fc2f4f234ee",
+      "slug": "oil-prices-have-ripped-higher-yet-investors-keep-making-this-mistake-with-energy-f8a66a4d",
+      "orig_slug": "oil-prices-have-ripped-higher-yet-investors-keep-making-this-mistake-with-energy-f8a66a4d"
+    },
+    {
+      "title": "Do ‘Safe’ Retirement Portfolios Need a Rethink?",
+      "link": "https://www.wsj.com/finance/investing/do-safe-retirement-portfolios-need-a-rethink-527919b3?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-02T10:30:00Z",
+      "image": "",
+      "slug": "do-safe-retirement-portfolios-need-a-rethink-3e62c94e",
+      "orig_slug": "do-safe-retirement-portfolios-need-a-rethink-3e62c94e"
+    },
+    {
+      "title": "Here's What to Expect From LyondellBasell's Next Earnings Report",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/heres-expect-lyondellbasells-next-earnings-101736683.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-02T10:17:36Z",
+      "image": "https://s.yimg.com/os/en/barchart_com_477/1546ea5c24e6263c83de91649230041e",
+      "slug": "heres-what-to-expect-from-lyondellbasells-next-earnings-report-277ce42e",
+      "orig_slug": "heres-what-to-expect-from-lyondellbasells-next-earnings-report-277ce42e"
+    },
+    {
+      "title": "Phillips 66's Q1 2026 Earnings: What to Expect",
+      "link": "https://finance.yahoo.com/sectors/energy/articles/phillips-66s-q1-2026-earnings-101509545.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-02T10:15:09Z",
+      "image": "https://s.yimg.com/os/en/barchart_com_477/0dacf47931a056f6a156724fb9cf6042",
+      "slug": "phillips-66s-q1-2026-earnings-what-to-expect-b8aaf7a8",
+      "orig_slug": "phillips-66s-q1-2026-earnings-what-to-expect-b8aaf7a8"
+    },
+    {
+      "title": "Bill Ackman Emphasizes Rare Buying Opportunity in Freddie Mac Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-emphasizes-rare-buying-115835170.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-02T11:58:35Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/8bb1263ef3ba1aca33f03160e19b21ca",
+      "slug": "bill-ackman-emphasizes-rare-buying-opportunity-in-freddie-mac-stock-4e2fc5c5",
+      "orig_slug": "bill-ackman-emphasizes-rare-buying-opportunity-in-freddie-mac-stock-4e2fc5c5"
+    },
+    {
+      "title": "Gold Prices Here Hint that Iran War Energy Price Shocks Could Be Short Lived. Why?",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-prices-hint-iran-war-120002779.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-02T12:00:02Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/53c50d06d64e6ed17574208698dad79a",
+      "slug": "gold-prices-here-hint-that-iran-war-energy-price-shocks-could-be-short-lived-why-a6eb6be7",
+      "orig_slug": "gold-prices-here-hint-that-iran-war-energy-price-shocks-could-be-short-lived-why-a6eb6be7"
+    },
+    {
+      "title": "Publicis sharpens sports marketing focus with 160over90 acquisition",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/publicis-sharpens-sports-marketing-focus-103000744.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-02T10:30:00Z",
+      "image": "https://media.zenfs.com/en/marketing_dive_116/f07cb958253f88e8e0c9363b854e9031",
+      "slug": "publicis-sharpens-sports-marketing-focus-with-160over90-acquisition-7eb8c960",
+      "orig_slug": "publicis-sharpens-sports-marketing-focus-with-160over90-acquisition-7eb8c960"
+    },
+    {
+      "title": "Here are the 6 levels of wealth for retirement-age Americans — are you at the top or bottom of the pyramida",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/6-levels-wealth-retirement-age-101300583.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-02T10:13:00Z",
+      "image": "https://media.zenfs.com/en/moneywise_ecomm_711/aadebcf464321e1cf4ac2b8f3a67bc8f",
+      "slug": "here-are-the-6-levels-of-wealth-for-retirement-age-americans-are-you-at-the-top--91818ad7",
+      "orig_slug": "here-are-the-6-levels-of-wealth-for-retirement-age-americans-are-you-at-the-top--91818ad7"
+    },
+    {
       "title": "How to keep your crypto safe",
       "link": "https://finance.yahoo.com/personal-finance/investing/article/how-to-keep-your-crypto-safe-120000773.html",
       "source": "finance.yahoo.com",
@@ -236,6 +263,33 @@
       "orig_slug": "how-to-keep-your-crypto-safe-5a7feebe"
     },
     {
+      "title": "Trump officials consider auto-enrolling seniors in Medicare Advantage — what it could mean for your health care costs",
+      "link": "https://finance.yahoo.com/sectors/healthcare/articles/trump-officials-consider-auto-enrolling-120000187.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-02T12:00:00Z",
+      "image": "https://s.yimg.com/os/en/moneywise_327/6321e57c5300854b999b19c836bfa497",
+      "slug": "trump-officials-consider-auto-enrolling-seniors-in-medicare-advantage-what-it-co-47725fc1",
+      "orig_slug": "trump-officials-consider-auto-enrolling-seniors-in-medicare-advantage-what-it-co-47725fc1"
+    },
+    {
+      "title": "Here's What to Expect From Aon's Next Earnings Report",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/heres-expect-aons-next-earnings-101247828.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-02T10:12:47Z",
+      "image": "https://s.yimg.com/os/en/barchart_com_477/9c1b4ca908c681c983311a3b49a638f0",
+      "slug": "heres-what-to-expect-from-aons-next-earnings-report-44577b09",
+      "orig_slug": "heres-what-to-expect-from-aons-next-earnings-report-44577b09"
+    },
+    {
+      "title": "The Retirement Stat That Could Soon Matter More Than 401(k) Plans",
+      "link": "https://finance.yahoo.com/markets/options/articles/retirement-stat-could-soon-matter-103000479.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-02T10:30:00Z",
+      "image": "https://media.zenfs.com/en/investopedia_245/de766f4535bf1612e62533fe2626485a",
+      "slug": "the-retirement-stat-that-could-soon-matter-more-than-401k-plans-296531f4",
+      "orig_slug": "the-retirement-stat-that-could-soon-matter-more-than-401k-plans-296531f4"
+    },
+    {
       "title": "3 predictions about silver prices in the next decade",
       "link": "https://finance.yahoo.com/personal-finance/investing/article/3-predictions-about-silver-prices-in-the-next-decade-130000313.html",
       "source": "finance.yahoo.com",
@@ -243,15 +297,6 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/z8hJSucRnODFz3l55qcSag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2021-04/bac0a1c0-9b44-11eb-b965-02078366a3fa",
       "slug": "3-predictions-about-silver-prices-in-the-next-decade-40fd5c4e",
       "orig_slug": "3-predictions-about-silver-prices-in-the-next-decade-40fd5c4e"
-    },
-    {
-      "title": "Shake Shack will overhaul its tech with focus on AI, loyalty",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/shake-shack-overhaul-tech-focus-094000054.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-02T09:40:00Z",
-      "image": "https://media.zenfs.com/en/restaurant_dive_404/80ebc0b325b11f55940205cd0c87a8c8",
-      "slug": "shake-shack-will-overhaul-its-tech-with-focus-on-ai-loyalty-ff2ddf43",
-      "orig_slug": "shake-shack-will-overhaul-its-tech-with-focus-on-ai-loyalty-ff2ddf43"
     },
     {
       "title": "IRS Fresh Start may expand tax payment options, but there's one thing to watch out for",
@@ -281,6 +326,15 @@
       "orig_slug": "can-you-pay-rent-with-a-credit-card-0e517cb3"
     },
     {
+      "title": "Ramp and Visa expand partnership to use agentic AI for corporate bill pay",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/ramp-visa-expand-partnership-agentic-104008481.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-02T10:40:08Z",
+      "image": "https://media.zenfs.com/en/electronic_payments_938/180a41c10c01adc7d94b28f70cc3d7dd",
+      "slug": "ramp-and-visa-expand-partnership-to-use-agentic-ai-for-corporate-bill-pay-6c762d90",
+      "orig_slug": "ramp-and-visa-expand-partnership-to-use-agentic-ai-for-corporate-bill-pay-6c762d90"
+    },
+    {
       "title": "How many credit cards is too many?",
       "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/how-many-credit-cards-is-too-many-191232220.html",
       "source": "finance.yahoo.com",
@@ -288,15 +342,6 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/mOZZGPmUzK0ZsRkutVKUqQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/fba616c0-1eb3-11ef-bdef-31d103e0c247",
       "slug": "how-many-credit-cards-is-too-many-c98cf145",
       "orig_slug": "how-many-credit-cards-is-too-many-c98cf145"
-    },
-    {
-      "title": "Cal-Maine (CALM) Q3 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cal-maine-calm-q3-2026-092828422.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-02T09:28:28Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
-      "slug": "cal-maine-calm-q3-2026-earnings-call-transcript-a429ecdf",
-      "orig_slug": "cal-maine-calm-q3-2026-earnings-call-transcript-a429ecdf"
     },
     {
       "title": "Can't pay your credit card bill during the government shutdown? This could help.",
@@ -326,6 +371,15 @@
       "orig_slug": "is-the-stock-market-closed-on-good-friday-and-easter-monday-b2f803c5"
     },
     {
+      "title": "U.S. Employment Data Could Be 'Critical Catalyst' for Treasuries, Dollar",
+      "link": "https://www.barrons.com/livecoverage/stock-market-news-today-040226/card/u-s-employment-data-could-be-critical-catalyst-for-treasuries-dollar-UhGSPJdlgrPzGSKRiBzy?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-02T10:29:48Z",
+      "image": "",
+      "slug": "us-employment-data-could-be-critical-catalyst-for-treasuries-dollar-c6260f79",
+      "orig_slug": "us-employment-data-could-be-critical-catalyst-for-treasuries-dollar-c6260f79"
+    },
+    {
       "title": "Wells Fargo Autograph Journey℠ Card review: A high-earning card designed for frequent travelers",
       "link": "https://finance.yahoo.com/personal-finance/credit-cards/review/wells-fargo-autograph-journey-card-review-215134623.html",
       "source": "finance.yahoo.com",
@@ -333,69 +387,6 @@
       "image": "https://s.yimg.com/os/creatr-uploaded-images/2024-03/1a0b16e0-dd84-11ee-bfff-610f2333ec5d",
       "slug": "wells-fargo-autograph-journey-card-review-a-high-earning-card-designed-for-frequ-cb802e20",
       "orig_slug": "wells-fargo-autograph-journey-card-review-a-high-earning-card-designed-for-frequ-cb802e20"
-    },
-    {
-      "title": "Midland takes over Wetoska Packaging",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/midland-takes-over-wetoska-packaging-092640052.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-02T09:26:40Z",
-      "image": "https://media.zenfs.com/en/packaging_gateway_559/a339f7e0746ed74b8f5cb5c389da2c9c",
-      "slug": "midland-takes-over-wetoska-packaging-e2f129da",
-      "orig_slug": "midland-takes-over-wetoska-packaging-e2f129da"
-    },
-    {
-      "title": "Best credit cards for shopping at Walmart (April 2026)",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-for-walmart-182948137.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-01T19:37:25Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/oMnMauY_aHCfurzPxprc4g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/6ed95250-b6eb-11ee-bddf-20519e991078",
-      "slug": "best-credit-cards-for-shopping-at-walmart-april-2026-f4ca653b",
-      "orig_slug": "best-credit-cards-for-shopping-at-walmart-april-2026-f4ca653b"
-    },
-    {
-      "title": "The best cash-back credit cards for April 2026",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-cash-back-credit-cards-182338292.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-11-04T18:23:38Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/S.7h.6GRT0QDXXJvN3e9Tg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/cdb72f80-db70-11f0-afdb-1852a6bf600f",
-      "slug": "the-best-cash-back-credit-cards-for-april-2026-bddb6e39",
-      "orig_slug": "the-best-cash-back-credit-cards-for-april-2026-bddb6e39"
-    },
-    {
-      "title": "Wells Fargo Active Cash Card review: Unlimited 2% cash rewards and generous intro APR",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/review/wells-fargo-active-cash-card-180512515.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-12-01T18:05:12Z",
-      "image": "https://s.yimg.com/os/creatr-uploaded-images/2024-11/51445a30-9aef-11ef-b1ff-05431fb3d446",
-      "slug": "wells-fargo-active-cash-card-review-unlimited-2-cash-rewards-and-generous-intro--6657c5e5",
-      "orig_slug": "wells-fargo-active-cash-card-review-unlimited-2-cash-rewards-and-generous-intro--6657c5e5"
-    },
-    {
-      "title": "AARP® Travel Rewards Mastercard® from Barclays review: A solid rewards card that's not just for seniors",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/review/aarp-travel-rewards-mastercard-191437742.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-11-14T19:14:37Z",
-      "image": "https://s.yimg.com/os/creatr-uploaded-images/2025-11/b4869fc0-c188-11f0-bf5b-efe9bb5b13ee",
-      "slug": "aarp-travel-rewards-mastercard-from-barclays-review-a-solid-rewards-card-thats-n-e91d7f20",
-      "orig_slug": "aarp-travel-rewards-mastercard-from-barclays-review-a-solid-rewards-card-thats-n-e91d7f20"
-    },
-    {
-      "title": "3 Monster Dividend Stocks to Hold for the Next 10 Years",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-monster-dividend-stocks-hold-093500239.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-02T09:35:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/88f3989b2fe04910aa1d8e1fe25ea23a",
-      "slug": "3-monster-dividend-stocks-to-hold-for-the-next-10-years-5f75719a",
-      "orig_slug": "3-monster-dividend-stocks-to-hold-for-the-next-10-years-5f75719a"
-    },
-    {
-      "title": "Wells Fargo Autograph Card review: No frills and high rewards",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/review/wells-fargo-autograph-card-review-174306239.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-02-27T17:43:06Z",
-      "image": "https://s.yimg.com/os/creatr-uploaded-images/2026-02/e1d10ca0-1402-11f1-abbf-d763dfa407df",
-      "slug": "wells-fargo-autograph-card-review-no-frills-and-high-rewards-4af1c1bd",
-      "orig_slug": "wells-fargo-autograph-card-review-no-frills-and-high-rewards-4af1c1bd"
     }
   ]
 }
