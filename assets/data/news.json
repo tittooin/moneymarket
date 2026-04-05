@@ -1,78 +1,6 @@
 {
-  "updated": "2026-04-05T08:33:51Z",
+  "updated": "2026-04-05T09:31:17Z",
   "items": [
-    {
-      "title": "BNP Paribas warns stakes 'couldn't be higher' for Tesla stock investors",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-warns-stakes-couldnt-031700328.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-04T03:17:00Z",
-      "image": "https://s.yimg.com/os/en/thestreet_881/4e1e259b2e594972efdb9737daf2e34e",
-      "slug": "bnp-paribas-warns-stakes-couldnt-be-higher-for-tesla-stock-investors-79e75cfa",
-      "orig_slug": "bnp-paribas-warns-stakes-couldnt-be-higher-for-tesla-stock-investors-79e75cfa"
-    },
-    {
-      "title": "Morgan Stanley Cuts Huntington Bancshares (HBAN) Target as Bank Stocks Face Macro Pressure",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-cuts-huntington-bancshares-044645063.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-04T04:46:45Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/d444fce460f8346168e0a6e22d29c70d",
-      "slug": "morgan-stanley-cuts-huntington-bancshares-hban-target-as-bank-stocks-face-macro--db4c3090",
-      "orig_slug": "morgan-stanley-cuts-huntington-bancshares-hban-target-as-bank-stocks-face-macro--db4c3090"
-    },
-    {
-      "title": "Scotiabank Lowers Comcast (CMCSA) Target on Softer EBITDA Outlook",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/scotiabank-lowers-comcast-cmcsa-target-045035425.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-04T04:50:35Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/ca4aa97d27919cdcf19e258081f94386",
-      "slug": "scotiabank-lowers-comcast-cmcsa-target-on-softer-ebitda-outlook-cd7637c6",
-      "orig_slug": "scotiabank-lowers-comcast-cmcsa-target-on-softer-ebitda-outlook-cd7637c6"
-    },
-    {
-      "title": "Ford Reports Weak Q1 Sales as High Costs Hit Auto Demand, Reuters Reports",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ford-reports-weak-q1-sales-045342228.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-04T04:53:42Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/4a2f97ff6459f92034d76ce4fcdedbcc",
-      "slug": "ford-reports-weak-q1-sales-as-high-costs-hit-auto-demand-reuters-reports-82368ac7",
-      "orig_slug": "ford-reports-weak-q1-sales-as-high-costs-hit-auto-demand-reuters-reports-82368ac7"
-    },
-    {
-      "title": "TD Securities Turns Cautious on BCE, Lowers ARPU Estimates",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/td-securities-turns-cautious-bce-045530265.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-04T04:55:30Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/c4606b6f94ae87f10e6b1a79d5d01b73",
-      "slug": "td-securities-turns-cautious-on-bce-lowers-arpu-estimates-217314e0",
-      "orig_slug": "td-securities-turns-cautious-on-bce-lowers-arpu-estimates-217314e0"
-    },
-    {
-      "title": "Should You Forget Ethereum and Buy This Cryptocurrency Instead?",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/forget-ethereum-buy-cryptocurrency-instead-025000681.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-04T02:50:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/ceba654e65ac00c3114f37955bb82063",
-      "slug": "should-you-forget-ethereum-and-buy-this-cryptocurrency-instead-c0406019",
-      "orig_slug": "should-you-forget-ethereum-and-buy-this-cryptocurrency-instead-c0406019"
-    },
-    {
-      "title": "Deutsche Bank Starts International Paper (IP) at Hold, Flags Sector Pressures",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-starts-international-paper-045722545.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-04T04:57:22Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/878a0e97b04550634ef8008880383fa9",
-      "slug": "deutsche-bank-starts-international-paper-ip-at-hold-flags-sector-pressures-1ea0a13f",
-      "orig_slug": "deutsche-bank-starts-international-paper-ip-at-hold-flags-sector-pressures-1ea0a13f"
-    },
-    {
-      "title": "Franklin Resources Bets on Active Crypto, Acquires 250 Digital",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/franklin-resources-bets-active-crypto-050119100.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-04T05:01:19Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/1c956689e6af5143632e6cd8221cad0b",
-      "slug": "franklin-resources-bets-on-active-crypto-acquires-250-digital-3e4b884c",
-      "orig_slug": "franklin-resources-bets-on-active-crypto-acquires-250-digital-3e4b884c"
-    },
     {
       "title": "Erste Group Sees Profit Growth Ahead, Upgrades Verizon (VZ) to Buy",
       "link": "https://finance.yahoo.com/markets/stocks/articles/erste-group-sees-profit-growth-050227676.html",
@@ -92,13 +20,22 @@
       "orig_slug": "poland-romania-ordered-to-honor-vaccine-deal-with-pfizer-147057fb"
     },
     {
-      "title": "OpenAI just made a decision that shocked the whole tech ecosystem",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/openai-just-made-decision-shocked-033300386.html",
+      "title": "Franklin Resources Bets on Active Crypto, Acquires 250 Digital",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/franklin-resources-bets-active-crypto-050119100.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-04T03:33:00Z",
-      "image": "https://s.yimg.com/os/en/thestreet_881/4c179e6a16d42683607d278e65e43adb",
-      "slug": "openai-just-made-a-decision-that-shocked-the-whole-tech-ecosystem-851e0401",
-      "orig_slug": "openai-just-made-a-decision-that-shocked-the-whole-tech-ecosystem-851e0401"
+      "pubDate": "2026-04-04T05:01:19Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/1c956689e6af5143632e6cd8221cad0b",
+      "slug": "franklin-resources-bets-on-active-crypto-acquires-250-digital-3e4b884c",
+      "orig_slug": "franklin-resources-bets-on-active-crypto-acquires-250-digital-3e4b884c"
+    },
+    {
+      "title": "TD Securities Turns Cautious on BCE, Lowers ARPU Estimates",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/td-securities-turns-cautious-bce-045530265.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-04T04:55:30Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/c4606b6f94ae87f10e6b1a79d5d01b73",
+      "slug": "td-securities-turns-cautious-on-bce-lowers-arpu-estimates-217314e0",
+      "orig_slug": "td-securities-turns-cautious-on-bce-lowers-arpu-estimates-217314e0"
     },
     {
       "title": "Citi Boosts Northern Oil and Gas (NOG) Price Target, Sees Discipline in E&Ps",
@@ -110,6 +47,24 @@
       "orig_slug": "citi-boosts-northern-oil-and-gas-nog-price-target-sees-discipline-in-eps-e4216848"
     },
     {
+      "title": "Deutsche Bank Starts International Paper (IP) at Hold, Flags Sector Pressures",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-starts-international-paper-045722545.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-04T04:57:22Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/878a0e97b04550634ef8008880383fa9",
+      "slug": "deutsche-bank-starts-international-paper-ip-at-hold-flags-sector-pressures-1ea0a13f",
+      "orig_slug": "deutsche-bank-starts-international-paper-ip-at-hold-flags-sector-pressures-1ea0a13f"
+    },
+    {
+      "title": "Ford Reports Weak Q1 Sales as High Costs Hit Auto Demand, Reuters Reports",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ford-reports-weak-q1-sales-045342228.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-04T04:53:42Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/4a2f97ff6459f92034d76ce4fcdedbcc",
+      "slug": "ford-reports-weak-q1-sales-as-high-costs-hit-auto-demand-reuters-reports-82368ac7",
+      "orig_slug": "ford-reports-weak-q1-sales-as-high-costs-hit-auto-demand-reuters-reports-82368ac7"
+    },
+    {
       "title": "VICI Properties Strengthens Lease Portfolio with Canada Gaming Assets",
       "link": "https://finance.yahoo.com/markets/stocks/articles/vici-properties-strengthens-lease-portfolio-050745727.html",
       "source": "finance.yahoo.com",
@@ -117,6 +72,24 @@
       "image": "https://media.zenfs.com/en/insidermonkey.com/743a0a4372c71fff5a405e1c251834c0",
       "slug": "vici-properties-strengthens-lease-portfolio-with-canada-gaming-assets-c1ded670",
       "orig_slug": "vici-properties-strengthens-lease-portfolio-with-canada-gaming-assets-c1ded670"
+    },
+    {
+      "title": "How Bain Capital Scours the Globe for Excess Returns",
+      "link": "https://www.barrons.com/articles/bain-capital-david-gross-interview-4760823c?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-04T05:01:00Z",
+      "image": "",
+      "slug": "how-bain-capital-scours-the-globe-for-excess-returns-92fe79f4",
+      "orig_slug": "how-bain-capital-scours-the-globe-for-excess-returns-92fe79f4"
+    },
+    {
+      "title": "Scotiabank Lowers Comcast (CMCSA) Target on Softer EBITDA Outlook",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/scotiabank-lowers-comcast-cmcsa-target-045035425.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-04T04:50:35Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/ca4aa97d27919cdcf19e258081f94386",
+      "slug": "scotiabank-lowers-comcast-cmcsa-target-on-softer-ebitda-outlook-cd7637c6",
+      "orig_slug": "scotiabank-lowers-comcast-cmcsa-target-on-softer-ebitda-outlook-cd7637c6"
     },
     {
       "title": "Deutsche Bank Sees Cost and Demand Risks, Trims General Mills (GIS)",
@@ -137,13 +110,22 @@
       "orig_slug": "td-cowen-lowers-kraft-heinz-khc-as-food-sector-faces-cost-pressures-9522367f"
     },
     {
-      "title": "Dividends Don't Lie: This Is the Most Reliable High-Yield REIT",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dividends-dont-lie-most-reliable-033500781.html",
+      "title": "Morgan Stanley Cuts Huntington Bancshares (HBAN) Target as Bank Stocks Face Macro Pressure",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-cuts-huntington-bancshares-044645063.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-04T03:35:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/0db2bb6130a6f406374688a0052cdd4e",
-      "slug": "dividends-dont-lie-this-is-the-most-reliable-high-yield-reit-9c5b8d60",
-      "orig_slug": "dividends-dont-lie-this-is-the-most-reliable-high-yield-reit-9c5b8d60"
+      "pubDate": "2026-04-04T04:46:45Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/d444fce460f8346168e0a6e22d29c70d",
+      "slug": "morgan-stanley-cuts-huntington-bancshares-hban-target-as-bank-stocks-face-macro--db4c3090",
+      "orig_slug": "morgan-stanley-cuts-huntington-bancshares-hban-target-as-bank-stocks-face-macro--db4c3090"
+    },
+    {
+      "title": "JEPI vs. JEPQ: Which Is the Better Buy in April?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jepi-vs-jepq-better-buy-045000547.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-04T04:50:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/b75a49a36a3b8d9761f28125152bc969",
+      "slug": "jepi-vs-jepq-which-is-the-better-buy-in-april-34c379fb",
+      "orig_slug": "jepi-vs-jepq-which-is-the-better-buy-in-april-34c379fb"
     },
     {
       "title": "Deutsche Bank Sees Weak March for CPG Stocks, Lowers Campbell’s (CPB)",
@@ -182,22 +164,13 @@
       "orig_slug": "imf-urges-boj-to-keep-raising-rates-even-as-iran-war-poses-new-risks-4cf1c35f"
     },
     {
-      "title": "This Under-the-Radar Fintech Stock Has Been Quietly Gaining Market Share",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/under-radar-fintech-stock-quietly-035000076.html",
+      "title": "SpaceX IPO: Will It Be a Buy or a Bust?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-buy-bust-053500580.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-04T03:50:00Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/9b2ca16059174ac32b1ea5d4594a8c33",
-      "slug": "this-under-the-radar-fintech-stock-has-been-quietly-gaining-market-share-cc94a766",
-      "orig_slug": "this-under-the-radar-fintech-stock-has-been-quietly-gaining-market-share-cc94a766"
-    },
-    {
-      "title": "Comparing 2 Healthcare Giants: Which Dividend Aristocrat Will Keep Paying Out for Generations to Come?",
-      "link": "https://finance.yahoo.com/sectors/healthcare/articles/comparing-2-healthcare-giants-dividend-230002096.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-03T23:00:02Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/8c4be2ea4dfd69af7363ead45b9b334b",
-      "slug": "comparing-2-healthcare-giants-which-dividend-aristocrat-will-keep-paying-out-for-c3105f5d",
-      "orig_slug": "comparing-2-healthcare-giants-which-dividend-aristocrat-will-keep-paying-out-for-c3105f5d"
+      "pubDate": "2026-04-04T05:35:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/77d848af40bc762c3122cf2375534446",
+      "slug": "spacex-ipo-will-it-be-a-buy-or-a-bust-52cddb1f",
+      "orig_slug": "spacex-ipo-will-it-be-a-buy-or-a-bust-52cddb1f"
     },
     {
       "title": "A Florida car dealer tried to ship a stolen $460,000 Rolls-Royce overseas. It did not go well for him",
@@ -227,22 +200,22 @@
       "orig_slug": "a-tax-economist-bet-his-entire-life-savings-against-doge-and-walked-away-with-12-b2707684"
     },
     {
-      "title": "Should You Buy Bitcoin While It's Under $100,000? Here's What Prediction Markets Think",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/buy-bitcoin-while-under-100-020500929.html",
+      "title": "Best high-yield savings interest rates today, April 4, 2026 (Earn up to 4% APY)",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-saturday-april-4-2026-100000933.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-04T02:05:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/39f34b25a2b7145f288207640ef35aa0",
-      "slug": "should-you-buy-bitcoin-while-its-under-100000-heres-what-prediction-markets-thin-3839d070",
-      "orig_slug": "should-you-buy-bitcoin-while-its-under-100000-heres-what-prediction-markets-thin-3839d070"
+      "pubDate": "2026-04-04T10:00:00Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/aRDcY28ieSeI9vEdf5zsPA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/ca22a990-4b79-11ef-bb75-05cc1913c137",
+      "slug": "best-high-yield-savings-interest-rates-today-april-4-2026-earn-up-to-4-apy-ea4576ef",
+      "orig_slug": "best-high-yield-savings-interest-rates-today-april-4-2026-earn-up-to-4-apy-ea4576ef"
     },
     {
-      "title": "Arista Networks, Inc. (ANET): Billionaire Steve Cohen Admires This AI Stock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-inc-anet-billionaire-215457017.html",
+      "title": "Tech Volatility May Just Be Getting Started. What Jittery Investors Can Do Right Now.",
+      "link": "https://www.barrons.com/articles/ai-nasdaq-market-amazon-meta-eac7665e?siteid=yhoof2&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-03T21:54:57Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/8740a4f3351b0b10ea9b440ebbcb093a",
-      "slug": "arista-networks-inc-anet-billionaire-steve-cohen-admires-this-ai-stock-fb7aeb27",
-      "orig_slug": "arista-networks-inc-anet-billionaire-steve-cohen-admires-this-ai-stock-fb7aeb27"
+      "pubDate": "2026-04-04T06:00:00Z",
+      "image": "",
+      "slug": "tech-volatility-may-just-be-getting-started-what-jittery-investors-can-do-right--11307767",
+      "orig_slug": "tech-volatility-may-just-be-getting-started-what-jittery-investors-can-do-right--11307767"
     },
     {
       "title": "Mortgage and refinance interest rates today, April 4, 2026: Down a quarter point since last weekend",
@@ -258,7 +231,7 @@
       "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-saturday-april-4-2026-100000113.html",
       "source": "finance.yahoo.com",
       "pubDate": "2026-04-04T10:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/DEYBT6nBXCugfeps8WOPog--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/dc14d470-3ff7-11f0-8ff7-510b29e3a941",
+      "image": "https://s.yimg.com/ny/api/res/1.2/2LCq4ex4ClUULr_8hLp4GQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-06/dc14d470-3ff7-11f0-8ff7-510b29e3a941",
       "slug": "heloc-and-home-equity-loan-rates-saturday-april-4-2026-low-and-tied-to-the-prime-aeb36858",
       "orig_slug": "heloc-and-home-equity-loan-rates-saturday-april-4-2026-low-and-tied-to-the-prime-aeb36858"
     },
@@ -272,24 +245,6 @@
       "orig_slug": "best-money-market-account-rates-today-april-4-2026-best-account-provides-401-apy-9e7033b5"
     },
     {
-      "title": "He Turned Down Ken Griffin to Run His Own Fund. That Was $20 Billion Ago.",
-      "link": "https://www.wsj.com/finance/investing/hamza-lemssouguer-arini-capital-hedge-fund-firm-99c961d5?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-04T02:00:00Z",
-      "image": "",
-      "slug": "he-turned-down-ken-griffin-to-run-his-own-fund-that-was-20-billion-ago-2980f9bf",
-      "orig_slug": "he-turned-down-ken-griffin-to-run-his-own-fund-that-was-20-billion-ago-2980f9bf"
-    },
-    {
-      "title": "Best high-yield savings interest rates today, April 4, 2026 (Earn up to 4% APY)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-saturday-april-4-2026-100000933.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-04T10:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/aRDcY28ieSeI9vEdf5zsPA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/ca22a990-4b79-11ef-bb75-05cc1913c137",
-      "slug": "best-high-yield-savings-interest-rates-today-april-4-2026-earn-up-to-4-apy-ea4576ef",
-      "orig_slug": "best-high-yield-savings-interest-rates-today-april-4-2026-earn-up-to-4-apy-ea4576ef"
-    },
-    {
       "title": "Best CD rates today, April 4, 2026 (best account provides 4.15% APY)",
       "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-april-4-2026-100000301.html",
       "source": "finance.yahoo.com",
@@ -297,6 +252,87 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/ovrcHtWjuWeW708CWElIWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47af0d0-4f64-11ef-a7fe-afb55aa695d3",
       "slug": "best-cd-rates-today-april-4-2026-best-account-provides-415-apy-b3672b80",
       "orig_slug": "best-cd-rates-today-april-4-2026-best-account-provides-415-apy-b3672b80"
+    },
+    {
+      "title": "The lost gas fields that could power Britain for decades",
+      "link": "https://finance.yahoo.com/sectors/energy/articles/lost-gas-fields-could-power-060000296.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-04T06:00:00Z",
+      "image": "https://media.zenfs.com/en/the_telegraph_258/b5c4c96081f6362223fc08a46d38ef1a",
+      "slug": "the-lost-gas-fields-that-could-power-britain-for-decades-280b27eb",
+      "orig_slug": "the-lost-gas-fields-that-could-power-britain-for-decades-280b27eb"
+    },
+    {
+      "title": "A record-breaking number of Americans can’t pay their credit card bills in full. Here’s how you can break the debt cycle",
+      "link": "https://finance.yahoo.com/economy/policy/articles/record-breaking-number-americans-t-101500046.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-04T10:15:00Z",
+      "image": "https://media.zenfs.com/en/moneywise_327/d3e2fa107d2aa3f2961ffe1db0229012",
+      "slug": "a-record-breaking-number-of-americans-cant-pay-their-credit-card-bills-in-full-h-f097d6b6",
+      "orig_slug": "a-record-breaking-number-of-americans-cant-pay-their-credit-card-bills-in-full-h-f097d6b6"
+    },
+    {
+      "title": "President Trump doubled down on US seniors paying ‘no tax’ on Social Security. What it means for you and your money",
+      "link": "https://finance.yahoo.com/economy/policy/articles/president-trump-doubled-down-us-102300011.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-04T10:23:00Z",
+      "image": "https://media.zenfs.com/en/moneywise_ecomm_711/a97706c07e6966e310798fe32af451b2",
+      "slug": "president-trump-doubled-down-on-us-seniors-paying-no-tax-on-social-security-what-40bd7ca0",
+      "orig_slug": "president-trump-doubled-down-on-us-seniors-paying-no-tax-on-social-security-what-40bd7ca0"
+    },
+    {
+      "title": "This Roth IRA rule confuses most savers — and could trigger surprise taxes. How to make sure you don’t get caught",
+      "link": "https://finance.yahoo.com/markets/options/articles/roth-ira-rule-confuses-most-104500712.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-04T10:45:00Z",
+      "image": "https://s.yimg.com/os/en/moneywise_ecomm_711/7899bee5cf564402d50821a08cf3454c",
+      "slug": "this-roth-ira-rule-confuses-most-savers-and-could-trigger-surprise-taxes-how-to--9cdf0d1f",
+      "orig_slug": "this-roth-ira-rule-confuses-most-savers-and-could-trigger-surprise-taxes-how-to--9cdf0d1f"
+    },
+    {
+      "title": "Your in-law may have just delayed your refund — here's how to fix it",
+      "link": "https://finance.yahoo.com/economy/policy/articles/law-may-just-delayed-refund-104500556.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-04T10:45:00Z",
+      "image": "https://media.zenfs.com/en/moneywise_327/7d2ee834af9791153558a536a16cedf7",
+      "slug": "your-in-law-may-have-just-delayed-your-refund-heres-how-to-fix-it-3e6707db",
+      "orig_slug": "your-in-law-may-have-just-delayed-your-refund-heres-how-to-fix-it-3e6707db"
+    },
+    {
+      "title": "Could Investing $10,000 in SPYM Make You a Millionaire?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/could-investing-10-000-spym-062000503.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-04T06:20:00Z",
+      "image": "https://s.yimg.com/os/en/motleyfool.com/643814eaf2cb2b81f0febbec091ab964",
+      "slug": "could-investing-10000-in-spym-make-you-a-millionaire-f2246c56",
+      "orig_slug": "could-investing-10000-in-spym-make-you-a-millionaire-f2246c56"
+    },
+    {
+      "title": "Trump claims we’re on the cusp of something ‘this country has never seen.’ Here’s how to bet on America in 2026",
+      "link": "https://finance.yahoo.com/economy/policy/articles/trump-claims-cusp-something-country-110000979.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-04T11:00:00Z",
+      "image": "https://s.yimg.com/os/en/moneywise_ecomm_711/42f337785c8a5f3c5dc7b0bd4520f98e",
+      "slug": "trump-claims-were-on-the-cusp-of-something-this-country-has-never-seen-heres-how-c9cbb55e",
+      "orig_slug": "trump-claims-were-on-the-cusp-of-something-this-country-has-never-seen-heres-how-c9cbb55e"
+    },
+    {
+      "title": "‘We aren't in it to make 5% or 6%': Warren Buffett calls Iran war market dip 'nothing.’ What he sees that others don't",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/arent-5-6-warren-buffett-110000982.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-04T11:00:00Z",
+      "image": "https://media.zenfs.com/en/moneywise_327/12ddbd29ff28ece9ba9c483d040cd560",
+      "slug": "we-arent-in-it-to-make-5-or-6-warren-buffett-calls-iran-war-market-dip-nothing-w-8c00e0ee",
+      "orig_slug": "we-arent-in-it-to-make-5-or-6-warren-buffett-calls-iran-war-market-dip-nothing-w-8c00e0ee"
+    },
+    {
+      "title": "99% of U.S. counties have flooded over the last 30 years — yet only 4% of American homeowners have flood insurance",
+      "link": "https://finance.yahoo.com/economy/policy/articles/99-u-counties-flooded-over-110000399.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-04T11:00:00Z",
+      "image": "https://media.zenfs.com/en/moneywise_327/324b0afe05ea4b1f8750426d2966c568",
+      "slug": "99-of-us-counties-have-flooded-over-the-last-30-years-yet-only-4-of-american-hom-3299a722",
+      "orig_slug": "99-of-us-counties-have-flooded-over-the-last-30-years-yet-only-4-of-american-hom-3299a722"
     },
     {
       "title": "Best cash-out refinance mortgage lenders of April 2026",
@@ -308,40 +344,13 @@
       "orig_slug": "best-cash-out-refinance-mortgage-lenders-of-april-2026-b45680a2"
     },
     {
-      "title": "Taiwan Semiconductor Manufacturing (TSM): Billionaire Steve Cohen Likes This Chip Stock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-billionaire-214456500.html",
+      "title": "What Is the Jevons Paradox and What Does It Mean for Micron and Sandisk Investors After Google's Revolutionary AI Breakthrough?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jevons-paradox-does-mean-micron-062500586.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-03T21:44:56Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/f90919c411d1aa5d89e5e74b1fb5e45e",
-      "slug": "taiwan-semiconductor-manufacturing-tsm-billionaire-steve-cohen-likes-this-chip-s-e4e5f9ba",
-      "orig_slug": "taiwan-semiconductor-manufacturing-tsm-billionaire-steve-cohen-likes-this-chip-s-e4e5f9ba"
-    },
-    {
-      "title": "Nvidia and Alphabet Both Have Amazing Potential in an AI Era. But Which Stock Is the Better Buy Right Now?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-alphabet-both-amazing-potential-014600515.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-04T01:46:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/fb5c7678c5180170896dd4e723f63d03",
-      "slug": "nvidia-and-alphabet-both-have-amazing-potential-in-an-ai-era-but-which-stock-is--f06b86e7",
-      "orig_slug": "nvidia-and-alphabet-both-have-amazing-potential-in-an-ai-era-but-which-stock-is--f06b86e7"
-    },
-    {
-      "title": "Broadcom Inc. (AVGO): Billionaire Steve Cohen Almost Doubles Stake",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-inc-avgo-billionaire-steve-214258758.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-03T21:42:58Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/74c86932afc7980ee396bd2ed83c4c6e",
-      "slug": "broadcom-inc-avgo-billionaire-steve-cohen-almost-doubles-stake-e33f9c5c",
-      "orig_slug": "broadcom-inc-avgo-billionaire-steve-cohen-almost-doubles-stake-e33f9c5c"
-    },
-    {
-      "title": "Credo Technology (CRDO): Billionaire Steve Cohen Continues to Be Bullish",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/credo-technology-crdo-billionaire-steve-214111813.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-03T21:41:11Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/704231fc1efa4e63b56f2a2052e39032",
-      "slug": "credo-technology-crdo-billionaire-steve-cohen-continues-to-be-bullish-746061b9",
-      "orig_slug": "credo-technology-crdo-billionaire-steve-cohen-continues-to-be-bullish-746061b9"
+      "pubDate": "2026-04-04T06:25:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/6537586db4f2a45f7210f1b9e1c9c6da",
+      "slug": "what-is-the-jevons-paradox-and-what-does-it-mean-for-micron-and-sandisk-investor-d1095946",
+      "orig_slug": "what-is-the-jevons-paradox-and-what-does-it-mean-for-micron-and-sandisk-investor-d1095946"
     },
     {
       "title": "Best mortgage lenders for first-time home buyers of April 2026",
@@ -362,15 +371,6 @@
       "orig_slug": "sofi-vs-td-bank-which-bank-is-a-better-fit-for-you-ca30bb59"
     },
     {
-      "title": "JEPI vs. JEPQ: Which Is the Better Buy in April?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jepi-vs-jepq-better-buy-045000547.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-04T04:50:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/b75a49a36a3b8d9761f28125152bc969",
-      "slug": "jepi-vs-jepq-which-is-the-better-buy-in-april-34c379fb",
-      "orig_slug": "jepi-vs-jepq-which-is-the-better-buy-in-april-34c379fb"
-    },
-    {
       "title": "SoFi vs. Ally: Which online bank is best for you?",
       "link": "https://finance.yahoo.com/personal-finance/banking/comparison/sofi-vs-ally-213127255.html",
       "source": "finance.yahoo.com",
@@ -387,6 +387,15 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/aZ9eyue6.ZKpqfoiZdAtLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-07/696a7770-0460-11ed-8df9-79eb8e0c9cba",
       "slug": "tax-refund-delays-hit-a-handful-of-states-is-yours-one-of-them-e2c9a974",
       "orig_slug": "tax-refund-delays-hit-a-handful-of-states-is-yours-one-of-them-e2c9a974"
+    },
+    {
+      "title": "The Future of Warfare Is Drones. This Defense Stock Is Perfectly Positioned to Benefit.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/future-warfare-drones-defense-stock-062500192.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-04T06:25:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/448b86742d3075abed441e902d8ac9e4",
+      "slug": "the-future-of-warfare-is-drones-this-defense-stock-is-perfectly-positioned-to-be-b9a4a30b",
+      "orig_slug": "the-future-of-warfare-is-drones-this-defense-stock-is-perfectly-positioned-to-be-b9a4a30b"
     },
     {
       "title": "The complete list of credit card perks that reset each calendar year (2026)",
@@ -407,15 +416,6 @@
       "orig_slug": "does-the-irs-owe-you-a-pandemic-tax-refund-heres-whats-happening-e59882ef"
     },
     {
-      "title": "The Best High-Yield Financial Stock to Invest $1,000 in Right Now",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/best-high-yield-financial-stock-013500759.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-04T01:35:00Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/db47ebde0fa3a1a61431b050c418ebb8",
-      "slug": "the-best-high-yield-financial-stock-to-invest-1000-in-right-now-45a23306",
-      "orig_slug": "the-best-high-yield-financial-stock-to-invest-1000-in-right-now-45a23306"
-    },
-    {
       "title": "Where’s my tax refund? 4 reasons your refund might be delayed.",
       "link": "https://finance.yahoo.com/personal-finance/taxes/article/wheres-my-tax-refund-4-reasons-your-refund-might-be-delayed-223701586.html",
       "source": "finance.yahoo.com",
@@ -434,6 +434,15 @@
       "orig_slug": "best-cd-rates-today-april-3-2026-up-to-415-apy-return-df1fe021"
     },
     {
+      "title": "Private-Credit Funds Face Higher Financing Costs in Bond Market. Here’s Why.",
+      "link": "https://www.barrons.com/articles/private-credit-funds-face-higher-financing-costs-in-bond-market-8aff4f45?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-04T06:30:00Z",
+      "image": "",
+      "slug": "private-credit-funds-face-higher-financing-costs-in-bond-market-heres-why-dab2fe46",
+      "orig_slug": "private-credit-funds-face-higher-financing-costs-in-bond-market-heres-why-dab2fe46"
+    },
+    {
       "title": "Rent, debt, and groceries: How Americans are spending their tax refunds",
       "link": "https://finance.yahoo.com/personal-finance/taxes/article/rent-debt-and-groceries-how-americans-are-spending-their-tax-refunds-130000704.html",
       "source": "finance.yahoo.com",
@@ -441,15 +450,6 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/gJWyQJhdecnm22Zw6DKIeQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/c4e89e30-c265-11f0-bf32-9142c002f07f",
       "slug": "rent-debt-and-groceries-how-americans-are-spending-their-tax-refunds-4d25abc6",
       "orig_slug": "rent-debt-and-groceries-how-americans-are-spending-their-tax-refunds-4d25abc6"
-    },
-    {
-      "title": "Bitcoin and ethereum price today, Friday, April 3, 2026: Prices are mixed as traders weigh long-term outlook",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-friday-april-3-2026-prices-are-mixed-as-traders-weigh-long-term-outlook-120045802.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-30T12:00:45Z",
-      "image": "https://s.yimg.com/uu/api/res/1.2/R4fhNy.vnr_QIatr9RUOpQ--~B/aD00MDU7dz02MTI7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ethereum_%20_bitcoin_2_2928.jpg",
-      "slug": "bitcoin-and-ethereum-price-today-friday-april-3-2026-prices-are-mixed-as-traders-08647ece",
-      "orig_slug": "bitcoin-and-ethereum-price-today-friday-april-3-2026-prices-are-mixed-as-traders-08647ece"
     }
   ]
 }
