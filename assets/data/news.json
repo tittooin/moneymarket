@@ -1,14 +1,410 @@
 {
-  "updated": "2026-04-06T12:47:09Z",
+  "updated": "2026-04-06T14:06:31Z",
   "items": [
     {
-      "title": "Forget Nvidia, These Are the 3 Best Stocks for Solving AI’s Bandwidth Bottleneck",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/forget-nvidia-3-best-stocks-122650284.html",
+      "title": "Alphabet (GOOGL) is a Top AI Stock Pick of Billionaire Ken Griffin in 2026 – Should You Buy?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-top-ai-stock-134721567.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T12:26:50Z",
-      "image": "https://media.zenfs.com/en/24_7_wall_st__718/a91fc927396d0c87cd30ae0bbbc82067",
-      "slug": "forget-nvidia-these-are-the-3-best-stocks-for-solving-ais-bandwidth-bottleneck-2759a333",
-      "orig_slug": "forget-nvidia-these-are-the-3-best-stocks-for-solving-ais-bandwidth-bottleneck-2759a333"
+      "pubDate": "2026-04-06T13:47:21Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/c063cb24366da53443f0b1c3f4b218cc",
+      "slug": "alphabet-googl-is-a-top-ai-stock-pick-of-billionaire-ken-griffin-in-2026-should--56dff3f9",
+      "orig_slug": "alphabet-googl-is-a-top-ai-stock-pick-of-billionaire-ken-griffin-in-2026-should--56dff3f9"
+    },
+    {
+      "title": "Stock market today: US stocks muted as hopes emerge for an end to Middle East hostilities",
+      "link": "https://finance.yahoo.com/news/live/stock-market-today-us-stock-futures-mixed-oil-dips-as-hopes-emerge-for-an-end-to-middle-east-hostilities-002656744.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T13:32:32Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/lGMtgMRlN4eOGQcbU2e0Wg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MzI-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/2d428310-1b85-11f1-ae3e-447676efc7a6",
+      "slug": "stock-market-today-us-stocks-muted-as-hopes-emerge-for-an-end-to-middle-east-hos-4e897490",
+      "orig_slug": "stock-market-today-us-stocks-muted-as-hopes-emerge-for-an-end-to-middle-east-hos-4e897490"
+    },
+    {
+      "title": "Stock Market Today: Dow Falls On Trump's Iran Threat, Peace Talks; Netflix Rallies On Upgrade (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-threat-peace-talks-netflix-nflx-stock/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T13:42:28Z",
+      "image": "",
+      "slug": "stock-market-today-dow-falls-on-trumps-iran-threat-peace-talks-netflix-rallies-o-e6f6d36d",
+      "orig_slug": "stock-market-today-dow-falls-on-trumps-iran-threat-peace-talks-netflix-rallies-o-e6f6d36d"
+    },
+    {
+      "title": "What Makes Bentley Systems (BSY) an Investment Choice?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/makes-bentley-systems-bsy-investment-133817080.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T13:38:17Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/15dc919cf81590c95e9e375cd13b4bf2",
+      "slug": "what-makes-bentley-systems-bsy-an-investment-choice-9c23b839",
+      "orig_slug": "what-makes-bentley-systems-bsy-an-investment-choice-9c23b839"
+    },
+    {
+      "title": "KBW maintains $3 price target for Keel Infrastructure, lowers estimates following rebrand",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kbw-maintains-3-price-target-133742321.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T13:37:42Z",
+      "image": "https://media.zenfs.com/en/blockspace_702/d3d934f14e63d22434f58d9983736a97",
+      "slug": "kbw-maintains-3-price-target-for-keel-infrastructure-lowers-estimates-following--b5ebbdb5",
+      "orig_slug": "kbw-maintains-3-price-target-for-keel-infrastructure-lowers-estimates-following--b5ebbdb5"
+    },
+    {
+      "title": "Weekly Stock List",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46641_StockPicks_1775475287000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T11:34:47Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "weekly-stock-list-7990691d",
+      "orig_slug": "weekly-stock-list-7990691d"
+    },
+    {
+      "title": "These Are The 5 Best Stocks To Buy Or Watch Now",
+      "link": "https://www.investors.com/research/best-stocks-to-buy-now/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T13:34:43Z",
+      "image": "",
+      "slug": "these-are-the-5-best-stocks-to-buy-or-watch-now-8262e928",
+      "orig_slug": "these-are-the-5-best-stocks-to-buy-or-watch-now-8262e928"
+    },
+    {
+      "title": "Copart (CPRT) Slid on Decline in its Key Insurance Customers Volume",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/copart-cprt-slid-decline-key-132403719.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T13:24:03Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/1cc02852e282008c6ae60d65c81222f6",
+      "slug": "copart-cprt-slid-on-decline-in-its-key-insurance-customers-volume-3188670e",
+      "orig_slug": "copart-cprt-slid-on-decline-in-its-key-insurance-customers-volume-3188670e"
+    },
+    {
+      "title": "Financial advice Americans try to follow is keeping you broke. The ‘Big 4’ decisions that can make or break you in 2026",
+      "link": "https://finance.yahoo.com/markets/articles/financial-advice-americans-try-keeping-132300987.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T13:23:00Z",
+      "image": "https://s.yimg.com/os/en/moneywise_ecomm_711/d7f3d569d239be8b74ffb60234b025a3",
+      "slug": "financial-advice-americans-try-to-follow-is-keeping-you-broke-the-big-4-decision-898f3702",
+      "orig_slug": "financial-advice-americans-try-to-follow-is-keeping-you-broke-the-big-4-decision-898f3702"
+    },
+    {
+      "title": "What Makes Wingstop (WINGS) an Investment Choice?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/makes-wingstop-wings-investment-choice-132259120.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T13:22:59Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/423a0470dc9ef5551ca96329b58fe1fa",
+      "slug": "what-makes-wingstop-wings-an-investment-choice-20f388d6",
+      "orig_slug": "what-makes-wingstop-wings-an-investment-choice-20f388d6"
+    },
+    {
+      "title": "Neurocrine Biosciences to acquire Soleno Therapeutics in $2.9B deal",
+      "link": "https://finance.yahoo.com/sectors/healthcare/articles/neurocrine-biosciences-acquire-soleno-therapeutics-133500810.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T13:35:00Z",
+      "image": "https://s.yimg.com/os/en/proactive_us_504/5a7b89b177bfe628e812ec05a52e3682",
+      "slug": "neurocrine-biosciences-to-acquire-soleno-therapeutics-in-29b-deal-12ffd3d0",
+      "orig_slug": "neurocrine-biosciences-to-acquire-soleno-therapeutics-in-29b-deal-12ffd3d0"
+    },
+    {
+      "title": "Technical Assessment: Bullish in the Intermediate-Term",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46636_TechnicalAnalysis_1775475262000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T11:34:22Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "technical-assessment-bullish-in-the-intermediate-term-1518959f",
+      "orig_slug": "technical-assessment-bullish-in-the-intermediate-term-1518959f"
+    },
+    {
+      "title": "Rubrik (RBRK) Gains Confidence Boost from Insider Buying Activity",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rubrik-rbrk-gains-confidence-boost-131736431.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T13:17:36Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/7685dbfe3be5f276350fca2ce939f194",
+      "slug": "rubrik-rbrk-gains-confidence-boost-from-insider-buying-activity-149823de",
+      "orig_slug": "rubrik-rbrk-gains-confidence-boost-from-insider-buying-activity-149823de"
+    },
+    {
+      "title": "Robust and Consistent Results Boosted Wix (WIX) in the Quarter",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/robust-consistent-results-boosted-wix-131256589.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T13:12:56Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/9939a0caebfcfd342f432042c70d21a6",
+      "slug": "robust-and-consistent-results-boosted-wix-wix-in-the-quarter-4e4ae9d0",
+      "orig_slug": "robust-and-consistent-results-boosted-wix-wix-in-the-quarter-4e4ae9d0"
+    },
+    {
+      "title": "Is Microsoft (MSFT) The Best AI Stock to Buy on the Dip?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-best-ai-stock-131125832.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T13:11:25Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/642a8fd87342350c7d2e74e81caadb38",
+      "slug": "is-microsoft-msft-the-best-ai-stock-to-buy-on-the-dip-a893b9bf",
+      "orig_slug": "is-microsoft-msft-the-best-ai-stock-to-buy-on-the-dip-a893b9bf"
+    },
+    {
+      "title": "In a tight market, reliability wins",
+      "link": "https://finance.yahoo.com/economy/articles/tight-market-reliability-wins-131000559.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T13:10:00Z",
+      "image": "https://media.zenfs.com/en/freightwaves_373/1477e8b884988b12475b566629cb6249",
+      "slug": "in-a-tight-market-reliability-wins-39a2f50c",
+      "orig_slug": "in-a-tight-market-reliability-wins-39a2f50c"
+    },
+    {
+      "title": "3 Tailwinds Making Boeing's Stock a Buy in 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-tailwinds-making-boeings-stock-133500924.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T13:35:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/d2cd375adae6f91a08547f195ea70895",
+      "slug": "3-tailwinds-making-boeings-stock-a-buy-in-2026-d1cc495e",
+      "orig_slug": "3-tailwinds-making-boeings-stock-a-buy-in-2026-d1cc495e"
+    },
+    {
+      "title": "Analyst Report: Markel Group Inc",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_3727_AnalystReport_1775473843000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T11:10:43Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-markel-group-inc-2b69447a",
+      "orig_slug": "analyst-report-markel-group-inc-2b69447a"
+    },
+    {
+      "title": "Workiva (WK) Holds Top Investment Position in Lakehouse Global Growth Fund",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/workiva-wk-holds-top-investment-130945926.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T13:09:45Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/ac1b7bc226ce9b97a00c2d84c49aa59c",
+      "slug": "workiva-wk-holds-top-investment-position-in-lakehouse-global-growth-fund-82585730",
+      "orig_slug": "workiva-wk-holds-top-investment-position-in-lakehouse-global-growth-fund-82585730"
+    },
+    {
+      "title": "Pinterest (PINS) Sold Off Despite Strong Results",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pinterest-pins-sold-off-despite-130711780.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T13:07:11Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/2c286f612f3e95333ba261f55c9a9e51",
+      "slug": "pinterest-pins-sold-off-despite-strong-results-14a6c234",
+      "orig_slug": "pinterest-pins-sold-off-despite-strong-results-14a6c234"
+    },
+    {
+      "title": "What to know about X Money, Elon Musk's fintech app that claims to pay 6% on savings",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/x-money-elon-musks-fintech-app-130000383.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T13:00:00Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/yI4M9gfs9EvuwiGJrDjLaA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2026-03/fa0fca10-26de-11f1-bf5d-2186395aa198",
+      "slug": "what-to-know-about-x-money-elon-musks-fintech-app-that-claims-to-pay-6-on-saving-81004f85",
+      "orig_slug": "what-to-know-about-x-money-elon-musks-fintech-app-that-claims-to-pay-6-on-saving-81004f85"
+    },
+    {
+      "title": "Is First Solar, Inc. (FSLR) A Good Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/first-solar-inc-fslr-good-125806664.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T12:58:06Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/35148a6378627fe82344902462d90485",
+      "slug": "is-first-solar-inc-fslr-a-good-stock-to-buy-now-6d84e011",
+      "orig_slug": "is-first-solar-inc-fslr-a-good-stock-to-buy-now-6d84e011"
+    },
+    {
+      "title": "Palantir-Connected Ondas Clinches Yet Another High-Growth Defense Pact",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-connected-ondas-clinches-yet-133416039.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T13:34:16Z",
+      "image": "https://media.zenfs.com/en/24_7_wall_st__718/a4da6be9c77543ee04fabf4cf9fe9cbd",
+      "slug": "palantir-connected-ondas-clinches-yet-another-high-growth-defense-pact-997664c2",
+      "orig_slug": "palantir-connected-ondas-clinches-yet-another-high-growth-defense-pact-997664c2"
+    },
+    {
+      "title": "Analyst Report: Fedex Corp",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_2965_AnalystReport_1775473843000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T11:10:43Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-fedex-corp-9f0c0473",
+      "orig_slug": "analyst-report-fedex-corp-9f0c0473"
+    },
+    {
+      "title": "Is The Coca-Cola Company (KO) A Good Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-company-ko-good-125734224.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T12:57:34Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/8b538ceac17fdaa1e98c1a86c1aadf82",
+      "slug": "is-the-coca-cola-company-ko-a-good-stock-to-buy-now-d164e21b",
+      "orig_slug": "is-the-coca-cola-company-ko-a-good-stock-to-buy-now-d164e21b"
+    },
+    {
+      "title": "Is Globant S.A. (GLOB) A Good Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/globant-glob-good-stock-buy-125651487.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T12:56:51Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/fb7e447f770c52cf08aad114e71e8628",
+      "slug": "is-globant-sa-glob-a-good-stock-to-buy-now-016097eb",
+      "orig_slug": "is-globant-sa-glob-a-good-stock-to-buy-now-016097eb"
+    },
+    {
+      "title": "Is TD SYNNEX Corporation (SNX) A Good Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/td-synnex-corporation-snx-good-125616419.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T12:56:16Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/95ba8249d586608dd6a9db523d1cd6e0",
+      "slug": "is-td-synnex-corporation-snx-a-good-stock-to-buy-now-2810488a",
+      "orig_slug": "is-td-synnex-corporation-snx-a-good-stock-to-buy-now-2810488a"
+    },
+    {
+      "title": "Is Extra Space Storage Inc. (EXR) A Good Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/extra-space-storage-inc-exr-125540358.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T12:55:40Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/ca24a15cb674f6acc9848f60e44a5c48",
+      "slug": "is-extra-space-storage-inc-exr-a-good-stock-to-buy-now-13eae8a2",
+      "orig_slug": "is-extra-space-storage-inc-exr-a-good-stock-to-buy-now-13eae8a2"
+    },
+    {
+      "title": "Trump’s Iran Escalation Tanks Stocks Again: 5 Urgent Moves Before It Worsens",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/trump-iran-escalation-tanks-stocks-133406826.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T13:34:06Z",
+      "image": "https://media.zenfs.com/en/gobankingrates_644/96323e289d9e22a3496827fbdd2c8007",
+      "slug": "trumps-iran-escalation-tanks-stocks-again-5-urgent-moves-before-it-worsens-504b1443",
+      "orig_slug": "trumps-iran-escalation-tanks-stocks-again-5-urgent-moves-before-it-worsens-504b1443"
+    },
+    {
+      "title": "Analyst Report: Roche Holding AG",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_4884_AnalystReport_1775473843000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T11:10:43Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-roche-holding-ag-012d20c2",
+      "orig_slug": "analyst-report-roche-holding-ag-012d20c2"
+    },
+    {
+      "title": "Is Eos Energy Enterprises, Inc. (EOSE) A Good Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/eos-energy-enterprises-inc-eose-125435004.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T12:54:35Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/1bfcede152f6814ddda022f7283287c7",
+      "slug": "is-eos-energy-enterprises-inc-eose-a-good-stock-to-buy-now-2ba49386",
+      "orig_slug": "is-eos-energy-enterprises-inc-eose-a-good-stock-to-buy-now-2ba49386"
+    },
+    {
+      "title": "Is Astera Labs, Inc. (ALAB) A Good Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/astera-labs-inc-alab-good-125352854.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T12:53:52Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/6080716b1face27fcbc5fe5dcb96de38",
+      "slug": "is-astera-labs-inc-alab-a-good-stock-to-buy-now-cad94329",
+      "orig_slug": "is-astera-labs-inc-alab-a-good-stock-to-buy-now-cad94329"
+    },
+    {
+      "title": "Is Medline Inc. (MDLN) A Good Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/medline-inc-mdln-good-stock-125320438.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T12:53:20Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/e36a9463895291e5b393965c5eb38ca9",
+      "slug": "is-medline-inc-mdln-a-good-stock-to-buy-now-44b3f69d",
+      "orig_slug": "is-medline-inc-mdln-a-good-stock-to-buy-now-44b3f69d"
+    },
+    {
+      "title": "Is Oklo Inc. (OKLO) A Good Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oklo-inc-oklo-good-stock-125245635.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T12:52:45Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/bc1b17fb2d502a1e254b813aedc93050",
+      "slug": "is-oklo-inc-oklo-a-good-stock-to-buy-now-b3fd284d",
+      "orig_slug": "is-oklo-inc-oklo-a-good-stock-to-buy-now-b3fd284d"
+    },
+    {
+      "title": "Bed Bath & Beyond agrees $150m takeover of The Container Store",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bed-bath-beyond-agrees-150m-132608474.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T13:26:08Z",
+      "image": "https://media.zenfs.com/en/retail_insight_network_724/d171d443ac5aa2b3f09202dfefb529ff",
+      "slug": "bed-bath-beyond-agrees-150m-takeover-of-the-container-store-fc8a4755",
+      "orig_slug": "bed-bath-beyond-agrees-150m-takeover-of-the-container-store-fc8a4755"
+    },
+    {
+      "title": "Analyst Report: Entergy Corp",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_2955_AnalystReport_1775473843000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T11:10:43Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-entergy-corp-9d0060fd",
+      "orig_slug": "analyst-report-entergy-corp-9d0060fd"
+    },
+    {
+      "title": "Is Ondas Inc. (ONDS) A Good Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ondas-inc-onds-good-stock-125212823.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T12:52:12Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/f8db0e232dbe2b3cf06d7ca979463bf0",
+      "slug": "is-ondas-inc-onds-a-good-stock-to-buy-now-c7105fc9",
+      "orig_slug": "is-ondas-inc-onds-a-good-stock-to-buy-now-c7105fc9"
+    },
+    {
+      "title": "Is Palo Alto Networks, Inc. (PANW) A Good Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-inc-panw-125133215.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T12:51:33Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/ea35b0e6ecbd2fd7acf5d2a3e06b5ef6",
+      "slug": "is-palo-alto-networks-inc-panw-a-good-stock-to-buy-now-ee577bab",
+      "orig_slug": "is-palo-alto-networks-inc-panw-a-good-stock-to-buy-now-ee577bab"
+    },
+    {
+      "title": "Bitcoin Rebounds Near $70,000, Charles Schwab To Launch Direct Trading",
+      "link": "https://www.investors.com/news/bitcoin-price-rebound-69k-charles-schwab-direct-trading/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T12:50:06Z",
+      "image": "",
+      "slug": "bitcoin-rebounds-near-70000-charles-schwab-to-launch-direct-trading-f81fae25",
+      "orig_slug": "bitcoin-rebounds-near-70000-charles-schwab-to-launch-direct-trading-f81fae25"
+    },
+    {
+      "title": "Is NVIDIA (NVDA) Still The Best AI Stock to Buy in 2026?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-still-best-ai-124721952.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T12:47:21Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/a9806e13e3b923bb3edb704c9b5e47a3",
+      "slug": "is-nvidia-nvda-still-the-best-ai-stock-to-buy-in-2026-afe2a2cf",
+      "orig_slug": "is-nvidia-nvda-still-the-best-ai-stock-to-buy-in-2026-afe2a2cf"
+    },
+    {
+      "title": "Tesla Is Quietly Becoming a Global Utility and Wall Street Barely Notices",
+      "link": "https://finance.yahoo.com/sectors/energy/articles/tesla-quietly-becoming-global-utility-132527417.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T13:25:27Z",
+      "image": "https://s.yimg.com/os/en/24_7_wall_st__718/52f0675d6181128d35d9234e2a8ae356",
+      "slug": "tesla-is-quietly-becoming-a-global-utility-and-wall-street-barely-notices-fccf99c4",
+      "orig_slug": "tesla-is-quietly-becoming-a-global-utility-and-wall-street-barely-notices-fccf99c4"
+    },
+    {
+      "title": "Analyst Report: Cleveland-Cliffs Inc",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_5171_AnalystReport_1775473843000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T11:10:43Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-cleveland-cliffs-inc-0fbe2c65",
+      "orig_slug": "analyst-report-cleveland-cliffs-inc-0fbe2c65"
+    },
+    {
+      "title": "Analyst Doubles Down On Bitcoin Falling To $10,000",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/analyst-doubles-down-bitcoin-falling-124500845.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T12:45:00Z",
+      "image": "https://s.yimg.com/os/en/cryptoprowl_304/0d2d99f08eff6978e2460a5fcfaa261b",
+      "slug": "analyst-doubles-down-on-bitcoin-falling-to-10000-b9e08dce",
+      "orig_slug": "analyst-doubles-down-on-bitcoin-falling-to-10000-b9e08dce"
+    },
+    {
+      "title": "Here’s Why MARA Holdings (MARA) is on the Contributors’ List of American Century Investments Small Cap Value Fund",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-mara-holdings-mara-contributors-123455999.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T12:34:55Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/b7fc768faa232ac7c5ddfcafa95cfb0b",
+      "slug": "heres-why-mara-holdings-mara-is-on-the-contributors-list-of-american-century-inv-1c90ca9f",
+      "orig_slug": "heres-why-mara-holdings-mara-is-on-the-contributors-list-of-american-century-inv-1c90ca9f"
+    },
+    {
+      "title": "Amkor Technology (AMKR) Gained from Growing AI Packaging Solutions and Recovery Signals",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amkor-technology-amkr-gained-growing-123050442.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T12:30:50Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/f52578192b5143d11ca4b5a166ae7dd7",
+      "slug": "amkor-technology-amkr-gained-from-growing-ai-packaging-solutions-and-recovery-si-fded08bb",
+      "orig_slug": "amkor-technology-amkr-gained-from-growing-ai-packaging-solutions-and-recovery-si-fded08bb"
     },
     {
       "title": "Here’s Why American Century Investments Small Cap Value Fund Exited Patrick Industries (PATK)",
@@ -18,6 +414,24 @@
       "image": "https://s.yimg.com/os/en/insidermonkey.com/8dfaab6bbd7a1f9aabd55ead26018994",
       "slug": "heres-why-american-century-investments-small-cap-value-fund-exited-patrick-indus-ae00cd3d",
       "orig_slug": "heres-why-american-century-investments-small-cap-value-fund-exited-patrick-indus-ae00cd3d"
+    },
+    {
+      "title": "Netflix Rises as Price Hikes, Ad Revenue Growth, and Live Sports Signal a New Phase of Profitability",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-rises-price-hikes-ad-132221210.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T13:22:21Z",
+      "image": "https://media.zenfs.com/en/24_7_wall_st__718/97d5e6fe002f328edb3eedd038a02146",
+      "slug": "netflix-rises-as-price-hikes-ad-revenue-growth-and-live-sports-signal-a-new-phas-e056b8c6",
+      "orig_slug": "netflix-rises-as-price-hikes-ad-revenue-growth-and-live-sports-signal-a-new-phas-e056b8c6"
+    },
+    {
+      "title": "Daily – Vickers Top Buyers & Sellers for 04/06/2026",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46635_TopBottomInsiderActivity_1775472971000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-06T10:56:11Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "daily-vickers-top-buyers-sellers-for-04062026-26231dfb",
+      "orig_slug": "daily-vickers-top-buyers-sellers-for-04062026-26231dfb"
     },
     {
       "title": "Here’s Why Bath & Body Works (BBWI) Detracted in Q4",
@@ -36,420 +450,6 @@
       "image": "https://s.yimg.com/os/en/insidermonkey.com/bed8b838553f2377acec0a82bfbb97e2",
       "slug": "evertec-evtc-slid-despite-solid-results-71845816",
       "orig_slug": "evertec-evtc-slid-despite-solid-results-71845816"
-    },
-    {
-      "title": "Dow Jones Futures Fall, Techs Rise; Trump Threatens 'Hell' Amid Iran Cease-Fire Efforts",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-threatens-iran-hell-hormuz-oil-prices-sandisk/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T12:11:46Z",
-      "image": "",
-      "slug": "dow-jones-futures-fall-techs-rise-trump-threatens-hell-amid-iran-cease-fire-effo-f19481f7",
-      "orig_slug": "dow-jones-futures-fall-techs-rise-trump-threatens-hell-amid-iran-cease-fire-effo-f19481f7"
-    },
-    {
-      "title": "Weekly Stock List",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_46641_StockPicks_1775475287000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T11:34:47Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "weekly-stock-list-7990691d",
-      "orig_slug": "weekly-stock-list-7990691d"
-    },
-    {
-      "title": "Mining operations resume at USAC’s Stibnite Hill property",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/mining-operations-resume-usac-stibnite-122612035.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T12:26:12Z",
-      "image": "https://media.zenfs.com/en/mining_technology_700/906d70cd890f508a753b4dda9b5dd318",
-      "slug": "mining-operations-resume-at-usacs-stibnite-hill-property-a4e8b3bc",
-      "orig_slug": "mining-operations-resume-at-usacs-stibnite-hill-property-a4e8b3bc"
-    },
-    {
-      "title": "Stock Market Today: Dow Falls On Trump's Iran Threat, Peace Talks; Netflix Rallies On Upgrade (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-threat-peace-talks-netflix-nflx-stock/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T12:11:45Z",
-      "image": "",
-      "slug": "stock-market-today-dow-falls-on-trumps-iran-threat-peace-talks-netflix-rallies-o-e6f6d36d",
-      "orig_slug": "stock-market-today-dow-falls-on-trumps-iran-threat-peace-talks-netflix-rallies-o-e6f6d36d"
-    },
-    {
-      "title": "Oracle names Schneider Electric's Maxson as CFO amid soaring AI spending",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-appoints-hilary-maxson-cfo-120445654.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T12:04:45Z",
-      "image": "https://s.yimg.com/os/en/reuters-finance.com/58de0df67de31ab8ec3cfbb3fd3fcc4b",
-      "slug": "oracle-names-schneider-electrics-maxson-as-cfo-amid-soaring-ai-spending-3101d6db",
-      "orig_slug": "oracle-names-schneider-electrics-maxson-as-cfo-amid-soaring-ai-spending-3101d6db"
-    },
-    {
-      "title": "Stock market today: US stock futures mixed, oil dips as hopes emerge for an end to Middle East hostilities",
-      "link": "https://finance.yahoo.com/news/live/stock-market-today-us-stock-futures-mixed-oil-dips-as-hopes-emerge-for-an-end-to-middle-east-hostilities-002656744.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T00:26:56Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/lGMtgMRlN4eOGQcbU2e0Wg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MzI-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/2d428310-1b85-11f1-ae3e-447676efc7a6",
-      "slug": "stock-market-today-us-stock-futures-mixed-oil-dips-as-hopes-emerge-for-an-end-to-4e897490",
-      "orig_slug": "stock-market-today-us-stock-futures-mixed-oil-dips-as-hopes-emerge-for-an-end-to-4e897490"
-    },
-    {
-      "title": "How your 401(k) balance compares by generation — and what to do if you're falling behind",
-      "link": "https://finance.yahoo.com/markets/options/articles/401-k-balance-compares-generation-120000183.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T12:00:00Z",
-      "image": "https://media.zenfs.com/en/moneywise_327/fae67c4e0b8e2177f7419345bcd0c039",
-      "slug": "how-your-401k-balance-compares-by-generation-and-what-to-do-if-youre-falling-beh-a9bdcff8",
-      "orig_slug": "how-your-401k-balance-compares-by-generation-and-what-to-do-if-youre-falling-beh-a9bdcff8"
-    },
-    {
-      "title": "Technical Assessment: Bullish in the Intermediate-Term",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_46636_TechnicalAnalysis_1775475262000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T11:34:22Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "technical-assessment-bullish-in-the-intermediate-term-1518959f",
-      "orig_slug": "technical-assessment-bullish-in-the-intermediate-term-1518959f"
-    },
-    {
-      "title": "The Best Dividend Stock to Buy for Reliable Monthly Income",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/best-dividend-stock-buy-reliable-122200714.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T12:22:00Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/284360461a3c0de7058c3898ff9cca11",
-      "slug": "the-best-dividend-stock-to-buy-for-reliable-monthly-income-3b9b6d27",
-      "orig_slug": "the-best-dividend-stock-to-buy-for-reliable-monthly-income-3b9b6d27"
-    },
-    {
-      "title": "US equity funds see a second successive weekly inflow",
-      "link": "https://finance.yahoo.com/news/us-equity-funds-see-second-113904571.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T11:39:04Z",
-      "image": "https://s.yimg.com/os/en/reuters.com/f2d6e1c344bcc3f9cd696de353df50da",
-      "slug": "us-equity-funds-see-a-second-successive-weekly-inflow-750dd8b7",
-      "orig_slug": "us-equity-funds-see-a-second-successive-weekly-inflow-750dd8b7"
-    },
-    {
-      "title": "Bitcoin and ethereum price today, Monday, April 6, 2026: Prices rise amid reports of a proposed Iran war ceasefire",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-monday-april-6-2026-prices-rise-amid-reports-of-a-proposed-iran-war-ceasefire-113813797.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T11:38:13Z",
-      "image": "https://s.yimg.com/uu/api/res/1.2/8IgKHs0.oTwPcn40eBVnmg--~B/aD00MDg7dz02MTI7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/bitcoin_1_3688.jpg",
-      "slug": "bitcoin-and-ethereum-price-today-monday-april-6-2026-prices-rise-amid-reports-of-e0787ef3",
-      "orig_slug": "bitcoin-and-ethereum-price-today-monday-april-6-2026-prices-rise-amid-reports-of-e0787ef3"
-    },
-    {
-      "title": "6 regrets early retirees commonly report — and how to avoid making the same mistakes",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/6-regrets-early-retirees-commonly-113000487.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T11:30:00Z",
-      "image": "https://media.zenfs.com/en/moneywise_327/3ac7caf2baa52e3e9650d82f965187fc",
-      "slug": "6-regrets-early-retirees-commonly-report-and-how-to-avoid-making-the-same-mistak-f41e8c60",
-      "orig_slug": "6-regrets-early-retirees-commonly-report-and-how-to-avoid-making-the-same-mistak-f41e8c60"
-    },
-    {
-      "title": "I’m a sandwich Gen Xer who has taken my parents into my home, but I’m paying all the bills. What can I do?",
-      "link": "https://finance.yahoo.com/markets/articles/m-sandwich-gen-xer-taken-111500658.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T11:15:00Z",
-      "image": "https://media.zenfs.com/en/moneywise_327/c9d894b00fb5139de080680224820ff8",
-      "slug": "im-a-sandwich-gen-xer-who-has-taken-my-parents-into-my-home-but-im-paying-all-th-89765d22",
-      "orig_slug": "im-a-sandwich-gen-xer-who-has-taken-my-parents-into-my-home-but-im-paying-all-th-89765d22"
-    },
-    {
-      "title": "Analyst Report: Markel Group Inc",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_3727_AnalystReport_1775473843000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T11:10:43Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "analyst-report-markel-group-inc-2b69447a",
-      "orig_slug": "analyst-report-markel-group-inc-2b69447a"
-    },
-    {
-      "title": "Lion Energy signs rig contract for Bula Karang-1 exploration well",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/lion-energy-signs-rig-contract-122144904.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T12:21:44Z",
-      "image": "https://media.zenfs.com/en/offshore_technology_431/dd5dc043be97b6f79d5e84d4ad031240",
-      "slug": "lion-energy-signs-rig-contract-for-bula-karang-1-exploration-well-d235ea43",
-      "orig_slug": "lion-energy-signs-rig-contract-for-bula-karang-1-exploration-well-d235ea43"
-    },
-    {
-      "title": "Neurocrine to buy Soleno Therapeutics for $2.9 billion",
-      "link": "https://finance.yahoo.com/sectors/healthcare/articles/neurocrine-buy-soleno-therapeutics-2-110701181.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T11:12:22Z",
-      "image": "https://s.yimg.com/os/en/reuters.com/55ec3cb2f407d457a19f8fdcff3274c5",
-      "slug": "neurocrine-to-buy-soleno-therapeutics-for-29-billion-101b117e",
-      "orig_slug": "neurocrine-to-buy-soleno-therapeutics-for-29-billion-101b117e"
-    },
-    {
-      "title": "Gold price today, Monday, April 6: Gold strengthens after improved jobs report and mixed war news",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-monday-april-6-gold-strengthens-after-improved-jobs-report-and-mixed-war-news-110339214.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T11:03:39Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/kLFgg8eUYoRjDcjwLS7gHA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/monday.png",
-      "slug": "gold-price-today-monday-april-6-gold-strengthens-after-improved-jobs-report-and--33b790d4",
-      "orig_slug": "gold-price-today-monday-april-6-gold-strengthens-after-improved-jobs-report-and--33b790d4"
-    },
-    {
-      "title": "Scammers stole and rewrote a couple's tax check — the bank's response made everything worse",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/scammers-stole-rewrote-couples-tax-110000842.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T11:00:00Z",
-      "image": "https://media.zenfs.com/en/moneywise_327/7c7bc74ddbe600e448a7860e82b4d072",
-      "slug": "scammers-stole-and-rewrote-a-couples-tax-check-the-banks-response-made-everythin-b3c59ce5",
-      "orig_slug": "scammers-stole-and-rewrote-a-couples-tax-check-the-banks-response-made-everythin-b3c59ce5"
-    },
-    {
-      "title": "Moody’s raises Ryder’s debt level that had been in place since COVID",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/moody-raises-ryder-debt-level-110000375.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T11:00:00Z",
-      "image": "https://s.yimg.com/os/en/freightwaves_373/860deaa8adc64a8e23f983ae3429e1f2",
-      "slug": "moodys-raises-ryders-debt-level-that-had-been-in-place-since-covid-cb498672",
-      "orig_slug": "moodys-raises-ryders-debt-level-that-had-been-in-place-since-covid-cb498672"
-    },
-    {
-      "title": "Analyst Report: Fedex Corp",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_2965_AnalystReport_1775473843000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T11:10:43Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "analyst-report-fedex-corp-9f0c0473",
-      "orig_slug": "analyst-report-fedex-corp-9f0c0473"
-    },
-    {
-      "title": "Goldman Sachs Adds 2 Dividend Stocks to Conviction List With Huge Upside Potential",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-adds-2-dividend-121942703.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T12:19:42Z",
-      "image": "https://media.zenfs.com/en/24_7_wall_st__718/aa3e5e93beeffb7f1fbebbc5a7c4ed06",
-      "slug": "goldman-sachs-adds-2-dividend-stocks-to-conviction-list-with-huge-upside-potenti-e7c58940",
-      "orig_slug": "goldman-sachs-adds-2-dividend-stocks-to-conviction-list-with-huge-upside-potenti-e7c58940"
-    },
-    {
-      "title": "Ask an Advisor: Can I Invest in a Real Estate Project Within My Roth IRA? Will the Future Growth and Income Be Tax-Free?",
-      "link": "https://finance.yahoo.com/markets/options/articles/ask-advisor-invest-real-estate-110000201.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T11:00:00Z",
-      "image": "https://s.yimg.com/os/en/smartasset_475/3dc1d45b4c8ea398f8c8727c37b15c19",
-      "slug": "ask-an-advisor-can-i-invest-in-a-real-estate-project-within-my-roth-ira-will-the-20089431",
-      "orig_slug": "ask-an-advisor-can-i-invest-in-a-real-estate-project-within-my-roth-ira-will-the-20089431"
-    },
-    {
-      "title": "Big Tech's second quarter just started, and it's already facing major challenges",
-      "link": "https://finance.yahoo.com/sectors/technology/article/big-techs-second-quarter-just-started-and-its-already-facing-major-challenges-103340081.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T10:33:40Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/2XzSrJZeChc5WyB1K.hkcw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-04/b3da665b-dca6-4a82-b2ae-bca04aa864bf",
-      "slug": "big-techs-second-quarter-just-started-and-its-already-facing-major-challenges-41a47b45",
-      "orig_slug": "big-techs-second-quarter-just-started-and-its-already-facing-major-challenges-41a47b45"
-    },
-    {
-      "title": "SpaceX's IPO could supercharge the entire space industry",
-      "link": "https://finance.yahoo.com/sectors/technology/article/spacexs-ipo-could-supercharge-the-entire-space-industry-101227330.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T10:12:27Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/GqXFqum7j48F424E1fLyRw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODc-/https://d29szjachogqwa.cloudfront.net/images/2026-04/d7c04b82-bb57-498f-8e0d-b747ba8c028b",
-      "slug": "spacexs-ipo-could-supercharge-the-entire-space-industry-d90609ba",
-      "orig_slug": "spacexs-ipo-could-supercharge-the-entire-space-industry-d90609ba"
-    },
-    {
-      "title": "JPMorgan's Dimon warns Iran war may drive inflation and interest rates higher",
-      "link": "https://finance.yahoo.com/news/jpmorgans-dimon-warns-iran-war-100501443.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T10:05:01Z",
-      "image": "https://s.yimg.com/os/en/reuters.com/40c453f1973492f7925ddf34febef53e",
-      "slug": "jpmorgans-dimon-warns-iran-war-may-drive-inflation-and-interest-rates-higher-3b9f59a0",
-      "orig_slug": "jpmorgans-dimon-warns-iran-war-may-drive-inflation-and-interest-rates-higher-3b9f59a0"
-    },
-    {
-      "title": "Analyst Report: Roche Holding AG",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_4884_AnalystReport_1775473843000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T11:10:43Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "analyst-report-roche-holding-ag-012d20c2",
-      "orig_slug": "analyst-report-roche-holding-ag-012d20c2"
-    },
-    {
-      "title": "Nasdaq futures climb as investors weigh oil swings, jobs report exceeds expectations",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-climb-investors-weigh-121900991.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T12:19:00Z",
-      "image": "https://media.zenfs.com/en/proactive_us_504/a5d2d9ede3d6020fd4b1d9837df4a810",
-      "slug": "nasdaq-futures-climb-as-investors-weigh-oil-swings-jobs-report-exceeds-expectati-95716feb",
-      "orig_slug": "nasdaq-futures-climb-as-investors-weigh-oil-swings-jobs-report-exceeds-expectati-95716feb"
-    },
-    {
-      "title": "Jamie Dimon highlights Iran War, private credit, and AI-driven job losses as major US risks in his annual letter",
-      "link": "https://finance.yahoo.com/news/jamie-dimon-highlights-iran-war-private-credit-and-ai-driven-job-losses-as-major-us-risks-in-his-annual-letter-100130113.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T10:01:30Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/zihy0c9K02YprSvqJHVEYA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-04/05cc8030-317c-11f1-bbfd-a64a808d2d8d",
-      "slug": "jamie-dimon-highlights-iran-war-private-credit-and-ai-driven-job-losses-as-major-5f31c826",
-      "orig_slug": "jamie-dimon-highlights-iran-war-private-credit-and-ai-driven-job-losses-as-major-5f31c826"
-    },
-    {
-      "title": "Mortgage and refinance rates today, April 6, 2026: Down a quarter point in 5 days",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-monday-april-6-2026-100000808.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T10:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/blq3t9wTi4tOOBJGHA0yLQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/480de4d0-03ec-11ef-bfff-fe31b82eccd6",
-      "slug": "mortgage-and-refinance-rates-today-april-6-2026-down-a-quarter-point-in-5-days-224c9a8c",
-      "orig_slug": "mortgage-and-refinance-rates-today-april-6-2026-down-a-quarter-point-in-5-days-224c9a8c"
-    },
-    {
-      "title": "Best high-yield savings interest rates today, April 6, 2026 (Earn up to 4% APY)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-april-6-2026-100000925.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T10:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/1RCI97U8KV1L2ZurZW7kOA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/0a4cca40-4b7b-11ef-abf9-2f9f6d2c2f16",
-      "slug": "best-high-yield-savings-interest-rates-today-april-6-2026-earn-up-to-4-apy-8232b585",
-      "orig_slug": "best-high-yield-savings-interest-rates-today-april-6-2026-earn-up-to-4-apy-8232b585"
-    },
-    {
-      "title": "Best money market account rates today, April 6, 2026 (Earn up to 4.01% APY)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-monday-april-6-2026-100000693.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T10:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/5ht5auNXT0hvD._VUvpMQg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/16611790-1cdc-11f0-b7df-12959cc17bf8",
-      "slug": "best-money-market-account-rates-today-april-6-2026-earn-up-to-401-apy-54eab0da",
-      "orig_slug": "best-money-market-account-rates-today-april-6-2026-earn-up-to-401-apy-54eab0da"
-    },
-    {
-      "title": "Analyst Report: Cleveland-Cliffs Inc",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_5171_AnalystReport_1775473843000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T11:10:43Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "analyst-report-cleveland-cliffs-inc-0fbe2c65",
-      "orig_slug": "analyst-report-cleveland-cliffs-inc-0fbe2c65"
-    },
-    {
-      "title": "Morning Minute: North Korea Hacks Drift for $285M",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/morning-minute-north-korea-hacks-121833174.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T12:18:33Z",
-      "image": "https://media.zenfs.com/en/decrypt_157/fe3a1cc303481b49401185ad3c08963a",
-      "slug": "morning-minute-north-korea-hacks-drift-for-285m-7099daa7",
-      "orig_slug": "morning-minute-north-korea-hacks-drift-for-285m-7099daa7"
-    },
-    {
-      "title": "HELOC and home equity loan rates Monday, April 6, 2026: The choice is yours",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-monday-april-6-2026-100000271.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T10:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/_479AhxR01yKrenM2IfZSg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/006c3000-3feb-11f0-b84f-0d1aa528bfe7",
-      "slug": "heloc-and-home-equity-loan-rates-monday-april-6-2026-the-choice-is-yours-6c5f6eb8",
-      "orig_slug": "heloc-and-home-equity-loan-rates-monday-april-6-2026-the-choice-is-yours-6c5f6eb8"
-    },
-    {
-      "title": "This woman raided her 401(k) and her kids’ college fund to start a business. It’s now pulling in millions",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/woman-raided-her-401-k-100000053.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T10:00:00Z",
-      "image": "https://media.zenfs.com/en/moneywise_327/75cab3d19d333b2357c97a1b801ca3fd",
-      "slug": "this-woman-raided-her-401k-and-her-kids-college-fund-to-start-a-business-its-now-2a94410a",
-      "orig_slug": "this-woman-raided-her-401k-and-her-kids-college-fund-to-start-a-business-its-now-2a94410a"
-    },
-    {
-      "title": "Best CD rates today, April 6, 2026 (Lock in up to 4.15% APY)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-april-6-2026-100000352.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T10:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/YNb1M9UxogCoxhCtpOUusg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47b17e1-4f64-11ef-bcf5-d7c22925c744",
-      "slug": "best-cd-rates-today-april-6-2026-lock-in-up-to-415-apy-94fc3040",
-      "orig_slug": "best-cd-rates-today-april-6-2026-lock-in-up-to-415-apy-94fc3040"
-    },
-    {
-      "title": "Meet Tomi Mikula, a former car salesman who’s pulling in $200,000 a month by negotiating car prices for people",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/meet-tomi-mikula-former-car-094500549.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T09:45:00Z",
-      "image": "https://media.zenfs.com/en/moneywise_327/f17a4d7cf20395b1fc9d9207c61d015c",
-      "slug": "meet-tomi-mikula-a-former-car-salesman-whos-pulling-in-200000-a-month-by-negotia-e66cdec7",
-      "orig_slug": "meet-tomi-mikula-a-former-car-salesman-whos-pulling-in-200000-a-month-by-negotia-e66cdec7"
-    },
-    {
-      "title": "Analyst Report: Entergy Corp",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_2955_AnalystReport_1775473843000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T11:10:43Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "analyst-report-entergy-corp-9d0060fd",
-      "orig_slug": "analyst-report-entergy-corp-9d0060fd"
-    },
-    {
-      "title": "Tokyo Lifestyle’s Hong Kong unit secures HK$20m investment",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tokyo-lifestyle-hong-kong-unit-121521471.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T12:15:21Z",
-      "image": "https://media.zenfs.com/en/retail_insight_network_724/caeda9cc0047c66d5c1afc7b8fb1585f",
-      "slug": "tokyo-lifestyles-hong-kong-unit-secures-hk20m-investment-687ec3c4",
-      "orig_slug": "tokyo-lifestyles-hong-kong-unit-secures-hk20m-investment-687ec3c4"
-    },
-    {
-      "title": "HELOC and home equity loan rates Sunday, April 5, 2026: One thing to remember",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-sunday-april-5-2026-100000032.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-05T10:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/DVKxTTZK1v_brFRCxJvfrg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/9858bdf0-3ff7-11f0-8dbd-c3dbfc02bc47",
-      "slug": "heloc-and-home-equity-loan-rates-sunday-april-5-2026-one-thing-to-remember-e2645fed",
-      "orig_slug": "heloc-and-home-equity-loan-rates-sunday-april-5-2026-one-thing-to-remember-e2645fed"
-    },
-    {
-      "title": "Best high-yield savings interest rates today, April 5, 2026 (Earn up to 4% APY)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-sunday-april-5-2026-100000985.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-05T10:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/j3pIPh4Ou1ooyGj5oigsTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/a04144a0-4b7a-11ef-bffd-2479280852e3",
-      "slug": "best-high-yield-savings-interest-rates-today-april-5-2026-earn-up-to-4-apy-d8c3fca0",
-      "orig_slug": "best-high-yield-savings-interest-rates-today-april-5-2026-earn-up-to-4-apy-d8c3fca0"
-    },
-    {
-      "title": "Best money market account rates today, April 5, 2026 (best account provides 4.01% APY)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-sunday-april-5-2026-100000447.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-05T10:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/koR_lnQjXxki7oireLjoxQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/6e3d4f60-1cdc-11f0-b66f-8aec820566bc",
-      "slug": "best-money-market-account-rates-today-april-5-2026-best-account-provides-401-apy-c50fa407",
-      "orig_slug": "best-money-market-account-rates-today-april-5-2026-best-account-provides-401-apy-c50fa407"
-    },
-    {
-      "title": "Best CD rates today, April 5, 2026 (lock in up to 4.15% APY)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-april-5-2026-100000751.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-05T10:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/9xZhsl9JDBre6CMmLno6Gg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47b17e0-4f64-11ef-afb3-0ed5867646a0",
-      "slug": "best-cd-rates-today-april-5-2026-lock-in-up-to-415-apy-28eb6728",
-      "orig_slug": "best-cd-rates-today-april-5-2026-lock-in-up-to-415-apy-28eb6728"
-    },
-    {
-      "title": "Daily – Vickers Top Buyers & Sellers for 04/06/2026",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_46635_TopBottomInsiderActivity_1775472971000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T10:56:11Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-vickers-top-buyers-sellers-for-04062026-26231dfb",
-      "orig_slug": "daily-vickers-top-buyers-sellers-for-04062026-26231dfb"
-    },
-    {
-      "title": "Neurocrine to Buy Soleno for $2.9 Billion",
-      "link": "https://www.wsj.com/business/deals/neurocrine-to-buy-soleno-for-2-9-billion-53004b37?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-06T12:09:00Z",
-      "image": "",
-      "slug": "neurocrine-to-buy-soleno-for-29-billion-987020ab",
-      "orig_slug": "neurocrine-to-buy-soleno-for-29-billion-987020ab"
-    },
-    {
-      "title": "Mortgage and refinance interest rates today, April 5, 2026: Down sharply from last weekend",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-sunday-april-5-2026-100000350.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-05T10:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/I199q7waIrtuQGBJaPIm2w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/6f016ae0-03e6-11ef-97ff-13785de87be3",
-      "slug": "mortgage-and-refinance-interest-rates-today-april-5-2026-down-sharply-from-last--3a3b9563",
-      "orig_slug": "mortgage-and-refinance-interest-rates-today-april-5-2026-down-sharply-from-last--3a3b9563"
     }
   ]
 }
