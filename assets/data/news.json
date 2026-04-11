@@ -1,14 +1,113 @@
 {
-  "updated": "2026-04-11T09:32:43Z",
+  "updated": "2026-04-11T10:25:28Z",
   "items": [
     {
-      "title": "Nexus Mutual wants to be the insurance policy your crypto never had",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/nexus-mutual-wants-insurance-policy-214900982.html",
+      "title": "‘I plan to exit corporate life’: I’m 50 and have $400,000. My wife is a teacher. Can I retire at 55?",
+      "link": "https://finance.yahoo.com/markets/articles/plan-exit-corporate-life-m-091200159.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-09T21:49:00Z",
-      "image": "https://s.yimg.com/os/en/thestreet_881/45d5c1af3d8c714da071d6d5e00477ee",
-      "slug": "nexus-mutual-wants-to-be-the-insurance-policy-your-crypto-never-had-4ca0cc30",
-      "orig_slug": "nexus-mutual-wants-to-be-the-insurance-policy-your-crypto-never-had-4ca0cc30"
+      "pubDate": "2026-04-10T08:51:00Z",
+      "image": "https://media.zenfs.com/en/marketwatch_hosted_869/1187ef63b14938d98fdb36840858e386",
+      "slug": "i-plan-to-exit-corporate-life-im-50-and-have-400000-my-wife-is-a-teacher-can-i-r-9c5c3ace",
+      "orig_slug": "i-plan-to-exit-corporate-life-im-50-and-have-400000-my-wife-is-a-teacher-can-i-r-9c5c3ace"
+    },
+    {
+      "title": "Japan to Release More Oil Amid Supply Crunch",
+      "link": "https://finance.yahoo.com/sectors/energy/articles/japan-release-more-oil-amid-073000530.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-10T07:30:00Z",
+      "image": "https://s.yimg.com/os/en/oilprice.com/b4083dfe5d376452ca1709993cea289f",
+      "slug": "japan-to-release-more-oil-amid-supply-crunch-7e055ad4",
+      "orig_slug": "japan-to-release-more-oil-amid-supply-crunch-7e055ad4"
+    },
+    {
+      "title": "Factbox-Price hikes, outlook cuts - What airlines are doing as fuel costs surge",
+      "link": "https://finance.yahoo.com/sectors/energy/articles/factbox-price-hikes-outlook-cuts-081429127.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-10T08:14:29Z",
+      "image": "https://s.yimg.com/os/en/reuters.com/40f53b8752e0c45d9c6949e51a753ed7",
+      "slug": "factbox-price-hikes-outlook-cuts---what-airlines-are-doing-as-fuel-costs-surge-c22f6b11",
+      "orig_slug": "factbox-price-hikes-outlook-cuts---what-airlines-are-doing-as-fuel-costs-surge-c22f6b11"
+    },
+    {
+      "title": "Ask an Advisor: I'm Paying a 2% Fee on an $850k Portfolio With No Tax Advice. Is That Too High?",
+      "link": "https://finance.yahoo.com/markets/options/articles/ask-advisor-advisor-charges-2-120000781.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-10T09:00:00Z",
+      "image": "https://media.zenfs.com/en/smartasset_475/70989bbebe0ccc6422fecc4e505ae18c",
+      "slug": "ask-an-advisor-im-paying-a-2-fee-on-an-850k-portfolio-with-no-tax-advice-is-that-4764bf1b",
+      "orig_slug": "ask-an-advisor-im-paying-a-2-fee-on-an-850k-portfolio-with-no-tax-advice-is-that-4764bf1b"
+    },
+    {
+      "title": "Apple leads smartphone market even as overall shipments decline, Counterpoint says",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-leads-global-smartphone-shipments-090358471.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-10T09:03:58Z",
+      "image": "https://s.yimg.com/os/en/reuters-finance.com/532d7cab829546b5b30ae9954214f672",
+      "slug": "apple-leads-smartphone-market-even-as-overall-shipments-decline-counterpoint-say-b3e64e02",
+      "orig_slug": "apple-leads-smartphone-market-even-as-overall-shipments-decline-counterpoint-say-b3e64e02"
+    },
+    {
+      "title": "Bill Ackman in talks on new Pershing Square ‘asymmetric’ strategy",
+      "link": "https://finance.yahoo.com/markets/options/articles/bill-ackman-talks-pershing-square-085220342.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-10T08:52:20Z",
+      "image": "https://media.zenfs.com/en/private_banker_international_938/920001cb69e2ae8c32ae24d3da0f4076",
+      "slug": "bill-ackman-in-talks-on-new-pershing-square-asymmetric-strategy-b186cff1",
+      "orig_slug": "bill-ackman-in-talks-on-new-pershing-square-asymmetric-strategy-b186cff1"
+    },
+    {
+      "title": "Bessent, Powell warned bank CEOs about Anthropic model risks, sources say",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/bessent-powell-warn-bank-ceos-010258554.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-10T09:04:25Z",
+      "image": "https://s.yimg.com/os/en/reuters.com/61f8d73da2530752255f87da075168b5",
+      "slug": "bessent-powell-warned-bank-ceos-about-anthropic-model-risks-sources-say-a4b7df4f",
+      "orig_slug": "bessent-powell-warned-bank-ceos-about-anthropic-model-risks-sources-say-a4b7df4f"
+    },
+    {
+      "title": "Amazon CEO Jassy says company could sell AI chips, raising stakes for Nvidia, AMD",
+      "link": "https://finance.yahoo.com/news/amazon-ceo-jassy-says-company-could-sell-ai-chips-raising-stakes-for-nvidia-amd-142835117.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-09T14:28:35Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/sVGPp_36Ce9le9ZDCFt1Ig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://s.yimg.com/os/creatr-uploaded-images/2026-04/9d4913a0-340c-11f1-af77-cd111f4f9a31",
+      "slug": "amazon-ceo-jassy-says-company-could-sell-ai-chips-raising-stakes-for-nvidia-amd-e7d48ed0",
+      "orig_slug": "amazon-ceo-jassy-says-company-could-sell-ai-chips-raising-stakes-for-nvidia-amd-e7d48ed0"
+    },
+    {
+      "title": "I'm 67 With $2 Million in an IRA. How Can I Ensure It Lasts Throughout Retirement?",
+      "link": "https://finance.yahoo.com/markets/options/articles/im-67-2-million-ira-123000051.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-10T07:00:00Z",
+      "image": "https://s.yimg.com/os/en/smartasset_475/3d9faafecacbf8ee240133ae6c0e4b88",
+      "slug": "im-67-with-2-million-in-an-ira-how-can-i-ensure-it-lasts-throughout-retirement-5429927f",
+      "orig_slug": "im-67-with-2-million-in-an-ira-how-can-i-ensure-it-lasts-throughout-retirement-5429927f"
+    },
+    {
+      "title": "North Sea Crude Soars to Record High as Hormuz Shock Rips Through Spot Markets",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/north-sea-crude-soars-record-093000667.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-10T09:30:00Z",
+      "image": "https://s.yimg.com/os/en/oilprice.com/3af957cc675cad9bcc93a1e9664bbc54",
+      "slug": "north-sea-crude-soars-to-record-high-as-hormuz-shock-rips-through-spot-markets-0c07669f",
+      "orig_slug": "north-sea-crude-soars-to-record-high-as-hormuz-shock-rips-through-spot-markets-0c07669f"
+    },
+    {
+      "title": "7-Eleven’s leadership turnover continues",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/7-eleven-leadership-turnover-continues-084633683.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-10T08:46:33Z",
+      "image": "https://media.zenfs.com/en/c_store_dive_342/b41dcdb19420c416f4c8cb21ab12ff56",
+      "slug": "7-elevens-leadership-turnover-continues-77ea286d",
+      "orig_slug": "7-elevens-leadership-turnover-continues-77ea286d"
+    },
+    {
+      "title": "Jamie Dimon says exodus of firms to Texas is not a ‘moral or loyalty issue.' What's behind the moves and who gains?",
+      "link": "https://finance.yahoo.com/economy/policy/articles/jamie-dimon-says-exodus-firms-094000887.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-10T09:40:00Z",
+      "image": "https://media.zenfs.com/en/moneywise_327/c34b90f29957d49a88c85d261ae294b6",
+      "slug": "jamie-dimon-says-exodus-of-firms-to-texas-is-not-a-moral-or-loyalty-issue-whats--b6b07345",
+      "orig_slug": "jamie-dimon-says-exodus-of-firms-to-texas-is-not-a-moral-or-loyalty-issue-whats--b6b07345"
     },
     {
       "title": "Here’s Why Amprius Technologies, Inc. (AMPX) Is The Most Profitable Industrial Stock",
@@ -29,6 +128,24 @@
       "orig_slug": "is-sandisk-corporation-sndk-the-most-profitable-stock-so-far-in-2026-a865f4e2"
     },
     {
+      "title": "A 65-year-old cancer patient with five-figure debt found 3 ways to keep her kids from inheriting it",
+      "link": "https://finance.yahoo.com/markets/articles/65-old-cancer-patient-five-095000587.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-10T09:50:00Z",
+      "image": "https://s.yimg.com/os/en/moneywise_327/7825b8d35694c4c4426416625bfdcede",
+      "slug": "a-65-year-old-cancer-patient-with-five-figure-debt-found-3-ways-to-keep-her-kids-25591d07",
+      "orig_slug": "a-65-year-old-cancer-patient-with-five-figure-debt-found-3-ways-to-keep-her-kids-25591d07"
+    },
+    {
+      "title": "Digi Power X amends equity sales program",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/digi-power-x-amends-equity-084300971.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-10T08:43:00Z",
+      "image": "https://media.zenfs.com/en/proactive_us_504/50bdab0d43c087707d5f2e8acee45527",
+      "slug": "digi-power-x-amends-equity-sales-program-16d97a25",
+      "orig_slug": "digi-power-x-amends-equity-sales-program-16d97a25"
+    },
+    {
       "title": "Chinese Refiners Buy Iranian Crude at Premium",
       "link": "https://finance.yahoo.com/sectors/energy/articles/chinese-refiners-buy-iranian-crude-060608678.html",
       "source": "finance.yahoo.com",
@@ -36,159 +153,6 @@
       "image": "https://s.yimg.com/os/en/oilprice.com/6c19d81f6d92f207dbce40f9f7b36b0d",
       "slug": "chinese-refiners-buy-iranian-crude-at-premium-08a42721",
       "orig_slug": "chinese-refiners-buy-iranian-crude-at-premium-08a42721"
-    },
-    {
-      "title": "Jim Cramer Says “Anthropic Needs CrowdStrike, It Doesn’t Seek to Wipe It Out”",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-anthropic-needs-060312368.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-10T06:03:12Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/78f20c7c90343901cf8f10b23e482a57",
-      "slug": "jim-cramer-says-anthropic-needs-crowdstrike-it-doesnt-seek-to-wipe-it-out-0e331605",
-      "orig_slug": "jim-cramer-says-anthropic-needs-crowdstrike-it-doesnt-seek-to-wipe-it-out-0e331605"
-    },
-    {
-      "title": "Could Investing $10,000 in IWM Make You a Millionaire?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/could-investing-10-000-iwm-062000546.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-10T06:20:00Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/2f052adb897f77630d192ede53c60d10",
-      "slug": "could-investing-10000-in-iwm-make-you-a-millionaire-c2a73250",
-      "orig_slug": "could-investing-10000-in-iwm-make-you-a-millionaire-c2a73250"
-    },
-    {
-      "title": "Jim Cramer Shows Positive Sentiment Toward Broadcom’s Google and Anthropic Deals",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shows-positive-sentiment-060308826.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-10T06:03:08Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/61065709a1bdf54b4284c76a9977e4c9",
-      "slug": "jim-cramer-shows-positive-sentiment-toward-broadcoms-google-and-anthropic-deals-8b43ff76",
-      "orig_slug": "jim-cramer-shows-positive-sentiment-toward-broadcoms-google-and-anthropic-deals-8b43ff76"
-    },
-    {
-      "title": "Jim Cramer Explains Why He Chose to Stay in Alphabet Stock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-why-chose-060307757.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-10T06:03:07Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/af2bb6bdbc4f56cfaf197a2118a94cf1",
-      "slug": "jim-cramer-explains-why-he-chose-to-stay-in-alphabet-stock-7e953c02",
-      "orig_slug": "jim-cramer-explains-why-he-chose-to-stay-in-alphabet-stock-7e953c02"
-    },
-    {
-      "title": "Jim Cramer Says Home Depot Is One of His Two Worst Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-home-depot-060245216.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-10T06:02:45Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/513faebf5597f4d7089d7857811e6e6a",
-      "slug": "jim-cramer-says-home-depot-is-one-of-his-two-worst-stocks-b68bfddf",
-      "orig_slug": "jim-cramer-says-home-depot-is-one-of-his-two-worst-stocks-b68bfddf"
-    },
-    {
-      "title": "Jim Cramer Says He Thinks “Arm’s Much Better Than Qualcomm”",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-thinks-arm-060247968.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-10T06:02:47Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/93b3b2866cf73f4837259d76907be1e2",
-      "slug": "jim-cramer-says-he-thinks-arms-much-better-than-qualcomm-075dc260",
-      "orig_slug": "jim-cramer-says-he-thinks-arms-much-better-than-qualcomm-075dc260"
-    },
-    {
-      "title": "Billionaire Bill Gates Has 59% of His Foundation's $36 Billion Portfolio Invested in 3 Brilliant Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-bill-gates-59-foundations-062500566.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-10T06:25:00Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/18ea7d68249032de9f7db783417b87a9",
-      "slug": "billionaire-bill-gates-has-59-of-his-foundations-36-billion-portfolio-invested-i-1b092fa9",
-      "orig_slug": "billionaire-bill-gates-has-59-of-his-foundations-36-billion-portfolio-invested-i-1b092fa9"
-    },
-    {
-      "title": "Jim Cramer Says “I Know Amazon, They’re Tight as a Drum”",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-know-amazon-060310734.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-10T06:03:10Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/90e386a06858d8b4751ec77797010aed",
-      "slug": "jim-cramer-says-i-know-amazon-theyre-tight-as-a-drum-bd8d524e",
-      "orig_slug": "jim-cramer-says-i-know-amazon-theyre-tight-as-a-drum-bd8d524e"
-    },
-    {
-      "title": "Jim Cramer on Casey’s: “This Is a Terrific Company That Tends to Fly Under the Radar”",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-casey-terrific-company-060252116.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-10T06:02:52Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/d33bdc283f11c51e1edf5a2884041b55",
-      "slug": "jim-cramer-on-caseys-this-is-a-terrific-company-that-tends-to-fly-under-the-rada-eec60663",
-      "orig_slug": "jim-cramer-on-caseys-this-is-a-terrific-company-that-tends-to-fly-under-the-rada-eec60663"
-    },
-    {
-      "title": "Jim Cramer Says He Likes “Taiwan Semi Very Much”",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-likes-taiwan-060248012.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-10T06:02:48Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/753cb9cb32336de8f86289f7a7c7b36e",
-      "slug": "jim-cramer-says-he-likes-taiwan-semi-very-much-47a394a6",
-      "orig_slug": "jim-cramer-says-he-likes-taiwan-semi-very-much-47a394a6"
-    },
-    {
-      "title": "Jim Cramer Highlights Two Catalysts for Costco",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-two-catalysts-060250432.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-10T06:02:50Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/e0499335d74348b68e5dd2bebcc122f8",
-      "slug": "jim-cramer-highlights-two-catalysts-for-costco-f7801662",
-      "orig_slug": "jim-cramer-highlights-two-catalysts-for-costco-f7801662"
-    },
-    {
-      "title": "Jim Cramer on The Campbell’s Company: “I’d Rather Have You Own McCormick’",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-campbell-company-d-060300690.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-10T06:03:00Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/6eeac832621827d123ccd03733dcdaca",
-      "slug": "jim-cramer-on-the-campbells-company-id-rather-have-you-own-mccormick-7f3e6c4f",
-      "orig_slug": "jim-cramer-on-the-campbells-company-id-rather-have-you-own-mccormick-7f3e6c4f"
-    },
-    {
-      "title": "Jim Cramer Calls Walmart “A Stock That Truly Defines the Term Juggernaut”",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-walmart-stock-060243487.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-10T06:02:43Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/71b33ea37e69f8b8933eb47466fd5f90",
-      "slug": "jim-cramer-calls-walmart-a-stock-that-truly-defines-the-term-juggernaut-cf301ce1",
-      "orig_slug": "jim-cramer-calls-walmart-a-stock-that-truly-defines-the-term-juggernaut-cf301ce1"
-    },
-    {
-      "title": "Jim Cramer Explains Why He Ignored Globalstar for Years",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-why-ignored-060258871.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-10T06:02:58Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/86b6f1eab4d4c0ffbf065f3a834e0a1b",
-      "slug": "jim-cramer-explains-why-he-ignored-globalstar-for-years-fb1ba962",
-      "orig_slug": "jim-cramer-explains-why-he-ignored-globalstar-for-years-fb1ba962"
-    },
-    {
-      "title": "Jim Cramer Says “CVS Is Real”",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-cvs-real-060302481.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-10T06:03:02Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/d33bdc283f11c51e1edf5a2884041b55",
-      "slug": "jim-cramer-says-cvs-is-real-9761f2db",
-      "orig_slug": "jim-cramer-says-cvs-is-real-9761f2db"
-    },
-    {
-      "title": "Jim Cramer Believes “CAT Is One of the Most Viable Stocks”",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-believes-cat-one-060253242.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-10T06:02:53Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/ba2a6f7e107d4ed8376bd0de7f9faa45",
-      "slug": "jim-cramer-believes-cat-is-one-of-the-most-viable-stocks-33da8e76",
-      "orig_slug": "jim-cramer-believes-cat-is-one-of-the-most-viable-stocks-33da8e76"
-    },
-    {
-      "title": "Analyst Report: Smurfit WestRock plc",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_6347_AnalystReport_1775840520000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-10T17:02:00Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "analyst-report-smurfit-westrock-plc-771fbc29",
-      "orig_slug": "analyst-report-smurfit-westrock-plc-771fbc29"
     },
     {
       "title": "Jim Cramer on McCormick: “It’s Buying a Set of Premium Assets That Can Transform Its Position in the Category”",
@@ -200,13 +164,49 @@
       "orig_slug": "jim-cramer-on-mccormick-its-buying-a-set-of-premium-assets-that-can-transform-it-8a5ad116"
     },
     {
-      "title": "Jim Cramer Believes Apple Is “Going to Keep Flying Higher” In Case of No More War",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-believes-apple-going-060305452.html",
+      "title": "Jim Cramer on Casey’s: “This Is a Terrific Company That Tends to Fly Under the Radar”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-casey-terrific-company-060252116.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-10T06:03:05Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/abe42548427d5976d59895bbd8b8797c",
-      "slug": "jim-cramer-believes-apple-is-going-to-keep-flying-higher-in-case-of-no-more-war-6df4deb0",
-      "orig_slug": "jim-cramer-believes-apple-is-going-to-keep-flying-higher-in-case-of-no-more-war-6df4deb0"
+      "pubDate": "2026-04-10T06:02:52Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/d33bdc283f11c51e1edf5a2884041b55",
+      "slug": "jim-cramer-on-caseys-this-is-a-terrific-company-that-tends-to-fly-under-the-rada-eec60663",
+      "orig_slug": "jim-cramer-on-caseys-this-is-a-terrific-company-that-tends-to-fly-under-the-rada-eec60663"
+    },
+    {
+      "title": "Jim Cramer Explains Why He Ignored Globalstar for Years",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-why-ignored-060258871.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-10T06:02:58Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/86b6f1eab4d4c0ffbf065f3a834e0a1b",
+      "slug": "jim-cramer-explains-why-he-ignored-globalstar-for-years-fb1ba962",
+      "orig_slug": "jim-cramer-explains-why-he-ignored-globalstar-for-years-fb1ba962"
+    },
+    {
+      "title": "Analyst Report: Smurfit WestRock plc",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_6347_AnalystReport_1775840520000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-10T17:02:00Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-smurfit-westrock-plc-771fbc29",
+      "orig_slug": "analyst-report-smurfit-westrock-plc-771fbc29"
+    },
+    {
+      "title": "4 takeaways from New York Build 2026",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/4-takeaways-york-build-2026-084300110.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-10T08:43:00Z",
+      "image": "https://media.zenfs.com/en/construction_dive_964/2017006f59cb2c4f15a24901de39b7bb",
+      "slug": "4-takeaways-from-new-york-build-2026-e92441bc",
+      "orig_slug": "4-takeaways-from-new-york-build-2026-e92441bc"
+    },
+    {
+      "title": "Jim Cramer Shows Positive Sentiment Toward Broadcom’s Google and Anthropic Deals",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shows-positive-sentiment-060308826.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-10T06:03:08Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/61065709a1bdf54b4284c76a9977e4c9",
+      "slug": "jim-cramer-shows-positive-sentiment-toward-broadcoms-google-and-anthropic-deals-8b43ff76",
+      "orig_slug": "jim-cramer-shows-positive-sentiment-toward-broadcoms-google-and-anthropic-deals-8b43ff76"
     },
     {
       "title": "Jim Cramer Says “We’re Going to Find Out What the Heck Happened to ServiceTitan”",
@@ -218,22 +218,22 @@
       "orig_slug": "jim-cramer-says-were-going-to-find-out-what-the-heck-happened-to-servicetitan-a83d0042"
     },
     {
-      "title": "Jim Cramer on Lockheed Martin: “Jim Taiclet Is Bankable”",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-lockheed-martin-jim-060303890.html",
+      "title": "Jim Cramer Says He Likes “Taiwan Semi Very Much”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-likes-taiwan-060248012.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-10T06:03:03Z",
+      "pubDate": "2026-04-10T06:02:48Z",
       "image": "https://media.zenfs.com/en/insidermonkey.com/753cb9cb32336de8f86289f7a7c7b36e",
-      "slug": "jim-cramer-on-lockheed-martin-jim-taiclet-is-bankable-aff92324",
-      "orig_slug": "jim-cramer-on-lockheed-martin-jim-taiclet-is-bankable-aff92324"
+      "slug": "jim-cramer-says-he-likes-taiwan-semi-very-much-47a394a6",
+      "orig_slug": "jim-cramer-says-he-likes-taiwan-semi-very-much-47a394a6"
     },
     {
-      "title": "Thinking About Selling Your Bitcoin? Nearly 50% of Holders Might Be Too.",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/thinking-selling-bitcoin-nearly-50-055000968.html",
+      "title": "Jim Cramer Believes “CAT Is One of the Most Viable Stocks”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-believes-cat-one-060253242.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-10T05:50:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/caf7e940c3060a3562ca09284bae60dd",
-      "slug": "thinking-about-selling-your-bitcoin-nearly-50-of-holders-might-be-too-66b20396",
-      "orig_slug": "thinking-about-selling-your-bitcoin-nearly-50-of-holders-might-be-too-66b20396"
+      "pubDate": "2026-04-10T06:02:53Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/ba2a6f7e107d4ed8376bd0de7f9faa45",
+      "slug": "jim-cramer-believes-cat-is-one-of-the-most-viable-stocks-33da8e76",
+      "orig_slug": "jim-cramer-believes-cat-is-one-of-the-most-viable-stocks-33da8e76"
     },
     {
       "title": "Market Update: SW",
@@ -245,157 +245,157 @@
       "orig_slug": "market-update-sw-d077258f"
     },
     {
-      "title": "TSMC's first-quarter revenue surges as AI interest propels sales beyond market forecasts",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/tsmcs-q1-revenue-jumps-35-053612040.html",
+      "title": "Global Markets Cautious Ahead of Weekend U.S.-Iran Negotiations",
+      "link": "https://www.wsj.com/finance/stocks/global-markets-cautious-ahead-of-weekend-u-s-iran-negotiations-42511501?siteid=yhoof2&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-10T05:36:12Z",
-      "image": "https://s.yimg.com/os/en/reuters-finance.com/1bcff70cc913eff87fed03e2a6bf51c9",
-      "slug": "tsmcs-first-quarter-revenue-surges-as-ai-interest-propels-sales-beyond-market-fo-86c2f0c1",
-      "orig_slug": "tsmcs-first-quarter-revenue-surges-as-ai-interest-propels-sales-beyond-market-fo-86c2f0c1"
-    },
-    {
-      "title": "I'm 67 With $2 Million in an IRA. How Can I Ensure It Lasts Throughout Retirement?",
-      "link": "https://finance.yahoo.com/markets/options/articles/im-67-2-million-ira-123000051.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-10T07:00:00Z",
-      "image": "https://s.yimg.com/os/en/smartasset_475/3d9faafecacbf8ee240133ae6c0e4b88",
-      "slug": "im-67-with-2-million-in-an-ira-how-can-i-ensure-it-lasts-throughout-retirement-5429927f",
-      "orig_slug": "im-67-with-2-million-in-an-ira-how-can-i-ensure-it-lasts-throughout-retirement-5429927f"
-    },
-    {
-      "title": "Supermicro (SMCI) Unveils Industry-First CMX Storage Servers at Nvidia GTC",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/supermicro-smci-unveils-industry-first-050404335.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-10T05:04:04Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/c08d4ddb510a62bf25e53c3c6cc76197",
-      "slug": "supermicro-smci-unveils-industry-first-cmx-storage-servers-at-nvidia-gtc-cecc8320",
-      "orig_slug": "supermicro-smci-unveils-industry-first-cmx-storage-servers-at-nvidia-gtc-cecc8320"
-    },
-    {
-      "title": "Coherus Oncology (CHRS) Is One of the Best Penny Stocks, Here is Why – Corrected",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/coherus-biosciences-chrs-one-best-071909631.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-10T05:14:09Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/b5dad9919dcf999502a6a0d2fc5a1f43",
-      "slug": "coherus-oncology-chrs-is-one-of-the-best-penny-stocks-here-is-why-corrected-e66ff769",
-      "orig_slug": "coherus-oncology-chrs-is-one-of-the-best-penny-stocks-here-is-why-corrected-e66ff769"
-    },
-    {
-      "title": "Raiffeisen Takeover Target Addiko Gets Higher Offer From Slovenia’s NLB",
-      "link": "https://www.wsj.com/finance/banking/raiffeisen-takeover-target-addiko-gets-higher-offer-from-slovenias-nlb-c4cca391?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-10T06:56:00Z",
+      "pubDate": "2026-04-10T08:40:00Z",
       "image": "",
-      "slug": "raiffeisen-takeover-target-addiko-gets-higher-offer-from-slovenias-nlb-41957e58",
-      "orig_slug": "raiffeisen-takeover-target-addiko-gets-higher-offer-from-slovenias-nlb-41957e58"
+      "slug": "global-markets-cautious-ahead-of-weekend-us-iran-negotiations-600f7d92",
+      "orig_slug": "global-markets-cautious-ahead-of-weekend-us-iran-negotiations-600f7d92"
     },
     {
-      "title": "Expand Energy (EXE) Appoints Marcel Teunissen as Chief Financial Officer",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/expand-energy-exe-appoints-marcel-050205085.html",
+      "title": "Jim Cramer Explains Why He Chose to Stay in Alphabet Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-why-chose-060307757.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-10T05:02:05Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/99df4bfdc9b5bf883742f17530182cd0",
-      "slug": "expand-energy-exe-appoints-marcel-teunissen-as-chief-financial-officer-531d53a4",
-      "orig_slug": "expand-energy-exe-appoints-marcel-teunissen-as-chief-financial-officer-531d53a4"
+      "pubDate": "2026-04-10T06:03:07Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/af2bb6bdbc4f56cfaf197a2118a94cf1",
+      "slug": "jim-cramer-explains-why-he-chose-to-stay-in-alphabet-stock-7e953c02",
+      "orig_slug": "jim-cramer-explains-why-he-chose-to-stay-in-alphabet-stock-7e953c02"
     },
     {
-      "title": "Ferrari (RACE): Best Growth Stocks to Buy for the Next Decade",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ferrari-race-best-growth-stocks-050356536.html",
+      "title": "Jim Cramer Highlights Two Catalysts for Costco",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-two-catalysts-060250432.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-10T05:03:56Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/a9eaab93b6100ae597850a38189b5c61",
-      "slug": "ferrari-race-best-growth-stocks-to-buy-for-the-next-decade-490dc30c",
-      "orig_slug": "ferrari-race-best-growth-stocks-to-buy-for-the-next-decade-490dc30c"
+      "pubDate": "2026-04-10T06:02:50Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/e0499335d74348b68e5dd2bebcc122f8",
+      "slug": "jim-cramer-highlights-two-catalysts-for-costco-f7801662",
+      "orig_slug": "jim-cramer-highlights-two-catalysts-for-costco-f7801662"
     },
     {
-      "title": "NRG Energy (NRG) Appoints Caroline Golin as Chief Growth and Policy Officer",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/nrg-energy-nrg-appoints-caroline-050214378.html",
+      "title": "Jim Cramer Says “Anthropic Needs CrowdStrike, It Doesn’t Seek to Wipe It Out”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-anthropic-needs-060312368.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-10T05:02:14Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/b1973964fd8c78489fcfcf8a8990b239",
-      "slug": "nrg-energy-nrg-appoints-caroline-golin-as-chief-growth-and-policy-officer-adc40a0c",
-      "orig_slug": "nrg-energy-nrg-appoints-caroline-golin-as-chief-growth-and-policy-officer-adc40a0c"
+      "pubDate": "2026-04-10T06:03:12Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/78f20c7c90343901cf8f10b23e482a57",
+      "slug": "jim-cramer-says-anthropic-needs-crowdstrike-it-doesnt-seek-to-wipe-it-out-0e331605",
+      "orig_slug": "jim-cramer-says-anthropic-needs-crowdstrike-it-doesnt-seek-to-wipe-it-out-0e331605"
     },
     {
-      "title": "T-Mobile (TMUS), Nvidia (NVDA) Integrate AI Applications on AI-RAN Infrastructure",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/t-mobile-tmus-nvidia-nvda-050321718.html",
+      "title": "Jim Cramer Says Home Depot Is One of His Two Worst Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-home-depot-060245216.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-10T05:03:21Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/fc993885cde16719fa19aca2b4c219b8",
-      "slug": "t-mobile-tmus-nvidia-nvda-integrate-ai-applications-on-ai-ran-infrastructure-c4bd101b",
-      "orig_slug": "t-mobile-tmus-nvidia-nvda-integrate-ai-applications-on-ai-ran-infrastructure-c4bd101b"
+      "pubDate": "2026-04-10T06:02:45Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/513faebf5597f4d7089d7857811e6e6a",
+      "slug": "jim-cramer-says-home-depot-is-one-of-his-two-worst-stocks-b68bfddf",
+      "orig_slug": "jim-cramer-says-home-depot-is-one-of-his-two-worst-stocks-b68bfddf"
     },
     {
-      "title": "What bubble? TSMC posts $35.7bn quarter as AI chip demand drives 35% revenue surge",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/bubble-tsmc-posts-35-7bn-065700192.html",
+      "title": "3 Stocks Billionaires Are Buying That You Should Too",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-billionaires-buying-too-083500597.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-10T06:57:00Z",
-      "image": "https://media.zenfs.com/en/proactive_us_504/dad16feac06619068c4250fa644cefac",
-      "slug": "what-bubble-tsmc-posts-357bn-quarter-as-ai-chip-demand-drives-35-revenue-surge-79da860a",
-      "orig_slug": "what-bubble-tsmc-posts-357bn-quarter-as-ai-chip-demand-drives-35-revenue-surge-79da860a"
+      "pubDate": "2026-04-10T08:35:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/ebbd5f4a8dc6afce404bc378f80ff23d",
+      "slug": "3-stocks-billionaires-are-buying-that-you-should-too-86abd21c",
+      "orig_slug": "3-stocks-billionaires-are-buying-that-you-should-too-86abd21c"
     },
     {
-      "title": "MercadoLibre (MELI) to Discontinue Mercado Coin Cryptocurrency",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/mercadolibre-meli-discontinue-mercado-coin-050346230.html",
+      "title": "Jim Cramer Says “I Know Amazon, They’re Tight as a Drum”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-know-amazon-060310734.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-10T05:03:46Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/540c7bfffc9cf078fe323e1d9683599d",
-      "slug": "mercadolibre-meli-to-discontinue-mercado-coin-cryptocurrency-5eed9a30",
-      "orig_slug": "mercadolibre-meli-to-discontinue-mercado-coin-cryptocurrency-5eed9a30"
+      "pubDate": "2026-04-10T06:03:10Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/90e386a06858d8b4751ec77797010aed",
+      "slug": "jim-cramer-says-i-know-amazon-theyre-tight-as-a-drum-bd8d524e",
+      "orig_slug": "jim-cramer-says-i-know-amazon-theyre-tight-as-a-drum-bd8d524e"
     },
     {
-      "title": "Check Point (CHKP) Launches AI Defense Plane to Secure Agentic Workflows",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/check-point-chkp-launches-ai-050156347.html",
+      "title": "Jim Cramer Says He Thinks “Arm’s Much Better Than Qualcomm”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-thinks-arm-060247968.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-10T05:01:56Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/d653eb35ca56fb085471502a418a1a7e",
-      "slug": "check-point-chkp-launches-ai-defense-plane-to-secure-agentic-workflows-454a9c6d",
-      "orig_slug": "check-point-chkp-launches-ai-defense-plane-to-secure-agentic-workflows-454a9c6d"
+      "pubDate": "2026-04-10T06:02:47Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/93b3b2866cf73f4837259d76907be1e2",
+      "slug": "jim-cramer-says-he-thinks-arms-much-better-than-qualcomm-075dc260",
+      "orig_slug": "jim-cramer-says-he-thinks-arms-much-better-than-qualcomm-075dc260"
     },
     {
-      "title": "NXP Semiconductors (NXPI) Unveils i.MX 93W Processor to Simplify Physical AI Deployment",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/nxp-semiconductors-nxpi-unveils-mx-050222130.html",
+      "title": "Jim Cramer on The Campbell’s Company: “I’d Rather Have You Own McCormick’",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-campbell-company-d-060300690.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-10T05:02:22Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/a2655da09fa78b24550e87f8201709e8",
-      "slug": "nxp-semiconductors-nxpi-unveils-imx-93w-processor-to-simplify-physical-ai-deploy-5d8bf79a",
-      "orig_slug": "nxp-semiconductors-nxpi-unveils-imx-93w-processor-to-simplify-physical-ai-deploy-5d8bf79a"
+      "pubDate": "2026-04-10T06:03:00Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/6eeac832621827d123ccd03733dcdaca",
+      "slug": "jim-cramer-on-the-campbells-company-id-rather-have-you-own-mccormick-7f3e6c4f",
+      "orig_slug": "jim-cramer-on-the-campbells-company-id-rather-have-you-own-mccormick-7f3e6c4f"
     },
     {
-      "title": "Is Alphabet (GOOGL) One of the Best Growth Stocks to Buy for the Next Decade?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-one-best-growth-050232563.html",
+      "title": "Jim Cramer Believes Apple Is “Going to Keep Flying Higher” In Case of No More War",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-believes-apple-going-060305452.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-10T05:02:32Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/7b312b97564a33ffe3ac7e6fc700f9da",
-      "slug": "is-alphabet-googl-one-of-the-best-growth-stocks-to-buy-for-the-next-decade-ee077512",
-      "orig_slug": "is-alphabet-googl-one-of-the-best-growth-stocks-to-buy-for-the-next-decade-ee077512"
+      "pubDate": "2026-04-10T06:03:05Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/abe42548427d5976d59895bbd8b8797c",
+      "slug": "jim-cramer-believes-apple-is-going-to-keep-flying-higher-in-case-of-no-more-war-6df4deb0",
+      "orig_slug": "jim-cramer-believes-apple-is-going-to-keep-flying-higher-in-case-of-no-more-war-6df4deb0"
     },
     {
-      "title": "Is MSG Maker Ajinomoto Sitting on an AI Goldmine? This Investor Thinks So",
-      "link": "https://www.wsj.com/business/is-msg-maker-ajinomoto-sitting-on-an-ai-goldmine-this-investor-thinks-so-4a054b58?siteid=yhoof2&yptr=yahoo",
+      "title": "Century Lithium promotes Todd Fayram to chief technical officer at Angel Island project",
+      "link": "https://finance.yahoo.com/sectors/energy/articles/century-lithium-promotes-todd-fayram-083500560.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-10T06:57:00Z",
-      "image": "",
-      "slug": "is-msg-maker-ajinomoto-sitting-on-an-ai-goldmine-this-investor-thinks-so-4399ab18",
-      "orig_slug": "is-msg-maker-ajinomoto-sitting-on-an-ai-goldmine-this-investor-thinks-so-4399ab18"
+      "pubDate": "2026-04-10T08:35:00Z",
+      "image": "https://media.zenfs.com/en/proactive_us_504/f0fc03cec153a7d11dabbdacd042733e",
+      "slug": "century-lithium-promotes-todd-fayram-to-chief-technical-officer-at-angel-island--2ee9464e",
+      "orig_slug": "century-lithium-promotes-todd-fayram-to-chief-technical-officer-at-angel-island--2ee9464e"
     },
     {
-      "title": "Oracle (ORCL) to Integrate Nvidia B300 GPUs into OCI Government Regions",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/oracle-orcl-integrate-nvidia-b300-050254996.html",
+      "title": "Best high-yield savings interest rates today, April 10, 2026 (up to 4% APY return)",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-friday-april-10-2026-100000433.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-10T05:02:54Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/c474ce6849973d472e01df44b4c5dcf3",
-      "slug": "oracle-orcl-to-integrate-nvidia-b300-gpus-into-oci-government-regions-16c965d1",
-      "orig_slug": "oracle-orcl-to-integrate-nvidia-b300-gpus-into-oci-government-regions-16c965d1"
+      "pubDate": "2026-04-10T10:00:00Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/zkP71JMsVlcuMMr4TYwHfg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/822c7220-4eb6-11ef-afbf-4972cf7de987",
+      "slug": "best-high-yield-savings-interest-rates-today-april-10-2026-up-to-4-apy-return-9c74580b",
+      "orig_slug": "best-high-yield-savings-interest-rates-today-april-10-2026-up-to-4-apy-return-9c74580b"
     },
     {
-      "title": "Here is Why Novo Nordisk (NVO) is One of the Best Growth Stocks to Buy for the Next Decade",
-      "link": "https://finance.yahoo.com/sectors/healthcare/articles/why-novo-nordisk-nvo-one-050138635.html",
+      "title": "Mortgage and refinance interest rates today, April 10, 2026: 'Still a path' for rates to move closer to 6%",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-friday-april-10-2026-100000928.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-10T05:01:38Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/c1b4afed3f897f4dae45d1e68a2d2bd8",
-      "slug": "here-is-why-novo-nordisk-nvo-is-one-of-the-best-growth-stocks-to-buy-for-the-nex-68b31d27",
-      "orig_slug": "here-is-why-novo-nordisk-nvo-is-one-of-the-best-growth-stocks-to-buy-for-the-nex-68b31d27"
+      "pubDate": "2026-04-10T10:00:00Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/pkSpSwDGDZC8Ol_scXouEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/c36fbdb0-0289-11ef-be8f-4e0451f1fa09",
+      "slug": "mortgage-and-refinance-interest-rates-today-april-10-2026-still-a-path-for-rates-e5cebe96",
+      "orig_slug": "mortgage-and-refinance-interest-rates-today-april-10-2026-still-a-path-for-rates-e5cebe96"
+    },
+    {
+      "title": "Best CD rates today, April 10, 2026 (up to 4.15% APY return)",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-april-10-2026-100000880.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-10T10:00:00Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/_3wvdrOh9xDkrkWGFwTB3g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47b17e2-4f64-11ef-afbf-1041709cf169",
+      "slug": "best-cd-rates-today-april-10-2026-up-to-415-apy-return-302477db",
+      "orig_slug": "best-cd-rates-today-april-10-2026-up-to-415-apy-return-302477db"
+    },
+    {
+      "title": "HELOC and home equity loan rates today, April 10, 2026: A cash solution at low rates",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-friday-april-10-2026-100000000.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-10T10:00:00Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/7.WxmNrXs8BvNBuj5GugWQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-06/eb4e4990-4262-11f0-b61f-fecabc8eb879",
+      "slug": "heloc-and-home-equity-loan-rates-today-april-10-2026-a-cash-solution-at-low-rate-4c644b59",
+      "orig_slug": "heloc-and-home-equity-loan-rates-today-april-10-2026-a-cash-solution-at-low-rate-4c644b59"
+    },
+    {
+      "title": "South Korean vehicle import sales surge 35% in March",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/south-korean-vehicle-import-sales-083537781.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-10T08:35:37Z",
+      "image": "https://media.zenfs.com/en/just_auto_187/245e25a7c28b8906ddd327555d6968da",
+      "slug": "south-korean-vehicle-import-sales-surge-35-in-march-8134de07",
+      "orig_slug": "south-korean-vehicle-import-sales-surge-35-in-march-8134de07"
+    },
+    {
+      "title": "Best money market account rates today, April 10, 2026 (up to 4.01% APY return)",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/copy-best-money-market-account-rates-today-friday-april-10-2026-100000674.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-10T10:00:00Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/___pOPSKzgB9WMqYppHlmg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/0ef34f60-1be6-11f0-a17f-e52542084249",
+      "slug": "best-money-market-account-rates-today-april-10-2026-up-to-401-apy-return-029b453c",
+      "orig_slug": "best-money-market-account-rates-today-april-10-2026-up-to-401-apy-return-029b453c"
     }
   ]
 }
