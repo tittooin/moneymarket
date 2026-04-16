@@ -1,275 +1,41 @@
 {
-  "updated": "2026-04-16T11:52:47Z",
+  "updated": "2026-04-16T13:05:19Z",
   "items": [
     {
-      "title": "China-Backed Yancoal Australia to Buy Kestrel Coal Mine Stake For Up to $2.4 Billion",
-      "link": "https://www.wsj.com/business/energy-oil/china-backed-yancoal-australia-to-buy-kestrel-coal-mine-stake-for-up-to-2-4-billion-c8bd9060?siteid=yhoof2&yptr=yahoo",
+      "title": "Earning Above $153,000? Your December 31st Roth Conversion Window Just Closed for 2026",
+      "link": "https://finance.yahoo.com/markets/options/articles/earning-above-153-000-december-124504010.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-14T23:49:00Z",
+      "pubDate": "2026-04-16T12:45:04Z",
+      "image": "https://media.zenfs.com/en/24_7_wall_st__718/3db1058f0a97bf9b3c4093c4bd2f1e8a",
+      "slug": "earning-above-153000-your-december-31st-roth-conversion-window-just-closed-for-2-148a9163",
+      "orig_slug": "earning-above-153000-your-december-31st-roth-conversion-window-just-closed-for-2-148a9163"
+    },
+    {
+      "title": "Prologis reports record logistics lease signings in Q1",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/prologis-reports-record-logistics-lease-124305734.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-16T12:43:05Z",
+      "image": "https://media.zenfs.com/en/freightwaves_373/7f6ff65c6b0da20f3b78dd09578c3546",
+      "slug": "prologis-reports-record-logistics-lease-signings-in-q1-8bef6a2b",
+      "orig_slug": "prologis-reports-record-logistics-lease-signings-in-q1-8bef6a2b"
+    },
+    {
+      "title": "Stock Market Today: Dow Higher After Surprise Jobless Claims; TSMC Slides, Netflix Earnings Next (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobless-claims-tsmc-netflix-earnings/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-16T12:38:16Z",
       "image": "",
-      "slug": "china-backed-yancoal-australia-to-buy-kestrel-coal-mine-stake-for-up-to-24-billi-65f9f457",
-      "orig_slug": "china-backed-yancoal-australia-to-buy-kestrel-coal-mine-stake-for-up-to-24-billi-65f9f457"
+      "slug": "stock-market-today-dow-higher-after-surprise-jobless-claims-tsmc-slides-netflix--f615e214",
+      "orig_slug": "stock-market-today-dow-higher-after-surprise-jobless-claims-tsmc-slides-netflix--f615e214"
     },
     {
-      "title": "Anthropic draws VC interest at up to $800 billion valuation, Business Insider reports",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/anthropic-draws-offers-vcs-invest-234946772.html",
+      "title": "Stock market today: S&P 500, Nasdaq steady after record high closes amid hopes for renewed Iran truce",
+      "link": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-steady-after-record-high-closes-amid-hopes-for-renewed-iran-truce-230116905.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-14T23:49:46Z",
-      "image": "https://s.yimg.com/os/en/reuters-finance.com/574b19b0dc3ab48c65be25d2d3561c0f",
-      "slug": "anthropic-draws-vc-interest-at-up-to-800-billion-valuation-business-insider-repo-2389f3dd",
-      "orig_slug": "anthropic-draws-vc-interest-at-up-to-800-billion-valuation-business-insider-repo-2389f3dd"
-    },
-    {
-      "title": "The Rare Earth Trap: How China Outmaneuvered the Entire Western Defense Industry",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/rare-earth-trap-china-outmaneuvered-000000878.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-15T00:00:00Z",
-      "image": "https://s.yimg.com/os/en/oilprice.com/f399a2d54d51fdbeba24805d3a52f678",
-      "slug": "the-rare-earth-trap-how-china-outmaneuvered-the-entire-western-defense-industry-0d7d68f9",
-      "orig_slug": "the-rare-earth-trap-how-china-outmaneuvered-the-entire-western-defense-industry-0d7d68f9"
-    },
-    {
-      "title": "High Roller Signs Deal With Crypto.com to Enter U.S. Prediction Markets",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/high-roller-signs-deal-crypto-000800492.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-15T00:08:00Z",
-      "image": "https://s.yimg.com/os/en/cryptoprowl_304/c37bcafa47dc9fb07871b7aec519fe97",
-      "slug": "high-roller-signs-deal-with-cryptocom-to-enter-us-prediction-markets-ca9d357c",
-      "orig_slug": "high-roller-signs-deal-with-cryptocom-to-enter-us-prediction-markets-ca9d357c"
-    },
-    {
-      "title": "ether.fi’s ETHGas Deal Backs a Bigger Push to Make Ethereum Execution More Predictable",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/ether-fi-ethgas-deal-backs-012400391.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-15T01:24:00Z",
-      "image": "https://s.yimg.com/os/en/cryptoprowl_304/7a6625ce7bbaec2164fd2dfea7502bce",
-      "slug": "etherfis-ethgas-deal-backs-a-bigger-push-to-make-ethereum-execution-more-predict-d3ed35f9",
-      "orig_slug": "etherfis-ethgas-deal-backs-a-bigger-push-to-make-ethereum-execution-more-predict-d3ed35f9"
-    },
-    {
-      "title": "Why Poet Technologies Stock Got Torched on Tuesday",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-poet-technologies-stock-got-235246305.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-14T23:52:46Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/d616f119c72bac8fe720aff0c301743f",
-      "slug": "why-poet-technologies-stock-got-torched-on-tuesday-ad8ada8b",
-      "orig_slug": "why-poet-technologies-stock-got-torched-on-tuesday-ad8ada8b"
-    },
-    {
-      "title": "Wall Street hits a record as S&P 500 continues its 2-week rally on hopes for an end to the Iran war",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-rise-wall-032629601.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-15T03:26:29Z",
-      "image": "https://media.zenfs.com/en/ap.org/fcd8cac037902d629c617956d43880dd",
-      "slug": "wall-street-hits-a-record-as-sp-500-continues-its-2-week-rally-on-hopes-for-an-e-23687517",
-      "orig_slug": "wall-street-hits-a-record-as-sp-500-continues-its-2-week-rally-on-hopes-for-an-e-23687517"
-    },
-    {
-      "title": "How to build a new house with a USDA construction loan",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/usda-construction-loan-163021055.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2024-11-04T16:30:21Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/0yHD03a66atc2TPoito7GA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2024-10/72e6b3b0-97c8-11ef-bfbb-9aae11ae2575",
-      "slug": "how-to-build-a-new-house-with-a-usda-construction-loan-42540b59",
-      "orig_slug": "how-to-build-a-new-house-with-a-usda-construction-loan-42540b59"
-    },
-    {
-      "title": "Citigroup Surges as Fraser’s Overhaul Yields 42% Profit Growth",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/citigroup-surges-fraser-overhaul-yields-040100552.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-15T04:01:00Z",
-      "image": "https://media.zenfs.com/en/the_daily_upside_435/620b18f4963c514d00f50548d0b66430",
-      "slug": "citigroup-surges-as-frasers-overhaul-yields-42-profit-growth-400e3f25",
-      "orig_slug": "citigroup-surges-as-frasers-overhaul-yields-42-profit-growth-400e3f25"
-    },
-    {
-      "title": "Review & Preview: Banking on Resilience",
-      "link": "https://www.barrons.com/articles/stocks-today-ai-company-documents-f60dbfe0?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-14T23:55:00Z",
-      "image": "",
-      "slug": "review-preview-banking-on-resilience-c55734dd",
-      "orig_slug": "review-preview-banking-on-resilience-c55734dd"
-    },
-    {
-      "title": "United Airlines Floats Marriage of Giants with American amid Skyrocketing Jet Fuel Costs",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/united-airlines-floats-marriage-giants-040100038.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-15T04:01:00Z",
-      "image": "https://media.zenfs.com/en/the_daily_upside_435/8e5f355157fe4462413ce735947a951f",
-      "slug": "united-airlines-floats-marriage-of-giants-with-american-amid-skyrocketing-jet-fu-4ff037c2",
-      "orig_slug": "united-airlines-floats-marriage-of-giants-with-american-amid-skyrocketing-jet-fu-4ff037c2"
-    },
-    {
-      "title": "OpenAI Teams with Novo Nordisk to Speed Prescription Drug Development",
-      "link": "https://finance.yahoo.com/sectors/healthcare/articles/openai-teams-novo-nordisk-speed-040100036.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-15T04:01:00Z",
-      "image": "https://media.zenfs.com/en/the_daily_upside_435/4975b6df7bc076b46ab52991fe2e9d02",
-      "slug": "openai-teams-with-novo-nordisk-to-speed-prescription-drug-development-82c73a70",
-      "orig_slug": "openai-teams-with-novo-nordisk-to-speed-prescription-drug-development-82c73a70"
-    },
-    {
-      "title": "Diversification Topped Plain Vanilla Last Year. That’s an Outlier",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/diversification-topped-plain-vanilla-last-040100828.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-15T04:01:00Z",
-      "image": "https://media.zenfs.com/en/the_daily_upside_435/42bf8961b8f632ad4747099d4c95a58c",
-      "slug": "diversification-topped-plain-vanilla-last-year-thats-an-outlier-a54549bb",
-      "orig_slug": "diversification-topped-plain-vanilla-last-year-thats-an-outlier-a54549bb"
-    },
-    {
-      "title": "Navigating housing affordability and a rising recession risk: Top economists’ takes on a gummed-up economy",
-      "link": "https://finance.yahoo.com/economy/articles/navigating-housing-affordability-rising-recession-040100333.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-15T04:01:00Z",
-      "image": "https://media.zenfs.com/en/bankrate_626/1f15b21b1abe79255b40258bb64747c7",
-      "slug": "navigating-housing-affordability-and-a-rising-recession-risk-top-economists-take-62bc80aa",
-      "orig_slug": "navigating-housing-affordability-and-a-rising-recession-risk-top-economists-take-62bc80aa"
-    },
-    {
-      "title": "Why Oracle Stock Surged Today",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-oracle-stock-surged-today-235834122.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-14T23:58:34Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/910ba860789c8b3c3939fcbaf3a39b0f",
-      "slug": "why-oracle-stock-surged-today-d3f69f66",
-      "orig_slug": "why-oracle-stock-surged-today-d3f69f66"
-    },
-    {
-      "title": "New Robotaxi ETF Filing Adds Fuel to Thematic Autonomous Vehicle Funds",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/robotaxi-etf-filing-adds-fuel-040200014.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-15T04:02:00Z",
-      "image": "https://media.zenfs.com/en/the_daily_upside_435/ecafea5a9ceefbdf4ccc5937337e99ae",
-      "slug": "new-robotaxi-etf-filing-adds-fuel-to-thematic-autonomous-vehicle-funds-2c950393",
-      "orig_slug": "new-robotaxi-etf-filing-adds-fuel-to-thematic-autonomous-vehicle-funds-2c950393"
-    },
-    {
-      "title": "Goldman Sachs Follows Morgan Stanley as Latest to Prep Bitcoin ETF",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/goldman-sachs-follows-morgan-stanley-040300538.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-15T04:03:00Z",
-      "image": "https://media.zenfs.com/en/the_daily_upside_435/c972a3b2809406bbb1c51c9e6a250908",
-      "slug": "goldman-sachs-follows-morgan-stanley-as-latest-to-prep-bitcoin-etf-c3129887",
-      "orig_slug": "goldman-sachs-follows-morgan-stanley-as-latest-to-prep-bitcoin-etf-c3129887"
-    },
-    {
-      "title": "Live Oak Bank Review (2026): Online accounts with market-leading interest rates",
-      "link": "https://finance.yahoo.com/personal-finance/banking/review/live-oak-bank-review-185559322.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-14T18:55:59Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/AYpuk1b5BZwK9pnUO6y01g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MTM-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/epf_thumb_banks_liveoak_9444.jpg",
-      "slug": "live-oak-bank-review-2026-online-accounts-with-market-leading-interest-rates-ce2c5f14",
-      "orig_slug": "live-oak-bank-review-2026-online-accounts-with-market-leading-interest-rates-ce2c5f14"
-    },
-    {
-      "title": "What is a money order, and how does it work?",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/what-is-a-money-order-184350846.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2024-05-14T18:43:50Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/jjm.fs4zjaJsxLf_l6WLOQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/0cd0dc90-1221-11ef-b77f-959a06e1623b",
-      "slug": "what-is-a-money-order-and-how-does-it-work-181d94a0",
-      "orig_slug": "what-is-a-money-order-and-how-does-it-work-181d94a0"
-    },
-    {
-      "title": "Nasdaq Logs Longest Winning Streak Since 2021 as Investors Look Beyond War",
-      "link": "https://www.wsj.com/finance/stocks/nasdaq-logs-longest-winning-streak-since-2021-as-investors-look-beyond-war-81d07c61?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-15T00:00:00Z",
-      "image": "",
-      "slug": "nasdaq-logs-longest-winning-streak-since-2021-as-investors-look-beyond-war-4449a697",
-      "orig_slug": "nasdaq-logs-longest-winning-streak-since-2021-as-investors-look-beyond-war-4449a697"
-    },
-    {
-      "title": "Chase Sapphire Preferred vs. Capital One Venture: Which offers more value?",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/comparison/chase-sapphire-preferred-vs-capital-one-venture-012925883.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2024-12-05T01:29:25Z",
-      "image": "https://s.yimg.com/os/creatr-uploaded-images/2026-01/04e1ce20-f64c-11f0-977e-7affe2185d1f",
-      "slug": "chase-sapphire-preferred-vs-capital-one-venture-which-offers-more-value-5900d790",
-      "orig_slug": "chase-sapphire-preferred-vs-capital-one-venture-which-offers-more-value-5900d790"
-    },
-    {
-      "title": "Capital One Spark Miles for Business: Simple rewards for business owners",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/review/capital-one-spark-miles-for-business-review-174514920.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2024-09-05T18:51:11Z",
-      "image": "https://s.yimg.com/os/creatr-uploaded-images/2024-05/7c31d4a0-1149-11ef-be8b-82998ca16fb3",
-      "slug": "capital-one-spark-miles-for-business-simple-rewards-for-business-owners-4fd109ae",
-      "orig_slug": "capital-one-spark-miles-for-business-simple-rewards-for-business-owners-4fd109ae"
-    },
-    {
-      "title": "Ask an Advisor: If I Net $400k From Selling My Home to Pay Off My Retirement House, Do I Owe Capital Gains Tax?",
-      "link": "https://finance.yahoo.com/markets/options/articles/aaa-im-selling-house-netting-195117637.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-15T05:00:00Z",
-      "image": "https://s.yimg.com/os/en/smartasset_475/58fa2f15c54bf3640ef094d537a69fe6",
-      "slug": "ask-an-advisor-if-i-net-400k-from-selling-my-home-to-pay-off-my-retirement-house-178520d5",
-      "orig_slug": "ask-an-advisor-if-i-net-400k-from-selling-my-home-to-pay-off-my-retirement-house-178520d5"
-    },
-    {
-      "title": "Capital One Quicksilver Cash Rewards review: Simplify spending with 1.5% cash back",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/review/capital-one-quicksilver-cash-rewards-credit-card-review-210744298.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2024-08-14T20:02:51Z",
-      "image": "https://s.yimg.com/os/creatr-uploaded-images/2024-08/eafaae80-5a77-11ef-ae98-6252795b0bd1",
-      "slug": "capital-one-quicksilver-cash-rewards-review-simplify-spending-with-15-cash-back-ecdc7570",
-      "orig_slug": "capital-one-quicksilver-cash-rewards-review-simplify-spending-with-15-cash-back-ecdc7570"
-    },
-    {
-      "title": "Morgan Stanley has a blunt message on S&P 500",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-blunt-message-p-000300915.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-15T00:03:00Z",
-      "image": "https://s.yimg.com/os/en/thestreet_881/e1e9b8f56d6364997ff45b2a80f12ef8",
-      "slug": "morgan-stanley-has-a-blunt-message-on-sp-500-89559c77",
-      "orig_slug": "morgan-stanley-has-a-blunt-message-on-sp-500-89559c77"
-    },
-    {
-      "title": "Best credit cards for restaurants for April 2026",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-for-restaurants-154321852.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2024-09-13T22:41:53Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/O_TR7TuCHzIh4eJu1it.jA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c4d9c5c0-4a9a-11ef-8ff7-aa813f6a7edb",
-      "slug": "best-credit-cards-for-restaurants-for-april-2026-1b5a5a42",
-      "orig_slug": "best-credit-cards-for-restaurants-for-april-2026-1b5a5a42"
-    },
-    {
-      "title": "Capital One Quicksilver vs. Savor: Your top cash-back pick depends on your spending habits",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/comparison/capital-one-quicksilver-vs-savor-232222530.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-01-23T23:22:22Z",
-      "image": "https://s.yimg.com/os/creatr-uploaded-images/2025-01/fbc1f680-d9dc-11ef-8fbd-5ddbf03044a7",
-      "slug": "capital-one-quicksilver-vs-savor-your-top-cash-back-pick-depends-on-your-spendin-9aeecdc6",
-      "orig_slug": "capital-one-quicksilver-vs-savor-your-top-cash-back-pick-depends-on-your-spendin-9aeecdc6"
-    },
-    {
-      "title": "Capital One Savor Cash Rewards review: Unlimited cash back for no annual fee",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/review/capital-one-savor-cash-rewards-review-221127430.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2024-03-15T22:11:27Z",
-      "image": "https://s.yimg.com/os/creatr-uploaded-images/2024-10/818604b0-90bc-11ef-9ffb-16e9191cdeb8",
-      "slug": "capital-one-savor-cash-rewards-review-unlimited-cash-back-for-no-annual-fee-d6fa716f",
-      "orig_slug": "capital-one-savor-cash-rewards-review-unlimited-cash-back-for-no-annual-fee-d6fa716f"
-    },
-    {
-      "title": "Virgin Australia flags higher fuel costs, adjusts airfares on Mideast war impact",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/virgin-australia-flags-higher-fuel-050549037.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-15T05:07:25Z",
-      "image": "https://s.yimg.com/os/en/reuters.com/78497807e6756a9e3e3e0956556a3ea5",
-      "slug": "virgin-australia-flags-higher-fuel-costs-adjusts-airfares-on-mideast-war-impact-931e5f5e",
-      "orig_slug": "virgin-australia-flags-higher-fuel-costs-adjusts-airfares-on-mideast-war-impact-931e5f5e"
-    },
-    {
-      "title": "Amphastar Pharmaceuticals Highlights Baqsimi Milestones, Primatene Growth at Needham Conference",
-      "link": "https://finance.yahoo.com/sectors/healthcare/articles/amphastar-pharmaceuticals-highlights-baqsimi-milestones-000358314.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-15T00:03:58Z",
-      "image": "https://s.yimg.com/os/en/marketbeat_955/07514067df76deb97d539ac2994b3f57",
-      "slug": "amphastar-pharmaceuticals-highlights-baqsimi-milestones-primatene-growth-at-need-8785fa7b",
-      "orig_slug": "amphastar-pharmaceuticals-highlights-baqsimi-milestones-primatene-growth-at-need-8785fa7b"
+      "pubDate": "2026-04-15T23:01:16Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/wtkF8u24hibIpsm1lptIpw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTk-/https://s.yimg.com/os/creatr-uploaded-images/2026-04/35bee0e0-391e-11f1-9ecf-69a8cb7e34b3",
+      "slug": "stock-market-today-sp-500-nasdaq-steady-after-record-high-closes-amid-hopes-for--a166a79d",
+      "orig_slug": "stock-market-today-sp-500-nasdaq-steady-after-record-high-closes-amid-hopes-for--a166a79d"
     },
     {
       "title": "Goldman Sachs Cuts Ford (F) Price Target, UBS Upgrades Stock on Long-Term EPS Outlook",
@@ -281,13 +47,49 @@
       "orig_slug": "goldman-sachs-cuts-ford-f-price-target-ubs-upgrades-stock-on-long-term-eps-outlo-58043617"
     },
     {
-      "title": "Capital One Quicksilver Student Cash Rewards: A beginner rewards card with a cash bonus",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/review/capital-one-quicksilver-student-cash-rewards-credit-card-review-200719561.html",
+      "title": "Daily Spotlight: Global Stocks Still Offer Value",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46750_MarketOutlook_1776338305000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "source": "finance.yahoo.com",
-      "pubDate": "2024-08-14T20:47:10Z",
-      "image": "https://s.yimg.com/os/creatr-uploaded-images/2024-08/eafaae80-5a77-11ef-ae98-6252795b0bd1",
-      "slug": "capital-one-quicksilver-student-cash-rewards-a-beginner-rewards-card-with-a-cash-7c4d57ca",
-      "orig_slug": "capital-one-quicksilver-student-cash-rewards-a-beginner-rewards-card-with-a-cash-7c4d57ca"
+      "pubDate": "2026-04-16T11:18:25Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "daily-spotlight-global-stocks-still-offer-value-1f3979e1",
+      "orig_slug": "daily-spotlight-global-stocks-still-offer-value-1f3979e1"
+    },
+    {
+      "title": "Constellation Energy Is Down 28% From Its 52-Week High. Here's What Is Weighing on the Stock.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-down-28-52-124000776.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-16T12:40:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/7859b533fef7d3ba7863792a51369dbc",
+      "slug": "constellation-energy-is-down-28-from-its-52-week-high-heres-what-is-weighing-on--29be9f95",
+      "orig_slug": "constellation-energy-is-down-28-from-its-52-week-high-heres-what-is-weighing-on--29be9f95"
+    },
+    {
+      "title": "Virgin Australia flags higher fuel costs, adjusts airfares on Mideast war impact",
+      "link": "https://finance.yahoo.com/sectors/energy/articles/virgin-australia-flags-higher-fuel-050549037.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-15T05:07:25Z",
+      "image": "https://s.yimg.com/os/en/reuters.com/78497807e6756a9e3e3e0956556a3ea5",
+      "slug": "virgin-australia-flags-higher-fuel-costs-adjusts-airfares-on-mideast-war-impact-931e5f5e",
+      "orig_slug": "virgin-australia-flags-higher-fuel-costs-adjusts-airfares-on-mideast-war-impact-931e5f5e"
+    },
+    {
+      "title": "Bank of America Cuts Lincoln National (LNC) Target; Mizuho Lowers PT but Stays Bullish",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-cuts-lincoln-national-051325548.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-15T05:13:25Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/23c576a617229d45a71047900d249872",
+      "slug": "bank-of-america-cuts-lincoln-national-lnc-target-mizuho-lowers-pt-but-stays-bull-d5966f66",
+      "orig_slug": "bank-of-america-cuts-lincoln-national-lnc-target-mizuho-lowers-pt-but-stays-bull-d5966f66"
+    },
+    {
+      "title": "Ask an Advisor: If I Net $400k From Selling My Home to Pay Off My Retirement House, Do I Owe Capital Gains Tax?",
+      "link": "https://finance.yahoo.com/markets/options/articles/aaa-im-selling-house-netting-195117637.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-15T05:00:00Z",
+      "image": "https://s.yimg.com/os/en/smartasset_475/58fa2f15c54bf3640ef094d537a69fe6",
+      "slug": "ask-an-advisor-if-i-net-400k-from-selling-my-home-to-pay-off-my-retirement-house-178520d5",
+      "orig_slug": "ask-an-advisor-if-i-net-400k-from-selling-my-home-to-pay-off-my-retirement-house-178520d5"
     },
     {
       "title": "ASML lifts 2026 forecast as surging AI chip demand boosts new orders",
@@ -299,22 +101,22 @@
       "orig_slug": "asml-lifts-2026-forecast-as-surging-ai-chip-demand-boosts-new-orders-29ccf2b0"
     },
     {
-      "title": "How to reserve a table at the hottest restaurant with your credit card",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/reserve-a-table-with-credit-card-224248503.html",
+      "title": "Technical Assessment: Bullish in the Intermediate-Term",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46749_TechnicalAnalysis_1776338266000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "source": "finance.yahoo.com",
-      "pubDate": "2024-08-13T22:42:48Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/SVJjuaLJT.ghEQ.Oc5Ezzg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-08/fbb51c60-59c3-11ef-a3f7-bd8318878153",
-      "slug": "how-to-reserve-a-table-at-the-hottest-restaurant-with-your-credit-card-6791d9b5",
-      "orig_slug": "how-to-reserve-a-table-at-the-hottest-restaurant-with-your-credit-card-6791d9b5"
+      "pubDate": "2026-04-16T11:17:46Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "technical-assessment-bullish-in-the-intermediate-term-8c33a7a9",
+      "orig_slug": "technical-assessment-bullish-in-the-intermediate-term-8c33a7a9"
     },
     {
-      "title": "AngioDynamics CEO Touts Debt-Free Turnaround, Auryon Share Gains, NanoKnife Launch at Needham Conf",
-      "link": "https://finance.yahoo.com/sectors/healthcare/articles/angiodynamics-ceo-touts-debt-free-010337127.html",
+      "title": "HIVE Digital Technologies announces planned $75M exchangeable notes offering",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hive-digital-technologies-announces-planned-123400223.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-15T01:03:37Z",
-      "image": "https://s.yimg.com/os/en/marketbeat_955/f9ab857dd1214e0728e363888f046903",
-      "slug": "angiodynamics-ceo-touts-debt-free-turnaround-auryon-share-gains-nanoknife-launch-d870168f",
-      "orig_slug": "angiodynamics-ceo-touts-debt-free-turnaround-auryon-share-gains-nanoknife-launch-d870168f"
+      "pubDate": "2026-04-16T12:34:00Z",
+      "image": "https://s.yimg.com/os/en/proactive_us_504/78e0888fe79354779c64a2b3236fa727",
+      "slug": "hive-digital-technologies-announces-planned-75m-exchangeable-notes-offering-e9af879d",
+      "orig_slug": "hive-digital-technologies-announces-planned-75m-exchangeable-notes-offering-e9af879d"
     },
     {
       "title": "Citigroup Lowers International Paper (IP) Target, Flags Tough Packaging Sector Setup",
@@ -324,15 +126,6 @@
       "image": "https://media.zenfs.com/en/insidermonkey.com/878a0e97b04550634ef8008880383fa9",
       "slug": "citigroup-lowers-international-paper-ip-target-flags-tough-packaging-sector-setu-95256592",
       "orig_slug": "citigroup-lowers-international-paper-ip-target-flags-tough-packaging-sector-setu-95256592"
-    },
-    {
-      "title": "Bank of America Cuts Lincoln National (LNC) Target; Mizuho Lowers PT but Stays Bullish",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-cuts-lincoln-national-051325548.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-15T05:13:25Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/23c576a617229d45a71047900d249872",
-      "slug": "bank-of-america-cuts-lincoln-national-lnc-target-mizuho-lowers-pt-but-stays-bull-d5966f66",
-      "orig_slug": "bank-of-america-cuts-lincoln-national-lnc-target-mizuho-lowers-pt-but-stays-bull-d5966f66"
     },
     {
       "title": "Barclays Cuts Kimberly-Clark (KMB) PT to $99 on Input Cost Pressures",
@@ -353,15 +146,6 @@
       "orig_slug": "t-rowe-price-trow-reports-171t-aum-for-march-as-assets-decline-month-over-month-2d798c2c"
     },
     {
-      "title": "Analysts reset Bloom Energy rating as stock explodes higher",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/analysts-reset-bloom-energy-rating-010300716.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-15T01:03:00Z",
-      "image": "https://s.yimg.com/os/en/thestreet_881/26c254455d162901632d61038a9e1e32",
-      "slug": "analysts-reset-bloom-energy-rating-as-stock-explodes-higher-fd57b8db",
-      "orig_slug": "analysts-reset-bloom-energy-rating-as-stock-explodes-higher-fd57b8db"
-    },
-    {
       "title": "Bank of America Cuts Prudential (PRU) Target; Mizuho Also Lowers PT, Stays Neutral",
       "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-cuts-prudential-pru-051953499.html",
       "source": "finance.yahoo.com",
@@ -369,6 +153,285 @@
       "image": "https://media.zenfs.com/en/insidermonkey.com/5805f7ac0dd006ecf1375b33fbe67e7e",
       "slug": "bank-of-america-cuts-prudential-pru-target-mizuho-also-lowers-pt-stays-neutral-8c4b4d44",
       "orig_slug": "bank-of-america-cuts-prudential-pru-target-mizuho-also-lowers-pt-stays-neutral-8c4b4d44"
+    },
+    {
+      "title": "Analyst Report: Sterling Infrastructure Inc",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_6630_AnalystReport_1776337926000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-16T11:12:06Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-sterling-infrastructure-inc-43f24aa8",
+      "orig_slug": "analyst-report-sterling-infrastructure-inc-43f24aa8"
+    },
+    {
+      "title": "1 Vanguard ETF I'm Telling My Kids to Buy and Hold",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-vanguard-etf-im-telling-123000521.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-16T12:30:00Z",
+      "image": "https://s.yimg.com/os/en/motleyfool.com/ecbc1cc168260b70f4527589014cbf8d",
+      "slug": "1-vanguard-etf-im-telling-my-kids-to-buy-and-hold-63fe98dd",
+      "orig_slug": "1-vanguard-etf-im-telling-my-kids-to-buy-and-hold-63fe98dd"
+    },
+    {
+      "title": "TD Cowen Cuts TPG PT Amid Q1 Preview for Asset Managers",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/td-cowen-cuts-tpg-pt-052156797.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-15T05:21:56Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/783d087341468d378a873c1a19102e22",
+      "slug": "td-cowen-cuts-tpg-pt-amid-q1-preview-for-asset-managers-ca6078f9",
+      "orig_slug": "td-cowen-cuts-tpg-pt-amid-q1-preview-for-asset-managers-ca6078f9"
+    },
+    {
+      "title": "Morgan Stanley Raises Enterprise Products (EPD) Target in Midstream Sector Update",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-raises-enterprise-products-052430434.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-15T05:24:30Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/266da5880c0e679d3611df6c50fcd082",
+      "slug": "morgan-stanley-raises-enterprise-products-epd-target-in-midstream-sector-update-a1ff09dd",
+      "orig_slug": "morgan-stanley-raises-enterprise-products-epd-target-in-midstream-sector-update-a1ff09dd"
+    },
+    {
+      "title": "Goldman Sachs Slashes Best Buy (BBY) PT to $59, Warns of Volume and Pricing Risks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-slashes-best-buy-052945133.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-15T05:29:45Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/50a5d23d96dc8487893eb41548776aa7",
+      "slug": "goldman-sachs-slashes-best-buy-bby-pt-to-59-warns-of-volume-and-pricing-risks-ea1319b9",
+      "orig_slug": "goldman-sachs-slashes-best-buy-bby-pt-to-59-warns-of-volume-and-pricing-risks-ea1319b9"
+    },
+    {
+      "title": "UBS Adjusts Pharma Outlook, Increases Pfizer (PFE) Price Target",
+      "link": "https://finance.yahoo.com/sectors/healthcare/articles/ubs-adjusts-pharma-outlook-increases-053200192.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-15T05:32:00Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/aef4b35e5ea946bf7f4ed347e5c4f487",
+      "slug": "ubs-adjusts-pharma-outlook-increases-pfizer-pfe-price-target-9e12000e",
+      "orig_slug": "ubs-adjusts-pharma-outlook-increases-pfizer-pfe-price-target-9e12000e"
+    },
+    {
+      "title": "Analyst Report: Alcon AG",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_5849_AnalystReport_1776337926000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-16T11:12:06Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-alcon-ag-04084f1a",
+      "orig_slug": "analyst-report-alcon-ag-04084f1a"
+    },
+    {
+      "title": "Why Credo Stock Popped Today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-credo-stock-popped-today-023009561.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-15T02:30:09Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/7ba0bc8c737b97969100f4597aca4798",
+      "slug": "why-credo-stock-popped-today-49acd867",
+      "orig_slug": "why-credo-stock-popped-today-49acd867"
+    },
+    {
+      "title": "Suniva to Build 4.5 GW Solar Cell Plant in South Carolina",
+      "link": "https://finance.yahoo.com/sectors/energy/articles/suniva-build-4-5-gw-053531776.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-15T05:35:31Z",
+      "image": "https://s.yimg.com/os/en/oilprice.com/1dab62072b927c0f7de4ae9046b8eb3f",
+      "slug": "suniva-to-build-45-gw-solar-cell-plant-in-south-carolina-0fb91b03",
+      "orig_slug": "suniva-to-build-45-gw-solar-cell-plant-in-south-carolina-0fb91b03"
+    },
+    {
+      "title": "Barclays Maintains Underweight on Campbell’s (CPB), Warns of Earnings Risks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/barclays-maintains-underweight-campbell-cpb-053804033.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-15T05:38:04Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/c8ba788b7c3a30c17814f0e13348356f",
+      "slug": "barclays-maintains-underweight-on-campbells-cpb-warns-of-earnings-risks-20ef6091",
+      "orig_slug": "barclays-maintains-underweight-on-campbells-cpb-warns-of-earnings-risks-20ef6091"
+    },
+    {
+      "title": "New Robotaxi ETF Filing Adds Fuel to Thematic Autonomous Vehicle Funds",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/robotaxi-etf-filing-adds-fuel-040200014.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-15T04:02:00Z",
+      "image": "https://media.zenfs.com/en/the_daily_upside_435/ecafea5a9ceefbdf4ccc5937337e99ae",
+      "slug": "new-robotaxi-etf-filing-adds-fuel-to-thematic-autonomous-vehicle-funds-2c950393",
+      "orig_slug": "new-robotaxi-etf-filing-adds-fuel-to-thematic-autonomous-vehicle-funds-2c950393"
+    },
+    {
+      "title": "Goldman Sachs Follows Morgan Stanley as Latest to Prep Bitcoin ETF",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/goldman-sachs-follows-morgan-stanley-040300538.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-15T04:03:00Z",
+      "image": "https://media.zenfs.com/en/the_daily_upside_435/c972a3b2809406bbb1c51c9e6a250908",
+      "slug": "goldman-sachs-follows-morgan-stanley-as-latest-to-prep-bitcoin-etf-c3129887",
+      "orig_slug": "goldman-sachs-follows-morgan-stanley-as-latest-to-prep-bitcoin-etf-c3129887"
+    },
+    {
+      "title": "Analyst Report: Bank of America Corp",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_2755_AnalystReport_1776337926000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-16T11:12:06Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-bank-of-america-corp-069087e3",
+      "orig_slug": "analyst-report-bank-of-america-corp-069087e3"
+    },
+    {
+      "title": "Anthropic’s rise is giving some OpenAI investors second thoughts",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/anthropic-rise-giving-openai-investors-023104292.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-15T02:31:04Z",
+      "image": "https://media.zenfs.com/en/techcrunch_finance_785/00f08e06ae21fae580f7075284507630",
+      "slug": "anthropics-rise-is-giving-some-openai-investors-second-thoughts-8f9b5ec6",
+      "orig_slug": "anthropics-rise-is-giving-some-openai-investors-second-thoughts-8f9b5ec6"
+    },
+    {
+      "title": "Navigating housing affordability and a rising recession risk: Top economists’ takes on a gummed-up economy",
+      "link": "https://finance.yahoo.com/economy/articles/navigating-housing-affordability-rising-recession-040100333.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-15T04:01:00Z",
+      "image": "https://media.zenfs.com/en/bankrate_626/1f15b21b1abe79255b40258bb64747c7",
+      "slug": "navigating-housing-affordability-and-a-rising-recession-risk-top-economists-take-62bc80aa",
+      "orig_slug": "navigating-housing-affordability-and-a-rising-recession-risk-top-economists-take-62bc80aa"
+    },
+    {
+      "title": "Citigroup Surges as Fraser’s Overhaul Yields 42% Profit Growth",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/citigroup-surges-fraser-overhaul-yields-040100552.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-15T04:01:00Z",
+      "image": "https://media.zenfs.com/en/the_daily_upside_435/620b18f4963c514d00f50548d0b66430",
+      "slug": "citigroup-surges-as-frasers-overhaul-yields-42-profit-growth-400e3f25",
+      "orig_slug": "citigroup-surges-as-frasers-overhaul-yields-42-profit-growth-400e3f25"
+    },
+    {
+      "title": "OpenAI Teams with Novo Nordisk to Speed Prescription Drug Development",
+      "link": "https://finance.yahoo.com/sectors/healthcare/articles/openai-teams-novo-nordisk-speed-040100036.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-15T04:01:00Z",
+      "image": "https://media.zenfs.com/en/the_daily_upside_435/4975b6df7bc076b46ab52991fe2e9d02",
+      "slug": "openai-teams-with-novo-nordisk-to-speed-prescription-drug-development-82c73a70",
+      "orig_slug": "openai-teams-with-novo-nordisk-to-speed-prescription-drug-development-82c73a70"
+    },
+    {
+      "title": "Diversification Topped Plain Vanilla Last Year. That’s an Outlier",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/diversification-topped-plain-vanilla-last-040100828.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-15T04:01:00Z",
+      "image": "https://media.zenfs.com/en/the_daily_upside_435/42bf8961b8f632ad4747099d4c95a58c",
+      "slug": "diversification-topped-plain-vanilla-last-year-thats-an-outlier-a54549bb",
+      "orig_slug": "diversification-topped-plain-vanilla-last-year-thats-an-outlier-a54549bb"
+    },
+    {
+      "title": "Market Digest: BAC, ASML, ALC, STRL",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46747_MarketSummary_1776337926000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-16T11:12:06Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "market-digest-bac-asml-alc-strl-78a9bd42",
+      "orig_slug": "market-digest-bac-asml-alc-strl-78a9bd42"
+    },
+    {
+      "title": "Is Blue Owl's 11% yield under threat amid private credit chaos?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/blue-owls-11-yield-under-021700515.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-15T02:17:00Z",
+      "image": "https://s.yimg.com/os/en/thestreet_881/bdc5825facd1066e49bb2fa4c48e84f6",
+      "slug": "is-blue-owls-11-yield-under-threat-amid-private-credit-chaos-9d75cf71",
+      "orig_slug": "is-blue-owls-11-yield-under-threat-amid-private-credit-chaos-9d75cf71"
+    },
+    {
+      "title": "United Airlines Floats Marriage of Giants with American amid Skyrocketing Jet Fuel Costs",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/united-airlines-floats-marriage-giants-040100038.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-15T04:01:00Z",
+      "image": "https://media.zenfs.com/en/the_daily_upside_435/8e5f355157fe4462413ce735947a951f",
+      "slug": "united-airlines-floats-marriage-of-giants-with-american-amid-skyrocketing-jet-fu-4ff037c2",
+      "orig_slug": "united-airlines-floats-marriage-of-giants-with-american-amid-skyrocketing-jet-fu-4ff037c2"
+    },
+    {
+      "title": "Is Flowers Foods (FLO) One of the 14 Value Stocks with Highest Dividends?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/flowers-foods-flo-one-14-053957729.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-15T05:39:57Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/8eff9c71f1884fe5c37809c479aee404",
+      "slug": "is-flowers-foods-flo-one-of-the-14-value-stocks-with-highest-dividends-dc2bfe6a",
+      "orig_slug": "is-flowers-foods-flo-one-of-the-14-value-stocks-with-highest-dividends-dc2bfe6a"
+    },
+    {
+      "title": "B&G Foods (BGS) – Among the 14 Value Stocks with Highest Dividends",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/b-g-foods-bgs-among-054158535.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-15T05:41:58Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/0574482b326fa38a7b1d6494719c4df5",
+      "slug": "bg-foods-bgs-among-the-14-value-stocks-with-highest-dividends-4bbcaf54",
+      "orig_slug": "bg-foods-bgs-among-the-14-value-stocks-with-highest-dividends-4bbcaf54"
+    },
+    {
+      "title": "3 AI Stocks That Can Outpace the S&P 500 for the Next 5 Years",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-outpace-p-021100914.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-15T02:11:00Z",
+      "image": "https://s.yimg.com/os/en/motleyfool.com/be28ae519b305b030e9be8e5a98058f2",
+      "slug": "3-ai-stocks-that-can-outpace-the-sp-500-for-the-next-5-years-a7ca6034",
+      "orig_slug": "3-ai-stocks-that-can-outpace-the-sp-500-for-the-next-5-years-a7ca6034"
+    },
+    {
+      "title": "Wall Street hits a record as S&P 500 continues its 2-week rally on hopes for an end to the Iran war",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-rise-wall-032629601.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-15T03:26:29Z",
+      "image": "https://media.zenfs.com/en/ap.org/fcd8cac037902d629c617956d43880dd",
+      "slug": "wall-street-hits-a-record-as-sp-500-continues-its-2-week-rally-on-hopes-for-an-e-23687517",
+      "orig_slug": "wall-street-hits-a-record-as-sp-500-continues-its-2-week-rally-on-hopes-for-an-e-23687517"
+    },
+    {
+      "title": "ether.fi’s ETHGas Deal Backs a Bigger Push to Make Ethereum Execution More Predictable",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/ether-fi-ethgas-deal-backs-012400391.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-15T01:24:00Z",
+      "image": "https://s.yimg.com/os/en/cryptoprowl_304/7a6625ce7bbaec2164fd2dfea7502bce",
+      "slug": "etherfis-ethgas-deal-backs-a-bigger-push-to-make-ethereum-execution-more-predict-d3ed35f9",
+      "orig_slug": "etherfis-ethgas-deal-backs-a-bigger-push-to-make-ethereum-execution-more-predict-d3ed35f9"
+    },
+    {
+      "title": "I Have $2.5 Million Invested and Pay a 1% Advisory Fee. Is That Too Expensive?",
+      "link": "https://finance.yahoo.com/news/2-5-million-invested-financial-165616508.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-15T07:00:00Z",
+      "image": "https://s.yimg.com/os/en/smartasset_475/0902ccebae1aeee6d746c98450766276",
+      "slug": "i-have-25-million-invested-and-pay-a-1-advisory-fee-is-that-too-expensive-16910fff",
+      "orig_slug": "i-have-25-million-invested-and-pay-a-1-advisory-fee-is-that-too-expensive-16910fff"
+    },
+    {
+      "title": "Charles Schwab Stock Slides In Base Despite Record Earnings Report",
+      "link": "https://www.investors.com/news/charles-schwab-stock-earnings-q1-2026-cup-base-schw-stock-banks-brokers/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-16T12:21:49Z",
+      "image": "",
+      "slug": "charles-schwab-stock-slides-in-base-despite-record-earnings-report-c51766a4",
+      "orig_slug": "charles-schwab-stock-slides-in-base-despite-record-earnings-report-c51766a4"
+    },
+    {
+      "title": "Daily – Vickers Top Insider Picks for 04/16/2026",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46745_InsiderActivity_1776335446000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-16T10:30:46Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "daily-vickers-top-insider-picks-for-04162026-fd14b054",
+      "orig_slug": "daily-vickers-top-insider-picks-for-04162026-fd14b054"
+    },
+    {
+      "title": "Bassett Furniture Industries Details Growth Plan at WTR Conference: New Stores, E-Commerce, Price Moves",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bassett-furniture-industries-details-growth-050208503.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-15T05:02:08Z",
+      "image": "https://s.yimg.com/os/en/marketbeat_955/395bb74b047dd4e12a97df85c96e7600",
+      "slug": "bassett-furniture-industries-details-growth-plan-at-wtr-conference-new-stores-e--aa394b94",
+      "orig_slug": "bassett-furniture-industries-details-growth-plan-at-wtr-conference-new-stores-e--aa394b94"
+    },
+    {
+      "title": "Susquehanna Trims PT on Fluence Energy (FLNC) to $23",
+      "link": "https://finance.yahoo.com/sectors/energy/articles/susquehanna-trims-pt-fluence-energy-070516021.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-15T07:05:16Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/743383f58a27d44752b039b20f58372d",
+      "slug": "susquehanna-trims-pt-on-fluence-energy-flnc-to-23-2ba9a9fb",
+      "orig_slug": "susquehanna-trims-pt-on-fluence-energy-flnc-to-23-2ba9a9fb"
     }
   ]
 }
