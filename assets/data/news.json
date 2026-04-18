@@ -1,23 +1,275 @@
 {
-  "updated": "2026-04-18T18:34:41Z",
+  "updated": "2026-04-18T19:35:07Z",
   "items": [
     {
-      "title": "Should You Buy Lemonade Stock Before April 29?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/buy-lemonade-stock-april-29-180900807.html",
+      "title": "Oracle adds $100B in market cap on major announcement",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-adds-100b-market-cap-191300427.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-18T18:09:00Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/330008bf418d5b4ef008d7f7da177a57",
-      "slug": "should-you-buy-lemonade-stock-before-april-29-53ba6a2f",
-      "orig_slug": "should-you-buy-lemonade-stock-before-april-29-53ba6a2f"
+      "pubDate": "2026-04-18T19:13:00Z",
+      "image": "https://s.yimg.com/os/en/thestreet_881/539fe544719e5313d09e4a3f1a80934c",
+      "slug": "oracle-adds-100b-in-market-cap-on-major-announcement-aab3efff",
+      "orig_slug": "oracle-adds-100b-in-market-cap-on-major-announcement-aab3efff"
+    },
+    {
+      "title": "Jim Cramer Explains How PepsiCo (PEP)’s CEO Ramon Laguarta Is “Winning With Innovation”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-pepsico-pep-190939084.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-18T19:09:39Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/3587380c0d18c8e8073f212a970e1aef",
+      "slug": "jim-cramer-explains-how-pepsico-peps-ceo-ramon-laguarta-is-winning-with-innovati-613a66db",
+      "orig_slug": "jim-cramer-explains-how-pepsico-peps-ceo-ramon-laguarta-is-winning-with-innovati-613a66db"
+    },
+    {
+      "title": "Jim Cramer on ARMOUR Residential (ARR): “I Don’t Understand Why the Yield’s so High”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-armour-residential-arr-190814839.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-18T19:08:14Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/86b6f1eab4d4c0ffbf065f3a834e0a1b",
+      "slug": "jim-cramer-on-armour-residential-arr-i-dont-understand-why-the-yields-so-high-aed5419c",
+      "orig_slug": "jim-cramer-on-armour-residential-arr-i-dont-understand-why-the-yields-so-high-aed5419c"
+    },
+    {
+      "title": "Jim Cramer Suggests a Caller Not to Sell Venture Global (VG) Shares",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-suggests-caller-not-190718822.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-18T19:07:18Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/c517b12f3958826ffde57cfe2fa1093a",
+      "slug": "jim-cramer-suggests-a-caller-not-to-sell-venture-global-vg-shares-32fabad6",
+      "orig_slug": "jim-cramer-suggests-a-caller-not-to-sell-venture-global-vg-shares-32fabad6"
+    },
+    {
+      "title": "Jim Cramer on Lumen Technologies (LUMN): “I’ve Always Felt That It Was a Decent Spec”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-lumen-technologies-lumn-190621619.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-18T19:06:21Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/04816330227784e99fa139754a436e25",
+      "slug": "jim-cramer-on-lumen-technologies-lumn-ive-always-felt-that-it-was-a-decent-spec-c6d43936",
+      "orig_slug": "jim-cramer-on-lumen-technologies-lumn-ive-always-felt-that-it-was-a-decent-spec-c6d43936"
+    },
+    {
+      "title": "Jim Cramer Says Enphase (ENPH) Has Been a “Disappointment for Too Long”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-enphase-enph-190505757.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-18T19:05:05Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/550b7b32810fca720730932cab25a9bb",
+      "slug": "jim-cramer-says-enphase-enph-has-been-a-disappointment-for-too-long-5378c303",
+      "orig_slug": "jim-cramer-says-enphase-enph-has-been-a-disappointment-for-too-long-5378c303"
+    },
+    {
+      "title": "Jim Cramer Says Madison Air (MAIR) “Can Be Bought Right Here, Right Now”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-madison-air-190340061.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-18T19:03:40Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/f6497930c7732eef3c7d79847d97e1aa",
+      "slug": "jim-cramer-says-madison-air-mair-can-be-bought-right-here-right-now-d3cccfe4",
+      "orig_slug": "jim-cramer-says-madison-air-mair-can-be-bought-right-here-right-now-d3cccfe4"
+    },
+    {
+      "title": "Jim Cramer on Shake Shack (SHAK): “I Know I’m a Believer”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shake-shack-shak-190240288.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-18T19:02:40Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/49de360447d6c3bc2d07313db7578ad2",
+      "slug": "jim-cramer-on-shake-shack-shak-i-know-im-a-believer-2da46805",
+      "orig_slug": "jim-cramer-on-shake-shack-shak-i-know-im-a-believer-2da46805"
+    },
+    {
+      "title": "Better Buy: Bitcoin (BTC) or Bittensor (TAO)?",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/better-buy-bitcoin-btc-bittensor-190100215.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-18T19:01:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/41d66d49dbf87b0beb4829210c92eba2",
+      "slug": "better-buy-bitcoin-btc-or-bittensor-tao-1d5bb3d2",
+      "orig_slug": "better-buy-bitcoin-btc-or-bittensor-tao-1d5bb3d2"
+    },
+    {
+      "title": "Jim Cramer on CAVA: “I Think It Actually Might Be the Next Chipotle”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-cava-think-actually-190043041.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-18T19:00:43Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/2d22beb31b770813a228fb67297cb5d3",
+      "slug": "jim-cramer-on-cava-i-think-it-actually-might-be-the-next-chipotle-1cf55c46",
+      "orig_slug": "jim-cramer-on-cava-i-think-it-actually-might-be-the-next-chipotle-1cf55c46"
+    },
+    {
+      "title": "Jim Cramer Says “Go Buy AMD and Intel Like Everyone Else” During CPU Supply Shortage",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-buy-amd-185947040.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-18T18:59:47Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/1e85b81aa18457637c55df2e7f588803",
+      "slug": "jim-cramer-says-go-buy-amd-and-intel-like-everyone-else-during-cpu-supply-shorta-60e32de4",
+      "orig_slug": "jim-cramer-says-go-buy-amd-and-intel-like-everyone-else-during-cpu-supply-shorta-60e32de4"
+    },
+    {
+      "title": "Jim Cramer Says “Allbirds (BIRD) Wasn’t Even a Successful Shoe Company”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-allbirds-bird-185906165.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-18T18:59:06Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/6bb1d8eb85b54c6b741ba52e7feefdcd",
+      "slug": "jim-cramer-says-allbirds-bird-wasnt-even-a-successful-shoe-company-64caccd4",
+      "orig_slug": "jim-cramer-says-allbirds-bird-wasnt-even-a-successful-shoe-company-64caccd4"
+    },
+    {
+      "title": "Jim Cramer Believes “IBM’s a Terrific Buy Here”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-believes-ibm-terrific-185656714.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-18T18:56:56Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/9ada7a5ae5dc68ceb67a8c2d41077563",
+      "slug": "jim-cramer-believes-ibms-a-terrific-buy-here-a93bf7f9",
+      "orig_slug": "jim-cramer-believes-ibms-a-terrific-buy-here-a93bf7f9"
+    },
+    {
+      "title": "XRP Price: XRP Drops 4% After Hitting $1.50 — Is This a Pullback or the Top?",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/xrp-price-xrp-drops-4-185834379.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-18T18:58:34Z",
+      "image": "https://media.zenfs.com/en/24_7_wall_st__718/9b7b95411dba3082657cbb674a96d14d",
+      "slug": "xrp-price-xrp-drops-4-after-hitting-150-is-this-a-pullback-or-the-top-6b971d04",
+      "orig_slug": "xrp-price-xrp-drops-4-after-hitting-150-is-this-a-pullback-or-the-top-6b971d04"
+    },
+    {
+      "title": "Jim Cramer on GE Vernova (GEV): “We’re Comfortable With the Numbers and the Timeframe”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-ge-vernova-gev-185608725.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-18T18:56:08Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/3d514494e70559fab2160c9e252902be",
+      "slug": "jim-cramer-on-ge-vernova-gev-were-comfortable-with-the-numbers-and-the-timeframe-ecb2fad4",
+      "orig_slug": "jim-cramer-on-ge-vernova-gev-were-comfortable-with-the-numbers-and-the-timeframe-ecb2fad4"
+    },
+    {
+      "title": "Jim Cramer on Vistra (VST): “I’d Buy It”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-vistra-vst-d-185446510.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-18T18:54:46Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/f6497930c7732eef3c7d79847d97e1aa",
+      "slug": "jim-cramer-on-vistra-vst-id-buy-it-036a0709",
+      "orig_slug": "jim-cramer-on-vistra-vst-id-buy-it-036a0709"
+    },
+    {
+      "title": "Jim Cramer on Fastly (FSLY): “I Think It’s a Buy”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-fastly-fsly-think-185344344.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-18T18:53:44Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/753cb9cb32336de8f86289f7a7c7b36e",
+      "slug": "jim-cramer-on-fastly-fsly-i-think-its-a-buy-50c7351b",
+      "orig_slug": "jim-cramer-on-fastly-fsly-i-think-its-a-buy-50c7351b"
+    },
+    {
+      "title": "Truist Sees Strong Growth Ahead for Salesforce (CRM), Keeps Buy Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/truist-sees-strong-growth-ahead-185213393.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-18T18:52:13Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/bb83c4cf6e17dcd0f8e57f62df9e0417",
+      "slug": "truist-sees-strong-growth-ahead-for-salesforce-crm-keeps-buy-rating-7bd6d89c",
+      "orig_slug": "truist-sees-strong-growth-ahead-for-salesforce-crm-keeps-buy-rating-7bd6d89c"
+    },
+    {
+      "title": "Oppenheimer Cuts ServiceNow (NOW) Price Target, Keeps Outperform Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-cuts-servicenow-now-price-185055641.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-18T18:50:55Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/51263d3d0f4c550afb6e0dbf3b80d1d9",
+      "slug": "oppenheimer-cuts-servicenow-now-price-target-keeps-outperform-rating-279949cd",
+      "orig_slug": "oppenheimer-cuts-servicenow-now-price-target-keeps-outperform-rating-279949cd"
+    },
+    {
+      "title": "Barclays and Evercore Stay Positive on Danaher (DHR) Despite Cutting Price Targets",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/barclays-evercore-stay-positive-danaher-185018221.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-18T18:50:18Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/1329434e26e794dd4fa201803012e840",
+      "slug": "barclays-and-evercore-stay-positive-on-danaher-dhr-despite-cutting-price-targets-ca7c7c60",
+      "orig_slug": "barclays-and-evercore-stay-positive-on-danaher-dhr-despite-cutting-price-targets-ca7c7c60"
+    },
+    {
+      "title": "Visa (V) Launches Validator Node on Tempo Network",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/visa-v-launches-validator-node-184939595.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-18T18:49:39Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/f2da9dc56e77ef9dba35373692ffebb2",
+      "slug": "visa-v-launches-validator-node-on-tempo-network-379573b8",
+      "orig_slug": "visa-v-launches-validator-node-on-tempo-network-379573b8"
+    },
+    {
+      "title": "Broadcom (AVGO) Ranks Among Unrivaled Stocks of the Next 5 Years",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-ranks-among-unrivaled-184858144.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-18T18:48:58Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/4a31470717140dc0b5330d507cacd0ab",
+      "slug": "broadcom-avgo-ranks-among-unrivaled-stocks-of-the-next-5-years-74bf1512",
+      "orig_slug": "broadcom-avgo-ranks-among-unrivaled-stocks-of-the-next-5-years-74bf1512"
+    },
+    {
+      "title": "BofA Raises TSMC Price Target on Strong Outlook, Keeps Buy Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-raises-tsmc-price-target-184809413.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-18T18:48:09Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/2ecaf7f4d4cc0e1d59ae541195d3e665",
+      "slug": "bofa-raises-tsmc-price-target-on-strong-outlook-keeps-buy-rating-3bd056a4",
+      "orig_slug": "bofa-raises-tsmc-price-target-on-strong-outlook-keeps-buy-rating-3bd056a4"
+    },
+    {
+      "title": "Meta Platforms (META) Expands AI Chip Deal with Broadcom",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/meta-platforms-meta-expands-ai-184721791.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-18T18:47:21Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/f6f178ce5932ec386ee19c63f9fc1947",
+      "slug": "meta-platforms-meta-expands-ai-chip-deal-with-broadcom-6f50b5c6",
+      "orig_slug": "meta-platforms-meta-expands-ai-chip-deal-with-broadcom-6f50b5c6"
+    },
+    {
+      "title": "Berkshire Hathaway’s new CEO just made a move Buffett never did",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-ceo-just-made-184700753.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-18T18:47:00Z",
+      "image": "https://s.yimg.com/os/en/thestreet_881/21e9499717ffddc9cdc53cab58c9408e",
+      "slug": "berkshire-hathaways-new-ceo-just-made-a-move-buffett-never-did-8566af76",
+      "orig_slug": "berkshire-hathaways-new-ceo-just-made-a-move-buffett-never-did-8566af76"
+    },
+    {
+      "title": "Is Microsoft (MSFT) One of the Best Unrivaled Stocks of the Next 5 Years?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-one-best-unrivaled-184144197.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-18T18:41:44Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/8357d4801c2f5a834455cbcc99383b11",
+      "slug": "is-microsoft-msft-one-of-the-best-unrivaled-stocks-of-the-next-5-years-7bd5dc0e",
+      "orig_slug": "is-microsoft-msft-one-of-the-best-unrivaled-stocks-of-the-next-5-years-7bd5dc0e"
+    },
+    {
+      "title": "Amazon.com, Inc. (AMZN) : One of the Top Unrivaled Stocks of the Next 5 Years?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-inc-amzn-one-184031397.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-18T18:40:31Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/90e386a06858d8b4751ec77797010aed",
+      "slug": "amazoncom-inc-amzn-one-of-the-top-unrivaled-stocks-of-the-next-5-years-7d51134d",
+      "orig_slug": "amazoncom-inc-amzn-one-of-the-top-unrivaled-stocks-of-the-next-5-years-7d51134d"
     },
     {
       "title": "How Will Dow Jones Futures, Oil Prices React As Iran, Hormuz News Turns?",
       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-strait-of-hormuz-tesla-earnings/?src=A00220&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-18T17:33:40Z",
+      "pubDate": "2026-04-18T18:40:17Z",
       "image": "",
       "slug": "how-will-dow-jones-futures-oil-prices-react-as-iran-hormuz-news-turns-1d96ae01",
       "orig_slug": "how-will-dow-jones-futures-oil-prices-react-as-iran-hormuz-news-turns-1d96ae01"
+    },
+    {
+      "title": "Here’s What RBC Capital Has to Say About Tesla (TSLA)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-capital-tesla-tsla-182608514.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-18T18:26:08Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/1277c6032fd09b727a10249a170024cf",
+      "slug": "heres-what-rbc-capital-has-to-say-about-tesla-tsla-f6032f2f",
+      "orig_slug": "heres-what-rbc-capital-has-to-say-about-tesla-tsla-f6032f2f"
+    },
+    {
+      "title": "SpaceX vs. Rocket Lab: Which One Will Dominate the Next Decade?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-vs-rocket-lab-one-184300406.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-18T18:43:00Z",
+      "image": "https://s.yimg.com/os/en/motleyfool.com/de129bbc29cb6f31819464a394d638c2",
+      "slug": "spacex-vs-rocket-lab-which-one-will-dominate-the-next-decade-27671385",
+      "orig_slug": "spacex-vs-rocket-lab-which-one-will-dominate-the-next-decade-27671385"
     },
     {
       "title": "Inside the Race to Control the World’s Lithium Supply",
@@ -47,15 +299,6 @@
       "orig_slug": "x-says-cashtags-drove-1-billion-in-trading-volume-within-two-days-4711c56c"
     },
     {
-      "title": "Social media giant lays off 1,000 amid AI shift",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/social-media-giant-lays-off-180300652.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-18T18:03:00Z",
-      "image": "https://s.yimg.com/os/en/thestreet_881/8fbd971a4d231756929128794349d6d2",
-      "slug": "social-media-giant-lays-off-1000-amid-ai-shift-46269402",
-      "orig_slug": "social-media-giant-lays-off-1000-amid-ai-shift-46269402"
-    },
-    {
       "title": "'A terrible reverse lottery,' says Los Angeles victim of employment identity theft — what do to if it happens to you",
       "link": "https://finance.yahoo.com/economy/policy/articles/terrible-reverse-lottery-says-los-150500248.html",
       "source": "finance.yahoo.com",
@@ -65,85 +308,31 @@
       "orig_slug": "a-terrible-reverse-lottery-says-los-angeles-victim-of-employment-identity-theft--da011ce8"
     },
     {
-      "title": "This 20-year-old lotto winner chose $1000/week for life over $1M in cash. Here’s why the internet says that’s a mistake",
-      "link": "https://finance.yahoo.com/markets/options/articles/20-old-lotto-winner-chose-141500397.html",
+      "title": "Gotta Know the Lingo, Vol. 8",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/gotta-know-lingo-vol-8-183901794.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-18T14:15:00Z",
-      "image": "https://s.yimg.com/os/en/moneywise_ecomm_711/730bfae66acf7d698ab7365dded00bec",
-      "slug": "this-20-year-old-lotto-winner-chose-1000week-for-life-over-1m-in-cash-heres-why--53f35919",
-      "orig_slug": "this-20-year-old-lotto-winner-chose-1000week-for-life-over-1m-in-cash-heres-why--53f35919"
-    },
-    {
-      "title": "'No tax on tips' wasn't meant to help people buy homes — but 4 million tipped workers could benefit",
-      "link": "https://finance.yahoo.com/economy/policy/articles/no-tax-tips-wasnt-meant-140500628.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-18T14:05:00Z",
-      "image": "https://media.zenfs.com/en/moneywise_327/f8c41ec49545af9d512a2427b9adbe5a",
-      "slug": "no-tax-on-tips-wasnt-meant-to-help-people-buy-homes-but-4-million-tipped-workers-7b75e380",
-      "orig_slug": "no-tax-on-tips-wasnt-meant-to-help-people-buy-homes-but-4-million-tipped-workers-7b75e380"
-    },
-    {
-      "title": "Stock Market Week Ahead: Looking Beyond The Iran War",
-      "link": "https://www.investors.com/research/investing-action-plan/stock-market-looking-beyond-the-iran-war-tesla-boeing-intel/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-18T13:30:47Z",
-      "image": "",
-      "slug": "stock-market-week-ahead-looking-beyond-the-iran-war-0549f245",
-      "orig_slug": "stock-market-week-ahead-looking-beyond-the-iran-war-0549f245"
-    },
-    {
-      "title": "6 crypto predictions for 2026, according to analysts",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/6-crypto-predictions-2026-according-100000171.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-18T18:00:00Z",
-      "image": "https://media.zenfs.com/en/quartz_855/6be44797bd3cca33b3b98fbc9688d239",
-      "slug": "6-crypto-predictions-for-2026-according-to-analysts-0899134e",
-      "orig_slug": "6-crypto-predictions-for-2026-according-to-analysts-0899134e"
-    },
-    {
-      "title": "The million dollar retirement planning question: How long will you live?",
-      "link": "https://finance.yahoo.com/economy/article/the-million-dollar-retirement-planning-question-how-long-will-you-live-132449323.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-18T13:24:49Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/5rDGejzpf5hUnr1H1FouLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-04/36d4a38a-2c3d-4948-a297-915beae47039",
-      "slug": "the-million-dollar-retirement-planning-question-how-long-will-you-live-c3a110a8",
-      "orig_slug": "the-million-dollar-retirement-planning-question-how-long-will-you-live-c3a110a8"
-    },
-    {
-      "title": "COVID-era homeowners are still hanging on to their ultra-low-rate mortgages",
-      "link": "https://finance.yahoo.com/sectors/real-estate/article/covid-era-homeowners-are-still-hanging-on-to-their-ultra-low-rate-mortgages-100000105.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-15T10:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/4YCvZ1GVnf9iDhSK.89I9A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-04/028a423c-8c5e-4751-9352-518e9198c0c7",
-      "slug": "covid-era-homeowners-are-still-hanging-on-to-their-ultra-low-rate-mortgages-c9db0a06",
-      "orig_slug": "covid-era-homeowners-are-still-hanging-on-to-their-ultra-low-rate-mortgages-c9db0a06"
-    },
-    {
-      "title": "The stock market’s most hated rally keeps getting stronger",
-      "link": "https://finance.yahoo.com/news/the-stock-markets-most-hated-rally-keeps-getting-stronger-130213393.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-18T13:02:13Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/1.GB4BgkKnbNtGJ3N82gVw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-04/1e7feea0-3b27-11f1-937b-42beb14a9dfe",
-      "slug": "the-stock-markets-most-hated-rally-keeps-getting-stronger-2552b958",
-      "orig_slug": "the-stock-markets-most-hated-rally-keeps-getting-stronger-2552b958"
+      "pubDate": "2026-04-18T18:39:01Z",
+      "image": "https://s.yimg.com/os/en/motleyfool.com/8ad7824976b903ace413d6d6e989cb50",
+      "slug": "gotta-know-the-lingo-vol-8-5b43619c",
+      "orig_slug": "gotta-know-the-lingo-vol-8-5b43619c"
     },
     {
       "title": "No tax on overtime: How the new deduction works",
       "link": "https://finance.yahoo.com/personal-finance/taxes/article/no-tax-on-overtime-184850223.html",
       "source": "finance.yahoo.com",
       "pubDate": "2026-02-25T18:48:50Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/7QE1NNV2LIIxrqPGjNo8Og--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-03/fcf40630-09a5-11f0-9b11-4284e5cd8fa4",
+      "image": "https://s.yimg.com/ny/api/res/1.2/jUO5uH7G2kGNB9iUodkUjQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-03/fcf40630-09a5-11f0-9b11-4284e5cd8fa4",
       "slug": "no-tax-on-overtime-how-the-new-deduction-works-4e6630be",
       "orig_slug": "no-tax-on-overtime-how-the-new-deduction-works-4e6630be"
     },
     {
-      "title": "The Three Numbers That Determine If Your Social Security Gets Taxed",
-      "link": "https://finance.yahoo.com/economy/policy/articles/three-numbers-determine-social-security-175003093.html",
+      "title": "Wells Fargo Active Cash Card review: Unlimited 2% cash rewards and generous intro APR",
+      "link": "https://finance.yahoo.com/personal-finance/credit-cards/review/wells-fargo-active-cash-card-180512515.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-18T17:50:03Z",
-      "image": "https://media.zenfs.com/en/24_7_wall_st__718/16e72d86629dd835604d22ab1d357138",
-      "slug": "the-three-numbers-that-determine-if-your-social-security-gets-taxed-5c367826",
-      "orig_slug": "the-three-numbers-that-determine-if-your-social-security-gets-taxed-5c367826"
+      "pubDate": "2025-12-01T18:05:12Z",
+      "image": "https://s.yimg.com/os/creatr-uploaded-images/2024-11/51445a30-9aef-11ef-b1ff-05431fb3d446",
+      "slug": "wells-fargo-active-cash-card-review-unlimited-2-cash-rewards-and-generous-intro--6657c5e5",
+      "orig_slug": "wells-fargo-active-cash-card-review-unlimited-2-cash-rewards-and-generous-intro--6657c5e5"
     },
     {
       "title": "Chase Freedom Unlimited review: Boost your cash-back rewards on everyday spending",
@@ -159,18 +348,18 @@
       "link": "https://finance.yahoo.com/personal-finance/student-loans/article/do-i-qualify-for-student-loan-forgiveness-whats-changed-under-trump-174637306.html",
       "source": "finance.yahoo.com",
       "pubDate": "2024-02-21T17:46:37Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/._92KjIJf8E4MoX5r2vEOQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-images/2020-02/b8182070-4e5f-11ea-bf94-388b027af310",
+      "image": "https://s.yimg.com/ny/api/res/1.2/cFy39.._Gbtr8d214Y_bmw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-images/2020-02/b8182070-4e5f-11ea-bf94-388b027af310",
       "slug": "do-i-qualify-for-student-loan-forgiveness-whats-changed-under-trump-a6db3551",
       "orig_slug": "do-i-qualify-for-student-loan-forgiveness-whats-changed-under-trump-a6db3551"
     },
     {
-      "title": "Wells Fargo Active Cash Card review: Unlimited 2% cash rewards and generous intro APR",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/review/wells-fargo-active-cash-card-180512515.html",
+      "title": "2 Stocks to Buy This Week With $1 Trillion Upside Potential",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-stocks-buy-week-1-183500125.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-12-01T18:05:12Z",
-      "image": "https://s.yimg.com/os/creatr-uploaded-images/2024-11/51445a30-9aef-11ef-b1ff-05431fb3d446",
-      "slug": "wells-fargo-active-cash-card-review-unlimited-2-cash-rewards-and-generous-intro--6657c5e5",
-      "orig_slug": "wells-fargo-active-cash-card-review-unlimited-2-cash-rewards-and-generous-intro--6657c5e5"
+      "pubDate": "2026-04-18T18:35:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/1f340bcc3df9c5588236602fa029edf0",
+      "slug": "2-stocks-to-buy-this-week-with-1-trillion-upside-potential-18e6c583",
+      "orig_slug": "2-stocks-to-buy-this-week-with-1-trillion-upside-potential-18e6c583"
     },
     {
       "title": "The SAVE plan is gone. Here's what student loan borrowers need to do next.",
@@ -182,42 +371,6 @@
       "orig_slug": "the-save-plan-is-gone-heres-what-student-loan-borrowers-need-to-do-next-8af3f389"
     },
     {
-      "title": "Retail Sentiment on TMC Has Flipped Bullish Even as the Stock Sits 17% Down This Year",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/retail-sentiment-tmc-flipped-bullish-175000419.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-18T17:50:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/91f9dec7a6bbf33a6b4487f8ed028e04",
-      "slug": "retail-sentiment-on-tmc-has-flipped-bullish-even-as-the-stock-sits-17-down-this--b73520b6",
-      "orig_slug": "retail-sentiment-on-tmc-has-flipped-bullish-even-as-the-stock-sits-17-down-this--b73520b6"
-    },
-    {
-      "title": "It's not just gas prices. How the Iran war is coming for your grocery bill.",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/its-not-just-gas-prices-how-the-iran-war-is-coming-for-your-grocery-bill-135110743.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-16T13:51:10Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/mpYk3itYjmPmAMkS01Vp5w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-04/a3f7bdab-24d8-4f45-b6fb-5f7137469835",
-      "slug": "its-not-just-gas-prices-how-the-iran-war-is-coming-for-your-grocery-bill-4e5ec85c",
-      "orig_slug": "its-not-just-gas-prices-how-the-iran-war-is-coming-for-your-grocery-bill-4e5ec85c"
-    },
-    {
-      "title": "When will gas prices go back down? Experts weigh in on where things are headed.",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/when-will-gas-prices-go-back-down-experts-weigh-in-on-where-things-are-headed-154506676.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-14T15:45:06Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/7_vCyTSX1g3vCrn.orGUKA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-04/0eabeae1-1d8d-4e30-b554-25332ed68362",
-      "slug": "when-will-gas-prices-go-back-down-experts-weigh-in-on-where-things-are-headed-ad9cc763",
-      "orig_slug": "when-will-gas-prices-go-back-down-experts-weigh-in-on-where-things-are-headed-ad9cc763"
-    },
-    {
-      "title": "Best CD rates today, April 18, 2026 (best account provides 4.05% APY)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-april-18-2026-100000449.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-18T10:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/ovrcHtWjuWeW708CWElIWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47af0d0-4f64-11ef-a7fe-afb55aa695d3",
-      "slug": "best-cd-rates-today-april-18-2026-best-account-provides-405-apy-116bae19",
-      "orig_slug": "best-cd-rates-today-april-18-2026-best-account-provides-405-apy-116bae19"
-    },
-    {
       "title": "Best high-yield savings interest rates today, April 18, 2026 (Earn up to 4.1% APY)",
       "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-saturday-april-18-2026-100000204.html",
       "source": "finance.yahoo.com",
@@ -225,159 +378,6 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/aRDcY28ieSeI9vEdf5zsPA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/ca22a990-4b79-11ef-bb75-05cc1913c137",
       "slug": "best-high-yield-savings-interest-rates-today-april-18-2026-earn-up-to-41-apy-95095e77",
       "orig_slug": "best-high-yield-savings-interest-rates-today-april-18-2026-earn-up-to-41-apy-95095e77"
-    },
-    {
-      "title": "JPMorgan has stark message on Qualcomm stock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-stark-message-qualcomm-stock-174700656.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-18T17:47:00Z",
-      "image": "https://s.yimg.com/os/en/thestreet_881/f59a6069ca477eb3ae0e7ab3dd2e2dc8",
-      "slug": "jpmorgan-has-stark-message-on-qualcomm-stock-86cc3a37",
-      "orig_slug": "jpmorgan-has-stark-message-on-qualcomm-stock-86cc3a37"
-    },
-    {
-      "title": "Best money market account rates today, April 18, 2026 (best account provides 4.01% APY)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-saturday-april-18-2026-100000541.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-18T10:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/1gnEffC_diUf7T.3YhMnWA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-04/678943f0-1cdb-11f0-bfb7-b3f563b0ea90",
-      "slug": "best-money-market-account-rates-today-april-18-2026-best-account-provides-401-ap-ae6e55a4",
-      "orig_slug": "best-money-market-account-rates-today-april-18-2026-best-account-provides-401-ap-ae6e55a4"
-    },
-    {
-      "title": "Mortgage and refinance interest rates today, April 18, 2026: Lowest in 5 weeks",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-saturday-april-18-2026-100000908.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-18T10:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/fK9okicBoD2VGZ7E4.6v7w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/86ef4c20-03dd-11ef-b7af-5ddf7b57fe6e",
-      "slug": "mortgage-and-refinance-interest-rates-today-april-18-2026-lowest-in-5-weeks-abb3e10d",
-      "orig_slug": "mortgage-and-refinance-interest-rates-today-april-18-2026-lowest-in-5-weeks-abb3e10d"
-    },
-    {
-      "title": "HELOC and home equity loan rates Saturday, April 18, 2026: Rates unlikely to move much for months",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-saturday-april-18-2026-100000101.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-18T10:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/2LCq4ex4ClUULr_8hLp4GQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-06/dc14d470-3ff7-11f0-8ff7-510b29e3a941",
-      "slug": "heloc-and-home-equity-loan-rates-saturday-april-18-2026-rates-unlikely-to-move-m-d8e3bee7",
-      "orig_slug": "heloc-and-home-equity-loan-rates-saturday-april-18-2026-rates-unlikely-to-move-m-d8e3bee7"
-    },
-    {
-      "title": "How to choose a gold IRA company: 6 things to look for",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-ira-companies-130000552.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-17T13:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/YWiRbihp.mnADr4Wjo3vKg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/6a9d1d80-7580-11ef-bbfb-2dd54aab7211",
-      "slug": "how-to-choose-a-gold-ira-company-6-things-to-look-for-672c7aa4",
-      "orig_slug": "how-to-choose-a-gold-ira-company-6-things-to-look-for-672c7aa4"
-    },
-    {
-      "title": "Why This China Internet ETF Pays Monthly but Caps Your Gains",
-      "link": "https://finance.yahoo.com/markets/options/articles/why-china-internet-etf-pays-174324644.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-18T17:43:24Z",
-      "image": "https://s.yimg.com/os/en/24_7_wall_st__718/92da55725e4395fa3ebd3df2d60c7505",
-      "slug": "why-this-china-internet-etf-pays-monthly-but-caps-your-gains-a0cf3f0f",
-      "orig_slug": "why-this-china-internet-etf-pays-monthly-but-caps-your-gains-a0cf3f0f"
-    },
-    {
-      "title": "Bitcoin and ethereum prices today, Friday, April 17, 2026: Higher prices hold with ceasefire in effect",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-april-17-2026-higher-prices-hold-with-ceasefire-in-effect-114918376.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-17T11:49:18Z",
-      "image": "https://s.yimg.com/uu/api/res/1.2/g2FYNRdQidSyHITH_Hia0Q--~B/aD0zNzc7dz02MTI7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/bitcoin_2_9860.jpg",
-      "slug": "bitcoin-and-ethereum-prices-today-friday-april-17-2026-higher-prices-hold-with-c-18b6c383",
-      "orig_slug": "bitcoin-and-ethereum-prices-today-friday-april-17-2026-higher-prices-hold-with-c-18b6c383"
-    },
-    {
-      "title": "Gold and silver prices today, Friday, April 17: Prices holding steady after ceasefire announcement",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-and-silver-prices-today-friday-april-17-prices-holding-steady-after-ceasefire-announcement-111212881.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-17T11:12:12Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/dccUmzxNjbs2zx5DZhBy3g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD01MDY7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-04/3aaf01ac-19a4-495f-86f3-45ac8925bf2e",
-      "slug": "gold-and-silver-prices-today-friday-april-17-prices-holding-steady-after-ceasefi-27358e34",
-      "orig_slug": "gold-and-silver-prices-today-friday-april-17-prices-holding-steady-after-ceasefi-27358e34"
-    },
-    {
-      "title": "Best high-yield savings interest rates today, April 17, 2026 (up to 4.1% APY return)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-friday-april-17-2026-100000948.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-17T10:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/KX5Yg9ZDTjRszsDd7z2jVw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2024-07/822c7220-4eb6-11ef-afbf-4972cf7de987",
-      "slug": "best-high-yield-savings-interest-rates-today-april-17-2026-up-to-41-apy-return-a830652e",
-      "orig_slug": "best-high-yield-savings-interest-rates-today-april-17-2026-up-to-41-apy-return-a830652e"
-    },
-    {
-      "title": "Best CD rates today, April 17, 2026 (up to 4.05% APY return)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-april-17-2026-100000543.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-17T10:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/_3wvdrOh9xDkrkWGFwTB3g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47b17e2-4f64-11ef-afbf-1041709cf169",
-      "slug": "best-cd-rates-today-april-17-2026-up-to-405-apy-return-219f8928",
-      "orig_slug": "best-cd-rates-today-april-17-2026-up-to-405-apy-return-219f8928"
-    },
-    {
-      "title": "I Asked ChatGPT How the Stock Market Would Look If We Ignored the 7 Biggest Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/asked-chatgpt-stock-market-look-173906448.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-18T17:39:06Z",
-      "image": "https://media.zenfs.com/en/gobankingrates_644/cc2ce462b61a477aad6affc6f5a64a9f",
-      "slug": "i-asked-chatgpt-how-the-stock-market-would-look-if-we-ignored-the-7-biggest-stoc-e44e007b",
-      "orig_slug": "i-asked-chatgpt-how-the-stock-market-would-look-if-we-ignored-the-7-biggest-stoc-e44e007b"
-    },
-    {
-      "title": "Mortgage and refinance interest rates today, April 17, 2026: Buying power 'better than a year ago'",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-friday-april-17-2026-100000831.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-17T10:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/ApbmWcFRcN00QsO93gHqNw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2024-04/c36fbdb0-0289-11ef-be8f-4e0451f1fa09",
-      "slug": "mortgage-and-refinance-interest-rates-today-april-17-2026-buying-power-better-th-3f94a5d0",
-      "orig_slug": "mortgage-and-refinance-interest-rates-today-april-17-2026-buying-power-better-th-3f94a5d0"
-    },
-    {
-      "title": "HELOC and home equity loan rates today, April 17, 2026: Tap your homeownership value in cash",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-friday-april-17-2026-100000534.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-17T10:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/7.WxmNrXs8BvNBuj5GugWQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-06/eb4e4990-4262-11f0-b61f-fecabc8eb879",
-      "slug": "heloc-and-home-equity-loan-rates-today-april-17-2026-tap-your-homeownership-valu-a3598810",
-      "orig_slug": "heloc-and-home-equity-loan-rates-today-april-17-2026-tap-your-homeownership-valu-a3598810"
-    },
-    {
-      "title": "Best money market account rates today, April 17, 2026 (up to 4.01% APY return)",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-friday-april-17-2026-100000051.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-17T10:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/q26qaXZZx81OTZzifVtZuQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-04/0ef34f60-1be6-11f0-a17f-e52542084249",
-      "slug": "best-money-market-account-rates-today-april-17-2026-up-to-401-apy-return-e0ec3eb7",
-      "orig_slug": "best-money-market-account-rates-today-april-17-2026-up-to-401-apy-return-e0ec3eb7"
-    },
-    {
-      "title": "Bank of America Travel Rewards Credit Card review: Hassle-free rewards and no annual fee",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/review/bank-of-america-travel-rewards-credit-card-215409837.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-16T21:54:09Z",
-      "image": "https://s.yimg.com/uu/api/res/1.2/xdMtS5g.syRBeiAQRuTHAA--~B/aD02NDA7dz05NjA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/bank_of_america_travel_rewards_credit_card_review_7276.png",
-      "slug": "bank-of-america-travel-rewards-credit-card-review-hassle-free-rewards-and-no-ann-f2ba4ca4",
-      "orig_slug": "bank-of-america-travel-rewards-credit-card-review-hassle-free-rewards-and-no-ann-f2ba4ca4"
-    },
-    {
-      "title": "Will There Ever Be Another Dogecoin or Shiba Inu?",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/ever-another-dogecoin-shiba-inu-173500841.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-18T17:35:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/21f7ecc4e08460eea9c726309c4ea287",
-      "slug": "will-there-ever-be-another-dogecoin-or-shiba-inu-801ddcf7",
-      "orig_slug": "will-there-ever-be-another-dogecoin-or-shiba-inu-801ddcf7"
-    },
-    {
-      "title": "These 6 banks offer CDs with no minimum deposit requirement",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/cds-with-no-minimum-deposit-213715041.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-02-28T21:37:15Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/L197_EF2.smh7L84Lct4ww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MjI-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/2d087bb0-bc6a-11ee-b9bf-5a65ffb6caaa",
-      "slug": "these-6-banks-offer-cds-with-no-minimum-deposit-requirement-386cfb40",
-      "orig_slug": "these-6-banks-offer-cds-with-no-minimum-deposit-requirement-386cfb40"
     }
   ]
 }
