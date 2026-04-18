@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18T04:24:40Z",
+  "updated": "2026-04-18T06:08:04Z",
   "items": [
     {
       "title": "127-year-old retailer confirms more cuts in 2026",
@@ -11,301 +11,13 @@
       "orig_slug": "127-year-old-retailer-confirms-more-cuts-in-2026-bd9cba11"
     },
     {
-      "title": "AMD, Onsemi, Semtech Latest Chip Stocks To Break Out",
-      "link": "https://www.investors.com/news/technology/amd-stock-onsemi-latest-chip-stocks-to-break-out/?src=A00220&yptr=yahoo",
+      "title": "Oil Markets Reprice War Risk After Congress Rejects Iran Pullback",
+      "link": "https://finance.yahoo.com/sectors/energy/articles/oil-markets-reprice-war-risk-230000668.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-16T21:08:56Z",
-      "image": "",
-      "slug": "amd-onsemi-semtech-latest-chip-stocks-to-break-out-feb94e75",
-      "orig_slug": "amd-onsemi-semtech-latest-chip-stocks-to-break-out-feb94e75"
-    },
-    {
-      "title": "Netflix Stock Sinks On Soft Guidance After Q1 Beat",
-      "link": "https://www.investors.com/news/technology/netflix-stock-nflx-q1-2026-earnings/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-16T21:04:03Z",
-      "image": "",
-      "slug": "netflix-stock-sinks-on-soft-guidance-after-q1-beat-e2b4672c",
-      "orig_slug": "netflix-stock-sinks-on-soft-guidance-after-q1-beat-e2b4672c"
-    },
-    {
-      "title": "Microsoft Stock Up After Analysts Reset Expectations",
-      "link": "https://www.investors.com/news/technology/microsoft-stock-msft-analysts-reset-expectations/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-16T21:02:37Z",
-      "image": "",
-      "slug": "microsoft-stock-up-after-analysts-reset-expectations-47e7dc3a",
-      "orig_slug": "microsoft-stock-up-after-analysts-reset-expectations-47e7dc3a"
-    },
-    {
-      "title": "Daily ETF Flows: Investors Buy XLE",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/daily-etf-flows-investors-buy-210007723.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-16T21:00:07Z",
-      "image": "https://s.yimg.com/os/en/indexuniverse.com/1d45f9488d95ad21b16acbe33a9dfed0",
-      "slug": "daily-etf-flows-investors-buy-xle-52663cf6",
-      "orig_slug": "daily-etf-flows-investors-buy-xle-52663cf6"
-    },
-    {
-      "title": "Footwear chain shutters more than 150 stores as mall traffic shifts",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/footwear-chain-shutters-more-150-191328212.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-16T19:13:28Z",
-      "image": "https://s.yimg.com/os/en/thestreet_881/912ecdca8ffd6d977ad19d82c4cb6b85",
-      "slug": "footwear-chain-shutters-more-than-150-stores-as-mall-traffic-shifts-7ee920c1",
-      "orig_slug": "footwear-chain-shutters-more-than-150-stores-as-mall-traffic-shifts-7ee920c1"
-    },
-    {
-      "title": "Chip Foundry TSMC Beats First-Quarter Targets, Guides Up",
-      "link": "https://www.investors.com/news/technology/tsm-stock-tsmc-q1-2026-earnings/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-16T20:57:26Z",
-      "image": "",
-      "slug": "chip-foundry-tsmc-beats-first-quarter-targets-guides-up-eca63167",
-      "orig_slug": "chip-foundry-tsmc-beats-first-quarter-targets-guides-up-eca63167"
-    },
-    {
-      "title": "Petrobras Board Vote Looms as Brazil Balances Fuel Prices and Politics",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/petrobras-board-vote-looms-brazil-214235746.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-16T21:42:35Z",
-      "image": "https://s.yimg.com/os/en/oilprice.com/1de173ea0976475ef0ed9c107fcd073d",
-      "slug": "petrobras-board-vote-looms-as-brazil-balances-fuel-prices-and-politics-a641d4fc",
-      "orig_slug": "petrobras-board-vote-looms-as-brazil-balances-fuel-prices-and-politics-a641d4fc"
-    },
-    {
-      "title": "Soybeans Close Mixed on Thursday",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/soybeans-close-mixed-thursday-214205530.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-16T21:42:05Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/49abfa71445370152af353463593f744",
-      "slug": "soybeans-close-mixed-on-thursday-7543f34a",
-      "orig_slug": "soybeans-close-mixed-on-thursday-7543f34a"
-    },
-    {
-      "title": "Cotton Rally Extends to Thursday",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/cotton-rally-extends-thursday-214205688.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-16T21:42:05Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/f597045077aea51f4674f567991c18ad",
-      "slug": "cotton-rally-extends-to-thursday-a1c829ce",
-      "orig_slug": "cotton-rally-extends-to-thursday-a1c829ce"
-    },
-    {
-      "title": "Hershey wants to make more than candy",
-      "link": "https://finance.yahoo.com/sectors/healthcare/articles/hershey-wants-more-candy-183300214.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-16T18:33:00Z",
-      "image": "https://s.yimg.com/os/en/thestreet_881/05e92491a0446b66437759c28bf2ba56",
-      "slug": "hershey-wants-to-make-more-than-candy-3e97efe9",
-      "orig_slug": "hershey-wants-to-make-more-than-candy-3e97efe9"
-    },
-    {
-      "title": "Corn Slips Lower on Thursday",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/corn-slips-lower-thursday-214205164.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-16T21:42:05Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/cbc13366e30a4e728be0a85977acb571",
-      "slug": "corn-slips-lower-on-thursday-12d1579d",
-      "orig_slug": "corn-slips-lower-on-thursday-12d1579d"
-    },
-    {
-      "title": "Knight-Swift cuts Q1 guide; remains upbeat on TL fundamentals",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/knight-swift-cuts-q1-guide-214244562.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-16T21:42:44Z",
-      "image": "https://s.yimg.com/os/en/freightwaves_373/8fc7a2ba955670e4cdeb4a0bbba30937",
-      "slug": "knight-swift-cuts-q1-guide-remains-upbeat-on-tl-fundamentals-52ebbb1e",
-      "orig_slug": "knight-swift-cuts-q1-guide-remains-upbeat-on-tl-fundamentals-52ebbb1e"
-    },
-    {
-      "title": "NiSource signs long-term power deal with Alphabet, expands Amazon agreement",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/nisource-signs-long-term-power-214613779.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-16T21:46:13Z",
-      "image": "https://s.yimg.com/os/en/reuters-finance.com/af146319f628daeebfd6cc918dab79e1",
-      "slug": "nisource-signs-long-term-power-deal-with-alphabet-expands-amazon-agreement-d63716d7",
-      "orig_slug": "nisource-signs-long-term-power-deal-with-alphabet-expands-amazon-agreement-d63716d7"
-    },
-    {
-      "title": "U.S. Bancorp Q1 2026 Earnings Call Summary",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/u-bancorp-q1-2026-earnings-204649890.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-16T20:46:49Z",
-      "image": "https://s.yimg.com/os/en/moby_896/2f0ddef983515fcd41a58c9e7038d5df",
-      "slug": "us-bancorp-q1-2026-earnings-call-summary-c7a8476d",
-      "orig_slug": "us-bancorp-q1-2026-earnings-call-summary-c7a8476d"
-    },
-    {
-      "title": "75-year-old fast-food chain sues over dozens of store closures",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/75-old-fast-food-chain-164700922.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-16T16:47:00Z",
-      "image": "https://s.yimg.com/os/en/thestreet_881/91ff152d56c26ae0aa4c14ee79c2ce20",
-      "slug": "75-year-old-fast-food-chain-sues-over-dozens-of-store-closures-7a833ddc",
-      "orig_slug": "75-year-old-fast-food-chain-sues-over-dozens-of-store-closures-7a833ddc"
-    },
-    {
-      "title": "Prologis, Inc. Q1 2026 Earnings Call Summary",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/prologis-inc-q1-2026-earnings-204626864.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-16T20:46:26Z",
-      "image": "https://s.yimg.com/os/en/moby_896/214273dbcad5b5178aa866ad3a210b89",
-      "slug": "prologis-inc-q1-2026-earnings-call-summary-7bfbb1e0",
-      "orig_slug": "prologis-inc-q1-2026-earnings-call-summary-7bfbb1e0"
-    },
-    {
-      "title": "The Bank of New York Mellon Corporation Q1 2026 Earnings Call Summary",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-york-mellon-corporation-q1-204638131.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-16T20:46:38Z",
-      "image": "https://s.yimg.com/os/en/moby_896/ca1b0a5f84168f5d8b35f06aa450d1d8",
-      "slug": "the-bank-of-new-york-mellon-corporation-q1-2026-earnings-call-summary-940f0af3",
-      "orig_slug": "the-bank-of-new-york-mellon-corporation-q1-2026-earnings-call-summary-940f0af3"
-    },
-    {
-      "title": "Stock Market Today: Nasdaq, S&P 500 Mark New Highs; These Truck Stocks Clear Entries (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobless-claims-tsmc-netflix-earnings/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-16T20:45:34Z",
-      "image": "",
-      "slug": "stock-market-today-nasdaq-sp-500-mark-new-highs-these-truck-stocks-clear-entries-f615e214",
-      "orig_slug": "stock-market-today-nasdaq-sp-500-mark-new-highs-these-truck-stocks-clear-entries-f615e214"
-    },
-    {
-      "title": "Bank of America Travel Rewards Credit Card review: Hassle-free rewards and no annual fee",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/review/bank-of-america-travel-rewards-credit-card-215409837.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-16T21:54:09Z",
-      "image": "https://s.yimg.com/uu/api/res/1.2/xdMtS5g.syRBeiAQRuTHAA--~B/aD02NDA7dz05NjA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/bank_of_america_travel_rewards_credit_card_review_7276.png",
-      "slug": "bank-of-america-travel-rewards-credit-card-review-hassle-free-rewards-and-no-ann-f2ba4ca4",
-      "orig_slug": "bank-of-america-travel-rewards-credit-card-review-hassle-free-rewards-and-no-ann-f2ba4ca4"
-    },
-    {
-      "title": "3 Dividend‑Rich Energy Stocks That Look Built for Long‑Term Investors, Beyond the Iran War",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/3-dividend-rich-energy-stocks-210845477.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-16T21:08:45Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/f310f596e6272a2f93897afb74c517fd",
-      "slug": "3-dividendrich-energy-stocks-that-look-built-for-longterm-investors-beyond-the-i-cf402094",
-      "orig_slug": "3-dividendrich-energy-stocks-that-look-built-for-longterm-investors-beyond-the-i-cf402094"
-    },
-    {
-      "title": "PepsiCo CEO on $7 chips: We are committed to lower prices",
-      "link": "https://finance.yahoo.com/news/pepsico-ceo-on-7-chips-we-are-committed-to-lower-prices-204206076.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-16T20:42:06Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/bhbDatwfWOZD2E6dKSDlHA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-08/a0d7bb30-1d08-11ed-bfbb-b2e34b1f0e74",
-      "slug": "pepsico-ceo-on-7-chips-we-are-committed-to-lower-prices-b12fd811",
-      "orig_slug": "pepsico-ceo-on-7-chips-we-are-committed-to-lower-prices-b12fd811"
-    },
-    {
-      "title": "Stocks Settle Higher on Tech Earnings and Ceasefire Optimism",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-higher-tech-earnings-204030501.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-16T20:40:30Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/9702f20631207874aa69ec4c7402dbba",
-      "slug": "stocks-settle-higher-on-tech-earnings-and-ceasefire-optimism-92970677",
-      "orig_slug": "stocks-settle-higher-on-tech-earnings-and-ceasefire-optimism-92970677"
-    },
-    {
-      "title": "Aehr Test Systems Soars More Than 15% on ASIC Chip Testing News. Should You Buy AEHR Stock Today?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/aehr-test-systems-soars-more-203755947.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-16T20:37:55Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/754d1add9645fb46c7ad31fc4fa63ccc",
-      "slug": "aehr-test-systems-soars-more-than-15-on-asic-chip-testing-news-should-you-buy-ae-0f7b0c42",
-      "orig_slug": "aehr-test-systems-soars-more-than-15-on-asic-chip-testing-news-should-you-buy-ae-0f7b0c42"
-    },
-    {
-      "title": "At TIA meeting, freight brokers brace for Supreme Court decision",
-      "link": "https://finance.yahoo.com/economy/policy/articles/tia-meeting-freight-brokers-brace-203448815.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-16T20:34:48Z",
-      "image": "https://media.zenfs.com/en/freightwaves_373/4365010ad5c99dba920f576c07fedc4d",
-      "slug": "at-tia-meeting-freight-brokers-brace-for-supreme-court-decision-fee3cf25",
-      "orig_slug": "at-tia-meeting-freight-brokers-brace-for-supreme-court-decision-fee3cf25"
-    },
-    {
-      "title": "Knight-Swift Transportation Cuts First-Quarter Guidance, Citing Fuel Costs, Winter Weather",
-      "link": "https://www.wsj.com/business/knight-swift-transportation-cuts-first-quarter-guidance-citing-fuel-costs-winter-weather-6faaaebb?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-16T21:09:00Z",
-      "image": "",
-      "slug": "knight-swift-transportation-cuts-first-quarter-guidance-citing-fuel-costs-winter-d937dfd5",
-      "orig_slug": "knight-swift-transportation-cuts-first-quarter-guidance-citing-fuel-costs-winter-d937dfd5"
-    },
-    {
-      "title": "Charles Schwab Stock Slides In Base Despite Record Earnings Report",
-      "link": "https://www.investors.com/news/charles-schwab-stock-earnings-q1-2026-cup-base-schw-stock-banks-brokers/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-16T20:31:31Z",
-      "image": "",
-      "slug": "charles-schwab-stock-slides-in-base-despite-record-earnings-report-c51766a4",
-      "orig_slug": "charles-schwab-stock-slides-in-base-despite-record-earnings-report-c51766a4"
-    },
-    {
-      "title": "Netflix Earnings Beat But Reed Hastings Is Leaving… It’s a Lot",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-earnings-beat-reed-hastings-203047991.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-16T20:30:47Z",
-      "image": "https://s.yimg.com/os/en/moby_896/cfa2fe3021fd6386e354cf93e61fb6d9",
-      "slug": "netflix-earnings-beat-but-reed-hastings-is-leaving-its-a-lot-e1ed0231",
-      "orig_slug": "netflix-earnings-beat-but-reed-hastings-is-leaving-its-a-lot-e1ed0231"
-    },
-    {
-      "title": "The global supply reset: The Middle East, still the core, but under pressure",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/global-supply-reset-middle-east-203016976.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-16T20:30:16Z",
-      "image": "https://s.yimg.com/os/en/oil_and_gas_360_817/5d1c72817b40e5dd9757a69041e69cc3",
-      "slug": "the-global-supply-reset-the-middle-east-still-the-core-but-under-pressure-7b8e53b4",
-      "orig_slug": "the-global-supply-reset-the-middle-east-still-the-core-but-under-pressure-7b8e53b4"
-    },
-    {
-      "title": "Why Diagnostics Names CareDx And QuidelOrtho Just Diverged",
-      "link": "https://www.investors.com/news/technology/caredx-quidelortho-stocks-q1-2026-preannouncements/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-16T20:28:09Z",
-      "image": "",
-      "slug": "why-diagnostics-names-caredx-and-quidelortho-just-diverged-82672f42",
-      "orig_slug": "why-diagnostics-names-caredx-and-quidelortho-just-diverged-82672f42"
-    },
-    {
-      "title": "Great Southern Bancorp Q1 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/great-southern-bancorp-q1-earnings-211034033.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-16T21:10:34Z",
-      "image": "https://s.yimg.com/os/en/marketbeat_955/3c7086139947128272e2a846d9d736c4",
-      "slug": "great-southern-bancorp-q1-earnings-call-highlights-c8c72629",
-      "orig_slug": "great-southern-bancorp-q1-earnings-call-highlights-c8c72629"
-    },
-    {
-      "title": "As Aluminum Prices Hit 4-Year Highs, Should You Buy Alcoa Stock?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/aluminum-prices-hit-4-highs-202729281.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-16T20:27:29Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/5864374bfb3b1fb1a14b54e22e2b63d7",
-      "slug": "as-aluminum-prices-hit-4-year-highs-should-you-buy-alcoa-stock-9ce8ef90",
-      "orig_slug": "as-aluminum-prices-hit-4-year-highs-should-you-buy-alcoa-stock-9ce8ef90"
-    },
-    {
-      "title": "Abbott Laboratories Slammed On Its Post-Exact Sciences Guidance",
-      "link": "https://www.investors.com/news/technology/abbott-laboratories-stock-abbott-laboratories-earnings-q1-2026/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-16T20:26:43Z",
-      "image": "",
-      "slug": "abbott-laboratories-slammed-on-its-post-exact-sciences-guidance-89c0f1ce",
-      "orig_slug": "abbott-laboratories-slammed-on-its-post-exact-sciences-guidance-89c0f1ce"
-    },
-    {
-      "title": "Stock market today: Dow rises, S&P 500 and Nasdaq notch fresh records as war resolution hopes grow",
-      "link": "https://finance.yahoo.com/markets/article/stock-market-today-dow-rises-sp-500-and-nasdaq-notch-fresh-records-as-war-resolution-hopes-grow-230116826.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-15T23:01:16Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/wtkF8u24hibIpsm1lptIpw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTk-/https://s.yimg.com/os/creatr-uploaded-images/2026-04/35bee0e0-391e-11f1-9ecf-69a8cb7e34b3",
-      "slug": "stock-market-today-dow-rises-sp-500-and-nasdaq-notch-fresh-records-as-war-resolu-0033c9d5",
-      "orig_slug": "stock-market-today-dow-rises-sp-500-and-nasdaq-notch-fresh-records-as-war-resolu-0033c9d5"
+      "pubDate": "2026-04-16T23:00:00Z",
+      "image": "https://s.yimg.com/os/en/oilprice.com/49f26f4b985c28f5a058ef66882ade91",
+      "slug": "oil-markets-reprice-war-risk-after-congress-rejects-iran-pullback-7d15112b",
+      "orig_slug": "oil-markets-reprice-war-risk-after-congress-rejects-iran-pullback-7d15112b"
     },
     {
       "title": "California gasoline stocks fall to record lows as Hormuz disruption bites",
@@ -317,13 +29,229 @@
       "orig_slug": "california-gasoline-stocks-fall-to-record-lows-as-hormuz-disruption-bites-20180b68"
     },
     {
-      "title": "Stock Market Today, April 16: Hims & Hers Health Jumps on FDA Review of Compounded Peptide Therapies",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-april-16-211704997.html",
+      "title": "Stock market today: Dow rises, S&P 500 and Nasdaq notch fresh records as war resolution hopes grow",
+      "link": "https://finance.yahoo.com/markets/article/stock-market-today-dow-rises-sp-500-and-nasdaq-notch-fresh-records-as-war-resolution-hopes-grow-230116826.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-16T21:17:04Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/53c34ec6db0acd7fd3c610dfb70eb401",
-      "slug": "stock-market-today-april-16-hims-hers-health-jumps-on-fda-review-of-compounded-p-057da24c",
-      "orig_slug": "stock-market-today-april-16-hims-hers-health-jumps-on-fda-review-of-compounded-p-057da24c"
+      "pubDate": "2026-04-15T23:01:16Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/wtkF8u24hibIpsm1lptIpw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTk-/https://s.yimg.com/os/creatr-uploaded-images/2026-04/35bee0e0-391e-11f1-9ecf-69a8cb7e34b3",
+      "slug": "stock-market-today-dow-rises-sp-500-and-nasdaq-notch-fresh-records-as-war-resolu-0033c9d5",
+      "orig_slug": "stock-market-today-dow-rises-sp-500-and-nasdaq-notch-fresh-records-as-war-resolu-0033c9d5"
+    },
+    {
+      "title": "Bank of America Travel Rewards Credit Card review: Hassle-free rewards and no annual fee",
+      "link": "https://finance.yahoo.com/personal-finance/credit-cards/review/bank-of-america-travel-rewards-credit-card-215409837.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-16T21:54:09Z",
+      "image": "https://s.yimg.com/uu/api/res/1.2/xdMtS5g.syRBeiAQRuTHAA--~B/aD02NDA7dz05NjA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/bank_of_america_travel_rewards_credit_card_review_7276.png",
+      "slug": "bank-of-america-travel-rewards-credit-card-review-hassle-free-rewards-and-no-ann-f2ba4ca4",
+      "orig_slug": "bank-of-america-travel-rewards-credit-card-review-hassle-free-rewards-and-no-ann-f2ba4ca4"
+    },
+    {
+      "title": "Footwear chain shutters more than 150 stores as mall traffic shifts",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/footwear-chain-shutters-more-150-191328212.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-16T19:13:28Z",
+      "image": "https://s.yimg.com/os/en/thestreet_881/912ecdca8ffd6d977ad19d82c4cb6b85",
+      "slug": "footwear-chain-shutters-more-than-150-stores-as-mall-traffic-shifts-7ee920c1",
+      "orig_slug": "footwear-chain-shutters-more-than-150-stores-as-mall-traffic-shifts-7ee920c1"
+    },
+    {
+      "title": "As Amazon Pours Another $25B into Data Centers, Buy This 1 High-Yield Data Center Dividend Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-pours-another-25b-data-233002836.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-16T23:30:02Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/e1f9398d0bf04298f94f04101e8baddf",
+      "slug": "as-amazon-pours-another-25b-into-data-centers-buy-this-1-high-yield-data-center--edf8ac79",
+      "orig_slug": "as-amazon-pours-another-25b-into-data-centers-buy-this-1-high-yield-data-center--edf8ac79"
+    },
+    {
+      "title": "NiSource signs long-term power deal with Alphabet, expands Amazon agreement",
+      "link": "https://finance.yahoo.com/sectors/energy/articles/nisource-signs-long-term-power-214613779.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-16T21:46:13Z",
+      "image": "https://s.yimg.com/os/en/reuters-finance.com/af146319f628daeebfd6cc918dab79e1",
+      "slug": "nisource-signs-long-term-power-deal-with-alphabet-expands-amazon-agreement-d63716d7",
+      "orig_slug": "nisource-signs-long-term-power-deal-with-alphabet-expands-amazon-agreement-d63716d7"
+    },
+    {
+      "title": "What’s Next for Oil Prices?",
+      "link": "https://finance.yahoo.com/sectors/energy/articles/next-oil-prices-000000705.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-17T00:00:00Z",
+      "image": "https://s.yimg.com/os/en/oilprice.com/c8557d0234c5cd47177ef0c95c5e571c",
+      "slug": "whats-next-for-oil-prices-6f715ec7",
+      "orig_slug": "whats-next-for-oil-prices-6f715ec7"
+    },
+    {
+      "title": "Public Bitcoin Miners Sold Record BTC in Q1",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/public-bitcoin-miners-sold-record-000200213.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-17T00:02:00Z",
+      "image": "https://s.yimg.com/os/en/cryptoprowl_304/3290ad7d6d18b863769c39e036368080",
+      "slug": "public-bitcoin-miners-sold-record-btc-in-q1-4847fa21",
+      "orig_slug": "public-bitcoin-miners-sold-record-btc-in-q1-4847fa21"
+    },
+    {
+      "title": "Hershey wants to make more than candy",
+      "link": "https://finance.yahoo.com/sectors/healthcare/articles/hershey-wants-more-candy-183300214.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-16T18:33:00Z",
+      "image": "https://s.yimg.com/os/en/thestreet_881/05e92491a0446b66437759c28bf2ba56",
+      "slug": "hershey-wants-to-make-more-than-candy-3e97efe9",
+      "orig_slug": "hershey-wants-to-make-more-than-candy-3e97efe9"
+    },
+    {
+      "title": "BAI: Inside the iShares A.I. Innovation and Tech Active ETF",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/bai-inside-ishares-innovation-tech-000714460.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-17T00:07:14Z",
+      "image": "https://s.yimg.com/os/en/indexuniverse.com/dc3c854838baf8f40b1fffb1adc45d61",
+      "slug": "bai-inside-the-ishares-ai-innovation-and-tech-active-etf-705ee54a",
+      "orig_slug": "bai-inside-the-ishares-ai-innovation-and-tech-active-etf-705ee54a"
+    },
+    {
+      "title": "Lakeland Industries, Inc. Q4 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lakeland-industries-inc-q4-2026-001432276.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-17T00:14:32Z",
+      "image": "https://s.yimg.com/os/en/moby_896/2a4f8c2f7c86e70c459ca43bafc7beb4",
+      "slug": "lakeland-industries-inc-q4-2026-earnings-call-summary-0ec10b09",
+      "orig_slug": "lakeland-industries-inc-q4-2026-earnings-call-summary-0ec10b09"
+    },
+    {
+      "title": "Alcoa Corporation Q1 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alcoa-corporation-q1-2026-earnings-001439890.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-17T00:14:39Z",
+      "image": "https://s.yimg.com/os/en/moby_896/97ff863f481ba5246398d843d4e770c9",
+      "slug": "alcoa-corporation-q1-2026-earnings-call-summary-fcb16e2d",
+      "orig_slug": "alcoa-corporation-q1-2026-earnings-call-summary-fcb16e2d"
+    },
+    {
+      "title": "Netflix, Inc. Q1 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-inc-q1-2026-earnings-001444599.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-17T00:14:44Z",
+      "image": "https://s.yimg.com/os/en/moby_896/1300a435f40bcff12163e2287df0fe51",
+      "slug": "netflix-inc-q1-2026-earnings-call-summary-d7ac6b42",
+      "orig_slug": "netflix-inc-q1-2026-earnings-call-summary-d7ac6b42"
+    },
+    {
+      "title": "Alcoa Q1 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alcoa-q1-earnings-call-highlights-230306628.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-16T23:03:06Z",
+      "image": "https://s.yimg.com/os/en/marketbeat_955/6d39ea4741630c1df37a34e070afb57b",
+      "slug": "alcoa-q1-earnings-call-highlights-cfc65a37",
+      "orig_slug": "alcoa-q1-earnings-call-highlights-cfc65a37"
+    },
+    {
+      "title": "Knight-Swift cuts Q1 guide; remains upbeat on TL fundamentals",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/knight-swift-cuts-q1-guide-214244562.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-16T21:42:44Z",
+      "image": "https://s.yimg.com/os/en/freightwaves_373/8fc7a2ba955670e4cdeb4a0bbba30937",
+      "slug": "knight-swift-cuts-q1-guide-remains-upbeat-on-tl-fundamentals-52ebbb1e",
+      "orig_slug": "knight-swift-cuts-q1-guide-remains-upbeat-on-tl-fundamentals-52ebbb1e"
+    },
+    {
+      "title": "Petrobras Board Vote Looms as Brazil Balances Fuel Prices and Politics",
+      "link": "https://finance.yahoo.com/sectors/energy/articles/petrobras-board-vote-looms-brazil-214235746.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-16T21:42:35Z",
+      "image": "https://s.yimg.com/os/en/oilprice.com/1de173ea0976475ef0ed9c107fcd073d",
+      "slug": "petrobras-board-vote-looms-as-brazil-balances-fuel-prices-and-politics-a641d4fc",
+      "orig_slug": "petrobras-board-vote-looms-as-brazil-balances-fuel-prices-and-politics-a641d4fc"
+    },
+    {
+      "title": "Cotton Rally Extends to Thursday",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/cotton-rally-extends-thursday-214205688.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-16T21:42:05Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/f597045077aea51f4674f567991c18ad",
+      "slug": "cotton-rally-extends-to-thursday-a1c829ce",
+      "orig_slug": "cotton-rally-extends-to-thursday-a1c829ce"
+    },
+    {
+      "title": "Soybeans Close Mixed on Thursday",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/soybeans-close-mixed-thursday-214205530.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-16T21:42:05Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/49abfa71445370152af353463593f744",
+      "slug": "soybeans-close-mixed-on-thursday-7543f34a",
+      "orig_slug": "soybeans-close-mixed-on-thursday-7543f34a"
+    },
+    {
+      "title": "Vincent Chan Says If You Want To Build Wealth You Need To Understand 'How To Make The Bond Market Work For You Instead Of Against You'",
+      "link": "https://finance.yahoo.com/markets/options/articles/vincent-chan-says-want-build-230106740.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-16T23:01:06Z",
+      "image": "https://s.yimg.com/os/en/benzinga_79/ee36687907dbaa5c8225311206f9acd8",
+      "slug": "vincent-chan-says-if-you-want-to-build-wealth-you-need-to-understand-how-to-make-9e55d9ef",
+      "orig_slug": "vincent-chan-says-if-you-want-to-build-wealth-you-need-to-understand-how-to-make-9e55d9ef"
+    },
+    {
+      "title": "Corn Slips Lower on Thursday",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/corn-slips-lower-thursday-214205164.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-16T21:42:05Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/cbc13366e30a4e728be0a85977acb571",
+      "slug": "corn-slips-lower-on-thursday-12d1579d",
+      "orig_slug": "corn-slips-lower-on-thursday-12d1579d"
+    },
+    {
+      "title": "OpenAI to spend more than $20 billion on Cerebras chips, receive stake, The Information reports",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/openai-spend-more-20-billion-013150907.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-17T01:31:50Z",
+      "image": "https://s.yimg.com/os/en/reuters-finance.com/10a0d121718c654f81ecbfdbc729e466",
+      "slug": "openai-to-spend-more-than-20-billion-on-cerebras-chips-receive-stake-the-informa-73471899",
+      "orig_slug": "openai-to-spend-more-than-20-billion-on-cerebras-chips-receive-stake-the-informa-73471899"
+    },
+    {
+      "title": "Tesla seeks Taiwan chip engineers for Terafab project",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/tesla-seeks-taiwan-chip-engineers-013737217.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-17T01:37:37Z",
+      "image": "https://s.yimg.com/os/en/reuters.com/d829c9708e9bfdec969cad2e2273d433",
+      "slug": "tesla-seeks-taiwan-chip-engineers-for-terafab-project-a0ae6a02",
+      "orig_slug": "tesla-seeks-taiwan-chip-engineers-for-terafab-project-a0ae6a02"
+    },
+    {
+      "title": "AMD, Onsemi, Semtech Latest Chip Stocks To Break Out",
+      "link": "https://www.investors.com/news/technology/amd-stock-onsemi-latest-chip-stocks-to-break-out/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-16T21:08:56Z",
+      "image": "",
+      "slug": "amd-onsemi-semtech-latest-chip-stocks-to-break-out-feb94e75",
+      "orig_slug": "amd-onsemi-semtech-latest-chip-stocks-to-break-out-feb94e75"
+    },
+    {
+      "title": "The 3 PR Strategies I Stopped Recommending to Clients After They Backfired",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/3-pr-strategies-stopped-recommending-230000654.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-16T23:00:00Z",
+      "image": "https://media.zenfs.com/en/entrepreneur_869/2b140185ffae05e562ca6c73a769cd37",
+      "slug": "the-3-pr-strategies-i-stopped-recommending-to-clients-after-they-backfired-57e3cec9",
+      "orig_slug": "the-3-pr-strategies-i-stopped-recommending-to-clients-after-they-backfired-57e3cec9"
+    },
+    {
+      "title": "India’s Wipro sheds over $650 million in market value on weak forecast",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/indias-wipro-falls-weak-forecast-035430584.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-17T03:54:30Z",
+      "image": "https://s.yimg.com/os/en/reuters-finance.com/9e574f055ceb7f3c2a2fc39b98b1061e",
+      "slug": "indias-wipro-sheds-over-650-million-in-market-value-on-weak-forecast-947a33b0",
+      "orig_slug": "indias-wipro-sheds-over-650-million-in-market-value-on-weak-forecast-947a33b0"
+    },
+    {
+      "title": "Netflix Stock Sinks On Soft Guidance After Q1 Beat",
+      "link": "https://www.investors.com/news/technology/netflix-stock-nflx-q1-2026-earnings/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-16T21:04:03Z",
+      "image": "",
+      "slug": "netflix-stock-sinks-on-soft-guidance-after-q1-beat-e2b4672c",
+      "orig_slug": "netflix-stock-sinks-on-soft-guidance-after-q1-beat-e2b4672c"
     },
     {
       "title": "These 6 banks offer CDs with no minimum deposit requirement",
@@ -335,49 +263,121 @@
       "orig_slug": "these-6-banks-offer-cds-with-no-minimum-deposit-requirement-386cfb40"
     },
     {
-      "title": "When will mortgage rates go down? A calming bond market is helping.",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/when-will-mortgage-rates-go-down-april-16-2026-190610922.html",
+      "title": "Mortgage and refinance interest rates today, April 17, 2026: Buying power 'better than a year ago'",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-friday-april-17-2026-100000831.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-04-22T19:06:10Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/UU4eEVaI8KzdTSlNRUf.bA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-03/1f42f290-ff5c-11ef-bfbf-7d26008535ed",
-      "slug": "when-will-mortgage-rates-go-down-a-calming-bond-market-is-helping-ee4ee2f1",
-      "orig_slug": "when-will-mortgage-rates-go-down-a-calming-bond-market-is-helping-ee4ee2f1"
+      "pubDate": "2026-04-17T10:00:00Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/ApbmWcFRcN00QsO93gHqNw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2024-04/c36fbdb0-0289-11ef-be8f-4e0451f1fa09",
+      "slug": "mortgage-and-refinance-interest-rates-today-april-17-2026-buying-power-better-th-3f94a5d0",
+      "orig_slug": "mortgage-and-refinance-interest-rates-today-april-17-2026-buying-power-better-th-3f94a5d0"
     },
     {
-      "title": "Mortgage rates fall to 4-week low as war worries fade: Mortgage and refinance interest rates today",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-fall-to-4-week-low-as-war-worries-fade-mortgage-and-refinance-interest-rates-today-100000077.html",
+      "title": "His Day Trading Losses Left Them With A $145K IRS Bill. Now, His Wife Is Turning To Dave Ramsey For Advice. 'He Has To Say, I Lost Our House'",
+      "link": "https://finance.yahoo.com/markets/options/articles/day-trading-losses-left-them-230105913.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-16T10:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/E7VJ8_kQiywPZd76sKL2zg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-04/694167c8-798d-41ab-98f4-1f0f4fc71918",
-      "slug": "mortgage-rates-fall-to-4-week-low-as-war-worries-fade-mortgage-and-refinance-int-8d29296d",
-      "orig_slug": "mortgage-rates-fall-to-4-week-low-as-war-worries-fade-mortgage-and-refinance-int-8d29296d"
-    },
-    {
-      "title": "How to open a gold IRA",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/how-to-open-a-gold-ira-130000454.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-16T13:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/iYEdzNSWl1WllVMMo5z.Rw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2022-02/648f71e0-88c5-11ec-9ff5-a93ba6744b72",
-      "slug": "how-to-open-a-gold-ira-8909a337",
-      "orig_slug": "how-to-open-a-gold-ira-8909a337"
-    },
-    {
-      "title": "Triad Wealth Partners Builds Stake in iShares International Country Rotation Active ETF, According to Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/triad-wealth-partners-builds-stake-210603943.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-16T21:06:03Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/b8ee175b3efdac64fb5a89fc976af15e",
-      "slug": "triad-wealth-partners-builds-stake-in-ishares-international-country-rotation-act-9889ad9b",
-      "orig_slug": "triad-wealth-partners-builds-stake-in-ishares-international-country-rotation-act-9889ad9b"
+      "pubDate": "2026-04-16T23:01:05Z",
+      "image": "https://s.yimg.com/os/en/benzinga_79/63ae42521c73aada6126171aad192974",
+      "slug": "his-day-trading-losses-left-them-with-a-145k-irs-bill-now-his-wife-is-turning-to-656693c1",
+      "orig_slug": "his-day-trading-losses-left-them-with-a-145k-irs-bill-now-his-wife-is-turning-to-656693c1"
     },
     {
       "title": "Best high-yield savings interest rates today, April 17, 2026 (up to 4.1% APY return)",
       "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-friday-april-17-2026-100000948.html",
       "source": "finance.yahoo.com",
       "pubDate": "2026-04-17T10:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/KX5Yg9ZDTjRszsDd7z2jVw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2024-07/822c7220-4eb6-11ef-afbf-4972cf7de987",
+      "image": "https://s.yimg.com/ny/api/res/1.2/zkP71JMsVlcuMMr4TYwHfg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/822c7220-4eb6-11ef-afbf-4972cf7de987",
       "slug": "best-high-yield-savings-interest-rates-today-april-17-2026-up-to-41-apy-return-a830652e",
       "orig_slug": "best-high-yield-savings-interest-rates-today-april-17-2026-up-to-41-apy-return-a830652e"
+    },
+    {
+      "title": "Best CD rates today, April 17, 2026 (up to 4.05% APY return)",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-april-17-2026-100000543.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-17T10:00:00Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/jh7QT_uSJ4u1MJbMoh5tSw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47b17e2-4f64-11ef-afbf-1041709cf169",
+      "slug": "best-cd-rates-today-april-17-2026-up-to-405-apy-return-219f8928",
+      "orig_slug": "best-cd-rates-today-april-17-2026-up-to-405-apy-return-219f8928"
+    },
+    {
+      "title": "Best money market account rates today, April 17, 2026 (up to 4.01% APY return)",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-friday-april-17-2026-100000051.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-17T10:00:00Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/___pOPSKzgB9WMqYppHlmg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/0ef34f60-1be6-11f0-a17f-e52542084249",
+      "slug": "best-money-market-account-rates-today-april-17-2026-up-to-401-apy-return-e0ec3eb7",
+      "orig_slug": "best-money-market-account-rates-today-april-17-2026-up-to-401-apy-return-e0ec3eb7"
+    },
+    {
+      "title": "HELOC and home equity loan rates today, April 17, 2026: Tap your homeownership value in cash",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-friday-april-17-2026-100000534.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-17T10:00:00Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/7.WxmNrXs8BvNBuj5GugWQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-06/eb4e4990-4262-11f0-b61f-fecabc8eb879",
+      "slug": "heloc-and-home-equity-loan-rates-today-april-17-2026-tap-your-homeownership-valu-a3598810",
+      "orig_slug": "heloc-and-home-equity-loan-rates-today-april-17-2026-tap-your-homeownership-valu-a3598810"
+    },
+    {
+      "title": "Prediction markets, crypto get bipartisan scrutiny at congressional hearing",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/prediction-markets-crypto-bipartisan-scrutiny-224853989.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-16T22:48:53Z",
+      "image": "https://media.zenfs.com/en/dlnews_702/bdab95dcaa814a5c450e93ed32e97317",
+      "slug": "prediction-markets-crypto-get-bipartisan-scrutiny-at-congressional-hearing-9b252bb2",
+      "orig_slug": "prediction-markets-crypto-get-bipartisan-scrutiny-at-congressional-hearing-9b252bb2"
+    },
+    {
+      "title": "When will mortgage rates go down? A calming bond market is helping.",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/when-will-mortgage-rates-go-down-april-16-2026-190610922.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-04-22T19:06:10Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/cfWUtSWmZrXJeGIIBklJ_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-03/1f42f290-ff5c-11ef-bfbf-7d26008535ed",
+      "slug": "when-will-mortgage-rates-go-down-a-calming-bond-market-is-helping-ee4ee2f1",
+      "orig_slug": "when-will-mortgage-rates-go-down-a-calming-bond-market-is-helping-ee4ee2f1"
+    },
+    {
+      "title": "Gold and silver prices today, Friday, April 17: Prices holding steady after ceasefire announcement",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-and-silver-prices-today-friday-april-17-prices-holding-steady-after-ceasefire-announcement-111212881.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-17T11:12:12Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/dccUmzxNjbs2zx5DZhBy3g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD01MDY7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-04/3aaf01ac-19a4-495f-86f3-45ac8925bf2e",
+      "slug": "gold-and-silver-prices-today-friday-april-17-prices-holding-steady-after-ceasefi-27358e34",
+      "orig_slug": "gold-and-silver-prices-today-friday-april-17-prices-holding-steady-after-ceasefi-27358e34"
+    },
+    {
+      "title": "Bitcoin and ethereum prices today, Friday, April 17, 2026: Higher prices hold with ceasefire in effect",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-april-17-2026-higher-prices-hold-with-ceasefire-in-effect-114918376.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-17T11:49:18Z",
+      "image": "https://s.yimg.com/uu/api/res/1.2/g2FYNRdQidSyHITH_Hia0Q--~B/aD0zNzc7dz02MTI7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/bitcoin_2_9860.jpg",
+      "slug": "bitcoin-and-ethereum-prices-today-friday-april-17-2026-higher-prices-hold-with-c-18b6c383",
+      "orig_slug": "bitcoin-and-ethereum-prices-today-friday-april-17-2026-higher-prices-hold-with-c-18b6c383"
+    },
+    {
+      "title": "Mortgage rates fall to 4-week low as war worries fade: Mortgage and refinance interest rates today",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-fall-to-4-week-low-as-war-worries-fade-mortgage-and-refinance-interest-rates-today-100000077.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-16T10:00:00Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/0XJ8t7YOWGnzqm7wF7oc1g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-04/694167c8-798d-41ab-98f4-1f0f4fc71918",
+      "slug": "mortgage-rates-fall-to-4-week-low-as-war-worries-fade-mortgage-and-refinance-int-8d29296d",
+      "orig_slug": "mortgage-rates-fall-to-4-week-low-as-war-worries-fade-mortgage-and-refinance-int-8d29296d"
+    },
+    {
+      "title": "Goldman Sachs says Iran conflict is ‘more inflation shock, than growth shock’",
+      "link": "https://finance.yahoo.com/economy/policy/articles/goldman-sachs-says-iran-conflict-224024686.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-16T22:40:24Z",
+      "image": "https://media.zenfs.com/en/thestreet_881/276f935d619e77abf2c7f68f5671fda5",
+      "slug": "goldman-sachs-says-iran-conflict-is-more-inflation-shock-than-growth-shock-0b044629",
+      "orig_slug": "goldman-sachs-says-iran-conflict-is-more-inflation-shock-than-growth-shock-0b044629"
+    },
+    {
+      "title": "How to choose a gold IRA company: 6 things to look for",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-ira-companies-130000552.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-17T13:00:00Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/5hehE71nRs.xEK30JZR8pw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-09/6a9d1d80-7580-11ef-bbfb-2dd54aab7211",
+      "slug": "how-to-choose-a-gold-ira-company-6-things-to-look-for-672c7aa4",
+      "orig_slug": "how-to-choose-a-gold-ira-company-6-things-to-look-for-672c7aa4"
     }
   ]
 }
