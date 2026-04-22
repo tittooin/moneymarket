@@ -1,14 +1,356 @@
 {
-  "updated": "2026-04-22T11:53:12Z",
+  "updated": "2026-04-22T13:00:39Z",
   "items": [
     {
-      "title": "Major bank identifies surprising trend for American crypto investors",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/major-bank-identifies-surprising-trend-003444154.html",
+      "title": "Warren Buffett dumped 77% of Amazon to buy surging media stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-dumped-77-amazon-003700673.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-21T00:34:44Z",
-      "image": "https://media.zenfs.com/en/thestreet_881/f390d169f1c34431ba39ddab74326c5a",
-      "slug": "major-bank-identifies-surprising-trend-for-american-crypto-investors-f4d6439c",
-      "orig_slug": "major-bank-identifies-surprising-trend-for-american-crypto-investors-f4d6439c"
+      "pubDate": "2026-04-22T00:37:00Z",
+      "image": "https://s.yimg.com/os/en/thestreet_881/0eb641225850472e04986f0e01376b75",
+      "slug": "warren-buffett-dumped-77-of-amazon-to-buy-surging-media-stock-c05cc0df",
+      "orig_slug": "warren-buffett-dumped-77-of-amazon-to-buy-surging-media-stock-c05cc0df"
+    },
+    {
+      "title": "One Elon Musk superpower to remember on Tesla earnings day",
+      "link": "https://finance.yahoo.com/news/one-elon-musk-superpower-to-remember-on-tesla-earnings-day-125036490.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-22T12:50:36Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/_ZKyJstEgaAuwXkPFxi6Aw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-04/933dc670-3e49-11f1-b3bd-ebbdc19a7feb",
+      "slug": "one-elon-musk-superpower-to-remember-on-tesla-earnings-day-a018e7bb",
+      "orig_slug": "one-elon-musk-superpower-to-remember-on-tesla-earnings-day-a018e7bb"
+    },
+    {
+      "title": "Here’s Nightview Fund’s Views on NVIDIA (NVDA)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nightview-fund-views-nvidia-nvda-123946393.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-22T12:39:46Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/e27167f0d0ea28c9ccebcdb03eceb280",
+      "slug": "heres-nightview-funds-views-on-nvidia-nvda-fa236e9f",
+      "orig_slug": "heres-nightview-funds-views-on-nvidia-nvda-fa236e9f"
+    },
+    {
+      "title": "Gnosis Freight adds Walmart veteran Gary Adams to its board",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/gnosis-freight-adds-walmart-veteran-123500260.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-22T12:35:00Z",
+      "image": "https://media.zenfs.com/en/freightwaves_373/36fd6a5d9bea7e29baa9b1ea18e86014",
+      "slug": "gnosis-freight-adds-walmart-veteran-gary-adams-to-its-board-3d51002e",
+      "orig_slug": "gnosis-freight-adds-walmart-veteran-gary-adams-to-its-board-3d51002e"
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise after Trump extends US-Iran ceasefire",
+      "link": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-after-trump-extends-us-iran-ceasefire-230429647.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-21T23:04:29Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/M8QT9ce5lB4MYtiDYtVSAg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-04/ca37ca85-ca53-490b-87a6-35defd06fb16",
+      "slug": "stock-market-today-dow-sp-500-nasdaq-futures-rise-after-trump-extends-us-iran-ce-baf7dfb6",
+      "orig_slug": "stock-market-today-dow-sp-500-nasdaq-futures-rise-after-trump-extends-us-iran-ce-baf7dfb6"
+    },
+    {
+      "title": "Daily Spotlight: Consumers Remain Resilient",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46811_MarketOutlook_1776856050000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-22T11:07:30Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "daily-spotlight-consumers-remain-resilient-82ed4ce6",
+      "orig_slug": "daily-spotlight-consumers-remain-resilient-82ed4ce6"
+    },
+    {
+      "title": "Consumer Federation of America sues Meta over scam ads",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/consumer-federation-america-sues-meta-123725834.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-22T12:37:25Z",
+      "image": "https://media.zenfs.com/en/quartz_855/95ced9029f3ba93142404590d4e9444c",
+      "slug": "consumer-federation-of-america-sues-meta-over-scam-ads-cec04574",
+      "orig_slug": "consumer-federation-of-america-sues-meta-over-scam-ads-cec04574"
+    },
+    {
+      "title": "What Makes Tesla (TSLA) a Long-Term Holding?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/makes-tesla-tsla-long-term-122808517.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-22T12:28:08Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/2f1bf47b64f185ad29af8e89f576d5c3",
+      "slug": "what-makes-tesla-tsla-a-long-term-holding-37aa3c14",
+      "orig_slug": "what-makes-tesla-tsla-a-long-term-holding-37aa3c14"
+    },
+    {
+      "title": "Tesla Earnings, Elon Musk Due With Stock Near Key Levels; What To Expect",
+      "link": "https://www.investors.com/news/tesla-earnings-elon-musk-robotaxis-cash-burn/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-22T12:26:46Z",
+      "image": "",
+      "slug": "tesla-earnings-elon-musk-due-with-stock-near-key-levels-what-to-expect-9bf30197",
+      "orig_slug": "tesla-earnings-elon-musk-due-with-stock-near-key-levels-what-to-expect-9bf30197"
+    },
+    {
+      "title": "Google Cloud: New AI Accelerators, Enterprise Agentic Platform Debut",
+      "link": "https://www.investors.com/news/technology/google-cloud-next-tpu-artificial-intelligence-enterprise-agentic-platform/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-22T12:16:47Z",
+      "image": "",
+      "slug": "google-cloud-new-ai-accelerators-enterprise-agentic-platform-debut-1d70b23b",
+      "orig_slug": "google-cloud-new-ai-accelerators-enterprise-agentic-platform-debut-1d70b23b"
+    },
+    {
+      "title": "AI Capabilities Deliver Greater Value to Shopify (SHOP)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ai-capabilities-deliver-greater-value-121506806.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-22T12:15:06Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/0351fde86bca3fe950b4ff1d0e8b9f7b",
+      "slug": "ai-capabilities-deliver-greater-value-to-shopify-shop-11688a18",
+      "orig_slug": "ai-capabilities-deliver-greater-value-to-shopify-shop-11688a18"
+    },
+    {
+      "title": "Technical Assessment: Bullish in the Intermediate-Term",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46810_TechnicalAnalysis_1776856017000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-22T11:06:57Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "technical-assessment-bullish-in-the-intermediate-term-a707c0e4",
+      "orig_slug": "technical-assessment-bullish-in-the-intermediate-term-a707c0e4"
+    },
+    {
+      "title": "It Was a Tale of Two Quarters for AGNC Investment to Start the Year. Is its 13%-Yielding Monthly Dividend at Risk?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tale-two-quarters-agnc-investment-123500671.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-22T12:35:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/30103238a4223ce0fe9702c65c12bfed",
+      "slug": "it-was-a-tale-of-two-quarters-for-agnc-investment-to-start-the-year-is-its-13-yi-0173f29b",
+      "orig_slug": "it-was-a-tale-of-two-quarters-for-agnc-investment-to-start-the-year-is-its-13-yi-0173f29b"
+    },
+    {
+      "title": "A Micron And Western Digital Peer Flashes Fresh Buy Zone With Earnings On Tap",
+      "link": "https://www.investors.com/research/breakout-stocks-technical-analysis/silicon-motion-stock-simo-among-ai-stocks-to-watch-western-digital-micon/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-22T12:13:02Z",
+      "image": "",
+      "slug": "a-micron-and-western-digital-peer-flashes-fresh-buy-zone-with-earnings-on-tap-39cc5efc",
+      "orig_slug": "a-micron-and-western-digital-peer-flashes-fresh-buy-zone-with-earnings-on-tap-39cc5efc"
+    },
+    {
+      "title": "What Makes Axon Enterprise (AXON) a Compelling Investment Opportunity?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/makes-axon-enterprise-axon-compelling-121239668.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-22T12:12:39Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/4d4a733e28e75e6d5e11be43199f33a1",
+      "slug": "what-makes-axon-enterprise-axon-a-compelling-investment-opportunity-e0f8cc75",
+      "orig_slug": "what-makes-axon-enterprise-axon-a-compelling-investment-opportunity-e0f8cc75"
+    },
+    {
+      "title": "Earnings live updates: UnitedHealth stock jumps on upbeat guidance, Tesla and others report this week",
+      "link": "https://finance.yahoo.com/markets/live/earnings-live-updates-unitedhealth-stock-jumps-on-upbeat-guidance-tesla-and-others-report-this-week-104416983.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-13T10:44:16Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/QjOse4fHNcq4_CZ2FNP9Tw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-12/a7ecb090-9df1-11ee-ad7e-ec436b95e182",
+      "slug": "earnings-live-updates-unitedhealth-stock-jumps-on-upbeat-guidance-tesla-and-othe-8cf7a57b",
+      "orig_slug": "earnings-live-updates-unitedhealth-stock-jumps-on-upbeat-guidance-tesla-and-othe-8cf7a57b"
+    },
+    {
+      "title": "Riverwater Sustainable Value Strategy Exited Its Position in Lazard (LAZ) in Q1",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/riverwater-sustainable-value-strategy-exited-120618628.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-22T12:06:18Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/cfdf43f75ce23d290a5b7813e6659a1e",
+      "slug": "riverwater-sustainable-value-strategy-exited-its-position-in-lazard-laz-in-q1-30517aeb",
+      "orig_slug": "riverwater-sustainable-value-strategy-exited-its-position-in-lazard-laz-in-q1-30517aeb"
+    },
+    {
+      "title": "Analyst Report: Thomson-Reuters Corp",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_5121_AnalystReport_1776855767000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-22T11:02:47Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-thomson-reuters-corp-ed05e13f",
+      "orig_slug": "analyst-report-thomson-reuters-corp-ed05e13f"
+    },
+    {
+      "title": "Ross Gerber Reiterates FSD Refund Demand, Says Elon Musk's Tesla Needs To Make People Whole: 'Never Worked As Promised'",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ross-gerber-reiterates-fsd-refund-123344034.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-22T12:33:44Z",
+      "image": "https://s.yimg.com/os/en/Benzinga/6a22b5b471892d57b968d008ec462fc8",
+      "slug": "ross-gerber-reiterates-fsd-refund-demand-says-elon-musks-tesla-needs-to-make-peo-cc7511ce",
+      "orig_slug": "ross-gerber-reiterates-fsd-refund-demand-says-elon-musks-tesla-needs-to-make-peo-cc7511ce"
+    },
+    {
+      "title": "Stock Market Today: Dow Rises On Trump Ceasefire; Tesla Earnings Due (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-tesla-earnings-tsla-stock/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-22T12:06:10Z",
+      "image": "",
+      "slug": "stock-market-today-dow-rises-on-trump-ceasefire-tesla-earnings-due-live-coverage-68ee4958",
+      "orig_slug": "stock-market-today-dow-rises-on-trump-ceasefire-tesla-earnings-due-live-coverage-68ee4958"
+    },
+    {
+      "title": "Dow Jones Futures Rise As Trump Extends Iran Ceasefire; Tesla Earnings Due",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-extends-iran-ceasefire-tesla-earnings/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-22T12:05:21Z",
+      "image": "",
+      "slug": "dow-jones-futures-rise-as-trump-extends-iran-ceasefire-tesla-earnings-due-d0374206",
+      "orig_slug": "dow-jones-futures-rise-as-trump-extends-iran-ceasefire-tesla-earnings-due-d0374206"
+    },
+    {
+      "title": "Google puts AI agents at heart of its enterprise money-making push",
+      "link": "https://finance.yahoo.com/news/google-puts-ai-agents-heart-120308146.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-22T12:04:49Z",
+      "image": "https://s.yimg.com/os/en/reuters.com/8e070d3717cf50f08512fdaafd918f79",
+      "slug": "google-puts-ai-agents-at-heart-of-its-enterprise-money-making-push-e1e8eebe",
+      "orig_slug": "google-puts-ai-agents-at-heart-of-its-enterprise-money-making-push-e1e8eebe"
+    },
+    {
+      "title": "Here’s Why Riverwater Sustainable Value Strategy Exited Western Alliance Bancorporation (WAL) in Q1",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-riverwater-sustainable-value-strategy-120424064.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-22T12:04:24Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/dd2d5aaa8be94be79d0ffb9378ce64f9",
+      "slug": "heres-why-riverwater-sustainable-value-strategy-exited-western-alliance-bancorpo-e2911f25",
+      "orig_slug": "heres-why-riverwater-sustainable-value-strategy-exited-western-alliance-bancorpo-e2911f25"
+    },
+    {
+      "title": "Analyst Report: Unitedhealth Group Inc",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_3479_AnalystReport_1776855767000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-22T11:02:47Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-unitedhealth-group-inc-5fc9c76f",
+      "orig_slug": "analyst-report-unitedhealth-group-inc-5fc9c76f"
+    },
+    {
+      "title": "HIVE Digital Technologies closes $115M private offering of exchangeable",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hive-digital-technologies-closes-115m-123300500.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-22T12:33:00Z",
+      "image": "https://s.yimg.com/os/en/proactive_us_504/291bbac74d7d2a466739945b1ace8983",
+      "slug": "hive-digital-technologies-closes-115m-private-offering-of-exchangeable-f6eed1a5",
+      "orig_slug": "hive-digital-technologies-closes-115m-private-offering-of-exchangeable-f6eed1a5"
+    },
+    {
+      "title": "Boeing Trounces Estimates, FAA Sees Path To Key Certifications",
+      "link": "https://www.investors.com/news/boeing-earnings-737-deliveries-boeing-stock/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-22T12:01:08Z",
+      "image": "",
+      "slug": "boeing-trounces-estimates-faa-sees-path-to-key-certifications-a1983adc",
+      "orig_slug": "boeing-trounces-estimates-faa-sees-path-to-key-certifications-a1983adc"
+    },
+    {
+      "title": "36 S&P 500 Stocks Blew Away Tim Cook's Apple With Less Fanfare",
+      "link": "https://www.investors.com/etfs-and-funds/sectors/sp-500-stocks-blew-away-tim-cooks-apple-with-less-fanfare/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-22T12:00:59Z",
+      "image": "",
+      "slug": "36-sp-500-stocks-blew-away-tim-cooks-apple-with-less-fanfare-579604d6",
+      "orig_slug": "36-sp-500-stocks-blew-away-tim-cooks-apple-with-less-fanfare-579604d6"
+    },
+    {
+      "title": "Microsoft Higher Ahead Of Magnificent Seven Earnings; Is Microsoft A Buy Now?",
+      "link": "https://www.investors.com/research/microsoft-msft-stock-earnings-april-2026/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-22T12:00:35Z",
+      "image": "",
+      "slug": "microsoft-higher-ahead-of-magnificent-seven-earnings-is-microsoft-a-buy-now-4169dacf",
+      "orig_slug": "microsoft-higher-ahead-of-magnificent-seven-earnings-is-microsoft-a-buy-now-4169dacf"
+    },
+    {
+      "title": "Coinbase Sinks Amid Quantum Hack Risk; Is Coinbase Stock A Sell Now?",
+      "link": "https://www.investors.com/research/coinbase-stock-april-2026-buy-or-sell-now/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-22T12:00:31Z",
+      "image": "",
+      "slug": "coinbase-sinks-amid-quantum-hack-risk-is-coinbase-stock-a-sell-now-37edfffb",
+      "orig_slug": "coinbase-sinks-amid-quantum-hack-risk-is-coinbase-stock-a-sell-now-37edfffb"
+    },
+    {
+      "title": "Analyst Report: Genuine Parts Co",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_3015_AnalystReport_1776855767000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-22T11:02:47Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-genuine-parts-co-e6305f24",
+      "orig_slug": "analyst-report-genuine-parts-co-e6305f24"
+    },
+    {
+      "title": "Crypto ISA Route Back in UK? Startup Offers Tax-Free Workaround After Rule Change",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/crypto-isa-route-back-uk-122715739.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-22T12:27:15Z",
+      "image": "https://media.zenfs.com/en/ccn_928/bf34a911fcc25d835dd3d5354f2a42f5",
+      "slug": "crypto-isa-route-back-in-uk-startup-offers-tax-free-workaround-after-rule-change-25b7461e",
+      "orig_slug": "crypto-isa-route-back-in-uk-startup-offers-tax-free-workaround-after-rule-change-25b7461e"
+    },
+    {
+      "title": "Google announces 2 AI chips as competition with Nvidia heats up",
+      "link": "https://finance.yahoo.com/sectors/technology/article/google-announces-2-ai-chips-as-competition-with-nvidia-heats-up-120011883.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-22T12:00:11Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/hFiCei.VN74pc5wUYuCM4w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/tpu_8i_board_7770.jpg",
+      "slug": "google-announces-2-ai-chips-as-competition-with-nvidia-heats-up-055fc666",
+      "orig_slug": "google-announces-2-ai-chips-as-competition-with-nvidia-heats-up-055fc666"
+    },
+    {
+      "title": "SPX Snapped to Overbought...Now What?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/spx-snapped-overbought-oversold-now-120001409.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-22T12:00:01Z",
+      "image": "https://s.yimg.com/os/en/schaeffers_investment_research_24/dc1f677e38225f5646f29eb338812b67",
+      "slug": "spx-snapped-to-overboughtnow-what-a72de814",
+      "orig_slug": "spx-snapped-to-overboughtnow-what-a72de814"
+    },
+    {
+      "title": "United Tops Views, Plans To Cut Capacity Amid Fuel Price Surge. Alaska Air Earnings Mixed.",
+      "link": "https://www.investors.com/news/united-airlines-alaska-air-earnings-airline-stocks-american-united-merger-fuel-prices-capacity-iran-war-ual-stock/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-22T11:59:14Z",
+      "image": "",
+      "slug": "united-tops-views-plans-to-cut-capacity-amid-fuel-price-surge-alaska-air-earning-1264ba15",
+      "orig_slug": "united-tops-views-plans-to-cut-capacity-amid-fuel-price-surge-alaska-air-earning-1264ba15"
+    },
+    {
+      "title": "Will Methanex (MEOH) Benefit from Tightening Supply Demand Dynamics?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/methanex-meoh-benefit-tightening-supply-115859679.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-22T11:58:59Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/024867c64159d46b8937881e6f31c5a0",
+      "slug": "will-methanex-meoh-benefit-from-tightening-supply-demand-dynamics-9437a248",
+      "orig_slug": "will-methanex-meoh-benefit-from-tightening-supply-demand-dynamics-9437a248"
+    },
+    {
+      "title": "Market Digest: AAPL, GPC, UNH, ZION, TRI",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46808_MarketSummary_1776854867000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-22T10:47:47Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "market-digest-aapl-gpc-unh-zion-tri-009f7599",
+      "orig_slug": "market-digest-aapl-gpc-unh-zion-tri-009f7599"
+    },
+    {
+      "title": "This Niche E‑Commerce Stock Has Been Cut in Half Since 2023 -- Here's Why It's About to Go Parabolic",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/niche-e-commerce-stock-cut-122700487.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-22T12:27:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/9399d34d01937954b6b503ea5e4673bc",
+      "slug": "this-niche-ecommerce-stock-has-been-cut-in-half-since-2023----heres-why-its-abou-787ee40e",
+      "orig_slug": "this-niche-ecommerce-stock-has-been-cut-in-half-since-2023----heres-why-its-abou-787ee40e"
+    },
+    {
+      "title": "Boston Scientific cuts 2026 profit forecast, trims revenue growth view",
+      "link": "https://finance.yahoo.com/sectors/healthcare/articles/boston-scientific-cuts-2026-profit-115611566.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-22T11:56:11Z",
+      "image": "https://s.yimg.com/os/en/reuters.com/02577b88ab0f02946f67c131325ddf45",
+      "slug": "boston-scientific-cuts-2026-profit-forecast-trims-revenue-growth-view-53c940e8",
+      "orig_slug": "boston-scientific-cuts-2026-profit-forecast-trims-revenue-growth-view-53c940e8"
+    },
+    {
+      "title": "‘You can’t earn your way out of stupidity’: Dave Ramsey explains why teachers earning $72K are retiring as millionaires",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/t-earn-way-stupidity-dave-115000926.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-22T11:50:00Z",
+      "image": "https://s.yimg.com/os/en/moneywise_ecomm_711/874e49088019292f73e07039028534c0",
+      "slug": "you-cant-earn-your-way-out-of-stupidity-dave-ramsey-explains-why-teachers-earnin-ea4be534",
+      "orig_slug": "you-cant-earn-your-way-out-of-stupidity-dave-ramsey-explains-why-teachers-earnin-ea4be534"
     },
     {
       "title": "Bitcoin and ethereum prices today, Wednesday, April 22, 2026: Prices rising following ceasefire extension",
@@ -29,6 +371,33 @@
       "orig_slug": "boeing-q1-results-top-estimates-as-improving-jet-deliveries-cut-losses-f771654b"
     },
     {
+      "title": "Daily – Vickers Top Insider Picks for 04/22/2026",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46806_InsiderActivity_1776852767000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-22T10:12:47Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "daily-vickers-top-insider-picks-for-04222026-22601233",
+      "orig_slug": "daily-vickers-top-insider-picks-for-04222026-22601233"
+    },
+    {
+      "title": "Prediction: This AI Chip Stock Will Become the Next Nvidia by 2030",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-ai-chip-stock-become-122000666.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-22T12:20:00Z",
+      "image": "https://s.yimg.com/os/en/motleyfool.com/609a551483413095e2f5b5c9dcd3d04c",
+      "slug": "prediction-this-ai-chip-stock-will-become-the-next-nvidia-by-2030-9248d98b",
+      "orig_slug": "prediction-this-ai-chip-stock-will-become-the-next-nvidia-by-2030-9248d98b"
+    },
+    {
+      "title": "AT&T Earnings Top Views, Revenue In-Line Amid 'Convergence' Push",
+      "link": "https://www.investors.com/news/technology/att-stock-att-earnings-news-q12026/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-22T11:45:12Z",
+      "image": "",
+      "slug": "att-earnings-top-views-revenue-in-line-amid-convergence-push-8e4950f5",
+      "orig_slug": "att-earnings-top-views-revenue-in-line-amid-convergence-push-8e4950f5"
+    },
+    {
       "title": "Meta seeks workers with no experience for data center jobs amid AI-driven shortage",
       "link": "https://finance.yahoo.com/sectors/technology/articles/meta-seeks-workers-no-experience-114500395.html",
       "source": "finance.yahoo.com",
@@ -47,24 +416,6 @@
       "orig_slug": "what-apples-naming-of-john-ternus-as-ceo-tells-us-about-the-future-of-the-compan-5a977271"
     },
     {
-      "title": "Daily Spotlight: Consumers Remain Resilient",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_46811_MarketOutlook_1776856050000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T11:07:30Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-spotlight-consumers-remain-resilient-82ed4ce6",
-      "orig_slug": "daily-spotlight-consumers-remain-resilient-82ed4ce6"
-    },
-    {
-      "title": "FL Putnam buys Michigan RIA Arcadia",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/fl-putnam-buys-michigan-ria-114653838.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T11:46:53Z",
-      "image": "https://media.zenfs.com/en/private_banker_international_938/d0386d084055d6f3677af99a242e97c8",
-      "slug": "fl-putnam-buys-michigan-ria-arcadia-29b7cd0d",
-      "orig_slug": "fl-putnam-buys-michigan-ria-arcadia-29b7cd0d"
-    },
-    {
       "title": "Can Upstart Holdings (UPST) Double in the Next 5 Years?",
       "link": "https://finance.yahoo.com/markets/stocks/articles/upstart-holdings-upst-double-next-113631489.html",
       "source": "finance.yahoo.com",
@@ -72,357 +423,6 @@
       "image": "https://media.zenfs.com/en/insidermonkey.com/740e998f922ee9e77034b4a4387a4b79",
       "slug": "can-upstart-holdings-upst-double-in-the-next-5-years-5fdfbca6",
       "orig_slug": "can-upstart-holdings-upst-double-in-the-next-5-years-5fdfbca6"
-    },
-    {
-      "title": "Here’s What Baird Thinks About ​Affirm Holdings (AFRM)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/baird-thinks-affirm-holdings-afrm-113622022.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T11:36:22Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/c93bd143e11f207b9134ce79d062cc61",
-      "slug": "heres-what-baird-thinks-about-affirm-holdings-afrm-3b6d9749",
-      "orig_slug": "heres-what-baird-thinks-about-affirm-holdings-afrm-3b6d9749"
-    },
-    {
-      "title": "JPMorgan and Morgan Stanley Bullish on Western Digital (WDC)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-morgan-stanley-bullish-western-113613236.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T11:36:13Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/56285c0d296f9bf367d09ff98b70bff0",
-      "slug": "jpmorgan-and-morgan-stanley-bullish-on-western-digital-wdc-905abe5d",
-      "orig_slug": "jpmorgan-and-morgan-stanley-bullish-on-western-digital-wdc-905abe5d"
-    },
-    {
-      "title": "Here’s Why Mizuho Lowered Price Target on Palantir Technologies (PLTR)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-mizuho-lowered-price-target-113604668.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T11:36:04Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/b3f9877ff0f15329165d74e07391a358",
-      "slug": "heres-why-mizuho-lowered-price-target-on-palantir-technologies-pltr-08853ed7",
-      "orig_slug": "heres-why-mizuho-lowered-price-target-on-palantir-technologies-pltr-08853ed7"
-    },
-    {
-      "title": "Technical Assessment: Bullish in the Intermediate-Term",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_46810_TechnicalAnalysis_1776856017000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T11:06:57Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "technical-assessment-bullish-in-the-intermediate-term-a707c0e4",
-      "orig_slug": "technical-assessment-bullish-in-the-intermediate-term-a707c0e4"
-    },
-    {
-      "title": "Citi picks Advyzon for global UMA programme",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/citi-picks-advyzon-global-uma-114310736.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T11:43:10Z",
-      "image": "https://media.zenfs.com/en/private_banker_international_938/39380d070a8d0d84e07b23c034576aaf",
-      "slug": "citi-picks-advyzon-for-global-uma-programme-dd81dfb3",
-      "orig_slug": "citi-picks-advyzon-for-global-uma-programme-dd81dfb3"
-    },
-    {
-      "title": "Here’s Why Wall Street is Cautious on Intel Corporation (INTC)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-wall-street-cautious-intel-113556693.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T11:35:56Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/fe3d07f390ab832594f0e07094b3f8cd",
-      "slug": "heres-why-wall-street-is-cautious-on-intel-corporation-intc-19d88429",
-      "orig_slug": "heres-why-wall-street-is-cautious-on-intel-corporation-intc-19d88429"
-    },
-    {
-      "title": "​Lumentum Holdings (LITE) Sold Out Through 2027 on High Demand",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lumentum-holdings-lite-sold-2027-113548514.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T11:35:48Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/7b8e04e2a9e32a03229ac492c6aebf91",
-      "slug": "lumentum-holdings-lite-sold-out-through-2027-on-high-demand-e3cf2f18",
-      "orig_slug": "lumentum-holdings-lite-sold-out-through-2027-on-high-demand-e3cf2f18"
-    },
-    {
-      "title": "Can Shopify Inc. (SHOP) Double in the Next 5 Years?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/shopify-inc-shop-double-next-113540624.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T11:35:40Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/957bf12a8f9f34061283019df4f94b2d",
-      "slug": "can-shopify-inc-shop-double-in-the-next-5-years-06705749",
-      "orig_slug": "can-shopify-inc-shop-double-in-the-next-5-years-06705749"
-    },
-    {
-      "title": "Here’s What Argus Research Thinks About ​AppLovin (APP)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/argus-research-thinks-applovin-app-113516689.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T11:35:16Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/9bbb89ebaabf3d70fdba695a6a72a8ca",
-      "slug": "heres-what-argus-research-thinks-about-applovin-app-285675b0",
-      "orig_slug": "heres-what-argus-research-thinks-about-applovin-app-285675b0"
-    },
-    {
-      "title": "Analyst Report: Thomson-Reuters Corp",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_5121_AnalystReport_1776855767000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T11:02:47Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "analyst-report-thomson-reuters-corp-ed05e13f",
-      "orig_slug": "analyst-report-thomson-reuters-corp-ed05e13f"
-    },
-    {
-      "title": "Zurich UK unit sets up UHNW-focused support service for advisers",
-      "link": "https://finance.yahoo.com/sectors/healthcare/articles/zurich-uk-unit-sets-uhnw-113901235.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T11:39:01Z",
-      "image": "https://media.zenfs.com/en/private_banker_international_938/933a96b357ffa79ed9902b1f9ad3a120",
-      "slug": "zurich-uk-unit-sets-up-uhnw-focused-support-service-for-advisers-602a9fc6",
-      "orig_slug": "zurich-uk-unit-sets-up-uhnw-focused-support-service-for-advisers-602a9fc6"
-    },
-    {
-      "title": "Dow Jones Futures Rise As Trump Extends Iran Ceasefire; Tesla Earnings Due",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-extends-iran-ceasefire-tesla-earnings/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T11:35:16Z",
-      "image": "",
-      "slug": "dow-jones-futures-rise-as-trump-extends-iran-ceasefire-tesla-earnings-due-d0374206",
-      "orig_slug": "dow-jones-futures-rise-as-trump-extends-iran-ceasefire-tesla-earnings-due-d0374206"
-    },
-    {
-      "title": "Roth Capital Raises PT on Vertiv (VRT), Here’s Why",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/roth-capital-raises-pt-vertiv-113509703.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T11:35:09Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/76509fc6b33e1dbe732c6cef095105dc",
-      "slug": "roth-capital-raises-pt-on-vertiv-vrt-heres-why-51957e71",
-      "orig_slug": "roth-capital-raises-pt-on-vertiv-vrt-heres-why-51957e71"
-    },
-    {
-      "title": "Jefferies and BTIG Bullish on MercadoLibre (MELI)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-btig-bullish-mercadolibre-meli-113502352.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T11:35:02Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/3c14b7d7e5a067562bc220daa8e6dc22",
-      "slug": "jefferies-and-btig-bullish-on-mercadolibre-meli-13efd287",
-      "orig_slug": "jefferies-and-btig-bullish-on-mercadolibre-meli-13efd287"
-    },
-    {
-      "title": "​Wall Street Bullish on Advanced Micro Devices (AMD), Here’s What Analysts Have to Say",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-advanced-micro-113454281.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T11:34:54Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/78ee81d4d8cbe53924c848faf9b29aa4",
-      "slug": "wall-street-bullish-on-advanced-micro-devices-amd-heres-what-analysts-have-to-sa-8e8615ec",
-      "orig_slug": "wall-street-bullish-on-advanced-micro-devices-amd-heres-what-analysts-have-to-sa-8e8615ec"
-    },
-    {
-      "title": "Analyst Report: Unitedhealth Group Inc",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_3479_AnalystReport_1776855767000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T11:02:47Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "analyst-report-unitedhealth-group-inc-5fc9c76f",
-      "orig_slug": "analyst-report-unitedhealth-group-inc-5fc9c76f"
-    },
-    {
-      "title": "If You Bought Coca-Cola When Buffett Did, Here’s What You Have Today",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bought-coca-cola-buffett-did-113526860.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T11:35:26Z",
-      "image": "https://media.zenfs.com/en/24_7_wall_st__718/3f216b300a8097deb515713eafe500d2",
-      "slug": "if-you-bought-coca-cola-when-buffett-did-heres-what-you-have-today-68764b2c",
-      "orig_slug": "if-you-bought-coca-cola-when-buffett-did-heres-what-you-have-today-68764b2c"
-    },
-    {
-      "title": "Benchmark Bullish on Broadcom (AVGO), Here’s What the Firm Thinks About Meta Deal",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/benchmark-bullish-broadcom-avgo-firm-113447424.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T11:34:47Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/4a31470717140dc0b5330d507cacd0ab",
-      "slug": "benchmark-bullish-on-broadcom-avgo-heres-what-the-firm-thinks-about-meta-deal-55db905e",
-      "orig_slug": "benchmark-bullish-on-broadcom-avgo-heres-what-the-firm-thinks-about-meta-deal-55db905e"
-    },
-    {
-      "title": "Cadence Design And Nvidia (NVDA) Partnering to Boost AI Robo Development",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cadence-design-nvidia-nvda-partnering-113440416.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T11:34:40Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/aa94e059977d3251b8b0630718e013fc",
-      "slug": "cadence-design-and-nvidia-nvda-partnering-to-boost-ai-robo-development-aad50e91",
-      "orig_slug": "cadence-design-and-nvidia-nvda-partnering-to-boost-ai-robo-development-aad50e91"
-    },
-    {
-      "title": "Societe Generale takes on more crypto firms as clients, SG-FORGE CEO says",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/societe-generale-takes-more-crypto-113047378.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T11:30:47Z",
-      "image": "https://s.yimg.com/os/en/reuters-finance.com/e540db2ba0225b1b0ffd4cc0cabaa99a",
-      "slug": "societe-generale-takes-on-more-crypto-firms-as-clients-sg-forge-ceo-says-3ef1c704",
-      "orig_slug": "societe-generale-takes-on-more-crypto-firms-as-clients-sg-forge-ceo-says-3ef1c704"
-    },
-    {
-      "title": "Riverwater Sustainable Value Strategy’s Analysis on Century Aluminum Company (CENX)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/riverwater-sustainable-value-strategy-analysis-112908857.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T11:29:08Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/35e8e1a8c59126758dc404ba53cb6fe7",
-      "slug": "riverwater-sustainable-value-strategys-analysis-on-century-aluminum-company-cenx-dccd8489",
-      "orig_slug": "riverwater-sustainable-value-strategys-analysis-on-century-aluminum-company-cenx-dccd8489"
-    },
-    {
-      "title": "Analyst Report: Genuine Parts Co",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_3015_AnalystReport_1776855767000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T11:02:47Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "analyst-report-genuine-parts-co-e6305f24",
-      "orig_slug": "analyst-report-genuine-parts-co-e6305f24"
-    },
-    {
-      "title": "Walmart's Aerial Advantage: Drone Deliveries Can Boost Sales and Customer Loyalty",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/walmarts-aerial-advantage-drone-deliveries-113500644.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T11:35:00Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/286bd84f64424cacaef32224efa14ab0",
-      "slug": "walmarts-aerial-advantage-drone-deliveries-can-boost-sales-and-customer-loyalty-3fbe111b",
-      "orig_slug": "walmarts-aerial-advantage-drone-deliveries-can-boost-sales-and-customer-loyalty-3fbe111b"
-    },
-    {
-      "title": "Is VinFast Auto Ltd (VFS) Among the Must-Buy Penny Stocks to Invest In Now?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/vinfast-auto-ltd-vfs-among-112725420.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T11:27:25Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/d6f32540bfef05b71c9ec5a44ffde9fb",
-      "slug": "is-vinfast-auto-ltd-vfs-among-the-must-buy-penny-stocks-to-invest-in-now-bdb5a511",
-      "orig_slug": "is-vinfast-auto-ltd-vfs-among-the-must-buy-penny-stocks-to-invest-in-now-bdb5a511"
-    },
-    {
-      "title": "Why Coty Inc (COTY) Won’t Touch These Brands in Its Strategic Review",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-coty-inc-coty-won-112706083.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T11:27:06Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/b8185f3b8ff5c3e609dea726e91e00e0",
-      "slug": "why-coty-inc-coty-wont-touch-these-brands-in-its-strategic-review-759e8cb3",
-      "orig_slug": "why-coty-inc-coty-wont-touch-these-brands-in-its-strategic-review-759e8cb3"
-    },
-    {
-      "title": "Will UWM Holdings Corp (UWMC) Go to the Mat to Get Two Harbors?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/uwm-holdings-corp-uwmc-mat-112637504.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T11:26:37Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/680b1320a6a702c378188abec0e1b01c",
-      "slug": "will-uwm-holdings-corp-uwmc-go-to-the-mat-to-get-two-harbors-36d63283",
-      "orig_slug": "will-uwm-holdings-corp-uwmc-go-to-the-mat-to-get-two-harbors-36d63283"
-    },
-    {
-      "title": "What to Know About Playtika Holding Corp (PLTK)’s Strategic Shift",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/know-playtika-holding-corp-pltk-112623719.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T11:26:23Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/ea363bd2415853548add5dc82fb41eee",
-      "slug": "what-to-know-about-playtika-holding-corp-pltks-strategic-shift-4e067522",
-      "orig_slug": "what-to-know-about-playtika-holding-corp-pltks-strategic-shift-4e067522"
-    },
-    {
-      "title": "Market Digest: AAPL, GPC, UNH, ZION, TRI",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_46808_MarketSummary_1776854867000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T10:47:47Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "market-digest-aapl-gpc-unh-zion-tri-009f7599",
-      "orig_slug": "market-digest-aapl-gpc-unh-zion-tri-009f7599"
-    },
-    {
-      "title": "Forget This 9.4% Yielding Dividend Stock: 1 Rock‑Solid Income Stock That's Much Safer",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/forget-9-4-yielding-dividend-113200587.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T11:32:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/a87bd283ac5e3c5c17c0d4ee8bab8363",
-      "slug": "forget-this-94-yielding-dividend-stock-1-rocksolid-income-stock-thats-much-safer-b2d21fee",
-      "orig_slug": "forget-this-94-yielding-dividend-stock-1-rocksolid-income-stock-thats-much-safer-b2d21fee"
-    },
-    {
-      "title": "Here’s What BofA Securities Thinks About Grab Holdings Ltd (GRAB)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-securities-thinks-grab-holdings-112606157.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T11:26:06Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/eb6793e44cfa3bd4a665f44248e7cd9c",
-      "slug": "heres-what-bofa-securities-thinks-about-grab-holdings-ltd-grab-66dabd1e",
-      "orig_slug": "heres-what-bofa-securities-thinks-about-grab-holdings-ltd-grab-66dabd1e"
-    },
-    {
-      "title": "Recursion Pharmaceuticals Inc (RXRX): Is AI Strategy Working?",
-      "link": "https://finance.yahoo.com/sectors/healthcare/articles/recursion-pharmaceuticals-inc-rxrx-ai-112559046.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T11:25:59Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/43bf23345f4a2722434737f4333e06f5",
-      "slug": "recursion-pharmaceuticals-inc-rxrx-is-ai-strategy-working-44592844",
-      "orig_slug": "recursion-pharmaceuticals-inc-rxrx-is-ai-strategy-working-44592844"
-    },
-    {
-      "title": "Iovance Biotherapeutics Inc (IOVA): Jefferies Draws Attention Amtagvi Drug",
-      "link": "https://finance.yahoo.com/sectors/healthcare/articles/iovance-biotherapeutics-inc-iova-jefferies-112536798.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T11:25:36Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/3d66b92b7495195f73ca8f1694ea6422",
-      "slug": "iovance-biotherapeutics-inc-iova-jefferies-draws-attention-amtagvi-drug-2a03710b",
-      "orig_slug": "iovance-biotherapeutics-inc-iova-jefferies-draws-attention-amtagvi-drug-2a03710b"
-    },
-    {
-      "title": "Nuvation Bio Inc (NUVB): Take a Look at Glioma Revenue Potential",
-      "link": "https://finance.yahoo.com/sectors/healthcare/articles/nuvation-bio-inc-nuvb-look-112527159.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T11:25:27Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/a9e6b570ea839cd26340af2377729a31",
-      "slug": "nuvation-bio-inc-nuvb-take-a-look-at-glioma-revenue-potential-28ed060f",
-      "orig_slug": "nuvation-bio-inc-nuvb-take-a-look-at-glioma-revenue-potential-28ed060f"
-    },
-    {
-      "title": "Daily – Vickers Top Insider Picks for 04/22/2026",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_46806_InsiderActivity_1776852767000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T10:12:47Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-vickers-top-insider-picks-for-04222026-22601233",
-      "orig_slug": "daily-vickers-top-insider-picks-for-04222026-22601233"
-    },
-    {
-      "title": "Jim Cramer Says 'This Is Not A Circular Deal' As Amazon, Anthropic Lock In Massive $100 Billion AI Pact: 'Isn't It Possible That Everyone Wins?'",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/jim-cramer-says-not-circular-113118885.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T11:31:18Z",
-      "image": "https://s.yimg.com/os/en/Benzinga/8524198c2204a7e190e335c37971fe81",
-      "slug": "jim-cramer-says-this-is-not-a-circular-deal-as-amazon-anthropic-lock-in-massive--e84ba259",
-      "orig_slug": "jim-cramer-says-this-is-not-a-circular-deal-as-amazon-anthropic-lock-in-massive--e84ba259"
-    },
-    {
-      "title": "What’s Guggenheim Updates View on AtaiBeckley Inc (ATAI)?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/guggenheim-updates-view-ataibeckley-inc-112518768.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T11:25:18Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/e6cb9c31e591c3861af20857e280fa5a",
-      "slug": "whats-guggenheim-updates-view-on-ataibeckley-inc-atai-a2f4c3d1",
-      "orig_slug": "whats-guggenheim-updates-view-on-ataibeckley-inc-atai-a2f4c3d1"
-    },
-    {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise after Trump extends US-Iran ceasefire",
-      "link": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-after-trump-extends-us-iran-ceasefire-230429647.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-21T23:04:29Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/M8QT9ce5lB4MYtiDYtVSAg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-04/ca37ca85-ca53-490b-87a6-35defd06fb16",
-      "slug": "stock-market-today-dow-sp-500-nasdaq-futures-rise-after-trump-extends-us-iran-ce-baf7dfb6",
-      "orig_slug": "stock-market-today-dow-sp-500-nasdaq-futures-rise-after-trump-extends-us-iran-ce-baf7dfb6"
-    },
-    {
-      "title": "Are consumers finally cracking under the weight of $4 gas?",
-      "link": "https://finance.yahoo.com/news/are-consumers-finally-cracking-under-the-weight-of-4-gas-111859680.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T11:18:59Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/GvjXc_Y5D7dIVJhmjL_ifQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-04/ba2e8700-3e3b-11f1-bd6a-2b5b89827286",
-      "slug": "are-consumers-finally-cracking-under-the-weight-of-4-gas-af4cab0c",
-      "orig_slug": "are-consumers-finally-cracking-under-the-weight-of-4-gas-af4cab0c"
-    },
-    {
-      "title": "Gold and silver prices today, Wednesday, April 22: Prices open at their lowest levels in a week",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-and-silver-prices-today-wednesday-april-22-prices-open-at-their-lowest-levels-in-a-week-111856993.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T11:18:56Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/ZLQfbM_FkG3JYZfFBW2Dkw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://d29szjachogqwa.cloudfront.net/images/2026-03/edb7f57c-4e9c-418e-863a-3025d9486f77",
-      "slug": "gold-and-silver-prices-today-wednesday-april-22-prices-open-at-their-lowest-leve-00186e4f",
-      "orig_slug": "gold-and-silver-prices-today-wednesday-april-22-prices-open-at-their-lowest-leve-00186e4f"
     },
     {
       "title": "Daily – Vickers Top Buyers & Sellers for 04/22/2026",
@@ -434,22 +434,22 @@
       "orig_slug": "daily-vickers-top-buyers-sellers-for-04222026-16d05d18"
     },
     {
-      "title": "Boeing’s Commercial Jet Business Improves, Reducing Quarterly Loss",
-      "link": "https://www.wsj.com/business/earnings/boeing-ba-q1-earnings-report-stock-2026-e9c2aa35?siteid=yhoof2&yptr=yahoo",
+      "title": "Wall Street Is Lukewarm on Realty Income While Retail Piles In. What Do Analysts Know?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-lukewarm-realty-income-121549839.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T11:31:00Z",
-      "image": "",
-      "slug": "boeings-commercial-jet-business-improves-reducing-quarterly-loss-25da8211",
-      "orig_slug": "boeings-commercial-jet-business-improves-reducing-quarterly-loss-25da8211"
+      "pubDate": "2026-04-22T12:15:49Z",
+      "image": "https://media.zenfs.com/en/24_7_wall_st__718/e4f2cef6c841fd44ca7eae028c5284cd",
+      "slug": "wall-street-is-lukewarm-on-realty-income-while-retail-piles-in-what-do-analysts--036db0be",
+      "orig_slug": "wall-street-is-lukewarm-on-realty-income-while-retail-piles-in-what-do-analysts--036db0be"
     },
     {
-      "title": "GE Vernova Earnings Crush Views. AI Data Center 'Power Play' Jumps.",
-      "link": "https://www.investors.com/news/ge-vernova-earnings-ai-data-center-power-gev-stock/?src=A00220&yptr=yahoo",
+      "title": "Here’s What Baird Thinks About ​Affirm Holdings (AFRM)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/baird-thinks-affirm-holdings-afrm-113622022.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-22T11:12:50Z",
-      "image": "",
-      "slug": "ge-vernova-earnings-crush-views-ai-data-center-power-play-jumps-315d2887",
-      "orig_slug": "ge-vernova-earnings-crush-views-ai-data-center-power-play-jumps-315d2887"
+      "pubDate": "2026-04-22T11:36:22Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/c93bd143e11f207b9134ce79d062cc61",
+      "slug": "heres-what-baird-thinks-about-affirm-holdings-afrm-3b6d9749",
+      "orig_slug": "heres-what-baird-thinks-about-affirm-holdings-afrm-3b6d9749"
     }
   ]
 }
