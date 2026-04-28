@@ -1,77 +1,86 @@
 {
-  "updated": "2026-04-28T15:17:02Z",
+  "updated": "2026-04-28T17:30:15Z",
   "items": [
     {
-      "title": "Stock market today: S&P 500 and Nasdaq sink as OpenAI-linked stocks falter",
-      "link": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-tuesday-april-28-225503310.html",
+      "title": "Jim Cramer on Zoom Communications: “This One Can Go Higher”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-zoom-communications-one-171522292.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-27T22:55:03Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/m1oPqXhSS88VoVCNyWP0lg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MjQ-/https://d29szjachogqwa.cloudfront.net/images/2026-04/111d22fd-e161-468e-8b81-87b0df8c5ad4",
-      "slug": "stock-market-today-sp-500-and-nasdaq-sink-as-openai-linked-stocks-falter-70ed7cb6",
-      "orig_slug": "stock-market-today-sp-500-and-nasdaq-sink-as-openai-linked-stocks-falter-70ed7cb6"
+      "pubDate": "2026-04-28T17:15:22Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/2ac535b759ecf7fc5feb9bce3b0eebd2",
+      "slug": "jim-cramer-on-zoom-communications-this-one-can-go-higher-9a80364a",
+      "orig_slug": "jim-cramer-on-zoom-communications-this-one-can-go-higher-9a80364a"
     },
     {
-      "title": "Novartis Yo-Yoes As Generics Take A Bite Out Of Its First-Quarter Sales",
-      "link": "https://www.investors.com/news/technology/novartis-stock-novartis-earnings-q1-2026/?src=A00220&yptr=yahoo",
+      "title": "Jim Cramer on Symbotic: “You Are Going Up Against Elon Musk, But There’s Room for Both”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-symbotic-going-against-171515944.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T14:54:53Z",
-      "image": "",
-      "slug": "novartis-yo-yoes-as-generics-take-a-bite-out-of-its-first-quarter-sales-5fe0873c",
-      "orig_slug": "novartis-yo-yoes-as-generics-take-a-bite-out-of-its-first-quarter-sales-5fe0873c"
+      "pubDate": "2026-04-28T17:15:15Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/86b6f1eab4d4c0ffbf065f3a834e0a1b",
+      "slug": "jim-cramer-on-symbotic-you-are-going-up-against-elon-musk-but-theres-room-for-bo-53bbd40c",
+      "orig_slug": "jim-cramer-on-symbotic-you-are-going-up-against-elon-musk-but-theres-room-for-bo-53bbd40c"
     },
     {
-      "title": "What Makes Salesforce (CRM) a Resilient Business Model?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/makes-salesforce-crm-resilient-business-145446211.html",
+      "title": "Jim Cramer on Broadcom: “I Think It Should Trade Higher”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-broadcom-think-trade-171504236.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T14:54:46Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/4ef0bf0d70c14c7d9ca3d34bcf332ab4",
-      "slug": "what-makes-salesforce-crm-a-resilient-business-model-f2c5d78e",
-      "orig_slug": "what-makes-salesforce-crm-a-resilient-business-model-f2c5d78e"
+      "pubDate": "2026-04-28T17:15:04Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/61065709a1bdf54b4284c76a9977e4c9",
+      "slug": "jim-cramer-on-broadcom-i-think-it-should-trade-higher-1acdcbdf",
+      "orig_slug": "jim-cramer-on-broadcom-i-think-it-should-trade-higher-1acdcbdf"
     },
     {
-      "title": "Tech stocks today: Oracle, AMD, and other AI-driven names sink, with Big Tech earnings on deck",
-      "link": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-nvidia-magnificent-seven-113535737.html",
+      "title": "Jim Cramer on Strategy Inc: “If We Want to Have Bitcoin Exposure, We Buy Bitcoin”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-strategy-inc-want-171455397.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-27T11:35:35Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/dbru7QmDoxMC59ZCEiCWxg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-04/bc51f65f-9e17-4d44-8ae9-840701b66e9f",
-      "slug": "tech-stocks-today-oracle-amd-and-other-ai-driven-names-sink-with-big-tech-earnin-0cea11dc",
-      "orig_slug": "tech-stocks-today-oracle-amd-and-other-ai-driven-names-sink-with-big-tech-earnin-0cea11dc"
+      "pubDate": "2026-04-28T17:14:55Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/92e23b494db337c45c9aa5376001a656",
+      "slug": "jim-cramer-on-strategy-inc-if-we-want-to-have-bitcoin-exposure-we-buy-bitcoin-461b9bc0",
+      "orig_slug": "jim-cramer-on-strategy-inc-if-we-want-to-have-bitcoin-exposure-we-buy-bitcoin-461b9bc0"
     },
     {
-      "title": "Spotify stock tanks as company misses analyst estimates on subscriber outlook",
-      "link": "https://finance.yahoo.com/markets/article/spotify-stock-tanks-as-company-misses-analyst-estimates-on-subscriber-outlook-145211593.html",
+      "title": "Jim Cramer Says “Maybe We Need to Do a Field Trip” to Ollie’s",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-maybe-field-171446304.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T14:52:11Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/ddRnLfCCjjMCKe8qvS3PCA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-04/b9101d62-1ec8-4eaa-b925-4d2b1dc02516",
-      "slug": "spotify-stock-tanks-as-company-misses-analyst-estimates-on-subscriber-outlook-85089001",
-      "orig_slug": "spotify-stock-tanks-as-company-misses-analyst-estimates-on-subscriber-outlook-85089001"
+      "pubDate": "2026-04-28T17:14:46Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/6eeac832621827d123ccd03733dcdaca",
+      "slug": "jim-cramer-says-maybe-we-need-to-do-a-field-trip-to-ollies-5a9d7820",
+      "orig_slug": "jim-cramer-says-maybe-we-need-to-do-a-field-trip-to-ollies-5a9d7820"
     },
     {
-      "title": "Technical Assessment: Bullish in the Intermediate-Term",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_46868_TechnicalAnalysis_1777374135000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "title": "Jim Cramer Planet Labs: “We’re Not Going to Pay These Prices”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-planet-labs-not-171437232.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T11:02:15Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "technical-assessment-bullish-in-the-intermediate-term-a645d420",
-      "orig_slug": "technical-assessment-bullish-in-the-intermediate-term-a645d420"
+      "pubDate": "2026-04-28T17:14:37Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/753cb9cb32336de8f86289f7a7c7b36e",
+      "slug": "jim-cramer-planet-labs-were-not-going-to-pay-these-prices-304de80f",
+      "orig_slug": "jim-cramer-planet-labs-were-not-going-to-pay-these-prices-304de80f"
     },
     {
-      "title": "SMH Was the One of the Best-Performing Non-Leveraged ETFs of the Last Decade. Here Is the Concentration Risk Investors Miss",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/smh-one-best-performing-non-145143914.html",
+      "title": "How to shop for a HELOC: 10 ways to get the best HELOC rate",
+      "link": "https://finance.yahoo.com/news/10-ways-best-heloc-rate-143105557.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T14:51:43Z",
-      "image": "https://media.zenfs.com/en/24_7_wall_st__718/4606206ec68e130b309a25d56899fafa",
-      "slug": "smh-was-the-one-of-the-best-performing-non-leveraged-etfs-of-the-last-decade-her-5634f1af",
-      "orig_slug": "smh-was-the-one-of-the-best-performing-non-leveraged-etfs-of-the-last-decade-her-5634f1af"
+      "pubDate": "2026-04-28T17:14:02Z",
+      "image": "https://media.zenfs.com/en/bankrate_626/6fc942241448edf7ecfc1032e961cc73",
+      "slug": "how-to-shop-for-a-heloc-10-ways-to-get-the-best-heloc-rate-9809e096",
+      "orig_slug": "how-to-shop-for-a-heloc-10-ways-to-get-the-best-heloc-rate-9809e096"
     },
     {
-      "title": "Elevance Health (ELV) Positioned for Long-Term Margin Improvement Amid Medium-Term Challenges",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/elevance-health-elv-positioned-long-144830642.html",
+      "title": "Asbury (ABG) Q1 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/asbury-abg-q1-2026-earnings-170946015.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T14:48:30Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/a7c1a5f21b4e9e905a9c3115375db4b8",
-      "slug": "elevance-health-elv-positioned-for-long-term-margin-improvement-amid-medium-term-aba36ed7",
-      "orig_slug": "elevance-health-elv-positioned-for-long-term-margin-improvement-amid-medium-term-aba36ed7"
+      "pubDate": "2026-04-28T17:09:46Z",
+      "image": "https://s.yimg.com/os/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
+      "slug": "asbury-abg-q1-2026-earnings-call-transcript-368bec3b",
+      "orig_slug": "asbury-abg-q1-2026-earnings-call-transcript-368bec3b"
+    },
+    {
+      "title": "Coca-Cola exec says Coke Zero is 'far and away our best innovation ... over the last 25 years' — and it's powering a sales turnaround",
+      "link": "https://finance.yahoo.com/news/coca-cola-exec-says-coke-zero-is-far-and-away-our-best-innovation--over-the-last-25-years--and-its-powering-a-sales-turnaround-164719235.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-28T16:47:19Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/lLHKSi5ABHqhoO1YL1.ByQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-02/8c592b00-e31f-11ef-9eeb-2b9522d28c9b",
+      "slug": "coca-cola-exec-says-coke-zero-is-far-and-away-our-best-innovation-over-the-last--a20c19d1",
+      "orig_slug": "coca-cola-exec-says-coke-zero-is-far-and-away-our-best-innovation-over-the-last--a20c19d1"
     },
     {
       "title": "Oracle, AMD, and CoreWeave stocks sink after report says OpenAI missed sales, user targets",
@@ -83,76 +92,94 @@
       "orig_slug": "oracle-amd-and-coreweave-stocks-sink-after-report-says-openai-missed-sales-user--4a06cb16"
     },
     {
-      "title": "Analysis-Blocking of Meta's AI startup buy raises risk for cross-border China tech deals",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/analysis-blocking-metas-ai-startup-094455580.html",
+      "title": "Third straight decline in benchmark diesel as futures trend higher",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/third-straight-decline-benchmark-diesel-165512404.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T14:44:34Z",
-      "image": "https://s.yimg.com/os/en/reuters.com/a4bb26f87c650599dae57e781f797774",
-      "slug": "analysis-blocking-of-metas-ai-startup-buy-raises-risk-for-cross-border-china-tec-320c790c",
-      "orig_slug": "analysis-blocking-of-metas-ai-startup-buy-raises-risk-for-cross-border-china-tec-320c790c"
+      "pubDate": "2026-04-28T16:55:12Z",
+      "image": "https://media.zenfs.com/en/freightwaves_373/b5853e493e7c97220d64cd051d143422",
+      "slug": "third-straight-decline-in-benchmark-diesel-as-futures-trend-higher-3e794cd4",
+      "orig_slug": "third-straight-decline-in-benchmark-diesel-as-futures-trend-higher-3e794cd4"
     },
     {
-      "title": "Report: SpaceX Ties Elon Musk's Pay To Mars Colony, Space Data Centers",
-      "link": "https://www.investors.com/news/elon-musk-spacex-pay-data-center-starship-tesla-billionaire/?src=A00220&yptr=yahoo",
+      "title": "Berkshire sits on $400B in cash and trails the S&P 500 by 10 points — and Greg Abel's first big test is Saturday",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-sits-400b-cash-trails-165500606.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T14:43:34Z",
-      "image": "",
-      "slug": "report-spacex-ties-elon-musks-pay-to-mars-colony-space-data-centers-9c98a7d2",
-      "orig_slug": "report-spacex-ties-elon-musks-pay-to-mars-colony-space-data-centers-9c98a7d2"
+      "pubDate": "2026-04-28T16:55:00Z",
+      "image": "https://media.zenfs.com/en/moneywise_327/8f0667277a259c8ed603d29b7105db15",
+      "slug": "berkshire-sits-on-400b-in-cash-and-trails-the-sp-500-by-10-points-and-greg-abels-fe30edef",
+      "orig_slug": "berkshire-sits-on-400b-in-cash-and-trails-the-sp-500-by-10-points-and-greg-abels-fe30edef"
     },
     {
-      "title": "Analyst Report: SAP SE",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_3373_AnalystReport_1777373480000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "title": "Omega (OHI) Q4 2025 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/omega-ohi-q4-2025-earnings-170813510.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T10:51:20Z",
+      "pubDate": "2026-04-28T17:08:13Z",
+      "image": "https://s.yimg.com/os/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
+      "slug": "omega-ohi-q4-2025-earnings-call-transcript-c9b47785",
+      "orig_slug": "omega-ohi-q4-2025-earnings-call-transcript-c9b47785"
+    },
+    {
+      "title": "Xylem Inc. Q1 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/xylem-inc-q1-2026-earnings-165432570.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-28T16:54:32Z",
+      "image": "https://s.yimg.com/os/en/moby_896/e0c8d82f79d100eca05c787054811005",
+      "slug": "xylem-inc-q1-2026-earnings-call-summary-8bb04d0d",
+      "orig_slug": "xylem-inc-q1-2026-earnings-call-summary-8bb04d0d"
+    },
+    {
+      "title": "Zimmer Biomet Holdings, Inc. Q1 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/sectors/healthcare/articles/zimmer-biomet-holdings-inc-q1-165418668.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-28T16:54:18Z",
+      "image": "https://s.yimg.com/os/en/moby_896/d7c4c74d3ed4bddfc137797cefedee3d",
+      "slug": "zimmer-biomet-holdings-inc-q1-2026-earnings-call-summary-ad08a5be",
+      "orig_slug": "zimmer-biomet-holdings-inc-q1-2026-earnings-call-summary-ad08a5be"
+    },
+    {
+      "title": "Technical Assessment: Bullish in the Intermediate-Term",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_46868_TechnicalAnalysis_1777374135000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-28T11:02:15Z",
       "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "analyst-report-sap-se-1f7c485d",
-      "orig_slug": "analyst-report-sap-se-1f7c485d"
+      "slug": "technical-assessment-bullish-in-the-intermediate-term-a645d420",
+      "orig_slug": "technical-assessment-bullish-in-the-intermediate-term-a645d420"
     },
     {
-      "title": "Ergawealth Advisors Builds Significant Position in First Trust BuyWrite Income ETF, According to Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/options/articles/ergawealth-advisors-builds-significant-position-145100994.html",
+      "title": "United Parcel Service, Inc. Q1 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/united-parcel-inc-q1-2026-165353986.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T14:51:00Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/412a815baaa0a5f0e7e30a2f98b11715",
-      "slug": "ergawealth-advisors-builds-significant-position-in-first-trust-buywrite-income-e-11a87a29",
-      "orig_slug": "ergawealth-advisors-builds-significant-position-in-first-trust-buywrite-income-e-11a87a29"
+      "pubDate": "2026-04-28T16:53:53Z",
+      "image": "https://s.yimg.com/os/en/moby_896/a22b607acb72667c1ead4352f69ff5d5",
+      "slug": "united-parcel-service-inc-q1-2026-earnings-call-summary-b50c6f61",
+      "orig_slug": "united-parcel-service-inc-q1-2026-earnings-call-summary-b50c6f61"
     },
     {
-      "title": "Incyte Wavers As Growth Questions Plague Its Up-And-Coming Drug",
-      "link": "https://www.investors.com/news/technology/incyte-stock-incyte-earnings-q1-2026/?src=A00220&yptr=yahoo",
+      "title": "S&P Global Inc. Q1 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-global-inc-q1-2026-165332107.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T14:41:15Z",
-      "image": "",
-      "slug": "incyte-wavers-as-growth-questions-plague-its-up-and-coming-drug-3342e7ef",
-      "orig_slug": "incyte-wavers-as-growth-questions-plague-its-up-and-coming-drug-3342e7ef"
+      "pubDate": "2026-04-28T16:53:32Z",
+      "image": "https://s.yimg.com/os/en/moby_896/eab9fd7ec2ff68406238514eb4eafc63",
+      "slug": "sp-global-inc-q1-2026-earnings-call-summary-711ca8b8",
+      "orig_slug": "sp-global-inc-q1-2026-earnings-call-summary-711ca8b8"
     },
     {
-      "title": "Impact of Investor Sentiment and Geopolitical Events Hurt Booking Holdings (BKNG) in Q1",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/impact-investor-sentiment-geopolitical-events-144008625.html",
+      "title": "SMITHFIELD FOODS INC Q1 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/smithfield-foods-inc-q1-2026-165321839.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T14:40:08Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/4c674d11ee495043554fc56b23c97e1e",
-      "slug": "impact-of-investor-sentiment-and-geopolitical-events-hurt-booking-holdings-bkng--91c13960",
-      "orig_slug": "impact-of-investor-sentiment-and-geopolitical-events-hurt-booking-holdings-bkng--91c13960"
+      "pubDate": "2026-04-28T16:53:21Z",
+      "image": "https://s.yimg.com/os/en/moby_896/e7bc0f471d8abbecf07aaf628165e1bf",
+      "slug": "smithfield-foods-inc-q1-2026-earnings-call-summary-fe4dd1d4",
+      "orig_slug": "smithfield-foods-inc-q1-2026-earnings-call-summary-fe4dd1d4"
     },
     {
-      "title": "Demand Surge Fuels Taiwan Semiconductor Manufacturing Company’s (TSM) Rally",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/demand-surge-fuels-taiwan-semiconductor-143549698.html",
+      "title": "Exclusive-US orders chip equipment companies to halt some shipments to Hua Hong, China's second-largest chipmaker",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/exclusive-us-orders-chip-equipment-165310503.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T14:35:49Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/442e18eff9a8e446a0d4424af02ac033",
-      "slug": "demand-surge-fuels-taiwan-semiconductor-manufacturing-companys-tsm-rally-7895e546",
-      "orig_slug": "demand-surge-fuels-taiwan-semiconductor-manufacturing-companys-tsm-rally-7895e546"
-    },
-    {
-      "title": "Citi Lowers Price Target On Palantir Ahead Of Q1 Earnings Report",
-      "link": "https://www.investors.com/news/technology/palantir-stock-pltr-citi-lowers-price-target-palantir-earnings/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T14:35:39Z",
-      "image": "",
-      "slug": "citi-lowers-price-target-on-palantir-ahead-of-q1-earnings-report-77ee0d0f",
-      "orig_slug": "citi-lowers-price-target-on-palantir-ahead-of-q1-earnings-report-77ee0d0f"
+      "pubDate": "2026-04-28T16:53:10Z",
+      "image": "https://s.yimg.com/os/en/reuters-finance.com/e686809f5f85823a74ee3b79f84e3611",
+      "slug": "exclusive-us-orders-chip-equipment-companies-to-halt-some-shipments-to-hua-hong--1f56a7f1",
+      "orig_slug": "exclusive-us-orders-chip-equipment-companies-to-halt-some-shipments-to-hua-hong--1f56a7f1"
     },
     {
       "title": "Analyst Report: Blackstone Inc",
@@ -164,49 +191,103 @@
       "orig_slug": "analyst-report-blackstone-inc-c3d32ea8"
     },
     {
-      "title": "This Magnificent Dividend Stock Is the Only Restaurant Name I'd Buy and Never Sell",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/magnificent-dividend-stock-only-restaurant-145000766.html",
+      "title": "Rithm Capital Corp. Q1 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rithm-capital-corp-q1-2026-165256137.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T14:50:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/b79af23e6d72025b8d9bf6a7fff6b29a",
-      "slug": "this-magnificent-dividend-stock-is-the-only-restaurant-name-id-buy-and-never-sel-8bbad1dd",
-      "orig_slug": "this-magnificent-dividend-stock-is-the-only-restaurant-name-id-buy-and-never-sel-8bbad1dd"
+      "pubDate": "2026-04-28T16:52:56Z",
+      "image": "https://s.yimg.com/os/en/moby_896/2aa6f93d9120438f88c2a7c72306a8c4",
+      "slug": "rithm-capital-corp-q1-2026-earnings-call-summary-d797b633",
+      "orig_slug": "rithm-capital-corp-q1-2026-earnings-call-summary-d797b633"
     },
     {
-      "title": "Nvidia Stock Drops On OpenAI Jitters; Is Nvidia A Buy Now?",
-      "link": "https://www.investors.com/research/nvidia-nvda-stock-amazon-alphabet-meta-apple/?src=A00220&yptr=yahoo",
+      "title": "Pentair plc Q1 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pentair-plc-q1-2026-earnings-165250265.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T14:35:40Z",
+      "pubDate": "2026-04-28T16:52:50Z",
+      "image": "https://s.yimg.com/os/en/moby_896/5cdc827ff7f63d6775d4de250010d962",
+      "slug": "pentair-plc-q1-2026-earnings-call-summary-693f7544",
+      "orig_slug": "pentair-plc-q1-2026-earnings-call-summary-693f7544"
+    },
+    {
+      "title": "RenaissanceRe (RNR) Q3 2025 Earnings Transcript",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/renaissancere-rnr-q3-2025-earnings-170750165.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-28T17:07:50Z",
+      "image": "https://s.yimg.com/os/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
+      "slug": "renaissancere-rnr-q3-2025-earnings-transcript-e1052f19",
+      "orig_slug": "renaissancere-rnr-q3-2025-earnings-transcript-e1052f19"
+    },
+    {
+      "title": "PACCAR Inc Q1 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/paccar-inc-q1-2026-earnings-165245419.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-28T16:52:45Z",
+      "image": "https://s.yimg.com/os/en/moby_896/9554d33545a078ecf62fecd5a001d482",
+      "slug": "paccar-inc-q1-2026-earnings-call-summary-592b3789",
+      "orig_slug": "paccar-inc-q1-2026-earnings-call-summary-592b3789"
+    },
+    {
+      "title": "The Coca-Cola Company Q1 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-company-q1-2026-165221527.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-28T16:52:21Z",
+      "image": "https://s.yimg.com/os/en/moby_896/9822f52d02e64dc53af8599c4d76f69d",
+      "slug": "the-coca-cola-company-q1-2026-earnings-call-summary-0dbb8168",
+      "orig_slug": "the-coca-cola-company-q1-2026-earnings-call-summary-0dbb8168"
+    },
+    {
+      "title": "Analyst Report: SAP SE",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_3373_AnalystReport_1777373480000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-28T10:51:20Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-sap-se-1f7c485d",
+      "orig_slug": "analyst-report-sap-se-1f7c485d"
+    },
+    {
+      "title": "Invesco Ltd. Q1 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/invesco-ltd-q1-2026-earnings-165213638.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-28T16:52:13Z",
+      "image": "https://s.yimg.com/os/en/moby_896/c856ee2e1322b8001c4a831408c73c61",
+      "slug": "invesco-ltd-q1-2026-earnings-call-summary-3a8a8485",
+      "orig_slug": "invesco-ltd-q1-2026-earnings-call-summary-3a8a8485"
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Feels The Heat After OpenAI Report; Astera Labs Makes This Big Move (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-openai-nvidia-nvda-stock/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-28T16:51:59Z",
       "image": "",
-      "slug": "nvidia-stock-drops-on-openai-jitters-is-nvidia-a-buy-now-cda1ddd2",
-      "orig_slug": "nvidia-stock-drops-on-openai-jitters-is-nvidia-a-buy-now-cda1ddd2"
+      "slug": "stock-market-today-nasdaq-feels-the-heat-after-openai-report-astera-labs-makes-t-db6ee226",
+      "orig_slug": "stock-market-today-nasdaq-feels-the-heat-after-openai-report-astera-labs-makes-t-db6ee226"
     },
     {
-      "title": "Buffett said Scooter's Coffee was too small for Berkshire — now it's a $1B chain with 900+ locations",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/buffett-said-scooters-coffee-too-143500100.html",
+      "title": "CFO Sells 30,000 Shares of Flywire Worth $420,000",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cfo-sells-30-000-shares-170747368.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T14:35:00Z",
-      "image": "https://media.zenfs.com/en/moneywise_327/806ec3983256f488c80429f1793f55e1",
-      "slug": "buffett-said-scooters-coffee-was-too-small-for-berkshire-now-its-a-1b-chain-with-60e27749",
-      "orig_slug": "buffett-said-scooters-coffee-was-too-small-for-berkshire-now-its-a-1b-chain-with-60e27749"
+      "pubDate": "2026-04-28T17:07:47Z",
+      "image": "https://s.yimg.com/os/en/motleyfool.com/e1ee430ed22ebe173d4eb7447a20e7be",
+      "slug": "cfo-sells-30000-shares-of-flywire-worth-420000-23749475",
+      "orig_slug": "cfo-sells-30000-shares-of-flywire-worth-420000-23749475"
     },
     {
-      "title": "'We might need to raise rates': A top Fed official just put a rate hike back on the table — and it hinges on one thing",
-      "link": "https://finance.yahoo.com/economy/policy/articles/might-raise-rates-top-fed-142700594.html",
+      "title": "JetBlue Airways Corporation Q1 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jetblue-airways-corporation-q1-2026-165142230.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T14:27:00Z",
-      "image": "https://media.zenfs.com/en/moneywise_ecomm_711/0338ca398bbbc65990e9fd480d811afd",
-      "slug": "we-might-need-to-raise-rates-a-top-fed-official-just-put-a-rate-hike-back-on-the-91a6f7c3",
-      "orig_slug": "we-might-need-to-raise-rates-a-top-fed-official-just-put-a-rate-hike-back-on-the-91a6f7c3"
+      "pubDate": "2026-04-28T16:51:42Z",
+      "image": "https://s.yimg.com/os/en/moby_896/cafe8c2d9db64fcd9b5b9ff4f2738833",
+      "slug": "jetblue-airways-corporation-q1-2026-earnings-call-summary-a201695c",
+      "orig_slug": "jetblue-airways-corporation-q1-2026-earnings-call-summary-a201695c"
     },
     {
-      "title": "Here’s What Boosted RBC Bearings (RBC) in Q1",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/boosted-rbc-bearings-rbc-q1-142634169.html",
+      "title": "The Sherwin-Williams Company Q1 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sherwin-williams-company-q1-2026-165121226.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T14:26:34Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/38009317c7595cd66995afdee703c02b",
-      "slug": "heres-what-boosted-rbc-bearings-rbc-in-q1-acff02bc",
-      "orig_slug": "heres-what-boosted-rbc-bearings-rbc-in-q1-acff02bc"
+      "pubDate": "2026-04-28T16:51:21Z",
+      "image": "https://s.yimg.com/os/en/moby_896/d4503e082c0759c6ef8cf63231f8aabf",
+      "slug": "the-sherwin-williams-company-q1-2026-earnings-call-summary-00eb618a",
+      "orig_slug": "the-sherwin-williams-company-q1-2026-earnings-call-summary-00eb618a"
     },
     {
       "title": "Analyst Report: Cleveland-Cliffs Inc",
@@ -218,49 +299,49 @@
       "orig_slug": "analyst-report-cleveland-cliffs-inc-a0fab161"
     },
     {
-      "title": "Should You Buy the $1.75 Trillion SpaceX IPO? Here Is What History Says",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/buy-1-75-trillion-spacex-145000877.html",
+      "title": "CMS Energy Corporation Q1 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/sectors/energy/articles/cms-energy-corporation-q1-2026-165056634.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T14:50:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/94141900dc78097ee0c57503db5e793c",
-      "slug": "should-you-buy-the-175-trillion-spacex-ipo-here-is-what-history-says-250eed38",
-      "orig_slug": "should-you-buy-the-175-trillion-spacex-ipo-here-is-what-history-says-250eed38"
+      "pubDate": "2026-04-28T16:50:56Z",
+      "image": "https://s.yimg.com/os/en/moby_896/e221f73041d60b9d9e6643efb74323c7",
+      "slug": "cms-energy-corporation-q1-2026-earnings-call-summary-61141827",
+      "orig_slug": "cms-energy-corporation-q1-2026-earnings-call-summary-61141827"
     },
     {
-      "title": "Lemaitre Vascular (LMAT) is Strengthening Profitability in Vascular Disease Treatment",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lemaitre-vascular-lmat-strengthening-profitability-142145899.html",
+      "title": "Hilton Worldwide Holdings Inc. Q1 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hilton-worldwide-holdings-inc-q1-165051154.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T14:21:45Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/895717c57531be675af9773c83244a7c",
-      "slug": "lemaitre-vascular-lmat-is-strengthening-profitability-in-vascular-disease-treatm-6665de53",
-      "orig_slug": "lemaitre-vascular-lmat-is-strengthening-profitability-in-vascular-disease-treatm-6665de53"
+      "pubDate": "2026-04-28T16:50:51Z",
+      "image": "https://s.yimg.com/os/en/moby_896/7ac9f235af5285b17cacc6c9e2b5fc10",
+      "slug": "hilton-worldwide-holdings-inc-q1-2026-earnings-call-summary-b62b9461",
+      "orig_slug": "hilton-worldwide-holdings-inc-q1-2026-earnings-call-summary-b62b9461"
     },
     {
-      "title": "Stock Market Today: Nasdaq Sells Off On OpenAI Report; Rambus, Celestica, Nvidia Take A Dive (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-openai-nvidia-nvda-stock/?src=A00220&yptr=yahoo",
+      "title": "Expand Energy EXE Q2 2025 Earnings Transcript",
+      "link": "https://finance.yahoo.com/sectors/energy/articles/expand-energy-exe-q2-2025-170529807.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T14:21:22Z",
-      "image": "",
-      "slug": "stock-market-today-nasdaq-sells-off-on-openai-report-rambus-celestica-nvidia-tak-db6ee226",
-      "orig_slug": "stock-market-today-nasdaq-sells-off-on-openai-report-rambus-celestica-nvidia-tak-db6ee226"
+      "pubDate": "2026-04-28T17:05:29Z",
+      "image": "https://s.yimg.com/os/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
+      "slug": "expand-energy-exe-q2-2025-earnings-transcript-0b00be3c",
+      "orig_slug": "expand-energy-exe-q2-2025-earnings-transcript-0b00be3c"
     },
     {
-      "title": "Digi International (DGII) Surged on Strong Earnings Report",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/digi-international-dgii-surged-strong-142004500.html",
+      "title": "Centene Corporation Q1 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/sectors/healthcare/articles/centene-corporation-q1-2026-earnings-165040266.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T14:20:04Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/cd17991d868150fbe6140cb0141c83fd",
-      "slug": "digi-international-dgii-surged-on-strong-earnings-report-1259f63c",
-      "orig_slug": "digi-international-dgii-surged-on-strong-earnings-report-1259f63c"
+      "pubDate": "2026-04-28T16:50:40Z",
+      "image": "https://s.yimg.com/os/en/moby_896/512b5308fdf874005ab71061210c7075",
+      "slug": "centene-corporation-q1-2026-earnings-call-summary-e22a09c2",
+      "orig_slug": "centene-corporation-q1-2026-earnings-call-summary-e22a09c2"
     },
     {
-      "title": "United Arab Emirates to leave OPEC+ in May, dealing blow to oil bloc",
-      "link": "https://finance.yahoo.com/markets/article/united-arab-emirates-to-leave-opec-in-may-dealing-blow-to-oil-bloc-130449643.html",
+      "title": "Herc Holdings Inc. Q1 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/herc-holdings-inc-q1-2026-164949444.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T13:04:49Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/0zlczYqF_PnzJediWgVuJA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-04/9c0c7717-f0d0-4ffd-861c-fcf58518be07",
-      "slug": "united-arab-emirates-to-leave-opec-in-may-dealing-blow-to-oil-bloc-76856a36",
-      "orig_slug": "united-arab-emirates-to-leave-opec-in-may-dealing-blow-to-oil-bloc-76856a36"
+      "pubDate": "2026-04-28T16:49:49Z",
+      "image": "https://s.yimg.com/os/en/moby_896/b66782d1bc5a52a36d27196a151bfc7d",
+      "slug": "herc-holdings-inc-q1-2026-earnings-call-summary-f219e7c0",
+      "orig_slug": "herc-holdings-inc-q1-2026-earnings-call-summary-f219e7c0"
     },
     {
       "title": "Analyst Report: Raymond James Financial Inc",
@@ -272,49 +353,49 @@
       "orig_slug": "analyst-report-raymond-james-financial-inc-8813aad4"
     },
     {
-      "title": "Harold Hughes Departs as TritonPoint Partners CEO",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/harold-hughes-departs-tritonpoint-partners-144919747.html",
+      "title": "Kimberly-Clark Corporation Q1 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kimberly-clark-corporation-q1-2026-164936646.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T14:49:19Z",
-      "image": "https://s.yimg.com/os/en/wealth_management_474/08a3e740b578d840017c1b82cf5bb63a",
-      "slug": "harold-hughes-departs-as-tritonpoint-partners-ceo-885fec8b",
-      "orig_slug": "harold-hughes-departs-as-tritonpoint-partners-ceo-885fec8b"
+      "pubDate": "2026-04-28T16:49:36Z",
+      "image": "https://s.yimg.com/os/en/moby_896/27622f700c5ed1a33db833fada1c98a8",
+      "slug": "kimberly-clark-corporation-q1-2026-earnings-call-summary-be8343e7",
+      "orig_slug": "kimberly-clark-corporation-q1-2026-earnings-call-summary-be8343e7"
     },
     {
-      "title": "Signs of Stabilization Lifted Helios Technologies (HLIO) Higher in Q1",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/signs-stabilization-lifted-helios-technologies-141620927.html",
+      "title": "Galaxy Digital Q1 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/galaxy-digital-q1-2026-earnings-164927154.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T14:16:20Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/f79f7bc95788a8c1147f18a855c7962d",
-      "slug": "signs-of-stabilization-lifted-helios-technologies-hlio-higher-in-q1-c127f5ff",
-      "orig_slug": "signs-of-stabilization-lifted-helios-technologies-hlio-higher-in-q1-c127f5ff"
+      "pubDate": "2026-04-28T16:49:27Z",
+      "image": "https://s.yimg.com/os/en/moby_896/4e2c84f9d083ab5a6461366aaf62efb4",
+      "slug": "galaxy-digital-q1-2026-earnings-call-summary-6cecad56",
+      "orig_slug": "galaxy-digital-q1-2026-earnings-call-summary-6cecad56"
     },
     {
-      "title": "Robinhood To Report As Growth Slows And Expansions Add Risk",
-      "link": "https://www.investors.com/news/robinhood-earnings-q1-hood-stock/?src=A00220&yptr=yahoo",
+      "title": "The Single Biggest Risk With Investing in This Top Warren Buffett Stock Is Something Investors Probably Aren't Even Thinking About",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/single-biggest-risk-investing-top-170500340.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T14:12:20Z",
-      "image": "",
-      "slug": "robinhood-to-report-as-growth-slows-and-expansions-add-risk-2a479c64",
-      "orig_slug": "robinhood-to-report-as-growth-slows-and-expansions-add-risk-2a479c64"
+      "pubDate": "2026-04-28T17:05:00Z",
+      "image": "https://s.yimg.com/os/en/motleyfool.com/e58ff645361cb43fc3d7fb519bc20442",
+      "slug": "the-single-biggest-risk-with-investing-in-this-top-warren-buffett-stock-is-somet-cbd544c4",
+      "orig_slug": "the-single-biggest-risk-with-investing-in-this-top-warren-buffett-stock-is-somet-cbd544c4"
     },
     {
-      "title": "TFI’s Bedard optimistic about U.S. LTL, but some of its issues persist",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tfi-bedard-optimistic-u-ltl-141211561.html",
+      "title": "Corning Incorporated Q1 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/corning-incorporated-q1-2026-earnings-164902610.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T14:12:11Z",
-      "image": "https://s.yimg.com/os/en/freightwaves_373/d400e45904e485f4c2fc9c33aadb814f",
-      "slug": "tfis-bedard-optimistic-about-us-ltl-but-some-of-its-issues-persist-ef6bfad1",
-      "orig_slug": "tfis-bedard-optimistic-about-us-ltl-but-some-of-its-issues-persist-ef6bfad1"
+      "pubDate": "2026-04-28T16:49:02Z",
+      "image": "https://s.yimg.com/os/en/moby_896/ef89fad8fa7497921a539672a3c66d9b",
+      "slug": "corning-incorporated-q1-2026-earnings-call-summary-7860c0d9",
+      "orig_slug": "corning-incorporated-q1-2026-earnings-call-summary-7860c0d9"
     },
     {
-      "title": "AMD Supplier Up 65% This Month Soars On Earnings Beat",
-      "link": "https://www.investors.com/news/data-center-stocks-sanmina-amd-servers-ai-artificial-intelligence/?src=A00220&yptr=yahoo",
+      "title": "Avery Dennison Corporation Q1 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/avery-dennison-corporation-q1-2026-164836645.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T14:10:15Z",
-      "image": "",
-      "slug": "amd-supplier-up-65-this-month-soars-on-earnings-beat-b6dc08c2",
-      "orig_slug": "amd-supplier-up-65-this-month-soars-on-earnings-beat-b6dc08c2"
+      "pubDate": "2026-04-28T16:48:36Z",
+      "image": "https://s.yimg.com/os/en/moby_896/c98f49906f2b13db8839179653411b80",
+      "slug": "avery-dennison-corporation-q1-2026-earnings-call-summary-c3475229",
+      "orig_slug": "avery-dennison-corporation-q1-2026-earnings-call-summary-c3475229"
     },
     {
       "title": "Market Digest: BX, DPZ, RJF, SAP, VZ, CLF",
@@ -326,130 +407,22 @@
       "orig_slug": "market-digest-bx-dpz-rjf-sap-vz-clf-5b0f2848"
     },
     {
-      "title": "Invesco (IVZ) Q1 2026 Earnings Transcript",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/invesco-ivz-q1-2026-earnings-144628735.html",
+      "title": "Watsco, Inc. Q1 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/watsco-inc-q1-2026-earnings-164822026.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T14:46:28Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
-      "slug": "invesco-ivz-q1-2026-earnings-transcript-517b0104",
-      "orig_slug": "invesco-ivz-q1-2026-earnings-transcript-517b0104"
+      "pubDate": "2026-04-28T16:48:22Z",
+      "image": "https://s.yimg.com/os/en/moby_896/ce8c573a00684b72f0511f260c727a39",
+      "slug": "watsco-inc-q1-2026-earnings-call-summary-02d4388e",
+      "orig_slug": "watsco-inc-q1-2026-earnings-call-summary-02d4388e"
     },
     {
-      "title": "Brace for eye-popping AI spending plans when 'Magnificent 7' earnings roll in",
-      "link": "https://finance.yahoo.com/news/brace-for-eye-popping-ai-spending-plans-when-magnificent-7-earnings-roll-in-140624177.html",
+      "title": "Omnicell, Inc. Q1 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/sectors/healthcare/articles/omnicell-inc-q1-2026-earnings-164817267.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T14:06:24Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/Z7CyIeZ7rvASvt7iswzgkw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/6b959ea0-29d0-11f1-bfbd-3130ebfdad9f",
-      "slug": "brace-for-eye-popping-ai-spending-plans-when-magnificent-7-earnings-roll-in-dc86f718",
-      "orig_slug": "brace-for-eye-popping-ai-spending-plans-when-magnificent-7-earnings-roll-in-dc86f718"
-    },
-    {
-      "title": "T-Mobile deepens broadband push with new fiber joint ventures",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/t-mobile-deepens-broadband-push-135840740.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T13:58:40Z",
-      "image": "https://s.yimg.com/os/en/reuters-finance.com/61936a266363b74095c6b0f465466527",
-      "slug": "t-mobile-deepens-broadband-push-with-new-fiber-joint-ventures-0879607b",
-      "orig_slug": "t-mobile-deepens-broadband-push-with-new-fiber-joint-ventures-0879607b"
-    },
-    {
-      "title": "Tesla Rival BYD Reports Plunging Earnings. China EV Giant Is Betting On A Flash Recovery.",
-      "link": "https://www.investors.com/news/tesla-rival-byd-earnings-china-ev-giant/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T13:56:56Z",
-      "image": "",
-      "slug": "tesla-rival-byd-reports-plunging-earnings-china-ev-giant-is-betting-on-a-flash-r-b54f6899",
-      "orig_slug": "tesla-rival-byd-reports-plunging-earnings-china-ev-giant-is-betting-on-a-flash-r-b54f6899"
-    },
-    {
-      "title": "State Street To Launch Tokenized Fund By Year's End",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/state-street-launch-tokenized-fund-135300757.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T13:53:00Z",
-      "image": "https://s.yimg.com/os/en/cryptoprowl_304/5071ca9605d9ad8da8bd5bc2535d58d3",
-      "slug": "state-street-to-launch-tokenized-fund-by-years-end-cbb0cdaf",
-      "orig_slug": "state-street-to-launch-tokenized-fund-by-years-end-cbb0cdaf"
-    },
-    {
-      "title": "Daily – Vickers Top Buyers & Sellers for 04/28/2026",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_46865_TopBottomInsiderActivity_1777371883000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T10:24:43Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-vickers-top-buyers-sellers-for-04282026-71fad5d1",
-      "orig_slug": "daily-vickers-top-buyers-sellers-for-04282026-71fad5d1"
-    },
-    {
-      "title": "OpenAI misses revenue and user growth targets ahead of IPO",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/openai-misses-revenue-user-growth-144605121.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T14:46:05Z",
-      "image": "https://media.zenfs.com/en/quartz_855/19d68b16e79ed1b8d58c05ebdc48016d",
-      "slug": "openai-misses-revenue-and-user-growth-targets-ahead-of-ipo-15877d4d",
-      "orig_slug": "openai-misses-revenue-and-user-growth-targets-ahead-of-ipo-15877d4d"
-    },
-    {
-      "title": "What time is the Fed meeting?",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/what-time-is-the-fed-meeting-120032257.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-05-05T12:00:32Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/V6pttFpQZFe9xgq1nxDvHQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDI7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-05/f8713160-279a-11f0-bffd-4381cf3bc752",
-      "slug": "what-time-is-the-fed-meeting-7378d06c",
-      "orig_slug": "what-time-is-the-fed-meeting-7378d06c"
-    },
-    {
-      "title": "What is sustainable banking?",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/sustainable-banking-192224210.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2024-08-09T19:22:24Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/jUFS3rc1xyXd7wR8L2iTVw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-08/9ad0a340-567d-11ef-8fb7-fd99c9d76c0b",
-      "slug": "what-is-sustainable-banking-2b6aebe3",
-      "orig_slug": "what-is-sustainable-banking-2b6aebe3"
-    },
-    {
-      "title": "Bitcoin and ethereum prices today, Tuesday, April 28, 2026: Values falling ahead of Fed meeting",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-april-28-2026-values-falling-ahead-of-fed-meeting-114535390.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T11:45:35Z",
-      "image": "https://s.yimg.com/uu/api/res/1.2/R4fhNy.vnr_QIatr9RUOpQ--~B/aD00MDU7dz02MTI7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ethereum_%20_bitcoin_2_2928.jpg",
-      "slug": "bitcoin-and-ethereum-prices-today-tuesday-april-28-2026-values-falling-ahead-of--02926057",
-      "orig_slug": "bitcoin-and-ethereum-prices-today-tuesday-april-28-2026-values-falling-ahead-of--02926057"
-    },
-    {
-      "title": "Gold and silver prices today, Tuesday, April 28: Prices fall as inflation pressure mounts",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-and-silver-prices-today-tuesday-april-28-prices-fall-as-inflation-pressure-mounts-110827405.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T11:08:27Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/4h1SLiEhpgWc5xgY80JxXg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD01MDY-/https://d29szjachogqwa.cloudfront.net/images/2026-04/3aaf01ac-19a4-495f-86f3-45ac8925bf2e",
-      "slug": "gold-and-silver-prices-today-tuesday-april-28-prices-fall-as-inflation-pressure--c6d73895",
-      "orig_slug": "gold-and-silver-prices-today-tuesday-april-28-prices-fall-as-inflation-pressure--c6d73895"
-    },
-    {
-      "title": "Daily – Vickers Top Insider Picks for 04/28/2026",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_46864_InsiderActivity_1777371883000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T10:24:43Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-vickers-top-insider-picks-for-04282026-5b032ecf",
-      "orig_slug": "daily-vickers-top-insider-picks-for-04282026-5b032ecf"
-    },
-    {
-      "title": "Crypto Markets Shed $40 Billion in De-Risking Ahead of Powell’s Final FOMC Decision",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/crypto-markets-shed-40-billion-144346507.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T14:43:46Z",
-      "image": "https://media.zenfs.com/en/beincrypto_us_662/aa98d99e4177afe2d31088a1b32a035f",
-      "slug": "crypto-markets-shed-40-billion-in-de-risking-ahead-of-powells-final-fomc-decisio-b9d66f9f",
-      "orig_slug": "crypto-markets-shed-40-billion-in-de-risking-ahead-of-powells-final-fomc-decisio-b9d66f9f"
-    },
-    {
-      "title": "Best CD rates today, April 28, 2026: Lock in up to 4.05% APY today",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-april-28-2026-lock-in-up-to-4-0-5-apy-today-100000778.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T10:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/UszNkMVwuN0xp.8Uj44OPg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47b17e0-4f64-11ef-bfe0-fc9ef2fc2991",
-      "slug": "best-cd-rates-today-april-28-2026-lock-in-up-to-405-apy-today-7f4a619b",
-      "orig_slug": "best-cd-rates-today-april-28-2026-lock-in-up-to-405-apy-today-7f4a619b"
+      "pubDate": "2026-04-28T16:48:17Z",
+      "image": "https://s.yimg.com/os/en/moby_896/60a418cc2cfb8a4591f0525801aeb52b",
+      "slug": "omnicell-inc-q1-2026-earnings-call-summary-48c79f87",
+      "orig_slug": "omnicell-inc-q1-2026-earnings-call-summary-48c79f87"
     }
   ]
 }
