@@ -1,293 +1,356 @@
 {
-  "updated": "2026-05-18T10:57:42Z",
+  "updated": "2026-05-18T14:26:56Z",
   "items": [
     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures slide as oil jumps amid US-Iran tensions",
+      "title": "170-year-old luxury fashion retailer quietly closes 21 stores",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/170-old-luxury-fashion-retailer-013700371.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-05-18T01:37:00Z",
+      "image": "https://s.yimg.com/os/en/thestreet_881/88dd6a0aec9f401bbaf782c623dd510c",
+      "slug": "170-year-old-luxury-fashion-retailer-quietly-closes-21-stores-c54b3b1c",
+      "orig_slug": "170-year-old-luxury-fashion-retailer-quietly-closes-21-stores-c54b3b1c"
+    },
+    {
+      "title": "Walmart, Target Earnings Loom As Consumer Fears Hit Retail Stocks",
+      "link": "https://www.investors.com/news/walmart-target-earnings-consumer-fears-retail-stocks/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-05-18T14:05:47Z",
+      "image": "",
+      "slug": "walmart-target-earnings-loom-as-consumer-fears-hit-retail-stocks-db719253",
+      "orig_slug": "walmart-target-earnings-loom-as-consumer-fears-hit-retail-stocks-db719253"
+    },
+    {
+      "title": "This Psychedelics Stock Just Keeps Getting Hotter; Why Shares Bypassed A Profit-Taking Zone",
+      "link": "https://www.investors.com/news/technology/compass-pathways-stock-psilocybin-treatment-resistant-depression/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-05-18T14:04:33Z",
+      "image": "",
+      "slug": "this-psychedelics-stock-just-keeps-getting-hotter-why-shares-bypassed-a-profit-t-c55ab8f2",
+      "orig_slug": "this-psychedelics-stock-just-keeps-getting-hotter-why-shares-bypassed-a-profit-t-c55ab8f2"
+    },
+    {
+      "title": "IQVIA (IQV) Fell Despite Strong Fundamentals",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/iqvia-iqv-fell-despite-strong-140308603.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-05-18T14:03:08Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/9798ba72df81dde053d4a2f1da22e6dc",
+      "slug": "iqvia-iqv-fell-despite-strong-fundamentals-7e6b64c3",
+      "orig_slug": "iqvia-iqv-fell-despite-strong-fundamentals-7e6b64c3"
+    },
+    {
+      "title": "Stock Market Today: Dow Wavers As Oil Falls On Iran News; Nvidia, Walmart On Watch (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-nvidia-walmart-tesla/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-05-18T14:02:56Z",
+      "image": "",
+      "slug": "stock-market-today-dow-wavers-as-oil-falls-on-iran-news-nvidia-walmart-on-watch--020adfc8",
+      "orig_slug": "stock-market-today-dow-wavers-as-oil-falls-on-iran-news-nvidia-walmart-on-watch--020adfc8"
+    },
+    {
+      "title": "Weekly Stock List",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_47059_StockPicks_1779105452000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-05-18T11:57:32Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "weekly-stock-list-8a54c8c2",
+      "orig_slug": "weekly-stock-list-8a54c8c2"
+    },
+    {
+      "title": "Jefferies Warns Mobileye Shares Could Fall 24% on Structural Challenges (MBLY)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-warns-mobileye-shares-could-141159582.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-05-18T14:11:59Z",
+      "image": "https://s.yimg.com/os/en/investorshub_458/9d89980f7a0fea8d3f92d5e8829fbe54",
+      "slug": "jefferies-warns-mobileye-shares-could-fall-24-on-structural-challenges-mbly-a21425aa",
+      "orig_slug": "jefferies-warns-mobileye-shares-could-fall-24-on-structural-challenges-mbly-a21425aa"
+    },
+    {
+      "title": "Middle East Conflict Hurt LVMH Moët Hennessy – Louis Vuitton, Société Européenne (LVMUY) in Q1",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/middle-east-conflict-hurt-lvmh-140039489.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-05-18T14:00:39Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/97806619c4eae8cf61ebd116ce7cfa19",
+      "slug": "middle-east-conflict-hurt-lvmh-mot-hennessy-louis-vuitton-socit-europenne-lvmuy--b3f913f2",
+      "orig_slug": "middle-east-conflict-hurt-lvmh-mot-hennessy-louis-vuitton-socit-europenne-lvmuy--b3f913f2"
+    },
+    {
+      "title": "Stock market today: S&P 500, Dow, Nasdaq waver as inflation fears grip markets",
       "link": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-may-18-earnings-nvidia-232705005.html",
       "source": "finance.yahoo.com",
       "pubDate": "2026-05-17T23:27:05Z",
       "image": "https://s.yimg.com/uu/api/res/1.2/Rbq8wfanlnfEtBprmyubtw--~B/aD01MzQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-05/792f8cb5-1dd5-49bd-aae1-321cfcd10d3e",
-      "slug": "stock-market-today-dow-sp-500-nasdaq-futures-slide-as-oil-jumps-amid-us-iran-ten-8773a628",
-      "orig_slug": "stock-market-today-dow-sp-500-nasdaq-futures-slide-as-oil-jumps-amid-us-iran-ten-8773a628"
+      "slug": "stock-market-today-sp-500-dow-nasdaq-waver-as-inflation-fears-grip-markets-8773a628",
+      "orig_slug": "stock-market-today-sp-500-dow-nasdaq-waver-as-inflation-fears-grip-markets-8773a628"
     },
     {
-      "title": "Morning Bid: Bonds spoil the AI party",
-      "link": "https://finance.yahoo.com/markets/articles/morning-bid-bonds-spoil-ai-104210471.html",
+      "title": "Broyhill Asset Management’s Leading Contributor: Valvoline (VVV)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/broyhill-asset-management-leading-contributor-135836690.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-05-18T10:42:10Z",
-      "image": "https://s.yimg.com/os/en/reuters.com/670fe76e1c0cd8ad37220320c42025ab",
-      "slug": "morning-bid-bonds-spoil-the-ai-party-ec594e3d",
-      "orig_slug": "morning-bid-bonds-spoil-the-ai-party-ec594e3d"
+      "pubDate": "2026-05-18T13:58:36Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/cecc94357810b1f27df342ddee5ef289",
+      "slug": "broyhill-asset-managements-leading-contributor-valvoline-vvv-16afcbb6",
+      "orig_slug": "broyhill-asset-managements-leading-contributor-valvoline-vvv-16afcbb6"
     },
     {
-      "title": "My Top 3 Cryptocurrencies for May 2026",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/top-3-cryptocurrencies-may-2026-103900250.html",
+      "title": "Bitcoin Price Hits May Low; Circle Wins Upgrade As HIVE Soars",
+      "link": "https://www.investors.com/news/bitcoin-price-may-low-circle-upgrade-hive-rally/?src=A00220&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-05-18T10:39:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/9dee63e6099ae3819da437ca77cfb091",
-      "slug": "my-top-3-cryptocurrencies-for-may-2026-c853c28f",
-      "orig_slug": "my-top-3-cryptocurrencies-for-may-2026-c853c28f"
+      "pubDate": "2026-05-18T13:55:44Z",
+      "image": "",
+      "slug": "bitcoin-price-hits-may-low-circle-wins-upgrade-as-hive-soars-46062fe7",
+      "orig_slug": "bitcoin-price-hits-may-low-circle-wins-upgrade-as-hive-soars-46062fe7"
     },
     {
-      "title": "Venture Global (VG) Delivers Strong Q1 Results, Raises 2026 Guidance",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/venture-global-vg-delivers-strong-102107644.html",
+      "title": "Victoria’s Secret Defends Board as Proxy Battle Intensifies Ahead of Annual Meeting (VSCO)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/victoria-secret-defends-board-proxy-140853930.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-05-18T10:21:07Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/acb7510ebe83cfc81458ddd4e96c5d0c",
-      "slug": "venture-global-vg-delivers-strong-q1-results-raises-2026-guidance-a2226f60",
-      "orig_slug": "venture-global-vg-delivers-strong-q1-results-raises-2026-guidance-a2226f60"
+      "pubDate": "2026-05-18T14:08:53Z",
+      "image": "https://s.yimg.com/os/en/investorshub_458/3a3664e4c4de937da11706e3d2f30e7e",
+      "slug": "victorias-secret-defends-board-as-proxy-battle-intensifies-ahead-of-annual-meeti-445288e9",
+      "orig_slug": "victorias-secret-defends-board-as-proxy-battle-intensifies-ahead-of-annual-meeti-445288e9"
     },
     {
-      "title": "Viper Energy (VNOM) Beats Expectations in Q1, Raises 2026 Output Guidance",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/viper-energy-vnom-beats-expectations-102048307.html",
+      "title": "Investors Reward Honeywell’s (HON) Focus on Its Pure-Play Automation Business",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/investors-reward-honeywell-hon-focus-135459368.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-05-18T10:20:48Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/a738ed0125c98bfe4e33a8012a081f23",
-      "slug": "viper-energy-vnom-beats-expectations-in-q1-raises-2026-output-guidance-ed4e4930",
-      "orig_slug": "viper-energy-vnom-beats-expectations-in-q1-raises-2026-output-guidance-ed4e4930"
+      "pubDate": "2026-05-18T13:54:59Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/a97e4882ae49b28b5660dddfb5e08dbe",
+      "slug": "investors-reward-honeywells-hon-focus-on-its-pure-play-automation-business-f0709b38",
+      "orig_slug": "investors-reward-honeywells-hon-focus-on-its-pure-play-automation-business-f0709b38"
     },
     {
-      "title": "Liberty Energy (LBRT) – Among the 10 Energy Stocks that Crushed Earnings Estimates in the First Quarter",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/liberty-energy-lbrt-among-10-102026327.html",
+      "title": "Broyhill Asset Management Sold Ball Corporation (BALL) as the Thesis Validated",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/broyhill-asset-management-sold-ball-135341699.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-05-18T10:20:26Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/cf9966b4ce273604c2689b82f6600bb8",
-      "slug": "liberty-energy-lbrt-among-the-10-energy-stocks-that-crushed-earnings-estimates-i-923e64b2",
-      "orig_slug": "liberty-energy-lbrt-among-the-10-energy-stocks-that-crushed-earnings-estimates-i-923e64b2"
+      "pubDate": "2026-05-18T13:53:41Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/a3fe21ebfbe0612004e638db6eeeb250",
+      "slug": "broyhill-asset-management-sold-ball-corporation-ball-as-the-thesis-validated-6ec02da3",
+      "orig_slug": "broyhill-asset-management-sold-ball-corporation-ball-as-the-thesis-validated-6ec02da3"
     },
     {
-      "title": "Is Phillips 66 (PSX) Among the Energy Stocks that Crushed Earnings Estimates in the First Quarter?",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/phillips-66-psx-among-energy-102013450.html",
+      "title": "NextEra Will Buy Dominion Energy in Largest-Ever Electric Utility Deal",
+      "link": "https://finance.yahoo.com/sectors/energy/articles/nextera-buy-dominion-energy-largest-135001327.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-05-18T10:20:13Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/266da5880c0e679d3611df6c50fcd082",
-      "slug": "is-phillips-66-psx-among-the-energy-stocks-that-crushed-earnings-estimates-in-th-8d623449",
-      "orig_slug": "is-phillips-66-psx-among-the-energy-stocks-that-crushed-earnings-estimates-in-th-8d623449"
+      "pubDate": "2026-05-18T13:50:01Z",
+      "image": "https://s.yimg.com/os/en/power_magazine_984/c9441955c6ad0a982961b2fed03786e0",
+      "slug": "nextera-will-buy-dominion-energy-in-largest-ever-electric-utility-deal-561cb4a0",
+      "orig_slug": "nextera-will-buy-dominion-energy-in-largest-ever-electric-utility-deal-561cb4a0"
     },
     {
-      "title": "Reasons to Use a Credit Card Over a Debit Card",
-      "link": "https://finance.yahoo.com/markets/articles/reasons-credit-card-over-debit-103057756.html",
+      "title": "Is the stock market open on Memorial Day? 10 market holidays in 2026.",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/is-the-stock-market-open-on-memorial-day-10-market-holidays-in-2026-210239563.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-05-18T10:30:57Z",
-      "image": "https://media.zenfs.com/en/24_7_wall_st__718/2e37acb98eac1d409e8f545febe76b9a",
-      "slug": "reasons-to-use-a-credit-card-over-a-debit-card-b58b925c",
-      "orig_slug": "reasons-to-use-a-credit-card-over-a-debit-card-b58b925c"
+      "pubDate": "2024-03-25T21:02:39Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/iorpEVA9OGMcQNezL33Xfw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-07/c5a1bc20-6d8e-11f0-bfb7-e07100b1a2df",
+      "slug": "is-the-stock-market-open-on-memorial-day-10-market-holidays-in-2026-c94a506f",
+      "orig_slug": "is-the-stock-market-open-on-memorial-day-10-market-holidays-in-2026-c94a506f"
     },
     {
-      "title": "Marathon Petroleum (MPC) Exceeds Estimates in Q1, Boosts Stock Buyback Program",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/marathon-petroleum-mpc-exceeds-estimates-101943219.html",
+      "title": "Technical Assessment: Bullish in the Intermediate-Term",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_47054_TechnicalAnalysis_1779103067000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-05-18T10:19:43Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/c87134219fd28dd47fc5b6352c194473",
-      "slug": "marathon-petroleum-mpc-exceeds-estimates-in-q1-boosts-stock-buyback-program-ed4df582",
-      "orig_slug": "marathon-petroleum-mpc-exceeds-estimates-in-q1-boosts-stock-buyback-program-ed4df582"
+      "pubDate": "2026-05-18T11:17:47Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "technical-assessment-bullish-in-the-intermediate-term-b9f246c2",
+      "orig_slug": "technical-assessment-bullish-in-the-intermediate-term-b9f246c2"
     },
     {
-      "title": "Solaris Energy Infrastructure (SEI) Delivers Strong Q1, Raises Q2 Guidance",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/solaris-energy-infrastructure-sei-delivers-101928853.html",
+      "title": "ReNew Energy Global Q4 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/sectors/energy/articles/renew-energy-global-q4-earnings-140839337.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-05-18T10:19:28Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/f6cb4efe03a549234a41bd402927b6d8",
-      "slug": "solaris-energy-infrastructure-sei-delivers-strong-q1-raises-q2-guidance-b966a7f9",
-      "orig_slug": "solaris-energy-infrastructure-sei-delivers-strong-q1-raises-q2-guidance-b966a7f9"
+      "pubDate": "2026-05-18T14:08:39Z",
+      "image": "https://s.yimg.com/os/en/marketbeat_955/857fde7dd2e6008c5f5ffcf882b44cfc",
+      "slug": "renew-energy-global-q4-earnings-call-highlights-cb3c224d",
+      "orig_slug": "renew-energy-global-q4-earnings-call-highlights-cb3c224d"
     },
     {
-      "title": "Valero Energy (VLO) Crushes Estimates in Q1, Expects Refining Margins to Remain Strong",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/valero-energy-vlo-crushes-estimates-101914979.html",
+      "title": "The stock market is facing a big challenge right now",
+      "link": "https://finance.yahoo.com/markets/article/the-stock-market-is-facing-a-big-challenge-right-now-133646828.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-05-18T10:19:14Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/99a13e841bfd5e5b957d334d96e3f90d",
-      "slug": "valero-energy-vlo-crushes-estimates-in-q1-expects-refining-margins-to-remain-str-6d719f0e",
-      "orig_slug": "valero-energy-vlo-crushes-estimates-in-q1-expects-refining-margins-to-remain-str-6d719f0e"
+      "pubDate": "2026-05-18T13:36:46Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/DSuBXvAmFPlQePgcTSGqxA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/gettyimages-2275657996_6404.jpg",
+      "slug": "the-stock-market-is-facing-a-big-challenge-right-now-e8d9162a",
+      "orig_slug": "the-stock-market-is-facing-a-big-challenge-right-now-e8d9162a"
     },
     {
-      "title": "Kinder Morgan (KMI) Delivers a Strong Q1 on Increased Natural Gas Demand",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/kinder-morgan-kmi-delivers-strong-101859339.html",
+      "title": "Mattel (MAT) Slipped Due to Unexpected Incremental Spending",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mattel-mat-slipped-due-unexpected-132718303.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-05-18T10:18:59Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/f2815fee8dd87c41e4294d91093397d7",
-      "slug": "kinder-morgan-kmi-delivers-a-strong-q1-on-increased-natural-gas-demand-868c8e7a",
-      "orig_slug": "kinder-morgan-kmi-delivers-a-strong-q1-on-increased-natural-gas-demand-868c8e7a"
+      "pubDate": "2026-05-18T13:27:18Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/2678c515e0a6c1082759b9606b643c42",
+      "slug": "mattel-mat-slipped-due-to-unexpected-incremental-spending-c8ed43fe",
+      "orig_slug": "mattel-mat-slipped-due-to-unexpected-incremental-spending-c8ed43fe"
     },
     {
-      "title": "What Tim Cook's Trip to China Could Mean for Apple Investors",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tim-cooks-trip-china-could-103000853.html",
+      "title": "Fortune Brands (FBIN) was Hurt by Near-Term Earnings Weakness And Leadership Uncertainty",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fortune-brands-fbin-hurt-near-132329764.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-05-18T10:30:00Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/d76932ad0648c26ae1d0696d83a25912",
-      "slug": "what-tim-cooks-trip-to-china-could-mean-for-apple-investors-7789b160",
-      "orig_slug": "what-tim-cooks-trip-to-china-could-mean-for-apple-investors-7789b160"
+      "pubDate": "2026-05-18T13:23:29Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/6b4ee3202b08d09d9a7952ffd874924e",
+      "slug": "fortune-brands-fbin-was-hurt-by-near-term-earnings-weakness-and-leadership-uncer-97636749",
+      "orig_slug": "fortune-brands-fbin-was-hurt-by-near-term-earnings-weakness-and-leadership-uncer-97636749"
     },
     {
-      "title": "Bloom Energy (BE) Crushes Q1 Estimates, Raises 2026 Guidance",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/bloom-energy-crushes-q1-estimates-101847581.html",
+      "title": "FedEx (FDX) Gained From Strong Execution in Q1",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fedex-fdx-gained-strong-execution-132105061.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-05-18T10:18:47Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/c744b8e380d10e948e557e78b8e86ff3",
-      "slug": "bloom-energy-be-crushes-q1-estimates-raises-2026-guidance-04be047b",
-      "orig_slug": "bloom-energy-be-crushes-q1-estimates-raises-2026-guidance-04be047b"
+      "pubDate": "2026-05-18T13:21:05Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/b3a5e4a0de96df00306311aafc088610",
+      "slug": "fedex-fdx-gained-from-strong-execution-in-q1-894d04ae",
+      "orig_slug": "fedex-fdx-gained-from-strong-execution-in-q1-894d04ae"
     },
     {
-      "title": "U.S. drill bit makers ramp up shift to steel as tungsten prices surge",
-      "link": "https://finance.yahoo.com/news/u-drill-bit-makers-ramp-101821700.html",
+      "title": "Analyst Report: Linde PLC",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_4859_AnalystReport_1779102105000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-05-18T10:18:21Z",
-      "image": "https://s.yimg.com/os/en/reuters.com/fa7d6e504ba297108209aa5f4f4349b4",
-      "slug": "us-drill-bit-makers-ramp-up-shift-to-steel-as-tungsten-prices-surge-e8f38193",
-      "orig_slug": "us-drill-bit-makers-ramp-up-shift-to-steel-as-tungsten-prices-surge-e8f38193"
+      "pubDate": "2026-05-18T11:01:45Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-linde-plc-38e86196",
+      "orig_slug": "analyst-report-linde-plc-38e86196"
     },
     {
-      "title": "Plug Power (PLUG) Price Target Raised Following Better-than-Expected Q1",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/plug-power-plug-price-target-101808091.html",
+      "title": "Baidu Q1 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/baidu-q1-earnings-call-highlights-140823316.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-05-18T10:18:08Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/e7c1669c84b3f2c09c694d4c2541ad40",
-      "slug": "plug-power-plug-price-target-raised-following-better-than-expected-q1-ba000fcc",
-      "orig_slug": "plug-power-plug-price-target-raised-following-better-than-expected-q1-ba000fcc"
+      "pubDate": "2026-05-18T14:08:23Z",
+      "image": "https://s.yimg.com/os/en/marketbeat_955/e89e1801db1596a4663952e738e3401d",
+      "slug": "baidu-q1-earnings-call-highlights-93964112",
+      "orig_slug": "baidu-q1-earnings-call-highlights-93964112"
     },
     {
-      "title": "GE Vernova (GEV) Crushes Estimates in the First Quarter, Raises 2026 Guidance",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/ge-vernova-gev-crushes-estimates-101738970.html",
+      "title": "Avantor (AVTR) Fell as Destocking Has Lasted Longer Than Expected",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/avantor-avtr-fell-destocking-lasted-131714124.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-05-18T10:17:38Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/4be25db6573a3039944e6e34c03d2f69",
-      "slug": "ge-vernova-gev-crushes-estimates-in-the-first-quarter-raises-2026-guidance-26729c37",
-      "orig_slug": "ge-vernova-gev-crushes-estimates-in-the-first-quarter-raises-2026-guidance-26729c37"
+      "pubDate": "2026-05-18T13:17:14Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/45cb8bde99381ef7e009f60c27c8d4e2",
+      "slug": "avantor-avtr-fell-as-destocking-has-lasted-longer-than-expected-5df3f268",
+      "orig_slug": "avantor-avtr-fell-as-destocking-has-lasted-longer-than-expected-5df3f268"
     },
     {
-      "title": "Should Investors Buy Peloton Stock After Its 96% Decline? Here's the Good News and the Bad News.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/investors-buy-peloton-stock-96-102500222.html",
+      "title": "Why Nvidia earnings must deliver massively",
+      "link": "https://finance.yahoo.com/markets/article/why-nvidia-earnings-must-deliver-massively-131600201.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-05-18T10:25:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/ede586bcef61bb9ba611ebca0105a719",
-      "slug": "should-investors-buy-peloton-stock-after-its-96-decline-heres-the-good-news-and--8bf60c63",
-      "orig_slug": "should-investors-buy-peloton-stock-after-its-96-decline-heres-the-good-news-and--8bf60c63"
+      "pubDate": "2026-05-18T13:16:00Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/HcthjtoMJ0LY4fNVIFvhNQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/0295734f-401c-4017-a3d8-9a3efa278dc8_c2993c74426faf4a292e0a412a74282f9b7d8fe3e9e4b702df58860ff054881a.jpg",
+      "slug": "why-nvidia-earnings-must-deliver-massively-bb0287a2",
+      "orig_slug": "why-nvidia-earnings-must-deliver-massively-bb0287a2"
     },
     {
-      "title": "Fluence Energy (FLNC) Price Target Raised Despite Mixed Q2 Report",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/fluence-energy-flnc-price-target-101710013.html",
+      "title": "Avantor (AVTR) Slid on Lower Than Expected Guidance",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/avantor-avtr-slid-lower-expected-130905496.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-05-18T10:17:10Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/cc88fe4a0a16614c80d5e42ac175454e",
-      "slug": "fluence-energy-flnc-price-target-raised-despite-mixed-q2-report-ff3edb92",
-      "orig_slug": "fluence-energy-flnc-price-target-raised-despite-mixed-q2-report-ff3edb92"
+      "pubDate": "2026-05-18T13:09:05Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/45cb8bde99381ef7e009f60c27c8d4e2",
+      "slug": "avantor-avtr-slid-on-lower-than-expected-guidance-e0877b95",
+      "orig_slug": "avantor-avtr-slid-on-lower-than-expected-guidance-e0877b95"
     },
     {
-      "title": "Indian court tells Apple to 'cooperate' in antitrust case",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/indian-court-tells-apple-cooperate-063440812.html",
+      "title": "UnitedHealth Group stock slides after Berkshire Hathaway exits position in the health insurer",
+      "link": "https://finance.yahoo.com/markets/article/unitedhealth-group-stock-slides-after-berkshire-hathaway-exits-position-in-the-health-insurer-130721003.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-05-18T10:15:25Z",
-      "image": "https://media.zenfs.com/en/reuters.com/dde8dc251d5007c828f989ac4f64be47",
-      "slug": "indian-court-tells-apple-to-cooperate-in-antitrust-case-550ca033",
-      "orig_slug": "indian-court-tells-apple-to-cooperate-in-antitrust-case-550ca033"
+      "pubDate": "2026-05-18T13:07:21Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/Eo87523XAgnbgofsBAAXsg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-07/4de95b50-69a3-11f0-a7d6-883086978c8a",
+      "slug": "unitedhealth-group-stock-slides-after-berkshire-hathaway-exits-position-in-the-h-0eba1e22",
+      "orig_slug": "unitedhealth-group-stock-slides-after-berkshire-hathaway-exits-position-in-the-h-0eba1e22"
     },
     {
-      "title": "Analyst Raises Array Technologies (ARRY) Price Target Following Surprise Q1 Profit",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/analyst-raises-array-technologies-arry-101506228.html",
+      "title": "Analyst Report: National Fuel Gas Co",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_3237_AnalystReport_1779102105000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-05-18T10:15:06Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/6d97940cc96f3d32840c50fc41c8a1e9",
-      "slug": "analyst-raises-array-technologies-arry-price-target-following-surprise-q1-profit-b2de0d9b",
-      "orig_slug": "analyst-raises-array-technologies-arry-price-target-following-surprise-q1-profit-b2de0d9b"
+      "pubDate": "2026-05-18T11:01:45Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-national-fuel-gas-co-c34c531c",
+      "orig_slug": "analyst-report-national-fuel-gas-co-c34c531c"
     },
     {
-      "title": "‘Everything can go down’: Suze Orman warns stocks and bonds aren't enough for retirement. What she says you need instead",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/everything-down-suze-orman-warns-101500107.html",
+      "title": "Compugen Q1 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/sectors/healthcare/articles/compugen-q1-earnings-call-highlights-140824612.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-05-18T10:15:00Z",
-      "image": "https://media.zenfs.com/en/moneywise_ecomm_711/17fc24ca111143857737cb90dcb3620e",
-      "slug": "everything-can-go-down-suze-orman-warns-stocks-and-bonds-arent-enough-for-retire-f2e4bc39",
-      "orig_slug": "everything-can-go-down-suze-orman-warns-stocks-and-bonds-arent-enough-for-retire-f2e4bc39"
+      "pubDate": "2026-05-18T14:08:24Z",
+      "image": "https://s.yimg.com/os/en/marketbeat_955/ab9e89bedad68173987f0033617012fe",
+      "slug": "compugen-q1-earnings-call-highlights-d2669809",
+      "orig_slug": "compugen-q1-earnings-call-highlights-d2669809"
     },
     {
-      "title": "Sunrun (RUN) Price Target Lowered Despite Exceeding Estimates in Q1",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sunrun-run-price-target-lowered-101444127.html",
+      "title": "What Makes Rayonier (RYN) an Inflation Hedge Investment?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/makes-rayonier-ryn-inflation-hedge-130637853.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-05-18T10:14:44Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/72bc7bdebe94d649174020d397dd4d31",
-      "slug": "sunrun-run-price-target-lowered-despite-exceeding-estimates-in-q1-a342376d",
-      "orig_slug": "sunrun-run-price-target-lowered-despite-exceeding-estimates-in-q1-a342376d"
+      "pubDate": "2026-05-18T13:06:37Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/5cc35b70d17799f8d57b5bdad474686b",
+      "slug": "what-makes-rayonier-ryn-an-inflation-hedge-investment-94fd3144",
+      "orig_slug": "what-makes-rayonier-ryn-an-inflation-hedge-investment-94fd3144"
     },
     {
-      "title": "SolarEdge Technologies (SEDG) Receives a Price Target Boost Despite Mixed Q1",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/solaredge-technologies-sedg-receives-price-101423158.html",
+      "title": "Here’s Why CNH Industrial N.V. (CNH) Surged in Q1",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-cnh-industrial-n-v-130221310.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-05-18T10:14:23Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/167d777d372bef7a4b095cade3c6dabe",
-      "slug": "solaredge-technologies-sedg-receives-a-price-target-boost-despite-mixed-q1-429f8736",
-      "orig_slug": "solaredge-technologies-sedg-receives-a-price-target-boost-despite-mixed-q1-429f8736"
+      "pubDate": "2026-05-18T13:02:21Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/27d3bfc8be1b900e4bcc1fa4fe34abd0",
+      "slug": "heres-why-cnh-industrial-nv-cnh-surged-in-q1-39995b10",
+      "orig_slug": "heres-why-cnh-industrial-nv-cnh-surged-in-q1-39995b10"
     },
     {
-      "title": "Ormat Technologies (ORA) Price Target Raised Following Strong Q1",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ormat-technologies-ora-price-target-101328228.html",
+      "title": "Gold at $4,500 an ounce has everyday Americans grabbing shovels — and some are making tens of thousands",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-4-500-ounce-everyday-130000740.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-05-18T10:13:28Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/41760af92c768af6665d6b9de792c7d9",
-      "slug": "ormat-technologies-ora-price-target-raised-following-strong-q1-2e9bb67f",
-      "orig_slug": "ormat-technologies-ora-price-target-raised-following-strong-q1-2e9bb67f"
+      "pubDate": "2026-05-18T13:00:00Z",
+      "image": "https://s.yimg.com/os/en/moneywise_327/2a943b03e63cffb71425152d013dd8f0",
+      "slug": "gold-at-4500-an-ounce-has-everyday-americans-grabbing-shovels-and-some-are-makin-453d1305",
+      "orig_slug": "gold-at-4500-an-ounce-has-everyday-americans-grabbing-shovels-and-some-are-makin-453d1305"
     },
     {
-      "title": "Clearway Energy (CWEN) Reports Mixed Q1 Results, Reaffirms 2026 Guidance",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/clearway-energy-cwen-reports-mixed-101259546.html",
+      "title": "When will gas prices go down? When drivers could see relief.",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/when-will-gas-prices-go-down-when-drivers-could-see-relief-154506182.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-05-18T10:12:59Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/cfc104b35c762a14f35f7a7196dc6cf5",
-      "slug": "clearway-energy-cwen-reports-mixed-q1-results-reaffirms-2026-guidance-fb819616",
-      "orig_slug": "clearway-energy-cwen-reports-mixed-q1-results-reaffirms-2026-guidance-fb819616"
+      "pubDate": "2026-04-14T15:45:06Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/R_qtBBbVwRGf94z1CiBKvA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-04/0eabeae1-1d8d-4e30-b554-25332ed68362",
+      "slug": "when-will-gas-prices-go-down-when-drivers-could-see-relief-0fbfef8a",
+      "orig_slug": "when-will-gas-prices-go-down-when-drivers-could-see-relief-0fbfef8a"
     },
     {
-      "title": "Prediction: Procter & Gamble Will Trade At This Price in 2027",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-procter-gamble-trade-price-102117826.html",
+      "title": "Analyst Report: Simon Property Group Inc",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_3403_AnalystReport_1779102105000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-05-18T10:21:17Z",
-      "image": "https://media.zenfs.com/en/24_7_wall_st__718/fe6233fb6624bbd3a3c49c87faa34b32",
-      "slug": "prediction-procter-gamble-will-trade-at-this-price-in-2027-7476a400",
-      "orig_slug": "prediction-procter-gamble-will-trade-at-this-price-in-2027-7476a400"
+      "pubDate": "2026-05-18T11:01:45Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-simon-property-group-inc-f46fe553",
+      "orig_slug": "analyst-report-simon-property-group-inc-f46fe553"
     },
     {
-      "title": "Citi Raises Nextpower (NXT) Price Target by $31",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/citi-raises-nextpower-nxt-price-101227774.html",
+      "title": "Pizza Hut franchisee converts locations into retro classics",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pizza-hut-franchisee-converts-locations-140802033.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-05-18T10:12:27Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/fa58f05f92c7af063dd287398862cf8b",
-      "slug": "citi-raises-nextpower-nxt-price-target-by-31-2c9bd0f0",
-      "orig_slug": "citi-raises-nextpower-nxt-price-target-by-31-2c9bd0f0"
+      "pubDate": "2026-05-18T14:08:02Z",
+      "image": "https://media.zenfs.com/en/quartz_855/c68177f6c2ff134ec1fac5dd87f72349",
+      "slug": "pizza-hut-franchisee-converts-locations-into-retro-classics-82ebd216",
+      "orig_slug": "pizza-hut-franchisee-converts-locations-into-retro-classics-82ebd216"
     },
     {
-      "title": "Is NextEra Energy (NEE) One of the Best Clean Energy Stocks to Buy Right Now?",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/nextera-energy-nee-one-best-101212653.html",
+      "title": "Bitcoin and ethereum prices today, Monday, May 18, 2026: Prices are down and moving lower this morning",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-may-18-2026-prices-are-down-and-moving-lower-this-morning-114100108.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-05-18T10:12:12Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/cfc104b35c762a14f35f7a7196dc6cf5",
-      "slug": "is-nextera-energy-nee-one-of-the-best-clean-energy-stocks-to-buy-right-now-078b9efb",
-      "orig_slug": "is-nextera-energy-nee-one-of-the-best-clean-energy-stocks-to-buy-right-now-078b9efb"
+      "pubDate": "2026-05-18T11:41:00Z",
+      "image": "https://s.yimg.com/uu/api/res/1.2/8IgKHs0.oTwPcn40eBVnmg--~B/aD00MDg7dz02MTI7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/bitcoin_1_3688.jpg",
+      "slug": "bitcoin-and-ethereum-prices-today-monday-may-18-2026-prices-are-down-and-moving--80354bae",
+      "orig_slug": "bitcoin-and-ethereum-prices-today-monday-may-18-2026-prices-are-down-and-moving--80354bae"
     },
     {
-      "title": "Bloom Energy (BE) – Among the 10 Best Clean Energy Stocks to Buy Right Now",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/bloom-energy-among-10-best-101154939.html",
+      "title": "Can you change your student loan repayment plan? See your options.",
+      "link": "https://finance.yahoo.com/personal-finance/student-loans/article/can-you-change-your-student-loan-repayment-plan-see-your-options-151526266.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-05-18T10:11:54Z",
-      "image": "https://s.yimg.com/os/en/insidermonkey.com/b6ddf6ed38266fd7e2ceb879b3f063f7",
-      "slug": "bloom-energy-be-among-the-10-best-clean-energy-stocks-to-buy-right-now-27b34d59",
-      "orig_slug": "bloom-energy-be-among-the-10-best-clean-energy-stocks-to-buy-right-now-27b34d59"
+      "pubDate": "2024-02-21T15:15:26Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/IAuXpPQ1Lx7RS27nk4MQpg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2021-06/05d62790-cabe-11eb-9bbe-b5d238e388b8",
+      "slug": "can-you-change-your-student-loan-repayment-plan-see-your-options-68792d54",
+      "orig_slug": "can-you-change-your-student-loan-repayment-plan-see-your-options-68792d54"
     },
     {
-      "title": "How India's cooking fuel shortage is driving up California's gas prices",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/indias-cooking-fuel-shortage-driving-100353628.html",
+      "title": "Gold and silver prices today, Monday, May 18: Gold and silver slip as Iran tensions grow",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-and-silver-prices-today-monday-may-18-gold-and-silver-slip-as-iran-tensions-grow-111307820.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-05-18T10:03:53Z",
-      "image": "https://s.yimg.com/os/en/reuters.com/476bae462e28129e8cbb0351b43dc3d7",
-      "slug": "how-indias-cooking-fuel-shortage-is-driving-up-californias-gas-prices-9575308e",
-      "orig_slug": "how-indias-cooking-fuel-shortage-is-driving-up-californias-gas-prices-9575308e"
-    },
-    {
-      "title": "Is the SpaceX IPO Overpriced? Here's How Much It Could Be Worth, According to a Valuation Expert.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-overpriced-heres-much-102000284.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-05-18T10:20:00Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/3c0790392a4fd64789adeda7e3ca1e27",
-      "slug": "is-the-spacex-ipo-overpriced-heres-how-much-it-could-be-worth-according-to-a-val-0cc97a23",
-      "orig_slug": "is-the-spacex-ipo-overpriced-heres-how-much-it-could-be-worth-according-to-a-val-0cc97a23"
+      "pubDate": "2026-05-18T11:13:07Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/GEsdRjLVTa.upuPTaTEKoA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/093fce10-4b87-11f0-a7bf-16da10dc1b49",
+      "slug": "gold-and-silver-prices-today-monday-may-18-gold-and-silver-slip-as-iran-tensions-0e34331d",
+      "orig_slug": "gold-and-silver-prices-today-monday-may-18-gold-and-silver-slip-as-iran-tensions-0e34331d"
     },
     {
       "title": "Mortgage and refinance interest rates today, May 18, 2026: Will rates rise or fall this week?",
@@ -299,22 +362,22 @@
       "orig_slug": "mortgage-and-refinance-interest-rates-today-may-18-2026-will-rates-rise-or-fall--d2988ca6"
     },
     {
-      "title": "Best money market account rates today, May 18, 2026: Earn up to 4.01% APY",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-monday-may-18-2026-100000694.html",
+      "title": "Market Digest: NFG, SPG, MDLZ, LIN",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_47052_MarketSummary_1779101205000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-05-18T10:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/5ht5auNXT0hvD._VUvpMQg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/16611790-1cdc-11f0-b7df-12959cc17bf8",
-      "slug": "best-money-market-account-rates-today-may-18-2026-earn-up-to-401-apy-32b25f81",
-      "orig_slug": "best-money-market-account-rates-today-may-18-2026-earn-up-to-401-apy-32b25f81"
+      "pubDate": "2026-05-18T10:46:45Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "market-digest-nfg-spg-mdlz-lin-58367c41",
+      "orig_slug": "market-digest-nfg-spg-mdlz-lin-58367c41"
     },
     {
-      "title": "HELOC and home equity loan rates, Monday, May 18, 2026: With rates this low, consider the best lenders",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-monday-may-18-2026-100000087.html",
+      "title": "Investment Advisor Bets Big on Theme Park Stock, Latest SEC Filing Reveals",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/investment-advisor-bets-big-theme-140622488.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-05-18T10:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/_479AhxR01yKrenM2IfZSg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/006c3000-3feb-11f0-b84f-0d1aa528bfe7",
-      "slug": "heloc-and-home-equity-loan-rates-monday-may-18-2026-with-rates-this-low-consider-378cc2f7",
-      "orig_slug": "heloc-and-home-equity-loan-rates-monday-may-18-2026-with-rates-this-low-consider-378cc2f7"
+      "pubDate": "2026-05-18T14:06:22Z",
+      "image": "https://s.yimg.com/os/en/motleyfool.com/412a815baaa0a5f0e7e30a2f98b11715",
+      "slug": "investment-advisor-bets-big-on-theme-park-stock-latest-sec-filing-reveals-5b7084e3",
+      "orig_slug": "investment-advisor-bets-big-on-theme-park-stock-latest-sec-filing-reveals-5b7084e3"
     },
     {
       "title": "Best high-yield savings interest rates today, Monday, May 18, 2026: Earn up to 4.1% APY",
@@ -326,22 +389,13 @@
       "orig_slug": "best-high-yield-savings-interest-rates-today-monday-may-18-2026-earn-up-to-41-ap-a79e1f51"
     },
     {
-      "title": "Nidec to dissolve e-axle JVs in China, Europe – report",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/nidec-dissolve-e-axle-jvs-101733273.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-05-18T10:17:33Z",
-      "image": "https://media.zenfs.com/en/just_auto_187/343903fcb6a8e1371fcf210fd7522b81",
-      "slug": "nidec-to-dissolve-e-axle-jvs-in-china-europe-report-d98c54b4",
-      "orig_slug": "nidec-to-dissolve-e-axle-jvs-in-china-europe-report-d98c54b4"
-    },
-    {
-      "title": "Did your HOA dues spike last year? You're not alone.",
-      "link": "https://finance.yahoo.com/sectors/real-estate/article/did-your-hoa-dues-spike-last-year-youre-not-alone-100000254.html",
+      "title": "Best money market account rates today, May 18, 2026: Earn up to 4.01% APY",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-monday-may-18-2026-100000694.html",
       "source": "finance.yahoo.com",
       "pubDate": "2026-05-18T10:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/UDWT2DLUFJOHA0JRH.T_GA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-05/45dd57c2-94b7-430a-bcdc-d8d7e8c42b28",
-      "slug": "did-your-hoa-dues-spike-last-year-youre-not-alone-10a3e8ce",
-      "orig_slug": "did-your-hoa-dues-spike-last-year-youre-not-alone-10a3e8ce"
+      "image": "https://s.yimg.com/ny/api/res/1.2/5ht5auNXT0hvD._VUvpMQg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/16611790-1cdc-11f0-b7df-12959cc17bf8",
+      "slug": "best-money-market-account-rates-today-may-18-2026-earn-up-to-401-apy-32b25f81",
+      "orig_slug": "best-money-market-account-rates-today-may-18-2026-earn-up-to-401-apy-32b25f81"
     },
     {
       "title": "Best CD rates today, May 18, 2026: Lock in up to 4% APY",
@@ -353,67 +407,40 @@
       "orig_slug": "best-cd-rates-today-may-18-2026-lock-in-up-to-4-apy-e173eace"
     },
     {
-      "title": "Global centres in India slow hiring as AI reshapes work, ANSR CEO says",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/global-centres-india-slow-hiring-094939927.html",
+      "title": "HELOC and home equity loan rates, Monday, May 18, 2026: With rates this low, consider the best lenders",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-monday-may-18-2026-100000087.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-05-18T09:49:39Z",
-      "image": "https://s.yimg.com/os/en/reuters-finance.com/53aca65178a770449880eab3cba41e08",
-      "slug": "global-centres-in-india-slow-hiring-as-ai-reshapes-work-ansr-ceo-says-46af5e39",
-      "orig_slug": "global-centres-in-india-slow-hiring-as-ai-reshapes-work-ansr-ceo-says-46af5e39"
+      "pubDate": "2026-05-18T10:00:00Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/_479AhxR01yKrenM2IfZSg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/006c3000-3feb-11f0-b84f-0d1aa528bfe7",
+      "slug": "heloc-and-home-equity-loan-rates-monday-may-18-2026-with-rates-this-low-consider-378cc2f7",
+      "orig_slug": "heloc-and-home-equity-loan-rates-monday-may-18-2026-with-rates-this-low-consider-378cc2f7"
     },
     {
-      "title": "Global stocks retreat and bonds wilt as oil climbs",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/asia-shares-slip-oil-prices-002634344.html",
+      "title": "Daily – Vickers Top Buyers & Sellers for 05/18/2026",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_47051_TopBottomInsiderActivity_1779100056000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-05-18T09:00:37Z",
-      "image": "https://s.yimg.com/os/en/reuters.com/e607e2b0a07328e1bce79f670b7b6fb1",
-      "slug": "global-stocks-retreat-and-bonds-wilt-as-oil-climbs-7f7e2646",
-      "orig_slug": "global-stocks-retreat-and-bonds-wilt-as-oil-climbs-7f7e2646"
+      "pubDate": "2026-05-18T10:27:36Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "daily-vickers-top-buyers-sellers-for-05182026-8379bc75",
+      "orig_slug": "daily-vickers-top-buyers-sellers-for-05182026-8379bc75"
     },
     {
-      "title": "The Health Diagnosis That Tilted a 65-Year-Old’s Social Security Claim From 70 to Now",
-      "link": "https://finance.yahoo.com/sectors/healthcare/articles/health-diagnosis-tilted-65-old-101505272.html",
+      "title": "Meat-alternatives production declines in Germany",
+      "link": "https://finance.yahoo.com/sectors/healthcare/articles/meat-alternatives-production-declines-germany-140542344.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-05-18T10:15:05Z",
-      "image": "https://media.zenfs.com/en/24_7_wall_st__718/e925205ea0a185c61f7cb9e46335d697",
-      "slug": "the-health-diagnosis-that-tilted-a-65-year-olds-social-security-claim-from-70-to-9522df7e",
-      "orig_slug": "the-health-diagnosis-that-tilted-a-65-year-olds-social-security-claim-from-70-to-9522df7e"
+      "pubDate": "2026-05-18T14:05:42Z",
+      "image": "https://media.zenfs.com/en/just_food_692/204a7fd490d9a70192e854a12c335b77",
+      "slug": "meat-alternatives-production-declines-in-germany-64fe3767",
+      "orig_slug": "meat-alternatives-production-declines-in-germany-64fe3767"
     },
     {
-      "title": "Here's how Nvidia stock has historically performed after earnings: Chart of the Day",
-      "link": "https://finance.yahoo.com/markets/stocks/article/heres-how-nvidia-stock-has-historically-performed-after-earnings-chart-of-the-day-090000420.html",
+      "title": "SPAR enters North Macedonia with two Skopje stores",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/spar-enters-north-macedonia-two-140539470.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-05-18T09:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/DajrAy8Z3ZaAK8q_WdIh5w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-05/bcb93ec0-428f-4d12-af4b-a65821221c76",
-      "slug": "heres-how-nvidia-stock-has-historically-performed-after-earnings-chart-of-the-da-8f4d9233",
-      "orig_slug": "heres-how-nvidia-stock-has-historically-performed-after-earnings-chart-of-the-da-8f4d9233"
-    },
-    {
-      "title": "Investors eye Nvidia, bond yields, and the next commodity supercycle: What to watch this week",
-      "link": "https://finance.yahoo.com/news/investors-eye-nvidia-bond-yields-and-the-next-commodity-supercycle-what-to-watch-this-week-104255761.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-05-17T10:42:55Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/HcthjtoMJ0LY4fNVIFvhNQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/0295734f-401c-4017-a3d8-9a3efa278dc8_c2993c74426faf4a292e0a412a74282f9b7d8fe3e9e4b702df58860ff054881a.jpg",
-      "slug": "investors-eye-nvidia-bond-yields-and-the-next-commodity-supercycle-what-to-watch-70b8abfd",
-      "orig_slug": "investors-eye-nvidia-bond-yields-and-the-next-commodity-supercycle-what-to-watch-70b8abfd"
-    },
-    {
-      "title": "Exclusive-How Trump's crypto venture and Iran's top exchange tapped into the same industry networks",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/exclusive-trumps-crypto-venture-irans-080805071.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-05-18T08:12:16Z",
-      "image": "https://s.yimg.com/os/en/reuters.com/fb0e7bfe03115dbff76bfc7261d66e35",
-      "slug": "exclusive-how-trumps-crypto-venture-and-irans-top-exchange-tapped-into-the-same--0e98786c",
-      "orig_slug": "exclusive-how-trumps-crypto-venture-and-irans-top-exchange-tapped-into-the-same--0e98786c"
-    },
-    {
-      "title": "Explainer-What do China's new US farm purchases mean for global trade?",
-      "link": "https://finance.yahoo.com/economy/policy/articles/explainer-chinas-us-farm-purchases-080552037.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-05-18T08:05:52Z",
-      "image": "https://s.yimg.com/os/en/reuters.com/56158dad9dab1e3f770cb02d4f2a50be",
-      "slug": "explainer-what-do-chinas-new-us-farm-purchases-mean-for-global-trade-0f4165ff",
-      "orig_slug": "explainer-what-do-chinas-new-us-farm-purchases-mean-for-global-trade-0f4165ff"
+      "pubDate": "2026-05-18T14:05:39Z",
+      "image": "https://media.zenfs.com/en/retail_insight_network_724/ae9bbed24600c1a54b12233018cdf6ed",
+      "slug": "spar-enters-north-macedonia-with-two-skopje-stores-fc2f6142",
+      "orig_slug": "spar-enters-north-macedonia-with-two-skopje-stores-fc2f6142"
     }
   ]
 }
