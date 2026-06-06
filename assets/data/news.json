@@ -1,113 +1,41 @@
 {
-  "updated": "2026-06-06T09:54:08Z",
+  "updated": "2026-06-06T11:16:22Z",
   "items": [
     {
-      "title": "UK's Raspberry Pi shares hit record as industrial demand boosts outlook",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/uks-raspberry-pi-lifts-annual-064531198.html",
+      "title": "Ex-WH Smith stores owner in clash with landlords over ‘aggressive’ cuts",
+      "link": "https://finance.yahoo.com/economy/policy/articles/ex-wh-smith-stores-owner-092611220.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-06-05T06:45:31Z",
-      "image": "https://s.yimg.com/os/en/reuters-finance.com/585aff2749cd8b692c0bd3d412d91a11",
-      "slug": "uks-raspberry-pi-shares-hit-record-as-industrial-demand-boosts-outlook-2a609cc9",
-      "orig_slug": "uks-raspberry-pi-shares-hit-record-as-industrial-demand-boosts-outlook-2a609cc9"
+      "pubDate": "2026-06-05T09:26:11Z",
+      "image": "https://media.zenfs.com/en/the_telegraph_258/6989cae528b049e4c74226a62c3c4571",
+      "slug": "ex-wh-smith-stores-owner-in-clash-with-landlords-over-aggressive-cuts-0f299d48",
+      "orig_slug": "ex-wh-smith-stores-owner-in-clash-with-landlords-over-aggressive-cuts-0f299d48"
     },
     {
-      "title": "Is MetLife Stock Outperforming the S&P 500?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/metlife-stock-outperforming-p-500-062224380.html",
+      "title": "From Netflix to toilet paper, Americans love subscriptions — but 30% are spending much more than they realize",
+      "link": "https://finance.yahoo.com/markets/articles/netflix-toilet-paper-americans-love-093000128.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-06-05T06:22:24Z",
-      "image": "https://media.zenfs.com/en/barchart_com_477/9d71e0b476880efb6aee74f940010093",
-      "slug": "is-metlife-stock-outperforming-the-sp-500-336ab016",
-      "orig_slug": "is-metlife-stock-outperforming-the-sp-500-336ab016"
+      "pubDate": "2026-06-05T09:30:00Z",
+      "image": "https://media.zenfs.com/en/moneywise_327/eff2eeb718d6c77f2a5b95a8b3b582e3",
+      "slug": "from-netflix-to-toilet-paper-americans-love-subscriptions-but-30-are-spending-mu-ba027fe4",
+      "orig_slug": "from-netflix-to-toilet-paper-americans-love-subscriptions-but-30-are-spending-mu-ba027fe4"
     },
     {
-      "title": "Should We Shift Assets to a Target Date Fund or an Annuity?",
-      "link": "https://finance.yahoo.com/markets/options/articles/ask-advisor-1-6m-401-120000377.html",
+      "title": "Lululemon slides as bleak forecasts deepen turnaround worries",
+      "link": "https://finance.yahoo.com/news/lululemon-slides-bleak-forecasts-deepen-093056245.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-06-05T07:00:00Z",
-      "image": "https://s.yimg.com/os/en/smartasset_475/58fa2f15c54bf3640ef094d537a69fe6",
-      "slug": "should-we-shift-assets-to-a-target-date-fund-or-an-annuity-ed804d12",
-      "orig_slug": "should-we-shift-assets-to-a-target-date-fund-or-an-annuity-ed804d12"
+      "pubDate": "2026-06-05T09:30:56Z",
+      "image": "https://s.yimg.com/os/en/reuters.com/efa99b0032c298b173470f070b3899a9",
+      "slug": "lululemon-slides-as-bleak-forecasts-deepen-turnaround-worries-52f5673f",
+      "orig_slug": "lululemon-slides-as-bleak-forecasts-deepen-turnaround-worries-52f5673f"
     },
     {
-      "title": "China and Hong Kong users unable to access SpaceX website, IPO documents",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/china-hong-kong-users-unable-070259116.html",
+      "title": "Captive equity boom rewrites rules for Europe's CLO and leveraged loan markets",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/captive-equity-boom-rewrites-rules-093813223.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-06-05T07:02:59Z",
-      "image": "https://s.yimg.com/os/en/reuters-finance.com/9118df35d0f7501dcfd5bfc156d66303",
-      "slug": "china-and-hong-kong-users-unable-to-access-spacex-website-ipo-documents-680eb178",
-      "orig_slug": "china-and-hong-kong-users-unable-to-access-spacex-website-ipo-documents-680eb178"
-    },
-    {
-      "title": "Iofina shares jump after it signs new brine supply deal - UPDATE",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/iofina-signs-brine-supply-deal-063700409.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-06-05T06:37:00Z",
-      "image": "https://media.zenfs.com/en/proactive_us_504/69e21d07c407c07847bd9589bd8fa1a6",
-      "slug": "iofina-shares-jump-after-it-signs-new-brine-supply-deal---update-e619ba19",
-      "orig_slug": "iofina-shares-jump-after-it-signs-new-brine-supply-deal---update-e619ba19"
-    },
-    {
-      "title": "Norway Averts Offshore Strike as Workers and Industry Reach Deal",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/norway-averts-offshore-strike-workers-083000943.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-06-05T08:30:00Z",
-      "image": "https://s.yimg.com/os/en/oilprice.com/e8dc6cd3c21254e579bfb646d81aaf42",
-      "slug": "norway-averts-offshore-strike-as-workers-and-industry-reach-deal-3ccc2bcc",
-      "orig_slug": "norway-averts-offshore-strike-as-workers-and-industry-reach-deal-3ccc2bcc"
-    },
-    {
-      "title": "Compass Point Analyst Believes Bitcoin's Bear Market May Be Coming to an End",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/compass-point-analyst-believes-bitcoins-051600988.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-06-05T05:16:00Z",
-      "image": "https://s.yimg.com/os/en/cryptoprowl_304/728c93524936c751e55bc5949abcd122",
-      "slug": "compass-point-analyst-believes-bitcoins-bear-market-may-be-coming-to-an-end-ea434ff4",
-      "orig_slug": "compass-point-analyst-believes-bitcoins-bear-market-may-be-coming-to-an-end-ea434ff4"
-    },
-    {
-      "title": "Stocks slump as Big Tech sinks and a strong May jobs report boosts odds for higher interest rates",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-drop-south-koreas-050334604.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-06-05T05:03:34Z",
-      "image": "https://media.zenfs.com/en/ap.org/1367975a5344686bffc4beb778c813d1",
-      "slug": "stocks-slump-as-big-tech-sinks-and-a-strong-may-jobs-report-boosts-odds-for-high-8c977bf3",
-      "orig_slug": "stocks-slump-as-big-tech-sinks-and-a-strong-may-jobs-report-boosts-odds-for-high-8c977bf3"
-    },
-    {
-      "title": "Is Alphabet Inc. the Best Goldman Sachs Tech Stock to Buy Now?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-inc-best-goldman-sachs-084007616.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-06-05T08:40:07Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/674faf8d2701d04a1ca95692e0adb4f0",
-      "slug": "is-alphabet-inc-the-best-goldman-sachs-tech-stock-to-buy-now-9f4f031c",
-      "orig_slug": "is-alphabet-inc-the-best-goldman-sachs-tech-stock-to-buy-now-9f4f031c"
-    },
-    {
-      "title": "Where Will Costco Stock Be in 3 Years?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/where-costco-stock-3-years-064700326.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-06-05T06:47:00Z",
-      "image": "https://s.yimg.com/os/en/motleyfool.com/5d9497b3e5457c52804705b5680349bd",
-      "slug": "where-will-costco-stock-be-in-3-years-014e8bd3",
-      "orig_slug": "where-will-costco-stock-be-in-3-years-014e8bd3"
-    },
-    {
-      "title": "How Far Can Micron Technology (MU) Go? Susquehanna Sees Over 80% Upside",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/far-micron-technology-mu-susquehanna-081021079.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-06-05T08:10:21Z",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/c2c07d29dd5f33604c6d09b563d78d57",
-      "slug": "how-far-can-micron-technology-mu-go-susquehanna-sees-over-80-upside-390fdcc6",
-      "orig_slug": "how-far-can-micron-technology-mu-go-susquehanna-sees-over-80-upside-390fdcc6"
-    },
-    {
-      "title": "Ask an Advisor: Who Should I Work With on a Roth Conversion During a Low-Income Year?",
-      "link": "https://finance.yahoo.com/markets/options/articles/professional-tax-calculation-roth-conversion-134413664.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-06-05T09:00:00Z",
-      "image": "https://s.yimg.com/os/en/smartasset_475/ee75a826b3080135fde0f9b4046e916d",
-      "slug": "ask-an-advisor-who-should-i-work-with-on-a-roth-conversion-during-a-low-income-y-cd02a128",
-      "orig_slug": "ask-an-advisor-who-should-i-work-with-on-a-roth-conversion-during-a-low-income-y-cd02a128"
+      "pubDate": "2026-06-05T09:38:13Z",
+      "image": "https://s.yimg.com/os/en/pitchbook_790/d8a252af22ae2b4b7d55bdd46d585654",
+      "slug": "captive-equity-boom-rewrites-rules-for-europes-clo-and-leveraged-loan-markets-0d003d19",
+      "orig_slug": "captive-equity-boom-rewrites-rules-for-europes-clo-and-leveraged-loan-markets-0d003d19"
     },
     {
       "title": "Why Was the Commodity Sector Seeing Red Early Friday Morning?",
@@ -119,6 +47,123 @@
       "orig_slug": "why-was-the-commodity-sector-seeing-red-early-friday-morning-33011cf7"
     },
     {
+      "title": "Small Stocks Are Trouncing Market Giants—and That’s Not a Good Sign",
+      "link": "https://www.wsj.com/finance/stocks/small-stocks-are-trouncing-market-giantsand-thats-not-a-good-sign-ea06ebc1?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-05T09:30:00Z",
+      "image": "",
+      "slug": "small-stocks-are-trouncing-market-giantsand-thats-not-a-good-sign-3b1245c1",
+      "orig_slug": "small-stocks-are-trouncing-market-giantsand-thats-not-a-good-sign-3b1245c1"
+    },
+    {
+      "title": "Ask an Advisor: Who Should I Work With on a Roth Conversion During a Low-Income Year?",
+      "link": "https://finance.yahoo.com/markets/options/articles/professional-tax-calculation-roth-conversion-134413664.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-05T09:00:00Z",
+      "image": "https://s.yimg.com/os/en/smartasset_475/ee75a826b3080135fde0f9b4046e916d",
+      "slug": "ask-an-advisor-who-should-i-work-with-on-a-roth-conversion-during-a-low-income-y-cd02a128",
+      "orig_slug": "ask-an-advisor-who-should-i-work-with-on-a-roth-conversion-during-a-low-income-y-cd02a128"
+    },
+    {
+      "title": "Is Block, Inc. Stock Underperforming the S&P 500?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/block-inc-stock-underperforming-p-095812581.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-05T09:58:12Z",
+      "image": "https://media.zenfs.com/en/barchart_com_477/9d71e5ea010bed2558fff527fd223eb0",
+      "slug": "is-block-inc-stock-underperforming-the-sp-500-971adbd9",
+      "orig_slug": "is-block-inc-stock-underperforming-the-sp-500-971adbd9"
+    },
+    {
+      "title": "What Are Analyst Thoughts on Broadcom’s AI Revenue Guidance?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/analyst-thoughts-broadcom-ai-revenue-095947786.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-05T09:59:47Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/711c84dc8c1b93a79d29ed8e20b28b00",
+      "slug": "what-are-analyst-thoughts-on-broadcoms-ai-revenue-guidance-20d6147a",
+      "orig_slug": "what-are-analyst-thoughts-on-broadcoms-ai-revenue-guidance-20d6147a"
+    },
+    {
+      "title": "Analyst Upgrades Cisco Systems As It Anticipates $6 Billion in FY2027 AI Revenue",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/analyst-upgrades-cisco-systems-anticipates-095942544.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-05T09:59:42Z",
+      "image": "https://s.yimg.com/os/en/insidermonkey.com/cc81ba4cf0c12532137ea0a3d7204f6f",
+      "slug": "analyst-upgrades-cisco-systems-as-it-anticipates-6-billion-in-fy2027-ai-revenue-d83fa2ba",
+      "orig_slug": "analyst-upgrades-cisco-systems-as-it-anticipates-6-billion-in-fy2027-ai-revenue-d83fa2ba"
+    },
+    {
+      "title": "Meet the SpaceX Employees Who Are About to Make an Overnight Fortune",
+      "link": "https://www.wsj.com/business/meet-the-spacex-employees-who-are-about-to-become-overnight-millionaires-1a1a1370?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-05T09:30:00Z",
+      "image": "",
+      "slug": "meet-the-spacex-employees-who-are-about-to-make-an-overnight-fortune-5831234a",
+      "orig_slug": "meet-the-spacex-employees-who-are-about-to-make-an-overnight-fortune-5831234a"
+    },
+    {
+      "title": "Applied Materials (AMAT) Continues Its Bull Run as Analyst Sees More Upside",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-amat-continues-bull-095944989.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-05T09:59:44Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/057a3297dfc52f37efe172590946f432",
+      "slug": "applied-materials-amat-continues-its-bull-run-as-analyst-sees-more-upside-3b3b4470",
+      "orig_slug": "applied-materials-amat-continues-its-bull-run-as-analyst-sees-more-upside-3b3b4470"
+    },
+    {
+      "title": "Here Is What Morgan Stanley Has to Say Ahead of Apple’s (AAPL) WWDC 2026 Event?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-ahead-apple-aapl-095945061.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-05T09:59:45Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/9F78AA13E8D9FDAB3167F535BEA406EA5FD1C5AC34AAC00BDB3B542289CA2667/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fbd47dc2e86b4a3086f845d200d9daf1f",
+      "slug": "here-is-what-morgan-stanley-has-to-say-ahead-of-apples-aapl-wwdc-2026-event-206e8e18",
+      "orig_slug": "here-is-what-morgan-stanley-has-to-say-ahead-of-apples-aapl-wwdc-2026-event-206e8e18"
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing Signs Major AI Deal With Nvidia",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/taiwan-semiconductor-manufacturing-signs-major-095940607.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-05T09:59:40Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/8e0b8358d7dfe085f2ad179f75d96a7d",
+      "slug": "taiwan-semiconductor-manufacturing-signs-major-ai-deal-with-nvidia-69c071bc",
+      "orig_slug": "taiwan-semiconductor-manufacturing-signs-major-ai-deal-with-nvidia-69c071bc"
+    },
+    {
+      "title": "Analyst Sees Multi-Billion Dollar Potential In Meta Platforms’ Subscription Model",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/analyst-sees-multi-billion-dollar-095939379.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-05T09:59:39Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/f6f178ce5932ec386ee19c63f9fc1947",
+      "slug": "analyst-sees-multi-billion-dollar-potential-in-meta-platforms-subscription-model-5a1a4825",
+      "orig_slug": "analyst-sees-multi-billion-dollar-potential-in-meta-platforms-subscription-model-5a1a4825"
+    },
+    {
+      "title": "The Bitcoin Crash Just Wiped $62 Billion From Corporate Treasury Holders, Is the MicroStrategy Model Broken?",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-crash-just-wiped-62-092912084.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-05T09:29:12Z",
+      "image": "https://s.yimg.com/os/en/cryptonews_us_711/9e3cb1c95e2593db00ec9c8d4e4b90a3",
+      "slug": "the-bitcoin-crash-just-wiped-62-billion-from-corporate-treasury-holders-is-the-m-5cb95f92",
+      "orig_slug": "the-bitcoin-crash-just-wiped-62-billion-from-corporate-treasury-holders-is-the-m-5cb95f92"
+    },
+    {
+      "title": "Here is why Microsoft (MSFT) Is Among the Best Goldman Sachs Tech Stocks to Buy Now",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-microsoft-msft-among-best-095935835.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-05T09:59:35Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/e594c84b43643f9264f217379beb7064",
+      "slug": "here-is-why-microsoft-msft-is-among-the-best-goldman-sachs-tech-stocks-to-buy-no-e927ad13",
+      "orig_slug": "here-is-why-microsoft-msft-is-among-the-best-goldman-sachs-tech-stocks-to-buy-no-e927ad13"
+    },
+    {
+      "title": "NVIDIA Corporation (NVDA): Top 10 Goldman Sachs Tech Stocks to Buy Now",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/nvidia-corporation-nvda-top-10-095937913.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-05T09:59:37Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/853b5432b039878bfa3f7e94bd98f8ec",
+      "slug": "nvidia-corporation-nvda-top-10-goldman-sachs-tech-stocks-to-buy-now-4c1ca08b",
+      "orig_slug": "nvidia-corporation-nvda-top-10-goldman-sachs-tech-stocks-to-buy-now-4c1ca08b"
+    },
+    {
       "title": "Best high-yield savings interest rates today, Friday, June 5, 2026: Up to 4.10% APY return",
       "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-friday-june-5-2026-100000048.html",
       "source": "finance.yahoo.com",
@@ -126,15 +171,6 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/zkP71JMsVlcuMMr4TYwHfg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/822c7220-4eb6-11ef-afbf-4972cf7de987",
       "slug": "best-high-yield-savings-interest-rates-today-friday-june-5-2026-up-to-410-apy-re-ef4130d3",
       "orig_slug": "best-high-yield-savings-interest-rates-today-friday-june-5-2026-up-to-410-apy-re-ef4130d3"
-    },
-    {
-      "title": "Warren Buffett's Successor, Greg Abel, Dumped Amazon and Bought 3 Million Shares of This Undervalued Stock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-successor-greg-abel-063500223.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-06-05T06:35:00Z",
-      "image": "https://media.zenfs.com/en/motleyfool.com/6365747ae2bfa29b75732ee60ef9eb93",
-      "slug": "warren-buffetts-successor-greg-abel-dumped-amazon-and-bought-3-million-shares-of-52fa8294",
-      "orig_slug": "warren-buffetts-successor-greg-abel-dumped-amazon-and-bought-3-million-shares-of-52fa8294"
     },
     {
       "title": "Best CD rates today, Friday, June 5, 2026: Up to 4% APY return",
@@ -146,13 +182,13 @@
       "orig_slug": "best-cd-rates-today-friday-june-5-2026-up-to-4-apy-return-1f7b4522"
     },
     {
-      "title": "HELOC and home equity loan rates today, June 5, 2026: Rates move upward as asking prices fall",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-friday-june-5-2026-100000368.html",
+      "title": "Oil Advances as Hezbollah Rejects Ceasefire Proposal, Supporting Weekly Gains",
+      "link": "https://finance.yahoo.com/sectors/energy/articles/oil-advances-hezbollah-rejects-ceasefire-092436774.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-06-05T10:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/.s_eK2TthYlP26Fzb3LEMQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/eb4e4990-4262-11f0-b61f-fecabc8eb879",
-      "slug": "heloc-and-home-equity-loan-rates-today-june-5-2026-rates-move-upward-as-asking-p-1790b174",
-      "orig_slug": "heloc-and-home-equity-loan-rates-today-june-5-2026-rates-move-upward-as-asking-p-1790b174"
+      "pubDate": "2026-06-05T09:24:36Z",
+      "image": "https://s.yimg.com/os/en/investorshub_458/d0b7fb7e92d3974f3c8844e74a1f1917",
+      "slug": "oil-advances-as-hezbollah-rejects-ceasefire-proposal-supporting-weekly-gains-5dd70164",
+      "orig_slug": "oil-advances-as-hezbollah-rejects-ceasefire-proposal-supporting-weekly-gains-5dd70164"
     },
     {
       "title": "Best money market account rates today, Friday, June 5, 2026: Up to 4.01% APY return",
@@ -164,6 +200,15 @@
       "orig_slug": "best-money-market-account-rates-today-friday-june-5-2026-up-to-401-apy-return-22c15cf8"
     },
     {
+      "title": "HELOC and home equity loan rates today, June 5, 2026: Rates move upward as asking prices fall",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-friday-june-5-2026-100000368.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-05T10:00:00Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/.s_eK2TthYlP26Fzb3LEMQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/eb4e4990-4262-11f0-b61f-fecabc8eb879",
+      "slug": "heloc-and-home-equity-loan-rates-today-june-5-2026-rates-move-upward-as-asking-p-1790b174",
+      "orig_slug": "heloc-and-home-equity-loan-rates-today-june-5-2026-rates-move-upward-as-asking-p-1790b174"
+    },
+    {
       "title": "Mortgage and refinance rates today, June 5, 2026: Rates mixed again and reverse course from yesterday",
       "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-friday-june-5-2026-100000530.html",
       "source": "finance.yahoo.com",
@@ -173,6 +218,159 @@
       "orig_slug": "mortgage-and-refinance-rates-today-june-5-2026-rates-mixed-again-and-reverse-cou-56128ceb"
     },
     {
+      "title": "Is Alphabet Inc. the Best Goldman Sachs Tech Stock to Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-inc-best-goldman-sachs-084007616.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-05T08:40:07Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/674faf8d2701d04a1ca95692e0adb4f0",
+      "slug": "is-alphabet-inc-the-best-goldman-sachs-tech-stock-to-buy-now-9f4f031c",
+      "orig_slug": "is-alphabet-inc-the-best-goldman-sachs-tech-stock-to-buy-now-9f4f031c"
+    },
+    {
+      "title": "Warren Buffett's Successor, Greg Abel, Overhauled Berkshire Hathaway's Portfolio and Has 61% of Its Assets Invested in Just 5 Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-successor-greg-abel-092600727.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-05T09:26:00Z",
+      "image": "https://media.zenfs.com/en/motleyfool.com/e1ad5e92023afdab5b96b57fb4dc1ff5",
+      "slug": "warren-buffetts-successor-greg-abel-overhauled-berkshire-hathaways-portfolio-and-f75a8fb0",
+      "orig_slug": "warren-buffetts-successor-greg-abel-overhauled-berkshire-hathaways-portfolio-and-f75a8fb0"
+    },
+    {
+      "title": "DA Davidson Reiterates Neutral Rating on Installed Building Products (IBP)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/da-davidson-reiterates-neutral-rating-100400469.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-05T10:04:00Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/3d0664fd5d8a0e4eb0d73aed79411511",
+      "slug": "da-davidson-reiterates-neutral-rating-on-installed-building-products-ibp-425b9bd8",
+      "orig_slug": "da-davidson-reiterates-neutral-rating-on-installed-building-products-ibp-425b9bd8"
+    },
+    {
+      "title": "Is PulteGroup (PHM) One of the Best Real Estate Stocks to Buy Beyond REITs?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pultegroup-phm-one-best-real-100358086.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-05T10:03:58Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/0094caa020d907d48ec4f0f019eb8b8a",
+      "slug": "is-pultegroup-phm-one-of-the-best-real-estate-stocks-to-buy-beyond-reits-cc2cf4a3",
+      "orig_slug": "is-pultegroup-phm-one-of-the-best-real-estate-stocks-to-buy-beyond-reits-cc2cf4a3"
+    },
+    {
+      "title": "Can Champion Homes, Inc. (SKY) Remain Resilient Amid Macro Headwinds?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/champion-homes-inc-sky-remain-100357132.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-05T10:03:57Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/9b34e443fb27f4c49153fce2c3851413",
+      "slug": "can-champion-homes-inc-sky-remain-resilient-amid-macro-headwinds-3131380b",
+      "orig_slug": "can-champion-homes-inc-sky-remain-resilient-amid-macro-headwinds-3131380b"
+    },
+    {
+      "title": "Century Communities (CCS) Announces Upcoming Projects in Florida, Kentucky",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/century-communities-ccs-announces-upcoming-100403921.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-05T10:04:03Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/0774aef5287aec2ee239b0d9199f6762",
+      "slug": "century-communities-ccs-announces-upcoming-projects-in-florida-kentucky-ab844856",
+      "orig_slug": "century-communities-ccs-announces-upcoming-projects-in-florida-kentucky-ab844856"
+    },
+    {
+      "title": "JPMorgan taps AI to process checks",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/jpmorgan-taps-ai-process-checks-092600608.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-05T09:26:00Z",
+      "image": "https://media.zenfs.com/en/payments_dive_978/63468e25902b8ebb60b2c087155873aa",
+      "slug": "jpmorgan-taps-ai-to-process-checks-53e58baf",
+      "orig_slug": "jpmorgan-taps-ai-to-process-checks-53e58baf"
+    },
+    {
+      "title": "Can Corporación Inmobiliaria Vesta, S.A.B. de C.V.(VTMX) Strengthen Its North America Industrial Presence?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/corporaci-n-inmobiliaria-vesta-b-100354849.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-05T10:03:54Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/C5EF0B3D363CCB52972AE5DDD93386375E8CED690D4ADB71DC1747354EAEDDA4/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F4b540ba68b050d0a4be48cd76cf829c8",
+      "slug": "can-corporacin-inmobiliaria-vesta-sab-de-cvvtmx-strengthen-its-north-america-ind-9336c16c",
+      "orig_slug": "can-corporacin-inmobiliaria-vesta-sab-de-cvvtmx-strengthen-its-north-america-ind-9336c16c"
+    },
+    {
+      "title": "RBC Capital Downgrades Taylor Morrison Home Corp. (TMHC) Rating to Sector Perform",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-capital-downgrades-taylor-morrison-100402440.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-05T10:04:02Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/40cf142bbd6c7ddce907528144f65a57",
+      "slug": "rbc-capital-downgrades-taylor-morrison-home-corp-tmhc-rating-to-sector-perform-62db7cf9",
+      "orig_slug": "rbc-capital-downgrades-taylor-morrison-home-corp-tmhc-rating-to-sector-perform-62db7cf9"
+    },
+    {
+      "title": "Is Meritage Homes (MTH) Among the Best Real Estate Stocks to Buy?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/meritage-homes-mth-among-best-100355013.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-05T10:03:55Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/83a574aad3da0b39826add7f9b21a6b8",
+      "slug": "is-meritage-homes-mth-among-the-best-real-estate-stocks-to-buy-7c381350",
+      "orig_slug": "is-meritage-homes-mth-among-the-best-real-estate-stocks-to-buy-7c381350"
+    },
+    {
+      "title": "Toll Brothers (TOL) Announces New Luxury Townhomes in Georgia",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-tol-announces-luxury-100502601.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-05T10:05:02Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/8c6a55ebc70437868ae822c9f01ff578",
+      "slug": "toll-brothers-tol-announces-new-luxury-townhomes-in-georgia-4aae6f26",
+      "orig_slug": "toll-brothers-tol-announces-new-luxury-townhomes-in-georgia-4aae6f26"
+    },
+    {
+      "title": "Megacap IPO Pipeline Merits Monitoring",
+      "link": "https://www.barrons.com/livecoverage/stock-market-news-today-060526/card/megacap-ipo-pipeline-merits-monitoring-5y3RK3YSxicnWh7ol38d?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-05T09:24:34Z",
+      "image": "",
+      "slug": "megacap-ipo-pipeline-merits-monitoring-34dba26a",
+      "orig_slug": "megacap-ipo-pipeline-merits-monitoring-34dba26a"
+    },
+    {
+      "title": "California to decide soon whether it will seek to block Paramount deal",
+      "link": "https://finance.yahoo.com/economy/policy/articles/california-decide-soon-whether-seek-100602481.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-05T10:06:02Z",
+      "image": "https://s.yimg.com/os/en/reuters-finance.com/c06d66a5ae9832ad9b3c17053fd8ea4e",
+      "slug": "california-to-decide-soon-whether-it-will-seek-to-block-paramount-deal-37735844",
+      "orig_slug": "california-to-decide-soon-whether-it-will-seek-to-block-paramount-deal-37735844"
+    },
+    {
+      "title": "Norway Averts Offshore Strike as Workers and Industry Reach Deal",
+      "link": "https://finance.yahoo.com/sectors/energy/articles/norway-averts-offshore-strike-workers-083000943.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-05T08:30:00Z",
+      "image": "https://s.yimg.com/os/en/oilprice.com/e8dc6cd3c21254e579bfb646d81aaf42",
+      "slug": "norway-averts-offshore-strike-as-workers-and-industry-reach-deal-3ccc2bcc",
+      "orig_slug": "norway-averts-offshore-strike-as-workers-and-industry-reach-deal-3ccc2bcc"
+    },
+    {
+      "title": "ASML CEO says EU Commission should not try to direct 'strategic projects'",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/asml-ceo-says-eu-commission-100938968.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-05T10:09:38Z",
+      "image": "https://s.yimg.com/os/en/reuters-finance.com/c33eb8ab2b11e4178078e43b0a647087",
+      "slug": "asml-ceo-says-eu-commission-should-not-try-to-direct-strategic-projects-87d6ccb2",
+      "orig_slug": "asml-ceo-says-eu-commission-should-not-try-to-direct-strategic-projects-87d6ccb2"
+    },
+    {
+      "title": "How Far Can Micron Technology (MU) Go? Susquehanna Sees Over 80% Upside",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/far-micron-technology-mu-susquehanna-081021079.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-05T08:10:21Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/c2c07d29dd5f33604c6d09b563d78d57",
+      "slug": "how-far-can-micron-technology-mu-go-susquehanna-sees-over-80-upside-390fdcc6",
+      "orig_slug": "how-far-can-micron-technology-mu-go-susquehanna-sees-over-80-upside-390fdcc6"
+    },
+    {
+      "title": "Lululemon Flubbed the Quarter, and the Founder Won't Say a Bad Word",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lululemon-flubbed-quarter-founder-wont-093238032.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-05T09:32:38Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/3415FFB0868346C7387C8355066D9247AB199CF76F1AE8EE6370F29DB49A422D/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fbb7b665ebaf3ca8d3fb7854f0a2124f5",
+      "slug": "lululemon-flubbed-the-quarter-and-the-founder-wont-say-a-bad-word-3e63049c",
+      "orig_slug": "lululemon-flubbed-the-quarter-and-the-founder-wont-say-a-bad-word-3e63049c"
+    },
+    {
       "title": "Bitcoin and ethereum prices today, Friday, June 5, 2026: Prices continue their descent - 5 reasons why",
       "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-june-5-2026-prices-continue-their-descent---5-reasons-why-113631165.html",
       "source": "finance.yahoo.com",
@@ -180,177 +378,6 @@
       "image": "https://s.yimg.com/uu/api/res/1.2/g2FYNRdQidSyHITH_Hia0Q--~B/aD0zNzc7dz02MTI7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/bitcoin_2_9860.jpg",
       "slug": "bitcoin-and-ethereum-prices-today-friday-june-5-2026-prices-continue-their-desce-bdf50869",
       "orig_slug": "bitcoin-and-ethereum-prices-today-friday-june-5-2026-prices-continue-their-desce-bdf50869"
-    },
-    {
-      "title": "Gold prices today, Friday, June 5: Gold prices still moving lower after May's impressive jobs report",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-friday-june-5-gold-prices-still-moving-lower-after-mays-impressive-jobs-report-104457127.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-06-05T10:44:57Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/4h1SLiEhpgWc5xgY80JxXg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD01MDY-/https://d29szjachogqwa.cloudfront.net/images/2026-04/3aaf01ac-19a4-495f-86f3-45ac8925bf2e",
-      "slug": "gold-prices-today-friday-june-5-gold-prices-still-moving-lower-after-mays-impres-ea113eb8",
-      "orig_slug": "gold-prices-today-friday-june-5-gold-prices-still-moving-lower-after-mays-impres-ea113eb8"
-    },
-    {
-      "title": "Silver prices today, Friday, June 5, 2026: Silver prices still sliding after jobs report",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-friday-june-5-2026-silver-prices-still-sliding-after-jobs-report-110413528.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-06-05T11:04:13Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/RjGmz3wq.w_AYgb0DbCWUg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-05/4d950ec0-03eb-414b-bfd3-9fb69d35cb32",
-      "slug": "silver-prices-today-friday-june-5-2026-silver-prices-still-sliding-after-jobs-re-8854db89",
-      "orig_slug": "silver-prices-today-friday-june-5-2026-silver-prices-still-sliding-after-jobs-re-8854db89"
-    },
-    {
-      "title": "SpaceX IPO: How can I buy the stock?",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/spacex-ipo-how-can-i-buy-the-stock-141820340.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-06-05T14:18:20Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/UgLBgnFCEVNoNT7dMgqcPw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NTc-/https://d29szjachogqwa.cloudfront.net/images/2026-06/44bc2e81-7dfb-40cf-bff2-cb21f0480f79",
-      "slug": "spacex-ipo-how-can-i-buy-the-stock-23ee2cdd",
-      "orig_slug": "spacex-ipo-how-can-i-buy-the-stock-23ee2cdd"
-    },
-    {
-      "title": "Is MOBX The Next Big Domestic Defense Play? Inside Mobix Labs’ Move to Acquire U.S. Drone Maker Vision Aerial",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mobx-next-big-domestic-defense-063117964.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-06-05T06:31:17Z",
-      "image": "https://s.yimg.com/os/en/investorshub_458/fb0d562b1ea66d915d6f683913ef0ffb",
-      "slug": "is-mobx-the-next-big-domestic-defense-play-inside-mobix-labs-move-to-acquire-us--65c99349",
-      "orig_slug": "is-mobx-the-next-big-domestic-defense-play-inside-mobix-labs-move-to-acquire-us--65c99349"
-    },
-    {
-      "title": "AlumniFi review (2026): High-interest online checking and savings accounts college grads",
-      "link": "https://finance.yahoo.com/personal-finance/banking/review/alumnifi-review-213723546.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-10-21T21:37:23Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/IGPlhYs9wHss5yEwq6g0wg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzM-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/50d652c0-aea7-11f0-adf7-5a4846d89f6f",
-      "slug": "alumnifi-review-2026-high-interest-online-checking-and-savings-accounts-college--d6e1224a",
-      "orig_slug": "alumnifi-review-2026-high-interest-online-checking-and-savings-accounts-college--d6e1224a"
-    },
-    {
-      "title": "What is fintech? What you need to know about financial technology companies.",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/what-is-fintech-what-you-need-to-know-about-financial-technology-companies-183520865.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2024-06-12T18:35:20Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/vn.oeQbk9vedw6B4u9_6Jw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2021-02/87ed46b0-6b1d-11eb-9fde-809e865f1a9a",
-      "slug": "what-is-fintech-what-you-need-to-know-about-financial-technology-companies-81f599ee",
-      "orig_slug": "what-is-fintech-what-you-need-to-know-about-financial-technology-companies-81f599ee"
-    },
-    {
-      "title": "Gold forecast and tracker: Where will prices land in 2026?",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-forecast-and-tracker-where-will-prices-land-in-2026-130000340.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-15T13:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/E4qMIBnxeBIrXlEF1V5J6A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/fbbd9fa0-dee9-11f0-b7a7-c08ab3268ca3",
-      "slug": "gold-forecast-and-tracker-where-will-prices-land-in-2026-fba31063",
-      "orig_slug": "gold-forecast-and-tracker-where-will-prices-land-in-2026-fba31063"
-    },
-    {
-      "title": "Gold price outlook: Will we hit $6,000 in 2026?",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-outlook-will-we-hit-6000-in-2026-150000990.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-27T15:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/aXeg2PLjTvC4hHp6y2rEjw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDU-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/0935a730-f6b5-11f0-bf5e-6959578a4d75",
-      "slug": "gold-price-outlook-will-we-hit-6000-in-2026-bf776bd1",
-      "orig_slug": "gold-price-outlook-will-we-hit-6000-in-2026-bf776bd1"
-    },
-    {
-      "title": "Silver price predictions: What will happentors expect over the next decade?",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-price-predictions-what-will-happeninvestors-expect-over-the-next-decade-130000208.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-02T13:00:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/z8hJSucRnODFz3l55qcSag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2021-04/bac0a1c0-9b44-11eb-b965-02078366a3fa",
-      "slug": "silver-price-predictions-what-will-happentors-expect-over-the-next-decade-58f4517b",
-      "orig_slug": "silver-price-predictions-what-will-happentors-expect-over-the-next-decade-58f4517b"
-    },
-    {
-      "title": "Delta SkyMiles® Reserve American Express Card review — Enjoy complimentary upgrades and lounge access",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/review/delta-skymiles-reserve-review-164100808.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2024-02-14T16:41:00Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/srYPzaG6fNUNZJFeGd7YGA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-06/b92e24f9-2642-455f-950f-e9e764260d02",
-      "slug": "delta-skymiles-reserve-american-express-card-review-enjoy-complimentary-upgrades-2c7d0210",
-      "orig_slug": "delta-skymiles-reserve-american-express-card-review-enjoy-complimentary-upgrades-2c7d0210"
-    },
-    {
-      "title": "Service Credit Union review (2026): Competitive rates and military-focused banking",
-      "link": "https://finance.yahoo.com/personal-finance/banking/review/service-credit-union-review-214918506.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-10-27T21:49:18Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/gotiWI.5V9jBHwF0Cvd3jQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MTM-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/920c13b0-b361-11f0-976f-bc9b70360215",
-      "slug": "service-credit-union-review-2026-competitive-rates-and-military-focused-banking-ff4e2e9e",
-      "orig_slug": "service-credit-union-review-2026-competitive-rates-and-military-focused-banking-ff4e2e9e"
-    },
-    {
-      "title": "Best airline credit cards for June 2026",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-airline-credit-cards-193236919.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2024-09-11T22:47:15Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/CpO_OCcCX.ibXvDayKDdOQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NjU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2026-01/0b73ffc0-f7b8-11f0-bbe3-f069868ef8db",
-      "slug": "best-airline-credit-cards-for-june-2026-10e952a4",
-      "orig_slug": "best-airline-credit-cards-for-june-2026-10e952a4"
-    },
-    {
-      "title": "DOJ appeal throws fresh uncertainty into tariff refund process",
-      "link": "https://finance.yahoo.com/economy/policy/articles/doj-appeal-throws-fresh-uncertainty-070000681.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-06-05T07:00:00Z",
-      "image": "https://media.zenfs.com/en/cfo_dive_422/81939a795253df9c0a421fea0303f8d4",
-      "slug": "doj-appeal-throws-fresh-uncertainty-into-tariff-refund-process-ce18af70",
-      "orig_slug": "doj-appeal-throws-fresh-uncertainty-into-tariff-refund-process-ce18af70"
-    },
-    {
-      "title": "Delta SkyMiles® Gold American Express Card review: Great for casual Delta flyers",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/review/delta-skymiles-gold-american-express-card-review-223134826.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2024-12-30T22:31:34Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/YsUyNTA_nWS3lKQCuqBu1w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-06/19133900-6a83-42cc-86d1-057c33f5b2cb",
-      "slug": "delta-skymiles-gold-american-express-card-review-great-for-casual-delta-flyers-54c26575",
-      "orig_slug": "delta-skymiles-gold-american-express-card-review-great-for-casual-delta-flyers-54c26575"
-    },
-    {
-      "title": "Delta SkyMiles Gold Business Card Amex review: First and second checked bags free",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/review/delta-skymiles-gold-business-american-express-review-004134954.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2024-11-05T00:41:34Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/t6cTsNRgiVUfqLDJ8CwVuA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-06/a840b049-8067-46f2-a898-b3dbe7a7f399",
-      "slug": "delta-skymiles-gold-business-card-amex-review-first-and-second-checked-bags-free-f65e8184",
-      "orig_slug": "delta-skymiles-gold-business-card-amex-review-first-and-second-checked-bags-free-f65e8184"
-    },
-    {
-      "title": "Delta SkyMiles Blue American Express Card review: A fee-free pick for Delta Airlines fans",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/review/delta-skymiles-blue-american-express-card-review-161512974.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-02-28T16:15:12Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/SVPU2FXEOHo6YaTwQ3aDHA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDc-/https://d29szjachogqwa.cloudfront.net/images/2026-05/da0efd76-f39c-4e59-b902-0b0962565fc8",
-      "slug": "delta-skymiles-blue-american-express-card-review-a-fee-free-pick-for-delta-airli-14bd7581",
-      "orig_slug": "delta-skymiles-blue-american-express-card-review-a-fee-free-pick-for-delta-airli-14bd7581"
-    },
-    {
-      "title": "Delta Reserve vs. Amex Platinum: How to best maximize perks as a frequent traveler",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/comparison/delta-reserve-vs-amex-platinum-171321489.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-09-23T17:13:21Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/H92zEHibRoOMOpuASRttBw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-07/64167bc0-6713-11f0-bebd-7aedae6f9f34",
-      "slug": "delta-reserve-vs-amex-platinum-how-to-best-maximize-perks-as-a-frequent-traveler-06134dd7",
-      "orig_slug": "delta-reserve-vs-amex-platinum-how-to-best-maximize-perks-as-a-frequent-traveler-06134dd7"
-    },
-    {
-      "title": "Big four accountant bins early Friday finish perk",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/big-four-accountant-bins-early-070000993.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-06-05T07:00:00Z",
-      "image": "https://media.zenfs.com/en/the_telegraph_258/e377142695338cf8668f38ab1cdd41d5",
-      "slug": "big-four-accountant-bins-early-friday-finish-perk-a097f8de",
-      "orig_slug": "big-four-accountant-bins-early-friday-finish-perk-a097f8de"
-    },
-    {
-      "title": "Delta SkyMiles® Reserve Business American Express Card review: Elite status for Delta frequent fliers",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/review/delta-skymiles-reserve-business-review-185316062.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2024-02-14T16:52:12Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/Bn6aIC7zmEmC84rlNODOeA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Njc-/https://d29szjachogqwa.cloudfront.net/images/2026-06/bfd79847-d7ce-4b3d-9331-879a53bf814d",
-      "slug": "delta-skymiles-reserve-business-american-express-card-review-elite-status-for-de-0eca6acf",
-      "orig_slug": "delta-skymiles-reserve-business-american-express-card-review-elite-status-for-de-0eca6acf"
     }
   ]
 }
