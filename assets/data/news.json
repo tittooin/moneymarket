@@ -1,455 +1,374 @@
 {
-  "updated": "2026-07-01T02:53:15Z",
+  "updated": "2026-07-01T07:04:15Z",
   "items": [
     {
-      "title": "UBS, BofA, Jefferies Start Quantinuum With Buy Ratings On 'Full-Stack' Platform",
-      "link": "https://www.investors.com/news/technology/jefferies-starts-quantinuum-stock-qnt-buy-rating-full-stack-platform/?src=A00220&yptr=yahoo",
+      "title": "How Do High-Yield Savings Account Sign-Up Bonuses Work, and Are They Worth It?",
+      "link": "https://finance.yahoo.com/markets/articles/high-yield-savings-account-sign-192154235.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-06-29T15:04:00Z",
+      "pubDate": "2026-06-29T19:21:54Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/C96DF4E9027F0EAEEC195028F1334C3D5BB4BB50474990AB7141A9AA6CBFC433/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fc16d149780238d852d099cb231c66cad",
+      "slug": "how-do-high-yield-savings-account-sign-up-bonuses-work-and-are-they-worth-it-fc7805a7",
+      "orig_slug": "how-do-high-yield-savings-account-sign-up-bonuses-work-and-are-they-worth-it-fc7805a7"
+    },
+    {
+      "title": "Is Genpact Limited (G) A Good Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/genpact-limited-g-good-stock-193144080.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-29T19:31:44Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/B74174B564FFB56F442E1250FA03830A63EAD82C34C67A1AFC529C741665384D/subgraphmysterio/resizefill_w1200_h869;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Ff6bf3124b410dd1b584e46f3b099411e",
+      "slug": "is-genpact-limited-g-a-good-stock-to-buy-now-968a5ded",
+      "orig_slug": "is-genpact-limited-g-a-good-stock-to-buy-now-968a5ded"
+    },
+    {
+      "title": "Is Spire Inc. (SR) A Good Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/spire-inc-sr-good-stock-193418961.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-29T19:34:18Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/64265205759AE7773E0D73B720C6F5DDF1B47AE3F27CF0E9009635BB900ADC1D/subgraphmysterio/resizefill_w1200_h798;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fb9768a58b8ddd126eaca786148903f8b",
+      "slug": "is-spire-inc-sr-a-good-stock-to-buy-now-a114372d",
+      "orig_slug": "is-spire-inc-sr-a-good-stock-to-buy-now-a114372d"
+    },
+    {
+      "title": "Is Seneca Foods Corporation (SENEA) A Good Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/seneca-foods-corporation-senea-good-192959040.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-29T19:29:59Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/B5B49DFE714359782823CC919F45D4F80CAC6CC6CB0D2275B2814D976B7C9372/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fcb25b91638a7f533621d8ddd60e922f8",
+      "slug": "is-seneca-foods-corporation-senea-a-good-stock-to-buy-now-9a630fc0",
+      "orig_slug": "is-seneca-foods-corporation-senea-a-good-stock-to-buy-now-9a630fc0"
+    },
+    {
+      "title": "Is Banco Santander, S.A. (SAN) A Good Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/banco-santander-san-good-stock-193015808.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-29T19:30:15Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/434A79751008DC22374F42B2488A12881C2A9065572C18854055EAE2A9AC0DF4/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F8753b662a549ce075b5205567849717c",
+      "slug": "is-banco-santander-sa-san-a-good-stock-to-buy-now-45fe4bad",
+      "orig_slug": "is-banco-santander-sa-san-a-good-stock-to-buy-now-45fe4bad"
+    },
+    {
+      "title": "Applied Materials Just Ripped 55% in a Month. Is It Time to Sell?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-just-ripped-55-192352777.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-29T19:23:52Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/E2163B43F08A39BE90F81B52CC5B4122C6063B9E70EB2E7EC96E012526822CFC/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F454ec834683e9864ee7be347a5cacc74",
+      "slug": "applied-materials-just-ripped-55-in-a-month-is-it-time-to-sell-b3d53b2f",
+      "orig_slug": "applied-materials-just-ripped-55-in-a-month-is-it-time-to-sell-b3d53b2f"
+    },
+    {
+      "title": "Is Jack Henry & Associates, Inc. (JKHY) A Good Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jack-henry-associates-inc-jkhy-193113946.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-29T19:31:13Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/34DB045B25C97309BF1DF9B7CA8E8FE0DB04529C1BF9A690B10A96BFB97FF20E/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F540c7bfffc9cf078fe323e1d9683599d",
+      "slug": "is-jack-henry-associates-inc-jkhy-a-good-stock-to-buy-now-831c0aca",
+      "orig_slug": "is-jack-henry-associates-inc-jkhy-a-good-stock-to-buy-now-831c0aca"
+    },
+    {
+      "title": "Is T. Rowe Price Group, Inc. (TROW) A Good Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-group-inc-193348560.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-29T19:33:48Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/B22F5B5782B74D6739561AA3FB82EB048473F85933A6890F9C14EF95B4E1522B/subgraphmysterio/resizefill_w1200_h723;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fb6ba93149d84b9ac9614f4716a23f30c",
+      "slug": "is-t-rowe-price-group-inc-trow-a-good-stock-to-buy-now-0e1c8228",
+      "orig_slug": "is-t-rowe-price-group-inc-trow-a-good-stock-to-buy-now-0e1c8228"
+    },
+    {
+      "title": "Is National Fuel Gas Company (NFG) A Good Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/national-fuel-gas-company-nfg-193457055.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-29T19:34:57Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/D0E134EAC3E2EA92C431E3EEDC436C2F0ACAC31953F0871E09C4C6E8310E3366/subgraphmysterio/resizefill_w1200_h796;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F99df4bfdc9b5bf883742f17530182cd0",
+      "slug": "is-national-fuel-gas-company-nfg-a-good-stock-to-buy-now-9cf44e4f",
+      "orig_slug": "is-national-fuel-gas-company-nfg-a-good-stock-to-buy-now-9cf44e4f"
+    },
+    {
+      "title": "Is Dorian LPG Ltd. (LPG) A Good Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dorian-lpg-ltd-lpg-good-193046897.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-29T19:30:46Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/64265205759AE7773E0D73B720C6F5DDF1B47AE3F27CF0E9009635BB900ADC1D/subgraphmysterio/resizefill_w1200_h798;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fb9768a58b8ddd126eaca786148903f8b",
+      "slug": "is-dorian-lpg-ltd-lpg-a-good-stock-to-buy-now-10834e4f",
+      "orig_slug": "is-dorian-lpg-ltd-lpg-a-good-stock-to-buy-now-10834e4f"
+    },
+    {
+      "title": "SoFi Has Quietly Met the Bar for S&P 500 Inclusion. Here's What Index Entry Could Do for the Stock.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sofi-quietly-met-bar-p-192500189.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-29T19:25:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/2DCD9052628D31D4799A6815A3AA772FBA7551B64B23AB70B0E9BF30E7543CC1/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F11dca37dd63e2a6d8d3a95a078c2d9b3",
+      "slug": "sofi-has-quietly-met-the-bar-for-sp-500-inclusion-heres-what-index-entry-could-d-0f916b3a",
+      "orig_slug": "sofi-has-quietly-met-the-bar-for-sp-500-inclusion-heres-what-index-entry-could-d-0f916b3a"
+    },
+    {
+      "title": "IBM Introduces the World’s First Sub-1 Nanometer Chip to Push Past AI Limits. What That Means for IBM Stock.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ibm-introduces-world-first-sub-193407965.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-29T19:34:07Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/4337C8C0EC889FEE6E3A640FF3591BC61FAB0A781281B75E2D246F97540A66F5/subgraphmysterio/resizefill_w1200_h798;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2Fe7d9281efcd52df9885e2aa41365a29b",
+      "slug": "ibm-introduces-the-worlds-first-sub-1-nanometer-chip-to-push-past-ai-limits-what-b61863ab",
+      "orig_slug": "ibm-introduces-the-worlds-first-sub-1-nanometer-chip-to-push-past-ai-limits-what-b61863ab"
+    },
+    {
+      "title": "Is MannKind Corporation (MNKD) A Good Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mannkind-corporation-mnkd-good-stock-193511060.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-29T19:35:11Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/CEE2DCC3DFA6E34E7CE5F20E61D1F7C90AC3D2EDAA851CABA7320519561CBF39/subgraphmysterio/resizefill_w1200_h660;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fd5fe1e3cad92861737b68699e31c5a98",
+      "slug": "is-mannkind-corporation-mnkd-a-good-stock-to-buy-now-222478a1",
+      "orig_slug": "is-mannkind-corporation-mnkd-a-good-stock-to-buy-now-222478a1"
+    },
+    {
+      "title": "Is Edgewise Therapeutics, Inc. (EWTX) A Good Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/edgewise-therapeutics-inc-ewtx-good-193205944.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-29T19:32:05Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/4B9F1145C52AF5E16B86CC68B23DDB15A7152C13C7B25C73252F97B3E025B15B/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F9c6e203d79cdfc8f70e0db85087abef8",
+      "slug": "is-edgewise-therapeutics-inc-ewtx-a-good-stock-to-buy-now-5759e4d9",
+      "orig_slug": "is-edgewise-therapeutics-inc-ewtx-a-good-stock-to-buy-now-5759e4d9"
+    },
+    {
+      "title": "Is SELLAS Life Sciences Group, Inc. (SLS) A Good Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sellas-life-sciences-group-inc-192943180.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-29T19:29:43Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/1C96540937C2CEA96506C1A1D94EE81F205B87372D303E19731A3BAFA5457736/subgraphmysterio/resizefill_w1200_h818;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F36f5a73964c07f5011a4f8f7ae8c7bf6",
+      "slug": "is-sellas-life-sciences-group-inc-sls-a-good-stock-to-buy-now-2c7339b2",
+      "orig_slug": "is-sellas-life-sciences-group-inc-sls-a-good-stock-to-buy-now-2c7339b2"
+    },
+    {
+      "title": "Oil Futures Post Moderate Gains After Weekend Tensions",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-renewed-supply-disruption-concerns-887b1808?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-29T19:33:00Z",
       "image": "",
-      "slug": "ubs-bofa-jefferies-start-quantinuum-with-buy-ratings-on-full-stack-platform-44650767",
-      "orig_slug": "ubs-bofa-jefferies-start-quantinuum-with-buy-ratings-on-full-stack-platform-44650767"
+      "slug": "oil-futures-post-moderate-gains-after-weekend-tensions-9bf520b0",
+      "orig_slug": "oil-futures-post-moderate-gains-after-weekend-tensions-9bf520b0"
     },
     {
-      "title": "Gerresheimer Q4 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/gerresheimer-q4-earnings-call-highlights-150221570.html",
+      "title": "Behind the Ticker: ASD, SPCU  Defiance ETFs",
+      "link": "https://finance.yahoo.com/markets/options/articles/behind-ticker-asd-spcu-defiance-193623230.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-06-29T15:02:21Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/6550D0781B22B2643F5F4961DEA90A6C35B04518CD588BED4935465218539880/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmarketbeat_955%2F48d3b963d15c5f3d70c32f43b9aeeb73",
-      "slug": "gerresheimer-q4-earnings-call-highlights-f4e4eb89",
-      "orig_slug": "gerresheimer-q4-earnings-call-highlights-f4e4eb89"
+      "pubDate": "2026-06-29T19:36:23Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/2691F6B01FB546DC9E84928545BA556DC51F0DAAC018EA05A088EFF56809AD83/subgraphmysterio/resizefill_w1200_h635;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Findexuniverse.com%2Ffa661f248354b4bd34f6d70bc1d362d9",
+      "slug": "behind-the-ticker-asd-spcu-defiance-etfs-d8e59af7",
+      "orig_slug": "behind-the-ticker-asd-spcu-defiance-etfs-d8e59af7"
     },
     {
-      "title": "A mom got fired in her first week for taking 1 day off — and in 49 states, it's perfectly legal",
-      "link": "https://finance.yahoo.com/small-business/articles/mom-got-fired-her-first-150000760.html",
+      "title": "Is Kohl’s Corporation (KSS) A Good Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kohl-corporation-kss-good-stock-193059107.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-06-29T15:00:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/F7E552D0D5291A19DF35F50343E9D02A508C1C1F3ECD9ED1331FA22FB3262106/subgraphmysterio/resizefill_w1200_h676;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2Fe01e4027419c6bcac79038f54a8c38ae",
-      "slug": "a-mom-got-fired-in-her-first-week-for-taking-1-day-off-and-in-49-states-its-perf-e05425fd",
-      "orig_slug": "a-mom-got-fired-in-her-first-week-for-taking-1-day-off-and-in-49-states-its-perf-e05425fd"
+      "pubDate": "2026-06-29T19:30:59Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/3F1AB7D9BE2B287B02C3FE7F061AAA7FECEB48608E3DF4E0921C8FC661A30B0B/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F622f7ccd08e045bdffa62d85a749d0b8",
+      "slug": "is-kohls-corporation-kss-a-good-stock-to-buy-now-b4a7c5be",
+      "orig_slug": "is-kohls-corporation-kss-a-good-stock-to-buy-now-b4a7c5be"
     },
     {
-      "title": "Halliburton, Valero and 3 More Stocks Set Up for a Fragile Hormuz Truce",
-      "link": "https://finance.yahoo.com/energy/articles/halliburton-valero-3-more-stocks-150000805.html",
+      "title": "Is Tapestry, Inc. (TPR) A Good Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tapestry-inc-tpr-good-stock-191411726.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-06-29T15:00:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/10734064FF581F6B9257FACB0EC8A367D8D74FA3091C1EC835B0C08C5D3C1DE9/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Foilprice.com%2F2c4635943498aa13ac9db3a92f05b902",
-      "slug": "halliburton-valero-and-3-more-stocks-set-up-for-a-fragile-hormuz-truce-573b78d0",
-      "orig_slug": "halliburton-valero-and-3-more-stocks-set-up-for-a-fragile-hormuz-truce-573b78d0"
+      "pubDate": "2026-06-29T19:14:11Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/0D0547053865800113425FD94E8EF697FEA2BDBFAE0CCDFEBD034B18211C7FBE/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fc1791b1eaf9af3f2323f47da16bfd6ee",
+      "slug": "is-tapestry-inc-tpr-a-good-stock-to-buy-now-3a7fa5a6",
+      "orig_slug": "is-tapestry-inc-tpr-a-good-stock-to-buy-now-3a7fa5a6"
     },
     {
-      "title": "Microsoft Stock Hitting New Lows Could Be a Long-Term Opportunity",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-hitting-lows-could-145842753.html",
+      "title": "Astera Labs Stock Just Got a New Street-High Price Target. Analysts Feel Confident in AI Spend Through 2028.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/astera-labs-stock-just-got-192107155.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-06-29T14:58:42Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/64AF4F72C7F96478F53A3DF4D6F97C993A1E0CDDA6A0A1B426847F541A4485C1/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F91294aaacdd7339f5d87cfb430fbeba2",
-      "slug": "microsoft-stock-hitting-new-lows-could-be-a-long-term-opportunity-010b78b8",
-      "orig_slug": "microsoft-stock-hitting-new-lows-could-be-a-long-term-opportunity-010b78b8"
+      "pubDate": "2026-06-29T19:21:07Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/0367F9DEFAC1F3A5FA319CF24633565AFAF25CF0615F34BA0C94F915097793C5/subgraphmysterio/resizefill_w1200_h801;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F2b8bc6bdcf1e2a6585e2052cce9823e2",
+      "slug": "astera-labs-stock-just-got-a-new-street-high-price-target-analysts-feel-confiden-64515046",
+      "orig_slug": "astera-labs-stock-just-got-a-new-street-high-price-target-analysts-feel-confiden-64515046"
     },
     {
-      "title": "Analyst Report: McCormick & Co Inc/MD",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_4136_AnalystReport_1782839743000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "title": "Our RIA Hired an In-House Life Coach for Clients and Employees. Here’s What Happened Next.",
+      "link": "https://www.barrons.com/advisor/articles/financial-advisor-life-coach-wealth-management-f344a87f?siteid=yhoof2&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-06-30T17:15:43Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "analyst-report-mccormick-co-incmd-b9d40561",
-      "orig_slug": "analyst-report-mccormick-co-incmd-b9d40561"
-    },
-    {
-      "title": "Student loan overhaul starts July 1: What borrowers should know",
-      "link": "https://finance.yahoo.com/personal-finance/student-loans/article/student-loan-overhaul-starts-july-1-what-borrowers-should-know-150138537.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-06-09T15:01:38Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/A1B73978842A57F2999923426D12B82F7A54EE66C65F14DE29CCF4E6F7EACFFD/subgraphmysterio/resizefill_w1200_h889;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-05%2F484b358b-33b6-4ebc-a510-e61227c56c3d",
-      "slug": "student-loan-overhaul-starts-july-1-what-borrowers-should-know-e7dfb92b",
-      "orig_slug": "student-loan-overhaul-starts-july-1-what-borrowers-should-know-e7dfb92b"
-    },
-    {
-      "title": "‘She is retired’: Do I dip into my 401(k) to pay my mother’s $30,000 credit-card debt?",
-      "link": "https://finance.yahoo.com/markets/articles/she-retired-dip-401-k-120000715.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-06-29T15:00:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/5F4F9593BAC076C0239692EE776B7479FC87FA522E6AC39BC96F0253212F2D6E/subgraphmysterio/resizefill_w1200_h600;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmarketwatch_hosted_869%2F08d653cf48d4e47e0d4c978fe17003cf",
-      "slug": "she-is-retired-do-i-dip-into-my-401k-to-pay-my-mothers-30000-credit-card-debt-c5f257d7",
-      "orig_slug": "she-is-retired-do-i-dip-into-my-401k-to-pay-my-mothers-30000-credit-card-debt-c5f257d7"
-    },
-    {
-      "title": "Best secured personal loans and lenders of July 2026: Get lower rates by adding collateral",
-      "link": "https://finance.yahoo.com/personal-finance/personal-loans/article/best-secured-personal-loans-224147862.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-28T22:41:47Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/709B2A00E99A808D6AC19F0E004E37137D2BD24B25124125361D00A81D44F6F4/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-04%2F632156f6-8255-40fd-9aeb-7487634cb270",
-      "slug": "best-secured-personal-loans-and-lenders-of-july-2026-get-lower-rates-by-adding-c-c2609949",
-      "orig_slug": "best-secured-personal-loans-and-lenders-of-july-2026-get-lower-rates-by-adding-c-c2609949"
-    },
-    {
-      "title": "Dangerous Heat and Screwworm Cases Mean Cattle Prices Are Still Bullish. Hog Prices Need a Kick Higher.",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/dangerous-heat-screwworm-cases-mean-145625185.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-06-29T14:56:25Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/5C73D5597F98FF14E67477F188C6FFEE8E14C37F39501EFED6EB4972C74660B0/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F4429e68e9eceede28c31b4ad5ec0131e",
-      "slug": "dangerous-heat-and-screwworm-cases-mean-cattle-prices-are-still-bullish-hog-pric-35b9cb22",
-      "orig_slug": "dangerous-heat-and-screwworm-cases-mean-cattle-prices-are-still-bullish-hog-pric-35b9cb22"
-    },
-    {
-      "title": "Best same-day emergency loans for July 2026: Get fast funding after approval",
-      "link": "https://finance.yahoo.com/personal-finance/personal-loans/article/best-same-day-emergency-loans-220714166.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-03-27T22:07:14Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/224DE833897EF02F90BDCA2DDE9122CAA49BF0F7E5F5987F229796D0C6EDD302/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-03%2Fdc16b352-78b7-4eda-9f70-f56797e730d7",
-      "slug": "best-same-day-emergency-loans-for-july-2026-get-fast-funding-after-approval-f106a4a2",
-      "orig_slug": "best-same-day-emergency-loans-for-july-2026-get-fast-funding-after-approval-f106a4a2"
-    },
-    {
-      "title": "Market Update: CRL, MKC",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_47479_MarketUpdate_1782838843000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-06-30T17:00:43Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "market-update-crl-mkc-aa5ecacf",
-      "orig_slug": "market-update-crl-mkc-aa5ecacf"
-    },
-    {
-      "title": "Stock Indexes Push Higher as Megacap Tech Stocks Rally",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-indexes-push-higher-megacap-151603585.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-06-29T15:16:03Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/240E4FC901C5A5C068E8AF4CC4102CE9ACBF8D2109DCD64E2D75CE24BAAF4DC2/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2Ffda4fa13493a27d0c8a4c56df32e0629",
-      "slug": "stock-indexes-push-higher-as-megacap-tech-stocks-rally-7d757890",
-      "orig_slug": "stock-indexes-push-higher-as-megacap-tech-stocks-rally-7d757890"
-    },
-    {
-      "title": "Invesco’s SPHD Pays 4.57% While the S&P 500 Pays 0.98%, And It Is Up This Year Without the Tech Bubble Risk",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/invesco-sphd-pays-4-57-150459459.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-06-29T15:04:59Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/CD3B31BAC9D7A70FBFE41BE0D147CE94C6B091C3E314AB41C3B24E4AA41A6CB7/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F1dd3e881d2d591bb98c52452552d9b77",
-      "slug": "invescos-sphd-pays-457-while-the-sp-500-pays-098-and-it-is-up-this-year-without--e6df8679",
-      "orig_slug": "invescos-sphd-pays-457-while-the-sp-500-pays-098-and-it-is-up-this-year-without--e6df8679"
-    },
-    {
-      "title": "Bears Are in Control of Cotton Prices. Sell Now Before They Head Lower.",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/bears-control-cotton-prices-sell-151544303.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-06-29T15:15:44Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/21F3E600160ED96591D51D6D4FF0626450ACF96B0416610722911E885A8A1623/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F1e44dcf9632e067b9b6392a210cc492a",
-      "slug": "bears-are-in-control-of-cotton-prices-sell-now-before-they-head-lower-ac20741a",
-      "orig_slug": "bears-are-in-control-of-cotton-prices-sell-now-before-they-head-lower-ac20741a"
-    },
-    {
-      "title": "Alphabet debuts in Dow Jones Industrial Average as index tilts toward tech",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/alphabet-debuts-dow-jones-industrial-152012819.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-06-29T15:20:12Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/2BCFF1871A4F156A4BBA2A0DE2B0CD196226C6F3F0F8E7CE646C689C59E96528/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters-finance.com%2F0d03c387f710108d1753ae8bf769e9bd",
-      "slug": "alphabet-debuts-in-dow-jones-industrial-average-as-index-tilts-toward-tech-817e23da",
-      "orig_slug": "alphabet-debuts-in-dow-jones-industrial-average-as-index-tilts-toward-tech-817e23da"
-    },
-    {
-      "title": "Schneider announces additional leadership changes",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/schneider-announces-additional-leadership-changes-151939370.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-06-29T15:19:39Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/6195D41257C19B3FAA2D68D1A80AAE57DDF146082D0889DC92270F5070F2E749/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffreightwaves_373%2F19534a75ca7325802573d1dce0a832da",
-      "slug": "schneider-announces-additional-leadership-changes-921ed475",
-      "orig_slug": "schneider-announces-additional-leadership-changes-921ed475"
-    },
-    {
-      "title": "Analyst Report: MDU Resources Group Inc",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_3181_AnalystReport_1782817097000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-06-30T10:58:17Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "analyst-report-mdu-resources-group-inc-14fa5d8a",
-      "orig_slug": "analyst-report-mdu-resources-group-inc-14fa5d8a"
-    },
-    {
-      "title": "Comcast Sets Company Split. Is More M&A Coming? Telecom Stocks Fall.",
-      "link": "https://www.investors.com/news/technology/comcast-stock-soars-on-company-split-as-cable-tv-giants-makeover-continues/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-06-29T15:22:15Z",
+      "pubDate": "2026-06-29T19:26:00Z",
       "image": "",
-      "slug": "comcast-sets-company-split-is-more-ma-coming-telecom-stocks-fall-890f46c8",
-      "orig_slug": "comcast-sets-company-split-is-more-ma-coming-telecom-stocks-fall-890f46c8"
+      "slug": "our-ria-hired-an-in-house-life-coach-for-clients-and-employees-heres-what-happen-595616a9",
+      "orig_slug": "our-ria-hired-an-in-house-life-coach-for-clients-and-employees-heres-what-happen-595616a9"
     },
     {
-      "title": "Is McCormick a Steal Ahead of Game-Changing Unilever Deal?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mccormick-steal-ahead-game-changing-150500924.html",
+      "title": "Is GXO Logistics, Inc. (GXO) A Good Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/gxo-logistics-inc-gxo-good-193127209.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-06-29T15:05:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/0911883485694EFC00C8D96AC5F7586F90D6CAC1F2F5DD3E12DC2EAEDEC31B29/subgraphmysterio/resizefill_w1200_h508;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmarketbeat_955%2F6b8a16fd21da742e01d54110d0a0bb9c",
-      "slug": "is-mccormick-a-steal-ahead-of-game-changing-unilever-deal-c8b389a9",
-      "orig_slug": "is-mccormick-a-steal-ahead-of-game-changing-unilever-deal-c8b389a9"
+      "pubDate": "2026-06-29T19:31:27Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/2C8A2978431CEA1A7AB7BEB3D9E48F4A8648954F5BA220D6ED5B3431107E439E/subgraphmysterio/resizefill_w1200_h802;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F5b53f89b8781ebde227d7a5f7f6f18c7",
+      "slug": "is-gxo-logistics-inc-gxo-a-good-stock-to-buy-now-4f75a2e6",
+      "orig_slug": "is-gxo-logistics-inc-gxo-a-good-stock-to-buy-now-4f75a2e6"
     },
     {
-      "title": "Micron Stock Jumps After Blockbuster Earnings. Its Long-Term Supply Deals Could Be a Game Changer.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-jumps-blockbuster-earnings-152518227.html",
+      "title": "Is Pool Corporation (POOL) A Good Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pool-corporation-pool-good-stock-193432700.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-06-29T15:25:18Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/CE3EF5A086434053C2CF85F0304149255CC1D57B4182FD22EF42260923161634/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2Fb3f702a9023bce76e94a3d700612e681",
-      "slug": "micron-stock-jumps-after-blockbuster-earnings-its-long-term-supply-deals-could-b-3e0b9e3b",
-      "orig_slug": "micron-stock-jumps-after-blockbuster-earnings-its-long-term-supply-deals-could-b-3e0b9e3b"
+      "pubDate": "2026-06-29T19:34:32Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/683A6760E04CFD5ADABF8622F33A79D3B8869B63531E91E946E014A1D8B10A9B/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F239cff2bd6acd7810808afd13e76900b",
+      "slug": "is-pool-corporation-pool-a-good-stock-to-buy-now-5cb06c79",
+      "orig_slug": "is-pool-corporation-pool-a-good-stock-to-buy-now-5cb06c79"
     },
     {
-      "title": "What to Expect From Freeport-McMoRan's Q2 2026 Earnings Report",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/expect-freeport-mcmorans-q2-2026-152841076.html",
+      "title": "Is McKesson Corporation (MCK) A Good Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mckesson-corporation-mck-good-stock-193029054.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-06-29T15:28:41Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/66F36F4AE2734CF5A8E41EDA23DB5D05C20CE4123120D56C6974531AFC37026A/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F9aabc028133cbc2ce4cc168a79c469c6",
-      "slug": "what-to-expect-from-freeport-mcmorans-q2-2026-earnings-report-41827945",
-      "orig_slug": "what-to-expect-from-freeport-mcmorans-q2-2026-earnings-report-41827945"
+      "pubDate": "2026-06-29T19:30:29Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/CBA70E27AE6B0CC8EB327A942BAF1D2038680F8962B68CE39A1CD1131CD4DEEE/subgraphmysterio/resizefill_w1200_h793;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F0703ed27fb5d91ee749b89774ace461d",
+      "slug": "is-mckesson-corporation-mck-a-good-stock-to-buy-now-b4a82211",
+      "orig_slug": "is-mckesson-corporation-mck-a-good-stock-to-buy-now-b4a82211"
     },
     {
-      "title": "MRNA Stock Spikes as Moderna Shares mRNA Pipeline Update",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mrna-stock-spikes-moderna-shares-153010180.html",
+      "title": "Is Bank OZK (OZK) A Good Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-ozk-ozk-good-stock-193444320.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-06-29T15:30:10Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/6C9325D439168DD0359CD1F5380D8A9764561E17E28282242B108C1F1AB4DAD7/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F94d9f6e415f4c6e94400211538b3f162",
-      "slug": "mrna-stock-spikes-as-moderna-shares-mrna-pipeline-update-e3f79de2",
-      "orig_slug": "mrna-stock-spikes-as-moderna-shares-mrna-pipeline-update-e3f79de2"
+      "pubDate": "2026-06-29T19:34:44Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/24CA1DD51751A434FAD3FCBBB3DA0133394C1BF1B4EF8A1C87C065224D730A81/subgraphmysterio/resizefill_w1200_h811;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F700f206565e8363726b125f8fc04c511",
+      "slug": "is-bank-ozk-ozk-a-good-stock-to-buy-now-9f6d6082",
+      "orig_slug": "is-bank-ozk-ozk-a-good-stock-to-buy-now-9f6d6082"
     },
     {
-      "title": "Daily Spotlight: Bond Spreads Narrow",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_47476_MarketOutlook_1782816864000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "title": "AppLovin Stock Jumps As Analyst Initiates 'Strong Buy'",
+      "link": "https://www.investors.com/news/technology/applovin-stock-raymond-james-strong-buy/?src=A00220&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-06-30T10:54:24Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-spotlight-bond-spreads-narrow-1b766506",
-      "orig_slug": "daily-spotlight-bond-spreads-narrow-1b766506"
-    },
-    {
-      "title": "Crude Oil Prices Climb as Tanker Traffic Slows Through Strait of Hormuz",
-      "link": "https://finance.yahoo.com/energy/articles/crude-oil-prices-climb-tanker-153502616.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-06-29T15:35:02Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/46B2EFC69548670322F4C67DF60DE66D6C557C0DCFAF0A384692FF866470E056/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F8e9e755c7ef7fa235e7e307e9b9106d6",
-      "slug": "crude-oil-prices-climb-as-tanker-traffic-slows-through-strait-of-hormuz-2f1c9372",
-      "orig_slug": "crude-oil-prices-climb-as-tanker-traffic-slows-through-strait-of-hormuz-2f1c9372"
-    },
-    {
-      "title": "Rocket Lab continues buying spree by acquiring satellite company Iridium",
-      "link": "https://finance.yahoo.com/technology/articles/rocket-lab-continues-buying-spree-150207824.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-06-29T15:02:07Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/FD9D18267BDE3E32DE6C0EF22F2348ABA9271304DBDF1F3E1EE326864BA20FDA/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftechcrunch_finance_785%2Fec7f94eff35d09340780583223716759",
-      "slug": "rocket-lab-continues-buying-spree-by-acquiring-satellite-company-iridium-502dd114",
-      "orig_slug": "rocket-lab-continues-buying-spree-by-acquiring-satellite-company-iridium-502dd114"
-    },
-    {
-      "title": "Klarna Group PLC (KLAR) Fell Amid Management’s Cautious Guidance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/klarna-group-plc-klar-fell-153638089.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-06-29T15:36:38Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/73F0EAB1611D3A3E2B1843394E696C3D175EFAFA91E29423A2920E1880A4B7EF/subgraphmysterio/resizefill_w1200_h672;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F0204990deac5dc3a5e354fc8eef1d236",
-      "slug": "klarna-group-plc-klar-fell-amid-managements-cautious-guidance-29e5f0dd",
-      "orig_slug": "klarna-group-plc-klar-fell-amid-managements-cautious-guidance-29e5f0dd"
-    },
-    {
-      "title": "What It Takes to Win in the Next Era of Drayage",
-      "link": "https://finance.yahoo.com/small-business/articles/takes-win-next-era-drayage-154355767.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-06-29T15:43:55Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/63574FBC77FBD97278E2600EE515643150EAE3A655345B49C98760DE16C8120E/subgraphmysterio/resizefill_w1200_h678;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffreightwaves_373%2F645f22ad717f71b71a342b875027f0c4",
-      "slug": "what-it-takes-to-win-in-the-next-era-of-drayage-5fadbae5",
-      "orig_slug": "what-it-takes-to-win-in-the-next-era-of-drayage-5fadbae5"
-    },
-    {
-      "title": "Fidelity reveals how much Americans actually have in their 401(k) by age — and when most finally hit $100K",
-      "link": "https://finance.yahoo.com/markets/articles/fidelity-reveals-much-americans-actually-160000405.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-06-29T16:00:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/E527D2B0D5804BD8E20B6DFEE0682981F8432BAB826625461C25E2BE32BD16A1/subgraphmysterio/resizefill_w1200_h676;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2Fc4e7001662e942d53312527ce6e6aeff",
-      "slug": "fidelity-reveals-how-much-americans-actually-have-in-their-401k-by-age-and-when--941a4ddf",
-      "orig_slug": "fidelity-reveals-how-much-americans-actually-have-in-their-401k-by-age-and-when--941a4ddf"
-    },
-    {
-      "title": "Technical Assessment: Bullish in the Intermediate-Term",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_47475_TechnicalAnalysis_1782816834000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-06-30T10:53:54Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "technical-assessment-bullish-in-the-intermediate-term-f45e9d40",
-      "orig_slug": "technical-assessment-bullish-in-the-intermediate-term-f45e9d40"
-    },
-    {
-      "title": "Mark Cuban Outlines ‘Multiple Ways’ AI Industry Could Collapse If People View It As ‘Toxic’ — But The Billionaire Remains Bullish",
-      "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-outlines-multiple-ways-160337305.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-06-29T16:03:37Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/E6FE7A96AC866C998E13AFA14A9AD83A916FA62A8F54B4DF5BD4B63ADA8A9371/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2Fb502776a251c22c8f3d26975270093e4",
-      "slug": "mark-cuban-outlines-multiple-ways-ai-industry-could-collapse-if-people-view-it-a-a0ad2a28",
-      "orig_slug": "mark-cuban-outlines-multiple-ways-ai-industry-could-collapse-if-people-view-it-a-a0ad2a28"
-    },
-    {
-      "title": "The Dip Is Here for SpaceX. Here's Whether to Buy It or Walk Away.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dip-spacex-heres-whether-buy-150500274.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-06-29T15:05:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/4409AA0FB933455395E2D2354D40A6B46D41C5DD49B7306D5996B85E2467F57F/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F23b11d54fac2b8e9c16bdf8cb5aac619",
-      "slug": "the-dip-is-here-for-spacex-heres-whether-to-buy-it-or-walk-away-6a5e552a",
-      "orig_slug": "the-dip-is-here-for-spacex-heres-whether-to-buy-it-or-walk-away-6a5e552a"
-    },
-    {
-      "title": "Airbnb Stock Rises After Analyst Hikes Price Target",
-      "link": "https://www.investors.com/news/technology/airbnb-stock-rises-after-analyst-hikes-price-target/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-06-29T16:06:57Z",
+      "pubDate": "2026-06-29T19:24:06Z",
       "image": "",
-      "slug": "airbnb-stock-rises-after-analyst-hikes-price-target-28cf981b",
-      "orig_slug": "airbnb-stock-rises-after-analyst-hikes-price-target-28cf981b"
+      "slug": "applovin-stock-jumps-as-analyst-initiates-strong-buy-413071d0",
+      "orig_slug": "applovin-stock-jumps-as-analyst-initiates-strong-buy-413071d0"
     },
     {
-      "title": "Ranpak Holdings Corp. (PACK) Slid on Weak Results",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ranpak-holdings-corp-pack-slid-160736271.html",
+      "title": "Is Stryker Corporation (SYK) A Good Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stryker-corporation-syk-good-stock-193401829.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-06-29T16:07:36Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/80F260DA19FDEA4BF762E146DC000C683FA45B35A633DE0AF092ED92C59D15C1/subgraphmysterio/resizefill_w1200_h672;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F9659baa37250bc88a52ad9274c1756a1",
-      "slug": "ranpak-holdings-corp-pack-slid-on-weak-results-637f434c",
-      "orig_slug": "ranpak-holdings-corp-pack-slid-on-weak-results-637f434c"
+      "pubDate": "2026-06-29T19:34:01Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/980F63EF7525D6F5A91BF7AE401B0A3D15FAD4726A677BB6465D702A607145A5/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fa4e92fdf299feff482bb5196b9780f09",
+      "slug": "is-stryker-corporation-syk-a-good-stock-to-buy-now-d3d113f6",
+      "orig_slug": "is-stryker-corporation-syk-a-good-stock-to-buy-now-d3d113f6"
     },
     {
-      "title": "Weekly survey of mortgage lenders with the lowest rates: 6% is back (without fees)",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/weekly-survey-mortgage-lenders-with-the-best-lowest-rates-june-29-170834159.html",
+      "title": "Is Lockheed Martin Corporation (LMT) A Good Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-corporation-lmt-good-193526901.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-11-03T17:08:34Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/8D91ABE6685D5530DEDB7DB50FFC0786B6FBD511032D27FD18594B626FD26FE0/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-02%2Fe1d9cd60-0c3a-11f1-bdff-87ef2d5000ac",
-      "slug": "weekly-survey-of-mortgage-lenders-with-the-lowest-rates-6-is-back-without-fees-e50af886",
-      "orig_slug": "weekly-survey-of-mortgage-lenders-with-the-lowest-rates-6-is-back-without-fees-e50af886"
+      "pubDate": "2026-06-29T19:35:26Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/6D61DB7E719B9577763E12D8DDAAAF2D303DA0ACCC3C6D746DD1DD1867ECE526/subgraphmysterio/resizefill_w1200_h900;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F1720d8f55fd12fc39b5f88f6baa1a692",
+      "slug": "is-lockheed-martin-corporation-lmt-a-good-stock-to-buy-now-fc730c9d",
+      "orig_slug": "is-lockheed-martin-corporation-lmt-a-good-stock-to-buy-now-fc730c9d"
     },
     {
-      "title": "Market Digest: DRI, IFF, MDU",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_47473_MarketSummary_1782816197000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "title": "Dollar Retreats as Stocks Rally",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-retreats-stocks-rally-193528373.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-06-30T10:43:17Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "market-digest-dri-iff-mdu-4a70a35f",
-      "orig_slug": "market-digest-dri-iff-mdu-4a70a35f"
+      "pubDate": "2026-06-29T19:35:28Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/B3007D3643031788F2B997D68343BABEEDC8FAF8FFB898B2F2FA296CCE770D6A/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2Ff1ceac248e63ef49d7f83243ab5e9805",
+      "slug": "dollar-retreats-as-stocks-rally-addbf13e",
+      "orig_slug": "dollar-retreats-as-stocks-rally-addbf13e"
     },
     {
-      "title": "BofA upgrades global growth forecast as AI boom accelerates: Chart of the Day",
-      "link": "https://finance.yahoo.com/markets/article/bofa-upgrades-global-growth-forecast-as-ai-boom-accelerates-chart-of-the-day-161222422.html",
+      "title": "Comcast Plots Breakup to Take on ‘Big Three’ Telecoms",
+      "link": "https://www.barrons.com/articles/comcast-stock-price-spinoff-nbcuniversal-sky-5c214d20?siteid=yhoof2&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-06-29T16:12:22Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/99F353BCA106EEFCADD247745B8420FA2E60100F86911FBB64887AB9F027F765/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-06%2Ff6e25ca5-376e-4670-874d-35c89f8a2868",
-      "slug": "bofa-upgrades-global-growth-forecast-as-ai-boom-accelerates-chart-of-the-day-da523925",
-      "orig_slug": "bofa-upgrades-global-growth-forecast-as-ai-boom-accelerates-chart-of-the-day-da523925"
+      "pubDate": "2026-06-29T19:31:00Z",
+      "image": "",
+      "slug": "comcast-plots-breakup-to-take-on-big-three-telecoms-b26d87f9",
+      "orig_slug": "comcast-plots-breakup-to-take-on-big-three-telecoms-b26d87f9"
     },
     {
-      "title": "Iridium, Rocket Lab Shares Soar on Plans to Combine Into 'Space Powerhouse'",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/iridium-rocket-lab-shares-soar-150751956.html",
+      "title": "Stronger US Production Knocks Nat-Gas Prices Lower",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/stronger-us-production-knocks-nat-191244269.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-06-29T15:07:51Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/22E3762A55F47F94AD66BF0CE6034FD2E0B164204198960B271007EA1B61E03C/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finvestopedia_245%2Fcd60678522dc2b869d31df3f87e5239b",
-      "slug": "iridium-rocket-lab-shares-soar-on-plans-to-combine-into-space-powerhouse-74cce6ca",
-      "orig_slug": "iridium-rocket-lab-shares-soar-on-plans-to-combine-into-space-powerhouse-74cce6ca"
+      "pubDate": "2026-06-29T19:12:44Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/9472083888ACA686F9CD6C01B81988EAA6532A547F45AC998B9ED03B9061C337/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F486d9e16453e2687150d6e18c6d0e3e7",
+      "slug": "stronger-us-production-knocks-nat-gas-prices-lower-1e75628c",
+      "orig_slug": "stronger-us-production-knocks-nat-gas-prices-lower-1e75628c"
     },
     {
-      "title": "V&E Appoints Michael Jay as New IP Litigation Partner in LA",
-      "link": "https://finance.yahoo.com/technology/articles/v-e-appoints-michael-jay-161305810.html",
+      "title": "Reduced Tanker Flows Through Strait of Hormuz Boosts Crude Prices",
+      "link": "https://finance.yahoo.com/energy/articles/reduced-tanker-flows-strait-hormuz-191341102.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-06-29T16:13:05Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/7593832978FDE5BC13195186E8954553683565A9568D9C9F3B345477ECF10868/subgraphmysterio/resizefill_w1200_h1499;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcorpgov_com_597%2Fb563b04b759387e2d81d89310ef65530",
-      "slug": "ve-appoints-michael-jay-as-new-ip-litigation-partner-in-la-b1616e02",
-      "orig_slug": "ve-appoints-michael-jay-as-new-ip-litigation-partner-in-la-b1616e02"
+      "pubDate": "2026-06-29T19:13:41Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/F1DEA1ED5FAC777C0B5C0606BBC05AECD321F117564A817C8F7B1F049B4135E8/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2Fbe26e7c56ab8991d1d89507f82c52ba0",
+      "slug": "reduced-tanker-flows-through-strait-of-hormuz-boosts-crude-prices-cb967694",
+      "orig_slug": "reduced-tanker-flows-through-strait-of-hormuz-boosts-crude-prices-cb967694"
     },
     {
-      "title": "AvalonBay (AVB): The Best Interest Rate Sensitive Stock to Buy Now",
-      "link": "https://finance.yahoo.com/real-estate/articles/avalonbay-avb-best-interest-rate-161359586.html",
+      "title": "JPMorgan Supports Crypto Legislation But Warns Of ‘Shadow Banking’",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/jpmorgan-supports-crypto-legislation-warns-190800782.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-06-29T16:13:59Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/34E5849D956CF5E891AD92F17DB9F3890119DF749DA7D69CD9ECBE1D597DB0E8/subgraphmysterio/resizefill_w1200_h1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F27922b003019b016833d57218adf9eab",
-      "slug": "avalonbay-avb-the-best-interest-rate-sensitive-stock-to-buy-now-cb7da5c9",
-      "orig_slug": "avalonbay-avb-the-best-interest-rate-sensitive-stock-to-buy-now-cb7da5c9"
+      "pubDate": "2026-06-29T19:08:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/041972F948620959FC1EE0A68764D2DE7A1F10FC5EDED431EF1BB3EAE39B8E9D/subgraphmysterio/resizefill_w1200_h720;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F892ab38ad1c2a2a26b67610f0b970db7",
+      "slug": "jpmorgan-supports-crypto-legislation-but-warns-of-shadow-banking-918a94f0",
+      "orig_slug": "jpmorgan-supports-crypto-legislation-but-warns-of-shadow-banking-918a94f0"
     },
     {
-      "title": "How to save cash: 7 ways to protect and grow your liquid savings",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/how-to-save-cash-grow-liquid-savings-215642219.html",
+      "title": "Dollar slips, yen reaches 40-year low",
+      "link": "https://finance.yahoo.com/news/dollar-poised-best-month-nearly-015012839.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2025-05-21T21:56:42Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/C8EF36F99D3AAE0736AEC8B9E4AEB6BB8C2B1574665CCCC1FB94BA0A5089169F/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-09%2F542bd140-825a-11ef-bfbe-4550249cc55f",
-      "slug": "how-to-save-cash-7-ways-to-protect-and-grow-your-liquid-savings-5a88c7b5",
-      "orig_slug": "how-to-save-cash-7-ways-to-protect-and-grow-your-liquid-savings-5a88c7b5"
+      "pubDate": "2026-06-29T19:44:09Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/6612747259382E9F887B0BB2DB93A68B5E1ED4CD859EA8AB6AF5A925FB975146/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F4762eac605caad183dc7e21d78a62e65",
+      "slug": "dollar-slips-yen-reaches-40-year-low-85edc8a4",
+      "orig_slug": "dollar-slips-yen-reaches-40-year-low-85edc8a4"
     },
     {
-      "title": "Daily – Vickers Top Insider Picks for 06/30/2026",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_47471_InsiderActivity_1782815761000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "title": "Is Nvidia Still a Millionaire-Maker Stock?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-still-millionaire-maker-stock-192000178.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-06-30T10:36:01Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-vickers-top-insider-picks-for-06302026-38214566",
-      "orig_slug": "daily-vickers-top-insider-picks-for-06302026-38214566"
+      "pubDate": "2026-06-29T19:20:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/4F2FBD1F65E1AD2906542817B0984DF2C0AA9F5ECED164B28CDF8D56E88193C6/subgraphmysterio/resizefill_w1200_h1019;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fd39409e09144f39075bef1967cfc05d8",
+      "slug": "is-nvidia-still-a-millionaire-maker-stock-2aae7ef8",
+      "orig_slug": "is-nvidia-still-a-millionaire-maker-stock-2aae7ef8"
     },
     {
-      "title": "What is a reverse ATM?",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/reverse-atm-142705138.html",
+      "title": "Is Runway Growth Finance (RWAY) One of the Top 10 Dividend Stocks with 10%+ Yield?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/runway-growth-finance-rway-one-190252909.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2024-07-24T14:27:05Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/77059015272A3E0C481091639F64CCAE835CEB9529AE9E785D0B763C332FB6FF/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-11%2Fa91cb0d0-c35d-11f0-aef7-3fa371a33cd3",
-      "slug": "what-is-a-reverse-atm-83c90f6c",
-      "orig_slug": "what-is-a-reverse-atm-83c90f6c"
+      "pubDate": "2026-06-29T19:02:52Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/DBBCC3FDC1A7FCA71290B5F410BA9DE68C064197AE431257B1D6BB6F244C3425/subgraphmysterio/resizefill_w1200_h801;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F84249ecfff511e6ecaf4c7c7fa22aca0",
+      "slug": "is-runway-growth-finance-rway-one-of-the-top-10-dividend-stocks-with-10-yield-a39533d9",
+      "orig_slug": "is-runway-growth-finance-rway-one-of-the-top-10-dividend-stocks-with-10-yield-a39533d9"
     },
     {
-      "title": "This Is the Only Stock in the S&P 500 That's Been a Hotter Buy Than Micron Technology This Year",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/only-stock-p-500-thats-150853544.html",
+      "title": "Oil settles up on US-Iran strikes; cautious hopes for shipping cap gains",
+      "link": "https://finance.yahoo.com/news/oil-climbs-following-renewed-us-233412520.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-06-29T15:08:53Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/66DC5CDF55FA09F7AA49D284E651B711DCFD9845747520A01E5494E8874F1434/subgraphmysterio/resizefill_w1200_h801;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fefcb6de975c2b6e96b36a6b4accb9bfb",
-      "slug": "this-is-the-only-stock-in-the-sp-500-thats-been-a-hotter-buy-than-micron-technol-0e47efed",
-      "orig_slug": "this-is-the-only-stock-in-the-sp-500-thats-been-a-hotter-buy-than-micron-technol-0e47efed"
+      "pubDate": "2026-06-29T19:47:27Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/86C98113CDC95E9A8A20E8B3FFB3D42FEF8FE01ADDBD1714FC1F047334B96752/subgraphmysterio/resizefill_w1200_h776;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F9febb635183eeae338a16f53f7a560e2",
+      "slug": "oil-settles-up-on-us-iran-strikes-cautious-hopes-for-shipping-cap-gains-efe1301d",
+      "orig_slug": "oil-settles-up-on-us-iran-strikes-cautious-hopes-for-shipping-cap-gains-efe1301d"
     },
     {
-      "title": "What is a bank statement, and how do you read one?",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/what-is-a-bank-statement-with-example-193933789.html",
+      "title": "Price Hikes Could Create a Major Problem for AAPL Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/price-hikes-could-create-major-194919953.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2024-07-15T19:39:33Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/7B4DFECD046A4D0CB487737D8F1AC5F9E5A6C5FFE8B98062C238E12357B85025/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2023-03%2F1bdff900-c434-11ed-aaff-72a6917379c4",
-      "slug": "what-is-a-bank-statement-and-how-do-you-read-one-9173d841",
-      "orig_slug": "what-is-a-bank-statement-and-how-do-you-read-one-9173d841"
+      "pubDate": "2026-06-29T19:49:19Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/EA921DA2E2A027B2623C4C119FF453ABA3E9EFF5961EB1F48839A81B7F1A5607/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F5c73a52b7903649f6e8fae3cb550b52f",
+      "slug": "price-hikes-could-create-a-major-problem-for-aapl-stock-d5d15c9a",
+      "orig_slug": "price-hikes-could-create-a-major-problem-for-aapl-stock-d5d15c9a"
     },
     {
-      "title": "What is Plaid, and is it safe to use?",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/what-is-plaid-174926375.html",
+      "title": "BofA Lowers New York Times (NYT) Target as Media Sector Multiples Compress",
+      "link": "https://finance.yahoo.com/media-advertising/articles/bofa-lowers-york-times-nyt-195218226.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2024-07-22T17:49:26Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/089ED8355B55542B5F1FE46C799D742B19758E454625F82582D54D522D30ADA8/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-06%2F2928a767-057e-4d8b-8d63-271a6aa1cc12",
-      "slug": "what-is-plaid-and-is-it-safe-to-use-a688d47d",
-      "orig_slug": "what-is-plaid-and-is-it-safe-to-use-a688d47d"
+      "pubDate": "2026-06-29T19:52:18Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/3FBEA3ABF272AC74EA2F459A99BE4F6C112A10AC2FF891FA31DF178E5350480E/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fbc809758ab6b2a73dec682035ad33d5f",
+      "slug": "bofa-lowers-new-york-times-nyt-target-as-media-sector-multiples-compress-50f98753",
+      "orig_slug": "bofa-lowers-new-york-times-nyt-target-as-media-sector-multiples-compress-50f98753"
     },
     {
-      "title": "Best high-yield savings interest rates today, Tuesday, June 30, 2026: Earn up to 4.10% APY with Bask Bank",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-tuesday-june-30-2026-earn-up-to-410-apy-with-bask-bank-100000373.html",
+      "title": "Vanguard's VTV Is Pricier Than You're Used To",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/vanguards-vtv-pricier-youre-used-192257435.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-06-30T10:00:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/779E8B7F368F53924FF8FBCC16F3D0C8E36B8F75EE3C3A2271B5D433B1AE8F24/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-07%2F61b31c70-4eb5-11ef-bef7-1c95e6978ba4",
-      "slug": "best-high-yield-savings-interest-rates-today-tuesday-june-30-2026-earn-up-to-410-9337a2b7",
-      "orig_slug": "best-high-yield-savings-interest-rates-today-tuesday-june-30-2026-earn-up-to-410-9337a2b7"
+      "pubDate": "2026-06-29T19:22:57Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/53E5ED3567E0C11162F78B9B7240ACA515429F57AC3CD1BF1857FE28ED82692E/subgraphmysterio/resizefill_w1200_h815;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftrefis_142%2F56c363bffa73f8b8cfa9cd71fae1de1c",
+      "slug": "vanguards-vtv-is-pricier-than-youre-used-to-7bb1ced5",
+      "orig_slug": "vanguards-vtv-is-pricier-than-youre-used-to-7bb1ced5"
     },
     {
-      "title": "Daily – Vickers Top Buyers & Sellers for 06/30/2026",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_47472_TopBottomInsiderActivity_1782815761000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "title": "The AI Power Boom Is Reopening the Public Utility Debate",
+      "link": "https://finance.yahoo.com/energy/articles/ai-power-boom-reopening-public-190000361.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-06-30T10:36:01Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-vickers-top-buyers-sellers-for-06302026-e84da267",
-      "orig_slug": "daily-vickers-top-buyers-sellers-for-06302026-e84da267"
-    },
-    {
-      "title": "HELOC and home equity loan rates today, Tuesday, June 30, 2026: Besides interest rates, how do you choose between a HELOC or HEL?",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-tuesday-june-30-2026-besides-interest-rates-how-do-you-choose-between-a-heloc-or-hel-100000687.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-06-30T10:00:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/01BA8390E7EA2436AD825D1C5558437AB0D962845F27C3ED5D9457ED401AF727/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-06%2Fc4b61900-3fee-11f0-b7db-9b92c1c08f42",
-      "slug": "heloc-and-home-equity-loan-rates-today-tuesday-june-30-2026-besides-interest-rat-4fa559ad",
-      "orig_slug": "heloc-and-home-equity-loan-rates-today-tuesday-june-30-2026-besides-interest-rat-4fa559ad"
-    },
-    {
-      "title": "Comcast to Split Into Two Public Companies as NBCUniversal and Cable Go Separate Ways",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/comcast-split-two-public-companies-150947933.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-06-29T15:09:47Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/E6198A16CB9A4B5B7D2C3BFC96013812F75FB976C832FC60BC8F641A892F9739/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F8e1688de8ed814c99ba719fac2239c64",
-      "slug": "comcast-to-split-into-two-public-companies-as-nbcuniversal-and-cable-go-separate-12de783b",
-      "orig_slug": "comcast-to-split-into-two-public-companies-as-nbcuniversal-and-cable-go-separate-12de783b"
+      "pubDate": "2026-06-29T19:00:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/700AF37F1627DF5D3B506594B3F3831B828DE5157587F83FDD21064123D8F629/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Foilprice.com%2F8a2428cbce582d08adecd3ece96b99aa",
+      "slug": "the-ai-power-boom-is-reopening-the-public-utility-debate-4fe47a74",
+      "orig_slug": "the-ai-power-boom-is-reopening-the-public-utility-debate-4fe47a74"
     }
   ]
 }
