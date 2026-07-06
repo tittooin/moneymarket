@@ -1,338 +1,428 @@
 {
-  "updated": "2026-07-06T11:40:02Z",
+  "updated": "2026-07-06T14:57:36Z",
   "items": [
     {
-      "title": "AdaptHealth discloses June cyberattack resulting in patient data exposure",
-      "link": "https://finance.yahoo.com/healthcare/articles/adapthealth-discloses-june-cyberattack-resulting-111953901.html",
+      "title": "bk plus appoints new restructuring and insolvency director",
+      "link": "https://finance.yahoo.com/small-business/articles/bk-plus-appoints-restructuring-insolvency-144053329.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T11:19:53Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/9ADD5A979C6F75A29753C06DE1F19C3CAFA36D3F388F5384D6F9E2B8DCA1B566/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmedical_device_network_744%2F3cfeb6809e24df922ae79c8a04f3dd57",
-      "slug": "adapthealth-discloses-june-cyberattack-resulting-in-patient-data-exposure-caf1f3d0",
-      "orig_slug": "adapthealth-discloses-june-cyberattack-resulting-in-patient-data-exposure-caf1f3d0"
+      "pubDate": "2026-07-06T14:40:53Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/348BA0CFA42111A2B918CCE719329A3186E96DD76938AF2B0DE117BA7A89C0F2/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finternational_accounting_bulletin_542%2F157b448aba5b25fb86fa370de7a785f1",
+      "slug": "bk-plus-appoints-new-restructuring-and-insolvency-director-87f8e585",
+      "orig_slug": "bk-plus-appoints-new-restructuring-and-insolvency-director-87f8e585"
     },
     {
-      "title": "Dow Jones Futures Rise, Nasdaq Set To Reclaim Key Level; Apple, SpaceX, Sandisk, Robinhood In Focus",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-spacex-sandisk-robinhood/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T11:00:55Z",
-      "image": "",
-      "slug": "dow-jones-futures-rise-nasdaq-set-to-reclaim-key-level-apple-spacex-sandisk-robi-0695ce50",
-      "orig_slug": "dow-jones-futures-rise-nasdaq-set-to-reclaim-key-level-apple-spacex-sandisk-robi-0695ce50"
-    },
-    {
-      "title": "Britain should consider regulating AI models, FCA official says",
-      "link": "https://finance.yahoo.com/technology/ai/articles/britain-consider-regulating-ai-models-104539260.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T11:00:10Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/3A37D49E57178EDE08D531A3239F6F2163D3AC73FAB41D7ED6947CDD0EA5DF5F/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fbfd387c2f59cb95968f6ef38580bb2ed",
-      "slug": "britain-should-consider-regulating-ai-models-fca-official-says-0ee7e0ce",
-      "orig_slug": "britain-should-consider-regulating-ai-models-fca-official-says-0ee7e0ce"
-    },
-    {
-      "title": "Truist Raises its Price Target on Cummins (CMI)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/truist-raises-price-target-cummins-105104346.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T10:51:04Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/2D6C2DE5589C47469DC0878D2392AEC3661D313B18DA7221F94C1080BB1CFE14/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fc5fec8e53a9b096a2c18985b5efac602",
-      "slug": "truist-raises-its-price-target-on-cummins-cmi-7e0358e9",
-      "orig_slug": "truist-raises-its-price-target-on-cummins-cmi-7e0358e9"
-    },
-    {
-      "title": "Here’s Why HP (HPE) is Among the 15 Best Data Center Stocks to Buy and Hold for the Next Decade",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-hp-hpe-among-15-105057987.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T10:50:57Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/544269A67FE0E5CD5459997333D4A7BE2F9D49BFA7BA2524267788C5812D6810/subgraphmysterio/resizefill_w1200_h836;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fbcb836688e9efa621c3fe27ded2b41ec",
-      "slug": "heres-why-hp-hpe-is-among-the-15-best-data-center-stocks-to-buy-and-hold-for-the-f707ff83",
-      "orig_slug": "heres-why-hp-hpe-is-among-the-15-best-data-center-stocks-to-buy-and-hold-for-the-f707ff83"
-    },
-    {
-      "title": "Chery finalises acquisition of ex-Nissan plant in South Africa – report",
-      "link": "https://finance.yahoo.com/economy/articles/chery-finalises-acquisition-ex-nissan-111154252.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T11:11:54Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/56E799BC41E40F4E94078A4EDF517D83E2BD247D057F09BE73B53D0413C87EF4/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjust_auto_187%2Fbc67acc47e0c03a9445f6e1690e7becc",
-      "slug": "chery-finalises-acquisition-of-ex-nissan-plant-in-south-africa-report-207eefb9",
-      "orig_slug": "chery-finalises-acquisition-of-ex-nissan-plant-in-south-africa-report-207eefb9"
-    },
-    {
-      "title": "Truist Keeps Buy Rating on AECOM (ACM)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/truist-keeps-buy-rating-aecom-105045619.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T10:50:45Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/DEF31140A81019483C9D5C9E91847179109F9084A3B9A1AC7DE751142BA69F48/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F21844fde4a70905191a576175ce33da7",
-      "slug": "truist-keeps-buy-rating-on-aecom-acm-546689b5",
-      "orig_slug": "truist-keeps-buy-rating-on-aecom-acm-546689b5"
-    },
-    {
-      "title": "Jacobs Solutions (J) Selected for 288MW Palmer Wind Farm Project",
-      "link": "https://finance.yahoo.com/energy/articles/jacobs-solutions-j-selected-288mw-105036417.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T10:50:36Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/A4488D8B0A1751217DAA8B9BA8E1790E5A24885F259E42A0364A5457463A0262/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Ffef93901988ffdafc5966e9beb406bf6",
-      "slug": "jacobs-solutions-j-selected-for-288mw-palmer-wind-farm-project-5de578ca",
-      "orig_slug": "jacobs-solutions-j-selected-for-288mw-palmer-wind-farm-project-5de578ca"
-    },
-    {
-      "title": "Truist Raises its Price Target on MasTec (MTZ)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/truist-raises-price-target-mastec-105029288.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T10:50:29Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/962E1D0FC63EE10148CA1BE29EFC2E0804CC2008C8FF84854D88BAAD35DA4EAE/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F7c64bb0d227275289bfb6c3831b3ace8",
-      "slug": "truist-raises-its-price-target-on-mastec-mtz-ba1f4a38",
-      "orig_slug": "truist-raises-its-price-target-on-mastec-mtz-ba1f4a38"
-    },
-    {
-      "title": "JPMorgan Upgrades Primoris Services (PRIM) to Overweight",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-upgrades-primoris-services-prim-105021925.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T10:50:21Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/DB22B6B30E534DDD19C2EA5B626C2F5086BF3909ACC354EFA1DD74AC28B38090/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F43b99dcec9f41bd1741b56e39fd99da2",
-      "slug": "jpmorgan-upgrades-primoris-services-prim-to-overweight-7b987ba5",
-      "orig_slug": "jpmorgan-upgrades-primoris-services-prim-to-overweight-7b987ba5"
-    },
-    {
-      "title": "Bayou Best Foods nets plant-based seafood peer BettaF!sh",
-      "link": "https://finance.yahoo.com/small-business/articles/bayou-best-foods-nets-plant-110734563.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T11:07:34Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/7AFBBDF6322595438F43013D1ACF3DAA65DED92E1483CDDB6FD1518184688481/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjust_food_692%2F3d951a7d2b9939e8b7bb326064607134",
-      "slug": "bayou-best-foods-nets-plant-based-seafood-peer-bettafsh-d7e38086",
-      "orig_slug": "bayou-best-foods-nets-plant-based-seafood-peer-bettafsh-d7e38086"
-    },
-    {
-      "title": "Tetra Tech (TTEK) Wins $49M U.S. Army Corps Contract",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tetra-tech-ttek-wins-49m-105012073.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T10:50:12Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/B54DA428A4E7F828ED464BC7F87483053808F6C36478CFD663C43D8713D54D78/subgraphmysterio/resizefill_w1200_h1800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fbcac14b4552ffd39fb9e6aed9f909f7c",
-      "slug": "tetra-tech-ttek-wins-49m-us-army-corps-contract-558be95f",
-      "orig_slug": "tetra-tech-ttek-wins-49m-us-army-corps-contract-558be95f"
-    },
-    {
-      "title": "Goldman Sachs Removes nVent Electric (NVT) from US Conviction List",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-removes-nvent-electric-105005915.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T10:50:05Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/0E81ACC2FFE5428701693BB5B642A189C9B8FF16E65198F391FD515EAAFFB4E7/subgraphmysterio/resizefill_w1200_h910;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F828587c10390e530f6bd2d3307c0fd93",
-      "slug": "goldman-sachs-removes-nvent-electric-nvt-from-us-conviction-list-72378b97",
-      "orig_slug": "goldman-sachs-removes-nvent-electric-nvt-from-us-conviction-list-72378b97"
-    },
-    {
-      "title": "Truist Raises its Price Target on SPX Technologies (SPXC)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/truist-raises-price-target-spx-104958755.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T10:49:58Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/F92848C0CB67F1776266AC1403B53D4FF1C056A091B54368AC236D0BED71C3D9/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F0b46ac3ed0af101fc4d8e9f38108c215",
-      "slug": "truist-raises-its-price-target-on-spx-technologies-spxc-9b2e6158",
-      "orig_slug": "truist-raises-its-price-target-on-spx-technologies-spxc-9b2e6158"
-    },
-    {
-      "title": "Is Digital Realty (DLR) the Best Data Center Stock to Buy and Hold for the Next Decade?",
-      "link": "https://finance.yahoo.com/real-estate/articles/digital-realty-dlr-best-data-104950513.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T10:49:50Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/D1A8B0B8392696BC531D9FBC603BDCA60EF8237204AFB2C82EE0BE8487A9B0BF/subgraphmysterio/resizefill_w1200_h600;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F09e54f7ffa7912d750660c7e400ab8e0",
-      "slug": "is-digital-realty-dlr-the-best-data-center-stock-to-buy-and-hold-for-the-next-de-bf7e8d43",
-      "orig_slug": "is-digital-realty-dlr-the-best-data-center-stock-to-buy-and-hold-for-the-next-de-bf7e8d43"
-    },
-    {
-      "title": "Has Greg Abel Found Berkshire Hathaway's Next Apple? He's Put $23 Billion Into This Company So Far and Could Buy Even More.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/greg-abel-found-berkshire-hathaways-110500982.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T11:05:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/9BF10D953F4E7996289AE250A49A739B3209C6F15C0255759870990182CD2EDD/subgraphmysterio/resizefill_w1200_h801;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F67bf24f3008d19b5c9c1bb2c1b7fa774",
-      "slug": "has-greg-abel-found-berkshire-hathaways-next-apple-hes-put-23-billion-into-this--859782e1",
-      "orig_slug": "has-greg-abel-found-berkshire-hathaways-next-apple-hes-put-23-billion-into-this--859782e1"
-    },
-    {
-      "title": "Truist Raises its Price Target on Parker-Hannifin (PH)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/truist-raises-price-target-parker-104942649.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T10:49:42Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/2FE1425FD8718BAC1896A18DE60232826D2A502FF4FFDE01B7B92730515EAB94/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fe575847e779a4382628518110e266f42",
-      "slug": "truist-raises-its-price-target-on-parker-hannifin-ph-35bb4627",
-      "orig_slug": "truist-raises-its-price-target-on-parker-hannifin-ph-35bb4627"
-    },
-    {
-      "title": "Barclays Raises its Price Target on Legence (LGN)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/barclays-raises-price-target-legence-104935617.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T10:49:35Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/92ACB3B9D04AB8A6B11A7C21C5BA9E331DEE3C3C124CC3DABE67B512566286D7/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fbb3f0ab1013b7eebf0fd9101388e99ec",
-      "slug": "barclays-raises-its-price-target-on-legence-lgn-91f0f237",
-      "orig_slug": "barclays-raises-its-price-target-on-legence-lgn-91f0f237"
-    },
-    {
-      "title": "Stifel Raises its Price Target on Power Integrations (POWI)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stifel-raises-price-target-power-104928847.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T10:49:28Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/AC4F7921D03EED413AF3D9336B269EDFE4B87F854D716BD82985F19786793C74/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F9aa5e7d284baa06b28b43b5251aea21f",
-      "slug": "stifel-raises-its-price-target-on-power-integrations-powi-e9d40baf",
-      "orig_slug": "stifel-raises-its-price-target-on-power-integrations-powi-e9d40baf"
-    },
-    {
-      "title": "AXT (AXTI) Appoints Tracy Liu to Board of Director",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/axt-axti-appoints-tracy-liu-104922138.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T10:49:22Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/8E3CAF099C950D3D3C466D703C33BA94881F3F40B6E5FC38AA879701C86954FD/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F6857607624d018154569190d8bf2f815",
-      "slug": "axt-axti-appoints-tracy-liu-to-board-of-director-aa97e23b",
-      "orig_slug": "axt-axti-appoints-tracy-liu-to-board-of-director-aa97e23b"
-    },
-    {
-      "title": "Oil drops more than 1% after Opec+ raises August output targets",
-      "link": "https://finance.yahoo.com/energy/articles/oil-drops-more-1-opec-110245244.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T11:02:45Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/9DD0A93E234EC5F0CD2CD3A0B140C72649D2B163983C11171711364385DA99CF/subgraphmysterio/resizefill_w1200_h674;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Foffshore_technology_431%2Fb5980018cdd2eb565548a617dc8608bc",
-      "slug": "oil-drops-more-than-1-after-opec-raises-august-output-targets-557cc270",
-      "orig_slug": "oil-drops-more-than-1-after-opec-raises-august-output-targets-557cc270"
-    },
-    {
-      "title": "Comfort Systems (FIX): The Best Data Center Stock to Buy and Hold for the Next Decade",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/comfort-systems-fix-best-data-104915393.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T10:49:15Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/CB7B3FDDD9ADC6407513C7F01CE31EF7B9DD7BD38ECACE347B2179BA35E5CB97/subgraphmysterio/resizefill_w1200_h797;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fb57cf20ead210be1054cfb3332b00cbb",
-      "slug": "comfort-systems-fix-the-best-data-center-stock-to-buy-and-hold-for-the-next-deca-5276a071",
-      "orig_slug": "comfort-systems-fix-the-best-data-center-stock-to-buy-and-hold-for-the-next-deca-5276a071"
-    },
-    {
-      "title": "South Korea's SK Hynix launches $28 billion US listing to ride global AI wave",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-launches-28-billion-104117241.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T10:41:17Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/7B2CCB2198C87B2692429F70A595F213710356C05D3BF4CD851A750DD5C50D4F/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters-finance.com%2Febdfebc548ed3330debf2b5f6eb5fb23",
-      "slug": "south-koreas-sk-hynix-launches-28-billion-us-listing-to-ride-global-ai-wave-1a3597b5",
-      "orig_slug": "south-koreas-sk-hynix-launches-28-billion-us-listing-to-ride-global-ai-wave-1a3597b5"
-    },
-    {
-      "title": "Morning Bid: From payrolls to profits",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/morning-bid-payrolls-profits-103430891.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T10:34:30Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/2833628CE1761A735851F1C4EB899448C7DDB491163CEA50A940AA28208A0773/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F9558f02b5c8fbe61a47ac5d9c143e734",
-      "slug": "morning-bid-from-payrolls-to-profits-e8eacb43",
-      "orig_slug": "morning-bid-from-payrolls-to-profits-e8eacb43"
-    },
-    {
-      "title": "Stock market today: Nasdaq leads S&P 500, Dow futures higher after long holiday weekend",
-      "link": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-july-7-225645420.html",
+      "title": "Stock market today: Dow slips, Nasdaq and S&P 500 rise as tech jitters ease",
+      "link": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-july-6-nasdaq-sp-rise-225645420.html",
       "source": "finance.yahoo.com",
       "pubDate": "2026-07-05T22:56:45Z",
       "image": "https://s.yimg.com/lo/mysterio/api/1FB79BF3626A5347468029DAE961E4936B272EDDA6F510CE55E9CAC2239154F0/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-06%2Fde9f9c9c-fc9c-4864-afa5-9c859871b9ce",
-      "slug": "stock-market-today-nasdaq-leads-sp-500-dow-futures-higher-after-long-holiday-wee-5aab56f8",
-      "orig_slug": "stock-market-today-nasdaq-leads-sp-500-dow-futures-higher-after-long-holiday-wee-5aab56f8"
+      "slug": "stock-market-today-dow-slips-nasdaq-and-sp-500-rise-as-tech-jitters-ease-6bdbafdb",
+      "orig_slug": "stock-market-today-dow-slips-nasdaq-and-sp-500-rise-as-tech-jitters-ease-6bdbafdb"
     },
     {
-      "title": "Nykaa signals strong Q1 FY27 growth",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nykaa-signals-strong-q1-fy27-110216418.html",
+      "title": "A couple owes $200,000 in student loans at 64 — and they'd need $700K in savings to comfortably cover the payments",
+      "link": "https://finance.yahoo.com/small-business/articles/couple-owes-200-000-student-143000350.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T11:02:16Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/F5930CEBFF499E9930648CEDD600E377649C90AE0F09C8454DA9A6E82B535C63/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fretail_insight_network_724%2F987f0fc9c762b08f3e494feaa781345e",
-      "slug": "nykaa-signals-strong-q1-fy27-growth-322cf941",
-      "orig_slug": "nykaa-signals-strong-q1-fy27-growth-322cf941"
+      "pubDate": "2026-07-06T14:30:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/AC23C505FAB1DD535CAE445F65D67EE5736D38C8CE7FA86BEEB639F66BB6DB83/subgraphmysterio/resizefill_w1200_h676;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2F5426ea47c3f8aa9675a446eb6ae0239f",
+      "slug": "a-couple-owes-200000-in-student-loans-at-64-and-theyd-need-700k-in-savings-to-co-88dcf207",
+      "orig_slug": "a-couple-owes-200000-in-student-loans-at-64-and-theyd-need-700k-in-savings-to-co-88dcf207"
     },
     {
-      "title": "SailPoint (SAIL) Backs Q2 Guidance at Investor Day",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sailpoint-sail-backs-q2-guidance-100239515.html",
+      "title": "Core Natural Wins DOE Selection for Rare Earth Extraction Pilot",
+      "link": "https://finance.yahoo.com/energy/articles/core-natural-wins-doe-selection-143000269.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T10:02:39Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/7AD06C7D8F5D0E454367D89A1CB40CE41FCAC0CD467B122671692B129AC9E7D9/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fe13eafb879d337f843e648dbb91ec2ea",
-      "slug": "sailpoint-sail-backs-q2-guidance-at-investor-day-40a7c279",
-      "orig_slug": "sailpoint-sail-backs-q2-guidance-at-investor-day-40a7c279"
+      "pubDate": "2026-07-06T14:30:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/8382166D2740E6C6DF261044C0AA17A1BA9F150F4F09FAB5D65F8ADAAECC9924/subgraphmysterio/resizefill_w1200_h676;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Foilprice.com%2F1a3a205392bd69bc47a06fa6138145f2",
+      "slug": "core-natural-wins-doe-selection-for-rare-earth-extraction-pilot-fd8d725a",
+      "orig_slug": "core-natural-wins-doe-selection-for-rare-earth-extraction-pilot-fd8d725a"
     },
     {
-      "title": "UBS Raises its Price Target on JFrog (FROG)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-raises-price-target-jfrog-100232910.html",
+      "title": "Wall Street surges, oil flat as chip stock rally continues",
+      "link": "https://finance.yahoo.com/news/shares-edge-higher-asia-oil-005923908.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T10:02:32Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/BA695DD2E07BC85D0018F5EB283D1866F84FAC73684835E3CCC2268361841DEB/subgraphmysterio/resizefill_w1200_h798;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fd049a403b4016ccfd9d824f3b14ea160",
-      "slug": "ubs-raises-its-price-target-on-jfrog-frog-a2aba194",
-      "orig_slug": "ubs-raises-its-price-target-on-jfrog-frog-a2aba194"
+      "pubDate": "2026-07-06T14:29:51Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/437E7C6A8067824619F95165EEC6104C6D5EEEEB9909F543083EBBA77A71E3EC/subgraphmysterio/resizefill_w1200_h801;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fc80254affc855ac28abb181ecae1484e",
+      "slug": "wall-street-surges-oil-flat-as-chip-stock-rally-continues-b7387caf",
+      "orig_slug": "wall-street-surges-oil-flat-as-chip-stock-rally-continues-b7387caf"
     },
     {
-      "title": "Is Cloudflare (NET) the Best High Growth Cybersecurity Stock to Buy Now?",
-      "link": "https://finance.yahoo.com/technology/articles/cloudflare-net-best-high-growth-100226207.html",
+      "title": "Weekly Stock List",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_47521_StockPicks_1783337985000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T10:02:26Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/97A3F831027025C2D9975FE3950C35335CAA9E8F27671D22CFFD18B896811028/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F89894eca51b93f0a51358ab0620a7463",
-      "slug": "is-cloudflare-net-the-best-high-growth-cybersecurity-stock-to-buy-now-674be257",
-      "orig_slug": "is-cloudflare-net-the-best-high-growth-cybersecurity-stock-to-buy-now-674be257"
+      "pubDate": "2026-07-06T11:39:45Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "weekly-stock-list-df5dea6b",
+      "orig_slug": "weekly-stock-list-df5dea6b"
     },
     {
-      "title": "Here’s Why Palo Alto (PANW) is Among the 8 High Growth Cybersecurity Stocks to Buy Now",
-      "link": "https://finance.yahoo.com/technology/articles/why-palo-alto-panw-among-100218783.html",
+      "title": "Gwynne Shotwell donating SpaceX stock to Trump Accounts for 2M kids",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/gwynne-shotwell-donating-spacex-stock-144051606.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T10:02:18Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/EB89A4CE03C468672565BFC35A0E90AC303B55D79D0A39A21EC9892D2EAE12D8/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F1f59c3c566f686fc7a86d9dd9b12b543",
-      "slug": "heres-why-palo-alto-panw-is-among-the-8-high-growth-cybersecurity-stocks-to-buy--f3da2212",
-      "orig_slug": "heres-why-palo-alto-panw-is-among-the-8-high-growth-cybersecurity-stocks-to-buy--f3da2212"
+      "pubDate": "2026-07-06T14:40:51Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/0AE94504A6423C3C5AFA60FA1747ED7772BD220423B415B15C06BD74957A0E52/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2Ffcfe0bebb696040858cf8eac5ed2a069",
+      "slug": "gwynne-shotwell-donating-spacex-stock-to-trump-accounts-for-2m-kids-ee94d5af",
+      "orig_slug": "gwynne-shotwell-donating-spacex-stock-to-trump-accounts-for-2m-kids-ee94d5af"
     },
     {
-      "title": "These 3 Growth Stocks Can Outperform Through AI Tailwinds and Everyday Consumer Strength",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-outperform-ai-110200385.html",
+      "title": "Costco Wholesale Corporation (COST) Benefits from Investors’ Focus on Resilient Businesses",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/costco-wholesale-corporation-cost-benefits-142209292.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T11:02:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/A55BF626CBBCB5BDAB6398C5A2378B2E8378C97187AD4C72559090367F32511B/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fa168f589cc2fb0ca3e65ae5beac0a16b",
-      "slug": "these-3-growth-stocks-can-outperform-through-ai-tailwinds-and-everyday-consumer--23254795",
-      "orig_slug": "these-3-growth-stocks-can-outperform-through-ai-tailwinds-and-everyday-consumer--23254795"
+      "pubDate": "2026-07-06T14:22:09Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/ED9C95BCBAB132D44A1B9E9ED21619B1E2DAF0CCF45F63B420E1F9B9316EE4D9/subgraphmysterio/resizefill_w1200_h672;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fcc796cce6a60e0a94e85c8ad7d864ab1",
+      "slug": "costco-wholesale-corporation-cost-benefits-from-investors-focus-on-resilient-bus-f9db11b9",
+      "orig_slug": "costco-wholesale-corporation-cost-benefits-from-investors-focus-on-resilient-bus-f9db11b9"
     },
     {
-      "title": "WidePoint (WYY) Says ITMS Command Center Deployment Remains on Schedule",
-      "link": "https://finance.yahoo.com/technology/articles/widepoint-wyy-says-itms-command-100212190.html",
+      "title": "Stock Market Today: Dow Slips But Nasdaq Jumps; Micron, Sandisk Bounce As Chip Players Shine (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-mu-stock-sandisk-sndk-stock/?src=A00220&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T10:02:12Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/931F00EDC41942F062EC4A07CDFF58DBBD9E4F8B8E1DE95049A4F4F24AEDBE3F/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fd25ee3a1967b0b8a47186e4151f23199",
-      "slug": "widepoint-wyy-says-itms-command-center-deployment-remains-on-schedule-8832a064",
-      "orig_slug": "widepoint-wyy-says-itms-command-center-deployment-remains-on-schedule-8832a064"
+      "pubDate": "2026-07-06T14:20:44Z",
+      "image": "",
+      "slug": "stock-market-today-dow-slips-but-nasdaq-jumps-micron-sandisk-bounce-as-chip-play-256627be",
+      "orig_slug": "stock-market-today-dow-slips-but-nasdaq-jumps-micron-sandisk-bounce-as-chip-play-256627be"
     },
     {
-      "title": "Castellum (CTM) Subsidiary Wins $4M U.S. Navy Modernization Subcontract",
-      "link": "https://finance.yahoo.com/technology/articles/castellum-ctm-subsidiary-wins-4m-100202461.html",
+      "title": "Kids and Congressmen Just Love SpaceX Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kids-congressmen-just-love-spacex-141933375.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T10:02:02Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/DB22B6B30E534DDD19C2EA5B626C2F5086BF3909ACC354EFA1DD74AC28B38090/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F43b99dcec9f41bd1741b56e39fd99da2",
-      "slug": "castellum-ctm-subsidiary-wins-4m-us-navy-modernization-subcontract-6b69cd94",
-      "orig_slug": "castellum-ctm-subsidiary-wins-4m-us-navy-modernization-subcontract-6b69cd94"
+      "pubDate": "2026-07-06T14:19:33Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/48EFD39D1D8B61DA2E07F36B9A129E815F3C610305CD10C46644849BAAB8386C/subgraphmysterio/resizefill_w1200_h1490;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoby_896%2Ff9c22b6ae848566f72a31bf6d5b1f69a",
+      "slug": "kids-and-congressmen-just-love-spacex-stock-f99c47dc",
+      "orig_slug": "kids-and-congressmen-just-love-spacex-stock-f99c47dc"
     },
     {
-      "title": "Citi Raises its Price Target on V2X (VVX)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/citi-raises-price-target-v2x-100156466.html",
+      "title": "Broadcom Stock Rises On New Apple Supply Deal",
+      "link": "https://www.investors.com/news/technology/broadcom-stock-rises-on-new-apple-supply-deal/?src=A00220&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T10:01:56Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/8D5F218501CAFEF7C05C990E459FBD7707C554244782E6C57F5A30357BE19EBA/subgraphmysterio/resizefill_w1200_h801;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fd653eb35ca56fb085471502a418a1a7e",
-      "slug": "citi-raises-its-price-target-on-v2x-vvx-3d2ba8df",
-      "orig_slug": "citi-raises-its-price-target-on-v2x-vvx-3d2ba8df"
+      "pubDate": "2026-07-06T14:18:12Z",
+      "image": "",
+      "slug": "broadcom-stock-rises-on-new-apple-supply-deal-e589ac76",
+      "orig_slug": "broadcom-stock-rises-on-new-apple-supply-deal-e589ac76"
     },
     {
-      "title": "Datadog (DDOG): The Best High Growth Cybersecurity Stock to Buy Now",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/datadog-ddog-best-high-growth-100149991.html",
+      "title": "Daily Spotlight: Stock Market Valuation Reasonable",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_47517_MarketOutlook_1783337764000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T10:01:49Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/9E6450F22AEA4D3D76F35B9F1ECF5852A52B13EF5D5772316C702865D25B8B98/subgraphmysterio/resizefill_w1200_h801;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Faf094c0e0abcaf66627bbba6e132051f",
-      "slug": "datadog-ddog-the-best-high-growth-cybersecurity-stock-to-buy-now-ed782558",
-      "orig_slug": "datadog-ddog-the-best-high-growth-cybersecurity-stock-to-buy-now-ed782558"
+      "pubDate": "2026-07-06T11:36:04Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "daily-spotlight-stock-market-valuation-reasonable-b31b5a43",
+      "orig_slug": "daily-spotlight-stock-market-valuation-reasonable-b31b5a43"
     },
     {
-      "title": "Ripple Just Got Its Full EU MiCA License. Is This Big for XRP?",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/ripple-just-got-full-eu-110125154.html",
+      "title": "3 Critical Minerals ETFs Capturing the Reshoring Trade as China Tightens Export Controls",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/3-critical-minerals-etfs-capturing-143629833.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T11:01:25Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/D31E3B81AEC4E65AFFC9B226C50A32C89F0A18DF25A8FEA7EB31038C53069079/subgraphmysterio/resizefill_w1200_h843;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fabf3649650188eeb5349b7c18be7c108",
-      "slug": "ripple-just-got-its-full-eu-mica-license-is-this-big-for-xrp-b368f348",
-      "orig_slug": "ripple-just-got-its-full-eu-mica-license-is-this-big-for-xrp-b368f348"
+      "pubDate": "2026-07-06T14:36:29Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/9EF5946408EEF596910694ABC76CF15A0A7A941E3C2638D6D990A26741503AA9/subgraphmysterio/resizefill_w1200_h674;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fda3002d1fc9ce6ac6f13183d4023d386",
+      "slug": "3-critical-minerals-etfs-capturing-the-reshoring-trade-as-china-tightens-export--7e44a31b",
+      "orig_slug": "3-critical-minerals-etfs-capturing-the-reshoring-trade-as-china-tightens-export--7e44a31b"
     },
     {
-      "title": "Best CD rates today, Monday, July 6, 2026: Lock in up to 4.10% APY",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-july-6-2026-lock-in-up-to-410-apy-100000383.html",
+      "title": "Should You Consider Selling Veralto Corp (VLTO)?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/consider-selling-veralto-corp-vlto-141501266.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-07-06T14:15:01Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/990A88EC23C2F04602D543BDC8D9D390266C11B0A12F05B3FEB300FC9056D99A/subgraphmysterio/resizefill_w1200_h672;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F5c59e0b36b7259ae3bb172f3905c094a",
+      "slug": "should-you-consider-selling-veralto-corp-vlto-9c7bc1a3",
+      "orig_slug": "should-you-consider-selling-veralto-corp-vlto-9c7bc1a3"
+    },
+    {
+      "title": "Micron stock has now plunged to a surprising level",
+      "link": "https://finance.yahoo.com/markets/article/micron-stock-has-now-plunged-to-a-surprising-level-141142114.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-07-06T14:11:42Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/2F7A6C3A0DD147A1E4AEA1C12A4F3C8ADBAE5A81582CB563B1BF4403CEC90CF2/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F2837ca50-33ca-11ef-9f4f-67e9f9485266_c20fcfb8d9cbb58c1453ac7d236a0d54e8bebb6652939cbb60055968eff429e8.jpg",
+      "slug": "micron-stock-has-now-plunged-to-a-surprising-level-e6fa5691",
+      "orig_slug": "micron-stock-has-now-plunged-to-a-surprising-level-e6fa5691"
+    },
+    {
+      "title": "Hilton Worldwide Holdings (HLT) Jumped on Robust Results and Improved Guidance",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hilton-worldwide-holdings-hlt-jumped-141033101.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-07-06T14:10:33Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/53808CC90665C806C9D9402297FF77D268E9EF618731F1DC17C764562FB587EC/subgraphmysterio/resizefill_w1200_h672;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F10d303624ede64327213b8b06e318f24",
+      "slug": "hilton-worldwide-holdings-hlt-jumped-on-robust-results-and-improved-guidance-d1dbc36a",
+      "orig_slug": "hilton-worldwide-holdings-hlt-jumped-on-robust-results-and-improved-guidance-d1dbc36a"
+    },
+    {
+      "title": "Strong Results Lifted Trane Technologies (TT) in Q1",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/strong-results-lifted-trane-technologies-140252051.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-07-06T14:02:52Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/80DE11F6C0E02596B69D4B721CD022505F6EE5A5305E9A4AEC97DC92B6B12529/subgraphmysterio/resizefill_w1200_h672;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F100daabbc9ba49805bef35aa07202fbf",
+      "slug": "strong-results-lifted-trane-technologies-tt-in-q1-8a3c364b",
+      "orig_slug": "strong-results-lifted-trane-technologies-tt-in-q1-8a3c364b"
+    },
+    {
+      "title": "Technical Assessment: Bullish in the Intermediate-Term",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_47516_TechnicalAnalysis_1783337730000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-07-06T11:35:30Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "technical-assessment-bullish-in-the-intermediate-term-74703c76",
+      "orig_slug": "technical-assessment-bullish-in-the-intermediate-term-74703c76"
+    },
+    {
+      "title": "Open AI Should “Strike While The Iron Is Hot”",
+      "link": "https://finance.yahoo.com/technology/ai/articles/open-ai-strike-while-iron-143105269.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-07-06T14:31:05Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/FF4A4C1490E2675CC3980286EA5BB369723F9573863B29743C44C2C9B59133E1/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F83189d93dc3d8c209e98f2af82358d7e",
+      "slug": "open-ai-should-strike-while-the-iron-is-hot-4a660ee6",
+      "orig_slug": "open-ai-should-strike-while-the-iron-is-hot-4a660ee6"
+    },
+    {
+      "title": "Why This Biotech, Up 14% Since Its Breakout, Is On The Rise Once Again",
+      "link": "https://www.investors.com/news/technology/pharvaris-stock-fda-nda-acceptance-hae-treatment/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-07-06T14:00:42Z",
+      "image": "",
+      "slug": "why-this-biotech-up-14-since-its-breakout-is-on-the-rise-once-again-5467f3e9",
+      "orig_slug": "why-this-biotech-up-14-since-its-breakout-is-on-the-rise-once-again-5467f3e9"
+    },
+    {
+      "title": "Oil prices steady at pre-Iran war levels",
+      "link": "https://finance.yahoo.com/news/oil-slips-opec-agrees-raise-003607304.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-07-06T13:54:08Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/F277460DF8611AEF376DD6FDFADE1F5178AD0FA494B45602616DF0134BDE4A32/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F56e1462f69d629882334a6bec1a8d04c",
+      "slug": "oil-prices-steady-at-pre-iran-war-levels-82098ffb",
+      "orig_slug": "oil-prices-steady-at-pre-iran-war-levels-82098ffb"
+    },
+    {
+      "title": "Bitmine Purchases Another $74 Million Of Ethereum",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/bitmine-purchases-another-74-million-134600258.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-07-06T13:46:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/946ADB71080A5C66158C7113BED7E5EF08F5970DDB2E8221AA3EE39533F9981E/subgraphmysterio/resizefill_w1200_h720;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F1734240acfda48f5bbf79a1cf620ce10",
+      "slug": "bitmine-purchases-another-74-million-of-ethereum-4247a806",
+      "orig_slug": "bitmine-purchases-another-74-million-of-ethereum-4247a806"
+    },
+    {
+      "title": "TeraWulf, Anthropic Sign $19 Billion Data Center Lease. Neocloud Stocks Soar.",
+      "link": "https://www.investors.com/news/anthropic-terawulf-ai-data-center-lease-neocloud-coreweave-iren/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-07-06T13:45:30Z",
+      "image": "",
+      "slug": "terawulf-anthropic-sign-19-billion-data-center-lease-neocloud-stocks-soar-62011997",
+      "orig_slug": "terawulf-anthropic-sign-19-billion-data-center-lease-neocloud-stocks-soar-62011997"
+    },
+    {
+      "title": "Market Digest: GIS",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_47514_MarketSummary_1783335164000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-07-06T10:52:44Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "market-digest-gis-0e97b581",
+      "orig_slug": "market-digest-gis-0e97b581"
+    },
+    {
+      "title": "Carlsberg, Sapporo to team up in SE Asia and UK",
+      "link": "https://finance.yahoo.com/small-business/articles/carlsberg-sapporo-form-jv-se-134538993.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-07-06T14:28:22Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/3B825962732A67ABB6619CB900762207384742E77164D48DFE7B852B1D6CF1DE/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjust_drinks_442%2F46165c61cdfde54b02d4d0f2a778f1e8",
+      "slug": "carlsberg-sapporo-to-team-up-in-se-asia-and-uk-94da86d6",
+      "orig_slug": "carlsberg-sapporo-to-team-up-in-se-asia-and-uk-94da86d6"
+    },
+    {
+      "title": "Microsoft joins AI-driven tech layoff wave with 4,800 job cuts",
+      "link": "https://finance.yahoo.com/technology/articles/microsoft-joins-ai-driven-tech-134519084.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-07-06T13:45:19Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/728F7E8B0D84812D005EA4EB4D0FE4F8AC88B94AACF369E10AAD703EF18CCD75/subgraphmysterio/resizefill_w1200_h804;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters-finance.com%2F50adbf7c51898a9c936b9408394839de",
+      "slug": "microsoft-joins-ai-driven-tech-layoff-wave-with-4800-job-cuts-cdfcda95",
+      "orig_slug": "microsoft-joins-ai-driven-tech-layoff-wave-with-4800-job-cuts-cdfcda95"
+    },
+    {
+      "title": "Strategy Sells $216 Million Worth Of Bitcoin",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-sells-216-million-worth-134500055.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-07-06T13:45:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/1B5209CC788B7B011FC279C5D8AACD0B2B999AF463F2A472D8C4202E4A67FFA5/subgraphmysterio/resizefill_w1200_h720;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F902f728116b8031a81034a3522b3b183",
+      "slug": "strategy-sells-216-million-worth-of-bitcoin-992b9164",
+      "orig_slug": "strategy-sells-216-million-worth-of-bitcoin-992b9164"
+    },
+    {
+      "title": "Anthropic To Lease TeraWulf Data Centre",
+      "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-lease-terawulf-data-centre-134300232.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-07-06T13:43:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/9EFC15AAAB8401154F746CB629E839B47383A3EE42DF8856DFAB4B81EC508495/subgraphmysterio/resizefill_w1200_h720;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F7cbdaa3b2dd3b5aed0095a4d7ccfa49e",
+      "slug": "anthropic-to-lease-terawulf-data-centre-ae9cbdb5",
+      "orig_slug": "anthropic-to-lease-terawulf-data-centre-ae9cbdb5"
+    },
+    {
+      "title": "TeraWulf jumps on $19 billion data center lease deal with Anthropic",
+      "link": "https://finance.yahoo.com/technology/ai/articles/terawulf-jumps-19-billion-data-133531275.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-07-06T13:35:31Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/F5D5EF25521D70CF1FAD6D4BC8AFCAA2EB1266A9B2F6C7E3D198FCC7746278A3/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters-finance.com%2Ff7e785a47c8820ecbfca2784190cc85c",
+      "slug": "terawulf-jumps-on-19-billion-data-center-lease-deal-with-anthropic-c77e047d",
+      "orig_slug": "terawulf-jumps-on-19-billion-data-center-lease-deal-with-anthropic-c77e047d"
+    },
+    {
+      "title": "Daily – Vickers Top Insider Picks for 07/06/2026",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_47512_InsiderActivity_1783334923000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-07-06T10:48:43Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "daily-vickers-top-insider-picks-for-07062026-f8145b7e",
+      "orig_slug": "daily-vickers-top-insider-picks-for-07062026-f8145b7e"
+    },
+    {
+      "title": "Why Vertiv and Eaton Are the Ultimate Infrastructure Plays for the AI Boom",
+      "link": "https://finance.yahoo.com/technology/ai/articles/why-vertiv-eaton-ultimate-infrastructure-142400179.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-07-06T14:24:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/B351CA4593331045880815250A1DCF1FD0DDB596E2E83240C479961AFF1CD00F/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F08b68d5ba0659c4e0905fb25f6c74c21",
+      "slug": "why-vertiv-and-eaton-are-the-ultimate-infrastructure-plays-for-the-ai-boom-8d178508",
+      "orig_slug": "why-vertiv-and-eaton-are-the-ultimate-infrastructure-plays-for-the-ai-boom-8d178508"
+    },
+    {
+      "title": "AI investors may pivot to hyperscalers from chipmakers, Morgan Stanley says",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ai-investors-may-pivot-hyperscalers-133026207.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-07-06T13:30:26Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/3786AF66F57178A791F8A79114380E458DFC3CF589F932133D663895625167DB/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters-finance.com%2Ffa2b70a2e4959077a29a0939140cf037",
+      "slug": "ai-investors-may-pivot-to-hyperscalers-from-chipmakers-morgan-stanley-says-b9d2bc02",
+      "orig_slug": "ai-investors-may-pivot-to-hyperscalers-from-chipmakers-morgan-stanley-says-b9d2bc02"
+    },
+    {
+      "title": "Demand Uptick Lifted Generac Holdings (GNRC)",
+      "link": "https://finance.yahoo.com/energy/articles/demand-uptick-lifted-generac-holdings-132817351.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-07-06T13:28:17Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/CF97FBF07A254CDA6FAF905D9B95541D5C349A331FB05D58CA0894F016C6D2C0/subgraphmysterio/resizefill_w1200_h672;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F74e093df706feeb08233703ac359a525",
+      "slug": "demand-uptick-lifted-generac-holdings-gnrc-a0e579af",
+      "orig_slug": "demand-uptick-lifted-generac-holdings-gnrc-a0e579af"
+    },
+    {
+      "title": "Trump accounts are now live — here's one big challenge they must overcome",
+      "link": "https://finance.yahoo.com/markets/article/trump-accounts-are-now-live--heres-one-big-challenge-they-must-overcome-132338042.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-07-06T13:23:38Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/3192EF4134F6493FF230F7A8802C5CC1B05D42ADFD44E3679B8B164AA297AF0A/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2Fe766ecb5-880e-4df4-88ff-849cc1104393",
+      "slug": "trump-accounts-are-now-live-heres-one-big-challenge-they-must-overcome-ea2a8348",
+      "orig_slug": "trump-accounts-are-now-live-heres-one-big-challenge-they-must-overcome-ea2a8348"
+    },
+    {
+      "title": "SK Hynix seeks $28 billion in US IPO listing as memory maker rides AI wave",
+      "link": "https://finance.yahoo.com/markets/article/sk-hynix-seeks-28-billion-in-us-ipo-listing-as-memory-maker-rides-ai-wave-132016294.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-07-06T13:20:16Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/E9F4AEC1BAD1049AA7089766D2F43E684D980554702AF13F8A25E4F34599D4EF/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-01%2F06759ea0-bb30-11ee-b73b-a0231f1056a1",
+      "slug": "sk-hynix-seeks-28-billion-in-us-ipo-listing-as-memory-maker-rides-ai-wave-471118a1",
+      "orig_slug": "sk-hynix-seeks-28-billion-in-us-ipo-listing-as-memory-maker-rides-ai-wave-471118a1"
+    },
+    {
+      "title": "Daily – Vickers Top Buyers & Sellers for 07/06/2026",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_47513_TopBottomInsiderActivity_1783334923000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-07-06T10:48:43Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "daily-vickers-top-buyers-sellers-for-07062026-be20b34f",
+      "orig_slug": "daily-vickers-top-buyers-sellers-for-07062026-be20b34f"
+    },
+    {
+      "title": "Micron signs long-term memory chip supply deal with Ford",
+      "link": "https://finance.yahoo.com/technology/articles/micron-signs-long-term-memory-142246950.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-07-06T14:22:46Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/CDDC781BB28A55422DCECE41FDF8ABBA245EDE2533E21A71D5509B5121E0821D/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2F6107238b874636411fe969112468de00",
+      "slug": "micron-signs-long-term-memory-chip-supply-deal-with-ford-21adff12",
+      "orig_slug": "micron-signs-long-term-memory-chip-supply-deal-with-ford-21adff12"
+    },
+    {
+      "title": "Here’s Why The Fund Chose to Exit The Trade Desk (TTD)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-fund-chose-exit-trade-131901560.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-07-06T13:19:01Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/E1BFB67ABF6CF0990CA534DE2A830D1AC9AA988934825270D3AE3AEF3A0F6C9B/subgraphmysterio/resizefill_w1200_h672;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F3d61f0c7d41e0274507c6fcc02699923",
+      "slug": "heres-why-the-fund-chose-to-exit-the-trade-desk-ttd-3650f26b",
+      "orig_slug": "heres-why-the-fund-chose-to-exit-the-trade-desk-ttd-3650f26b"
+    },
+    {
+      "title": "Bitcoin and ethereum prices today, Monday, July 6, 2026: Prices falling after last week's rebound",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-july-6-2026-prices-falling-after-last-weeks-rebound-131307981.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-07-06T13:13:07Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/F889D59C152E773B0F3734909F734689E221D0B41167E42649EC7EC20B9C58CA/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fbitcoin_1_3688.jpg",
+      "slug": "bitcoin-and-ethereum-prices-today-monday-july-6-2026-prices-falling-after-last-w-60f72e74",
+      "orig_slug": "bitcoin-and-ethereum-prices-today-monday-july-6-2026-prices-falling-after-last-w-60f72e74"
+    },
+    {
+      "title": "Tech stocks live: SpaceX stock gets its next catalyst, Samsung earnings on deck",
+      "link": "https://finance.yahoo.com/technology/live/tech-stocks-live-spacex-stock-gets-its-next-catalyst-samsung-earnings-on-deck-131003284.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-07-06T13:10:03Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/27592EF88ADED683266959849C48735780CE8C16816CB785D265869B77675CA4/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F718a9162-3c55-4a33-9cf9-62f184d6696f",
+      "slug": "tech-stocks-live-spacex-stock-gets-its-next-catalyst-samsung-earnings-on-deck-af3832e3",
+      "orig_slug": "tech-stocks-live-spacex-stock-gets-its-next-catalyst-samsung-earnings-on-deck-af3832e3"
+    },
+    {
+      "title": "Strategy Knee-Caps Bitcoin Rally With $216 Million Sale",
+      "link": "https://www.investors.com/news/bitcoin-price-strategy-sells-cryptocurrency-again/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-07-06T13:07:37Z",
+      "image": "",
+      "slug": "strategy-knee-caps-bitcoin-rally-with-216-million-sale-39b5e9de",
+      "orig_slug": "strategy-knee-caps-bitcoin-rally-with-216-million-sale-39b5e9de"
+    },
+    {
+      "title": "Microsoft axes 2% of workforce as 'AI is changing how work gets done'",
+      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-axes-2-workforce-ai-142200787.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-07-06T14:22:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/D7B5836EFD5A3D38E3980F987F96BF4F5059004499823A41CEF1531BF17102BD/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fproactive_us_504%2Fd0442aa378d1945886c8eed8803e1c34",
+      "slug": "microsoft-axes-2-of-workforce-as-ai-is-changing-how-work-gets-done-ca592102",
+      "orig_slug": "microsoft-axes-2-of-workforce-as-ai-is-changing-how-work-gets-done-ca592102"
+    },
+    {
+      "title": "Sellers priced homes at 'aspirational levels' — now listing prices are falling at the fastest pace since 2017",
+      "link": "https://finance.yahoo.com/real-estate/articles/sellers-priced-homes-aspirational-levels-130000828.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-07-06T13:00:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/12EBDB9B08CB5B9724C438C7E6DD8560F7CE88B0B1FF0A0D5A6CB7C8B68C4342/subgraphmysterio/resizefill_w1200_h676;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2F1111453666136835d36eefb320db8335",
+      "slug": "sellers-priced-homes-at-aspirational-levels-now-listing-prices-are-falling-at-th-fbc36a9b",
+      "orig_slug": "sellers-priced-homes-at-aspirational-levels-now-listing-prices-are-falling-at-th-fbc36a9b"
+    },
+    {
+      "title": "Best CD rates today, Monday, July 6, 2026: Lock in up to 4.2% APY",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-july-6-2026-lock-in-up-to-42-apy-100000383.html",
       "source": "finance.yahoo.com",
       "pubDate": "2026-07-06T10:00:00Z",
       "image": "https://s.yimg.com/lo/mysterio/api/39302493DC4AAEA8C4D5072185CE335B8B50BE481AF373365AFA64717945504B/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-07%2Fc47b17e1-4f64-11ef-bcf5-d7c22925c744",
-      "slug": "best-cd-rates-today-monday-july-6-2026-lock-in-up-to-410-apy-5f302615",
-      "orig_slug": "best-cd-rates-today-monday-july-6-2026-lock-in-up-to-410-apy-5f302615"
+      "slug": "best-cd-rates-today-monday-july-6-2026-lock-in-up-to-42-apy-c9644e1d",
+      "orig_slug": "best-cd-rates-today-monday-july-6-2026-lock-in-up-to-42-apy-c9644e1d"
+    },
+    {
+      "title": "Silver prices today, Monday, July 6, 2026: Silver prices  find room to rise following June jobs report",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-july-6-2026-silver-prices-find-room-to-rise-following-june-jobs-report-124226919.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-07-06T12:42:26Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/59DEB4F95D32D8FD1CA6CF2ABB096AE9CD1BB1AAEAEB8FD80BC4DE227306EA64/subgraphmysterio/resizefill_w1200_h854;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-04%2F21b3a190-027e-11ef-bbb5-a0f6297c401d",
+      "slug": "silver-prices-today-monday-july-6-2026-silver-prices-find-room-to-rise-following-fff0dc1a",
+      "orig_slug": "silver-prices-today-monday-july-6-2026-silver-prices-find-room-to-rise-following-fff0dc1a"
+    },
+    {
+      "title": "Gold prices today, Monday, July 6: Higher prices following Thursday's jobs report",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-july-6-higher-prices-following-thursdays-jobs-report-121321784.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-07-06T12:13:21Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/40DE62885478D571B3940CC8DBF7D7953D0AF91FED973280FB26076C21CAAA30/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fmonday.png",
+      "slug": "gold-prices-today-monday-july-6-higher-prices-following-thursdays-jobs-report-fad65ed0",
+      "orig_slug": "gold-prices-today-monday-july-6-higher-prices-following-thursdays-jobs-report-fad65ed0"
+    },
+    {
+      "title": "TeraWulf signs 20-year Anthropic lease for 401 MW at Kentucky data campus, sells Abernathy stake for $530 million",
+      "link": "https://finance.yahoo.com/technology/ai/articles/terawulf-signs-20-anthropic-lease-142016478.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-07-06T14:20:16Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/F4A7B7029ABEDCC79E76364E08A3FB6147C543BA94526A22285A24D505B901A5/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fblockspace_702%2F225a8d9ce6a5a5a735caf79d4669eeb3",
+      "slug": "terawulf-signs-20-year-anthropic-lease-for-401-mw-at-kentucky-data-campus-sells--dd4f956f",
+      "orig_slug": "terawulf-signs-20-year-anthropic-lease-for-401-mw-at-kentucky-data-campus-sells--dd4f956f"
     },
     {
       "title": "Mortgage and refinance rates today, Monday, July 6: Purchase rates currently higher than refi rates",
@@ -344,103 +434,13 @@
       "orig_slug": "mortgage-and-refinance-rates-today-monday-july-6-purchase-rates-currently-higher-02102161"
     },
     {
-      "title": "Oil falls after OPEC+ agrees to raise output targets",
-      "link": "https://finance.yahoo.com/news/oil-slips-opec-agrees-raise-003607304.html",
+      "title": "Wall Street braces for Fed signals as earnings season gets underway",
+      "link": "https://finance.yahoo.com/economy/policy/articles/wall-street-braces-fed-signals-142000211.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T09:55:03Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/7BB5DE8F03E817F234DE96DD9B617BE5DB30CAAC67761D01CE9EE63126F1C15A/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F3f1443efe5ceec3e50d7f5dd466adf32",
-      "slug": "oil-falls-after-opec-agrees-to-raise-output-targets-82098ffb",
-      "orig_slug": "oil-falls-after-opec-agrees-to-raise-output-targets-82098ffb"
-    },
-    {
-      "title": "Suze Orman says planning to work until 65 is a risky strategy — her 2 tips to help you retire when you want",
-      "link": "https://finance.yahoo.com/markets/articles/suze-orman-says-planning-until-095500264.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T09:55:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/1684C64C3A6B31E9DC929E4932E75C2895B311033477AC4E2C0077CA178362D2/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2F79c3bf1c8aa42897af6f2f3e91fc7ca2",
-      "slug": "suze-orman-says-planning-to-work-until-65-is-a-risky-strategy-her-2-tips-to-help-13645995",
-      "orig_slug": "suze-orman-says-planning-to-work-until-65-is-a-risky-strategy-her-2-tips-to-help-13645995"
-    },
-    {
-      "title": "The Stock Market Is Flashing a Warning Signal Seen Only Once Before. Here's What History Says Comes Next.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-flashing-warning-signal-105000067.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T10:50:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/B10A3D5772413842BB606F6D9FB56B2B91B7241D3D71A8071FAD27E5BEE05DD4/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F65f5dbd622dd2aa6945af92be8e6e121",
-      "slug": "the-stock-market-is-flashing-a-warning-signal-seen-only-once-before-heres-what-h-079790f0",
-      "orig_slug": "the-stock-market-is-flashing-a-warning-signal-seen-only-once-before-heres-what-h-079790f0"
-    },
-    {
-      "title": "Indian IT firms face muted Q1 as AI shift, weak demand weigh",
-      "link": "https://finance.yahoo.com/technology/articles/indian-firms-face-muted-q1-094537453.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T09:45:37Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/73D57E1A74B967C51B985EF2A536AF9AA12735B7407EA3E1462F6E5521445D46/subgraphmysterio/resizefill_w1200_h768;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters-finance.com%2Faf79043cf8969cf11c89613feb083ef8",
-      "slug": "indian-it-firms-face-muted-q1-as-ai-shift-weak-demand-weigh-091966dd",
-      "orig_slug": "indian-it-firms-face-muted-q1-as-ai-shift-weak-demand-weigh-091966dd"
-    },
-    {
-      "title": "Cantor Fitzgerald Raises its Price Target on KLA (KLAC)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cantor-fitzgerald-raises-price-target-094225261.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T09:42:25Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/692E8585E789E7E1C837702705891E38DF5B56BCB3E2C89823AC557F202D5552/subgraphmysterio/resizefill_w1200_h801;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fdcf08a9dbb7c3de961dd78d32a01adf8",
-      "slug": "cantor-fitzgerald-raises-its-price-target-on-kla-klac-7579a5ea",
-      "orig_slug": "cantor-fitzgerald-raises-its-price-target-on-kla-klac-7579a5ea"
-    },
-    {
-      "title": "Here’s Why Vertiv (VRT) is Among the 10 Best Pick and Shovel AI Stocks to Invest In",
-      "link": "https://finance.yahoo.com/technology/ai/articles/why-vertiv-vrt-among-10-094217432.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T09:42:17Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/2D6C2DE5589C47469DC0878D2392AEC3661D313B18DA7221F94C1080BB1CFE14/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fc5fec8e53a9b096a2c18985b5efac602",
-      "slug": "heres-why-vertiv-vrt-is-among-the-10-best-pick-and-shovel-ai-stocks-to-invest-in-07a8dd90",
-      "orig_slug": "heres-why-vertiv-vrt-is-among-the-10-best-pick-and-shovel-ai-stocks-to-invest-in-07a8dd90"
-    },
-    {
-      "title": "Ciena (CIEN) Names New Supply Chain and Product Technology Chiefs",
-      "link": "https://finance.yahoo.com/technology/articles/ciena-cien-names-supply-chain-094209739.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T09:42:09Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/D71B08B41C9042E823566FA7CABEE7C228E8DB67FC62B8962CCB549F496B8873/subgraphmysterio/resizefill_w1200_h674;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F1d848c92e75e178d78677c8e74e71ff5",
-      "slug": "ciena-cien-names-new-supply-chain-and-product-technology-chiefs-92332c8c",
-      "orig_slug": "ciena-cien-names-new-supply-chain-and-product-technology-chiefs-92332c8c"
-    },
-    {
-      "title": "The Dividend Portfolio That Pays More Than The Average Rent In America",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dividend-portfolio-pays-more-average-104310739.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T10:43:10Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/C54806FED6FB5AE325B7329D83DC4D52A06B81B9E6FEB8386186EA80B742ED0D/subgraphmysterio/resizefill_w1200_h801;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fb4aec597cc928bf33d385b8fdbcf343f",
-      "slug": "the-dividend-portfolio-that-pays-more-than-the-average-rent-in-america-69b53806",
-      "orig_slug": "the-dividend-portfolio-that-pays-more-than-the-average-rent-in-america-69b53806"
-    },
-    {
-      "title": "'It's a bull market': Wall Street sees more upside in stocks for the second half of 2026",
-      "link": "https://finance.yahoo.com/markets/article/its-a-bull-market-wall-street-sees-more-upside-in-stocks-for-the-second-half-of-2026-120220657.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-07-05T12:02:20Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/18C243581268A3EEC5BA7F95E96493C850FFA36A56968346BF38AF5750ED278D/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F6f96fb6a-f329-45dc-ad38-3988c0ea1138",
-      "slug": "its-a-bull-market-wall-street-sees-more-upside-in-stocks-for-the-second-half-of--78a38151",
-      "orig_slug": "its-a-bull-market-wall-street-sees-more-upside-in-stocks-for-the-second-half-of--78a38151"
-    },
-    {
-      "title": "Barclays Raises its Price Target on Equinix (EQIX)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/barclays-raises-price-target-equinix-094135225.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T09:41:35Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/3D70268FC165E140E11DCEA217C2ACC97C093610DC4AD39033CB452A7D1CC77F/subgraphmysterio/resizefill_w1200_h801;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F6f397e05100d25ea799a24f996c32db4",
-      "slug": "barclays-raises-its-price-target-on-equinix-eqix-4c19690e",
-      "orig_slug": "barclays-raises-its-price-target-on-equinix-eqix-4c19690e"
-    },
-    {
-      "title": "Is Seagate (STX) the Best Pick and Shovel AI Stock to Invest In?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/seagate-stx-best-pick-shovel-094129015.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-07-06T09:41:29Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/DB22B6B30E534DDD19C2EA5B626C2F5086BF3909ACC354EFA1DD74AC28B38090/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F43b99dcec9f41bd1741b56e39fd99da2",
-      "slug": "is-seagate-stx-the-best-pick-and-shovel-ai-stock-to-invest-in-33a49668",
-      "orig_slug": "is-seagate-stx-the-best-pick-and-shovel-ai-stock-to-invest-in-33a49668"
+      "pubDate": "2026-07-06T14:20:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/BDEF6D5985BB4672B6DE540DD593E950B96A92F686895ACFBD2801A9917C573E/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fproactive_us_504%2Fcd7ab807d037a90a9c42fb9867f25ab1",
+      "slug": "wall-street-braces-for-fed-signals-as-earnings-season-gets-underway-38ccd81e",
+      "orig_slug": "wall-street-braces-for-fed-signals-as-earnings-season-gets-underway-38ccd81e"
     }
   ]
 }
