@@ -1,230 +1,14 @@
 {
-  "updated": "2026-08-12T15:50:40Z",
+  "updated": "2026-08-12T16:51:23Z",
   "items": [
     {
-      "title": "Tech stocks today: CoreWeave and Supermicro results win over investors",
-      "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-coreweave-and-supermicro-results-win-over-investors-135605566.html",
+      "title": "Wendy's has a billionaire circling its ailing business",
+      "link": "https://finance.yahoo.com/markets/stocks/article/wendys-has-a-billionaire-circling-its-ailing-business-122815256.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-08-10T13:56:05Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/A310DFB5B0DA11E203AF3B96DC92C1A7224868D5A38ED7171446CF856E288AB0/subgraphmysterio/resizefill_w1200_h810;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-03%2F8ba21670-0be4-11f0-a9fb-2f37ef5ab7c0",
-      "slug": "tech-stocks-today-coreweave-and-supermicro-results-win-over-investors-295fdbd3",
-      "orig_slug": "tech-stocks-today-coreweave-and-supermicro-results-win-over-investors-295fdbd3"
-    },
-    {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq rise after CPI data cools slightly",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-12-dow-sp-500-nasdaq-cpi-report-091555133.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-08-12T09:15:55Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/DDC4900067F9D6D612BCB25D311E47080D8C81C0A9C49C577120FC21ADF4472E/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fgettyimages-2286551787_1034.jpg",
-      "slug": "stock-market-today-dow-sp-500-nasdaq-rise-after-cpi-data-cools-slightly-ab0bef7a",
-      "orig_slug": "stock-market-today-dow-sp-500-nasdaq-rise-after-cpi-data-cools-slightly-ab0bef7a"
-    },
-    {
-      "title": "Wallet check: Food, gas, fun. There's no escaping high prices.",
-      "link": "https://finance.yahoo.com/economy/article/wallet-check-food-gas-fun-theres-no-escaping-high-prices-174715796.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-04-10T17:47:15Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/406A93B4627EC6950870A78C72AD7F97492A4FD487164AD2CCE5B8BDC2B6A46B/subgraphmysterio/resizefill_w1200_h655;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fyahoo-finance-american-wallet-report_3916.jpg",
-      "slug": "wallet-check-food-gas-fun-theres-no-escaping-high-prices-afd46ec9",
-      "orig_slug": "wallet-check-food-gas-fun-theres-no-escaping-high-prices-afd46ec9"
-    },
-    {
-      "title": "The National Debt Is Barreling Toward $50 Trillion. Now Trump May Give Out Massive Tax Cuts to the 1%",
-      "link": "https://finance.yahoo.com/economy/policy/articles/national-debt-barreling-toward-50-152807068.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-08-12T15:28:07Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/06DA1D37B56C48CFE3B59FB8F99293D7AC32D223E0DA4F3CAD0362ADCC92E351/subgraphmysterio/resizefill_w1200_h801;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F8d75c93bd7b9d0787b1326a4acd55e70.jpg",
-      "slug": "the-national-debt-is-barreling-toward-50-trillion-now-trump-may-give-out-massive-b1b54894",
-      "orig_slug": "the-national-debt-is-barreling-toward-50-trillion-now-trump-may-give-out-massive-b1b54894"
-    },
-    {
-      "title": "Stock Market Today: Nasdaq Advances As Lumentum Soars On AI Demand, Earnings Beat (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-july-cpi-inflation-nvidia-partner-coreweave/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-08-12T15:19:11Z",
-      "image": "https://www.investors.com/wp-content/uploads/2017/03/stock-wallstreet-031317-shutter.jpg",
-      "slug": "stock-market-today-nasdaq-advances-as-lumentum-soars-on-ai-demand-earnings-beat--1b2ea880",
-      "orig_slug": "stock-market-today-nasdaq-advances-as-lumentum-soars-on-ai-demand-earnings-beat--1b2ea880"
-    },
-    {
-      "title": "Daily Spotlight: Profit Margins Widening",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_47893_MarketOutlook_1786535027000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-08-12T11:43:47Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-spotlight-profit-margins-widening-518611f4",
-      "orig_slug": "daily-spotlight-profit-margins-widening-518611f4"
-    },
-    {
-      "title": "What is inflation, and how does it affect you?",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/inflation-definition-195527231.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2024-09-06T19:55:27Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/897994AC04D2F82D240CFEEBAB8E4C4BD84CF9435ABD71406C5A61EAA5A0A3A3/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2022-12%2F84bf2b70-73d6-11ed-bbaf-91130779366a",
-      "slug": "what-is-inflation-and-how-does-it-affect-you-43eb6212",
-      "orig_slug": "what-is-inflation-and-how-does-it-affect-you-43eb6212"
-    },
-    {
-      "title": "Ray Dalio: The AI investment game is happening — here's how to play",
-      "link": "https://finance.yahoo.com/markets/articles/ray-dalio-the-ai-investment-game-is-happening--heres-how-to-play-134808570.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-08-12T13:48:08Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/1501D675C67E8D50C7C0856DC205CB48D594BC55A0253DF0426A684238993112/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Fc67f665b-2401-4782-af34-7fad6d6093e2",
-      "slug": "ray-dalio-the-ai-investment-game-is-happening-heres-how-to-play-57301051",
-      "orig_slug": "ray-dalio-the-ai-investment-game-is-happening-heres-how-to-play-57301051"
-    },
-    {
-      "title": "BP p.l.c. (BP) vs. Shell plc (SHEL): Two Oil Majors Cash In on the Iran War, But Tell Different Stories",
-      "link": "https://finance.yahoo.com/energy/articles/bp-p-l-c-bp-151547864.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-08-12T15:15:47Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/CDF3CFD18173558B9B6BF5062AB0B351EC2B92FA82F88AB879596524B07E5C28/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F3d0664fd5d8a0e4eb0d73aed79411511.jpg",
-      "slug": "bp-plc-bp-vs-shell-plc-shel-two-oil-majors-cash-in-on-the-iran-war-but-tell-diff-9c4f7b9a",
-      "orig_slug": "bp-plc-bp-vs-shell-plc-shel-two-oil-majors-cash-in-on-the-iran-war-but-tell-diff-9c4f7b9a"
-    },
-    {
-      "title": "Freddy’s Promotes Rick Petralia to Executive Chef and VP of Training & Innovation",
-      "link": "https://finance.yahoo.com/small-business/articles/freddy-promotes-rick-petralia-executive-152117198.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-08-12T15:21:17Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/48A7C2AA5622DF3DECCD3B081A175F9365D8650C95837B3222824EB41D227A4E/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fqsr_204%2F5ecc090aee54112fe2a2da9910a44a07.png",
-      "slug": "freddys-promotes-rick-petralia-to-executive-chef-and-vp-of-training-innovation-e6059077",
-      "orig_slug": "freddys-promotes-rick-petralia-to-executive-chef-and-vp-of-training-innovation-e6059077"
-    },
-    {
-      "title": "Wintermute Plans $1B AI Infrastructure Push as It Diversifies Beyond Crypto",
-      "link": "https://finance.yahoo.com/technology/ai/articles/wintermute-plans-1b-ai-infrastructure-151400003.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-08-12T15:14:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/A178F99CC3C13C9953C55915B0CF57FCA051D7E78C9B6BB33BF725C70E9C5BC5/subgraphmysterio/resizefill_w1200_h720;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2Ffd006b412ec97729491a6f165169da8d.jpg",
-      "slug": "wintermute-plans-1b-ai-infrastructure-push-as-it-diversifies-beyond-crypto-fe62320e",
-      "orig_slug": "wintermute-plans-1b-ai-infrastructure-push-as-it-diversifies-beyond-crypto-fe62320e"
-    },
-    {
-      "title": "Technical Assessment: Bullish in the Intermediate-Term",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_47895_TechnicalAnalysis_1786534441000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-08-12T11:34:01Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "technical-assessment-bullish-in-the-intermediate-term-288869fb",
-      "orig_slug": "technical-assessment-bullish-in-the-intermediate-term-288869fb"
-    },
-    {
-      "title": "Cerebras Systems (CBRS) Is Uniquely Positioned to Own the Fast Inference Market",
-      "link": "https://finance.yahoo.com/technology/ai/articles/cerebras-systems-cbrs-uniquely-positioned-150720824.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-08-12T15:07:20Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/AE1F7E353842E815464B77665BB83043EE5CED30CCD35A353B9F2F7F5A745211/subgraphmysterio/resizefill_w1200_h672;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F020c3292aa345c924048b73e86bf6873.jpg",
-      "slug": "cerebras-systems-cbrs-is-uniquely-positioned-to-own-the-fast-inference-market-e69fa010",
-      "orig_slug": "cerebras-systems-cbrs-is-uniquely-positioned-to-own-the-fast-inference-market-e69fa010"
-    },
-    {
-      "title": "Global stocks inch up, oil steady before US CPI",
-      "link": "https://finance.yahoo.com/news/oil-gold-prices-rise-geopolitical-021926510.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-08-12T15:05:23Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/BD3B3202B22480E95852EE262C66F4046CB94659D491A8943D3621CCE963BE70/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fe94e70a1948e8cef522204b6a08edf7c.jpg",
-      "slug": "global-stocks-inch-up-oil-steady-before-us-cpi-8c3b6a2b",
-      "orig_slug": "global-stocks-inch-up-oil-steady-before-us-cpi-8c3b6a2b"
-    },
-    {
-      "title": "Nvidia's $70 billion bet on OpenAI, Anthropic, and others could pay off big for shareholders",
-      "link": "https://finance.yahoo.com/markets/stocks/article/nvidias-70-billion-bet-on-openai-anthropic-and-others-could-pay-off-big-for-shareholders-150039868.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-08-12T15:00:39Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/10B1FA4979FEF7C72561470910E24AFAC4CC96B3DEC4F8A882055FDF33173A82/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Fb5afd008-8ead-41f3-ae81-6bb245dceb04",
-      "slug": "nvidias-70-billion-bet-on-openai-anthropic-and-others-could-pay-off-big-for-shar-3a7d68b9",
-      "orig_slug": "nvidias-70-billion-bet-on-openai-anthropic-and-others-could-pay-off-big-for-shar-3a7d68b9"
-    },
-    {
-      "title": "Adobe vs. AppLovin: Which Technology Stock Is a Better Buy in 2026?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/adobe-vs-applovin-technology-stock-152024741.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-08-12T15:20:24Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/206D580DC657145FF294333172573AC7BC6F5F9A85BC49F02F2AF5FE07C001B5/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F0f2b1eedaa6cb7b7366b7b69c8c5bb24.png",
-      "slug": "adobe-vs-applovin-which-technology-stock-is-a-better-buy-in-2026-95a8095d",
-      "orig_slug": "adobe-vs-applovin-which-technology-stock-is-a-better-buy-in-2026-95a8095d"
-    },
-    {
-      "title": "Microsoft Corporation (MSFT) vs. Meta Platforms, Inc. (META): Two Different Bets Behind Big Tech’s $1 Trillion Lease Bill",
-      "link": "https://finance.yahoo.com/technology/articles/microsoft-corporation-msft-vs-meta-150020825.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-08-12T15:00:20Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/B5A1660D25E62DA7AF16AF4A9F825859FCB0FC068ACC3A5F07F08AC922CB291F/subgraphmysterio/resizefill_w1200_h900;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F6e05024de04e2f40c1093571a18bf29f.jpg",
-      "slug": "microsoft-corporation-msft-vs-meta-platforms-inc-meta-two-different-bets-behind--45a8edd3",
-      "orig_slug": "microsoft-corporation-msft-vs-meta-platforms-inc-meta-two-different-bets-behind--45a8edd3"
-    },
-    {
-      "title": "Daily – Vickers Top Buyers & Sellers for 08/12/2026",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_47892_TopBottomInsiderActivity_1786533981000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-08-12T11:26:21Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-vickers-top-buyers-sellers-for-08122026-67cbd80e",
-      "orig_slug": "daily-vickers-top-buyers-sellers-for-08122026-67cbd80e"
-    },
-    {
-      "title": "Baron Opportunity Fund Trimmed Datadog (DDOG) After Rally",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/baron-opportunity-fund-trimmed-datadog-145853537.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-08-12T14:58:53Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/A1DF8FD4F4F93138D14280B9C56DEF927ABB1F37181E72344B59BD30A8E11BEC/subgraphmysterio/resizefill_w1200_h672;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Faf5e05db1d031c52c308c02b2450ccfe.jpg",
-      "slug": "baron-opportunity-fund-trimmed-datadog-ddog-after-rally-ddcb4b09",
-      "orig_slug": "baron-opportunity-fund-trimmed-datadog-ddog-after-rally-ddcb4b09"
-    },
-    {
-      "title": "Commodities Trader Marex Jumps 13% On Earnings, Flashes Buy Signal",
-      "link": "https://www.investors.com/news/marex-stock-commodities-trading-earnings-buy-signal/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-08-12T14:56:12Z",
-      "image": "https://www.investors.com/wp-content/uploads/2026/04/stock-chart-bank-wireframe-adobe.jpg",
-      "slug": "commodities-trader-marex-jumps-13-on-earnings-flashes-buy-signal-8042ef66",
-      "orig_slug": "commodities-trader-marex-jumps-13-on-earnings-flashes-buy-signal-8042ef66"
-    },
-    {
-      "title": "Cooler CPI inflation reading bolsters case for Fed to hold rates in September",
-      "link": "https://finance.yahoo.com/economy/policy/article/cooler-cpi-inflation-reading-bolsters-case-for-fed-to-hold-rates-in-september-125312469.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-08-12T12:53:12Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/56C61E219630EA23B9CA351F744A01A1F766EE96B1B752C2747A4AB587F86A8B/subgraphmysterio/resizefill_w1200_h900;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-07%2F03b87200-8757-11f1-a754-7e31ab63180a",
-      "slug": "cooler-cpi-inflation-reading-bolsters-case-for-fed-to-hold-rates-in-september-a775ae6c",
-      "orig_slug": "cooler-cpi-inflation-reading-bolsters-case-for-fed-to-hold-rates-in-september-a775ae6c"
-    },
-    {
-      "title": "Jamie Dimon Just Issued a Warning About AI Stocks. History Says the Smartest Investors Are Making This 1 Move.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jamie-dimon-just-issued-warning-152000000.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-08-12T15:20:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/16D74D14D0314EBD2DE492BA8ADB2E2FE1E9C6AC0D7729D39E946DF8F8D0B1FC/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fac33fb647a110d67f2768812ebfe6bfa.jpg",
-      "slug": "jamie-dimon-just-issued-a-warning-about-ai-stocks-history-says-the-smartest-inve-74c8df5d",
-      "orig_slug": "jamie-dimon-just-issued-a-warning-about-ai-stocks-history-says-the-smartest-inve-74c8df5d"
-    },
-    {
-      "title": "Here’s Why Baron Opportunity Fund Sold CoStar Group (CSGP)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-baron-opportunity-fund-sold-144559444.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-08-12T14:45:59Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/F8C1F53C69F6ACEBDD81A0F6D1D233844F632F540F9E88A3E36033DF826E5157/subgraphmysterio/resizefill_w1200_h672;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F017174cc5c9e8720a5075e82fe7b59ea.jpg",
-      "slug": "heres-why-baron-opportunity-fund-sold-costar-group-csgp-3364f4bb",
-      "orig_slug": "heres-why-baron-opportunity-fund-sold-costar-group-csgp-3364f4bb"
-    },
-    {
-      "title": "Daily – Vickers Top Insider Picks for 08/12/2026",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_47891_InsiderActivity_1786533981000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-08-12T11:26:21Z",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "daily-vickers-top-insider-picks-for-08122026-d49104fd",
-      "orig_slug": "daily-vickers-top-insider-picks-for-08122026-d49104fd"
-    },
-    {
-      "title": "ArcelorMittal (MT) vs. Microsoft Corporation (MSFT): A Steel Giant Bets Its Future on Azure",
-      "link": "https://finance.yahoo.com/technology/ai/articles/arcelormittal-mt-vs-microsoft-corporation-144304844.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-08-12T14:43:04Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/370BC52B31A677AA00586D3D48D0B5138603C5ABCCC2B28B20FB14DA3E36D749/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F3267e927d87a0ff23a780c91968e2ac7.jpg",
-      "slug": "arcelormittal-mt-vs-microsoft-corporation-msft-a-steel-giant-bets-its-future-on--34836233",
-      "orig_slug": "arcelormittal-mt-vs-microsoft-corporation-msft-a-steel-giant-bets-its-future-on--34836233"
+      "pubDate": "2026-05-12T12:28:15Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/925D44923219A5F30CACC5300DBDCCD3D8DB9CADE7ED0035564D6239561CA4C3/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fgettyimages-2244403005_7330.jpg",
+      "slug": "wendys-has-a-billionaire-circling-its-ailing-business-f40d1343",
+      "orig_slug": "wendys-has-a-billionaire-circling-its-ailing-business-f40d1343"
     },
     {
       "title": "Consumer inflation eased to 3.4% in July, despite recent energy shocks",
@@ -236,139 +20,229 @@
       "orig_slug": "consumer-inflation-eased-to-34-in-july-despite-recent-energy-shocks-11f8bb38"
     },
     {
-      "title": "Nebius Stock Soars 20% As Revenue, EBITDA Beat Estimates",
-      "link": "https://www.investors.com/news/technology/nebius-stock-nbis-nebius-earnings-q22026/?src=A00220&yptr=yahoo",
+      "title": "9 options trading strategies for beginners, ranked by risk",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/options-trading-strategies-163751717.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-08-12T14:39:05Z",
-      "image": "https://www.investors.com/wp-content/uploads/2025/09/Stock-NebiusHQbldg-company.jpg",
-      "slug": "nebius-stock-soars-20-as-revenue-ebitda-beat-estimates-28aba958",
-      "orig_slug": "nebius-stock-soars-20-as-revenue-ebitda-beat-estimates-28aba958"
+      "pubDate": "2026-08-12T16:37:51Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/AD0C6171A884BB9ADE7536B4CB8A9452C3FD350ED8FF8172936415211BEB9BF6/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-09%2Fdff75820-80c0-11ef-b3ef-48ac3772e70a",
+      "slug": "9-options-trading-strategies-for-beginners-ranked-by-risk-d6a4a65d",
+      "orig_slug": "9-options-trading-strategies-for-beginners-ranked-by-risk-d6a4a65d"
     },
     {
-      "title": "Rosenblatt reiterates Galaxy Digital Buy rating and $35 target on Helios ramp",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rosenblatt-reiterates-galaxy-digital-buy-151921197.html",
+      "title": "A $9.1 billion AI deal just changed this Bitcoin miner’s story",
+      "link": "https://finance.yahoo.com/technology/ai/articles/9-1-billion-ai-deal-163722592.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-08-12T15:19:21Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/7519A1EA7E8956F95B6E5213AD469D7448F2E72A823F0B7326210DC5476B4C94/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fblockspace_702%2Fe4e4ec312bc8ad7ca00e605ce2683f49.png",
-      "slug": "rosenblatt-reiterates-galaxy-digital-buy-rating-and-35-target-on-helios-ramp-57462370",
-      "orig_slug": "rosenblatt-reiterates-galaxy-digital-buy-rating-and-35-target-on-helios-ramp-57462370"
+      "pubDate": "2026-08-12T16:37:22Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/97D7DA4889167CFDB9CE7ABDD243917A0F4B859599D7BFF7BD8BABCEF6C90430/subgraphmysterio/resizefill_w1200_h813;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2Fec252765fc08f7a911c4822002b60d38.jpg",
+      "slug": "a-91-billion-ai-deal-just-changed-this-bitcoin-miners-story-07c5e5ed",
+      "orig_slug": "a-91-billion-ai-deal-just-changed-this-bitcoin-miners-story-07c5e5ed"
     },
     {
-      "title": "Micron Technology’s (MU) Competitive Edge in a Rapidly Evolving Industry",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-competitive-edge-143850791.html",
+      "title": "This Bullish Trade Cuts The Price Tag On Access To Highflying Cloudflare Stock",
+      "link": "https://www.investors.com/research/options/cloudflare-stock-net-tech-options-trade-strategy-markets-investing/?src=A00220&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-08-12T14:38:50Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/603FD8789E25A78DD91354C3E45874FA0074A46FF72B66B1592A5ADED9FC342C/subgraphmysterio/resizefill_w1200_h672;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fafcf5be7853f9bb55540400e75ea8114.jpg",
-      "slug": "micron-technologys-mu-competitive-edge-in-a-rapidly-evolving-industry-b931af90",
-      "orig_slug": "micron-technologys-mu-competitive-edge-in-a-rapidly-evolving-industry-b931af90"
+      "pubDate": "2026-08-12T16:35:01Z",
+      "image": "https://www.investors.com/wp-content/uploads/2024/02/Stock-cloudflareapp-03-adobe.jpg",
+      "slug": "this-bullish-trade-cuts-the-price-tag-on-access-to-highflying-cloudflare-stock-aa2f51b9",
+      "orig_slug": "this-bullish-trade-cuts-the-price-tag-on-access-to-highflying-cloudflare-stock-aa2f51b9"
     },
     {
-      "title": "Analyst Report: Monster Beverage Corp",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_3631_AnalystReport_1786528469000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "title": "Stock Market Today: Nasdaq Leads Charge As Aerospace Name Breaks Out To Highs (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-july-cpi-inflation-nvidia-partner-coreweave/?src=A00220&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-08-12T09:54:29Z",
+      "pubDate": "2026-08-12T16:33:59Z",
+      "image": "https://www.investors.com/wp-content/uploads/2024/09/Stock-wallstreetflags-10-adobe.jpg",
+      "slug": "stock-market-today-nasdaq-leads-charge-as-aerospace-name-breaks-out-to-highs-liv-1b2ea880",
+      "orig_slug": "stock-market-today-nasdaq-leads-charge-as-aerospace-name-breaks-out-to-highs-liv-1b2ea880"
+    },
+    {
+      "title": "Oil prices dip as investors weigh lower demand forecasts against US-Iran talks deadlock",
+      "link": "https://finance.yahoo.com/news/oil-rises-doubts-over-us-063114070.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-08-12T16:31:36Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/9C003E31045A9C840A0DAD397F733D663E99D233EE5060F56831E788B6CCDE9B/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Ff05d6f7de45fecb39f5cd65fb118d8f3.jpg",
+      "slug": "oil-prices-dip-as-investors-weigh-lower-demand-forecasts-against-us-iran-talks-d-8456adb3",
+      "orig_slug": "oil-prices-dip-as-investors-weigh-lower-demand-forecasts-against-us-iran-talks-d-8456adb3"
+    },
+    {
+      "title": "24% of AI job interviews now happen between 10 p.m. and 2 a.m. — but many applicants hate robot chats",
+      "link": "https://finance.yahoo.com/technology/ai/articles/24-ai-job-interviews-now-163000825.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-08-12T16:30:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/8A68519B8A5DD9EC830DC1AA0808BE680B3845691108F3BBC3ECF3B782341256/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2F56fffbbab754e547037470de98d385ce.jpg",
+      "slug": "24-of-ai-job-interviews-now-happen-between-10-pm-and-2-am-but-many-applicants-ha-1b583382",
+      "orig_slug": "24-of-ai-job-interviews-now-happen-between-10-pm-and-2-am-but-many-applicants-ha-1b583382"
+    },
+    {
+      "title": "Prediction: This Storage Stock Could Be a Surprising AI Winner",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-storage-stock-could-surprising-163009932.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-08-12T16:30:09Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/5FAF0200751EDCAA25C604CB2EBCC414B7AEE7D8D2C7DDE463259E058250316B/subgraphmysterio/resizefill_w1200_h600;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fca6d8745c3411a16519d02e088c679b1.jpg",
+      "slug": "prediction-this-storage-stock-could-be-a-surprising-ai-winner-b727f272",
+      "orig_slug": "prediction-this-storage-stock-could-be-a-surprising-ai-winner-b727f272"
+    },
+    {
+      "title": "Alico 3Q Revenue Jumps on Booming Land Management Strategy – Quarterly Update Report",
+      "link": "https://finance.yahoo.com/real-estate/articles/alico-3q-revenue-jumps-booming-162347279.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-08-12T16:23:47Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/299028578C7C0C9FEE49E50B1BA2920D495B0587830B220AD24A03EB3B0F257A/subgraphmysterio/resizefill_w1200_h4746;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fexec_edge_220%2F692f92d083f746b40986d08a6ae97190.png",
+      "slug": "alico-3q-revenue-jumps-on-booming-land-management-strategy-quarterly-update-repo-a89af958",
+      "orig_slug": "alico-3q-revenue-jumps-on-booming-land-management-strategy-quarterly-update-repo-a89af958"
+    },
+    {
+      "title": "Daily Spotlight: Profit Margins Widening",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_47893_MarketOutlook_1786535027000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-08-12T11:43:47Z",
       "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "analyst-report-monster-beverage-corp-0cea605f",
-      "orig_slug": "analyst-report-monster-beverage-corp-0cea605f"
+      "slug": "daily-spotlight-profit-margins-widening-518611f4",
+      "orig_slug": "daily-spotlight-profit-margins-widening-518611f4"
     },
     {
-      "title": "Tokenization Promises To Break Trading Barriers. What Investors Need To Know.",
-      "link": "https://www.investors.com/news/tokenization-blockchain-stock-trading/?src=A00220&yptr=yahoo",
+      "title": "Gas prices have never been this high in mid-August",
+      "link": "https://finance.yahoo.com/markets/article/gas-prices-have-never-been-this-high-in-mid-august-161923583.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-08-12T14:38:13Z",
-      "image": "https://www.investors.com/wp-content/uploads/2026/08/A1MAIN_tokenization_08172026_krause.jpg",
-      "slug": "tokenization-promises-to-break-trading-barriers-what-investors-need-to-know-92c5c309",
-      "orig_slug": "tokenization-promises-to-break-trading-barriers-what-investors-need-to-know-92c5c309"
+      "pubDate": "2026-08-12T16:19:23Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/0782E04AC43604D50E559F61F1B53D8FA2F84321213E098977E5E7EB5CA80D86/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F2d8160db-d711-4085-a60c-dc732e58cc41",
+      "slug": "gas-prices-have-never-been-this-high-in-mid-august-bd849f16",
+      "orig_slug": "gas-prices-have-never-been-this-high-in-mid-august-bd849f16"
     },
     {
-      "title": "Space Exploration Technologies Corp (SPCX) Leads Fund’s Performance Following Historic Initial Public Offering",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/space-exploration-technologies-corp-spcx-143556597.html",
+      "title": "Aluminum Stock Briefly Tops Buy Point. Earnings Surge 357% Amid Strong Trends.",
+      "link": "https://www.investors.com/news/aluminum-stock-briefly-tops-buy-point-earnings-surge-357-amid-strong-trends/?src=A00220&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-08-12T14:35:56Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/C9DE4161450C82FAA46C2D93190C027B793A4C1D729E8FB9788B6EAEBD646517/subgraphmysterio/resizefill_w1200_h672;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Ffcabf0390d70fece2b538811c3cfc620.jpg",
-      "slug": "space-exploration-technologies-corp-spcx-leads-funds-performance-following-histo-7e83217f",
-      "orig_slug": "space-exploration-technologies-corp-spcx-leads-funds-performance-following-histo-7e83217f"
+      "pubDate": "2026-08-12T16:14:56Z",
+      "image": "https://www.investors.com/wp-content/uploads/2018/04/Stock-Aluminum-04-adobe.jpg",
+      "slug": "aluminum-stock-briefly-tops-buy-point-earnings-surge-357-amid-strong-trends-a335d26b",
+      "orig_slug": "aluminum-stock-briefly-tops-buy-point-earnings-surge-357-amid-strong-trends-a335d26b"
     },
     {
-      "title": "Paramount Skydance Corporation (PSKY) vs. Warner Bros. Discovery, Inc. (WBD): A Deal Stuck in Legal Limbo",
-      "link": "https://finance.yahoo.com/media-advertising/articles/paramount-skydance-corporation-psky-vs-143126843.html",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq rise after CPI data cools slightly",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-12-dow-sp-500-nasdaq-cpi-report-091555133.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-08-12T14:31:26Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/A2D3C760446CAA9F8628F680BBB842D2AF5D9548DD8894D654D75445F5FB0CE8/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F4a6b334809f82e9964ce2cadf4f50a7f.jpg",
-      "slug": "paramount-skydance-corporation-psky-vs-warner-bros-discovery-inc-wbd-a-deal-stuc-0f26ef81",
-      "orig_slug": "paramount-skydance-corporation-psky-vs-warner-bros-discovery-inc-wbd-a-deal-stuc-0f26ef81"
+      "pubDate": "2026-08-12T09:15:55Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/DDC4900067F9D6D612BCB25D311E47080D8C81C0A9C49C577120FC21ADF4472E/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fgettyimages-2286551787_1034.jpg",
+      "slug": "stock-market-today-dow-sp-500-nasdaq-rise-after-cpi-data-cools-slightly-ab0bef7a",
+      "orig_slug": "stock-market-today-dow-sp-500-nasdaq-rise-after-cpi-data-cools-slightly-ab0bef7a"
     },
     {
-      "title": "Does Palantir’s Agentic Moat Finally Justify Its Premium Valuation Multiple?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/does-palantir-agentic-moat-finally-151808463.html",
+      "title": "Southwest Gas (SWX) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/southwest-gas-swx-q2-2026-162822655.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-08-12T15:18:08Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/38CCEDBB78186FB771A56790B7EAA2703453C8BDAC8B495580EB674BC2CC7C7B/subgraphmysterio/resizefill_w1200_h900;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F0863cf51673406817292ac5634f0c195.jpg",
-      "slug": "does-palantirs-agentic-moat-finally-justify-its-premium-valuation-multiple-c181be3a",
-      "orig_slug": "does-palantirs-agentic-moat-finally-justify-its-premium-valuation-multiple-c181be3a"
+      "pubDate": "2026-08-12T16:28:22Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/E291E5744742B27639572F2CD0432FD00A265DC302A2C312504B80A58B971163/subgraphmysterio/resizefill_w1200_h1281;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fe48e86dda35543079ee2080fd9208b73.png",
+      "slug": "southwest-gas-swx-q2-2026-earnings-call-transcript-f8efdbc7",
+      "orig_slug": "southwest-gas-swx-q2-2026-earnings-call-transcript-f8efdbc7"
     },
     {
-      "title": "IBD 50 Stocks To Watch: Obesity Drug Giant Eli Lilly Offers New Buy Point",
-      "link": "https://www.investors.com/research/eli-lilly-stock-lly-buy-point/?src=A00220&yptr=yahoo",
+      "title": "Stock Of The Day: Boeing, Airbus Supplier Soars 15% On Earnings, Flashing Buy Signals",
+      "link": "https://www.investors.com/research/ibd-stock-of-the-day/boeing-supplier-astronics-stock-earnings-buy-signals/?src=A00220&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-08-12T14:29:08Z",
-      "image": "https://www.investors.com/wp-content/uploads/2024/09/Stock-EliLilly-building-04-shutt.jpg",
-      "slug": "ibd-50-stocks-to-watch-obesity-drug-giant-eli-lilly-offers-new-buy-point-5b01205f",
-      "orig_slug": "ibd-50-stocks-to-watch-obesity-drug-giant-eli-lilly-offers-new-buy-point-5b01205f"
+      "pubDate": "2026-08-12T15:59:12Z",
+      "image": "https://www.investors.com/wp-content/uploads/2026/08/sotd-for-08-12-2026-desktop.png",
+      "slug": "stock-of-the-day-boeing-airbus-supplier-soars-15-on-earnings-flashing-buy-signal-b910f09c",
+      "orig_slug": "stock-of-the-day-boeing-airbus-supplier-soars-15-on-earnings-flashing-buy-signal-b910f09c"
     },
     {
-      "title": "Analyst Report: Restaurant Brands Intl Inc",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_4658_AnalystReport_1786528469000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "title": "Technical Assessment: Bullish in the Intermediate-Term",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_47895_TechnicalAnalysis_1786534441000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-08-12T09:54:29Z",
+      "pubDate": "2026-08-12T11:34:01Z",
       "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "analyst-report-restaurant-brands-intl-inc-bb09a480",
-      "orig_slug": "analyst-report-restaurant-brands-intl-inc-bb09a480"
+      "slug": "technical-assessment-bullish-in-the-intermediate-term-288869fb",
+      "orig_slug": "technical-assessment-bullish-in-the-intermediate-term-288869fb"
     },
     {
-      "title": "Operational Traction Restores Investors’ Confidence in Cracker Barrel Old Country Store (CBRL)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/operational-traction-restores-investors-confidence-142809528.html",
+      "title": "National Vision Raises Outlook as Higher-Value Customers Fuel Breakout Quarter",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/national-vision-raises-outlook-higher-155813048.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-08-12T14:28:09Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/2C14C34FE2EF191A5B0D2E5CB000C6363CBD51D69643CA77B47563A830751508/subgraphmysterio/resizefill_w1200_h672;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fc45674b9a4a479317604c4bad5fb818e.jpg",
-      "slug": "operational-traction-restores-investors-confidence-in-cracker-barrel-old-country-16cbf645",
-      "orig_slug": "operational-traction-restores-investors-confidence-in-cracker-barrel-old-country-16cbf645"
+      "pubDate": "2026-08-12T15:58:13Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/86EB4C0CD8A806739A7AA6548D44C388B4B5FEBC4964B8C43A9AB07DAF0944A9/subgraphmysterio/resizefill_w1200_h633;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fexec_edge_220%2Fdd22f026b6fb166349612bfc03490390.jpg",
+      "slug": "national-vision-raises-outlook-as-higher-value-customers-fuel-breakout-quarter-5d31949e",
+      "orig_slug": "national-vision-raises-outlook-as-higher-value-customers-fuel-breakout-quarter-5d31949e"
     },
     {
-      "title": "Trimble sees freight ‘green shoots’ as transportation revenue rises 5%",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/trimble-sees-freight-green-shoots-142517760.html",
+      "title": "Best credit cards with no annual fee for August 2026",
+      "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-with-no-annual-fee-204747522.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-08-12T14:25:17Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/2E3B32A94C614E2489CA7CCFC8A2EAB23917C659A16E5DC678E12329168E4BFE/subgraphmysterio/resizefill_w1200_h674;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffreightwaves_373%2F4a7be84c22ec87dd88ea7447d603195c.jpg",
-      "slug": "trimble-sees-freight-green-shoots-as-transportation-revenue-rises-5-9cd759fe",
-      "orig_slug": "trimble-sees-freight-green-shoots-as-transportation-revenue-rises-5-9cd759fe"
+      "pubDate": "2024-11-25T20:47:47Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/95EBC8BED1C3AA02F3261823A2A3E98944BCC9B60F6E37F123F0F11E80C58EB2/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-11%2F05e25e20-3de1-11ec-9bce-04922239121e",
+      "slug": "best-credit-cards-with-no-annual-fee-for-august-2026-c5b55306",
+      "orig_slug": "best-credit-cards-with-no-annual-fee-for-august-2026-c5b55306"
     },
     {
-      "title": "What Makes Itron (ITRI) a Strong Investment Bet?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/makes-itron-itri-strong-investment-142417604.html",
+      "title": "The best balance transfer credit cards for August 2026: Don't pay any interest until 2027",
+      "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-balance-transfer-credit-cards-0-introductory-apr-150104640.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-08-12T14:24:17Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/F92431EF369552A29E03CCAFFCCEC596CD08FC5615E854CE2768F1CD11EBC444/subgraphmysterio/resizefill_w1200_h672;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fb82755807c275ab9e310ffb14f92c318.jpg",
-      "slug": "what-makes-itron-itri-a-strong-investment-bet-2e4a1a94",
-      "orig_slug": "what-makes-itron-itri-a-strong-investment-bet-2e4a1a94"
+      "pubDate": "2026-05-08T15:01:04Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/CD8FBEB4AE4699F14F3F804DB42908508BC07D2533EDEB72A0C70C730C8EE9DC/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-06%2Fba607ca0-3fc8-11f0-acff-f1e51286ad06",
+      "slug": "the-best-balance-transfer-credit-cards-for-august-2026-dont-pay-any-interest-unt-836c311a",
+      "orig_slug": "the-best-balance-transfer-credit-cards-for-august-2026-dont-pay-any-interest-unt-836c311a"
     },
     {
-      "title": "AI infrastructure stocks surge after strong earnings from CoreWeave, Supermicro",
-      "link": "https://finance.yahoo.com/markets/article/ai-infrastructure-stocks-surge-after-strong-earnings-from-coreweave-supermicro-142304399.html",
+      "title": "Clear Secure (YOU) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/clear-secure-q2-2026-earnings-162820949.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-08-12T14:23:04Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/4246C03D77206973D47EDF70A0D7356A49E09E8CF62049B5EDAAD618ACFC5DF4/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F8752caad-6daa-4ceb-953c-79425914254b",
-      "slug": "ai-infrastructure-stocks-surge-after-strong-earnings-from-coreweave-supermicro-539c449a",
-      "orig_slug": "ai-infrastructure-stocks-surge-after-strong-earnings-from-coreweave-supermicro-539c449a"
+      "pubDate": "2026-08-12T16:28:20Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/E291E5744742B27639572F2CD0432FD00A265DC302A2C312504B80A58B971163/subgraphmysterio/resizefill_w1200_h1281;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fe48e86dda35543079ee2080fd9208b73.png",
+      "slug": "clear-secure-you-q2-2026-earnings-call-transcript-9c6d9f43",
+      "orig_slug": "clear-secure-you-q2-2026-earnings-call-transcript-9c6d9f43"
     },
     {
-      "title": "Analyst Report: Hershey Co/The",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_3064_AnalystReport_1786528469000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "title": "What happens if you exceed your credit limit, and how to avoid doing so — even if you can pay it off",
+      "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/what-happens-if-you-exceed-your-credit-limit-180743802.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-08-12T09:54:29Z",
+      "pubDate": "2024-09-30T18:07:43Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/BCF489610BBCF201D6E746A2AE831AC20FB88EA32B32019D56B0A589541B811E/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-09%2F46ed61f0-7c43-11ef-a7fd-3bc5784052da",
+      "slug": "what-happens-if-you-exceed-your-credit-limit-and-how-to-avoid-doing-so-even-if-y-6c928e66",
+      "orig_slug": "what-happens-if-you-exceed-your-credit-limit-and-how-to-avoid-doing-so-even-if-y-6c928e66"
+    },
+    {
+      "title": "Daily – Vickers Top Buyers & Sellers for 08/12/2026",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_47892_TopBottomInsiderActivity_1786533981000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-08-12T11:26:21Z",
       "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "analyst-report-hershey-cothe-0ad1a15a",
-      "orig_slug": "analyst-report-hershey-cothe-0ad1a15a"
+      "slug": "daily-vickers-top-buyers-sellers-for-08122026-67cbd80e",
+      "orig_slug": "daily-vickers-top-buyers-sellers-for-08122026-67cbd80e"
+    },
+    {
+      "title": "Will the housing market crash in 2026? Here's what we know",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/will-the-housing-market-crash-in-2026-heres-what-we-know-170038540.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2024-07-05T17:00:38Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/EA7DC2CC543D20D607AB4EFB4C263080AC6A98B47B265BC43C9C5A3B4EB98A72/subgraphmysterio/resizefill_w1200_h713;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2022-07%2F138404d0-0ed7-11ed-bef5-60fe919b9f35",
+      "slug": "will-the-housing-market-crash-in-2026-heres-what-we-know-735688f1",
+      "orig_slug": "will-the-housing-market-crash-in-2026-heres-what-we-know-735688f1"
+    },
+    {
+      "title": "How to request a lower credit card minimum payment",
+      "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/how-to-lower-minimum-payment-on-credit-card-210604122.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2024-07-01T21:06:04Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/B4796595C7C3EC4BA2E65BCAF10A5E7C7B375050D512EC8CDDAE7DFA2C42544C/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-04%2Fdc915550-06a4-11ef-b5ef-9df83c058d63",
+      "slug": "how-to-request-a-lower-credit-card-minimum-payment-fbb445ad",
+      "orig_slug": "how-to-request-a-lower-credit-card-minimum-payment-fbb445ad"
+    },
+    {
+      "title": "The best credit cards for August: See our picks for the top cash-back, rewards, travel cards, and more",
+      "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-card-202825345.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2024-09-12T20:09:33Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/B854DB0BD7D56249EBEEF5A99E5D27DA0EC438782BD7BA7AE3D9F6EC384960F7/subgraphmysterio/resizefill_w1200_h900;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-01%2Ff0069ff0-ea73-11f0-9dff-19921665d97d",
+      "slug": "the-best-credit-cards-for-august-see-our-picks-for-the-top-cash-back-rewards-tra-7dfbba06",
+      "orig_slug": "the-best-credit-cards-for-august-see-our-picks-for-the-top-cash-back-rewards-tra-7dfbba06"
+    },
+    {
+      "title": "Vishay (VSH) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/vishay-vsh-q2-2026-earnings-162820325.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-08-12T16:28:20Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/E291E5744742B27639572F2CD0432FD00A265DC302A2C312504B80A58B971163/subgraphmysterio/resizefill_w1200_h1281;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fe48e86dda35543079ee2080fd9208b73.png",
+      "slug": "vishay-vsh-q2-2026-earnings-call-transcript-c4429ed3",
+      "orig_slug": "vishay-vsh-q2-2026-earnings-call-transcript-c4429ed3"
     },
     {
       "title": "Seniors could see a bigger raise in 2027, according to new Social Security COLA estimate",
@@ -378,6 +252,123 @@
       "image": "https://s.yimg.com/lo/mysterio/api/1B6C7A963B2725EC467AA1B9E30EEC5AEBB1CC5C8CD1208BCFBE95722EDAAE62/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Fd9629d2a-da80-4958-8fd9-6308bd3f0760",
       "slug": "seniors-could-see-a-bigger-raise-in-2027-according-to-new-social-security-cola-e-a32c4d8e",
       "orig_slug": "seniors-could-see-a-bigger-raise-in-2027-according-to-new-social-security-cola-e-a32c4d8e"
+    },
+    {
+      "title": "Daily – Vickers Top Insider Picks for 08/12/2026",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_47891_InsiderActivity_1786533981000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-08-12T11:26:21Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "daily-vickers-top-insider-picks-for-08122026-d49104fd",
+      "orig_slug": "daily-vickers-top-insider-picks-for-08122026-d49104fd"
+    },
+    {
+      "title": "Best business credit cards for August 2026: Save money for your small business",
+      "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-business-credit-cards-181831412.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2024-09-11T23:26:44Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/B35B711894291D2362593687486155028B07714CBFAFFB791D6770A51AAE0449/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2023-01%2Ffe195f40-a4cd-11ed-b757-5aaab805addf",
+      "slug": "best-business-credit-cards-for-august-2026-save-money-for-your-small-business-e52b2e3d",
+      "orig_slug": "best-business-credit-cards-for-august-2026-save-money-for-your-small-business-e52b2e3d"
+    },
+    {
+      "title": "Inflation pulls back slightly in July. Is that good news for mortgage rates?",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/inflation-pulls-back-slightly-in-july-is-that-good-news-for-mortgage-rates-173028177.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2024-09-06T17:30:28Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/51EA088F839FF256199543DC9EF9E229C58579D3A19A16F1AF31AA53315A1479/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-02%2Fa35359f0-1331-11f1-afeb-dc200d9c1b76",
+      "slug": "inflation-pulls-back-slightly-in-july-is-that-good-news-for-mortgage-rates-d17a9878",
+      "orig_slug": "inflation-pulls-back-slightly-in-july-is-that-good-news-for-mortgage-rates-d17a9878"
+    },
+    {
+      "title": "How Internal AI Efficiency Unlocks Guidewire Software’s (GWRE) Profitability?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/internal-ai-efficiency-unlocks-guidewire-154603970.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-08-12T15:46:03Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/32BDA69B75EF3C9E74EDE97492D57C82FB0FD3B062D4CD44B56038A09C9FCBED/subgraphmysterio/resizefill_w1200_h672;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F50159b0052152000cc8eae6a5bc1d01c.jpg",
+      "slug": "how-internal-ai-efficiency-unlocks-guidewire-softwares-gwre-profitability-1d45f419",
+      "orig_slug": "how-internal-ai-efficiency-unlocks-guidewire-softwares-gwre-profitability-1d45f419"
+    },
+    {
+      "title": "Tesla And BYD Are Reframing An Age Old Stock Market Question",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-byd-reframing-age-old-162551445.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-08-12T16:25:51Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/CF69BB9704F48C3023B32488138869DFCC13D4BBB7237CCD434F15EB7B3E62AE/subgraphmysterio/resizefill_w1200_h674;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F8edfae04a2f216c9713450ced296bc05.jpg",
+      "slug": "tesla-and-byd-are-reframing-an-age-old-stock-market-question-417644c8",
+      "orig_slug": "tesla-and-byd-are-reframing-an-age-old-stock-market-question-417644c8"
+    },
+    {
+      "title": "Why No. 2 IBD 50 Stock, Liquidia, Dropped Despite Its Sales Beat",
+      "link": "https://www.investors.com/news/technology/liquidia-stock-liquidia-earnings-q2-2026/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-08-12T15:40:38Z",
+      "image": "https://www.investors.com/wp-content/uploads/2024/06/Stock-Liquidia-01-shutt.jpg",
+      "slug": "why-no-2-ibd-50-stock-liquidia-dropped-despite-its-sales-beat-a6b7c5ec",
+      "orig_slug": "why-no-2-ibd-50-stock-liquidia-dropped-despite-its-sales-beat-a6b7c5ec"
+    },
+    {
+      "title": "Tech stocks today: CoreWeave and Supermicro results win over investors",
+      "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-coreweave-and-supermicro-results-win-over-investors-135605566.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-08-10T13:56:05Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/A310DFB5B0DA11E203AF3B96DC92C1A7224868D5A38ED7171446CF856E288AB0/subgraphmysterio/resizefill_w1200_h810;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-03%2F8ba21670-0be4-11f0-a9fb-2f37ef5ab7c0",
+      "slug": "tech-stocks-today-coreweave-and-supermicro-results-win-over-investors-295fdbd3",
+      "orig_slug": "tech-stocks-today-coreweave-and-supermicro-results-win-over-investors-295fdbd3"
+    },
+    {
+      "title": "Lumentum Earnings Top Estimates Amid Supply Chain Constraints",
+      "link": "https://www.investors.com/news/technology/lumentum-stock-lite-lumenum-earnings-news-q22026/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-08-12T15:35:25Z",
+      "image": "https://www.investors.com/wp-content/uploads/2020/05/Stock-Lumentum-03-shutt.jpg",
+      "slug": "lumentum-earnings-top-estimates-amid-supply-chain-constraints-c54b9189",
+      "orig_slug": "lumentum-earnings-top-estimates-amid-supply-chain-constraints-c54b9189"
+    },
+    {
+      "title": "Hyperliquid Turns to CFTC for Path Into U.S. Perpetual Futures Market",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/hyperliquid-turns-cftc-path-u-153400685.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-08-12T15:34:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/283DB753C2C82C0DAC85AD8CFF6FE4C17FD8FA2AD7CE5E385DE4FD9FFC2CCC73/subgraphmysterio/resizefill_w1200_h720;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F47971eceee85dd4ba01e4813b622d32a.jpg",
+      "slug": "hyperliquid-turns-to-cftc-for-path-into-us-perpetual-futures-market-37035f44",
+      "orig_slug": "hyperliquid-turns-to-cftc-for-path-into-us-perpetual-futures-market-37035f44"
+    },
+    {
+      "title": "Warren Buffett and Greg Abel's Alphabet Stake Now Tops $24.2 Billion: 3 Reasons Berkshire Will Keep Buying",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-greg-abels-alphabet-162000618.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-08-12T16:20:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/0197FFC166207FCED1FBCF8AAF2B3FEEBFCF41036AE275E5F81E34135CA46FCB/subgraphmysterio/resizefill_w1200_h760;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Ff438cb73eeafff28245a112cee444cde.png",
+      "slug": "warren-buffett-and-greg-abels-alphabet-stake-now-tops-242-billion-3-reasons-berk-3a204f32",
+      "orig_slug": "warren-buffett-and-greg-abels-alphabet-stake-now-tops-242-billion-3-reasons-berk-3a204f32"
+    },
+    {
+      "title": "Wallet check: Food, gas, fun. There's no escaping high prices.",
+      "link": "https://finance.yahoo.com/economy/article/wallet-check-food-gas-fun-theres-no-escaping-high-prices-174715796.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-04-10T17:47:15Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/406A93B4627EC6950870A78C72AD7F97492A4FD487164AD2CCE5B8BDC2B6A46B/subgraphmysterio/resizefill_w1200_h655;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fyahoo-finance-american-wallet-report_3916.jpg",
+      "slug": "wallet-check-food-gas-fun-theres-no-escaping-high-prices-afd46ec9",
+      "orig_slug": "wallet-check-food-gas-fun-theres-no-escaping-high-prices-afd46ec9"
+    },
+    {
+      "title": "Analyst Report: Viavi Solutions Inc",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_3103_AnalystReport_1786528469000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-08-12T09:54:29Z",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "slug": "analyst-report-viavi-solutions-inc-89189070",
+      "orig_slug": "analyst-report-viavi-solutions-inc-89189070"
+    },
+    {
+      "title": "What is inflation, and how does it affect you?",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/inflation-definition-195527231.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2024-09-06T19:55:27Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/897994AC04D2F82D240CFEEBAB8E4C4BD84CF9435ABD71406C5A61EAA5A0A3A3/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2022-12%2F84bf2b70-73d6-11ed-bbaf-91130779366a",
+      "slug": "what-is-inflation-and-how-does-it-affect-you-43eb6212",
+      "orig_slug": "what-is-inflation-and-how-does-it-affect-you-43eb6212"
     },
     {
       "title": "Protective puts: How to hedge a portfolio with options",
@@ -398,13 +389,13 @@
       "orig_slug": "what-is-a-covered-call-how-this-options-income-strategy-works-e64f70f5"
     },
     {
-      "title": "GeoPark (GPRK) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/geopark-gprk-q2-2026-earnings-151622107.html",
+      "title": "Brink's (BCO) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/brinks-bco-q2-2026-earnings-161745462.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-08-12T15:16:22Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/4DB848F3883357D440BBA497AB43FD51EBC98B573C3FC535F97A93E5867FE1B4/subgraphmysterio/resizefill_w1200_h1281;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fa726d4819c9ce56f8dbd126ba4eb20c8.png",
-      "slug": "geopark-gprk-q2-2026-earnings-call-transcript-39fd4c0b",
-      "orig_slug": "geopark-gprk-q2-2026-earnings-call-transcript-39fd4c0b"
+      "pubDate": "2026-08-12T16:17:45Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/E291E5744742B27639572F2CD0432FD00A265DC302A2C312504B80A58B971163/subgraphmysterio/resizefill_w1200_h1281;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fe48e86dda35543079ee2080fd9208b73.png",
+      "slug": "brinks-bco-q2-2026-earnings-call-transcript-02c69d6f",
+      "orig_slug": "brinks-bco-q2-2026-earnings-call-transcript-02c69d6f"
     },
     {
       "title": "How do I get the lowest mortgage rate? 8 tips you can use.",
@@ -416,13 +407,13 @@
       "orig_slug": "how-do-i-get-the-lowest-mortgage-rate-8-tips-you-can-use-8961151e"
     },
     {
-      "title": "Analyst Report: Fiserv Inc",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_2972_AnalystReport_1786528469000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "title": "Analyst Report: Monster Beverage Corp",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_3631_AnalystReport_1786528469000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "source": "finance.yahoo.com",
       "pubDate": "2026-08-12T09:54:29Z",
       "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "slug": "analyst-report-fiserv-inc-46461362",
-      "orig_slug": "analyst-report-fiserv-inc-46461362"
+      "slug": "analyst-report-monster-beverage-corp-0cea605f",
+      "orig_slug": "analyst-report-monster-beverage-corp-0cea605f"
     },
     {
       "title": "Bitcoin and ethereum prices today, Wednesday, August 12, 2026:  Crypto prices rise with CPI report on deck",
