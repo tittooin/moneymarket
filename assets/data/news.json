@@ -1,311 +1,86 @@
 {
-  "updated": "2026-09-04T23:33:43Z",
+  "updated": "2026-09-05T01:54:45Z",
   "items": [
     {
-      "title": "Rivian Announced That Its CFO Is Stepping Down. How Investors Should View the Departure.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-announced-cfo-stepping-down-162015877.html",
+      "title": "How High Can World Sugar Futures Rise?",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/high-world-sugar-futures-rise-190003341.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-09-03T16:20:15Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/2ce67c0346a583e10dc2001d58d4ac16fc2a64285a6e37a709e613e18379f6f5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F74a21e19708890cbe33511da2beceff5.jpg",
-      "slug": "rivian-announced-that-its-cfo-is-stepping-down-how-investors-should-view-the-dep-a9f4195d",
-      "orig_slug": "rivian-announced-that-its-cfo-is-stepping-down-how-investors-should-view-the-dep-a9f4195d"
+      "pubDate": "2026-09-03T19:00:03Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/645ec1b9ab1cad9ac2baa06798fad2d524991d6337cc3c6b26f16b22a6fec3b0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2Fc5300b7d23e6bd10d34eea1917136bcf.jpg",
+      "slug": "how-high-can-world-sugar-futures-rise-3d7141f9",
+      "orig_slug": "how-high-can-world-sugar-futures-rise-3d7141f9"
     },
     {
-      "title": "HubSpot CEO Rangan Yamini Sells 2,622 Shares for Tax Obligations",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hubspot-ceo-rangan-yamini-sells-162001905.html",
+      "title": "Jim Cramer Explains Why CrowdStrike (CRWD) Upended the Tech Bear Thesis",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-why-crowdstrike-185416478.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-09-03T16:20:01Z",
+      "pubDate": "2026-09-03T18:54:16Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/9820941012d9dda36efc4bfa15033c9939432abe04bedba347aa94bdcfbdd487/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F3fe61364b95991c98978f250ba7bea2c.png",
+      "slug": "jim-cramer-explains-why-crowdstrike-crwd-upended-the-tech-bear-thesis-feb17747",
+      "orig_slug": "jim-cramer-explains-why-crowdstrike-crwd-upended-the-tech-bear-thesis-feb17747"
+    },
+    {
+      "title": "Peter Thiel’s Fund Disclosed $59 Million in This Beaten-Down Power Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/peter-thiel-fund-disclosed-59-185030291.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-03T18:50:30Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/d34ee3fa93027430617eaa9a0136904dc2c98cdaa4605c7c689c3b84d9aaa862/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F7d3c640f8d7538ac0560d3a309a29d6f.jpg",
+      "slug": "peter-thiels-fund-disclosed-59-million-in-this-beaten-down-power-stock-2050af3c",
+      "orig_slug": "peter-thiels-fund-disclosed-59-million-in-this-beaten-down-power-stock-2050af3c"
+    },
+    {
+      "title": "Financial Outperformance and Demand Tailwinds Lead to Bullish Narrative Around CoreCivic (CXW)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/financial-outperformance-demand-tailwinds-lead-191028799.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-03T19:10:28Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/78adaa9b167dbce2725eb47249f71b5a9070c28c3cf86e74ebe07f3508ec5796/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fedaeb095dca214f259741e0c46bc5258.jpg",
+      "slug": "financial-outperformance-and-demand-tailwinds-lead-to-bullish-narrative-around-c-567cfe0c",
+      "orig_slug": "financial-outperformance-and-demand-tailwinds-lead-to-bullish-narrative-around-c-567cfe0c"
+    },
+    {
+      "title": "Crude Oil Prices Settle Higher on US-Iran Tensions",
+      "link": "https://finance.yahoo.com/energy/articles/crude-oil-prices-settle-higher-191321257.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-03T19:13:21Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/cd813ae74cbb593badb3894eaf8303493bcf010c2dbf543eeb3813ac521dd629/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2Fbe26e7c56ab8991d1d89507f82c52ba0.jpg",
+      "slug": "crude-oil-prices-settle-higher-on-us-iran-tensions-d18f9642",
+      "orig_slug": "crude-oil-prices-settle-higher-on-us-iran-tensions-d18f9642"
+    },
+    {
+      "title": "Higher Yields Are a Boon for Muni Bond Buyers",
+      "link": "https://www.barrons.com/articles/yield-muni-bonds-bce45999?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-03T18:58:00Z",
       "image": "",
-      "slug": "hubspot-ceo-rangan-yamini-sells-2622-shares-for-tax-obligations-d81e789f",
-      "orig_slug": "hubspot-ceo-rangan-yamini-sells-2622-shares-for-tax-obligations-d81e789f"
+      "slug": "higher-yields-are-a-boon-for-muni-bond-buyers-21c87cff",
+      "orig_slug": "higher-yields-are-a-boon-for-muni-bond-buyers-21c87cff"
     },
     {
-      "title": "Fed's Waller channels his inner John Lennon with a plea to 'give disinflation a chance'",
-      "link": "https://finance.yahoo.com/economy/policy/articles/feds-waller-open-leaving-rates-123302697.html",
+      "title": "Adequate US Nat-Gas Storage Pressures Prices",
+      "link": "https://finance.yahoo.com/energy/articles/adequate-us-nat-gas-storage-191232483.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-09-03T16:20:09Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/8e2d9fa4a22c2835f930faadda25c568a692437b585991288649388c7f7d9929/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fd76cfa39bc94804dc114387deaf43e72.jpg",
-      "slug": "feds-waller-channels-his-inner-john-lennon-with-a-plea-to-give-disinflation-a-ch-de608e5a",
-      "orig_slug": "feds-waller-channels-his-inner-john-lennon-with-a-plea-to-give-disinflation-a-ch-de608e5a"
-    },
-    {
-      "title": "Lake Victoria Gold Reports High-Grade Gold Intercepts at Imwelo as It Advances Metallurgical Testing",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/lake-victoria-gold-reports-high-161602054.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-03T16:16:02Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/2d38e50a73bba4bac8d98280404df95cde7f7ce1ed8e27096ccada56cb48fc2a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F3544cba9941aaa70b28beb64ebadbe78.jpg",
-      "slug": "lake-victoria-gold-reports-high-grade-gold-intercepts-at-imwelo-as-it-advances-m-06577fb3",
-      "orig_slug": "lake-victoria-gold-reports-high-grade-gold-intercepts-at-imwelo-as-it-advances-m-06577fb3"
-    },
-    {
-      "title": "Retailer's Turnaround 'Defies Belief,' Attempts To Retake Entry On Q2 Results",
-      "link": "https://www.investors.com/news/five-below-earnings-q2-2026-sales-growth-traffic-margins-tariffs-price-target-outlook-five-stock-buy-point/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-03T16:14:15Z",
-      "image": "https://www.investors.com/wp-content/uploads/2026/03/stock-five-below-adobe.jpg",
-      "slug": "retailers-turnaround-defies-belief-attempts-to-retake-entry-on-q2-results-b6a92e19",
-      "orig_slug": "retailers-turnaround-defies-belief-attempts-to-retake-entry-on-q2-results-b6a92e19"
-    },
-    {
-      "title": "Stocks Rally, Yields Retreat after Waller Signals a September Hold",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-rally-yields-retreat-waller-162644511.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-03T16:26:44Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/dc49bc66d2194cbbdad639c31a036702548eb58e7ece7c8b3ef5639bfed2eb54/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoby_896%2F82c7a635ddfd4af5093d8fadad025c19.jpg",
-      "slug": "stocks-rally-yields-retreat-after-waller-signals-a-september-hold-f6e93095",
-      "orig_slug": "stocks-rally-yields-retreat-after-waller-signals-a-september-hold-f6e93095"
-    },
-    {
-      "title": "Bloom Energy Spikes 8% as Risk-On Tape Lifts High-Beta Names, FuelCell Ticks Up, Plug Power Stays Flat",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-spikes-8-risk-162059642.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-03T16:20:59Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/e20980f36aec0f4490cc10e1c957539cac368a6e3bdd25c6bd9c8e726780c0b5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F14d7d6edf1d130e8ca6a57f2f5dc9d3b.jpg",
-      "slug": "bloom-energy-spikes-8-as-risk-on-tape-lifts-high-beta-names-fuelcell-ticks-up-pl-1cfa4fbc",
-      "orig_slug": "bloom-energy-spikes-8-as-risk-on-tape-lifts-high-beta-names-fuelcell-ticks-up-pl-1cfa4fbc"
-    },
-    {
-      "title": "How Is General Dynamics' Stock Performance Compared to Other Aerospace & Defense Stocks?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/general-dynamics-stock-performance-compared-161254532.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-03T16:12:54Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/a372aa5c3507015206ce816cf2458d1d7cb98c87c1bdbd5673bb9fa37f02085d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F88e49bfbf013850dbae8c454021ee5c5.jpg",
-      "slug": "how-is-general-dynamics-stock-performance-compared-to-other-aerospace-defense-st-1c92f648",
-      "orig_slug": "how-is-general-dynamics-stock-performance-compared-to-other-aerospace-defense-st-1c92f648"
-    },
-    {
-      "title": "Does Janus Living (JAN) Have an Attractive Runway for Long-Term Growth?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/does-janus-living-jan-attractive-160707135.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-03T16:07:07Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/c5435ef3a2a90005b2c480849dafe6af7c71aa15cf168e340d432d2c5aee546c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F66f3ff581faad673e418d9e532954ffd.jpg",
-      "slug": "does-janus-living-jan-have-an-attractive-runway-for-long-term-growth-4a754c0b",
-      "orig_slug": "does-janus-living-jan-have-an-attractive-runway-for-long-term-growth-4a754c0b"
-    },
-    {
-      "title": "Mortgage rates hit highest level in over a year: Mortgage and refinance interest rates today, Thursday, September 3, 2026",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-hit-highest-level-in-over-a-year-mortgage-and-refinance-interest-rates-today-thursday-september-3-2026-100000627.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-03T10:00:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/f795493da0c7d15331a3c3e8f8c62b8de56b4506d5f293b7d468126149eec728/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2Ffcad6bb0-c7a4-47ca-80fe-4a5d54f7623a",
-      "slug": "mortgage-rates-hit-highest-level-in-over-a-year-mortgage-and-refinance-interest--30222dc5",
-      "orig_slug": "mortgage-rates-hit-highest-level-in-over-a-year-mortgage-and-refinance-interest--30222dc5"
-    },
-    {
-      "title": "Saia’s tonnage growth steps higher in August as comps ease",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/saia-tonnage-growth-steps-higher-164241632.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-03T16:42:41Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/743456f3ea2006451629f785780772a91f05d5c3a64abad4f244d489d1e85b42/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffreightwaves_373%2F4b99d31236e6973e59b4cb9360e08a23.jpg",
-      "slug": "saias-tonnage-growth-steps-higher-in-august-as-comps-ease-50597c61",
-      "orig_slug": "saias-tonnage-growth-steps-higher-in-august-as-comps-ease-50597c61"
-    },
-    {
-      "title": "Dutch Treat? Netherlands Moves Gold Out of U.S. as Global Risks Rise",
-      "link": "https://www.barrons.com/articles/gold-netherlands-fort-knox-68073ffe?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-03T16:20:00Z",
-      "image": "",
-      "slug": "dutch-treat-netherlands-moves-gold-out-of-us-as-global-risks-rise-1580603e",
-      "orig_slug": "dutch-treat-netherlands-moves-gold-out-of-us-as-global-risks-rise-1580603e"
-    },
-    {
-      "title": "Best Wells Fargo credit cards (2026)",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-wells-fargo-credit-cards-164310496.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-06-01T16:43:10Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/36960863c5e099bdcbc2c47283129583139d5b2fad6eb121d4872d050c42515a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-06%2Fb6900599-4d0a-4263-a696-700ce2ed9081",
-      "slug": "best-wells-fargo-credit-cards-2026-bc0f27a0",
-      "orig_slug": "best-wells-fargo-credit-cards-2026-bc0f27a0"
-    },
-    {
-      "title": "Robinhood (HOOD) Positioned with Multiple Long Term Growth Drivers",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/robinhood-hood-positioned-multiple-long-155718430.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-03T15:57:18Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/82a9e18f0b65b50bf8369180d9e6ba749a3ee3b89969d83989cdc33c7fdf003a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F3706f8969382750d3da31da9292104d5.jpg",
-      "slug": "robinhood-hood-positioned-with-multiple-long-term-growth-drivers-1885c26d",
-      "orig_slug": "robinhood-hood-positioned-with-multiple-long-term-growth-drivers-1885c26d"
-    },
-    {
-      "title": "Billionaire Portfolios: Top 2 Real Estate Stocks With High Dividend Yields",
-      "link": "https://finance.yahoo.com/real-estate/articles/billionaire-portfolios-top-2-real-155623278.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-03T15:56:23Z",
-      "image": "",
-      "slug": "billionaire-portfolios-top-2-real-estate-stocks-with-high-dividend-yields-167bc593",
-      "orig_slug": "billionaire-portfolios-top-2-real-estate-stocks-with-high-dividend-yields-167bc593"
-    },
-    {
-      "title": "Is Southern Company Stock Underperforming the Dow?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/southern-company-stock-underperforming-dow-155659000.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-03T15:56:59Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/40773a0d5f203cb7b6ba72048f095dada1147616e81f972024cfb2795f6b2ee2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F9bf9b9cd70c6a881a88ac8af6f11005d.jpg",
-      "slug": "is-southern-company-stock-underperforming-the-dow-b7aa4ea9",
-      "orig_slug": "is-southern-company-stock-underperforming-the-dow-b7aa4ea9"
-    },
-    {
-      "title": "Mortgage rates jump to highest level in over a year",
-      "link": "https://finance.yahoo.com/real-estate/articles/mortgage-rates-jump-highest-level-162255880.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-03T16:22:55Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/e15eb3b41790e79ef1e11500a9f1240874ae884d98c58b038d4ee2f7bc6bc29b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffox_business_text_367%2F858b7de755d191a1c62d854937e472aa.png",
-      "slug": "mortgage-rates-jump-to-highest-level-in-over-a-year-a2b9a845",
-      "orig_slug": "mortgage-rates-jump-to-highest-level-in-over-a-year-a2b9a845"
-    },
-    {
-      "title": "HPE CEO on AI boom: 'Customers are buying everything'",
-      "link": "https://finance.yahoo.com/markets/stocks/article/hpe-ceo-on-ai-boom-customers-are-buying-everything-164808652.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-03T16:48:08Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/83eca6718aa240f7544b27c8afa1ec8df7ebd20da6469bdb2b9a9a70257b3dd0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2Fcbe76845-356b-4b42-b531-c59884d0d3a7",
-      "slug": "hpe-ceo-on-ai-boom-customers-are-buying-everything-93ed8e38",
-      "orig_slug": "hpe-ceo-on-ai-boom-customers-are-buying-everything-93ed8e38"
-    },
-    {
-      "title": "Is HCA Healthcare Stock Underperforming the Nasdaq?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hca-healthcare-stock-underperforming-nasdaq-155237603.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-03T15:52:37Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/d735b3fb810f975acc2d1dabe4e66343ee111d545e093f943c9fe8829a388f13/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2Fa730c616193d8db329db394980b17740.jpg",
-      "slug": "is-hca-healthcare-stock-underperforming-the-nasdaq-9552015c",
-      "orig_slug": "is-hca-healthcare-stock-underperforming-the-nasdaq-9552015c"
-    },
-    {
-      "title": "WaterBridge Infrastructure’s (WBI) Approach to Managing Water Resources",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/waterbridge-wbi-approach-managing-water-155026934.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-03T15:50:26Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/ea2529c113aeba4b1168ac6f96b3bbb8cf79e18be331db5d2bbb2f38cb2c7623/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F23bff0c8c1d4097a362c54b40916f83a.jpg",
-      "slug": "waterbridge-infrastructures-wbi-approach-to-managing-water-resources-02985af2",
-      "orig_slug": "waterbridge-infrastructures-wbi-approach-to-managing-water-resources-02985af2"
-    },
-    {
-      "title": "Campbell Soup Company Q4 2026 Earnings Call Summary",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/campbell-soup-company-q4-2026-165228835.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-03T16:52:28Z",
-      "image": "",
-      "slug": "campbell-soup-company-q4-2026-earnings-call-summary-50d0ab68",
-      "orig_slug": "campbell-soup-company-q4-2026-earnings-call-summary-50d0ab68"
-    },
-    {
-      "title": "How To Build Your Credit Score",
-      "link": "https://finance.yahoo.com/markets/articles/build-credit-score-162309141.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-03T16:23:09Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/a9096ae7380bea3c0a5db23af1ef67e26bbf21fa44d3f2e91e08a214cf09a8cf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finvestopedia_245%2F964d9cdc10cd37dd23d395ac17dc4a07.jpg",
-      "slug": "how-to-build-your-credit-score-775b34c8",
-      "orig_slug": "how-to-build-your-credit-score-775b34c8"
-    },
-    {
-      "title": "How Is Blackstone's Stock Performance Compared to Other Financial Stocks?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/blackstones-stock-performance-compared-other-154844564.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-03T15:48:44Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/44a6c9cf377f576a86720a7c50dde0932d7d1ccbc3e5b304155835c52777bdb3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2Fe2f268f1eadd193c5283795dea2e5c39.jpg",
-      "slug": "how-is-blackstones-stock-performance-compared-to-other-financial-stocks-05e9664a",
-      "orig_slug": "how-is-blackstones-stock-performance-compared-to-other-financial-stocks-05e9664a"
-    },
-    {
-      "title": "Lands' End, Inc. Q2 2026 Earnings Call Summary",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lands-end-inc-q2-2026-165733875.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-03T16:57:33Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/123d7d75fd2c8a770812b97db166faac6ce7af197936adc8b6bb9f50f6c11d86/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoby_896%2F0170fece849d6504c1f54542a689eb53.png",
-      "slug": "lands-end-inc-q2-2026-earnings-call-summary-ad4a04ca",
-      "orig_slug": "lands-end-inc-q2-2026-earnings-call-summary-ad4a04ca"
-    },
-    {
-      "title": "Oracle To Face Earnings Test After Wild Year Riding AI Wave",
-      "link": "https://www.investors.com/news/technology/oracle-stock-q1-2027-earnings-ai-openai/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-03T16:57:56Z",
-      "image": "https://www.investors.com/wp-content/uploads/2017/12/Stock-Oracle-01-shutter.jpg",
-      "slug": "oracle-to-face-earnings-test-after-wild-year-riding-ai-wave-47261e83",
-      "orig_slug": "oracle-to-face-earnings-test-after-wild-year-riding-ai-wave-47261e83"
-    },
-    {
-      "title": "Vietnamese Rival To Uber, Lyft Plans To Enter U.S. Market This Year",
-      "link": "https://www.investors.com/news/uber-lyft-vinfast-gsm-rideshare-app-robotaxi/?src=A00220&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-03T16:59:17Z",
-      "image": "https://www.investors.com/wp-content/uploads/2023/08/Stock-Vinfast-cars-01-company.jpg",
-      "slug": "vietnamese-rival-to-uber-lyft-plans-to-enter-us-market-this-year-afc547f4",
-      "orig_slug": "vietnamese-rival-to-uber-lyft-plans-to-enter-us-market-this-year-afc547f4"
-    },
-    {
-      "title": "T-Mobile Stock Rises on Report Elliott Opposes Deutsche Telekom Merger",
-      "link": "https://www.barrons.com/articles/t-mobile-stock-report-elliott-deutsche-telekom-merger-2880aac4?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-03T16:24:00Z",
-      "image": "",
-      "slug": "t-mobile-stock-rises-on-report-elliott-opposes-deutsche-telekom-merger-5572927d",
-      "orig_slug": "t-mobile-stock-rises-on-report-elliott-opposes-deutsche-telekom-merger-5572927d"
-    },
-    {
-      "title": "Everything Is Going Right for Broadcom, So It’s Time to Accumulate AVGO Stock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/everything-going-broadcom-time-accumulate-154211811.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-03T15:42:11Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/ddbaaf2413257bafeda714f01ae16590481f18f139ab358a390bd2a8268f40bd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F56bb7c0cf1da2ef4e19fe554941caf54.jpg",
-      "slug": "everything-is-going-right-for-broadcom-so-its-time-to-accumulate-avgo-stock-d9a6363b",
-      "orig_slug": "everything-is-going-right-for-broadcom-so-its-time-to-accumulate-avgo-stock-d9a6363b"
-    },
-    {
-      "title": "Why are home prices so high? How today's market impacts housing costs.",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/why-are-home-prices-so-high-factors-contributing-to-current-housing-costs-184935469.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2024-04-02T18:49:35Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/ceb0de67895d6f6168d73e8eefccfa8e42a2c982c3fcc4f4940cddd4927d3d0a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-12%2F6fb0c2c0-235c-11ea-bbad-84d122d87142",
-      "slug": "why-are-home-prices-so-high-how-todays-market-impacts-housing-costs-5f0e28a8",
-      "orig_slug": "why-are-home-prices-so-high-how-todays-market-impacts-housing-costs-5f0e28a8"
-    },
-    {
-      "title": "When will mortgage rates go down? The signs to watch for.",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/when-will-mortgage-rates-go-down-the-signs-to-watch-for-190610094.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2025-04-22T19:06:10Z",
-      "image": "",
-      "slug": "when-will-mortgage-rates-go-down-the-signs-to-watch-for-3cbe72c5",
-      "orig_slug": "when-will-mortgage-rates-go-down-the-signs-to-watch-for-3cbe72c5"
-    },
-    {
-      "title": "Social Security: See what's really changing in 2027",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/social-security-see-whats-really-changing-in-2027-144723278.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-03T14:47:23Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/a8275eeb27bce691064fb410492196f10b372d0b1161c83e05257ac13e0048d3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fcc114390-ecfa-4a7b-9357-fef7f74e7cbb_bae46b39c8d9201a045f23d306112ac0d44ba65bbd5de2555ffdc124c87f5f9f.jpg",
-      "slug": "social-security-see-whats-really-changing-in-2027-51ce2ca0",
-      "orig_slug": "social-security-see-whats-really-changing-in-2027-51ce2ca0"
-    },
-    {
-      "title": "Canada Picks Alstom to Build Passenger Railcars in Multibilllion-Dollar Deal",
-      "link": "https://www.wsj.com/world/americas/canada-picks-alstom-to-build-passenger-railcars-in-multibilllion-dollar-deal-c203f4cf?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-03T16:24:00Z",
-      "image": "",
-      "slug": "canada-picks-alstom-to-build-passenger-railcars-in-multibilllion-dollar-deal-15b906b6",
-      "orig_slug": "canada-picks-alstom-to-build-passenger-railcars-in-multibilllion-dollar-deal-15b906b6"
-    },
-    {
-      "title": "U.S. Bank Shield Visa Card review: 0% APR for 21 months on purchases and balance transfers",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/review/us-bank-shield-visa-card-181913823.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-03T18:19:13Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/4dbf49e72935e237231575b100f82fa3cb52c0c4519ebd35d79a2e79a6657520/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F0ae2e19c-7580-4566-a871-4fda4263f484",
-      "slug": "us-bank-shield-visa-card-review-0-apr-for-21-months-on-purchases-and-balance-tra-6138294e",
-      "orig_slug": "us-bank-shield-visa-card-review-0-apr-for-21-months-on-purchases-and-balance-tra-6138294e"
+      "pubDate": "2026-09-03T19:12:32Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/79c3ea62693e924eed41aa6d72c57e15a7bf74f9901d150b0556f05e9f9d92f3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2Ff225b06e5cc93c3d7503cc730530de29.jpg",
+      "slug": "adequate-us-nat-gas-storage-pressures-prices-bbac662c",
+      "orig_slug": "adequate-us-nat-gas-storage-pressures-prices-bbac662c"
     },
     {
       "title": "How to make more money​ with a side gig: 6 tips for success",
       "link": "https://finance.yahoo.com/personal-finance/banking/article/how-to-make-more-money-side-gig-162713006.html",
       "source": "finance.yahoo.com",
       "pubDate": "2025-09-02T16:27:13Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/8e3a85d9df79b2524f3be15c3b47fabccafa27b821d23667de9611b5430a69f1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-12%2Fa7c14bc0-5f2e-11ec-bd5f-9c700df8f7d4",
+      "image": "",
       "slug": "how-to-make-more-money-with-a-side-gig-6-tips-for-success-98ddc2a0",
       "orig_slug": "how-to-make-more-money-with-a-side-gig-6-tips-for-success-98ddc2a0"
+    },
+    {
+      "title": "Adobe Inc. (ADBE): Can New AI Strategy Revive Growth and Unlock Higher Valuation?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/adobe-inc-adbe-ai-strategy-192606188.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-03T19:26:06Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/d4df9fa26a9e650d4d24e5edadaa2cd1add836dd1d3c54b3719a61e5a4565b1f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fd87ed4368ba28285bd840da340bf3933.jpg",
+      "slug": "adobe-inc-adbe-can-new-ai-strategy-revive-growth-and-unlock-higher-valuation-61554557",
+      "orig_slug": "adobe-inc-adbe-can-new-ai-strategy-revive-growth-and-unlock-higher-valuation-61554557"
     },
     {
       "title": "What is a mutual bank, and what are the benefits of joining one?",
@@ -317,22 +92,247 @@
       "orig_slug": "what-is-a-mutual-bank-and-what-are-the-benefits-of-joining-one-2b58606c"
     },
     {
+      "title": "Investor Who Went 30 Years Without a Loss Just Bet $125 Million on Bitcoin",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/investor-went-30-years-without-185932199.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-03T18:59:32Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/25b5df38fd81e0cc6ace5e7de846917c3839f43c2e570a0f66dd89ccd5728df3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Faa7cbf7752fafe5a1c87e6f0599c7eb6.jpg",
+      "slug": "investor-who-went-30-years-without-a-loss-just-bet-125-million-on-bitcoin-e5aa6c25",
+      "orig_slug": "investor-who-went-30-years-without-a-loss-just-bet-125-million-on-bitcoin-e5aa6c25"
+    },
+    {
+      "title": "NetApp Stock Climbs After Earnings Beat, Shaking Off Initial Slide",
+      "link": "https://www.investors.com/news/technology/netapp-stock-earnings-july-2026-ntap-news/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-03T19:31:32Z",
+      "image": "https://www.investors.com/wp-content/uploads/2019/02/stock-NetApp-01-shutter.jpg",
+      "slug": "netapp-stock-climbs-after-earnings-beat-shaking-off-initial-slide-573daadd",
+      "orig_slug": "netapp-stock-climbs-after-earnings-beat-shaking-off-initial-slide-573daadd"
+    },
+    {
+      "title": "UBS Remains Bullish on Deere (DE) Despite Weakness in Farm Equipment Cycle: Here’s Why",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-remains-bullish-deere-despite-193258984.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-03T19:32:44Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/6cada0b397f882842595138947c3e6f57f99ace7c699335b0afe71629a2b106c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F42f35b0343bede403bdd9f0bb4c5f2fe.jpg",
+      "slug": "ubs-remains-bullish-on-deere-de-despite-weakness-in-farm-equipment-cycle-heres-w-222763af",
+      "orig_slug": "ubs-remains-bullish-on-deere-de-despite-weakness-in-farm-equipment-cycle-heres-w-222763af"
+    },
+    {
+      "title": "Dollar Retreats and Gold Surges on Dovish Fed Waller",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-retreats-gold-surges-dovish-193430204.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-03T19:34:30Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/c2b892186273764ac7df43cfd8198ededd59135666e7c0b703e3af834abc893b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F07f414d757ccacea52e753d0b99b6994.jpg",
+      "slug": "dollar-retreats-and-gold-surges-on-dovish-fed-waller-6153757e",
+      "orig_slug": "dollar-retreats-and-gold-surges-on-dovish-fed-waller-6153757e"
+    },
+    {
+      "title": "Divide over yields: Fed officials see a stronger economy, Wall Street frets over oil prices and deficits.",
+      "link": "https://finance.yahoo.com/economy/policy/article/divide-over-yields-fed-officials-see-a-stronger-economy-wall-street-frets-over-oil-prices-and-deficits-193739245.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-03T19:37:39Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/a1d61bec51f9c61fb0d2ce068ce393c14f588303f62734c792791319e38fac73/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F56ba00e2-7553-40cc-95c1-471ffa0ce2b3",
+      "slug": "divide-over-yields-fed-officials-see-a-stronger-economy-wall-street-frets-over-o-20aeb3c9",
+      "orig_slug": "divide-over-yields-fed-officials-see-a-stronger-economy-wall-street-frets-over-o-20aeb3c9"
+    },
+    {
+      "title": "Iridium CEO Sells Over 9,500 Shares as Rocket Lab Is Poised to Acquire the Company",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/iridium-ceo-sells-over-9-190034554.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-03T19:00:34Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/b43670e19602925de851eaaa4aa52624a38433b76f3825feb1b567bac7b64acb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fc27a7e2773e2dd4be080db2e8154f7c0.png",
+      "slug": "iridium-ceo-sells-over-9500-shares-as-rocket-lab-is-poised-to-acquire-the-compan-03697ab4",
+      "orig_slug": "iridium-ceo-sells-over-9500-shares-as-rocket-lab-is-poised-to-acquire-the-compan-03697ab4"
+    },
+    {
+      "title": "Nvidia Sold Every Arm Share, but Its Vera CPU Still Uses Arm. Is That Really a Contradiction?",
+      "link": "https://finance.yahoo.com/technology/articles/nvidia-sold-every-arm-share-193830193.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-03T19:38:30Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/901aa2c57a780a89b87d3a70f392d68fc83699eb3ae6a9b52383623f86c7c3a7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F9bf005acaeb4ae72423645f75cf74115.jpg",
+      "slug": "nvidia-sold-every-arm-share-but-its-vera-cpu-still-uses-arm-is-that-really-a-con-812b81a9",
+      "orig_slug": "nvidia-sold-every-arm-share-but-its-vera-cpu-still-uses-arm-is-that-really-a-con-812b81a9"
+    },
+    {
+      "title": "Riot Platforms Stock Could Extend Today's Rally",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/riot-platforms-stock-could-extend-183759019.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-03T18:37:59Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/4f1868242887d60b50855ee423c148d9a76e25e88d2a9aa8d161e9701ab0ef2e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fschaeffers_investment_research_24%2Feec5b3d7580253d9156d46d4209d0ea3.png",
+      "slug": "riot-platforms-stock-could-extend-todays-rally-e777a802",
+      "orig_slug": "riot-platforms-stock-could-extend-todays-rally-e777a802"
+    },
+    {
+      "title": "Advertising Leader Magnite Touches New Buy Point, But Reverses Lower",
+      "link": "https://www.investors.com/research/magnite-stock-mgni-buy-point/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-03T19:42:40Z",
+      "image": "https://www.investors.com/wp-content/uploads/2019/04/Stock-AdvertisingBoard-01-adobe.jpg",
+      "slug": "advertising-leader-magnite-touches-new-buy-point-but-reverses-lower-3de7f1b3",
+      "orig_slug": "advertising-leader-magnite-touches-new-buy-point-but-reverses-lower-3de7f1b3"
+    },
+    {
+      "title": "Duolingo Jumped After Evercore Doubled Its Target to $210. Are ChatGPT Fears Finally Breaking?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/duolingo-jumped-evercore-doubled-target-183341111.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-03T18:33:41Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/a6c4697ddeceaade2fc4a10651f62dca211b4c0fcc7029492ea200a0bb9ee27b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F461749371c2dec907345c54e52093ac2.jpg",
+      "slug": "duolingo-jumped-after-evercore-doubled-its-target-to-210-are-chatgpt-fears-final-13af8f81",
+      "orig_slug": "duolingo-jumped-after-evercore-doubled-its-target-to-210-are-chatgpt-fears-final-13af8f81"
+    },
+    {
+      "title": "Saylor says Strategy’s Bitcoin-heavy reserve capital surpasses nearly all S&P 500 financial firms",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/saylor-says-strategy-bitcoin-heavy-190159544.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-03T19:01:59Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/8865e7031a93480cb863520d92391aadc0c1618aa2e335c4ee72d2b8af45eac0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2Fc64768d92c75eafc5b042275ed069fe1.jpg",
+      "slug": "saylor-says-strategys-bitcoin-heavy-reserve-capital-surpasses-nearly-all-sp-500--8b80c4c1",
+      "orig_slug": "saylor-says-strategys-bitcoin-heavy-reserve-capital-surpasses-nearly-all-sp-500--8b80c4c1"
+    },
+    {
+      "title": "Outperforming Pharma Stock Still Has Upside Potential",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/outperforming-pharma-stock-still-upside-182926019.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-03T18:29:26Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/1c5201c6471f1d1dd073521fc81f33c63c9deae777fb22ea104b37168a007815/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fschaeffers_investment_research_24%2F68e4b36aa301185b2d8522234ca2b26a.jpg",
+      "slug": "outperforming-pharma-stock-still-has-upside-potential-7ee41196",
+      "orig_slug": "outperforming-pharma-stock-still-has-upside-potential-7ee41196"
+    },
+    {
+      "title": "Apple (AAPL) Faces Mixed Outlook Ahead of Foldable iPhone Launch",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-faces-mixed-outlook-182923490.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-03T18:29:23Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/01d7609ad2417766fa154a54dafd366591837f8aadb0e7d25441e429b6a3f5d4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fa0cb88158fe64431726accde4ec7ad62.jpg",
+      "slug": "apple-aapl-faces-mixed-outlook-ahead-of-foldable-iphone-launch-e050f26b",
+      "orig_slug": "apple-aapl-faces-mixed-outlook-ahead-of-foldable-iphone-launch-e050f26b"
+    },
+    {
+      "title": "Amazon Signed a Multibillion-Dollar Deal With a 175-Year-Old Glassmaker. Is Fiber the Next AI Bottleneck?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/amazon-signed-multibillion-dollar-deal-195301832.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-03T19:53:01Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/882a4d3806e55a325e46a4f477d85bd69fdbc8e2e9991300c5ee1ced3e3e0280/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F5cf76f8899f3d47c4f76f653ba6b551b.jpg",
+      "slug": "amazon-signed-a-multibillion-dollar-deal-with-a-175-year-old-glassmaker-is-fiber-2d8c8e97",
+      "orig_slug": "amazon-signed-a-multibillion-dollar-deal-with-a-175-year-old-glassmaker-is-fiber-2d8c8e97"
+    },
+    {
+      "title": "Applied Digital and Cipher Just Sank Together. Did Rising Yields Expose AI’s Weakest Business Model?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/applied-digital-cipher-just-sank-195427638.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-03T19:54:27Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/3b2221440d75f668627178ef8a0abdd3bb9aa388a741bcbc641202aa67e0d88c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F3b44ebb4aa0fbdf640fd9a86c010e180.jpg",
+      "slug": "applied-digital-and-cipher-just-sank-together-did-rising-yields-expose-ais-weake-3f1a39d8",
+      "orig_slug": "applied-digital-and-cipher-just-sank-together-did-rising-yields-expose-ais-weake-3f1a39d8"
+    },
+    {
+      "title": "Campbell Cuts Dividend, Tyson Slashes Outlook as Food Stocks Get Crushed",
+      "link": "https://www.barrons.com/articles/campbells-earnings-dividend-cut-stock-price-ec1bf75f?siteid=yhoof2&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-03T18:56:00Z",
+      "image": "",
+      "slug": "campbell-cuts-dividend-tyson-slashes-outlook-as-food-stocks-get-crushed-fab92efa",
+      "orig_slug": "campbell-cuts-dividend-tyson-slashes-outlook-as-food-stocks-get-crushed-fab92efa"
+    },
+    {
+      "title": "Jim Cramer Calls Dell’s (DELL) Quarter One of the Best He Has Ever Seen",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-dell-dell-182423022.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-03T18:24:23Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/9820941012d9dda36efc4bfa15033c9939432abe04bedba347aa94bdcfbdd487/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F3fe61364b95991c98978f250ba7bea2c.png",
+      "slug": "jim-cramer-calls-dells-dell-quarter-one-of-the-best-he-has-ever-seen-0737d30e",
+      "orig_slug": "jim-cramer-calls-dells-dell-quarter-one-of-the-best-he-has-ever-seen-0737d30e"
+    },
+    {
+      "title": "U.S. Bank Shield Visa Card review: 0% APR for 21 months on purchases and balance transfers",
+      "link": "https://finance.yahoo.com/personal-finance/credit-cards/review/us-bank-shield-visa-card-181913823.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-03T18:19:13Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/4dbf49e72935e237231575b100f82fa3cb52c0c4519ebd35d79a2e79a6657520/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F0ae2e19c-7580-4566-a871-4fda4263f484",
+      "slug": "us-bank-shield-visa-card-review-0-apr-for-21-months-on-purchases-and-balance-tra-6138294e",
+      "orig_slug": "us-bank-shield-visa-card-review-0-apr-for-21-months-on-purchases-and-balance-tra-6138294e"
+    },
+    {
+      "title": "When will mortgage rates go down? The signs to watch for.",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/when-will-mortgage-rates-go-down-the-signs-to-watch-for-190610094.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2025-04-22T19:06:10Z",
+      "image": "",
+      "slug": "when-will-mortgage-rates-go-down-the-signs-to-watch-for-3cbe72c5",
+      "orig_slug": "when-will-mortgage-rates-go-down-the-signs-to-watch-for-3cbe72c5"
+    },
+    {
+      "title": "Best private student loans for September 2026",
+      "link": "https://finance.yahoo.com/personal-finance/student-loans/article/best-private-student-loans-135459013.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-05-13T13:54:59Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/84a749265c3a24e42426032f41c0d1d0e855258ad46be2ad992ba2d97e77369b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-05%2Fb53d8418-0754-4a1e-99d9-1e825c88e1c7",
+      "slug": "best-private-student-loans-for-september-2026-89af05cf",
+      "orig_slug": "best-private-student-loans-for-september-2026-89af05cf"
+    },
+    {
+      "title": "Analysts See Strengthening Foundation in PVH’s Q2 Earnings",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/analysts-see-strengthening-foundation-pvh-185615991.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-03T18:56:15Z",
+      "image": "",
+      "slug": "analysts-see-strengthening-foundation-in-pvhs-q2-earnings-01b8139f",
+      "orig_slug": "analysts-see-strengthening-foundation-in-pvhs-q2-earnings-01b8139f"
+    },
+    {
+      "title": "Mortgage rates hit highest level in over a year: Mortgage and refinance interest rates today, Thursday, September 3, 2026",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-hit-highest-level-in-over-a-year-mortgage-and-refinance-interest-rates-today-thursday-september-3-2026-100000627.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-03T10:00:00Z",
+      "image": "",
+      "slug": "mortgage-rates-hit-highest-level-in-over-a-year-mortgage-and-refinance-interest--30222dc5",
+      "orig_slug": "mortgage-rates-hit-highest-level-in-over-a-year-mortgage-and-refinance-interest--30222dc5"
+    },
+    {
+      "title": "Best Wells Fargo credit cards (2026)",
+      "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-wells-fargo-credit-cards-164310496.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-06-01T16:43:10Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/36960863c5e099bdcbc2c47283129583139d5b2fad6eb121d4872d050c42515a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-06%2Fb6900599-4d0a-4263-a696-700ce2ed9081",
+      "slug": "best-wells-fargo-credit-cards-2026-bc0f27a0",
+      "orig_slug": "best-wells-fargo-credit-cards-2026-bc0f27a0"
+    },
+    {
+      "title": "Why are home prices so high? How today's market impacts housing costs.",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/why-are-home-prices-so-high-factors-contributing-to-current-housing-costs-184935469.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2024-04-02T18:49:35Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/ceb0de67895d6f6168d73e8eefccfa8e42a2c982c3fcc4f4940cddd4927d3d0a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-12%2F6fb0c2c0-235c-11ea-bbad-84d122d87142",
+      "slug": "why-are-home-prices-so-high-how-todays-market-impacts-housing-costs-5f0e28a8",
+      "orig_slug": "why-are-home-prices-so-high-how-todays-market-impacts-housing-costs-5f0e28a8"
+    },
+    {
+      "title": "Social Security: See what's really changing in 2027",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/social-security-see-whats-really-changing-in-2027-144723278.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-03T14:47:23Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/a8275eeb27bce691064fb410492196f10b372d0b1161c83e05257ac13e0048d3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fcc114390-ecfa-4a7b-9357-fef7f74e7cbb_bae46b39c8d9201a045f23d306112ac0d44ba65bbd5de2555ffdc124c87f5f9f.jpg",
+      "slug": "social-security-see-whats-really-changing-in-2027-51ce2ca0",
+      "orig_slug": "social-security-see-whats-really-changing-in-2027-51ce2ca0"
+    },
+    {
+      "title": "VZ Keeps Climbing. Should You Climb On?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/vz-keeps-climbing-climb-190246541.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-03T19:02:46Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/102be9103e4467bc24e999066350ce23dc23d6a98bc029958e56aabd7700a0b7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftrefis_142%2Fb06b683d5d2915a4494ac5d31c8a87d6.jpg",
+      "slug": "vz-keeps-climbing-should-you-climb-on-b7383c60",
+      "orig_slug": "vz-keeps-climbing-should-you-climb-on-b7383c60"
+    },
+    {
       "title": "Bitcoin and ethereum prices today, Thursday, September 3, 2026: Crypto prices lift this morning despite oil costs gaining steam",
       "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-september-3-2026-crypto-prices-lift-this-morning-despite-oil-costs-gaining-steam-113526770.html",
       "source": "finance.yahoo.com",
       "pubDate": "2026-09-03T11:35:26Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/7f01ff25b8e01a2739c75b57e31b5a895c116c4bcdc3961b45dccd9e008ee285/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fethereum_%2520_bitcoin_0304.jpg",
+      "image": "",
       "slug": "bitcoin-and-ethereum-prices-today-thursday-september-3-2026-crypto-prices-lift-t-84177343",
       "orig_slug": "bitcoin-and-ethereum-prices-today-thursday-september-3-2026-crypto-prices-lift-t-84177343"
-    },
-    {
-      "title": "Cramer Warns Broadcom’s $30 Billion AI Bet Depends on a Stock You Cannot Buy",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cramer-warns-broadcom-30-billion-162353047.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-03T16:23:53Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/87525dd3e3a91d76a4394c4894740079b58deb7a49f641467928db1ffcb30875/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fd7cffdc2dddfbc3547ca5ec3e332f73d.jpg",
-      "slug": "cramer-warns-broadcoms-30-billion-ai-bet-depends-on-a-stock-you-cannot-buy-09d5e478",
-      "orig_slug": "cramer-warns-broadcoms-30-billion-ai-bet-depends-on-a-stock-you-cannot-buy-09d5e478"
     },
     {
       "title": "Silver price today, Thursday, September 3, 2026: Silver prices rise following short-lived airstrikes",
@@ -353,15 +353,6 @@
       "orig_slug": "gold-price-today-thursday-september-3-2026-gold-moves-higher-on-hopes-that-iran--454ddf2b"
     },
     {
-      "title": "Best private student loans for September 2026",
-      "link": "https://finance.yahoo.com/personal-finance/student-loans/article/best-private-student-loans-135459013.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-05-13T13:54:59Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/84a749265c3a24e42426032f41c0d1d0e855258ad46be2ad992ba2d97e77369b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-05%2Fb53d8418-0754-4a1e-99d9-1e825c88e1c7",
-      "slug": "best-private-student-loans-for-september-2026-89af05cf",
-      "orig_slug": "best-private-student-loans-for-september-2026-89af05cf"
-    },
-    {
       "title": "Best CD rates today, Thursday, September 3, 2026: Lock in up to 4.30% APY with an 18-month CD",
       "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-september-3-2026-lock-in-up-to-430-apy-with-an-18-month-cd-100000861.html",
       "source": "finance.yahoo.com",
@@ -371,58 +362,13 @@
       "orig_slug": "best-cd-rates-today-thursday-september-3-2026-lock-in-up-to-430-apy-with-an-18-m-a663a557"
     },
     {
-      "title": "She Built A $2.1 Million Rental Portfolio Over 20 Years — Now Her Sister Says Keeping The Money Is 'Hoarding Generational Wealth'",
-      "link": "https://finance.yahoo.com/real-estate/articles/she-built-2-1-million-162453308.html",
+      "title": "How Much Upside Can APP Stock's Growth Deliver?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/much-upside-app-stocks-growth-185441862.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-09-03T16:24:53Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/2a62271fcb4bdf500f18e567e8150b2c37ac814f75be6756a9bc74aa9694a156/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F1ec51634d2d0e7dbd7552ac7b163128e.jpg",
-      "slug": "she-built-a-21-million-rental-portfolio-over-20-years-now-her-sister-says-keepin-59a10b95",
-      "orig_slug": "she-built-a-21-million-rental-portfolio-over-20-years-now-her-sister-says-keepin-59a10b95"
-    },
-    {
-      "title": "How to open a high-yield savings account: Step-by-step instructions",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/how-to-open-high-yield-savings-account-163119432.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2023-12-15T22:18:55Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/5820938bb7a8d62d6ce20ca64ea887667cdbd202103dd023b984c8bb28c13122/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2023-05%2Fc801e4b0-fa48-11ed-b7ae-016cebadd8be",
-      "slug": "how-to-open-a-high-yield-savings-account-step-by-step-instructions-3074e5c8",
-      "orig_slug": "how-to-open-a-high-yield-savings-account-step-by-step-instructions-3074e5c8"
-    },
-    {
-      "title": "The 5 best debit cards for kids and teens",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-debit-cards-for-kids-and-teens-224825436.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-02T22:48:25Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/c51af47f09116447fc27af788a1c8a1a0b5f8e5c3452de9aaaf535e13cd0eb14/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F6f963345-c549-44c6-973c-d07606dc8e80",
-      "slug": "the-5-best-debit-cards-for-kids-and-teens-5ce1399b",
-      "orig_slug": "the-5-best-debit-cards-for-kids-and-teens-5ce1399b"
-    },
-    {
-      "title": "Discover Q3 2026 rewards calendar — Earn 5% cash back at gas stations, on transportation, and at drug stores",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/discover-rewards-calendar-163005023.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2024-09-17T16:30:05Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/08a7ddb2d51775a7cd71ddefc6896658b7c2e99579fd8586f4c71d9670da2f1a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-09%2Fb37c9420-750f-11ef-96f5-b136f09b8878",
-      "slug": "discover-q3-2026-rewards-calendar-earn-5-cash-back-at-gas-stations-on-transporta-90cd17f2",
-      "orig_slug": "discover-q3-2026-rewards-calendar-earn-5-cash-back-at-gas-stations-on-transporta-90cd17f2"
-    },
-    {
-      "title": "Wells Fargo Autograph Journey® Card  review: A high-earning card designed for frequent travelers",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/review/wells-fargo-autograph-journey-card-review-215134623.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2024-09-05T18:26:17Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/81061df96a9baa5758fc96bd4984e8f9e9fa581aad2ad2a35d82c73855deec85/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-03%2F1a0b16e0-dd84-11ee-bfff-610f2333ec5d",
-      "slug": "wells-fargo-autograph-journey-card-review-a-high-earning-card-designed-for-frequ-cb802e20",
-      "orig_slug": "wells-fargo-autograph-journey-card-review-a-high-earning-card-designed-for-frequ-cb802e20"
-    },
-    {
-      "title": "Nearly 200-year-old retailer exits an entire market",
-      "link": "https://finance.yahoo.com/small-business/articles/nearly-200-old-retailer-exits-161700765.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-03T16:17:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/940811d9c1659c44ee69ec4934bc4c409b839693674b573a74f96d1eff3ba2f6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2Ffbf05afae1d24293368a26aab8ec091f.jpg",
-      "slug": "nearly-200-year-old-retailer-exits-an-entire-market-af13c755",
-      "orig_slug": "nearly-200-year-old-retailer-exits-an-entire-market-af13c755"
+      "pubDate": "2026-09-03T18:54:41Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/a74b7dcee4cc54a76734b0c8f99c95fb5085926a0db37de307cc7552b1c85d4a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftrefis_142%2F6c26ed98b7cdac0f2f776a3692796371.jpg",
+      "slug": "how-much-upside-can-app-stocks-growth-deliver-454e3ba6",
+      "orig_slug": "how-much-upside-can-app-stocks-growth-deliver-454e3ba6"
     },
     {
       "title": "Best high-yield savings interest rates today, Friday, September 4, 2026: Earn up to 4.10% APY",
@@ -434,11 +380,20 @@
       "orig_slug": "best-high-yield-savings-interest-rates-today-friday-september-4-2026-earn-up-to--65e09154"
     },
     {
+      "title": "HELOC and home equity loan rates today, Friday, September 4, 2026: Understanding how equity rates work matters",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-friday-september-4-2026-understanding-how-equity-rates-work-matters-100000999.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-08-31T10:00:00Z",
+      "image": "",
+      "slug": "heloc-and-home-equity-loan-rates-today-friday-september-4-2026-understanding-how-0c965565",
+      "orig_slug": "heloc-and-home-equity-loan-rates-today-friday-september-4-2026-understanding-how-0c965565"
+    },
+    {
       "title": "Best CD rates today, Friday, September 4, 2026: Up to 4.35% APY return available with 18-month CD",
       "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-september-4-2026-up-to-435-apy-return-available-with-18-month-cd-100000753.html",
       "source": "finance.yahoo.com",
       "pubDate": "2026-09-04T10:00:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/992f655326b17d307c0c02cae5a8029c96899b96cce1f217fe634f8a60d65e3b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Ffriday-cd-rates_4965.png",
+      "image": "",
       "slug": "best-cd-rates-today-friday-september-4-2026-up-to-435-apy-return-available-with--6a360324",
       "orig_slug": "best-cd-rates-today-friday-september-4-2026-up-to-435-apy-return-available-with--6a360324"
     },
@@ -450,6 +405,42 @@
       "image": "https://s.yimg.com/lo/mysterio/api/7bda1851be9322ceab220c2a3a952b3762485a45aef169e353bcc4b4682cdcb8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fdmr-friday-2_5020.png",
       "slug": "mortgage-and-refinance-interest-rates-today-friday-september-4-2026-arm-rates-co-cd125757",
       "orig_slug": "mortgage-and-refinance-interest-rates-today-friday-september-4-2026-arm-rates-co-cd125757"
+    },
+    {
+      "title": "Bitcoin Climbs to Highest Intraday Level Since May as Risk Assets Get Boost From Waller’s Comments",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-climbs-highest-intraday-level-190342799.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-03T19:03:42Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/14834e7f811f4c227b4a8ccdaaa2ec89ca4cce88bcd278e9c8c9f1ddf3cb8113/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finvestopedia_245%2F7a078355c11d8bbe144af82b37fe6747.jpg",
+      "slug": "bitcoin-climbs-to-highest-intraday-level-since-may-as-risk-assets-get-boost-from-c282d725",
+      "orig_slug": "bitcoin-climbs-to-highest-intraday-level-since-may-as-risk-assets-get-boost-from-c282d725"
+    },
+    {
+      "title": "Gold price today, Friday, September 4, 2026: Gold price lifts ahead of jobs report",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-friday-september-4-2026-gold-price-lifts-ahead-of-jobs-report-105540094.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-04T10:55:40Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/c9b9516cffa60483a20929064fca552eb98a0f6866cdf87982815867afadd5d6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Ffriday.png",
+      "slug": "gold-price-today-friday-september-4-2026-gold-price-lifts-ahead-of-jobs-report-06a692d3",
+      "orig_slug": "gold-price-today-friday-september-4-2026-gold-price-lifts-ahead-of-jobs-report-06a692d3"
+    },
+    {
+      "title": "Silver price today, Friday, September 4, 2026: Silver prices rising ahead of August jobs report",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-friday-september-4-2026-silver-prices-rising-ahead-of-august-jobs-report-111120686.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-04T11:11:20Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/8d4d4850e04643e541b34dff8b21e5f12befd16632652eb808bbcc688dc9ff25/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-05%2F4d950ec0-03eb-414b-bfd3-9fb69d35cb32",
+      "slug": "silver-price-today-friday-september-4-2026-silver-prices-rising-ahead-of-august--b973922d",
+      "orig_slug": "silver-price-today-friday-september-4-2026-silver-prices-rising-ahead-of-august--b973922d"
+    },
+    {
+      "title": "Bitcoin and ethereum prices today, Friday, September 4, 2026: Bitcoin holding above $81,000 following massive ETF inflows",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-september-4-2026-bitcoin-holding-above-81000-following-massive-etf-inflows-113751298.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-04T11:37:51Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/4783a7ed62cfff970b202e18a949a0f88ecd2a8baa8427a2e5526e7cfcf5a99d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fbitcoin_2_9860.jpg",
+      "slug": "bitcoin-and-ethereum-prices-today-friday-september-4-2026-bitcoin-holding-above--cef43be7",
+      "orig_slug": "bitcoin-and-ethereum-prices-today-friday-september-4-2026-bitcoin-holding-above--cef43be7"
     }
   ]
 }
