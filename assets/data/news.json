@@ -1,399 +1,12 @@
 {
-  "updated": "2026-09-06T09:53:11Z",
+  "updated": "2026-09-06T13:17:53Z",
   "items": [
-    {
-      "title": "Berkshire Hathaway Outperformed the S&P 500 Over a 60-Year Period Under Warren Buffett. Here's the Stock That Could Help Continue the Streak Under Greg Abel.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-outperformed-p-500-052000998.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T05:20:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/e1691944cb004f4dfc169b01742993455c9eafa4d2f7b63d4a5757c09c8f466b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F2369774170fc945ec7899f4b8d801bd0.png",
-      "slug": "berkshire-hathaway-outperformed-the-sp-500-over-a-60-year-period-under-warren-bu-5eabe60e",
-      "orig_slug": "berkshire-hathaway-outperformed-the-sp-500-over-a-60-year-period-under-warren-bu-5eabe60e"
-    },
-    {
-      "title": "Satya Nadella Sold $43 Million of Microsoft Under a Trading Plan. Is the Insider Signal Really Bearish?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/satya-nadella-sold-43-million-054924928.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T05:49:24Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/118600e1a0c3e505853584ef03a83b88d7f2695179ae1532964f30135df2529e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F0ef59ec7c410135aa28ea66ecd5a4f15.jpg",
-      "slug": "satya-nadella-sold-43-million-of-microsoft-under-a-trading-plan-is-the-insider-s-677ac084",
-      "orig_slug": "satya-nadella-sold-43-million-of-microsoft-under-a-trading-plan-is-the-insider-s-677ac084"
-    },
-    {
-      "title": "Vistra’s CEO Bought $1.17 Million of Stock After the Selloff. Is AI Power Demand Mispriced?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/vistra-ceo-bought-1-17-054858384.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T05:48:58Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/f8097edf03a0efe12bb67b1f0d87e2b8b723a91747f16bffea9b9eb6da6b9097/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F871d66a617353ed69a67653358ebd301.jpg",
-      "slug": "vistras-ceo-bought-117-million-of-stock-after-the-selloff-is-ai-power-demand-mis-7bda7a15",
-      "orig_slug": "vistras-ceo-bought-117-million-of-stock-after-the-selloff-is-ai-power-demand-mis-7bda7a15"
-    },
-    {
-      "title": "Western Digital Director Sold $2.5 Million After a Fourfold-Plus Run. Is AI Storage Momentum Peaking?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-director-sold-2-055045902.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T05:50:45Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/2df5d204cb6dc52cf72f1025780e6b5e17cc52accd48f6d5387c7b46cd33fc1b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Ffefce92f70448fe910712774f5e61d3d.png",
-      "slug": "western-digital-director-sold-25-million-after-a-fourfold-plus-run-is-ai-storage-d204053e",
-      "orig_slug": "western-digital-director-sold-25-million-after-a-fourfold-plus-run-is-ai-storage-d204053e"
-    },
-    {
-      "title": "Palantir Won a $127 Million Army Production Order and Still Fell 6%. Is the Valuation Finally Catching Up?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-won-127-million-army-055204061.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T05:52:04Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/79b337446a1df63e6613c4f735e212d8d5aa2eefe923e518d4728ab6ac4f1af1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F730700ec9c6ed4069414624ae105934f.jpg",
-      "slug": "palantir-won-a-127-million-army-production-order-and-still-fell-6-is-the-valuati-c7d025d1",
-      "orig_slug": "palantir-won-a-127-million-army-production-order-and-still-fell-6-is-the-valuati-c7d025d1"
-    },
-    {
-      "title": "Labour tax raids make US gas cheaper than North Sea supplies",
-      "link": "https://finance.yahoo.com/energy/articles/labour-tax-raids-us-gas-053000103.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T05:30:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/3b487e6d550646c731ce1ffb051c259dc8f4108d8512e4dd7596ab638ffbc766/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F880602165fe03f0f2789a02899680458.jpg",
-      "slug": "labour-tax-raids-make-us-gas-cheaper-than-north-sea-supplies-21feac25",
-      "orig_slug": "labour-tax-raids-make-us-gas-cheaper-than-north-sea-supplies-21feac25"
-    },
-    {
-      "title": "Retail Investors Are Chasing Anthropic Before an IPO. Does Destiny Tech100 Offer Exposure or a Premium Trap?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/retail-investors-chasing-anthropic-ipo-055631043.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T05:56:31Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/6bde4d185717decdf6c32228190751d6a254ee346ecde0ebb144561c1a519723/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F6e05024de04e2f40c1093571a18bf29f.jpg",
-      "slug": "retail-investors-are-chasing-anthropic-before-an-ipo-does-destiny-tech100-offer--67565b0c",
-      "orig_slug": "retail-investors-are-chasing-anthropic-before-an-ipo-does-destiny-tech100-offer--67565b0c"
-    },
-    {
-      "title": "Fluence Has a $6.4 Billion Backlog but Pushed $400 Million of Deliveries Out. Is the AI-Power Story Breaking?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/fluence-6-4-billion-backlog-055813259.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T05:58:13Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/fde8136b225993459520cced61f26fcffb6bee294614192d1ac5050145ce2167/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Faf75df4afdea0d53f997a906952255fa.png",
-      "slug": "fluence-has-a-64-billion-backlog-but-pushed-400-million-of-deliveries-out-is-the-bc3e2100",
-      "orig_slug": "fluence-has-a-64-billion-backlog-but-pushed-400-million-of-deliveries-out-is-the-bc3e2100"
-    },
-    {
-      "title": "Pagaya Posted a Record $45 Million Profit. Is AI Lending Finally Working?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/pagaya-posted-record-45-million-060006555.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T06:00:06Z",
-      "image": "",
-      "slug": "pagaya-posted-a-record-45-million-profit-is-ai-lending-finally-working-3b4ec400",
-      "orig_slug": "pagaya-posted-a-record-45-million-profit-is-ai-lending-finally-working-3b4ec400"
-    },
-    {
-      "title": "Sprinklr’s Revenue Grew Just 1% and the Stock Fell 9%. Can AI Innovation Break the Slump?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sprinklr-revenue-grew-just-1-060252404.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T06:02:52Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/1380c518f3a1715c73ee8d766f4cc2ad3658311dd58d5491efebe426819e6ff7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fa164481db2a5a26e743dae05dc999039.jpg",
-      "slug": "sprinklrs-revenue-grew-just-1-and-the-stock-fell-9-can-ai-innovation-break-the-s-b3b6b6e5",
-      "orig_slug": "sprinklrs-revenue-grew-just-1-and-the-stock-fell-9-can-ai-innovation-break-the-s-b3b6b6e5"
-    },
-    {
-      "title": "Skip the Rate Hike, Trim the Balance Sheet, Some Fed Watchers Urge",
-      "link": "https://www.barrons.com/articles/skip-rate-hike-trim-the-balance-sheet-federal-reserve-78a73bf8?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T05:00:00Z",
-      "image": "",
-      "slug": "skip-the-rate-hike-trim-the-balance-sheet-some-fed-watchers-urge-dd6d3b1f",
-      "orig_slug": "skip-the-rate-hike-trim-the-balance-sheet-some-fed-watchers-urge-dd6d3b1f"
-    },
-    {
-      "title": "Lam Research Legal Chief Sold $1.5 Million as AI Chip Demand Booms. Is the Signal Bearish?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/lam-research-legal-chief-sold-062159762.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T06:21:59Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/a1430ea98acd9893b1764a5447bca384f75a540e7dddc22d8b29b8d6ea48458d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F71211da031f80acee19bd7526e4ccf64.jpg",
-      "slug": "lam-research-legal-chief-sold-15-million-as-ai-chip-demand-booms-is-the-signal-b-3c8a254e",
-      "orig_slug": "lam-research-legal-chief-sold-15-million-as-ai-chip-demand-booms-is-the-signal-b-3c8a254e"
-    },
-    {
-      "title": "bioAffinity’s AI Lung-Cancer Stock Jumped Nearly 48% After a Reverse Split. What Would Have to Go Right?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bioaffinity-ai-lung-cancer-stock-061350535.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T06:13:50Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/d8d32999adb03029c6c0746d62621c94868a0781ec444373d1bc5e6da56f6e58/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F237bf7d81774053ae7a1d6a31c84b22a.jpg",
-      "slug": "bioaffinitys-ai-lung-cancer-stock-jumped-nearly-48-after-a-reverse-split-what-wo-780a8cb7",
-      "orig_slug": "bioaffinitys-ai-lung-cancer-stock-jumped-nearly-48-after-a-reverse-split-what-wo-780a8cb7"
-    },
-    {
-      "title": "IFM Investors opens Singapore office to grow Asia private credit push",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ifm-investors-opens-singapore-office-041831335.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T04:18:31Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/c3707311452c5a198e820e68e4a05c9cc742169ed0c014ab27580f1fd12209e5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpitchbook_790%2F496e6f8a28b3384bdd2ff78f3660359c.jpg",
-      "slug": "ifm-investors-opens-singapore-office-to-grow-asia-private-credit-push-1462c8e5",
-      "orig_slug": "ifm-investors-opens-singapore-office-to-grow-asia-private-credit-push-1462c8e5"
-    },
-    {
-      "title": "Foxconn says third quarter to outperform market expectations on AI strength",
-      "link": "https://finance.yahoo.com/technology/ai/articles/foxconn-says-third-quarter-outperform-081331124.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T08:13:31Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/cddb7ca854d8fcbab4c820701082c7997e25c0fdea12194cb7f4e44b8bbc8ce0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fb6e5ba448539534ce58ddbcc630fa450.jpg",
-      "slug": "foxconn-says-third-quarter-to-outperform-market-expectations-on-ai-strength-574af399",
-      "orig_slug": "foxconn-says-third-quarter-to-outperform-market-expectations-on-ai-strength-574af399"
-    },
-    {
-      "title": "Here's the 1 Crypto I'd Buy If I Could Pick Only One",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/heres-1-crypto-id-buy-043500686.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T04:35:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/7bd1bbeb2c090e39576502811be1b4206ba0d838847dc84838da7c5db0fecd5b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Ffd9731393f00389890fe047313d9c63a.jpg",
-      "slug": "heres-the-1-crypto-id-buy-if-i-could-pick-only-one-2388a8dd",
-      "orig_slug": "heres-the-1-crypto-id-buy-if-i-could-pick-only-one-2388a8dd"
-    },
-    {
-      "title": "A Judge Spared Alphabet From an Ad-Tech Breakup but Ordered Changes. Does That Protect Its AI War Chest?",
-      "link": "https://finance.yahoo.com/media-advertising/articles/judge-spared-alphabet-ad-tech-090718689.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T09:07:18Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/e08a707082b35f1ce6699b49f3edf1d990eeb3659a78b71f41b6adab18f2d295/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Ff8286096530a91642b3c4e988c21ec6d.jpg",
-      "slug": "a-judge-spared-alphabet-from-an-ad-tech-breakup-but-ordered-changes-does-that-pr-e6bbbb58",
-      "orig_slug": "a-judge-spared-alphabet-from-an-ad-tech-breakup-but-ordered-changes-does-that-pr-e6bbbb58"
-    },
-    {
-      "title": "Retirees have fewer options and less ability to recover from setbacks. Here's when today's average American is retiring",
-      "link": "https://finance.yahoo.com/markets/articles/retirees-fewer-options-less-ability-090000364.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T09:00:00Z",
-      "image": "",
-      "slug": "retirees-have-fewer-options-and-less-ability-to-recover-from-setbacks-heres-when-de0e838a",
-      "orig_slug": "retirees-have-fewer-options-and-less-ability-to-recover-from-setbacks-heres-when-de0e838a"
-    },
-    {
-      "title": "A niece allegedly stole nearly $700,000 from the aunt she cared for — experts warn longer lifespans worsen the issue",
-      "link": "https://finance.yahoo.com/healthcare/articles/niece-allegedly-stole-nearly-700-093000162.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T09:30:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/fd1b8619858187e1d7d108f8151b395d517e6421c25e4f472ed8cc048e77119b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2F39e9b3c3f6c145849dd85668e3ebc20d.jpg",
-      "slug": "a-niece-allegedly-stole-nearly-700000-from-the-aunt-she-cared-for-experts-warn-l-9c9534b4",
-      "orig_slug": "a-niece-allegedly-stole-nearly-700000-from-the-aunt-she-cared-for-experts-warn-l-9c9534b4"
-    },
-    {
-      "title": "Best CD rates today, Saturday, September 5, 2026: Lock in up to 4.35% APY with an 18-month CD",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-september-5-2026-lock-in-up-to-435-apy-with-an-18-month-cd-100000088.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T10:00:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/5e2c7414dbdf59f8a16c383501ffe35898abcc5439c830d5fafb5d89b7b856b9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-07%2Fc47af0d0-4f64-11ef-a7fe-afb55aa695d3",
-      "slug": "best-cd-rates-today-saturday-september-5-2026-lock-in-up-to-435-apy-with-an-18-m-ca054f12",
-      "orig_slug": "best-cd-rates-today-saturday-september-5-2026-lock-in-up-to-435-apy-with-an-18-m-ca054f12"
-    },
-    {
-      "title": "China Is Quietly Bracing for AI’s Social Costs",
-      "link": "https://www.barrons.com/articles/china-ai-policies-regulations-6d746175?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T06:00:00Z",
-      "image": "",
-      "slug": "china-is-quietly-bracing-for-ais-social-costs-2cbe10c4",
-      "orig_slug": "china-is-quietly-bracing-for-ais-social-costs-2cbe10c4"
-    },
-    {
-      "title": "Mortgage and refinance interest rates today, Saturday, September 5, 2026: Rates roll back across the board; ARM volatility continues",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-september-5-2026-rates-roll-back-across-the-board-arm-volatility-continues-100000745.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T10:00:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/956cb88942da169c6b66cba8d0d8cd386eadb1b8d7b7f81c17f90e7fe26c4d23/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fdmr-saturday_4739.png",
-      "slug": "mortgage-and-refinance-interest-rates-today-saturday-september-5-2026-rates-roll-6790035d",
-      "orig_slug": "mortgage-and-refinance-interest-rates-today-saturday-september-5-2026-rates-roll-6790035d"
-    },
-    {
-      "title": "How A Closed Strait Turned Into A Cash Machine For BW LPG (BWLP)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/closed-strait-turned-cash-machine-100340334.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T10:03:40Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/9b0a48c5018c3dd25bb7a14963f94e1761f5034ba94080c798ade91a4c618732/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Ff285eced0e2a88de17dd27e14f3516c1.jpg",
-      "slug": "how-a-closed-strait-turned-into-a-cash-machine-for-bw-lpg-bwlp-73ed31e6",
-      "orig_slug": "how-a-closed-strait-turned-into-a-cash-machine-for-bw-lpg-bwlp-73ed31e6"
-    },
-    {
-      "title": "Every Christmas Warren Buffett gave $10K to his daughter-in-law, but she spent it all. 5 ways to use your own windfall",
-      "link": "https://finance.yahoo.com/markets/articles/every-christmas-warren-buffett-gave-100500498.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T10:05:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/d2e278044f3599d5d021c4ca8d304ebcd06223b69fa2cb37a32b69dab7291e7d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2F565ad52bf2a1361661d4b97cb7853a5b.jpg",
-      "slug": "every-christmas-warren-buffett-gave-10k-to-his-daughter-in-law-but-she-spent-it--702a788d",
-      "orig_slug": "every-christmas-warren-buffett-gave-10k-to-his-daughter-in-law-but-she-spent-it--702a788d"
-    },
-    {
-      "title": "Robo.ai Says Three Months of Revenue Topped $180 Million. Why Does the Balance Sheet Still Look Fragile?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/robo-ai-says-three-months-101132977.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T10:11:32Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/9116cdaaa9689b662dc28e5bb753bb0aabcff783407ea5b13cd13ca53832e707/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Ffe6df560f5972179370a6de83091bdc1.jpg",
-      "slug": "roboai-says-three-months-of-revenue-topped-180-million-why-does-the-balance-shee-30e2893f",
-      "orig_slug": "roboai-says-three-months-of-revenue-topped-180-million-why-does-the-balance-shee-30e2893f"
-    },
-    {
-      "title": "Average Net Worth for Ages 45-54: Key Factors That Influence Wealth in Midlife",
-      "link": "https://finance.yahoo.com/markets/articles/average-net-worth-ages-45-042833192.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T04:28:33Z",
-      "image": "",
-      "slug": "average-net-worth-for-ages-45-54-key-factors-that-influence-wealth-in-midlife-71c39291",
-      "orig_slug": "average-net-worth-for-ages-45-54-key-factors-that-influence-wealth-in-midlife-71c39291"
-    },
-    {
-      "title": "RingCentral Says Paid-AI Customers Now Represent 13% of ARR as Revenue Grew 6%. Has the Market Already Priced It In?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ringcentral-says-paid-ai-customers-101426371.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T10:14:26Z",
-      "image": "",
-      "slug": "ringcentral-says-paid-ai-customers-now-represent-13-of-arr-as-revenue-grew-6-has-c9cce25b",
-      "orig_slug": "ringcentral-says-paid-ai-customers-now-represent-13-of-arr-as-revenue-grew-6-has-c9cce25b"
-    },
-    {
-      "title": "WhiteFiber’s Cloud and Colocation Revenue Grew With 6 Million Shares Sold Short. Is This AI Data-Center Bet a Squeeze or a Trap?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/whitefiber-cloud-colocation-revenue-grew-101709645.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T10:17:09Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/3abab5a1f278044f01985810d01f2eefb699d0bb6f5b2d9ba96232f87b39d3e2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F26b271f9e89b87fafe7fcdf53e8458d7.jpg",
-      "slug": "whitefibers-cloud-and-colocation-revenue-grew-with-6-million-shares-sold-short-i-864a49b2",
-      "orig_slug": "whitefibers-cloud-and-colocation-revenue-grew-with-6-million-shares-sold-short-i-864a49b2"
-    },
-    {
-      "title": "SanDisk (SNDK) Soars on S&P 100 Inclusion; Hedge Fund Ownership More-Than-Doubles",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-soars-p-100-021124605.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T02:11:24Z",
-      "image": "",
-      "slug": "sandisk-sndk-soars-on-sp-100-inclusion-hedge-fund-ownership-more-than-doubles-84ce5765",
-      "orig_slug": "sandisk-sndk-soars-on-sp-100-inclusion-hedge-fund-ownership-more-than-doubles-84ce5765"
-    },
-    {
-      "title": "Monolithic Power Revenue Jumped 48%. Can AI Power Chips Keep the Momentum Going?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/monolithic-power-revenue-jumped-48-102200069.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T10:22:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/b2d2f8edf72b447ee0fd80fb3187b772ffae145aca18b1c026b679acc87be28a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fecebfb0ba7c7a8aee3884e1b234ef4b9.jpg",
-      "slug": "monolithic-power-revenue-jumped-48-can-ai-power-chips-keep-the-momentum-going-cceb0837",
-      "orig_slug": "monolithic-power-revenue-jumped-48-can-ai-power-chips-keep-the-momentum-going-cceb0837"
-    },
-    {
-      "title": "Metaplanet’s Business Head Phil Geiger Departs to Pursue New Bitcoin Ventures",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/metaplanet-business-head-phil-geiger-063836553.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T06:38:36Z",
-      "image": "",
-      "slug": "metaplanets-business-head-phil-geiger-departs-to-pursue-new-bitcoin-ventures-157b7f89",
-      "orig_slug": "metaplanets-business-head-phil-geiger-departs-to-pursue-new-bitcoin-ventures-157b7f89"
-    },
-    {
-      "title": "AST SpaceMobile Director Bought $619,000 as Short Interest Reached 57.5 Million Shares. Is the Risk-Reward Turning?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-director-bought-619-102359403.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T10:23:59Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/091ab36c07d42942f18636ac8f5ecefc36b792b0ec6a4b66bb3637a587efda17/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F63bd9bb30b6fcda153fb8f23b830565b.jpg",
-      "slug": "ast-spacemobile-director-bought-619000-as-short-interest-reached-575-million-sha-18b2450e",
-      "orig_slug": "ast-spacemobile-director-bought-619000-as-short-interest-reached-575-million-sha-18b2450e"
-    },
-    {
-      "title": "Jim Cramer on PG&E (PCG): Wildfire Liability Puts Growth Plans Under Pressure",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-pg-e-pcg-102609345.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T10:26:09Z",
-      "image": "",
-      "slug": "jim-cramer-on-pge-pcg-wildfire-liability-puts-growth-plans-under-pressure-a86256c7",
-      "orig_slug": "jim-cramer-on-pge-pcg-wildfire-liability-puts-growth-plans-under-pressure-a86256c7"
-    },
-    {
-      "title": "Jim Cramer Says “Own It, Don’t Trade It” as CVS Health Gains Momentum",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-own-don-103206104.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T10:32:06Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/9820941012d9dda36efc4bfa15033c9939432abe04bedba347aa94bdcfbdd487/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F3fe61364b95991c98978f250ba7bea2c.png",
-      "slug": "jim-cramer-says-own-it-dont-trade-it-as-cvs-health-gains-momentum-89c30396",
-      "orig_slug": "jim-cramer-says-own-it-dont-trade-it-as-cvs-health-gains-momentum-89c30396"
-    },
-    {
-      "title": "Lilly Launches Foundayo in the UK as NICE Review Continues",
-      "link": "https://finance.yahoo.com/healthcare/articles/lilly-launches-foundayo-uk-nice-004726812.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T00:47:26Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/0c1d010ca071866d0f0aa32bf105f0932cb8bd08c27857948e7497daaf571492/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F2c8f851c326321f2c94ddd4776afda17.jpg",
-      "slug": "lilly-launches-foundayo-in-the-uk-as-nice-review-continues-615b2d5c",
-      "orig_slug": "lilly-launches-foundayo-in-the-uk-as-nice-review-continues-615b2d5c"
-    },
-    {
-      "title": "Here's How Many Shares of Coca-Cola You'd Need for $40,000 in Yearly Dividends",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/heres-many-shares-coca-cola-065000556.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T06:50:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/514e9fb676cd62b9a8c15a933f736c4c332fe36c586937a8d7045dc51d35fff4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F2ef1c91692c641ad4ecd02ce0f85a028.png",
-      "slug": "heres-how-many-shares-of-coca-cola-youd-need-for-40000-in-yearly-dividends-24bc0c96",
-      "orig_slug": "heres-how-many-shares-of-coca-cola-youd-need-for-40000-in-yearly-dividends-24bc0c96"
-    },
-    {
-      "title": "Jim Cramer Explains Why SanDisk (SNDK) Makes MongoDB (MDB) Look Expensive",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-why-sandisk-103707259.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T10:37:07Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/9820941012d9dda36efc4bfa15033c9939432abe04bedba347aa94bdcfbdd487/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F3fe61364b95991c98978f250ba7bea2c.png",
-      "slug": "jim-cramer-explains-why-sandisk-sndk-makes-mongodb-mdb-look-expensive-2dddefc0",
-      "orig_slug": "jim-cramer-explains-why-sandisk-sndk-makes-mongodb-mdb-look-expensive-2dddefc0"
-    },
-    {
-      "title": "‘Come to take your money’: Stephen A. Smith says taxes would eat 2/3 of his income in California — so he fled to Florida",
-      "link": "https://finance.yahoo.com/economy/policy/articles/come-money-stephen-smith-says-104500432.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T10:45:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/2123e19bf85d75091f229d4e66be15d6c448c55bdfbda9d0287a72ab721b098d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2Fae6889c31a5ca23c722d7ddd06f4446f.jpg",
-      "slug": "come-to-take-your-money-stephen-a-smith-says-taxes-would-eat-23-of-his-income-in-d00e647a",
-      "orig_slug": "come-to-take-your-money-stephen-a-smith-says-taxes-would-eat-23-of-his-income-in-d00e647a"
-    },
-    {
-      "title": "Guardant Health Faces a $245 Million Patent Judgment, But Its Newer Tests Could Offer Protection",
-      "link": "https://finance.yahoo.com/healthcare/articles/guardant-health-faces-245-million-000738370.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T00:07:38Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/bbdb3292b9ca05648a339a371a27275480a4fd057db80ba783d5d587c39592db/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F2a5225bbb1b6e607d0c46f4a4303fa02.jpg",
-      "slug": "guardant-health-faces-a-245-million-patent-judgment-but-its-newer-tests-could-of-31c01539",
-      "orig_slug": "guardant-health-faces-a-245-million-patent-judgment-but-its-newer-tests-could-of-31c01539"
-    },
-    {
-      "title": "Alibaba’s Wan3.0 Expands Its AI Ambitions, Could Shareholders Be Paying the Bill?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-wan3-0-expands-ai-000524030.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T00:05:24Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/475901d394afb41fa610502bc5523dc997212eb108872001b9c33d85d514dafe/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F090170be12ef840f77e8d544392228a0.jpg",
-      "slug": "alibabas-wan30-expands-its-ai-ambitions-could-shareholders-be-paying-the-bill-c6e3566c",
-      "orig_slug": "alibabas-wan30-expands-its-ai-ambitions-could-shareholders-be-paying-the-bill-c6e3566c"
-    },
-    {
-      "title": "Average Net Worth for Baby Boomers: Why Wealth Distribution Varied Across the Generation",
-      "link": "https://finance.yahoo.com/economy/articles/average-net-worth-baby-boomers-042000292.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T04:20:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/fadda351ed156a210022af8878fab24e9706e06b9809e49152e5a418cec71130/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finvestopedia_245%2Fac4badf314f2bebfdb108ae63fa73283.jpg",
-      "slug": "average-net-worth-for-baby-boomers-why-wealth-distribution-varied-across-the-gen-10efce3f",
-      "orig_slug": "average-net-worth-for-baby-boomers-why-wealth-distribution-varied-across-the-gen-10efce3f"
-    },
-    {
-      "title": "Five Below (FIVE) Reported Sales Growth and Authorized a $600M Repurchase Program. Can Recovery Fund Expansion and Capital Returns?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-five-reported-sales-235528598.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-04T23:55:28Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/f1779e4cf566da64dc655544b1a8fd885d5f03005ca71b4670b969f14d28e375/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F4145f5a304341bf0f121726e52c3b7c5.jpg",
-      "slug": "five-below-five-reported-sales-growth-and-authorized-a-600m-repurchase-program-c-83a587c0",
-      "orig_slug": "five-below-five-reported-sales-growth-and-authorized-a-600m-repurchase-program-c-83a587c0"
-    },
-    {
-      "title": "Hafnia (HAFN) Payouts Surge as Q2 Profit Hits Multi-Year High",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hafnia-hafn-payouts-surge-q2-111110885.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T11:11:10Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/aae3422526451462fc81dbd78d06aaa68c68e1fac8d1d58a0018a1071165f6ae/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F4fb94079c1b22c310f482784f7856c11.jpg",
-      "slug": "hafnia-hafn-payouts-surge-as-q2-profit-hits-multi-year-high-6a0da752",
-      "orig_slug": "hafnia-hafn-payouts-surge-as-q2-profit-hits-multi-year-high-6a0da752"
-    },
     {
       "title": "Trump boasts Iran blockade is ‘unbelievable’ as oil tops $90 and US reserves near danger. Inflation-proof your nest egg",
       "link": "https://finance.yahoo.com/energy/articles/trump-boasts-iran-blockade-unbelievable-111500672.html",
       "source": "finance.yahoo.com",
       "pubDate": "2026-09-05T11:15:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/6b7807ba890e904fa65102abba239a7687988e197e840f7c7d70362a3ab6724b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2F5e1f588721d9d1f28ab6c633bfad46eb.jpg",
+      "image": "",
       "slug": "trump-boasts-iran-blockade-is-unbelievable-as-oil-tops-90-and-us-reserves-near-d-33ee97c8",
       "orig_slug": "trump-boasts-iran-blockade-is-unbelievable-as-oil-tops-90-and-us-reserves-near-d-33ee97c8"
     },
@@ -402,18 +15,18 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-breaks-down-p-111844638.html",
       "source": "finance.yahoo.com",
       "pubDate": "2026-09-05T11:18:44Z",
-      "image": "",
+      "image": "https://s.yimg.com/lo/mysterio/api/9820941012d9dda36efc4bfa15033c9939432abe04bedba347aa94bdcfbdd487/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F3fe61364b95991c98978f250ba7bea2c.png",
       "slug": "jim-cramer-breaks-down-pe-multiples-explaining-why-nvidia-nvda-looks-cheaper-tha-0456b06a",
       "orig_slug": "jim-cramer-breaks-down-pe-multiples-explaining-why-nvidia-nvda-looks-cheaper-tha-0456b06a"
     },
     {
-      "title": "CEO Brian Niccol Just Announced Incredible News for Starbucks Investors",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ceo-brian-niccol-just-announced-070501651.html",
+      "title": "Ripple Put the XRP Logo on a College Football Field. Does That Move the XRP Price?",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/ripple-put-xrp-logo-college-112006624.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-09-05T07:05:01Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/77a01e77492292d207172d287f92fd58d921294840cc0b8cceb03e3f6eb86f93/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fa2f876439ca77c1a288ba84540daf1c2.png",
-      "slug": "ceo-brian-niccol-just-announced-incredible-news-for-starbucks-investors-e8864d04",
-      "orig_slug": "ceo-brian-niccol-just-announced-incredible-news-for-starbucks-investors-e8864d04"
+      "pubDate": "2026-09-05T11:20:06Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/7ed31f9a3de6d7cb791460ae83455fe66c4421f583a9cb2d3be451ef21348705/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F3e15d94f175710a5a5aa8e5138b4e9e5",
+      "slug": "ripple-put-the-xrp-logo-on-a-college-football-field-does-that-move-the-xrp-price-34324b10",
+      "orig_slug": "ripple-put-the-xrp-logo-on-a-college-football-field-does-that-move-the-xrp-price-34324b10"
     },
     {
       "title": "Chagee’s (CHA) Overseas Boom Masks A Bruising Home Market Fight",
@@ -434,22 +47,409 @@
       "orig_slug": "soundhound-ai-closed-its-liveperson-deal-does-the-acquisition-fix-souns-scale-pr-34e12ae7"
     },
     {
-      "title": "6 money-saving apps to help you grow your wealth",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/money-saving-apps-230925997.html",
+      "title": "Scott Galloway warns chasing a raise with every job switch could backfire — especially for older workers",
+      "link": "https://finance.yahoo.com/small-business/articles/scott-galloway-warns-chasing-raise-113000182.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2024-06-03T23:09:25Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/660346738237f9a9f32a49df68abcb0f4711b209553fc786c18b265a9d3de53e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2023-12%2F1cdde140-a1c0-11ee-abbb-f7ce18ade96e",
-      "slug": "6-money-saving-apps-to-help-you-grow-your-wealth-9cc5d1d8",
-      "orig_slug": "6-money-saving-apps-to-help-you-grow-your-wealth-9cc5d1d8"
+      "pubDate": "2026-09-05T11:30:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/d169bac86187bbc6698fb523c3ad6e40fdfd9ca7a2ce1c663b54133e0855bc9a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2Fb1f0592a34d849935e14fccd9311ed47.png",
+      "slug": "scott-galloway-warns-chasing-a-raise-with-every-job-switch-could-backfire-especi-e91d9a22",
+      "orig_slug": "scott-galloway-warns-chasing-a-raise-with-every-job-switch-could-backfire-especi-e91d9a22"
     },
     {
-      "title": "Bread Savings review (2026): Home to high-interest online savings and CD accounts",
-      "link": "https://finance.yahoo.com/personal-finance/banking/review/bread-savings-review-203340890.html",
+      "title": "Dianthus (DNTH) Piles Up Clinical Wins While Its Losses Widen",
+      "link": "https://finance.yahoo.com/healthcare/articles/dianthus-dnth-piles-clinical-wins-113007681.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2024-09-19T20:33:40Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/f2a4a59bb064bb6375d1b5987c25d8c9dd6b2d2401cd532fe191fce7e0bf03e1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-05%2Fa7c8cbd0-31ed-11f0-b7de-3e3b67e4a642",
-      "slug": "bread-savings-review-2026-home-to-high-interest-online-savings-and-cd-accounts-d19bb0e8",
-      "orig_slug": "bread-savings-review-2026-home-to-high-interest-online-savings-and-cd-accounts-d19bb0e8"
+      "pubDate": "2026-09-05T11:30:07Z",
+      "image": "",
+      "slug": "dianthus-dnth-piles-up-clinical-wins-while-its-losses-widen-99dbcd31",
+      "orig_slug": "dianthus-dnth-piles-up-clinical-wins-while-its-losses-widen-99dbcd31"
+    },
+    {
+      "title": "Even With the S&P 500 at All-Time Highs, I'd Buy This High-Yield Dividend Stock Without Any Hesitation in September.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/even-p-500-time-highs-112500332.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-05T11:25:00Z",
+      "image": "",
+      "slug": "even-with-the-sp-500-at-all-time-highs-id-buy-this-high-yield-dividend-stock-wit-9eefae2c",
+      "orig_slug": "even-with-the-sp-500-at-all-time-highs-id-buy-this-high-yield-dividend-stock-wit-9eefae2c"
+    },
+    {
+      "title": "Hafnia (HAFN) Payouts Surge as Q2 Profit Hits Multi-Year High",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hafnia-hafn-payouts-surge-q2-111110885.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-05T11:11:10Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/aae3422526451462fc81dbd78d06aaa68c68e1fac8d1d58a0018a1071165f6ae/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F4fb94079c1b22c310f482784f7856c11.jpg",
+      "slug": "hafnia-hafn-payouts-surge-as-q2-profit-hits-multi-year-high-6a0da752",
+      "orig_slug": "hafnia-hafn-payouts-surge-as-q2-profit-hits-multi-year-high-6a0da752"
+    },
+    {
+      "title": "JBT Marel (JBTM) Rides Record Orders Into A Messy Quarter",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jbt-marel-jbtm-rides-record-113850875.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-05T11:38:50Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/03faf00ac2f2888016971acbdb701ac853a1100c5f7696ec77cbd29e02f630d5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F76630ba3731938fcb800cf4440c07586.jpg",
+      "slug": "jbt-marel-jbtm-rides-record-orders-into-a-messy-quarter-e555ce78",
+      "orig_slug": "jbt-marel-jbtm-rides-record-orders-into-a-messy-quarter-e555ce78"
+    },
+    {
+      "title": "Buffett’s successor says Americans are ‘struggling’ after $6.8B housing bet. Turn the ‘bumpy road’ into real wealth now",
+      "link": "https://finance.yahoo.com/real-estate/articles/buffett-successor-says-americans-struggling-114500118.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-05T11:45:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/da3788aacf076040a5c7767795b3b941e9b010221682096384454adcf7a9278e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2Fd0b652c466add5cc7f67caebd27acb9e.jpg",
+      "slug": "buffetts-successor-says-americans-are-struggling-after-68b-housing-bet-turn-the--bbb707d1",
+      "orig_slug": "buffetts-successor-says-americans-are-struggling-after-68b-housing-bet-turn-the--bbb707d1"
+    },
+    {
+      "title": "Qualys (QLYS) Posts Double-Digit Growth And Still Raises The Bar",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/qualys-qlys-posts-double-digit-115235022.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-05T11:52:35Z",
+      "image": "",
+      "slug": "qualys-qlys-posts-double-digit-growth-and-still-raises-the-bar-30132337",
+      "orig_slug": "qualys-qlys-posts-double-digit-growth-and-still-raises-the-bar-30132337"
+    },
+    {
+      "title": "Should You Buy Canopy Growth Stock on the Rebound?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/buy-canopy-growth-stock-rebound-113500991.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-05T11:35:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/70b6385c0fcf047f2eab4427a7a4defccb7a850b6430bbd48faac9f218bfc4d9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F4157f5a5d554d9335917d2051d9bf730.jpg",
+      "slug": "should-you-buy-canopy-growth-stock-on-the-rebound-5d0ef328",
+      "orig_slug": "should-you-buy-canopy-growth-stock-on-the-rebound-5d0ef328"
+    },
+    {
+      "title": "ServiceNow Leads Five Stocks To Watch Near Buy Points",
+      "link": "https://www.investors.com/news/servicenow-stocks-to-watch-buy-points/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-05T12:00:14Z",
+      "image": "https://www.investors.com/wp-content/uploads/2020/04/Stock-ServiceNow-04-shutt.jpg",
+      "slug": "servicenow-leads-five-stocks-to-watch-near-buy-points-59af06bd",
+      "orig_slug": "servicenow-leads-five-stocks-to-watch-near-buy-points-59af06bd"
+    },
+    {
+      "title": "‘Come to take your money’: Stephen A. Smith says taxes would eat 2/3 of his income in California — so he fled to Florida",
+      "link": "https://finance.yahoo.com/economy/policy/articles/come-money-stephen-smith-says-104500432.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-05T10:45:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/2123e19bf85d75091f229d4e66be15d6c448c55bdfbda9d0287a72ab721b098d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2Fae6889c31a5ca23c722d7ddd06f4446f.jpg",
+      "slug": "come-to-take-your-money-stephen-a-smith-says-taxes-would-eat-23-of-his-income-in-d00e647a",
+      "orig_slug": "come-to-take-your-money-stephen-a-smith-says-taxes-would-eat-23-of-his-income-in-d00e647a"
+    },
+    {
+      "title": "Jim Cramer Explains Why SanDisk (SNDK) Makes MongoDB (MDB) Look Expensive",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-why-sandisk-103707259.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-05T10:37:07Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/9820941012d9dda36efc4bfa15033c9939432abe04bedba347aa94bdcfbdd487/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F3fe61364b95991c98978f250ba7bea2c.png",
+      "slug": "jim-cramer-explains-why-sandisk-sndk-makes-mongodb-mdb-look-expensive-2dddefc0",
+      "orig_slug": "jim-cramer-explains-why-sandisk-sndk-makes-mongodb-mdb-look-expensive-2dddefc0"
+    },
+    {
+      "title": "Jim Cramer Says “Own It, Don’t Trade It” as CVS Health Gains Momentum",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-own-don-103206104.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-05T10:32:06Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/9820941012d9dda36efc4bfa15033c9939432abe04bedba347aa94bdcfbdd487/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F3fe61364b95991c98978f250ba7bea2c.png",
+      "slug": "jim-cramer-says-own-it-dont-trade-it-as-cvs-health-gains-momentum-89c30396",
+      "orig_slug": "jim-cramer-says-own-it-dont-trade-it-as-cvs-health-gains-momentum-89c30396"
+    },
+    {
+      "title": "Realty Income Is Paying More Dividends Than Ever Before and Yields 5.3%. Here's Why Its High-Yield Monthly Payout Is as Safe as It Gets.",
+      "link": "https://finance.yahoo.com/real-estate/articles/realty-income-paying-more-dividends-114000316.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-05T11:40:00Z",
+      "image": "",
+      "slug": "realty-income-is-paying-more-dividends-than-ever-before-and-yields-53-heres-why--d0698cb6",
+      "orig_slug": "realty-income-is-paying-more-dividends-than-ever-before-and-yields-53-heres-why--d0698cb6"
+    },
+    {
+      "title": "OpenAI’s $1 Billion Cyber Push Backs Cloudflare and SentinelOne. Which Has the Better AI Security Model?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/openai-1-billion-cyber-push-122609472.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-05T12:26:09Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/9f2e87f1f79a4d3bb4857eb4b092f0d8dbd37335a3673895d7a74c7b897ae5d6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Faf094c0e0abcaf66627bbba6e132051f.jpg",
+      "slug": "openais-1-billion-cyber-push-backs-cloudflare-and-sentinelone-which-has-the-bett-7871a73d",
+      "orig_slug": "openais-1-billion-cyber-push-backs-cloudflare-and-sentinelone-which-has-the-bett-7871a73d"
+    },
+    {
+      "title": "Jim Cramer on PG&E (PCG): Wildfire Liability Puts Growth Plans Under Pressure",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-pg-e-pcg-102609345.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-05T10:26:09Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/9820941012d9dda36efc4bfa15033c9939432abe04bedba347aa94bdcfbdd487/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F3fe61364b95991c98978f250ba7bea2c.png",
+      "slug": "jim-cramer-on-pge-pcg-wildfire-liability-puts-growth-plans-under-pressure-a86256c7",
+      "orig_slug": "jim-cramer-on-pge-pcg-wildfire-liability-puts-growth-plans-under-pressure-a86256c7"
+    },
+    {
+      "title": "AST SpaceMobile Director Bought $619,000 as Short Interest Reached 57.5 Million Shares. Is the Risk-Reward Turning?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-director-bought-619-102359403.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-05T10:23:59Z",
+      "image": "",
+      "slug": "ast-spacemobile-director-bought-619000-as-short-interest-reached-575-million-sha-18b2450e",
+      "orig_slug": "ast-spacemobile-director-bought-619000-as-short-interest-reached-575-million-sha-18b2450e"
+    },
+    {
+      "title": "Monolithic Power Revenue Jumped 48%. Can AI Power Chips Keep the Momentum Going?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/monolithic-power-revenue-jumped-48-102200069.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-05T10:22:00Z",
+      "image": "",
+      "slug": "monolithic-power-revenue-jumped-48-can-ai-power-chips-keep-the-momentum-going-cceb0837",
+      "orig_slug": "monolithic-power-revenue-jumped-48-can-ai-power-chips-keep-the-momentum-going-cceb0837"
+    },
+    {
+      "title": "The 18-Year Housing Cycle Says the Next Market Crash Is Close",
+      "link": "https://finance.yahoo.com/real-estate/articles/18-housing-cycle-says-next-114834512.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-05T11:48:34Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/22225600293897dce071aa83640559a51c123360408d2d1952ed05016627f3e7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Fe0dc11a730131d355e9cf8685d011e80.jpg",
+      "slug": "the-18-year-housing-cycle-says-the-next-market-crash-is-close-5a48a1c4",
+      "orig_slug": "the-18-year-housing-cycle-says-the-next-market-crash-is-close-5a48a1c4"
+    },
+    {
+      "title": "WhiteFiber’s Cloud and Colocation Revenue Grew With 6 Million Shares Sold Short. Is This AI Data-Center Bet a Squeeze or a Trap?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/whitefiber-cloud-colocation-revenue-grew-101709645.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-05T10:17:09Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/3abab5a1f278044f01985810d01f2eefb699d0bb6f5b2d9ba96232f87b39d3e2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F26b271f9e89b87fafe7fcdf53e8458d7.jpg",
+      "slug": "whitefibers-cloud-and-colocation-revenue-grew-with-6-million-shares-sold-short-i-864a49b2",
+      "orig_slug": "whitefibers-cloud-and-colocation-revenue-grew-with-6-million-shares-sold-short-i-864a49b2"
+    },
+    {
+      "title": "RingCentral Says Paid-AI Customers Now Represent 13% of ARR as Revenue Grew 6%. Has the Market Already Priced It In?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ringcentral-says-paid-ai-customers-101426371.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-05T10:14:26Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/33081bb2ad20d144dac96c170a3f37b476e643c3b35cddd999541af8ae046890/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F5e61238c05b1fe05fae907d2e1af40a0.jpg",
+      "slug": "ringcentral-says-paid-ai-customers-now-represent-13-of-arr-as-revenue-grew-6-has-c9cce25b",
+      "orig_slug": "ringcentral-says-paid-ai-customers-now-represent-13-of-arr-as-revenue-grew-6-has-c9cce25b"
+    },
+    {
+      "title": "Robo.ai Says Three Months of Revenue Topped $180 Million. Why Does the Balance Sheet Still Look Fragile?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/robo-ai-says-three-months-101132977.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-05T10:11:32Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/9116cdaaa9689b662dc28e5bb753bb0aabcff783407ea5b13cd13ca53832e707/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Ffe6df560f5972179370a6de83091bdc1.jpg",
+      "slug": "roboai-says-three-months-of-revenue-topped-180-million-why-does-the-balance-shee-30e2893f",
+      "orig_slug": "roboai-says-three-months-of-revenue-topped-180-million-why-does-the-balance-shee-30e2893f"
+    },
+    {
+      "title": "Palantir Jumped 7.7% on an Expanded PwC Alliance as Globant Launched a Salesforce AI Pod. Which Services Model Scales Better?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/palantir-jumped-7-7-expanded-123838463.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-05T12:38:38Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/7419a5f3e7e0e95d64eaa27136e6bb6cc6c041027293c8783c06d6512922b40c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F1ff6b7fecb40946a6b0937648ae250a9.jpg",
+      "slug": "palantir-jumped-77-on-an-expanded-pwc-alliance-as-globant-launched-a-salesforce--45ebc15e",
+      "orig_slug": "palantir-jumped-77-on-an-expanded-pwc-alliance-as-globant-launched-a-salesforce--45ebc15e"
+    },
+    {
+      "title": "Breakfast News: How Fools Are Investing Right Now",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/breakfast-news-fools-investing-now-115000646.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-05T11:50:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/b120adb2ec2b0e59472110b9562c9855cbb6ec28ccc7d663304b046ad1cbe381/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F88a7264c59f4a8a4a1f4413bc64f6dc0.png",
+      "slug": "breakfast-news-how-fools-are-investing-right-now-4d0b38e3",
+      "orig_slug": "breakfast-news-how-fools-are-investing-right-now-4d0b38e3"
+    },
+    {
+      "title": "Every Christmas Warren Buffett gave $10K to his daughter-in-law, but she spent it all. 5 ways to use your own windfall",
+      "link": "https://finance.yahoo.com/markets/articles/every-christmas-warren-buffett-gave-100500498.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-05T10:05:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/d2e278044f3599d5d021c4ca8d304ebcd06223b69fa2cb37a32b69dab7291e7d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2F565ad52bf2a1361661d4b97cb7853a5b.jpg",
+      "slug": "every-christmas-warren-buffett-gave-10k-to-his-daughter-in-law-but-she-spent-it--702a788d",
+      "orig_slug": "every-christmas-warren-buffett-gave-10k-to-his-daughter-in-law-but-she-spent-it--702a788d"
+    },
+    {
+      "title": "How A Closed Strait Turned Into A Cash Machine For BW LPG (BWLP)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/closed-strait-turned-cash-machine-100340334.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-05T10:03:40Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/9b0a48c5018c3dd25bb7a14963f94e1761f5034ba94080c798ade91a4c618732/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Ff285eced0e2a88de17dd27e14f3516c1.jpg",
+      "slug": "how-a-closed-strait-turned-into-a-cash-machine-for-bw-lpg-bwlp-73ed31e6",
+      "orig_slug": "how-a-closed-strait-turned-into-a-cash-machine-for-bw-lpg-bwlp-73ed31e6"
+    },
+    {
+      "title": "Best CD rates today, Saturday, September 5, 2026: Lock in up to 4.35% APY with an 18-month CD",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-september-5-2026-lock-in-up-to-435-apy-with-an-18-month-cd-100000088.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-05T10:00:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/5e2c7414dbdf59f8a16c383501ffe35898abcc5439c830d5fafb5d89b7b856b9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-07%2Fc47af0d0-4f64-11ef-a7fe-afb55aa695d3",
+      "slug": "best-cd-rates-today-saturday-september-5-2026-lock-in-up-to-435-apy-with-an-18-m-ca054f12",
+      "orig_slug": "best-cd-rates-today-saturday-september-5-2026-lock-in-up-to-435-apy-with-an-18-m-ca054f12"
+    },
+    {
+      "title": "Mortgage and refinance interest rates today, Saturday, September 5, 2026: Rates roll back across the board; ARM volatility continues",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-september-5-2026-rates-roll-back-across-the-board-arm-volatility-continues-100000745.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-05T10:00:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/956cb88942da169c6b66cba8d0d8cd386eadb1b8d7b7f81c17f90e7fe26c4d23/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fdmr-saturday_4739.png",
+      "slug": "mortgage-and-refinance-interest-rates-today-saturday-september-5-2026-rates-roll-6790035d",
+      "orig_slug": "mortgage-and-refinance-interest-rates-today-saturday-september-5-2026-rates-roll-6790035d"
+    },
+    {
+      "title": "Insiders and Early Investors Are Selling SpaceX Stock and Index Funds Are Buying It. Which Side Do You Want to Be On?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/insiders-early-investors-selling-spacex-115000736.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-05T11:50:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/2c9afc1888649a01ed933106b180e49d871823135513e4a3b418ca47f6b20ae6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F1446347040697dfd5c6bcc0fb007ef8d.png",
+      "slug": "insiders-and-early-investors-are-selling-spacex-stock-and-index-funds-are-buying-ed894533",
+      "orig_slug": "insiders-and-early-investors-are-selling-spacex-stock-and-index-funds-are-buying-ed894533"
+    },
+    {
+      "title": "Dollar General (DG) or Dollar Tree (DLTR): Which Stock Is Better?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dollar-general-dg-dollar-tree-124227102.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-05T12:42:27Z",
+      "image": "",
+      "slug": "dollar-general-dg-or-dollar-tree-dltr-which-stock-is-better-f6c279e7",
+      "orig_slug": "dollar-general-dg-or-dollar-tree-dltr-which-stock-is-better-f6c279e7"
+    },
+    {
+      "title": "Expansion of Commercial Operations in Focus for BWX Technologies (BWXT)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/expansion-commercial-operations-focus-bwx-124456110.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-05T12:44:56Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/808b49a6b2d0e76916880b9ec3a9fd68fa2dd8000bea4bcd36207be9384d9f71/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F7c9330542b715385bb84e659736eb08f.jpg",
+      "slug": "expansion-of-commercial-operations-in-focus-for-bwx-technologies-bwxt-45d2c12f",
+      "orig_slug": "expansion-of-commercial-operations-in-focus-for-bwx-technologies-bwxt-45d2c12f"
+    },
+    {
+      "title": "‘Wow, wow, wow!’: CNBC host clearly shocked after US economy adds 162,000 jobs — 3X expectations. Bet on America now",
+      "link": "https://finance.yahoo.com/economy/articles/wow-wow-wow-cnbc-host-124500252.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-05T12:45:00Z",
+      "image": "",
+      "slug": "wow-wow-wow-cnbc-host-clearly-shocked-after-us-economy-adds-162000-jobs-3x-expec-fc3afc9e",
+      "orig_slug": "wow-wow-wow-cnbc-host-clearly-shocked-after-us-economy-adds-162000-jobs-3x-expec-fc3afc9e"
+    },
+    {
+      "title": "A niece allegedly stole nearly $700,000 from the aunt she cared for — experts warn longer lifespans worsen the issue",
+      "link": "https://finance.yahoo.com/healthcare/articles/niece-allegedly-stole-nearly-700-093000162.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-05T09:30:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/fd1b8619858187e1d7d108f8151b395d517e6421c25e4f472ed8cc048e77119b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2F39e9b3c3f6c145849dd85668e3ebc20d.jpg",
+      "slug": "a-niece-allegedly-stole-nearly-700000-from-the-aunt-she-cared-for-experts-warn-l-9c9534b4",
+      "orig_slug": "a-niece-allegedly-stole-nearly-700000-from-the-aunt-she-cared-for-experts-warn-l-9c9534b4"
+    },
+    {
+      "title": "Jim Cramer has a blunt message for Amazon stock investors",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-blunt-message-amazon-110300750.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-05T11:03:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/705deef226c04e419cd055c318a2c7f769df26dc37b865941a3032bc06479f8a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2Fb6da898f78fd9b1f476c0afa8dbeb473.jpg",
+      "slug": "jim-cramer-has-a-blunt-message-for-amazon-stock-investors-8f938810",
+      "orig_slug": "jim-cramer-has-a-blunt-message-for-amazon-stock-investors-8f938810"
+    },
+    {
+      "title": "Acquisitive Strategy Offers Long-Term Prospects for QXO Inc. (QXO) Despite Dilution and Integration Risks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/acquisitive-strategy-offers-long-term-125906273.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-05T12:59:06Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/89bea311f8260a0c45c5d1071b50c92fbafdd020ac094c291aaf3ed6f0c746e7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F5706f02b0b4f9dfa014dbdae4bf55bbd.jpg",
+      "slug": "acquisitive-strategy-offers-long-term-prospects-for-qxo-inc-qxo-despite-dilution-88d90090",
+      "orig_slug": "acquisitive-strategy-offers-long-term-prospects-for-qxo-inc-qxo-despite-dilution-88d90090"
+    },
+    {
+      "title": "This Indicator Could Be the S&P 500’s Canary in a Coal Mine",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/indicator-could-p-500-canary-130003859.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-05T13:00:03Z",
+      "image": "",
+      "slug": "this-indicator-could-be-the-sp-500s-canary-in-a-coal-mine-6a6e5ea5",
+      "orig_slug": "this-indicator-could-be-the-sp-500s-canary-in-a-coal-mine-6a6e5ea5"
+    },
+    {
+      "title": "SpaceX Just Dealt a Big Blow to Howmet Aerospace Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-just-dealt-big-blow-130002822.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-05T13:00:02Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/b5c5fd9a45cfbfed144b03d993e53cad44959180060ced5e40cc965e9a68aa60/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F85dcd7ee27fe040add5a9740de84ec5d.jpg",
+      "slug": "spacex-just-dealt-a-big-blow-to-howmet-aerospace-stock-fbeaa90c",
+      "orig_slug": "spacex-just-dealt-a-big-blow-to-howmet-aerospace-stock-fbeaa90c"
+    },
+    {
+      "title": "A Judge Spared Alphabet From an Ad-Tech Breakup but Ordered Changes. Does That Protect Its AI War Chest?",
+      "link": "https://finance.yahoo.com/media-advertising/articles/judge-spared-alphabet-ad-tech-090718689.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-05T09:07:18Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/e08a707082b35f1ce6699b49f3edf1d990eeb3659a78b71f41b6adab18f2d295/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Ff8286096530a91642b3c4e988c21ec6d.jpg",
+      "slug": "a-judge-spared-alphabet-from-an-ad-tech-breakup-but-ordered-changes-does-that-pr-e6bbbb58",
+      "orig_slug": "a-judge-spared-alphabet-from-an-ad-tech-breakup-but-ordered-changes-does-that-pr-e6bbbb58"
+    },
+    {
+      "title": "If a Market Crash Is Coming, Here's the 1 Thing You Should Do, According to Warren Buffett",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-crash-coming-heres-1-110200332.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-05T11:02:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/89da4b16ae96c09c264b3f0675b843124b849da65e1c79a41547776b6d9c6cbc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Ffa56c854e7ed09dec84b7d99d9b3c20f.jpg",
+      "slug": "if-a-market-crash-is-coming-heres-the-1-thing-you-should-do-according-to-warren--8d1e7a9f",
+      "orig_slug": "if-a-market-crash-is-coming-heres-the-1-thing-you-should-do-according-to-warren--8d1e7a9f"
+    },
+    {
+      "title": "Retirees have fewer options and less ability to recover from setbacks. Here's when today's average American is retiring",
+      "link": "https://finance.yahoo.com/markets/articles/retirees-fewer-options-less-ability-090000364.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-05T09:00:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/d93a6fe66fe163f3606c0bd1a7536c8c219c99d320de9c64cc08381a93b3ae1a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2F535876cd1df42c1807490a994d52b68a.jpg",
+      "slug": "retirees-have-fewer-options-and-less-ability-to-recover-from-setbacks-heres-when-de0e838a",
+      "orig_slug": "retirees-have-fewer-options-and-less-ability-to-recover-from-setbacks-heres-when-de0e838a"
+    },
+    {
+      "title": "Scott Bessent Said Interest Rates Have Fallen During Trump’s Second Term. Here’s Where He’s Right – and Where He’s Wrong.",
+      "link": "https://finance.yahoo.com/economy/policy/articles/scott-bessent-said-interest-rates-133002371.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-05T13:30:02Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/c7e13835712bf4a6a438270b92d7f4bb31e66b884f04876afc563f2634c69a9c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2Fdf4d871d9e482b55cbb52ab4f9e77b9d.jpg",
+      "slug": "scott-bessent-said-interest-rates-have-fallen-during-trumps-second-term-heres-wh-d99c7728",
+      "orig_slug": "scott-bessent-said-interest-rates-have-fallen-during-trumps-second-term-heres-wh-d99c7728"
+    },
+    {
+      "title": "Foxconn says third quarter to outperform market expectations on AI strength",
+      "link": "https://finance.yahoo.com/technology/ai/articles/foxconn-says-third-quarter-outperform-081331124.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-05T08:13:31Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/cddb7ca854d8fcbab4c820701082c7997e25c0fdea12194cb7f4e44b8bbc8ce0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fb6e5ba448539534ce58ddbcc630fa450.jpg",
+      "slug": "foxconn-says-third-quarter-to-outperform-market-expectations-on-ai-strength-574af399",
+      "orig_slug": "foxconn-says-third-quarter-to-outperform-market-expectations-on-ai-strength-574af399"
+    },
+    {
+      "title": "Are banks open on Labor Day? 12 federal holidays when your bank is closed.",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/are-banks-open-today-221315751.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2024-01-29T22:13:15Z",
+      "image": "",
+      "slug": "are-banks-open-on-labor-day-12-federal-holidays-when-your-bank-is-closed-bd35a413",
+      "orig_slug": "are-banks-open-on-labor-day-12-federal-holidays-when-your-bank-is-closed-bd35a413"
+    },
+    {
+      "title": "At 70, I Quitclaimed Half My House to My Grandson After He Promised to Take Care of Me — He Sold His Share and Left Me With the Full Mortgage",
+      "link": "https://finance.yahoo.com/real-estate/articles/70-quitclaimed-half-house-grandson-120010811.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-05T12:00:10Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/5214095ac4ff4acc47e5696ca95d1a4e5f3397b7a2b4a4d831ef818019c4665f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F85527404075bd8ce1ac31a8a1af72e55.jpg",
+      "slug": "at-70-i-quitclaimed-half-my-house-to-my-grandson-after-he-promised-to-take-care--73b20add",
+      "orig_slug": "at-70-i-quitclaimed-half-my-house-to-my-grandson-after-he-promised-to-take-care--73b20add"
+    },
+    {
+      "title": "Mortgage and refinance interest rates today, Sunday, September 6, 2026: Rates much higher week-over-week",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-september-6-2026-rates-much-higher-week-over-week-100000794.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-06T10:00:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/77d93c595caa7ad919d75828373ac5d321a7501ac8cef46bff2e1fd2a323b754/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fdmr-sunday_8444.png",
+      "slug": "mortgage-and-refinance-interest-rates-today-sunday-september-6-2026-rates-much-h-8344705e",
+      "orig_slug": "mortgage-and-refinance-interest-rates-today-sunday-september-6-2026-rates-much-h-8344705e"
+    },
+    {
+      "title": "Best CD rates today, Sunday, September 6, 2026: Lock in up to 4.35% APY",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-september-6-2026-lock-in-up-to-435-apy-100000219.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-06T10:00:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/97d4c118b8f335cc53708a64e7ff824301efdff0a2fa480f145ff7a232404271/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-07%2Fc47b17e0-4f64-11ef-afb3-0ed5867646a0",
+      "slug": "best-cd-rates-today-sunday-september-6-2026-lock-in-up-to-435-apy-c0a6d997",
+      "orig_slug": "best-cd-rates-today-sunday-september-6-2026-lock-in-up-to-435-apy-c0a6d997"
     }
   ]
 }
