@@ -1,50 +1,95 @@
 {
-  "updated": "2026-09-08T11:54:23Z",
+  "updated": "2026-09-08T15:37:49Z",
   "items": [
+    {
+      "title": "Loss of Costco deal helps push beverage brand into Chapter 11",
+      "link": "https://finance.yahoo.com/healthcare/articles/loss-costco-deal-helps-push-150700837.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-07T15:07:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/80f9cf5d9c7c0a466615702ee791a0d4c4321bebb6f3cbc39c112aae70693fd5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F431c2a4611755e38a87fe83849cafe3a.jpg",
+      "slug": "loss-of-costco-deal-helps-push-beverage-brand-into-chapter-11-4f5519bd",
+      "orig_slug": "loss-of-costco-deal-helps-push-beverage-brand-into-chapter-11-4f5519bd"
+    },
+    {
+      "title": "GE Aerospace To Buy Key Industry Castings Supplier CPP For Nearly $12 Billion",
+      "link": "https://www.investors.com/news/ge-aerospace-acquisition-precision-products-castings-capacity-deal-ge-stock/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-08T15:25:02Z",
+      "image": "https://www.investors.com/wp-content/uploads/2024/11/Stock-GEAerospace-01-adobe.jpg",
+      "slug": "ge-aerospace-to-buy-key-industry-castings-supplier-cpp-for-nearly-12-billion-8aa544df",
+      "orig_slug": "ge-aerospace-to-buy-key-industry-castings-supplier-cpp-for-nearly-12-billion-8aa544df"
+    },
+    {
+      "title": "Robinhood Partners with Crypto.com to Expand Prediction Markets",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/robinhood-partners-crypto-com-expand-151600729.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-08T15:16:00Z",
+      "image": "",
+      "slug": "robinhood-partners-with-cryptocom-to-expand-prediction-markets-7b61b922",
+      "orig_slug": "robinhood-partners-with-cryptocom-to-expand-prediction-markets-7b61b922"
+    },
+    {
+      "title": "Diesel prices just smashed a 2022 record, but it's not only trucks that are taking a hit. What it means for your wallet",
+      "link": "https://finance.yahoo.com/energy/articles/diesel-prices-just-smashed-2022-151500785.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-08T15:15:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/3ecd70d7040537fcf606eff9d1dc8a9e511f88a772c0c86e2a21df675ab2ed5a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2F807a94b7b94332149c6a08a93b43efdd.jpg",
+      "slug": "diesel-prices-just-smashed-a-2022-record-but-its-not-only-trucks-that-are-taking-ac01b9ef",
+      "orig_slug": "diesel-prices-just-smashed-a-2022-record-but-its-not-only-trucks-that-are-taking-ac01b9ef"
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500 slip as oil prices rise, US-Canada trade war escalates",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-8-dow-sp-500-nasdaq-080440338.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-08T08:04:40Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/66882c17a7ba27137cab3bc755cd54d8a9d848ea966f0b0dbc6db9a79d0d832e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F8400017a-c4b5-49dc-8869-0152c4610003",
+      "slug": "stock-market-today-dow-sp-500-slip-as-oil-prices-rise-us-canada-trade-war-escala-7e88a01f",
+      "orig_slug": "stock-market-today-dow-sp-500-slip-as-oil-prices-rise-us-canada-trade-war-escala-7e88a01f"
+    },
     {
       "title": "EU regulators send early warning to Oracle ahead of earnings",
       "link": "https://finance.yahoo.com/markets/stocks/articles/eu-regulators-send-early-warning-000300590.html",
       "source": "finance.yahoo.com",
       "pubDate": "2026-09-08T00:03:00Z",
-      "image": "",
+      "image": "https://s.yimg.com/lo/mysterio/api/9ea3c78c8520650ccb7c0c590c9accd57a122fde521f6b48df973b76001667f1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F39e2c7ccee72795cad5b22e209541be4.jpg",
       "slug": "eu-regulators-send-early-warning-to-oracle-ahead-of-earnings-938b7330",
       "orig_slug": "eu-regulators-send-early-warning-to-oracle-ahead-of-earnings-938b7330"
     },
     {
-      "title": "The stock market's hot streak hints at more good times ahead",
-      "link": "https://finance.yahoo.com/markets/article/the-stock-markets-hot-streak-hints-at-more-good-times-ahead-114050175.html",
+      "title": "Consumers more worried about personal finances and jobs, New York Fed report shows",
+      "link": "https://finance.yahoo.com/economy/policy/articles/consumers-more-worried-personal-finances-150544015.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-09-08T11:40:50Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/7732111dc83b4a7df899ebb16de34121e835f0316154fa4dcbea66b6847eab09/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F8385c2d4-6471-4695-b614-0249e1c65157_865a1a90504e607692523c4056bd0885c71bfec8a6fb5177f39f931bc3cc07dd.jpg",
-      "slug": "the-stock-markets-hot-streak-hints-at-more-good-times-ahead-9c9654e1",
-      "orig_slug": "the-stock-markets-hot-streak-hints-at-more-good-times-ahead-9c9654e1"
+      "pubDate": "2026-09-08T15:05:44Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/6a189f820e7eb4a0ecc041576954a39d29eb105bcbc9c3f31349fe08f0bf8ad4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F5d1e986122a4afc89aaf588a166d3558.jpg",
+      "slug": "consumers-more-worried-about-personal-finances-and-jobs-new-york-fed-report-show-d4dc2b73",
+      "orig_slug": "consumers-more-worried-about-personal-finances-and-jobs-new-york-fed-report-show-d4dc2b73"
     },
     {
-      "title": "Bitcoin and ethereum prices today, Tuesday, September 8, 2026: Crypto prices sliding as U.S.-Iran fighting continues",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-september-8-2026-crypto-prices-sliding-as-us-iran-fighting-continues-113441984.html",
+      "title": "‘Are you going to get money back to the American people?’ asks Senator Warren on tariff refund checks. Here’s the answer",
+      "link": "https://finance.yahoo.com/economy/policy/articles/going-money-back-american-people-150500819.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-09-08T11:34:41Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/a17e080591b1ec8e35e235ab121c719ae8030cca3aaf6f8e6eaecb157afaa909/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fethereum_%2520_bitcoin_2_2928.jpg",
-      "slug": "bitcoin-and-ethereum-prices-today-tuesday-september-8-2026-crypto-prices-sliding-bc11a8bf",
-      "orig_slug": "bitcoin-and-ethereum-prices-today-tuesday-september-8-2026-crypto-prices-sliding-bc11a8bf"
+      "pubDate": "2026-09-08T15:05:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/bcaf87d58ea6f7f981d8243e6eeba15487ed28031960d6603a550d098ec732c3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2Fc63be0cea08e7c1b1035bc1f85e7bee9.jpg",
+      "slug": "are-you-going-to-get-money-back-to-the-american-people-asks-senator-warren-on-ta-87d23ee0",
+      "orig_slug": "are-you-going-to-get-money-back-to-the-american-people-asks-senator-warren-on-ta-87d23ee0"
     },
     {
-      "title": "Boston Scientific says unlikely to meet 2026 sales, profit forecast after cyberattack",
-      "link": "https://finance.yahoo.com/healthcare/articles/boston-scientific-says-cyberattack-likely-104232391.html",
+      "title": "Hewlett Packard Enterprise Company (HPE) Jumps on Surging AI Infrastructure Demand",
+      "link": "https://finance.yahoo.com/technology/ai/articles/hewlett-packard-enterprise-company-hpe-150418396.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-09-08T11:30:41Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/3ed44d3d5963ce437180db2023cc800dd0ebce0823f10b03cee73284c7b21860/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fb1bcb3dbb60dc4e6221202afa627a627.jpg",
-      "slug": "boston-scientific-says-unlikely-to-meet-2026-sales-profit-forecast-after-cyberat-9a663e42",
-      "orig_slug": "boston-scientific-says-unlikely-to-meet-2026-sales-profit-forecast-after-cyberat-9a663e42"
+      "pubDate": "2026-09-08T15:04:18Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/bbbb508edc21627e0c110905a5e2d887d49eecc639c2664af6bfe6c7a7e6159a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F0e6f758db02848856b97af470eb8792b.jpg",
+      "slug": "hewlett-packard-enterprise-company-hpe-jumps-on-surging-ai-infrastructure-demand-94c9ede2",
+      "orig_slug": "hewlett-packard-enterprise-company-hpe-jumps-on-surging-ai-infrastructure-demand-94c9ede2"
     },
     {
-      "title": "Novartis twin drug setbacks pile pressure on pipeline and CEO",
-      "link": "https://finance.yahoo.com/healthcare/articles/novartis-announces-trial-setback-del-060512323.html",
+      "title": "Arrow Electronics (ARW) Stock Rises Sharply Amid AI Infrastructure Surge",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/arrow-electronics-arw-stock-rises-145958037.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-09-08T11:26:06Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/794bd071adb4d85cc23407bf51ecb93c6dca31dcc6ecdbfd66e99479a22f8d15/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F180e5200c167cc0bf5b71e12b82a37dd.jpg",
-      "slug": "novartis-twin-drug-setbacks-pile-pressure-on-pipeline-and-ceo-7ceefe79",
-      "orig_slug": "novartis-twin-drug-setbacks-pile-pressure-on-pipeline-and-ceo-7ceefe79"
+      "pubDate": "2026-09-08T14:59:58Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/f70d2fa0cb110ce0920ead07f6b227ea236a3f5740f567056247d6c18fb33ed5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F7a405a6b1a7e5a9ca5ac039def53f9dd.jpg",
+      "slug": "arrow-electronics-arw-stock-rises-sharply-amid-ai-infrastructure-surge-9586c691",
+      "orig_slug": "arrow-electronics-arw-stock-rises-sharply-amid-ai-infrastructure-surge-9586c691"
     },
     {
       "title": "102-year-old mall retailer quietly closes 25 stores",
@@ -56,13 +101,193 @@
       "orig_slug": "102-year-old-mall-retailer-quietly-closes-25-stores-e7f04772"
     },
     {
-      "title": "Arm Extends AI Reach From Data Centers To Edge Devices",
-      "link": "https://www.investors.com/news/technology/arm-stock-arm-extends-reach-to-physical-ai/?src=A00220&yptr=yahoo",
+      "title": "Harbor Mid Cap Value Fund Trimmed State Street (STT) Following Appreciation",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/harbor-mid-cap-value-fund-145808947.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-09-08T11:24:28Z",
-      "image": "https://www.investors.com/wp-content/uploads/2026/09/Stock-Arm-OCPSummit-company.jpg",
-      "slug": "arm-extends-ai-reach-from-data-centers-to-edge-devices-b7b00de7",
-      "orig_slug": "arm-extends-ai-reach-from-data-centers-to-edge-devices-b7b00de7"
+      "pubDate": "2026-09-08T14:58:08Z",
+      "image": "",
+      "slug": "harbor-mid-cap-value-fund-trimmed-state-street-stt-following-appreciation-86f5cbb6",
+      "orig_slug": "harbor-mid-cap-value-fund-trimmed-state-street-stt-following-appreciation-86f5cbb6"
+    },
+    {
+      "title": "Here’s Why Analysts Downgraded Matador Resources Company (MTDR)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-analysts-downgraded-matador-resources-145613030.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-08T14:56:13Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/9c5ad9951efd43c0c99e1a666492f88409195e42c3aeb2816a23e6bc06eff2e3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Ffda93525f7b3e39df94db7fc5b6e76e2.jpg",
+      "slug": "heres-why-analysts-downgraded-matador-resources-company-mtdr-3c995293",
+      "orig_slug": "heres-why-analysts-downgraded-matador-resources-company-mtdr-3c995293"
+    },
+    {
+      "title": "TD Synnex (SNX) Shares Jump Over 50% on Cloud Growth and AI Infrastructure Demand",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/td-synnex-snx-shares-jump-145255769.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-08T14:52:55Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/ae022e2aef8c5dfb147fe38d968ea13759f20bef8bd5a268da381c384b88d81d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F986122fbe1592ee8ab2ce8f5fea20e0c.jpg",
+      "slug": "td-synnex-snx-shares-jump-over-50-on-cloud-growth-and-ai-infrastructure-demand-1a15e07d",
+      "orig_slug": "td-synnex-snx-shares-jump-over-50-on-cloud-growth-and-ai-infrastructure-demand-1a15e07d"
+    },
+    {
+      "title": "Zoetis (ZTS) Shares Drop After Earnings Revision",
+      "link": "https://finance.yahoo.com/healthcare/articles/zoetis-zts-shares-drop-earnings-145103070.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-08T14:51:03Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/d5b4127b9d591acc139df3c112aa5b6f88ef31fa9777d036f73bc1310bb601e0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F395ff4446b0f47267b9cc4fc8cf927ea.jpg",
+      "slug": "zoetis-zts-shares-drop-after-earnings-revision-2383ae03",
+      "orig_slug": "zoetis-zts-shares-drop-after-earnings-revision-2383ae03"
+    },
+    {
+      "title": "NuScale Power Spikes 13%, Oklo Climbs 7%: Is the Nuclear Selloff Finally Exhausted?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-spikes-13-oklo-151349633.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-08T15:13:49Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/9573bedbcd32280a8bf28921a65aac77b0a21a1b334f38db940c50fbab0f9ab8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fd6b88d6845d755db74b3bb17ece0ecc9.jpg",
+      "slug": "nuscale-power-spikes-13-oklo-climbs-7-is-the-nuclear-selloff-finally-exhausted-256d3405",
+      "orig_slug": "nuscale-power-spikes-13-oklo-climbs-7-is-the-nuclear-selloff-finally-exhausted-256d3405"
+    },
+    {
+      "title": "Stock Market Today: Dow Dives, Oil Spikes After Saudi Attacks; Amgen Swoons On These Results (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-attacks-oil-prices-jump-brent-crude/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-08T14:50:39Z",
+      "image": "https://www.investors.com/wp-content/uploads/2022/06/Stock-digitalbearbull-01-adobe.jpg",
+      "slug": "stock-market-today-dow-dives-oil-spikes-after-saudi-attacks-amgen-swoons-on-thes-1f38e5b0",
+      "orig_slug": "stock-market-today-dow-dives-oil-spikes-after-saudi-attacks-amgen-swoons-on-thes-1f38e5b0"
+    },
+    {
+      "title": "Shift Away from Defensive Plays Hits Verizon Communications (VZ)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/shift-away-defensive-plays-hits-144449755.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-08T14:44:49Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/fcf55bd0500119c32138f4177204f90cdfb8f15a59723b56b09373b3e819df55/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fe39b8b2981caf17ea80ec2a44e67106c.jpg",
+      "slug": "shift-away-from-defensive-plays-hits-verizon-communications-vz-4dbb3b8e",
+      "orig_slug": "shift-away-from-defensive-plays-hits-verizon-communications-vz-4dbb3b8e"
+    },
+    {
+      "title": "Bessent Loads Bazooka As Oil Prices Rise, Treasury Yields Waver",
+      "link": "https://www.investors.com/news/treasury-yields-bessent-buyback-oil-prices-sp-500/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-08T14:44:44Z",
+      "image": "https://www.investors.com/wp-content/uploads/2025/03/Stock-ScottBessent-01-shutt.jpg",
+      "slug": "bessent-loads-bazooka-as-oil-prices-rise-treasury-yields-waver-bb8b659f",
+      "orig_slug": "bessent-loads-bazooka-as-oil-prices-rise-treasury-yields-waver-bb8b659f"
+    },
+    {
+      "title": "Corning Stock Climbs On Multibillion-Dollar Verizon Network Deal",
+      "link": "https://www.investors.com/news/technology/corning-stock-glw-verizon-network-agreement/?src=A00220&yptr=yahoo",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-08T14:41:05Z",
+      "image": "https://www.investors.com/wp-content/uploads/2018/12/stock-verizon-07-shutter.jpg",
+      "slug": "corning-stock-climbs-on-multibillion-dollar-verizon-network-deal-acd11918",
+      "orig_slug": "corning-stock-climbs-on-multibillion-dollar-verizon-network-deal-acd11918"
+    },
+    {
+      "title": "Here’s How Much You Need Invested to Collect $1,000 a Month in Dividends",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/much-invested-collect-1-000-151100105.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-08T15:11:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/23e2db8ff3c3b40bdd22e6b0cae88e70bab0e2e03a7470e599ac066e9b5318a6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F5b8eaf05e7faa05fc847e85bf18a9071.jpg",
+      "slug": "heres-how-much-you-need-invested-to-collect-1000-a-month-in-dividends-6ed80021",
+      "orig_slug": "heres-how-much-you-need-invested-to-collect-1000-a-month-in-dividends-6ed80021"
+    },
+    {
+      "title": "Adobe (ADBE) Declines on Elevated Investor Hopes",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/adobe-adbe-declines-elevated-investor-144047481.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-08T14:40:47Z",
+      "image": "",
+      "slug": "adobe-adbe-declines-on-elevated-investor-hopes-8bc3ac4b",
+      "orig_slug": "adobe-adbe-declines-on-elevated-investor-hopes-8bc3ac4b"
+    },
+    {
+      "title": "Capex Rebound Powers Applied Materials’ (AMAT) Performance",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/capex-rebound-powers-applied-materials-143910451.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-08T14:39:10Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/722f8eef66e58b13df27ccd71cc40a415e218218f4f8fc0573ba9ad875b75d43/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fbaace31f0e29cc385fd4eec1d0fcbd68.jpg",
+      "slug": "capex-rebound-powers-applied-materials-amat-performance-5bb08125",
+      "orig_slug": "capex-rebound-powers-applied-materials-amat-performance-5bb08125"
+    },
+    {
+      "title": "AI-Optimized Processors Fuel Advanced Micro Devices (AMD) Stock Growth",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ai-optimized-processors-fuel-advanced-143631312.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-08T14:36:31Z",
+      "image": "",
+      "slug": "ai-optimized-processors-fuel-advanced-micro-devices-amd-stock-growth-425a3f01",
+      "orig_slug": "ai-optimized-processors-fuel-advanced-micro-devices-amd-stock-growth-425a3f01"
+    },
+    {
+      "title": "Micron Technology (MU) Rose on Elevated Demand for High-Bandwidth Memory",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-rose-elevated-143254887.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-08T14:32:54Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/f1489ae6260d31f579db32b7010655c9107aeabf2b4c4ae06498af61571fcc6a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fa797141023ed476bcd7a09019de5dcc3.jpg",
+      "slug": "micron-technology-mu-rose-on-elevated-demand-for-high-bandwidth-memory-8d899a09",
+      "orig_slug": "micron-technology-mu-rose-on-elevated-demand-for-high-bandwidth-memory-8d899a09"
+    },
+    {
+      "title": "5 Monthly Dividend Payers Boomers Have Quietly Made Core Holdings",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-monthly-dividend-payers-boomers-151018237.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-08T15:10:18Z",
+      "image": "",
+      "slug": "5-monthly-dividend-payers-boomers-have-quietly-made-core-holdings-72cbc65c",
+      "orig_slug": "5-monthly-dividend-payers-boomers-have-quietly-made-core-holdings-72cbc65c"
+    },
+    {
+      "title": "Social Security benefits in 2027: See what's really changing",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/social-security-benefits-in-2027-see-whats-really-changing-144723278.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-03T14:47:23Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/a8275eeb27bce691064fb410492196f10b372d0b1161c83e05257ac13e0048d3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fcc114390-ecfa-4a7b-9357-fef7f74e7cbb_bae46b39c8d9201a045f23d306112ac0d44ba65bbd5de2555ffdc124c87f5f9f.jpg",
+      "slug": "social-security-benefits-in-2027-see-whats-really-changing-5e90ba7f",
+      "orig_slug": "social-security-benefits-in-2027-see-whats-really-changing-5e90ba7f"
+    },
+    {
+      "title": "Visa Grows Stablecoin Card Network",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/visa-grows-stablecoin-card-network-142400026.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-08T14:24:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/77d7225c4128ca0c3cd7f8b78df95a84e12671c68b3c92d6c21cc0d03d86ea8d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F3922c2d1c050193148fa6dc58d7d12a8.jpg",
+      "slug": "visa-grows-stablecoin-card-network-90c0b578",
+      "orig_slug": "visa-grows-stablecoin-card-network-90c0b578"
+    },
+    {
+      "title": "Strategy Holds Off On Bitcoin Purchases As It Buys Preferred Stock",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-holds-off-bitcoin-purchases-142200654.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-08T14:22:00Z",
+      "image": "",
+      "slug": "strategy-holds-off-on-bitcoin-purchases-as-it-buys-preferred-stock-f2635f76",
+      "orig_slug": "strategy-holds-off-on-bitcoin-purchases-as-it-buys-preferred-stock-f2635f76"
+    },
+    {
+      "title": "Bitcoin Forms Bullish Golden Cross",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-forms-bullish-golden-cross-142000774.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-08T14:20:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/2151e394e49c710b6961efdd031e949ed489424d2f64ac65f4cd8a6b4d314de0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F0ffd80591401a9444f795ffd8ef1086a.jpg",
+      "slug": "bitcoin-forms-bullish-golden-cross-8dd0282d",
+      "orig_slug": "bitcoin-forms-bullish-golden-cross-8dd0282d"
+    },
+    {
+      "title": "Cramer Says It’s Time To Buy The Dip on JNJ",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cramer-says-time-buy-dip-151012185.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-08T15:10:12Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/672ea3d63432393cae7feee2279459cc9c34cabb1c2c51efdbe5479cb64a415d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F2c38ba9cf95e8a29d4ce8025b517bc6b.jpg",
+      "slug": "cramer-says-its-time-to-buy-the-dip-on-jnj-e6214a0e",
+      "orig_slug": "cramer-says-its-time-to-buy-the-dip-on-jnj-e6214a0e"
+    },
+    {
+      "title": "Bitcoin and ethereum prices today, Tuesday, September 8, 2026: Crypto prices sliding as U.S.-Iran fighting continues",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-september-8-2026-crypto-prices-sliding-as-us-iran-fighting-continues-113441984.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-08T11:34:41Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/a17e080591b1ec8e35e235ab121c719ae8030cca3aaf6f8e6eaecb157afaa909/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fethereum_%2520_bitcoin_2_2928.jpg",
+      "slug": "bitcoin-and-ethereum-prices-today-tuesday-september-8-2026-crypto-prices-sliding-bc11a8bf",
+      "orig_slug": "bitcoin-and-ethereum-prices-today-tuesday-september-8-2026-crypto-prices-sliding-bc11a8bf"
     },
     {
       "title": "Silver prices today, Tuesday, September 8, 2026: Silver prices holding over $66 as Iran conflict wages on",
@@ -74,40 +299,22 @@
       "orig_slug": "silver-prices-today-tuesday-september-8-2026-silver-prices-holding-over-66-as-ir-275111db"
     },
     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures slip amid rising oil prices",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-8-dow-sp-500-nasdaq-080440338.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-08T08:04:40Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/59f01e8789a0129eac774b2f241f1bbc31c107f7bc10d5ba142e12b249356965/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F1a18f8dd-d5de-4e62-b2ff-cf1e19d301b9",
-      "slug": "stock-market-today-dow-sp-500-nasdaq-futures-slip-amid-rising-oil-prices-7e88a01f",
-      "orig_slug": "stock-market-today-dow-sp-500-nasdaq-futures-slip-amid-rising-oil-prices-7e88a01f"
-    },
-    {
       "title": "Gold prices today, Tuesday, September 8, 2026: Gold moves lower following fresh escalations with Iran",
       "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-september-8-2026-gold-moves-lower-following-fresh-escalations-with-iran-111035525.html",
       "source": "finance.yahoo.com",
       "pubDate": "2026-09-08T11:10:35Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/d8535668fc821c8cbb0f94bbee34423f4e7910216511576dd61ad9681ca2a54f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Ftuesday.png",
+      "image": "",
       "slug": "gold-prices-today-tuesday-september-8-2026-gold-moves-lower-following-fresh-esca-227b6979",
       "orig_slug": "gold-prices-today-tuesday-september-8-2026-gold-moves-lower-following-fresh-esca-227b6979"
     },
     {
-      "title": "Loss of Costco deal helps push beverage brand into Chapter 11",
-      "link": "https://finance.yahoo.com/healthcare/articles/loss-costco-deal-helps-push-150700837.html",
+      "title": "Mortgage and refinance interest rates today, Tuesday, September 8, 2026: Rates down to start holiday-shortened week",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-tuesday-september-8-2026-rates-down-to-start-holiday-shortened-week-100000204.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-09-07T15:07:00Z",
-      "image": "",
-      "slug": "loss-of-costco-deal-helps-push-beverage-brand-into-chapter-11-4f5519bd",
-      "orig_slug": "loss-of-costco-deal-helps-push-beverage-brand-into-chapter-11-4f5519bd"
-    },
-    {
-      "title": "Morning Bid: Yen at work",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/morning-bid-yen-103625104.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-08T10:39:29Z",
-      "image": "",
-      "slug": "morning-bid-yen-at-work-3ac62cd7",
-      "orig_slug": "morning-bid-yen-at-work-3ac62cd7"
+      "pubDate": "2026-09-08T10:00:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/afc03692d2845a2e8fb6ed769411c7983aeb63700729afeb165ad38200f79a8b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-04%2F700e25a0-fb43-11ee-be6b-a40c5cf2631a",
+      "slug": "mortgage-and-refinance-interest-rates-today-tuesday-september-8-2026-rates-down--d6187dca",
+      "orig_slug": "mortgage-and-refinance-interest-rates-today-tuesday-september-8-2026-rates-down--d6187dca"
     },
     {
       "title": "Best CD rates today, Tuesday, September 8, 2026: Lock in up to 4.35% APY",
@@ -119,38 +326,11 @@
       "orig_slug": "best-cd-rates-today-tuesday-september-8-2026-lock-in-up-to-435-apy-f31a9f67"
     },
     {
-      "title": "China’s Crude Buying Rebounds as Fuel Exports Jump 29%",
-      "link": "https://finance.yahoo.com/energy/articles/china-crude-buying-rebounds-fuel-100000225.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-08T10:00:00Z",
-      "image": "",
-      "slug": "chinas-crude-buying-rebounds-as-fuel-exports-jump-29-76e4c3a3",
-      "orig_slug": "chinas-crude-buying-rebounds-as-fuel-exports-jump-29-76e4c3a3"
-    },
-    {
-      "title": "Mortgage and refinance interest rates today, Tuesday, September 8, 2026: Rates down to start holiday-shortened week",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-tuesday-september-8-2026-rates-down-to-start-holiday-shortened-week-100000204.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-08T10:00:00Z",
-      "image": "",
-      "slug": "mortgage-and-refinance-interest-rates-today-tuesday-september-8-2026-rates-down--d6187dca",
-      "orig_slug": "mortgage-and-refinance-interest-rates-today-tuesday-september-8-2026-rates-down--d6187dca"
-    },
-    {
-      "title": "Point72 to expand Japan team and investment allocation – report",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/point72-expand-japan-team-investment-114015268.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-08T11:40:15Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/1e0b9f205d69c315c45221aace674add83a8b229fd3de521134874e77ecf3b09/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fprivate_banker_international_938%2Fff34e573b0c396334bfa8cb53a56bcf4.jpg",
-      "slug": "point72-to-expand-japan-team-and-investment-allocation-report-fa5e65c4",
-      "orig_slug": "point72-to-expand-japan-team-and-investment-allocation-report-fa5e65c4"
-    },
-    {
       "title": "Best high-yield savings interest rates today, Tuesday, September 8, 2026: Earn up to 4.10% APY",
       "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-tuesday-september-8-2026-earn-up-to-410-apy-100000748.html",
       "source": "finance.yahoo.com",
       "pubDate": "2026-09-07T10:00:00Z",
-      "image": "",
+      "image": "https://s.yimg.com/lo/mysterio/api/474d72dad51d783babe9ce12b60e89a35e65a8f26714cce0c6761dcf5c45eb81/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F3_8699.png",
       "slug": "best-high-yield-savings-interest-rates-today-tuesday-september-8-2026-earn-up-to-f812817f",
       "orig_slug": "best-high-yield-savings-interest-rates-today-tuesday-september-8-2026-earn-up-to-f812817f"
     },
@@ -162,6 +342,33 @@
       "image": "",
       "slug": "heloc-and-home-equity-loan-rates-today-tuesday-september-8-2026-besides-rates-ho-de356068",
       "orig_slug": "heloc-and-home-equity-loan-rates-today-tuesday-september-8-2026-besides-rates-ho-de356068"
+    },
+    {
+      "title": "Is the stock market open on Labor Day?",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/is-the-stock-market-open-on-labor-day-210239142.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2024-03-25T21:02:39Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/35e2768e5a5d17338fe15be09dcb9ce40979d250e6350cff2836676da0cc4843/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-07%2Fc5a1bc20-6d8e-11f0-bfb7-e07100b1a2df",
+      "slug": "is-the-stock-market-open-on-labor-day-3e1edfc4",
+      "orig_slug": "is-the-stock-market-open-on-labor-day-3e1edfc4"
+    },
+    {
+      "title": "Warren Buffett’s Portfolio Has Half Its Stock Money in Just 3 Names. Here Is What They Are.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-portfolio-half-stock-150917683.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-08T15:09:17Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/90937938b634e47e9789c174b1eea7f6abad3dcd1e9183cbfa49705d0c04354f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F036453f007fb0a2249137024358aa1df.png",
+      "slug": "warren-buffetts-portfolio-has-half-its-stock-money-in-just-3-names-here-is-what--c475338a",
+      "orig_slug": "warren-buffetts-portfolio-has-half-its-stock-money-in-just-3-names-here-is-what--c475338a"
+    },
+    {
+      "title": "Bitcoin and ethereum prices today, Monday, September 7, 2026: Crypto investors on rate watch",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-september-7-2026-crypto-investors-on-rate-watch-140242204.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-07T14:02:42Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/7ce37edafc6b48f765180883ec4f3f14a7b26ecea461f7d99d2d4e6f4b599127/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fbitcoin_1_3688.jpg",
+      "slug": "bitcoin-and-ethereum-prices-today-monday-september-7-2026-crypto-investors-on-ra-2411da30",
+      "orig_slug": "bitcoin-and-ethereum-prices-today-monday-september-7-2026-crypto-investors-on-ra-2411da30"
     },
     {
       "title": "Best CD rates today, Monday, September 7, 2026: Lock in up to 4.35% APY",
@@ -182,33 +389,6 @@
       "orig_slug": "mortgage-and-refinance-interest-rates-today-monday-september-7-2026-fixed-purcha-cfbf68dd"
     },
     {
-      "title": "Anthropic ends talks on potential $6bn acquisition of Decart AI",
-      "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-ends-talks-potential-6bn-113759986.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-08T11:37:59Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/3427dfe65c09f0d854f951d6d0862806949029c46a668e0dd65cca735c1ab397/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fverdict_626%2Fbff051df3a8247908fca33d6e71479c8.jpg",
-      "slug": "anthropic-ends-talks-on-potential-6bn-acquisition-of-decart-ai-b24d3a30",
-      "orig_slug": "anthropic-ends-talks-on-potential-6bn-acquisition-of-decart-ai-b24d3a30"
-    },
-    {
-      "title": "Bitcoin and ethereum prices today, Monday, September 7, 2026: Crypto investors on rate watch",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-september-7-2026-crypto-investors-on-rate-watch-140242204.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-07T14:02:42Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/7ce37edafc6b48f765180883ec4f3f14a7b26ecea461f7d99d2d4e6f4b599127/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fbitcoin_1_3688.jpg",
-      "slug": "bitcoin-and-ethereum-prices-today-monday-september-7-2026-crypto-investors-on-ra-2411da30",
-      "orig_slug": "bitcoin-and-ethereum-prices-today-monday-september-7-2026-crypto-investors-on-ra-2411da30"
-    },
-    {
-      "title": "Is the stock market open on Labor Day?",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/is-the-stock-market-open-on-labor-day-210239142.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2024-03-25T21:02:39Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/35e2768e5a5d17338fe15be09dcb9ce40979d250e6350cff2836676da0cc4843/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-07%2Fc5a1bc20-6d8e-11f0-bfb7-e07100b1a2df",
-      "slug": "is-the-stock-market-open-on-labor-day-3e1edfc4",
-      "orig_slug": "is-the-stock-market-open-on-labor-day-3e1edfc4"
-    },
-    {
       "title": "Are banks open on Labor Day? 12 federal holidays when your bank is closed.",
       "link": "https://finance.yahoo.com/personal-finance/banking/article/are-banks-open-today-221315751.html",
       "source": "finance.yahoo.com",
@@ -216,6 +396,15 @@
       "image": "https://s.yimg.com/lo/mysterio/api/dee1cc9a646a10fd7f1dbabc1192edda97e9b2785fef21302581260123006ea3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-04%2Fdb0f02e0-1c79-11f0-beff-775b71443905",
       "slug": "are-banks-open-on-labor-day-12-federal-holidays-when-your-bank-is-closed-bd35a413",
       "orig_slug": "are-banks-open-on-labor-day-12-federal-holidays-when-your-bank-is-closed-bd35a413"
+    },
+    {
+      "title": "Jensen Huang just sent Wall Street a message about AGI",
+      "link": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-just-sent-wall-150700580.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-08T15:07:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/57d49623b811050c0b46c0918b27dcb43728cccce37c994dc5b52066a7035de2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2Faff49d2d932e44664685941b8ae641bc.jpg",
+      "slug": "jensen-huang-just-sent-wall-street-a-message-about-agi-2c0dc08a",
+      "orig_slug": "jensen-huang-just-sent-wall-street-a-message-about-agi-2c0dc08a"
     },
     {
       "title": "Mortgage and refinance interest rates today, Sunday, September 6, 2026: Rates much higher week-over-week",
@@ -227,15 +416,6 @@
       "orig_slug": "mortgage-and-refinance-interest-rates-today-sunday-september-6-2026-rates-much-h-8344705e"
     },
     {
-      "title": "Discount Hyperscaler: Oracle’s Direct Threat to AWS",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/discount-hyperscaler-oracle-direct-threat-113554836.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-08T11:35:54Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/b25bba97ac83de0c26668d57551cfd0db3df0024883fc841ae5665d5e32e94a3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F8b95f67b9f3384ebc9a54bd9a552e918.png",
-      "slug": "discount-hyperscaler-oracles-direct-threat-to-aws-6dd95c16",
-      "orig_slug": "discount-hyperscaler-oracles-direct-threat-to-aws-6dd95c16"
-    },
-    {
       "title": "Best CD rates today, Sunday, September 6, 2026: Lock in up to 4.35% APY",
       "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-september-6-2026-lock-in-up-to-435-apy-100000219.html",
       "source": "finance.yahoo.com",
@@ -245,193 +425,13 @@
       "orig_slug": "best-cd-rates-today-sunday-september-6-2026-lock-in-up-to-435-apy-c0a6d997"
     },
     {
-      "title": "Mirae Asset sets up Dubai office with fund licence approval",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mirae-asset-sets-dubai-office-113538500.html",
+      "title": "Could Apple Face a $17 Billion Child Safety Settlement Like Meta?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/could-apple-face-17-billion-150503182.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-09-08T11:35:38Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/ae5e918b486e3361228ae62685563686ec55fa47f2c5781e38a2a4c44266e0cc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fprivate_banker_international_938%2Fde697b62f43dd0d8c81c2ab299f6e312.jpg",
-      "slug": "mirae-asset-sets-up-dubai-office-with-fund-licence-approval-4f8f77cc",
-      "orig_slug": "mirae-asset-sets-up-dubai-office-with-fund-licence-approval-4f8f77cc"
-    },
-    {
-      "title": "Oracle Stock Keeps Falling While Wall Street Holds Firm—Who’s Right?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-stock-keeps-falling-while-113456535.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-08T11:34:56Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/d69720e43a0f91345ca740f2d7fd28ee70017ad799ff42099b81588100ff84a9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F4dc800793357b9ca324741723d0585e6.jpg",
-      "slug": "oracle-stock-keeps-falling-while-wall-street-holds-firmwhos-right-162af357",
-      "orig_slug": "oracle-stock-keeps-falling-while-wall-street-holds-firmwhos-right-162af357"
-    },
-    {
-      "title": "Multiplier Holdings acquires New Zealand advisory practice Greenhawk",
-      "link": "https://finance.yahoo.com/small-business/articles/multiplier-holdings-acquires-zealand-advisory-113417026.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-08T11:34:17Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/2ae29e7553d91d59e7b5d7bab48e0a55a1883f7ebf0f31c1720236f3819941e7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finternational_accounting_bulletin_542%2Fdc7f25823edbe950975c40a438785c7e.jpg",
-      "slug": "multiplier-holdings-acquires-new-zealand-advisory-practice-greenhawk-987b596e",
-      "orig_slug": "multiplier-holdings-acquires-new-zealand-advisory-practice-greenhawk-987b596e"
-    },
-    {
-      "title": "I’m 52 with $4 million saved but I’m worried about the years before I start Social Security and I don’t want to tap into my savings",
-      "link": "https://finance.yahoo.com/news/m-52-4-million-saved-161018077.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-08T11:30:19Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/a589c72d8c6a98d181155739ff98986c7443e6cd286c4d6b0e086ccdb3300901/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F32eba8f36e6e83369ed435eec610bd09.jpg",
-      "slug": "im-52-with-4-million-saved-but-im-worried-about-the-years-before-i-start-social--50d67049",
-      "orig_slug": "im-52-with-4-million-saved-but-im-worried-about-the-years-before-i-start-social--50d67049"
-    },
-    {
-      "title": "Micron vs. Sandisk: 1 Artificial Intelligence (AI) Memory Winner Is Down 20% and Clearly the Superior Buy Today",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-vs-sandisk-1-artificial-113000528.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-08T11:30:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/53aac1c17adc418afbfbf0a1ebe5e62a620007bc86fc24dbb522bd1bd1300e0f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F28e94ff7433efb767a42216291bf600b.jpg",
-      "slug": "micron-vs-sandisk-1-artificial-intelligence-ai-memory-winner-is-down-20-and-clea-0535b041",
-      "orig_slug": "micron-vs-sandisk-1-artificial-intelligence-ai-memory-winner-is-down-20-and-clea-0535b041"
-    },
-    {
-      "title": "September deadline looms to opt out of winter fuel payments, ICAEW warns",
-      "link": "https://finance.yahoo.com/economy/policy/articles/september-deadline-looms-opt-winter-112956329.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-08T11:29:56Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/2ee5ba11667497a0a95824d6cc35e48b2c663a8573e131395731c5e302bcc316/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_accountant_923%2Fe7dfbe7f2e774c5d7113d8d2f4d74188.jpg",
-      "slug": "september-deadline-looms-to-opt-out-of-winter-fuel-payments-icaew-warns-bc952822",
-      "orig_slug": "september-deadline-looms-to-opt-out-of-winter-fuel-payments-icaew-warns-bc952822"
-    },
-    {
-      "title": "Dow futures drop as Iran war, Canada tariffs hit Wall Street",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/dow-futures-drop-iran-war-112756050.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-08T11:27:56Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/a1ca0332f9b22cd8885d637eed71c9de29fc1301a258cbfd72002eff1923a375/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2F4a8a19555c5309a0ee22886ab3dc9ba3.jpg",
-      "slug": "dow-futures-drop-as-iran-war-canada-tariffs-hit-wall-street-7dc8e24b",
-      "orig_slug": "dow-futures-drop-as-iran-war-canada-tariffs-hit-wall-street-7dc8e24b"
-    },
-    {
-      "title": "OncoSil Medical secures funding for cancer device launch",
-      "link": "https://finance.yahoo.com/healthcare/articles/oncosil-medical-secures-funding-cancer-112746268.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-08T11:27:46Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/c228a34fc63bc8411e43596035818d50a3f3b6872fd0164f1051fb559a982f91/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmedical_device_network_744%2F234d0c162229dffb018cde0b991f0939.jpg",
-      "slug": "oncosil-medical-secures-funding-for-cancer-device-launch-7d95cf26",
-      "orig_slug": "oncosil-medical-secures-funding-for-cancer-device-launch-7d95cf26"
-    },
-    {
-      "title": "Why Archer Aviation Skyrocketed 24.6% Last Month",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-archer-aviation-skyrocketed-24-112700287.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-08T11:27:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/7b125f1bfd93ab29065e3b44547b080f411d53e1693d4324c8a4d4347e2d254b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F0868986b5e5c8181b9a02bffd580f65c.jpg",
-      "slug": "why-archer-aviation-skyrocketed-246-last-month-4b0f4bd3",
-      "orig_slug": "why-archer-aviation-skyrocketed-246-last-month-4b0f4bd3"
-    },
-    {
-      "title": "2 Turnaround Stocks Wall Street Hates That I've Been Buying in 2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-turnaround-stocks-wall-street-112601912.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-08T11:26:01Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/6630812b337769c83901cabe8f0b2510f40b9bd4dd2bafa17da5bc8690eca2dd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F17331bd0d5a60b9473c60e0beebb57ec.jpg",
-      "slug": "2-turnaround-stocks-wall-street-hates-that-ive-been-buying-in-2026-000644c0",
-      "orig_slug": "2-turnaround-stocks-wall-street-hates-that-ive-been-buying-in-2026-000644c0"
-    },
-    {
-      "title": "IREN Limited Has Cratered Over 3 Months: A Top-Ranked Wall Street Name Says It’s Due to Double",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/iren-limited-cratered-over-3-112449341.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-08T11:24:49Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/702e358fb46dc4cd917a4ee8901981f614a36fc29178eee6414bf80011dcf70f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fbe6511de6710c801559dabf0532c8257",
-      "slug": "iren-limited-has-cratered-over-3-months-a-top-ranked-wall-street-name-says-its-d-595792ea",
-      "orig_slug": "iren-limited-has-cratered-over-3-months-a-top-ranked-wall-street-name-says-its-d-595792ea"
-    },
-    {
-      "title": "Dangote refinery to double capacity with $14.3bn investment",
-      "link": "https://finance.yahoo.com/energy/articles/dangote-refinery-double-capacity-14-112349183.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-08T11:23:49Z",
-      "image": "",
-      "slug": "dangote-refinery-to-double-capacity-with-143bn-investment-885839f6",
-      "orig_slug": "dangote-refinery-to-double-capacity-with-143bn-investment-885839f6"
-    },
-    {
-      "title": "OpenAI and Anthropic Want What SpaceX Got After Its IPO Despite Billions in Losses",
-      "link": "https://finance.yahoo.com/technology/ai/articles/openai-anthropic-want-spacex-got-112207013.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-08T11:22:07Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/1b7e774e289b8e27230b95e50d98b09e12af4ba202d826ce9cdc8761e95ffd47/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F2a569199b0ab622e37aef9376ebe6c57.jpg",
-      "slug": "openai-and-anthropic-want-what-spacex-got-after-its-ipo-despite-billions-in-loss-4b539b85",
-      "orig_slug": "openai-and-anthropic-want-what-spacex-got-after-its-ipo-despite-billions-in-loss-4b539b85"
-    },
-    {
-      "title": "Why Salesforce Stock Skyrocketed 40% Last Month",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-salesforce-stock-skyrocketed-40-112000450.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-08T11:20:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/8fbbd9ecbe59ccf65e62d094d1bb0fcac04f847e6086242f3bb3be4324f94393/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F20c94f9d9ed9b26367775e8d4643a98f.jpg",
-      "slug": "why-salesforce-stock-skyrocketed-40-last-month-53bc0b06",
-      "orig_slug": "why-salesforce-stock-skyrocketed-40-last-month-53bc0b06"
-    },
-    {
-      "title": "Why Berkshire Hathaway Looks Likely to Invest in More Artificial Intelligence (AI) Stocks",
-      "link": "https://finance.yahoo.com/technology/ai/articles/why-berkshire-hathaway-looks-likely-112001195.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-08T11:20:01Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/ecaa99595569f6af972cd95f8012dc170dc480894651f15a21b43693c9155743/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F05911a08f527e9203ac833f65e6234ea.jpg",
-      "slug": "why-berkshire-hathaway-looks-likely-to-invest-in-more-artificial-intelligence-ai-cd705ee9",
-      "orig_slug": "why-berkshire-hathaway-looks-likely-to-invest-in-more-artificial-intelligence-ai-cd705ee9"
-    },
-    {
-      "title": "Mistral AI raises €3 billion in Samsung-led Series D round",
-      "link": "https://finance.yahoo.com/technology/ai/articles/mistral-ai-raises-3-billion-111824280.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-08T11:18:24Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/5fb5b42b49f93d28c5351ea2aa725a718e724033f4f1e4a21e316190985ab9db/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2F826d538bbff6e2656f322f2b8caa10dc.jpg",
-      "slug": "mistral-ai-raises-3-billion-in-samsung-led-series-d-round-168c1354",
-      "orig_slug": "mistral-ai-raises-3-billion-in-samsung-led-series-d-round-168c1354"
-    },
-    {
-      "title": "Don’t Fall for Supermicro’s Margin Magic: The Company Already Said It’s Temporary",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/don-t-fall-supermicro-margin-111002238.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-08T11:10:02Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/f10b9b278d62a9fe97df442cb981252a1383167b29feda7b175d0a6e68bc83e6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F3249b965819b43648223c6187cd829d0.jpg",
-      "slug": "dont-fall-for-supermicros-margin-magic-the-company-already-said-its-temporary-b1a0d669",
-      "orig_slug": "dont-fall-for-supermicros-margin-magic-the-company-already-said-its-temporary-b1a0d669"
-    },
-    {
-      "title": "Boston Scientific ‘Unlikely to Meet’ Earnings Guidance After Cyberattack. Stock Falls.",
-      "link": "https://www.barrons.com/articles/boston-scientific-stock-earnings-guidance-cyberattack-bd0e8c0b?siteid=yhoof2&yptr=yahoo",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-08T11:06:00Z",
-      "image": "",
-      "slug": "boston-scientific-unlikely-to-meet-earnings-guidance-after-cyberattack-stock-fal-64b71033",
-      "orig_slug": "boston-scientific-unlikely-to-meet-earnings-guidance-after-cyberattack-stock-fal-64b71033"
-    },
-    {
-      "title": "Nvidia’s $12.9 Billion Hugging Face Bet Comes With One Huge Risk",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-12-9-billion-hugging-110515288.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-08T11:05:15Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/d902db9116f8ad7ed5d7521730853da2b474c8f1a08de8e18630c497105fc807/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F88b81b0965b1b4854401fc4229449821.jpg",
-      "slug": "nvidias-129-billion-hugging-face-bet-comes-with-one-huge-risk-040b1297",
-      "orig_slug": "nvidias-129-billion-hugging-face-bet-comes-with-one-huge-risk-040b1297"
-    },
-    {
-      "title": "AI Can Launch the Campaign. Does It Know If Your Restaurant Needs One?",
-      "link": "https://finance.yahoo.com/media-advertising/articles/ai-launch-campaign-does-know-110502609.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-08T11:05:02Z",
-      "image": "",
-      "slug": "ai-can-launch-the-campaign-does-it-know-if-your-restaurant-needs-one-b006bc1d",
-      "orig_slug": "ai-can-launch-the-campaign-does-it-know-if-your-restaurant-needs-one-b006bc1d"
-    },
-    {
-      "title": "Bloom Energy Is Joining the S&P 500: Is the Stock Still a Buy After Its Massive Run?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-joining-p-500-110500432.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-08T11:05:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/a05fddc8bb129391555d30910fbc3bc4aae152592f7a095643c8814a178eace9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fe850286f6feda07a1143d62ebebb4cc8.png",
-      "slug": "bloom-energy-is-joining-the-sp-500-is-the-stock-still-a-buy-after-its-massive-ru-38ddf773",
-      "orig_slug": "bloom-energy-is-joining-the-sp-500-is-the-stock-still-a-buy-after-its-massive-ru-38ddf773"
+      "pubDate": "2026-09-08T15:05:03Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/db5f4a6309c811703e1c4bc927322f666208ee4b99d08436a7981080ea404598/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F0b2c0c0bd5924b3c135a615d5363f2dc",
+      "slug": "could-apple-face-a-17-billion-child-safety-settlement-like-meta-2db5cfa3",
+      "orig_slug": "could-apple-face-a-17-billion-child-safety-settlement-like-meta-2db5cfa3"
     }
   ]
 }
