@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-15T08:08:23Z",
+  "updated": "2026-09-15T13:58:35Z",
   "items": [
     {
       "title": "Another coffeehouse files for Chapter 11 as costs, prices rise",
       "link": "https://finance.yahoo.com/small-business/articles/another-coffeehouse-files-chapter-11-033545256.html",
       "source": "finance.yahoo.com",
       "pubDate": "2026-09-14T03:35:45Z",
-      "image": "",
+      "image": "https://s.yimg.com/lo/mysterio/api/001334f690215faff681e02414ff418708256f2965deb5053d62c4a469674d18/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2Ff82162103f1de48f9b003aea29780861.jpg",
       "slug": "another-coffeehouse-files-for-chapter-11-as-costs-prices-rise-c18d5de2",
       "orig_slug": "another-coffeehouse-files-for-chapter-11-as-costs-prices-rise-c18d5de2"
     },
@@ -20,310 +20,292 @@
       "orig_slug": "costco-rations-kirkland-motor-oil-raises-price-to-5799-fd0feba3"
     },
     {
-      "title": "AI agents to start spending your money with Visa, Mastercard",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ai-agents-start-spending-money-010300686.html",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq edge lower after 10-year Treasury yield rises",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-15-dow-sp-500-nasdaq-081307838.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-09-14T01:03:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/6455a1f7a9520bbe97048fb7c2b4924ed053f98b285d2374bab2749ac3cc3a11/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F078e85fde42c2b9d64c37259b70cb4c1.jpg",
-      "slug": "ai-agents-to-start-spending-your-money-with-visa-mastercard-99ae7943",
-      "orig_slug": "ai-agents-to-start-spending-your-money-with-visa-mastercard-99ae7943"
+      "pubDate": "2026-09-15T08:13:07Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/955518d0e30315d1bf3848f9aad9e8c1db0311905f4121d7e1c2506aaf34edf3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F8f9fca36-b5fe-42ce-8e4b-e11ff00eac2e",
+      "slug": "stock-market-today-dow-sp-500-nasdaq-edge-lower-after-10-year-treasury-yield-ris-97286c31",
+      "orig_slug": "stock-market-today-dow-sp-500-nasdaq-edge-lower-after-10-year-treasury-yield-ris-97286c31"
+    },
+    {
+      "title": "Tech stocks today: AI warnings send shock through chip stocks",
+      "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-ai-warnings-send-shock-through-chip-stocks-140134624.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-14T14:01:34Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/9f7528cbcf62754b8d8a06cdc9179d66466ac835c2a6129b78e56113dbfc0bea/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F47fa56e0-01ab-11f1-abbe-b5f31857e293_aac9ab912113e76a96e88af989f3f682722b6bc4742d1b7823c46056250bdfeb.jpg",
+      "slug": "tech-stocks-today-ai-warnings-send-shock-through-chip-stocks-ebc0de3c",
+      "orig_slug": "tech-stocks-today-ai-warnings-send-shock-through-chip-stocks-ebc0de3c"
+    },
+    {
+      "title": "Hong Kong Crypto Exchange CoinEx To Shutdown",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/hong-kong-crypto-exchange-coinex-132900721.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-15T13:29:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/47ad02cef3b90a8872885e6d92b84eada77bf6faa76bc85601d7533904f52118/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2Fdccbfef2a1426a0500803b5d58bc2b40.jpg",
+      "slug": "hong-kong-crypto-exchange-coinex-to-shutdown-a7476691",
+      "orig_slug": "hong-kong-crypto-exchange-coinex-to-shutdown-a7476691"
+    },
+    {
+      "title": "Robinhood To Offer Share Redemptions And Voting Rights On Tokenized Stocks",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/robinhood-offer-share-redemptions-voting-132500081.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-15T13:25:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/23406b82a58b18283145d530bdf4270fc51f984b5318d0664c64fa351862d826/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F1aa94ad6d666160e48ae6a8985588adb.jpg",
+      "slug": "robinhood-to-offer-share-redemptions-and-voting-rights-on-tokenized-stocks-8f972a60",
+      "orig_slug": "robinhood-to-offer-share-redemptions-and-voting-rights-on-tokenized-stocks-8f972a60"
     },
     {
       "title": "38-year-old beloved steakhouse chain closing over 40 locations",
       "link": "https://finance.yahoo.com/small-business/articles/38-old-beloved-steakhouse-chain-020300119.html",
       "source": "finance.yahoo.com",
       "pubDate": "2026-09-14T02:03:00Z",
-      "image": "",
+      "image": "https://s.yimg.com/lo/mysterio/api/f4a79d507eeb87dc9c866ddbd2d97799168db588b1127226d97dd7beba14285a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2Fb082a6cbb825575e81e1fade2119324b.jpg",
       "slug": "38-year-old-beloved-steakhouse-chain-closing-over-40-locations-dc0701bb",
       "orig_slug": "38-year-old-beloved-steakhouse-chain-closing-over-40-locations-dc0701bb"
     },
     {
-      "title": "Further Oil Price Spikes Could Rekindle Recession Fears",
-      "link": "https://finance.yahoo.com/economy/policy/articles/further-oil-price-spikes-could-210000970.html",
+      "title": "Oil prices edge higher as attacks, pipeline outage deepen Saudi supply concerns",
+      "link": "https://finance.yahoo.com/news/oil-prices-rise-saudi-pipeline-003617502.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-09-13T21:00:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/e7f14333b5c8bd78b7fea65b491f658f51cd857ff13eff14d4c1b76228341b1d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Foilprice.com%2F4d9980e47dfb6f7b3add2920b1327802.jpg",
-      "slug": "further-oil-price-spikes-could-rekindle-recession-fears-32c73ea0",
-      "orig_slug": "further-oil-price-spikes-could-rekindle-recession-fears-32c73ea0"
+      "pubDate": "2026-09-15T13:15:53Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/a99f63945e4821341901e2d5efa7646702f13f7bedb0f399e6f1d6419e4de649/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F3a3bc4209cda23bbcac996cc0c3abce8.jpg",
+      "slug": "oil-prices-edge-higher-as-attacks-pipeline-outage-deepen-saudi-supply-concerns-631c4df4",
+      "orig_slug": "oil-prices-edge-higher-as-attacks-pipeline-outage-deepen-saudi-supply-concerns-631c4df4"
     },
     {
-      "title": "Oil Is $100, The 10-Year Is Near 5%. Why Doesn’t The Stock Market Care?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/oil-100-10-near-5-203326495.html",
+      "title": "Here’s Why Sotera Health Company (SHC) Surges 25% in Q2",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-sotera-health-company-shc-131345471.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-09-13T20:33:26Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/cad27bf0340c8adef2934e8230423757ee1499fa3476297ad207c63a041f0cae/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F2c3069e9d365f6cbcc243ac6780a4213.jpg",
-      "slug": "oil-is-100-the-10-year-is-near-5-why-doesnt-the-stock-market-care-74e365b5",
-      "orig_slug": "oil-is-100-the-10-year-is-near-5-why-doesnt-the-stock-market-care-74e365b5"
+      "pubDate": "2026-09-15T13:13:45Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/804731e0d14f5c2165262e66774b8c228be15ef62132be5af84af9cb459863e3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fd1b5f78b8574cfb2bfeecffb49811ce2.jpg",
+      "slug": "heres-why-sotera-health-company-shc-surges-25-in-q2-40aa6fe1",
+      "orig_slug": "heres-why-sotera-health-company-shc-surges-25-in-q2-40aa6fe1"
     },
     {
-      "title": "StanChart Warns Oil Is Now Built for Sharper, More Frequent Spikes",
-      "link": "https://finance.yahoo.com/energy/articles/stanchart-warns-oil-now-built-230000074.html",
+      "title": "Ballooning US debt is a ticking time bomb, billionaire investor David Rubenstein says",
+      "link": "https://finance.yahoo.com/markets/article/ballooning-us-debt-is-a-ticking-time-bomb-billionaire-investor-david-rubenstein-says-130757123.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-09-13T23:00:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/de29010a81995e0674d303dd48c99de7c2800bc42cb9bfa05ea4e0f0d64944b4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Foilprice.com%2Fc676337f27d80e12a3847c69e320a712.jpg",
-      "slug": "stanchart-warns-oil-is-now-built-for-sharper-more-frequent-spikes-0583d96e",
-      "orig_slug": "stanchart-warns-oil-is-now-built-for-sharper-more-frequent-spikes-0583d96e"
+      "pubDate": "2026-09-15T13:07:57Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/092ff14ce0a65cb85db24c7323636d27282aeae59cf61a86879364f375e832d8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2Fc937840a-cf2f-41b8-8dba-cee3b0d434c3",
+      "slug": "ballooning-us-debt-is-a-ticking-time-bomb-billionaire-investor-david-rubenstein--ce6f81a9",
+      "orig_slug": "ballooning-us-debt-is-a-ticking-time-bomb-billionaire-investor-david-rubenstein--ce6f81a9"
     },
     {
-      "title": "I bond vs. high-yield savings account: Which is better for beating inflation?",
-      "link": "https://finance.yahoo.com/personal-finance/banking/comparison/i-bond-vs-savings-account-185055035.html",
+      "title": "Vishay Precision (VPG) Became a Winner From Industrial Recovery and the Humanoid Robotics Boom",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/vishay-precision-vpg-became-winner-130351712.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2024-04-19T18:50:55Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/ca3146ae09b167ce998f6c98b3691a0f92d9d296510164d0078bfef5e5f4ed80/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2022-04%2Fa3fde970-c62c-11ec-b7dd-99d9755fb8b5",
-      "slug": "i-bond-vs-high-yield-savings-account-which-is-better-for-beating-inflation-2e0c6223",
-      "orig_slug": "i-bond-vs-high-yield-savings-account-which-is-better-for-beating-inflation-2e0c6223"
+      "pubDate": "2026-09-15T13:03:51Z",
+      "image": "",
+      "slug": "vishay-precision-vpg-became-a-winner-from-industrial-recovery-and-the-humanoid-r-c2944b61",
+      "orig_slug": "vishay-precision-vpg-became-a-winner-from-industrial-recovery-and-the-humanoid-r-c2944b61"
     },
     {
       "title": "National specialty clothing chain closing all its stores",
       "link": "https://finance.yahoo.com/small-business/articles/national-specialty-clothing-chain-closing-140700669.html",
       "source": "finance.yahoo.com",
       "pubDate": "2026-09-14T14:07:00Z",
-      "image": "",
+      "image": "https://s.yimg.com/lo/mysterio/api/d7be62c4f4b02193d06aafd93eb54f8af62d347a993df34c3d42492dbe72797d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F6e12c070b71c8e82a761f2a53cf75bc7.jpg",
       "slug": "national-specialty-clothing-chain-closing-all-its-stores-febc8a74",
       "orig_slug": "national-specialty-clothing-chain-closing-all-its-stores-febc8a74"
     },
     {
-      "title": "Trump Urges Federal Reserve To Cut Rates As Market Bets On Warsh Hike",
-      "link": "https://www.investors.com/news/trump-urges-federal-reserve-to-cut-rates-market-bets-warsh-hike/?src=A00220&yptr=yahoo",
+      "title": "Universal Display (OLED): Is the AI Infrastructure Boom Becoming a Hidden Risk for Display Suppliers?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/universal-display-oled-ai-infrastructure-125924977.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-09-13T23:34:11Z",
-      "image": "https://www.investors.com/wp-content/uploads/2025/11/Stock-Trump-ChinOut-shut.jpg",
-      "slug": "trump-urges-federal-reserve-to-cut-rates-as-market-bets-on-warsh-hike-62acdea7",
-      "orig_slug": "trump-urges-federal-reserve-to-cut-rates-as-market-bets-on-warsh-hike-62acdea7"
+      "pubDate": "2026-09-15T12:59:24Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/2c8fd1fdc2702147c902fecacd0e5b22388c1830cd3414ec4b051d9b757c2c20/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fcfbe0606f92db860469e80668fe02cf5.jpg",
+      "slug": "universal-display-oled-is-the-ai-infrastructure-boom-becoming-a-hidden-risk-for--0c500328",
+      "orig_slug": "universal-display-oled-is-the-ai-infrastructure-boom-becoming-a-hidden-risk-for--0c500328"
     },
     {
-      "title": "An $80 Billion Treasury Shift Could Be a Warning for U.S. Bonds",
-      "link": "https://finance.yahoo.com/markets/articles/80-billion-treasury-shift-could-020002705.html",
+      "title": "How AI Infrastructure and Component Costs Threaten Logitech’s (LOGI) Outlook",
+      "link": "https://finance.yahoo.com/technology/articles/ai-infrastructure-component-costs-threaten-125222803.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-09-14T02:00:02Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/da69f8e122adceb89bd9ddbdfadef6661ca4247d601308ad1b0cded8b86d12b8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F7dc7a7929f3f18ac69c489e6c1fedacb.jpg",
-      "slug": "an-80-billion-treasury-shift-could-be-a-warning-for-us-bonds-fbbff06b",
-      "orig_slug": "an-80-billion-treasury-shift-could-be-a-warning-for-us-bonds-fbbff06b"
-    },
-    {
-      "title": "Saudi pipeline outage threatens loss of 4% of global oil supply",
-      "link": "https://finance.yahoo.com/news/saudi-pipeline-outage-threatens-loss-120350892.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-14T02:25:17Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/d57b0811d50b9338f42ebcdc35a9ef3c43ef79ab756c332005073b4800acb43e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F45e15049a490e57baa999181d92059df.jpg",
-      "slug": "saudi-pipeline-outage-threatens-loss-of-4-of-global-oil-supply-1a709a31",
-      "orig_slug": "saudi-pipeline-outage-threatens-loss-of-4-of-global-oil-supply-1a709a31"
-    },
-    {
-      "title": "US Physical Therapy (USPH) Taps A Global Finance Veteran As CFO",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-physical-therapy-usph-taps-023155472.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-14T02:31:55Z",
+      "pubDate": "2026-09-15T12:52:22Z",
       "image": "",
-      "slug": "us-physical-therapy-usph-taps-a-global-finance-veteran-as-cfo-8a80991d",
-      "orig_slug": "us-physical-therapy-usph-taps-a-global-finance-veteran-as-cfo-8a80991d"
+      "slug": "how-ai-infrastructure-and-component-costs-threaten-logitechs-logi-outlook-9499aa59",
+      "orig_slug": "how-ai-infrastructure-and-component-costs-threaten-logitechs-logi-outlook-9499aa59"
     },
     {
-      "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/larry-ellison-cancels-7-5-204938699.html",
+      "title": "Stock Market Today: Dow Falls As Yields, Oil Prices Rise Ahead Of Fed Meeting; Nvidia Set To Rebound (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-oil-prices-nvidia-stock/?src=A00220&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-09-13T20:49:38Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/a19190475be511e3d7fe6e36d7553de6674ad3ce4fcb802691e69947ae67353c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftechcrunch_finance_785%2F617eeb28a70d4abe32ece86d4d129a41.jpg",
-      "slug": "larry-ellison-cancels-75-billion-sale-of-oracle-stock-fe51d1d5",
-      "orig_slug": "larry-ellison-cancels-75-billion-sale-of-oracle-stock-fe51d1d5"
+      "pubDate": "2026-09-15T12:52:18Z",
+      "image": "https://www.investors.com/wp-content/uploads/2024/12/Stock-wallstreet-flags-30-adobe.jpg",
+      "slug": "stock-market-today-dow-falls-as-yields-oil-prices-rise-ahead-of-fed-meeting-nvid-07300ba0",
+      "orig_slug": "stock-market-today-dow-falls-as-yields-oil-prices-rise-ahead-of-fed-meeting-nvid-07300ba0"
     },
     {
-      "title": "Marcus & Millichap (MMI) Swings Back To Profit As Deals Return",
-      "link": "https://finance.yahoo.com/real-estate/articles/marcus-millichap-mmi-swings-back-024026637.html",
+      "title": "AMD (AMD) Could Compound EPS at 65% Through 2030, Piper Says",
+      "link": "https://finance.yahoo.com/technology/ai/articles/amd-amd-could-compound-eps-125049495.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-09-14T02:40:26Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/8dfd0618a0a751fd4d04775060c7c3d2d73c09e1879e48245f65583cde75a659/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F40494fbd325467324a8eb721fbdc802e.jpg",
-      "slug": "marcus-millichap-mmi-swings-back-to-profit-as-deals-return-ab2bd6a8",
-      "orig_slug": "marcus-millichap-mmi-swings-back-to-profit-as-deals-return-ab2bd6a8"
+      "pubDate": "2026-09-15T12:50:49Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/cfeee35af994a168decc7ebd2b1df1f357ffd0a7a2560e5c4049b52373f83a7d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F02e35420b0d9d2b98f62899e9e468189.jpg",
+      "slug": "amd-amd-could-compound-eps-at-65-through-2030-piper-says-3d1b199a",
+      "orig_slug": "amd-amd-could-compound-eps-at-65-through-2030-piper-says-3d1b199a"
     },
     {
-      "title": "Odyssey Therapeutics (ODTX) Banks Two More Years As Trials Multiply",
-      "link": "https://finance.yahoo.com/healthcare/articles/odyssey-therapeutics-odtx-banks-two-024442312.html",
+      "title": "Cathie Wood Backs AI Slowdown but Calls Extinction Fears ‘Ridiculous:’ What Do Prediction Markets Say?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-backs-ai-slowdown-134131148.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-09-14T02:44:42Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/5e12db6d7f171dd5cf5ffa6917259265316b6f95dc255996f3a80e7e7c8a07c5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fd15130425b806b509938ee3278c36175.jpg",
-      "slug": "odyssey-therapeutics-odtx-banks-two-more-years-as-trials-multiply-ccd6d122",
-      "orig_slug": "odyssey-therapeutics-odtx-banks-two-more-years-as-trials-multiply-ccd6d122"
+      "pubDate": "2026-09-15T13:41:31Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/cc7a6980e972658249ba834c2070211e0fba6fcdcd710adc159c9201a0f0a689/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_prediction_markets_613%2F6a674843daa61c125c60aa727af22ba8.jpg",
+      "slug": "cathie-wood-backs-ai-slowdown-but-calls-extinction-fears-ridiculous-what-do-pred-6cc2ebd6",
+      "orig_slug": "cathie-wood-backs-ai-slowdown-but-calls-extinction-fears-ridiculous-what-do-pred-6cc2ebd6"
     },
     {
-      "title": "NCR Voyix (VYX) Posts A Shrinking Top Line And A Growing Pipeline",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ncr-voyix-vyx-posts-shrinking-025209629.html",
+      "title": "Can Rising Component Costs and Weak Consumer Spending Break Dolby Laboratories’ (DLB) Growth Outlook?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rising-component-costs-weak-consumer-125048665.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-09-14T02:52:09Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/67e7aa292bc6874c4d9800c0686bd0dd83087ae7821f1568dfaa95d44d10de5b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F0b82cc863a462e61f664075dd20f3b92.jpg",
-      "slug": "ncr-voyix-vyx-posts-a-shrinking-top-line-and-a-growing-pipeline-b1f39227",
-      "orig_slug": "ncr-voyix-vyx-posts-a-shrinking-top-line-and-a-growing-pipeline-b1f39227"
+      "pubDate": "2026-09-15T12:50:48Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/f5e2f6e1082003395e005ef4ee5cc909a94713ab111700fbfe77b24008902b07/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F6707814efdb1e7022aaad177773ac8e5.jpg",
+      "slug": "can-rising-component-costs-and-weak-consumer-spending-break-dolby-laboratories-d-e001ade4",
+      "orig_slug": "can-rising-component-costs-and-weak-consumer-spending-break-dolby-laboratories-d-e001ade4"
     },
     {
-      "title": "Cricut’s (CRCT) Newest Machine Cuts Deeper, Business Story Gets Complicated",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cricut-crct-newest-machine-cuts-025529348.html",
+      "title": "Cathie Wood Dumps $60 Million In Crypto Stock Ahead Of Clarity Act Vote",
+      "link": "https://www.investors.com/news/cathie-wood-ark-invest-crypto-stocks-coinbase-bullish-circle-bitcoin-etf-clarity-act-vote/?src=A00220&yptr=yahoo",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-09-14T02:55:29Z",
+      "pubDate": "2026-09-15T12:46:48Z",
+      "image": "https://www.investors.com/wp-content/uploads/2021/11/Stock-CathieWoods-company.jpg",
+      "slug": "cathie-wood-dumps-60-million-in-crypto-stock-ahead-of-clarity-act-vote-a526be6e",
+      "orig_slug": "cathie-wood-dumps-60-million-in-crypto-stock-ahead-of-clarity-act-vote-a526be6e"
+    },
+    {
+      "title": "Broadcom’s Real Constraint Isn’t Demand. It’s Supply.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-real-constraint-isn-t-122658190.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-15T12:26:58Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/ab7f73a25df482972328f57022d01ba88b9c67d9db1fdbbda2fdc2656147e3aa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F80f7f47c2fb133b7a2c9dfeb2238c23f.jpg",
+      "slug": "broadcoms-real-constraint-isnt-demand-its-supply-6340184f",
+      "orig_slug": "broadcoms-real-constraint-isnt-demand-its-supply-6340184f"
+    },
+    {
+      "title": "10-year Treasury yield hits highest level since 2007",
+      "link": "https://finance.yahoo.com/markets/article/10-year-treasury-yield-hits-highest-level-since-2007-121942773.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-15T12:19:42Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/519b1ea180e7987e3f8205a32550d617db282ba5ca01f5b4df8514a22595b25e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F3e32cb66-4bbf-4783-9a04-47622e861fbd",
+      "slug": "10-year-treasury-yield-hits-highest-level-since-2007-b1463aad",
+      "orig_slug": "10-year-treasury-yield-hits-highest-level-since-2007-b1463aad"
+    },
+    {
+      "title": "Tesla Takes Back America",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-takes-back-america-133956705.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-15T13:39:56Z",
       "image": "",
-      "slug": "cricuts-crct-newest-machine-cuts-deeper-business-story-gets-complicated-da825775",
-      "orig_slug": "cricuts-crct-newest-machine-cuts-deeper-business-story-gets-complicated-da825775"
+      "slug": "tesla-takes-back-america-04eeab6d",
+      "orig_slug": "tesla-takes-back-america-04eeab6d"
     },
     {
-      "title": "Forget Intel. Buy This Tech Stock in September Instead.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/forget-intel-buy-tech-stock-205000747.html",
+      "title": "Kiyosaki warns Americans about nightmare robbery ‘you didn’t know happened’ — and it’s draining your wallet monthly",
+      "link": "https://finance.yahoo.com/economy/articles/kiyosaki-warns-americans-nightmare-robbery-120500228.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-09-13T20:50:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/5d4db99ae5874a793447612ae9de0e3972bb68664c94e2ffb79df8e4910e002e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F7d6344c31f88a1358b4ae7b93f4d61df.png",
-      "slug": "forget-intel-buy-this-tech-stock-in-september-instead-0e04f3ca",
-      "orig_slug": "forget-intel-buy-this-tech-stock-in-september-instead-0e04f3ca"
+      "pubDate": "2026-09-15T12:05:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/be7847eae01b135bbcab1c94acc3ee7f1363b7ce13943b8dc6bf614ae6e1d85e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2F13407a7a64836cfeb78b792dccf1071d.png",
+      "slug": "kiyosaki-warns-americans-about-nightmare-robbery-you-didnt-know-happened-and-its-979e9887",
+      "orig_slug": "kiyosaki-warns-americans-about-nightmare-robbery-you-didnt-know-happened-and-its-979e9887"
     },
     {
-      "title": "Tennant’s (TNC) Orders Are Surging While Its Margins Keep Sliding",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tennant-tnc-orders-surging-while-030335688.html",
+      "title": "What is debt settlement? How it works and what it costs you.",
+      "link": "https://finance.yahoo.com/personal-finance/personal-loans/article/what-is-debt-settlement-185327526.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-09-14T03:03:35Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/83e79646cb2ab264f779d5fc4a53ade8c03a5060a7ae0a779bcfdd9c7b5a41e1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F5786f8c71c314f7987a27ae78a612d6d.jpg",
-      "slug": "tennants-tnc-orders-are-surging-while-its-margins-keep-sliding-81609216",
-      "orig_slug": "tennants-tnc-orders-are-surging-while-its-margins-keep-sliding-81609216"
+      "pubDate": "2026-05-22T18:53:27Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/21ffd138e16b8a408de21c057da34fd699173c7a42fa5a6d8caa600ee0806e7e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-05%2Fbf181079-1409-43c4-a1a6-406b0fff0920",
+      "slug": "what-is-debt-settlement-how-it-works-and-what-it-costs-you-64e73f0d",
+      "orig_slug": "what-is-debt-settlement-how-it-works-and-what-it-costs-you-64e73f0d"
     },
     {
-      "title": "OPKO Health (OPK) Cashes In A Future Royalty Stream Early",
-      "link": "https://finance.yahoo.com/healthcare/articles/opko-health-opk-cashes-future-030733147.html",
+      "title": "Bitcoin and ethereum prices today, Tuesday, September 15, 2026: Crypto prices sliding this morning ahead of Fed meeting",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-september-15-2026-crypto-prices-sliding-this-morning-ahead-of-fed-meeting-113732149.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-09-14T03:07:33Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/b3c4ca698e2661e3673be45b13e21fdf6f4ca666b6ad4854513d6864fe4223d7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fc4bafac732a9f73d62ca717cc2b82888.jpg",
-      "slug": "opko-health-opk-cashes-in-a-future-royalty-stream-early-e70d7aff",
-      "orig_slug": "opko-health-opk-cashes-in-a-future-royalty-stream-early-e70d7aff"
+      "pubDate": "2026-09-15T11:37:32Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/a17e080591b1ec8e35e235ab121c719ae8030cca3aaf6f8e6eaecb157afaa909/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fethereum_%2520_bitcoin_2_2928.jpg",
+      "slug": "bitcoin-and-ethereum-prices-today-tuesday-september-15-2026-crypto-prices-slidin-8ada7def",
+      "orig_slug": "bitcoin-and-ethereum-prices-today-tuesday-september-15-2026-crypto-prices-slidin-8ada7def"
     },
     {
-      "title": "Genco’s (GNK) Dividend Just Quadrupled, And More Is Coming",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/genco-gnk-dividend-just-quadrupled-031449170.html",
+      "title": "Silver prices today, Tuesday, September 15, 2026: Silver prices drop below $64 as Fed-decision day approaches",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-september-15-2026-silver-prices-drop-below-64-as-fed-decision-day-approaches-112326237.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-09-14T03:14:49Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/a3111a40358fccf24d6e5a182708ff42b46d93659e0ab3504bf977330e8a5e36/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F44b18991244fd142f63658835eed83f9.jpg",
-      "slug": "gencos-gnk-dividend-just-quadrupled-and-more-is-coming-344bc05b",
-      "orig_slug": "gencos-gnk-dividend-just-quadrupled-and-more-is-coming-344bc05b"
+      "pubDate": "2026-09-15T11:23:26Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/7b51cf18a92b8c4d57d4fa016ca070fa4668ac97034c7b6610322e69850c6815/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-01%2F0fb18420-fab2-11f0-abfd-75e516fff7d1",
+      "slug": "silver-prices-today-tuesday-september-15-2026-silver-prices-drop-below-64-as-fed-46fe649a",
+      "orig_slug": "silver-prices-today-tuesday-september-15-2026-silver-prices-drop-below-64-as-fed-46fe649a"
     },
     {
-      "title": "Prospect Capital’s (PSEC) Payout Shrinks Even As Its Deals Pay Off",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/prospect-capital-psec-payout-shrinks-031944120.html",
+      "title": "Dell Technologies Stock Hits a New All-Time High: Is It Too Late to Buy?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-stock-hits-time-133940809.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-09-14T03:19:44Z",
-      "image": "",
-      "slug": "prospect-capitals-psec-payout-shrinks-even-as-its-deals-pay-off-88a462c2",
-      "orig_slug": "prospect-capitals-psec-payout-shrinks-even-as-its-deals-pay-off-88a462c2"
+      "pubDate": "2026-09-15T13:39:40Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/7f497dc5550aefefa4b418a3183716da84177201cd5c3908522f0443192a741a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F222185354f95b6f1e59717762fafa920.jpg",
+      "slug": "dell-technologies-stock-hits-a-new-all-time-high-is-it-too-late-to-buy-97d15854",
+      "orig_slug": "dell-technologies-stock-hits-a-new-all-time-high-is-it-too-late-to-buy-97d15854"
     },
     {
-      "title": "If I Could Only Buy 1 Artificial Intelligence (AI) Stock, This Would Be It",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/could-only-buy-1-artificial-204600089.html",
+      "title": "Gold prices today, Tuesday, September 15, 2026: Gold sees lowest open in weeks as Treasury yields keep rising",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-september-15-2026-gold-sees-lowest-open-in-weeks-as-treasury-yields-keep-rising-111454530.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-09-13T20:46:00Z",
-      "image": "",
-      "slug": "if-i-could-only-buy-1-artificial-intelligence-ai-stock-this-would-be-it-8a7a73d5",
-      "orig_slug": "if-i-could-only-buy-1-artificial-intelligence-ai-stock-this-would-be-it-8a7a73d5"
+      "pubDate": "2026-09-15T11:14:54Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/d8535668fc821c8cbb0f94bbee34423f4e7910216511576dd61ad9681ca2a54f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Ftuesday.png",
+      "slug": "gold-prices-today-tuesday-september-15-2026-gold-sees-lowest-open-in-weeks-as-tr-50419fad",
+      "orig_slug": "gold-prices-today-tuesday-september-15-2026-gold-sees-lowest-open-in-weeks-as-tr-50419fad"
     },
     {
-      "title": "Wall Street Bets on Rate Hike From a Fed Hemmed In by Persistent Inflation",
-      "link": "https://finance.yahoo.com/economy/policy/articles/wall-street-bets-rate-hike-040100597.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-14T04:01:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/41850afa11ea07364d969792941304d5798090e8ae012584884dfd0da819fb75/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_daily_upside_435%2F1fb48e8d739c750afab92e4b1b268555.jpg",
-      "slug": "wall-street-bets-on-rate-hike-from-a-fed-hemmed-in-by-persistent-inflation-9043e9ec",
-      "orig_slug": "wall-street-bets-on-rate-hike-from-a-fed-hemmed-in-by-persistent-inflation-9043e9ec"
-    },
-    {
-      "title": "Franklin Templeton Converts Three Mutual Funds to ETFs",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/franklin-templeton-converts-three-mutual-040100608.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-14T04:01:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/9cc6899c7a92c440a14ad243c5a0337d6ebc6faa3ba6b63ff0caf7a15ab2a786/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_daily_upside_435%2Fdb053b11ba3203adaecfb3e6a96640ce.jpg",
-      "slug": "franklin-templeton-converts-three-mutual-funds-to-etfs-44d44f9b",
-      "orig_slug": "franklin-templeton-converts-three-mutual-funds-to-etfs-44d44f9b"
-    },
-    {
-      "title": "Rob Arnott’s Firm Has an Out-of-This-World New Name",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rob-arnott-firm-world-name-040200230.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-14T04:02:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/b556a1363973de577501a83e09166d90314b5975b1af6e0835c52652d63e886d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_daily_upside_435%2F7f65cf34d18c4700082fcf94045046f7.jpg",
-      "slug": "rob-arnotts-firm-has-an-out-of-this-world-new-name-e811ffb4",
-      "orig_slug": "rob-arnotts-firm-has-an-out-of-this-world-new-name-e811ffb4"
-    },
-    {
-      "title": "BlackRock, Vanguard, Fidelity Keep Gobbling Up Market Share",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/blackrock-vanguard-fidelity-keep-gobbling-040300974.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-14T04:03:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/5e3c84fa5e70697e3af796971b16e9da6f3a5fc265eabad8845a037b26dbba5c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_daily_upside_435%2F46dde831e4988ef9254d749fa753aa7d.jpg",
-      "slug": "blackrock-vanguard-fidelity-keep-gobbling-up-market-share-fc87ffff",
-      "orig_slug": "blackrock-vanguard-fidelity-keep-gobbling-up-market-share-fc87ffff"
-    },
-    {
-      "title": "VOOG vs. VONG: Which Powerhouse Vanguard ETF Is the Stronger Choice for Investors?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/voog-vs-vong-powerhouse-vanguard-205014404.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-13T20:50:14Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/e25e06930206a66f83ad12c2c723109a20fcfe39a11b2475412b287270d96049/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F057f0a4da36aed304d5126e836a6efed.png",
-      "slug": "voog-vs-vong-which-powerhouse-vanguard-etf-is-the-stronger-choice-for-investors-773e3ecf",
-      "orig_slug": "voog-vs-vong-which-powerhouse-vanguard-etf-is-the-stronger-choice-for-investors-773e3ecf"
-    },
-    {
-      "title": "Mortgage and refinance interest rates today, Sunday, September 13, 2026: Mortgage rates surged higher in the last week",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-september-13-2026-mortgage-rates-surged-higher-in-the-last-week-100000138.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-13T10:00:00Z",
-      "image": "",
-      "slug": "mortgage-and-refinance-interest-rates-today-sunday-september-13-2026-mortgage-ra-7174ae75",
-      "orig_slug": "mortgage-and-refinance-interest-rates-today-sunday-september-13-2026-mortgage-ra-7174ae75"
-    },
-    {
-      "title": "Best CD rates today, Sunday, September 13, 2026: Lock in up to 4.35% APY",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-september-13-2026-lock-in-up-to-435-apy-100000271.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-13T10:00:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/97d4c118b8f335cc53708a64e7ff824301efdff0a2fa480f145ff7a232404271/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-07%2Fc47b17e0-4f64-11ef-afb3-0ed5867646a0",
-      "slug": "best-cd-rates-today-sunday-september-13-2026-lock-in-up-to-435-apy-42acd827",
-      "orig_slug": "best-cd-rates-today-sunday-september-13-2026-lock-in-up-to-435-apy-42acd827"
-    },
-    {
-      "title": "Best CD rates today, Monday, September 14, 2026: Lock in up to 4.35% APY",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-september-14-2026-lock-in-up-to-435-apy-100000686.html",
+      "title": "HELOC and home equity loan rates today, Tuesday, September 15, 2026: Besides rates, how to choose between a HELOC or home equity loan",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-tuesday-september-15-2026-besides-rates-how-to-choose-between-a-heloc-or-home-equity-loan-100000523.html",
       "source": "finance.yahoo.com",
       "pubDate": "2026-09-14T10:00:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/1740eea6edd90f3627bffeffb9f9f0b81e14ca94b34fe7acca06ebb928a8ecab/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-07%2Fc47b17e1-4f64-11ef-bcf5-d7c22925c744",
-      "slug": "best-cd-rates-today-monday-september-14-2026-lock-in-up-to-435-apy-8c7ad3a4",
-      "orig_slug": "best-cd-rates-today-monday-september-14-2026-lock-in-up-to-435-apy-8c7ad3a4"
+      "image": "https://s.yimg.com/lo/mysterio/api/5ae069cf558157bb45d718767e21995caef73e3efd9b226a984db177d580e2e5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fc4b61900-3fee-11f0-b7db-9b92c1c08f42_8172.png",
+      "slug": "heloc-and-home-equity-loan-rates-today-tuesday-september-15-2026-besides-rates-h-c1582769",
+      "orig_slug": "heloc-and-home-equity-loan-rates-today-tuesday-september-15-2026-besides-rates-h-c1582769"
     },
     {
-      "title": "HELOC and home equity loan rates today, Monday, September 14, 2026: A 33-basis-point differential",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-september-14-2026-a-33-basis-point-differential-100000523.html",
+      "title": "Best CD rates today, Tuesday, September 15, 2026: Lock in up to 4.40% APY",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-september-15-2026-lock-in-up-to-440-apy-100000502.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-15T10:00:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/8a4e44a5814f40d22294154b302a8c29e47248a35e1add0921a29b4fd694ab03/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-07%2Fc47b17e0-4f64-11ef-bfe0-fc9ef2fc2991",
+      "slug": "best-cd-rates-today-tuesday-september-15-2026-lock-in-up-to-440-apy-a643de20",
+      "orig_slug": "best-cd-rates-today-tuesday-september-15-2026-lock-in-up-to-440-apy-a643de20"
+    },
+    {
+      "title": "Best high-yield savings interest rates today, Tuesday, September 15, 2026: Earn up to 4.10% APY",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-tuesday-september-15-2026-earn-up-to-410-apy-100000167.html",
       "source": "finance.yahoo.com",
       "pubDate": "2026-09-14T10:00:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/e8ebf63b9090b0a60fff385146362958b90e42b06e115c687a4d965453471c05/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F006c3000-3feb-11f0-b84f-0d1aa528bfe7-1_0944.png",
-      "slug": "heloc-and-home-equity-loan-rates-today-monday-september-14-2026-a-33-basis-point-b423cff3",
-      "orig_slug": "heloc-and-home-equity-loan-rates-today-monday-september-14-2026-a-33-basis-point-b423cff3"
+      "image": "https://s.yimg.com/lo/mysterio/api/474d72dad51d783babe9ce12b60e89a35e65a8f26714cce0c6761dcf5c45eb81/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F3_8699.png",
+      "slug": "best-high-yield-savings-interest-rates-today-tuesday-september-15-2026-earn-up-t-99037d8a",
+      "orig_slug": "best-high-yield-savings-interest-rates-today-tuesday-september-15-2026-earn-up-t-99037d8a"
     },
     {
-      "title": "How to Build a $1,000-a-Month Paycheck From Weekly Income ETFs. Here’s the Exact Mix and What It Costs",
-      "link": "https://finance.yahoo.com/markets/options/articles/build-1-000-month-paycheck-204125908.html",
+      "title": "Cathie Wood backs AI slowdown pledge, dismisses extinction warnings",
+      "link": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-backs-ai-slowdown-133628587.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-09-13T20:41:25Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/3cad4d01d19d14a91e4bf48f67efe0877bfa7aa537ca67ea04dd0bdea2d19e98/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F23e9f30be29eebbe1dd8bfed43849006.jpg",
-      "slug": "how-to-build-a-1000-a-month-paycheck-from-weekly-income-etfs-heres-the-exact-mix-04294dd2",
-      "orig_slug": "how-to-build-a-1000-a-month-paycheck-from-weekly-income-etfs-heres-the-exact-mix-04294dd2"
+      "pubDate": "2026-09-15T13:36:28Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/436cadfe1a2f7388d5e2a725bc9e2e7519e2efa70be306acba28f54d6dd22faf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2F72d1d2d690b93034bc077861734dfc96.jpg",
+      "slug": "cathie-wood-backs-ai-slowdown-pledge-dismisses-extinction-warnings-61f769e3",
+      "orig_slug": "cathie-wood-backs-ai-slowdown-pledge-dismisses-extinction-warnings-61f769e3"
     },
     {
-      "title": "Mortgage and refinance interest rates today, Monday, September 14, 2026: Purchase and refinance rates are mixed",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-monday-september-14-2026-purchase-and-refinance-rates-are-mixed-100000816.html",
+      "title": "Mortgage and refinance interest rates today, Tuesday, September 15, 2026: Rates cross the 7% threshold",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-tuesday-september-15-2026-rates-cross-the-7-threshold-100000413.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-09-14T10:00:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/5f721cb6fc6b5861edc74eba1b3a578262e57c13d96a1d4d00acd988ec6d5541/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fdmr-monday_5424.png",
-      "slug": "mortgage-and-refinance-interest-rates-today-monday-september-14-2026-purchase-an-348b8508",
-      "orig_slug": "mortgage-and-refinance-interest-rates-today-monday-september-14-2026-purchase-an-348b8508"
-    },
-    {
-      "title": "Best high-yield savings interest rates today, Monday, September 14, 2026: Earn up to 4.10% APY",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-september-14-2026-earn-up-to-410-apy-100000167.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-14T10:00:00Z",
+      "pubDate": "2026-09-15T10:00:00Z",
       "image": "",
-      "slug": "best-high-yield-savings-interest-rates-today-monday-september-14-2026-earn-up-to-d438ef91",
-      "orig_slug": "best-high-yield-savings-interest-rates-today-monday-september-14-2026-earn-up-to-d438ef91"
+      "slug": "mortgage-and-refinance-interest-rates-today-tuesday-september-15-2026-rates-cros-6b9446df",
+      "orig_slug": "mortgage-and-refinance-interest-rates-today-tuesday-september-15-2026-rates-cros-6b9446df"
+    },
+    {
+      "title": "Silver prices today, Monday, September 14, 2026: Silver slides as rate-hike expectations grow",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-september-14-2026-silver-slides-as-rate-hike-expectations-grow-112941547.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-14T11:29:41Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/7de013c5022c5e455ef18a47931f3442a211fb61725d723ab108970398fe979f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-04%2F21b3a190-027e-11ef-bbb5-a0f6297c401d",
+      "slug": "silver-prices-today-monday-september-14-2026-silver-slides-as-rate-hike-expectat-e63a63eb",
+      "orig_slug": "silver-prices-today-monday-september-14-2026-silver-slides-as-rate-hike-expectat-e63a63eb"
     },
     {
       "title": "Gold prices today, Monday, September 14, 2026: Gold sinks following new attacks on Saudi pipeline and more",
@@ -335,24 +317,6 @@
       "orig_slug": "gold-prices-today-monday-september-14-2026-gold-sinks-following-new-attacks-on-s-f8d176c2"
     },
     {
-      "title": "Silver prices today, Monday, September 14, 2026: Silver slides as rate-hike expectations grow",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-september-14-2026-silver-slides-as-rate-hike-expectations-grow-112941547.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-14T11:29:41Z",
-      "image": "",
-      "slug": "silver-prices-today-monday-september-14-2026-silver-slides-as-rate-hike-expectat-e63a63eb",
-      "orig_slug": "silver-prices-today-monday-september-14-2026-silver-slides-as-rate-hike-expectat-e63a63eb"
-    },
-    {
-      "title": "Nvidia Gets the AI Hype. Dell Gets the Billionaire Fortune",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-gets-ai-hype-dell-210000017.html",
-      "source": "finance.yahoo.com",
-      "pubDate": "2026-09-13T21:00:00Z",
-      "image": "",
-      "slug": "nvidia-gets-the-ai-hype-dell-gets-the-billionaire-fortune-b78f52e9",
-      "orig_slug": "nvidia-gets-the-ai-hype-dell-gets-the-billionaire-fortune-b78f52e9"
-    },
-    {
       "title": "Bitcoin and ethereum prices today, Monday, September 14, 2026: Crypto prices trying to hold as rate-hike expectations grow",
       "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-september-14-2026-crypto-prices-trying-to-hold-as-rate-hike-expectations-grow-114245430.html",
       "source": "finance.yahoo.com",
@@ -362,13 +326,31 @@
       "orig_slug": "bitcoin-and-ethereum-prices-today-monday-september-14-2026-crypto-prices-trying--3624c23d"
     },
     {
-      "title": "Chase Home Lendings' mortgage rate sale returns for a 3-week run",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/chase-home-lendings-mortgage-rate-sale-returns-for-a-3-week-run-130100448.html",
+      "title": "Ulta Beauty, Etsy upgraded: Wall Street's top analyst calls",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/qorvo-downgraded-ulta-beauty-upgraded-133354484.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-09-14T13:01:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/2258281aa54dd12bf5467946cf493482877c299ada5b1e7774e4302ce51f87a8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F19515150-35ad-11f1-b873-2a5ac8c6f437_a8be77420868b2eca753220b941570c0e43fcbfe96ece15c43bb1b27d55090dd.jpg",
-      "slug": "chase-home-lendings-mortgage-rate-sale-returns-for-a-3-week-run-66811659",
-      "orig_slug": "chase-home-lendings-mortgage-rate-sale-returns-for-a-3-week-run-66811659"
+      "pubDate": "2026-09-15T13:35:39Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/b3d0e19c8cda8f6e7aaebe00430b6b7a799ba4f762e5a8125e651a177661859d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_fly_169%2F5039a5ccc6ec98e1b92bc672330bfcec.jpg",
+      "slug": "ulta-beauty-etsy-upgraded-wall-streets-top-analyst-calls-ee870218",
+      "orig_slug": "ulta-beauty-etsy-upgraded-wall-streets-top-analyst-calls-ee870218"
+    },
+    {
+      "title": "Best CD rates today, Monday, September 14, 2026: Lock in up to 4.35% APY",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-september-14-2026-lock-in-up-to-435-apy-100000686.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-14T10:00:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/1740eea6edd90f3627bffeffb9f9f0b81e14ca94b34fe7acca06ebb928a8ecab/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-07%2Fc47b17e1-4f64-11ef-bcf5-d7c22925c744",
+      "slug": "best-cd-rates-today-monday-september-14-2026-lock-in-up-to-435-apy-8c7ad3a4",
+      "orig_slug": "best-cd-rates-today-monday-september-14-2026-lock-in-up-to-435-apy-8c7ad3a4"
+    },
+    {
+      "title": "Mortgage and refinance interest rates today, Monday, September 14, 2026: Purchase and refinance rates are mixed",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-monday-september-14-2026-purchase-and-refinance-rates-are-mixed-100000816.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-14T10:00:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/5f721cb6fc6b5861edc74eba1b3a578262e57c13d96a1d4d00acd988ec6d5541/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fdmr-monday_5424.png",
+      "slug": "mortgage-and-refinance-interest-rates-today-monday-september-14-2026-purchase-an-348b8508",
+      "orig_slug": "mortgage-and-refinance-interest-rates-today-monday-september-14-2026-purchase-an-348b8508"
     },
     {
       "title": "When is the Fed's next meeting? See the full schedule for 2026.",
@@ -384,18 +366,27 @@
       "link": "https://finance.yahoo.com/personal-finance/investing/article/how-gold-iras-fit-into-a-diversified-retirement-portfolio-162815731.html",
       "source": "finance.yahoo.com",
       "pubDate": "2026-09-14T16:28:15Z",
-      "image": "",
+      "image": "https://s.yimg.com/lo/mysterio/api/8c583567e31cf4623b1e500e342482e2f315e8111e109de5cbd4b780bd3ac965/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-02%2Fd570b360-7764-11eb-bff7-08b443aafff3",
       "slug": "how-gold-iras-fit-into-a-diversified-retirement-portfolio-e1eb7aa1",
       "orig_slug": "how-gold-iras-fit-into-a-diversified-retirement-portfolio-e1eb7aa1"
     },
     {
-      "title": "Ulta Beauty Sees Resilient Demand, Eyes Fragrance, Wellness Growth After Target Exit",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ulta-beauty-sees-resilient-demand-210157617.html",
+      "title": "Anthropic, OpenAI, and xAI Want to Slow Down Artificial Intelligence (AI) Development. These 2 Stocks Could Be the Biggest Losers.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-openai-xai-want-slow-133500297.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-09-13T21:01:57Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/8d45f0e649617be1fc56a25f81f57d5a2232d6132d420150ed6c613e02ee3960/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmarketbeat_955%2Feea3c09db37b5c5cb2f94a5e2750bb56.jpg",
-      "slug": "ulta-beauty-sees-resilient-demand-eyes-fragrance-wellness-growth-after-target-ex-42fde2f8",
-      "orig_slug": "ulta-beauty-sees-resilient-demand-eyes-fragrance-wellness-growth-after-target-ex-42fde2f8"
+      "pubDate": "2026-09-15T13:35:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/6b137ddf849c5c523df55b10bee1e4bb534a8c97ccbb6a8d34adacf298f1aeb2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F3ef4e2ea1ecf0779f04e0eaf229470f0.jpg",
+      "slug": "anthropic-openai-and-xai-want-to-slow-down-artificial-intelligence-ai-developmen-7c33db67",
+      "orig_slug": "anthropic-openai-and-xai-want-to-slow-down-artificial-intelligence-ai-developmen-7c33db67"
+    },
+    {
+      "title": "Chase Home Lendings' mortgage rate sale returns for a 3-week run",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/chase-home-lendings-mortgage-rate-sale-returns-for-a-3-week-run-130100448.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-14T13:01:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/2258281aa54dd12bf5467946cf493482877c299ada5b1e7774e4302ce51f87a8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F19515150-35ad-11f1-b873-2a5ac8c6f437_a8be77420868b2eca753220b941570c0e43fcbfe96ece15c43bb1b27d55090dd.jpg",
+      "slug": "chase-home-lendings-mortgage-rate-sale-returns-for-a-3-week-run-66811659",
+      "orig_slug": "chase-home-lendings-mortgage-rate-sale-returns-for-a-3-week-run-66811659"
     },
     {
       "title": "Debt settlement vs. bankruptcy: How to choose",
@@ -425,6 +416,15 @@
       "orig_slug": "should-you-open-a-cd-account-before-the-feds-next-meeting-56205ec0"
     },
     {
+      "title": "How a Costco partner's bankruptcy could benefit its biggest rival",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/costco-partners-bankruptcy-could-benefit-133300901.html",
+      "source": "finance.yahoo.com",
+      "pubDate": "2026-09-15T13:33:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/bc96a2fbd34627c8aaf3b8ea205e236b759bf4577d8285828336ccb00b63d73c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2Faace976b2a13fb43e041b67d14219cd6.jpg",
+      "slug": "how-a-costco-partners-bankruptcy-could-benefit-its-biggest-rival-d46189a1",
+      "orig_slug": "how-a-costco-partners-bankruptcy-could-benefit-its-biggest-rival-d46189a1"
+    },
+    {
       "title": "How a Fed rate hike would affect your bank accounts, loans, credit cards, and investments",
       "link": "https://finance.yahoo.com/personal-finance/banking/article/how-a-fed-rate-hike-would-affect-your-bank-accounts-loans-credit-cards-and-investments-220526102.html",
       "source": "finance.yahoo.com",
@@ -434,22 +434,22 @@
       "orig_slug": "how-a-fed-rate-hike-would-affect-your-bank-accounts-loans-credit-cards-and-inves-7b263206"
     },
     {
-      "title": "Want a $1 Million Investment Portfolio? This 1 ETF Could Be Your Ticket",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/want-1-million-investment-portfolio-203600061.html",
+      "title": "I bond vs. high-yield savings account: Which is better for beating inflation?",
+      "link": "https://finance.yahoo.com/personal-finance/banking/comparison/i-bond-vs-savings-account-185055035.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-09-13T20:36:00Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/ad213f0ce0bf635c60d6f340e5ebbc56c20444a2fa570154fd0e810b8deec07f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F4d322fbe8b43538a2a702628f17ec26d.jpg",
-      "slug": "want-a-1-million-investment-portfolio-this-1-etf-could-be-your-ticket-38909c5e",
-      "orig_slug": "want-a-1-million-investment-portfolio-this-1-etf-could-be-your-ticket-38909c5e"
+      "pubDate": "2024-04-19T18:50:55Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/ca3146ae09b167ce998f6c98b3691a0f92d9d296510164d0078bfef5e5f4ed80/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2022-04%2Fa3fde970-c62c-11ec-b7dd-99d9755fb8b5",
+      "slug": "i-bond-vs-high-yield-savings-account-which-is-better-for-beating-inflation-2e0c6223",
+      "orig_slug": "i-bond-vs-high-yield-savings-account-which-is-better-for-beating-inflation-2e0c6223"
     },
     {
-      "title": "Cathie Wood Sees an Economic Boom Wall Street Isn’t Pricing In",
-      "link": "https://finance.yahoo.com/economy/articles/cathie-wood-sees-economic-boom-211005109.html",
+      "title": "Mortgage and refinance interest rates today, Sunday, September 13, 2026: Mortgage rates surged higher in the last week",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-september-13-2026-mortgage-rates-surged-higher-in-the-last-week-100000138.html",
       "source": "finance.yahoo.com",
-      "pubDate": "2026-09-13T21:10:05Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/abe134c174c9818278c0cf28088ab5132c1f86f045ad6991919d2d67d722c1ae/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fa43db50c7d95de3bcafa417924830a40.jpg",
-      "slug": "cathie-wood-sees-an-economic-boom-wall-street-isnt-pricing-in-70302163",
-      "orig_slug": "cathie-wood-sees-an-economic-boom-wall-street-isnt-pricing-in-70302163"
+      "pubDate": "2026-09-13T10:00:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/77d93c595caa7ad919d75828373ac5d321a7501ac8cef46bff2e1fd2a323b754/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fdmr-sunday_8444.png",
+      "slug": "mortgage-and-refinance-interest-rates-today-sunday-september-13-2026-mortgage-ra-7174ae75",
+      "orig_slug": "mortgage-and-refinance-interest-rates-today-sunday-september-13-2026-mortgage-ra-7174ae75"
     }
   ]
 }
